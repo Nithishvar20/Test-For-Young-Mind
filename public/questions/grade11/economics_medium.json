@@ -1,0 +1,267 @@
+[
+  {
+    "question_en": "Indifference curve analysis was introduced by?",
+    "question_ta": "அபேட்சை வளைவு பகுப்பாய்வை அறிமுகப்படுத்தியவர் யார்?",
+    "options_en": ["Marshall", "Hicks and Allen", "Ricardo", "Adam Smith"],
+    "options_ta": ["மார்ஷல்", "ஹிக்ஸ் மற்றும் ஆலன்", "ரிக்கார்டோ", "ஆடம் ஸ்மித்"],
+    "answer_en": "Hicks and Allen",
+    "answer_ta": "ஹிக்ஸ் மற்றும் ஆலன்"
+  },
+  {
+    "question_en": "Marginal utility becomes zero when?",
+    "question_ta": "அலுவலக பயன்பாடு (marginal utility) பூஜ்ஜியமாக மாறும் போது?",
+    "options_en": ["Total utility is decreasing", "Total utility is maximum", "Total utility is zero", "Price is zero"],
+    "options_ta": ["மொத்த பயன்பாடு குறையும்போது", "மொத்த பயன்பாடு அதிகபட்சமாக இருக்கும்போது", "மொத்த பயன்பாடு பூஜ்ஜியம் ஆகும் போது", "விலை பூஜ்ஜியம் ஆகும் போது"],
+    "answer_en": "Total utility is maximum",
+    "answer_ta": "மொத்த பயன்பாடு அதிகபட்சமாக இருக்கும்போது"
+  },
+  {
+    "question_en": "Which cost remains constant irrespective of output?",
+    "question_ta": "உற்பத்தியைப் பொருட்படுத்தாமல் மாறாமல் இருக்கும் செலவு எது?",
+    "options_en": ["Fixed cost", "Variable cost", "Marginal cost", "Total cost"],
+    "options_ta": ["நிலையான செலவு", "மாறும் செலவு", "அலுவலக செலவு", "மொத்த செலவு"],
+    "answer_en": "Fixed cost",
+    "answer_ta": "நிலையான செலவு"
+  },
+  {
+    "question_en": "Which cost curve is U-shaped?",
+    "question_ta": "எந்த செலவு வளைவு U வடிவத்தில் இருக்கும்?",
+    "options_en": ["Average cost", "Fixed cost", "Total cost", "Marginal cost"],
+    "options_ta": ["சராசரி செலவு", "நிலையான செலவு", "மொத்த செலவு", "அலுவலக செலவு"],
+    "answer_en": "Average cost",
+    "answer_ta": "சராசரி செலவு"
+  },
+  {
+    "question_en": "Which revenue curve is horizontal under perfect competition?",
+    "question_ta": "சரியான போட்டியில் எது கிடைமட்ட வருவாய் வளைவாக இருக்கும்?",
+    "options_en": ["Average revenue", "Total revenue", "Marginal revenue", "Cost curve"],
+    "options_ta": ["சராசரி வருவாய்", "மொத்த வருவாய்", "அலுவலக வருவாய்", "செலவு வளைவு"],
+    "answer_en": "Average revenue",
+    "answer_ta": "சராசரி வருவாய்"
+  },
+  {
+    "question_en": "Break-even point is the point where?",
+    "question_ta": "சமநிலை-இலாப புள்ளி என்பது எங்கு இருக்கும்?",
+    "options_en": ["Total cost = Total revenue", "Total utility = Marginal utility", "Supply = Demand", "Profit = Maximum"],
+    "options_ta": ["மொத்த செலவு = மொத்த வருவாய்", "மொத்த பயன்பாடு = அலுவலக பயன்பாடு", "சப்ளை = டிமாண்ட்", "லாபம் = அதிகபட்சம்"],
+    "answer_en": "Total cost = Total revenue",
+    "answer_ta": "மொத்த செலவு = மொத்த வருவாய்"
+  },
+  {
+    "question_en": "Who is associated with the law of population?",
+    "question_ta": "மக்கள் தொகைச் சட்டத்துடன் தொடர்புடையவர் யார்?",
+    "options_en": ["Ricardo", "Malthus", "Keynes", "Marshall"],
+    "options_ta": ["ரிக்கார்டோ", "மால்தஸ்", "கெய்ன்ஸ்", "மார்ஷல்"],
+    "answer_en": "Malthus",
+    "answer_ta": "மால்தஸ்"
+  },
+  {
+    "question_en": "Engel’s law of consumption relates expenditure to?",
+    "question_ta": "எங்கல் நுகர்வு சட்டம் செலவினத்தை எதுடன் தொடர்புபடுத்துகிறது?",
+    "options_en": ["Age", "Gender", "Income", "Wealth"],
+    "options_ta": ["வயது", "பாலினம்", "வருமானம்", "செல்வம்"],
+    "answer_en": "Income",
+    "answer_ta": "வருமானம்"
+  },
+  {
+    "question_en": "Which measure removes double counting in national income?",
+    "question_ta": "தேசிய வருமானத்தில் இரட்டைப் பதிவை நீக்கும் அளவீடு எது?",
+    "options_en": ["Product method", "Income method", "Value added method", "Expenditure method"],
+    "options_ta": ["தயாரிப்பு முறை", "வருமான முறை", "மதிப்புக் கூடுதல் முறை", "செலவீடு முறை"],
+    "answer_en": "Value added method",
+    "answer_ta": "மதிப்புக் கூடுதல் முறை"
+  },
+  {
+    "question_en": "Phillips curve shows the relation between?",
+    "question_ta": "பிலிப்ஸ் வளைவு எந்த உறவை காட்டுகிறது?",
+    "options_en": ["Inflation and unemployment", "Income and expenditure", "Supply and demand", "Investment and saving"],
+    "options_ta": ["பணவீக்கம் மற்றும் வேலையின்மை", "வருமானம் மற்றும் செலவீடு", "சப்ளை மற்றும் டிமாண்ட்", "முதலீடு மற்றும் சேமிப்பு"],
+    "answer_en": "Inflation and unemployment",
+    "answer_ta": "பணவீக்கம் மற்றும் வேலையின்மை"
+  },
+  {
+    "question_en": "In which market AR and MR coincide?",
+    "question_ta": "எந்த சந்தையில் சராசரி வருவாய் (AR) மற்றும் அலுவலக வருவாய் (MR) ஒன்று சேர்கின்றன?",
+    "options_en": ["Monopoly", "Perfect competition", "Monopolistic competition", "Oligopoly"],
+    "options_ta": ["ஒற்றையாட்சி", "சரியான போட்டி", "ஒற்றையாட்சி போட்டி", "ஒலிகோபோலி"],
+    "answer_en": "Perfect competition",
+    "answer_ta": "சரியான போட்டி"
+  },
+  {
+    "question_en": "Which unemployment occurs due to change of technology?",
+    "question_ta": "தொழில்நுட்ப மாற்றத்தால் ஏற்படும் வேலைவாய்ப்பின்மை எது?",
+    "options_en": ["Seasonal", "Structural", "Frictional", "Cyclical"],
+    "options_ta": ["பருவகால", "வடிவமைப்பு", "இடையூறு", "சுழற்சி"],
+    "answer_en": "Structural",
+    "answer_ta": "வடிவமைப்பு"
+  },
+  {
+    "question_en": "Which is considered as leakages in circular flow of income?",
+    "question_ta": "வருமானத்தின் வட்ட ஓட்டத்தில் எது கசிவு (leakage) என கருதப்படுகிறது?",
+    "options_en": ["Saving", "Investment", "Exports", "Government expenditure"],
+    "options_ta": ["சேமிப்பு", "முதலீடு", "ஏற்றுமதி", "அரசுச் செலவீடு"],
+    "answer_en": "Saving",
+    "answer_ta": "சேமிப்பு"
+  },
+  {
+    "question_en": "Who gave the theory of multiplier?",
+    "question_ta": "பெருக்கி கோட்பாட்டை யார் வழங்கினார்?",
+    "options_en": ["Adam Smith", "Keynes", "Ricardo", "Marshall"],
+    "options_ta": ["ஆடம் ஸ்மித்", "கெய்ன்ஸ்", "ரிக்கார்டோ", "மார்ஷல்"],
+    "answer_en": "Keynes",
+    "answer_ta": "கெய்ன்ஸ்"
+  },
+
+  {
+    "question_en": "Which concept of elasticity is always equal to unity at the midpoint of a straight-line demand curve?",
+    "question_ta": "நேர்க்கோடு தேவைக் கோட்டின் நடுப்பகுதியில் எப்போதும் ஒன்றுக்கு சமமான நெகிழ்திறன் எது?",
+    "options_en": ["Elastic demand", "Inelastic demand", "Unitary elasticity", "Perfectly elastic demand"],
+    "options_ta": ["நெகிழ்வான தேவை", "நெகிழ்வற்ற தேவை", "அலகு நெகிழ்திறன்", "முழுமையாக நெகிழ்வான தேவை"],
+    "answer_en": "Unitary elasticity",
+    "answer_ta": "அலகு நெகிழ்திறன்"
+  },
+  {
+    "question_en": "Which economist introduced the concept of quasi-rent?",
+    "question_ta": "குவாசி-வாடகை என்ற கருத்தை அறிமுகப்படுத்திய பொருளாதார நிபுணர் யார்?",
+    "options_en": ["Ricardo", "Marshall", "Keynes", "Adam Smith"],
+    "options_ta": ["ரிக்கார்டோ", "மார்ஷல்", "கெய்ன்ஸ்", "ஆடம் ஸ்மித்"],
+    "answer_en": "Marshall",
+    "answer_ta": "மார்ஷல்"
+  },
+  {
+    "question_en": "Which curve is known as the supply curve of labour?",
+    "question_ta": "தொழிலாளர்களின் சப்ளை வளைவு என்று எதை அழைக்கப்படுகிறது?",
+    "options_en": ["Backward bending curve", "Forward bending curve", "Horizontal curve", "Vertical curve"],
+    "options_ta": ["பின்சாயும் வளைவு", "முன்சாயும் வளைவு", "கிடைமட்ட வளைவு", "செங்குத்து வளைவு"],
+    "answer_en": "Backward bending curve",
+    "answer_ta": "பின்சாயும் வளைவு"
+  },
+  {
+    "question_en": "Which cost includes both explicit and implicit costs?",
+    "question_ta": "வெளிப்படையான மற்றும் மறைமுக செலவுகளையும் உள்ளடக்கும் செலவு எது?",
+    "options_en": ["Economic cost", "Accounting cost", "Fixed cost", "Variable cost"],
+    "options_ta": ["பொருளாதார செலவு", "கணக்கியல் செலவு", "நிலையான செலவு", "மாறும் செலவு"],
+    "answer_en": "Economic cost",
+    "answer_ta": "பொருளாதார செலவு"
+  },
+  {
+    "question_en": "Which curve shows combinations of two goods giving same level of satisfaction?",
+    "question_ta": "இரண்டு பொருட்களின் ஒரே அளவு திருப்தியை வழங்கும் கூட்டுக்களை காட்டும் வளைவு எது?",
+    "options_en": ["Indifference curve", "Demand curve", "Supply curve", "Cost curve"],
+    "options_ta": ["அபேட்சை வளைவு", "டிமாண்ட் வளைவு", "சப்ளை வளைவு", "செலவு வளைவு"],
+    "answer_en": "Indifference curve",
+    "answer_ta": "அபேட்சை வளைவு"
+  },
+  {
+    "question_en": "Which factor causes movement along the demand curve?",
+    "question_ta": "தேவைக் கோட்டின் sepanjang நகர்வுக்குக் காரணமான காரணி எது?",
+    "options_en": ["Change in income", "Change in taste", "Change in price", "Change in population"],
+    "options_ta": ["வருமான மாற்றம்", "ருசி மாற்றம்", "விலை மாற்றம்", "மக்கள் தொகை மாற்றம்"],
+    "answer_en": "Change in price",
+    "answer_ta": "விலை மாற்றம்"
+  },
+  {
+    "question_en": "Who is associated with the surplus approach to value?",
+    "question_ta": "மீதமுள்ள மதிப்பு அணுகுமுறையுடன் தொடர்புடையவர் யார்?",
+    "options_en": ["Adam Smith", "Karl Marx", "Marshall", "Ricardo"],
+    "options_ta": ["ஆடம் ஸ்மித்", "கார்ல் மார்க்ஸ்", "மார்ஷல்", "ரிக்கார்டோ"],
+    "answer_en": "Karl Marx",
+    "answer_ta": "கார்ல் மார்க்ஸ்"
+  },
+  {
+    "question_en": "Which index number method uses fixed base year quantities?",
+    "question_ta": "நிலையான அடிப்படை ஆண்டின் அளவுகளை பயன்படுத்தும் குறியீட்டு எண் முறை எது?",
+    "options_en": ["Laspeyres index", "Paasche index", "Fisher’s ideal index", "Marshall index"],
+    "options_ta": ["லாஸ்பேயர்ஸ் குறியீடு", "பாஷே குறியீடு", "ஃபிஷர் குறியீடு", "மார்ஷல் குறியீடு"],
+    "answer_en": "Laspeyres index",
+    "answer_ta": "லாஸ்பேயர்ஸ் குறியீடு"
+  },
+  {
+    "question_en": "Which index number method is considered ideal?",
+    "question_ta": "எந்த குறியீட்டு எண் முறை சிறந்ததாகக் கருதப்படுகிறது?",
+    "options_en": ["Laspeyres index", "Paasche index", "Fisher’s ideal index", "Kelly index"],
+    "options_ta": ["லாஸ்பேயர்ஸ் குறியீடு", "பாஷே குறியீடு", "ஃபிஷர் சிறந்த குறியீடு", "கெல்லி குறியீடு"],
+    "answer_en": "Fisher’s ideal index",
+    "answer_ta": "ஃபிஷர் சிறந்த குறியீடு"
+  },
+  {
+    "question_en": "Which economist is associated with welfare definition of economics?",
+    "question_ta": "பொருளாதாரத்தின் நலன் வரையறையுடன் தொடர்புடைய பொருளாதார நிபுணர் யார்?",
+    "options_en": ["Adam Smith", "Marshall", "Robbins", "Keynes"],
+    "options_ta": ["ஆடம் ஸ்மித்", "மார்ஷல்", "ராபின்ஸ்", "கெய்ன்ஸ்"],
+    "answer_en": "Marshall",
+    "answer_ta": "மார்ஷல்"
+  },
+  {
+    "question_en": "Which sector is also called tertiary sector?",
+    "question_ta": "எந்த துறை மூன்றாம் துறையாகவும் அழைக்கப்படுகிறது?",
+    "options_en": ["Agriculture", "Industry", "Service sector", "Banking"],
+    "options_ta": ["விவசாயம்", "தொழில்", "சேவைத் துறை", "வங்கி"],
+    "answer_en": "Service sector",
+    "answer_ta": "சேவைத் துறை"
+  },
+  {
+    "question_en": "Which method of measuring national income is based on final goods and services?",
+    "question_ta": "இறுதி பொருட்கள் மற்றும் சேவைகளின் அடிப்படையில் தேசிய வருமானத்தை அளக்கும் முறை எது?",
+    "options_en": ["Product method", "Income method", "Expenditure method", "Value added method"],
+    "options_ta": ["தயாரிப்பு முறை", "வருமான முறை", "செலவீடு முறை", "மதிப்புக் கூடுதல் முறை"],
+    "answer_en": "Expenditure method",
+    "answer_ta": "செலவீடு முறை"
+  },
+  {
+    "question_en": "Which component of aggregate demand includes government spending?",
+    "question_ta": "மொத்த தேவையின் எந்த கூறு அரசுச் செலவீட்டை உட்கொள்கிறது?",
+    "options_en": ["C", "I", "G", "X-M"],
+    "options_ta": ["நுகர்வு (C)", "முதலீடு (I)", "அரசு செலவீடு (G)", "ஏற்றுமதி-இறக்குமதி (X-M)"],
+    "answer_en": "G",
+    "answer_ta": "அரசு செலவீடு (G)"
+  },
+  {
+    "question_en": "Which economist defined economics as science of scarcity?",
+    "question_ta": "பற்றாக்குறையின் அறிவியல் என பொருளாதாரத்தை வரையறுத்த பொருளாதார நிபுணர் யார்?",
+    "options_en": ["Marshall", "Adam Smith", "Robbins", "Keynes"],
+    "options_ta": ["மார்ஷல்", "ஆடம் ஸ்மித்", "ராபின்ஸ்", "கெய்ன்ஸ்"],
+    "answer_en": "Robbins",
+    "answer_ta": "ராபின்ஸ்"
+  },
+  {
+    "question_en": "Which concept measures responsiveness of demand to income change?",
+    "question_ta": "தேவையின் வருமான மாற்றத்திற்கான பிரதிசெயல்திறனை அளக்கும் கருத்து எது?",
+    "options_en": ["Price elasticity", "Income elasticity", "Cross elasticity", "Point elasticity"],
+    "options_ta": ["விலை நெகிழ்திறன்", "வருமான நெகிழ்திறன்", "குறுக்கு நெகிழ்திறன்", "புள்ளி நெகிழ்திறன்"],
+    "answer_en": "Income elasticity",
+    "answer_ta": "வருமான நெகிழ்திறன்"
+  },
+  {
+    "question_en": "Which market structure has few sellers controlling market?",
+    "question_ta": "சந்தையை கட்டுப்படுத்தும் சில விற்பனையாளர்கள் உள்ள சந்தை அமைப்பு எது?",
+    "options_en": ["Perfect competition", "Monopoly", "Oligopoly", "Monopolistic competition"],
+    "options_ta": ["சரியான போட்டி", "ஒற்றையாட்சி", "ஒலிகோபோலி", "ஒற்றையாட்சி போட்டி"],
+    "answer_en": "Oligopoly",
+    "answer_ta": "ஒலிகோபோலி"
+  },
+  {
+    "question_en": "Which function of money helps to compare values of goods?",
+    "question_ta": "பொருட்களின் மதிப்புகளை ஒப்பிட உதவும் பணத்தின் செயல்பாடு எது?",
+    "options_en": ["Medium of exchange", "Store of value", "Measure of value", "Standard of deferred payment"],
+    "options_ta": ["மாற்று ஊடகம்", "மதிப்பு சேமிப்பு", "மதிப்பீடு", "ஒத்திவைக்கப்பட்ட கட்டண தரம்"],
+    "answer_en": "Measure of value",
+    "answer_ta": "மதிப்பீடு"
+  },
+  {
+    "question_en": "Which is included in economic development indicators?",
+    "question_ta": "பொருளாதார முன்னேற்றக் குறியீடுகளில் எது சேர்க்கப்பட்டுள்ளது?",
+    "options_en": ["Per capita income", "Life expectancy", "Literacy rate", "All of these"],
+    "options_ta": ["தலைப்பொதுவான வருமானம்", "வாழ்நாள் எதிர்பார்ப்பு", "கல்வியறிவு விகிதம்", "மேலே உள்ள அனைத்தும்"],
+    "answer_en": "All of these",
+    "answer_ta": "மேலே உள்ள அனைத்தும்"
+  },
+  {
+    "question_en": "Which curve shows the relation between tax rate and revenue?",
+    "question_ta": "வரி விகிதம் மற்றும் வருவாய் உறவை காட்டும் வளைவு எது?",
+    "options_en": ["Phillips curve", "Laffer curve", "Engel curve", "Indifference curve"],
+    "options_ta": ["பிலிப்ஸ் வளைவு", "லாஃபர் வளைவு", "எங்கல் வளைவு", "அபேட்சை வளைவு"],
+    "answer_en": "Laffer curve",
+    "answer_ta": "லாஃபர் வளைவு"
+  }
+]

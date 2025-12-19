@@ -1,0 +1,587 @@
+[
+  {
+    "question_en": "",
+    "question_ta": "கணிசமான இயக்கம்: Lagrangian L = T - V கொண்டு Euler-Lagrange சமன்பாடு என்ன?",
+    "options_en": [
+      "d/dt(∂L/∂q̇) - ∂L/∂q = 0",
+      "∂L/∂t = 0",
+      "L = 0",
+      "None"
+    ],
+    "options_ta": [],
+    "answer_en": "d/dt(∂L/∂q̇) - ∂L/∂q = 0",
+    "answer_ta": ""
+  },
+  {
+    "question_en": "",
+    "question_ta": "குவாண்டம்: ஹைஸன்க் மறியாட் ப்ரின்சிப்பல் (Heisenberg uncertainty) சரியான வடிவம்?",
+    "options_en": [
+      "Δx Δp ≥ ħ/2",
+      "Δx + Δp = 0",
+      "Δx Δp = 0",
+      "None"
+    ],
+    "options_ta": [],
+    "answer_en": "Δx Δp ≥ ħ/2",
+    "answer_ta": ""
+  },
+  {
+    "question_en": "",
+    "question_ta": "இயற்பியல்: Maxwell சமன்பாடுகளில் divergence of B equals ?",
+    "options_en": [
+      "0",
+      "ρ/ε0",
+      "J",
+      "∂E/∂t"
+    ],
+    "options_ta": [],
+    "answer_en": "0",
+    "answer_ta": ""
+  },
+  {
+    "question_en": "",
+    "question_ta": "பரிமாண பகுப்பாய்வு: Planck length expression involves?",
+    "options_en": [
+      "√(ħG/c^3)",
+      "ħc/G",
+      "G/ħc",
+      "None"
+    ],
+    "options_ta": [],
+    "answer_en": "√(ħG/c^3)",
+    "answer_ta": ""
+  },
+  {
+    "question_en": "",
+    "question_ta": "குவாண்டம்: Schrödinger சமன்பாட்டின் நேரற்ற வடிவம் என்ன?",
+    "options_en": [
+      "Ĥψ = Eψ",
+      "iħ ∂ψ/∂t = Ĥψ",
+      "∂^2ψ/∂t^2 = 0",
+      "None"
+    ],
+    "options_ta": [],
+    "answer_en": "Ĥψ = Eψ",
+    "answer_ta": ""
+  },
+  {
+    "question_en": "",
+    "question_ta": "வெப்பவியல்: Carnot cycle efficiency = ?",
+    "options_en": [
+      "1 - T_c/T_h",
+      "T_c/T_h",
+      "1/T_h",
+      "T_h/T_c"
+    ],
+    "options_ta": [],
+    "answer_en": "1 - T_c/T_h",
+    "answer_ta": ""
+  },
+  {
+    "question_en": "",
+    "question_ta": "தரவியல்: Fourier transform of δ(t) is ?",
+    "options_en": [
+      "1",
+      "0",
+      "δ(ω)",
+      "Undefined"
+    ],
+    "options_ta": [],
+    "answer_en": "1",
+    "answer_ta": ""
+  },
+  {
+    "question_en": "",
+    "question_ta": "மின்சார நுண்ணறிவு: skin depth δ ∝ ?",
+    "options_en": [
+      "1/√(frequency×μσ)",
+      "frequency",
+      "σ",
+      "μ"
+    ],
+    "options_ta": [],
+    "answer_en": "1/√(frequency×μσ)",
+    "answer_ta": ""
+  },
+  {
+    "question_en": "",
+    "question_ta": "குவாண்டம்: commutator [x,p] equals ?",
+    "options_en": [
+      "iħ",
+      "0",
+      "ħ",
+      "-iħ"
+    ],
+    "options_ta": [],
+    "answer_en": "iħ",
+    "answer_ta": ""
+  },
+  {
+    "question_en": "",
+    "question_ta": "இயற்பியல்: RLC தொடரின் resonant frequency ω0 = ?",
+    "options_en": [
+      "1/√(LC)",
+      "√(LC)",
+      "L/C",
+      "R/L"
+    ],
+    "options_ta": [],
+    "answer_en": "1/√(LC)",
+    "answer_ta": ""
+  },
+  {
+    "question_en": "",
+    "question_ta": "நுண்கணிதம்: Black body peak wavelength λ_max given by?",
+    "options_en": [
+      "b/T (Wien's law)",
+      "T/b",
+      "λ*T = constant",
+      "None"
+    ],
+    "options_ta": [],
+    "answer_en": "b/T (Wien's law)",
+    "answer_ta": ""
+  },
+  {
+    "question_en": "",
+    "question_ta": "அணுக்கணிதம்: binding energy per nucleon მაქსიმம் எங்கு?",
+    "options_en": [
+      "Iron region (Fe)",
+      "Hydrogen",
+      "Uranium",
+      "Helium"
+    ],
+    "options_ta": [],
+    "answer_en": "Iron region (Fe)",
+    "answer_ta": ""
+  },
+  {
+    "question_en": "",
+    "question_ta": "அலை இயற்பியல்: group velocity = ?",
+    "options_en": [
+      "dω/dk",
+      "ω/k",
+      "k/ω",
+      "None"
+    ],
+    "options_ta": [],
+    "answer_en": "dω/dk",
+    "answer_ta": ""
+  },
+  {
+    "question_en": "",
+    "question_ta": "நிலைமாற்ற சமன்பாடு: Navier-Stokes equation concerns?",
+    "options_en": [
+      "Fluid motion with viscosity",
+      "Solid mechanics",
+      "Quantum fields",
+      "Optics"
+    ],
+    "options_ta": [],
+    "answer_en": "Fluid motion with viscosity",
+    "answer_ta": ""
+  },
+  {
+    "question_en": "",
+    "question_ta": "குவாண்டம்: Pauli exclusion principle applies to?",
+    "options_en": [
+      "Fermions only",
+      "Bosons only",
+      "All particles",
+      "None"
+    ],
+    "options_ta": [],
+    "answer_en": "Fermions only",
+    "answer_ta": ""
+  },
+  {
+    "question_en": "",
+    "question_ta": "இயற்பியல்: Gravitational potential inside a uniform sphere varies as?",
+    "options_en": [
+      "∝ r^2",
+      "∝ 1/r",
+      "constant",
+      "∝ r"
+    ],
+    "options_ta": [],
+    "answer_en": "∝ r^2",
+    "answer_ta": ""
+  },
+  {
+    "question_en": "",
+    "question_ta": "அலைவியல்: Maxwell's equation leading to wave equation for E in free space is?",
+    "options_en": [
+      "∇×(∇×E) = -μ0 ∂^2 E/∂t^2",
+      "∇·E = 0",
+      "∇×B = μ0J",
+      "None"
+    ],
+    "options_ta": [],
+    "answer_en": "∇×(∇×E) = -μ0 ∂^2 E/∂t^2",
+    "answer_ta": ""
+  },
+  {
+    "question_en": "",
+    "question_ta": "ஆற்றல் பரிமாற்றம்: Stefan-Boltzmann law states power ∝ ?",
+    "options_en": [
+      "T^4",
+      "T^3",
+      "T^2",
+      "T"
+    ],
+    "options_ta": [],
+    "answer_en": "T^4",
+    "answer_ta": ""
+  },
+  {
+    "question_en": "",
+    "question_ta": "அணுக்கணிதம்: Rutherford scattering explained by which interaction?",
+    "options_en": [
+      "Coulomb force (electrostatic)",
+      "Strong nuclear",
+      "Weak nuclear",
+      "Gravitational"
+    ],
+    "options_ta": [],
+    "answer_en": "Coulomb force (electrostatic)",
+    "answer_ta": ""
+  },
+  {
+    "question_en": "",
+    "question_ta": "குவாண்டம்: spin-statistics theorem links spin to?",
+    "options_en": [
+      "Bose or Fermi statistics",
+      "Classical mechanics",
+      "Thermodynamics",
+      "Optics"
+    ],
+    "options_ta": [],
+    "answer_en": "Bose or Fermi statistics",
+    "answer_ta": ""
+  },
+  {
+    "question_en": "",
+    "question_ta": "இயற்பியல்: tidal force arises because of?",
+    "options_en": [
+      "Gradient of gravitational field",
+      "Magnetic field",
+      "Electric charge",
+      "Temperature"
+    ],
+    "options_ta": [],
+    "answer_en": "Gradient of gravitational field",
+    "answer_ta": ""
+  },
+  {
+    "question_en": "",
+    "question_ta": "நுண்கணிதம்: Lamb shift observed in hydrogen due to?",
+    "options_en": [
+      "Quantum electrodynamics effects",
+      "Gravity",
+      "Classical EM",
+      "Nuclear forces"
+    ],
+    "options_ta": [],
+    "answer_en": "Quantum electrodynamics effects",
+    "answer_ta": ""
+  },
+  {
+    "question_en": "",
+    "question_ta": "அலைவியல்: skin effect depends mainly on?",
+    "options_en": [
+      "Frequency and conductivity",
+      "Temperature only",
+      "Magnetic field only",
+      "Geometry only"
+    ],
+    "options_ta": [],
+    "answer_en": "Frequency and conductivity",
+    "answer_ta": ""
+  },
+  {
+    "question_en": "",
+    "question_ta": "கிரவிடேஷன்: perihelion precession of Mercury primarily explained by?",
+    "options_en": [
+      "General Relativity",
+      "Newtonian gravity",
+      "Electromagnetism",
+      "Dark matter"
+    ],
+    "options_ta": [],
+    "answer_en": "General Relativity",
+    "answer_ta": ""
+  },
+  {
+    "question_en": "",
+    "question_ta": "நுண்கணிதம்: optical coherence length relates to?",
+    "options_en": [
+      "Spectral bandwidth",
+      "Temperature",
+      "Mass",
+      "Charge"
+    ],
+    "options_ta": [],
+    "answer_en": "Spectral bandwidth",
+    "answer_ta": ""
+  },
+  {
+    "question_en": "",
+    "question_ta": "இயற்பியல்: dispersion relation for deep water waves ω^2 = gk tanh(kh) reduces to ?",
+    "options_en": [
+      "ω^2 = gk for deep water",
+      "ω^2 = gk h",
+      "ω^2 = gh",
+      "None"
+    ],
+    "options_ta": [],
+    "answer_en": "ω^2 = gk for deep water",
+    "answer_ta": ""
+  },
+  {
+    "question_en": "",
+    "question_ta": "குவாண்டம்: density of states in 3D free electron gas ∝ ?",
+    "options_en": [
+      "√E",
+      "E^0",
+      "E^2",
+      "1/√E"
+    ],
+    "options_ta": [],
+    "answer_en": "√E",
+    "answer_ta": ""
+  },
+  {
+    "question_en": "",
+    "question_ta": "இயற்பியல்: Reynolds number determines?",
+    "options_en": [
+      "Laminar vs turbulent flow",
+      "Viscosity magnitude",
+      "Pressure only",
+      "Temperature"
+    ],
+    "options_ta": [],
+    "answer_en": "Laminar vs turbulent flow",
+    "answer_ta": ""
+  },
+  {
+    "question_en": "",
+    "question_ta": "நுண்கணிதம்: Cherenkov radiation occurs when particle speed >",
+    "options_en": [
+      "c/n",
+      "c",
+      "v_sound",
+      "None"
+    ],
+    "options_ta": [],
+    "answer_en": "c/n",
+    "answer_ta": ""
+  },
+  {
+    "question_en": "",
+    "question_ta": "அலைவியல்: Bragg's law for X-ray diffraction nλ = 2d sinθ is used to determine?",
+    "options_en": [
+      "Crystal spacing",
+      "Velocity",
+      "Mass",
+      "Temperature"
+    ],
+    "options_ta": [],
+    "answer_en": "Crystal spacing",
+    "answer_ta": ""
+  },
+  {
+    "question_en": "",
+    "question_ta": " நிலைக்கோள் அல்சனை (equipotential) ஆகுமா?",
+    "options_en": [
+      "Yes surfaces where potential same",
+      "No",
+      "Sometimes",
+      "None"
+    ],
+    "options_ta": [],
+    "answer_en": "Yes surfaces where potential same",
+    "answer_ta": ""
+  },
+  {
+    "question_en": "",
+    "question_ta": "இயற்பியல்: Van der Waals equation modifies ideal gas by including?",
+    "options_en": [
+      "Intermolecular forces and finite size",
+      "Quantum effects",
+      "Relativity",
+      "None"
+    ],
+    "options_ta": [],
+    "answer_en": "Intermolecular forces and finite size",
+    "answer_ta": ""
+  },
+  {
+    "question_en": "",
+    "question_ta": "குவாண்டம்: tunnelling probability in WKB approx depends exponentially on?",
+    "options_en": [
+      "Integral of sqrt(2m(V-E)) dx",
+      "Mass only",
+      "Energy only",
+      "Time"
+    ],
+    "options_ta": [],
+    "answer_en": "Integral of sqrt(2m(V-E)) dx",
+    "answer_ta": ""
+  },
+  {
+    "question_en": "",
+    "question_ta": "நுண்கணிதம்: Raman scattering involves interaction with?",
+    "options_en": [
+      "Vibrational modes of molecules",
+      "Magnetic domains",
+      "Electric circuits",
+      "Photons only"
+    ],
+    "options_ta": [],
+    "answer_en": "Vibrational modes of molecules",
+    "answer_ta": ""
+  },
+  {
+    "question_en": "",
+    "question_ta": "இயற்பியல்: concept of gauge invariance important in?",
+    "options_en": [
+      "Electrodynamics and field theories",
+      "Classical mechanics only",
+      "Optics only",
+      "Thermodynamics"
+    ],
+    "options_ta": [],
+    "answer_en": "Electrodynamics and field theories",
+    "answer_ta": ""
+  },
+  {
+    "question_en": "",
+    "question_ta": "குவாண்டம்: hydrogen atom energy levels En ∝ ?",
+    "options_en": [
+      "-1/n^2",
+      "n^2",
+      "-n",
+      "1/n"
+    ],
+    "options_ta": [],
+    "answer_en": "-1/n^2",
+    "answer_ta": ""
+  },
+  {
+    "question_en": "",
+    "question_ta": "நுண்கணிதம்: de Broglie wavelength λ = ?",
+    "options_en": [
+      "h/p",
+      "h·p",
+      "p/h",
+      "√(h/p)"
+    ],
+    "options_ta": [],
+    "answer_en": "h/p",
+    "answer_ta": ""
+  },
+  {
+    "question_en": "",
+    "question_ta": "இயற்பியல்: boundary layer thickness in flow scales as?",
+    "options_en": [
+      "√(ν t)",
+      "ν t",
+      "1/ν",
+      "t^2"
+    ],
+    "options_ta": [],
+    "answer_en": "√(ν t)",
+    "answer_ta": ""
+  },
+  {
+    "question_en": "",
+    "question_ta": "குவாண்டம்: Berry phase arises due to?",
+    "options_en": [
+      "Adiabatic cyclic evolution",
+      "Random noise",
+      "Classical forces",
+      "Thermal effects"
+    ],
+    "options_ta": [],
+    "answer_en": "Adiabatic cyclic evolution",
+    "answer_ta": ""
+  },
+  {
+    "question_en": "",
+    "question_ta": "நுண்கணிதம்: Kramers-Kronig relations connect?",
+    "options_en": [
+      "Real and imaginary parts of response functions",
+      "Time and space",
+      "Mass and energy",
+      "None"
+    ],
+    "options_ta": [],
+    "answer_en": "Real and imaginary parts of response functions",
+    "answer_ta": ""
+  },
+  {
+    "question_en": "",
+    "question_ta": "இயற்பியல்: Lenz's law states induced emf opposes change in ?",
+    "options_en": [
+      "Magnetic flux",
+      "Electric potential",
+      "Charge",
+      "Mass"
+    ],
+    "options_ta": [],
+    "answer_en": "Magnetic flux",
+    "answer_ta": ""
+  },
+  {
+    "question_en": "",
+    "question_ta": "குவாண்டம்: Fermi energy at T=0 relates to?",
+    "options_en": [
+      "Particle density",
+      "Temperature",
+      "Pressure",
+      "Volume only"
+    ],
+    "options_ta": [],
+    "answer_en": "Particle density",
+    "answer_ta": ""
+  },
+  {
+    "question_en": "",
+    "question_ta": "நுண்கணிதம்: superfluidity occurs in which systems?",
+    "options_en": [
+      "He-4 at low T",
+      "Classical fluids",
+      "Metals at room T",
+      "Gases at high T"
+    ],
+    "options_ta": [],
+    "answer_en": "He-4 at low T",
+    "answer_ta": ""
+  },
+  {
+    "question_en": "",
+    "question_ta": "இயற்பியல்: Poynting vector represents?",
+    "options_en": [
+      "Energy flux of EM field",
+      "Magnetic flux only",
+      "Charge density",
+      "Force"
+    ],
+    "options_ta": [],
+    "answer_en": "Energy flux of EM field",
+    "answer_ta": ""
+  },
+  {
+    "question_en": "",
+    "question_ta": "கிரவிடேஷன்: Roche limit determines?",
+    "options_en": [
+      "Distance at which tidal forces disrupt a satellite",
+      "Escape velocity",
+      "Orbit period",
+      "Mass"
+    ],
+    "options_ta": [],
+    "answer_en": "Distance at which tidal forces disrupt a satellite",
+    "answer_ta": ""
+  }
+]

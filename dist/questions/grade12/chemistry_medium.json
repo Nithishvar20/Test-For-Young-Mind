@@ -1,0 +1,632 @@
+[
+  {
+    "question_en": "Define molarity (M).",
+    "question_ta": "மோலாரிட்டி (M) என்றால் என்ன?",
+    "options_en": [
+      "Mass percent",
+      "Volume percent",
+      "Moles of solute per litre of solution",
+      "Moles of solute per kg of solvent"
+    ],
+    "options_ta": [
+      "எடை சதவீதம்",
+      "செறிவு சதவீதம்",
+      "ஒரு லிட்டர் கரையூட்டலில் உள்ள கரையாக்கத்தின் மோல்கள்",
+      "ஒரு கிலோ கரைப்பியில் உள்ள மோல்கள்"
+    ],
+    "answer_en": "Moles of solute per litre of solution",
+    "answer_ta": "ஒரு லிட்டர் கரையூட்டலில் உள்ள கரையாக்கத்தின் மோல்கள்"
+  },
+  {
+    "question_en": "Which equilibrium constant expression corresponds to: N2 + 3H2 ⇌ 2NH3?",
+    "question_ta": "நீட்ஸ் சமநிலை நியூனாலைப் பிரதிபலிக்கும் சமநிலை நிலை எது?",
+    "options_en": [
+      "K = [NH3]^2 / ([N2][H2]^3)",
+      "K = [N2][H2]^3 / [NH3]^2",
+      "K = [NH3]/[N2][H2]",
+      "K = [N2]/[H2]"
+    ],
+    "options_ta": [
+      "K = [NH3]^2 / ([N2][H2]^3)",
+      "K = [N2][H2]^3 / [NH3]^2",
+      "K = [NH3]/[N2][H2]",
+      "K = [N2]/[H2]"
+    ],
+    "answer_en": "K = [NH3]^2 / ([N2][H2]^3)",
+    "answer_ta": "K = [NH3]^2 / ([N2][H2]^3)"
+  },
+  {
+    "question_en": "What is the IUPAC name of CH3CH2OH?",
+    "question_ta": "CH3CH2OH-இன் IUPAC பெயர் என்ன?",
+    "options_en": [
+      "Propanol",
+      "Butanol",
+      "Methanol",
+      "Ethanol"
+    ],
+    "options_ta": [
+      "புரோபனால்",
+      "பூட்டனால்",
+      "மீதனால்",
+      "எத்தனால்"
+    ],
+    "answer_en": "Ethanol",
+    "answer_ta": "எத்தனால்"
+  },
+  {
+    "question_en": "Which law relates pressure and volume of a gas at constant temperature?",
+    "question_ta": "நியத வெப்பநிலையில் வாயு அழுத்தம் மற்றும் அளவு தொடர்பு எது?",
+    "options_en": [
+      "Boyle's law",
+      "Avogadro's law",
+      "Gay-Lussac's law",
+      "Charles's law"
+    ],
+    "options_ta": [
+      "பாய்ல் சட்டம்",
+      "அவோகாட்ரோ சட்டம்",
+      "கே லூசாக் சட்டம்",
+      "சார்ல்ஸ் சட்டம்"
+    ],
+    "answer_en": "Boyle's law",
+    "answer_ta": "பாய்ல் சட்டம்"
+  },
+  {
+    "question_en": "Calculate pH of 0.01 M HCl solution.",
+    "question_ta": "0.01 M HCl தீர்வின் pH என்ன?",
+    "options_en": [
+      "7",
+      "4",
+      "2",
+      "12"
+    ],
+    "options_ta": [
+      "7",
+      "4",
+      "2",
+      "12"
+    ],
+    "answer_en": "2",
+    "answer_ta": "2"
+  },
+  {
+    "question_en": "Which catalyst is used in Haber process for ammonia synthesis?",
+    "question_ta": "ஹேபர் செயல்முறையில் (Haber process) அமோனியா உற்பத்திக்கு எந்த கெடுப்பர் (catalyst) பயன்படுகிறது?",
+    "options_en": [
+      "Iron with promoters",
+      "Nickel",
+      "Copper",
+      "Platinum"
+    ],
+    "options_ta": [
+      "இரும்பு (promoters உடன்)",
+      "நிக்கல்",
+      "தாமிரம்",
+      "பிளாட்டினம்"
+    ],
+    "answer_en": "Iron with promoters",
+    "answer_ta": "இரும்பு (promoters உடன்)"
+  },
+  {
+    "question_en": "Which ionic compound conducts electricity in molten state?",
+    "question_ta": "கலக்கப்பட்ட நிலையில் எந்த ஐனிக் சேர்மம் மின்சாரம் ஓட்டும்?",
+    "options_en": [
+      "CH4",
+      "C6H6",
+      "SiO2",
+      "NaCl"
+    ],
+    "options_ta": [
+      "CH4",
+      "C6H6",
+      "SiO2",
+      "NaCl"
+    ],
+    "answer_en": "NaCl",
+    "answer_ta": "NaCl"
+  },
+  {
+    "question_en": "Which is endothermic process?",
+    "question_ta": "எந்த செயல்முறை வெப்பதை எடுத்துக்கொள்கிறது?",
+    "options_en": [
+      "Evaporation",
+      "Condensation",
+      "Neutralization",
+      "Freezing"
+    ],
+    "options_ta": [
+      "வெளியேறுதல்",
+      "கொடுமை",
+      "மைய அமைப்பு",
+      "உறைவு"
+    ],
+    "answer_en": "Evaporation",
+    "answer_ta": "வெளியேறுதல்"
+  },
+  {
+    "question_en": "What is the geometry of methane (CH4)?",
+    "question_ta": "மீத்தேன் (CH4) உடன் உருப்படையின் வடிவம் என்ன?",
+    "options_en": [
+      "Tetrahedral",
+      "Bent",
+      "Trigonal planar",
+      "Linear"
+    ],
+    "options_ta": [
+      "டெட்ராஹீட்ரல்",
+      "முறைபாடு",
+      "முக்கோண பரப்பு",
+      "ரைட்டர்"
+    ],
+    "answer_en": "Tetrahedral",
+    "answer_ta": "டெட்ராஹீட்ரல்"
+  },
+  {
+    "question_en": "Which type of hybridization is present in ethene (C2H4)?",
+    "question_ta": "எத்தனை வகை ஹைபிர்டைசேசன் எத்தின் (C2H4)ல் காணப்படுகிறது?",
+    "options_en": [
+      "sp3d",
+      "sp3",
+      "sp",
+      "sp2"
+    ],
+    "options_ta": [
+      "sp3d",
+      "sp3",
+      "sp",
+      "sp2"
+    ],
+    "answer_en": "sp2",
+    "answer_ta": "sp2"
+  },
+  {
+    "question_en": "Which is the conjugate base of H2SO4?",
+    "question_ta": "H2SO4-இன் இணைக்கப்பட்ட அடிப்படை (conjugate base) என்ன?",
+    "options_en": [
+      "H3O+",
+      "HSO4-",
+      "OH-",
+      "SO4^2-"
+    ],
+    "options_ta": [
+      "H3O+",
+      "HSO4-",
+      "OH-",
+      "SO4^2-"
+    ],
+    "answer_en": "HSO4-",
+    "answer_ta": "HSO4-"
+  },
+  {
+    "question_en": "Which technique separates components based on polarity on a stationary phase?",
+    "question_ta": "ஒரு நிலையான (stationary) படியில் பழுப்பின் அடிப்படையில் கூறுகளை பிரிக்கும் தொழில்நுட்பம் எது?",
+    "options_en": [
+      "Decantation",
+      "Filtration",
+      "Distillation",
+      "Chromatography"
+    ],
+    "options_ta": [
+      "குலைக்கல்",
+      "ஃபில்ட்ரேஷன்",
+      "திரவிகரிப்பு",
+      "க்ரோமடோகிரஃபி"
+    ],
+    "answer_en": "Chromatography",
+    "answer_ta": "க்ரோமடோகிரஃபி"
+  },
+  {
+    "question_en": "Which is major product of complete combustion of ethanol?",
+    "question_ta": "எத்தனாலின் முழு கரைவு செய்யும்போது பிரதான தயாரிப்பு என்ன?",
+    "options_en": [
+      "CO2 and H2",
+      "C and H2O",
+      "CO and H2",
+      "CO2 and H2O"
+    ],
+    "options_ta": [
+      "CO2 மற்றும் H2",
+      "C மற்றும் H2O",
+      "CO மற்றும் H2",
+      "CO2 மற்றும் H2O"
+    ],
+    "answer_en": "CO2 and H2O",
+    "answer_ta": "CO2 மற்றும் H2O"
+  },
+  {
+    "question_en": "What type of bond is present in NaCl?",
+    "question_ta": "NaCl-இல் எந்த வகை பிணை உள்ளது?",
+    "options_en": [
+      "Covalent bond",
+      "Hydrogen bond",
+      "Ionic bond",
+      "Metallic bond"
+    ],
+    "options_ta": [
+      "கோவலன்ட் பிணை",
+      "ஹைட்ரஜன் பிணை",
+      "ஆயனிக் பிணை",
+      "மெட்டாலிக் பிணை"
+    ],
+    "answer_en": "Ionic bond",
+    "answer_ta": "ஆயனிக் பிணை"
+  },
+  {
+    "question_en": "Which gas causes acid rain?",
+    "question_ta": "எந்த வாயு அமில மழையை காரணமாக்குகிறது?",
+    "options_en": [
+      "N2",
+      "CO2",
+      "SO2 (sulfur dioxide)",
+      "O2"
+    ],
+    "options_ta": [
+      "N2",
+      "CO2",
+      "SO2",
+      "O2"
+    ],
+    "answer_en": "SO2 (sulfur dioxide)",
+    "answer_ta": "SO2"
+  },
+  {
+    "question_en": "Which orbital has two lobes and a node at nucleus?",
+    "question_ta": "ஏது ஆர்பிட்டல் இரண்டு லோப்களும் அணுக்களில் ஒரு நோடு கொண்டது?",
+    "options_en": [
+      "s-orbital",
+      "f-orbital",
+      "d-orbital",
+      "p-orbital"
+    ],
+    "options_ta": [
+      "s-ஆர்பிட்டல்",
+      "f-ஆர்பிட்டல்",
+      "d-ஆர்பிட்டல்",
+      "p-ஆர்பிட்டல்"
+    ],
+    "answer_en": "p-orbital",
+    "answer_ta": "p-ஆர்பிட்டல்"
+  },
+  {
+    "question_en": "What is the oxidation state of carbon in CO2?",
+    "question_ta": "CO2-இல் கார்பனின் ஆக்சிடேஷன் நிலை என்ன?",
+    "options_en": [
+      "-4",
+      "+4",
+      "0",
+      "+2"
+    ],
+    "options_ta": [
+      "-4",
+      "+4",
+      "0",
+      "+2"
+    ],
+    "answer_en": "+4",
+    "answer_ta": "+4"
+  },
+  {
+    "question_en": "Which reagent is used to detect aldehydes?",
+    "question_ta": "அல்டிஹைட்களை கண்டறிய எந்த வேதியியல் பொருள் பயன்படுத்தப்படுகிறது?",
+    "options_en": [
+      "Bromine water",
+      "Tollens' reagent (Ag(NH3)2+)",
+      "Benedict's solution",
+      "Barium chloride"
+    ],
+    "options_ta": [
+      "ப்ரோமின் நீர்",
+      "டாலன்ஸ் ரீஅஜன்ட்",
+      "பெனெடிக்ட் திரவம்",
+      "பாரியம் கிளோரைடு"
+    ],
+    "answer_en": "Tollens' reagent (Ag(NH3)2+)",
+    "answer_ta": "டாலன்ஸ் ரீஅஜன்ட்"
+  },
+  {
+    "question_en": "Which equilibrium shifts when concentration is increased according to Le Chatelier's principle?",
+    "question_ta": "லேசாட்லியே பிரின்சிப்புக்கு (Le Chatelier) பிரதி அதிகரிக்கும்போது சமநிலை எந்தவாறு மாறும்?",
+    "options_en": [
+      "Shifts randomly",
+      "Shifts to side which produces more",
+      "Shifts to side which consumes added species",
+      "No change"
+    ],
+    "options_ta": [
+      "சீரற்றாக மாறும்",
+      "அதிகமாக உற்பத்தி செய்வதற்கு மாறும்",
+      "சேர்க்கப்பட்ட பொருளைச் சிதைக்கும் பக்கத்திற்கு மாறும்",
+      "மாற்றமில்லை"
+    ],
+    "answer_en": "Shifts to side which consumes added species",
+    "answer_ta": "சேர்க்கப்பட்ட பொருளைச் சிதைக்கும் பக்கத்திற்கு மாறும்"
+  },
+  {
+    "question_en": "Which is correct about buffer solution?",
+    "question_ta": "பஃபர் தீர்வு பற்றி எந்தது சரியானது?",
+    "options_en": [
+      "Always acidic",
+      "Has no ions",
+      "Resists change in pH upon addition of small amount of acid/base",
+      "Always basic"
+    ],
+    "options_ta": [
+      "எப்போதும் அமிலம்",
+      "யாரும் அயன்கள் இல்லை",
+      "சிறிய அளவு அமிலம்/அடிப்படை சேர்க்கும் போது pH மாற்றத்தை எதிர்க்கிறது",
+      "எப்போதும் அடிப்படை"
+    ],
+    "answer_en": "Resists change in pH upon addition of small amount of acid/base",
+    "answer_ta": "சிறிய அளவு அமிலம்/அடிப்படை சேர்க்கும் போது pH மாற்றத்தை எதிர்க்கிறது"
+  },
+  {
+    "question_en": "Which is the conjugate acid of NH3?",
+    "question_ta": "NH3-இன் இணைப்பு அமிலம் (conjugate acid) எது?",
+    "options_en": [
+      "NH2-",
+      "N2H4",
+      "H2O",
+      "NH4+"
+    ],
+    "options_ta": [
+      "NH2-",
+      "N2H4",
+      "H2O",
+      "NH4+"
+    ],
+    "answer_en": "NH4+",
+    "answer_ta": "NH4+"
+  },
+  {
+    "question_en": "Which process is used to obtain pure metal from its ore by heating with carbon?",
+    "question_ta": "ஒரு உலோகத்தை அதன் ட்ரீஷிலிருந்து கார்பனுடன் சூடாக்குவதன் மூலம் தூய்மையான உலோகம் பெற என்ன செயல்முறை பயன்படுத்தப்படுகிறது?",
+    "options_en": [
+      "Distillation",
+      "Electrolysis",
+      "Fractional crystallisation",
+      "Reduction by carbon (smelting)"
+    ],
+    "options_ta": [
+      "திரவிகரிப்பு",
+      "மின் சிதைவியல்",
+      "பகுதி கண்ணோட்டம்",
+      "கார்பன் மூலம் குறைப்பது (smelting)"
+    ],
+    "answer_en": "Reduction by carbon (smelting)",
+    "answer_ta": "கார்பன் மூலம் குறைப்பது (smelting)"
+  },
+  {
+    "question_en": "Which law gives the relation between volume and temperature at constant pressure?",
+    "question_ta": "நியத அழுத்தத்தில் அளவுக்கும் வெப்பநிலையும் இடையே உறவை கொடுக்கும் சட்டம் எது?",
+    "options_en": [
+      "Graham's law",
+      "Boyle's law",
+      "Avogadro's law",
+      "Charles's law"
+    ],
+    "options_ta": [
+      "கிராஹம் சட்டம்",
+      "பாய்ல் சட்டம்",
+      "அவோகாட்ரோ சட்டம்",
+      "சார்ல்ஸ் சட்டம்"
+    ],
+    "answer_en": "Charles's law",
+    "answer_ta": "சார்ல்ஸ் சட்டம்"
+  },
+  {
+    "question_en": "Which is the major intermolecular force in water?",
+    "question_ta": "நீரில் மிக முக்கியமான இடைமைய பிணைப்பு (intermolecular force) எது?",
+    "options_en": [
+      "Ionic interactions",
+      "Dipole-dipole",
+      "Hydrogen bonding",
+      "London dispersion"
+    ],
+    "options_ta": [
+      "ஆயனிக் தொடர்புகள்",
+      "டிப்போல்-டிப்போல்",
+      "ஹைட்ரஜன் பிணைப்பு",
+      "லண்டன் பிரசரிப்பு"
+    ],
+    "answer_en": "Hydrogen bonding",
+    "answer_ta": "ஹைட்ரஜன் பிணைப்பு"
+  },
+  {
+    "question_en": "Which is a colligative property?",
+    "question_ta": "யாரும் பொருளின் கொலிகேட்டிவ் பண்பு எது?",
+    "options_en": [
+      "Color",
+      "Density",
+      "Boiling point elevation",
+      "Odour"
+    ],
+    "options_ta": [
+      "வண்ணம்",
+      "அடர்த்தி",
+      "கோதுமை உயர்வு",
+      "வாசனை"
+    ],
+    "answer_en": "Boiling point elevation",
+    "answer_ta": "கோதுமை உயர்வு"
+  },
+  {
+    "question_en": "What is the major product when benzene is nitrated?",
+    "question_ta": "பென்சீனை நைட்ரேட் செய்தால் பிரதான தயாரிப்பு எது?",
+    "options_en": [
+      "Nitrobenzene",
+      "Benzaldehyde",
+      "Aniline",
+      "Phenol"
+    ],
+    "options_ta": [
+      "நைட்ரோபென்சீன்",
+      "பென்சால்டிஹைடு",
+      "அனிலின்",
+      "பெனால்"
+    ],
+    "answer_en": "Nitrobenzene",
+    "answer_ta": "நைட்ரோபென்சீன்"
+  },
+  {
+    "question_en": "What is the major product when benzene is nitrated? (variant 1)",
+    "question_ta": "பென்சீனை நைட்ரேட் செய்தால் பிரதான தயாரிப்பு எது? (விருப்பம் 1)",
+    "options_en": [
+      "Benzaldehyde",
+      "Aniline",
+      "Phenol",
+      "Nitrobenzene"
+    ],
+    "options_ta": [
+      "பென்சால்டிஹைடு",
+      "அனிலின்",
+      "பெனால்",
+      "நைட்ரோபென்சீன்"
+    ],
+    "answer_en": "Nitrobenzene",
+    "answer_ta": "நைட்ரோபென்சீன்"
+  },
+  {
+    "question_en": "What is the major product when benzene is nitrated? (variant 1) (variant 2)",
+    "question_ta": "பென்சீனை நைட்ரேட் செய்தால் பிரதான தயாரிப்பு எது? (விருப்பம் 1) (விருப்பம் 2)",
+    "options_en": [
+      "Aniline",
+      "Phenol",
+      "Benzaldehyde",
+      "Nitrobenzene"
+    ],
+    "options_ta": [
+      "அனிலின்",
+      "பெனால்",
+      "பென்சால்டிஹைடு",
+      "நைட்ரோபென்சீன்"
+    ],
+    "answer_en": "Nitrobenzene",
+    "answer_ta": "நைட்ரோபென்சீன்"
+  },
+  {
+    "question_en": "What is the major product when benzene is nitrated? (variant 1) (variant 2) (variant 3)",
+    "question_ta": "பென்சீனை நைட்ரேட் செய்தால் பிரதான தயாரிப்பு எது? (விருப்பம் 1) (விருப்பம் 2) (விருப்பம் 3)",
+    "options_en": [
+      "Nitrobenzene",
+      "Phenol",
+      "Aniline",
+      "Benzaldehyde"
+    ],
+    "options_ta": [
+      "நைட்ரோபென்சீன்",
+      "பெனால்",
+      "அனிலின்",
+      "பென்சால்டிஹைடு"
+    ],
+    "answer_en": "Nitrobenzene",
+    "answer_ta": "நைட்ரோபென்சீன்"
+  },
+  {
+    "question_en": "What is the major product when benzene is nitrated? (variant 1) (variant 2) (variant 3) (variant 4)",
+    "question_ta": "பென்சீனை நைட்ரேட் செய்தால் பிரதான தயாரிப்பு எது? (விருப்பம் 1) (விருப்பம் 2) (விருப்பம் 3) (விருப்பம் 4)",
+    "options_en": [
+      "Benzaldehyde",
+      "Nitrobenzene",
+      "Phenol",
+      "Aniline"
+    ],
+    "options_ta": [
+      "பென்சால்டிஹைடு",
+      "நைட்ரோபென்சீன்",
+      "பெனால்",
+      "அனிலின்"
+    ],
+    "answer_en": "Nitrobenzene",
+    "answer_ta": "நைட்ரோபென்சீன்"
+  },
+  {
+    "question_en": "What is the major product when benzene is nitrated? (variant 1) (variant 2) (variant 3) (variant 4) (variant 5)",
+    "question_ta": "பென்சீனை நைட்ரேட் செய்தால் பிரதான தயாரிப்பு எது? (விருப்பம் 1) (விருப்பம் 2) (விருப்பம் 3) (விருப்பம் 4) (விருப்பம் 5)",
+    "options_en": [
+      "Benzaldehyde",
+      "Aniline",
+      "Phenol",
+      "Nitrobenzene"
+    ],
+    "options_ta": [
+      "பென்சால்டிஹைடு",
+      "அனிலின்",
+      "பெனால்",
+      "நைட்ரோபென்சீன்"
+    ],
+    "answer_en": "Nitrobenzene",
+    "answer_ta": "நைட்ரோபென்சீன்"
+  },
+  {
+    "question_en": "What is the major product when benzene is nitrated? (variant 1) (variant 2) (variant 3) (variant 4) (variant 5) (variant 6)",
+    "question_ta": "பென்சீனை நைட்ரேட் செய்தால் பிரதான தயாரிப்பு எது? (விருப்பம் 1) (விருப்பம் 2) (விருப்பம் 3) (விருப்பம் 4) (விருப்பம் 5) (விருப்பம் 6)",
+    "options_en": [
+      "Benzaldehyde",
+      "Aniline",
+      "Nitrobenzene",
+      "Phenol"
+    ],
+    "options_ta": [
+      "பென்சால்டிஹைடு",
+      "அனிலின்",
+      "நைட்ரோபென்சீன்",
+      "பெனால்"
+    ],
+    "answer_en": "Nitrobenzene",
+    "answer_ta": "நைட்ரோபென்சீன்"
+  },
+  {
+    "question_en": "What is the major product when benzene is nitrated? (variant 1) (variant 2) (variant 3) (variant 4) (variant 5) (variant 6) (variant 7)",
+    "question_ta": "பென்சீனை நைட்ரேட் செய்தால் பிரதான தயாரிப்பு எது? (விருப்பம் 1) (விருப்பம் 2) (விருப்பம் 3) (விருப்பம் 4) (விருப்பம் 5) (விருப்பம் 6) (விருப்பம் 7)",
+    "options_en": [
+      "Nitrobenzene",
+      "Phenol",
+      "Benzaldehyde",
+      "Aniline"
+    ],
+    "options_ta": [
+      "நைட்ரோபென்சீன்",
+      "பெனால்",
+      "பென்சால்டிஹைடு",
+      "அனிலின்"
+    ],
+    "answer_en": "Nitrobenzene",
+    "answer_ta": "நைட்ரோபென்சீன்"
+  },
+  {
+    "question_en": "What is the major product when benzene is nitrated? (variant 1) (variant 2) (variant 3) (variant 4) (variant 5) (variant 6) (variant 7) (variant 8)",
+    "question_ta": "பென்சீனை நைட்ரேட் செய்தால் பிரதான தயாரிப்பு எது? (விருப்பம் 1) (விருப்பம் 2) (விருப்பம் 3) (விருப்பம் 4) (விருப்பம் 5) (விருப்பம் 6) (விருப்பம் 7) (விருப்பம் 8)",
+    "options_en": [
+      "Phenol",
+      "Aniline",
+      "Nitrobenzene",
+      "Benzaldehyde"
+    ],
+    "options_ta": [
+      "பெனால்",
+      "அனிலின்",
+      "நைட்ரோபென்சீன்",
+      "பென்சால்டிஹைடு"
+    ],
+    "answer_en": "Nitrobenzene",
+    "answer_ta": "நைட்ரோபென்சீன்"
+  },
+  {
+    "question_en": "What is the major product when benzene is nitrated? (variant 1) (variant 2) (variant 3) (variant 4) (variant 5) (variant 6) (variant 7) (variant 8) (variant 9)",
+    "question_ta": "பென்சீனை நைட்ரேட் செய்தால் பிரதான தயாரிப்பு எது? (விருப்பம் 1) (விருப்பம் 2) (விருப்பம் 3) (விருப்பம் 4) (விருப்பம் 5) (விருப்பம் 6) (விருப்பம் 7) (விருப்பம் 8) (விருப்பம் 9)",
+    "options_en": [
+      "Phenol",
+      "Benzaldehyde",
+      "Nitrobenzene",
+      "Aniline"
+    ],
+    "options_ta": [
+      "பெனால்",
+      "பென்சால்டிஹைடு",
+      "நைட்ரோபென்சீன்",
+      "அனிலின்"
+    ],
+    "answer_en": "Nitrobenzene",
+    "answer_ta": "நைட்ரோபென்சீன்"
+  }
+]

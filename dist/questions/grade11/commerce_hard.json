@@ -1,0 +1,274 @@
+[
+  {
+    "question_en": "Which disadvantage is unique to a joint stock company compared to partnership?",
+    "question_ta": "கூட்டாண்மையுடன் ஒப்பிடும்போது கூட்டு பங்கு நிறுவனத்திற்கு தனித்துவமான குறை எது?",
+    "options_en": ["Limited liability", "Separate legal entity", "Double taxation", "Perpetual succession"],
+    "options_ta": ["வரையறுக்கப்பட்ட பொறுப்பு", "தனி சட்ட அங்கீகாரம்", "இரட்டை வரிவிதிப்பு", "நிரந்தர வாரிசு"],
+    "answer_en": "Double taxation",
+    "answer_ta": "இரட்டை வரிவிதிப்பு"
+  },
+  {
+    "question_en": "Which type of share cannot be redeemed?",
+    "question_ta": "எந்த வகை பங்குகளை மீட்டெடுக்க முடியாது?",
+    "options_en": ["Equity shares", "Preference shares", "Redeemable preference shares", "Bonus shares"],
+    "options_ta": ["இக்விட்டி பங்குகள்", "முன்னுரிமை பங்குகள்", "மீட்டெடுக்கக்கூடிய முன்னுரிமை பங்குகள்", "போனஸ் பங்குகள்"],
+    "answer_en": "Equity shares",
+    "answer_ta": "இக்விட்டி பங்குகள்"
+  },
+  {
+    "question_en": "Which principle of insurance prevents moral hazard?",
+    "question_ta": "எந்த காப்பீட்டு கொள்கை நெறிமுறை அபாயத்தைத் தடுக்கிறது?",
+    "options_en": ["Insurable interest", "Subrogation", "Contribution", "Utmost good faith"],
+    "options_ta": ["காப்பீடு செய்யக்கூடிய நலன்", "மாற்று உரிமை", "பங்களிப்பு", "அதிகபட்ச நல்லநம்பிக்கை"],
+    "answer_en": "Utmost good faith",
+    "answer_ta": "அதிகபட்ச நல்லநம்பிக்கை"
+  },
+  {
+    "question_en": "Which function of management is considered the essence of management?",
+    "question_ta": "நிர்வாகத்தின் எந்தச் செயல்பாடு நிர்வாகத்தின் சாரமாகக் கருதப்படுகிறது?",
+    "options_en": ["Controlling", "Planning", "Staffing", "Directing"],
+    "options_ta": ["கட்டுப்படுத்தல்", "திட்டமிடல்", "பணியாளர் நியமனம்", "வழிநடத்தல்"],
+    "answer_en": "Directing",
+    "answer_ta": "வழிநடத்தல்"
+  },
+  {
+    "question_en": "Which body issues guidelines for corporate governance in India?",
+    "question_ta": "இந்தியாவில் நிறுவன ஆட்சி விதிகளை வெளியிடும் அமைப்பு எது?",
+    "options_en": ["RBI", "SEBI", "IRDAI", "Ministry of Finance"],
+    "options_ta": ["இந்திய ரிசர்வ் வங்கி", "சீபி (SEBI)", "காப்பீட்டு ஆணையம்", "நிதி அமைச்சகம்"],
+    "answer_en": "SEBI",
+    "answer_ta": "சீபி (SEBI)"
+  },
+  {
+    "question_en": "Which risk arises from unforeseen natural calamities?",
+    "question_ta": "எதிர்பாராத இயற்கை பேரழிவுகளால் எந்த அபாயம் ஏற்படுகிறது?",
+    "options_en": ["Business risk", "Speculative risk", "Pure risk", "Operational risk"],
+    "options_ta": ["வணிக அபாயம்", "ஊக அபாயம்", "சுத்த அபாயம்", "செயல்பாட்டு அபாயம்"],
+    "answer_en": "Pure risk",
+    "answer_ta": "சுத்த அபாயம்"
+  },
+  {
+    "question_en": "Which international body resolves trade disputes?",
+    "question_ta": "வர்த்தகத் தகராறுகளைத் தீர்க்கும் சர்வதேச அமைப்பு எது?",
+    "options_en": ["World Bank", "IMF", "WTO", "UNCTAD"],
+    "options_ta": ["உலக வங்கி", "IMF", "WTO", "UNCTAD"],
+    "answer_en": "WTO",
+    "answer_ta": "WTO"
+  },
+  {
+    "question_en": "Which feature of partnership restricts the number of partners?",
+    "question_ta": "கூட்டாண்மையின் எந்த அம்சம் பங்குதாரர்களின் எண்ணிக்கையை வரையறுக்கிறது?",
+    "options_en": ["Unlimited liability", "Mutual agency", "Maximum number limit", "Profit sharing"],
+    "options_ta": ["வரையறையற்ற பொறுப்பு", "பரஸ்பர முகவர்", "அதிகபட்ச எண்ணிக்கை வரம்பு", "லாபப் பங்கீடு"],
+    "answer_en": "Maximum number limit",
+    "answer_ta": "அதிகபட்ச எண்ணிக்கை வரம்பு"
+  },
+  {
+    "question_en": "Which type of cooperative society is formed by small producers?",
+    "question_ta": "சிறு உற்பத்தியாளர்களால் உருவாக்கப்படும் கூட்டுறவு சங்கம் எது?",
+    "options_en": ["Credit society", "Consumer society", "Producer society", "Marketing society"],
+    "options_ta": ["கடன் சங்கம்", "நுகர்வோர் சங்கம்", "உற்பத்தியாளர் சங்கம்", "மார்க்கெட்டிங் சங்கம்"],
+    "answer_en": "Producer society",
+    "answer_ta": "உற்பத்தியாளர் சங்கம்"
+  },
+  {
+    "question_en": "Which is a key feature of e-commerce?",
+    "question_ta": "மின்னணு வர்த்தகத்தின் முக்கிய அம்சம் எது?",
+    "options_en": ["Face-to-face contact", "Electronic transactions", "Manual records", "Physical store"],
+    "options_ta": ["நேருக்கு நேர் தொடர்பு", "மின்னணு பரிவர்த்தனைகள்", "கைமுறை பதிவுகள்", "உடல் கடை"],
+    "answer_en": "Electronic transactions",
+    "answer_ta": "மின்னணு பரிவர்த்தனைகள்"
+  },
+  {
+    "question_en": "Which principle of management supports proper flow of communication?",
+    "question_ta": "தகவல் தொடர்பின் சரியான ஓட்டத்தை ஆதரிக்கும் மேலாண்மை கொள்கை எது?",
+    "options_en": ["Discipline", "Scalar chain", "Unity of command", "Equity"],
+    "options_ta": ["ஒழுக்கம்", "ஸ்கேலர் சங்கிலி", "கட்டளை ஒற்றுமை", "சமநிலை"],
+    "answer_en": "Scalar chain",
+    "answer_ta": "ஸ்கேலர் சங்கிலி"
+  },
+  {
+    "question_en": "Which Indian act governs companies?",
+    "question_ta": "நிறுவனங்களை ஒழுங்குபடுத்தும் இந்தியச் சட்டம் எது?",
+    "options_en": ["Partnership Act, 1932", "Companies Act, 2013", "SEBI Act, 1992", "Banking Regulation Act, 1949"],
+    "options_ta": ["கூட்டாண்மை சட்டம், 1932", "நிறுவனச் சட்டம், 2013", "சீபி சட்டம், 1992", "வங்கி ஒழுங்குமுறைச் சட்டம், 1949"],
+    "answer_en": "Companies Act, 2013",
+    "answer_ta": "நிறுவனச் சட்டம், 2013"
+  },
+  {
+    "question_en": "Which service reduces the problem of time and distance in business?",
+    "question_ta": "வணிகத்தில் நேரம் மற்றும் தூர பிரச்சினையை குறைக்கும் சேவை எது?",
+    "options_en": ["Banking", "Insurance", "Communication", "Warehousing"],
+    "options_ta": ["வங்கி", "காப்பீடு", "தகவல் தொடர்பு", "கிடங்கு"],
+    "answer_en": "Communication",
+    "answer_ta": "தகவல் தொடர்பு"
+  },
+  {
+    "question_en": "Which type of finance is raised by issuing debentures?",
+    "question_ta": "டெபெஞ்சர்கள் வெளியிடுவதன் மூலம் பெறப்படும் நிதி எது?",
+    "options_en": ["Short-term finance", "Medium-term finance", "Long-term finance", "Working capital"],
+    "options_ta": ["குறுகியகால நிதி", "இடைக்கால நிதி", "நீண்டகால நிதி", "வேலை மூலதனம்"],
+    "answer_en": "Long-term finance",
+    "answer_ta": "நீண்டகால நிதி"
+  },
+  {
+    "question_en": "Which feature of business differentiates it from profession?",
+    "question_ta": "வணிகத்தை தொழிலிலிருந்து வேறுபடுத்தும் அம்சம் எது?",
+    "options_en": ["Profit motive", "Code of conduct", "Special knowledge", "Regulatory body"],
+    "options_ta": ["லாப நோக்கம்", "நடத்தை விதிமுறை", "சிறப்பு அறிவு", "ஒழுங்குமுறை அமைப்பு"],
+    "answer_en": "Profit motive",
+    "answer_ta": "லாப நோக்கம்"
+  },
+  {
+    "question_en": "Which liability is limited to unpaid value of shares?",
+    "question_ta": "செலுத்தப்படாத பங்குகளின் மதிப்புக்கு மட்டுமே எந்த பொறுப்பு வரையறுக்கப்படுகிறது?",
+    "options_en": ["Company’s liability", "Shareholder’s liability", "Director’s liability", "Partner’s liability"],
+    "options_ta": ["நிறுவனத்தின் பொறுப்பு", "பங்குதாரரின் பொறுப்பு", "இயக்குநரின் பொறுப்பு", "பங்குதாரரின் பொறுப்பு"],
+    "answer_en": "Shareholder’s liability",
+    "answer_ta": "பங்குதாரரின் பொறுப்பு"
+  },
+  {
+    "question_en": "Which body grants certificate of commencement of business to public companies?",
+    "question_ta": "பொது நிறுவனங்களுக்கு வணிகத் தொடக்கச் சான்றிதழ் வழங்கும் அமைப்பு எது?",
+    "options_en": ["SEBI", "Registrar of Companies", "RBI", "IRDAI"],
+    "options_ta": ["சீபி", "நிறுவன பதிவாளர்", "இந்திய ரிசர்வ் வங்கி", "காப்பீட்டு ஆணையம்"],
+    "answer_en": "Registrar of Companies",
+    "answer_ta": "நிறுவன பதிவாளர்"
+  },
+  {
+    "question_en": "Which feature of a company ensures continuous existence?",
+    "question_ta": "நிறுவனத்தின் எந்த அம்சம் தொடர்ச்சியான இருப்பை உறுதி செய்கிறது?",
+    "options_en": ["Limited liability", "Separate entity", "Perpetual succession", "Transferability of shares"],
+    "options_ta": ["வரையறுக்கப்பட்ட பொறுப்பு", "தனி அங்கீகாரம்", "நிரந்தர வாரிசு", "பங்குகள் பரிமாற்றம்"],
+    "answer_en": "Perpetual succession",
+    "answer_ta": "நிரந்தர வாரிசு"
+  },
+  {
+    "question_en": "Which type of resolution requires three-fourths majority?",
+    "question_ta": "மூன்று-பாதி பெரும்பான்மை தேவைப்படும் தீர்மானம் எது?",
+    "options_en": ["Ordinary resolution", "Special resolution", "Board resolution", "Circulation resolution"],
+    "options_ta": ["சாதாரண தீர்மானம்", "சிறப்பு தீர்மானம்", "இயக்குநர் தீர்மானம்", "சுழற்சி தீர்மானம்"],
+    "answer_en": "Special resolution",
+    "answer_ta": "சிறப்பு தீர்மானம்"
+  },
+  {
+    "question_en": "Which document is called the prospectus of a company?",
+    "question_ta": "ஒரு நிறுவனத்தின் விழிப்புணர்வு ஆவணம் எது?",
+    "options_en": ["Invitation to public", "Memorandum", "Articles", "Resolution"],
+    "options_ta": ["பொதுமக்களை அழைப்பு", "நினைவுப்பதிவு", "விதிகள்", "தீர்மானம்"],
+    "answer_en": "Invitation to public",
+    "answer_ta": "பொதுமக்களை அழைப்பு"
+  },
+  {
+    "question_en": "Which feature of insurance helps in spreading risk?",
+    "question_ta": "காப்பீட்டின் எந்த அம்சம் அபாயத்தை பரப்ப உதவுகிறது?",
+    "options_en": ["Pooling of risk", "Utmost good faith", "Indemnity", "Insurable interest"],
+    "options_ta": ["அபாயத்தை ஒன்றுகூறுதல்", "அதிகபட்ச நல்லநம்பிக்கை", "ஈடு", "காப்பீடு செய்யக்கூடிய நலன்"],
+    "answer_en": "Pooling of risk",
+    "answer_ta": "அபாயத்தை ஒன்றுகூறுதல்"
+  },
+  {
+    "question_en": "Which principle of management ensures one head and one plan?",
+    "question_ta": "ஒரு தலைவரும் ஒரு திட்டமும் இருக்க வேண்டும் என்பதைக் கூறும் மேலாண்மை கொள்கை எது?",
+    "options_en": ["Unity of direction", "Unity of command", "Scalar chain", "Division of work"],
+    "options_ta": ["திசை ஒற்றுமை", "கட்டளை ஒற்றுமை", "ஸ்கேலர் சங்கிலி", "வேலைப் பிரிவு"],
+    "answer_en": "Unity of direction",
+    "answer_ta": "திசை ஒற்றுமை"
+  },
+  {
+    "question_en": "Which is not a function of SEBI?",
+    "question_ta": "சீபியின் செயல்பாடுகளில் எது அல்ல?",
+    "options_en": ["Regulate stock exchanges", "Protect investors", "Issue currency", "Promote fair trading"],
+    "options_ta": ["பங்கு சந்தைகளை ஒழுங்குபடுத்துதல்", "முதலீட்டாளர்களைப் பாதுகாத்தல்", "நாணயத்தை வெளியிடுதல்", "நியாயமான வர்த்தகத்தை ஊக்குவித்தல்"],
+    "answer_en": "Issue currency",
+    "answer_ta": "நாணயத்தை வெளியிடுதல்"
+  },
+  {
+    "question_en": "Which is an example of internal trade?",
+    "question_ta": "உள்நாட்டு வர்த்தகத்தின் உதாரணம் எது?",
+    "options_en": ["Export of tea to UK", "Sale of wheat in Tamil Nadu", "Import of cars from Japan", "Sale of crude oil abroad"],
+    "options_ta": ["தேயிலை யுகேய்க்கு ஏற்றுமதி", "தமிழ்நாட்டில் கோதுமை விற்பனை", "ஜப்பானிலிருந்து கார் இறக்குமதி", "வெளிநாட்டில் கச்சா எண்ணெய் விற்பனை"],
+    "answer_en": "Sale of wheat in Tamil Nadu",
+    "answer_ta": "தமிழ்நாட்டில் கோதுமை விற்பனை"
+  },
+  {
+    "question_en": "Which authority regulates insurance companies in India?",
+    "question_ta": "இந்தியாவில் காப்பீட்டு நிறுவனங்களை ஒழுங்குபடுத்தும் அதிகாரம் எது?",
+    "options_en": ["RBI", "IRDAI", "SEBI", "Finance Ministry"],
+    "options_ta": ["இந்திய ரிசர்வ் வங்கி", "ஐஆர்டிஏஐ", "சீபி", "நிதி அமைச்சகம்"],
+    "answer_en": "IRDAI",
+    "answer_ta": "ஐஆர்டிஏஐ"
+  },
+  {
+    "question_en": "Which principle of insurance allows insurer to step into the shoes of insured?",
+    "question_ta": "காப்பீட்டின் எந்தக் கொள்கை காப்பீட்டாளரை காப்பீட்டாளரின் இடத்தை எடுக்க அனுமதிக்கிறது?",
+    "options_en": ["Contribution", "Subrogation", "Indemnity", "Utmost good faith"],
+    "options_ta": ["பங்களிப்பு", "மாற்று உரிமை", "ஈடு", "அதிகபட்ச நல்லநம்பிக்கை"],
+    "answer_en": "Subrogation",
+    "answer_ta": "மாற்று உரிமை"
+  },
+  {
+    "question_en": "Which type of resolution is passed in board meetings?",
+    "question_ta": "இயக்குநர் கூட்டங்களில் எவ்வகை தீர்மானம் நிறைவேற்றப்படுகிறது?",
+    "options_en": ["Ordinary resolution", "Special resolution", "Board resolution", "Statutory resolution"],
+    "options_ta": ["சாதாரண தீர்மானம்", "சிறப்பு தீர்மானம்", "இயக்குநர் தீர்மானம்", "சட்ட தீர்மானம்"],
+    "answer_en": "Board resolution",
+    "answer_ta": "இயக்குநர் தீர்மானம்"
+  },
+  {
+    "question_en": "Which is a feature of cooperative society?",
+    "question_ta": "கூட்டுறவு சங்கத்தின் ஒரு அம்சம் எது?",
+    "options_en": ["Profit motive", "Service motive", "Unlimited liability", "Transfer of shares"],
+    "options_ta": ["லாப நோக்கம்", "சேவை நோக்கம்", "வரையறையற்ற பொறுப்பு", "பங்குகள் பரிமாற்றம்"],
+    "answer_en": "Service motive",
+    "answer_ta": "சேவை நோக்கம்"
+  },
+  {
+    "question_en": "Which type of partner does not share profit but allows his name to be used?",
+    "question_ta": "லாபத்தில் பங்குகொள்ளாமல் தனது பெயரை பயன்படுத்த அனுமதிக்கும் பங்குதாரர் யார்?",
+    "options_en": ["Nominal partner", "Active partner", "Sleeping partner", "Limited partner"],
+    "options_ta": ["பெயரளவு பங்குதாரர்", "செயலில் உள்ளவர்", "தூங்குபவர்", "வரையறுக்கப்பட்டவர்"],
+    "answer_en": "Nominal partner",
+    "answer_ta": "பெயரளவு பங்குதாரர்"
+  },
+  {
+    "question_en": "Which management principle is related to fair division of work?",
+    "question_ta": "வேலைகளை நியாயமாகப் பிரிப்பதற்கு தொடர்பான மேலாண்மை கொள்கை எது?",
+    "options_en": ["Discipline", "Division of work", "Scalar chain", "Remuneration"],
+    "options_ta": ["ஒழுக்கம்", "வேலைப் பிரிவு", "ஸ்கேலர் சங்கிலி", "ஊதியம்"],
+    "answer_en": "Division of work",
+    "answer_ta": "வேலைப் பிரிவு"
+  },
+  {
+    "question_en": "Which is an example of foreign trade?",
+    "question_ta": "வெளிநாட்டு வர்த்தகத்தின் உதாரணம் எது?",
+    "options_en": ["Sale of rice in Chennai", "Import of oil from Gulf countries", "Sale of sugar in Delhi", "Buying vegetables in market"],
+    "options_ta": ["சென்னையில் அரிசி விற்பனை", "கல்ஃப் நாடுகளிலிருந்து எண்ணெய் இறக்குமதி", "டெல்லியில் சர்க்கரை விற்பனை", "சந்தையில் காய்கறி வாங்குதல்"],
+    "answer_en": "Import of oil from Gulf countries",
+    "answer_ta": "கல்ஃப் நாடுகளிலிருந்து எண்ணெய் இறக்குமதி"
+  },
+  {
+    "question_en": "Which source of business finance is costliest?",
+    "question_ta": "எந்த வணிக நிதி ஆதாரம் மிகவும் செலவானது?",
+    "options_en": ["Equity shares", "Debentures", "Loans", "Retained earnings"],
+    "options_ta": ["இக்விட்டி பங்குகள்", "டெபெஞ்சர்கள்", "கடன்கள்", "சேமிக்கப்பட்ட லாபம்"],
+    "answer_en": "Equity shares",
+    "answer_ta": "இக்விட்டி பங்குகள்"
+  },
+  {
+    "question_en": "Which principle of insurance is violated if insured gains more than actual loss?",
+    "question_ta": "காப்பீட்டாளர் உண்மையான இழப்பை விட அதிகம் பெறும்போது எந்த காப்பீட்டு கொள்கை மீறப்படுகிறது?",
+    "options_en": ["Indemnity", "Contribution", "Proximate cause", "Utmost good faith"],
+    "options_ta": ["ஈடு", "பங்களிப்பு", "அருகிய காரணம்", "அதிகபட்ச நல்லநம்பிக்கை"],
+    "answer_en": "Indemnity",
+    "answer_ta": "ஈடு"
+  },
+  {
+    "question_en": "Which principle of management stresses team spirit?",
+    "question_ta": "எந்த மேலாண்மை கொள்கை குழு உணர்வை வலியுறுத்துகிறது?",
+    "options_en": ["Esprit de corps", "Equity", "Discipline", "Centralisation"],
+    "options_ta": ["குழு உணர்வு (Esprit de corps)", "சமநிலை", "ஒழுக்கம்", "மையப்படுத்தல்"],
+    "answer_en": "Esprit de corps",
+    "answer_ta": "குழு உணர்வு (Esprit de corps)"
+  }
+]

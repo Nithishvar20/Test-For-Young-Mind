@@ -1,0 +1,234 @@
+[
+  {
+    "question_en": "Which article of the Indian Constitution abolishes untouchability?",
+    "question_ta": "இந்திய அரசியலமைப்பின் எந்த கட்டுரை தொடாத தன்மையை நீக்குகிறது?",
+    "options_en": ["Article 14", "Article 17", "Article 19", "Article 21"],
+    "options_ta": ["கட்டுரை 14", "கட்டுரை 17", "கட்டுரை 19", "கட்டுரை 21"],
+    "answer_en": "Article 17",
+    "answer_ta": "கட்டுரை 17"
+  },
+  {
+    "question_en": "Which treaty ended the First World War?",
+    "question_ta": "முதல் உலகப் போருக்கு முற்றுப்புள்ளி வைத்த ஒப்பந்தம் எது?",
+    "options_en": ["Treaty of Paris", "Treaty of Versailles", "Treaty of Vienna", "Treaty of London"],
+    "options_ta": ["பாரிஸ் ஒப்பந்தம்", "வர்சாய்ஸ் ஒப்பந்தம்", "வியன்னா ஒப்பந்தம்", "லண்டன் ஒப்பந்தம்"],
+    "answer_en": "Treaty of Versailles",
+    "answer_ta": "வர்சாய்ஸ் ஒப்பந்தம்"
+  },
+  {
+    "question_en": "Which year did the Great Depression begin?",
+    "question_ta": "பெரிய பொருளாதார மந்தம் எந்த ஆண்டு தொடங்கியது?",
+    "options_en": ["1927", "1929", "1931", "1935"],
+    "options_ta": ["1927", "1929", "1931", "1935"],
+    "answer_en": "1929",
+    "answer_ta": "1929"
+  },
+  {
+    "question_en": "Who was the first Governor-General of independent India?",
+    "question_ta": "சுதந்திரமான இந்தியாவின் முதல் ஆளுநர் ஜெனரல் யார்?",
+    "options_en": ["Lord Mountbatten", "C. Rajagopalachari", "Warren Hastings", "Rajendra Prasad"],
+    "options_ta": ["லார்ட் மவுண்ட்பேட்டன்", "சி. ராஜகோபாலாச்சாரி", "வாரன் ஹேஸ்டிங்ஸ்", "ராஜேந்திர பிரசாத்"],
+    "answer_en": "Lord Mountbatten",
+    "answer_ta": "லார்ட் மவுண்ட்பேட்டன்"
+  },
+  {
+    "question_en": "The Bolsheviks in Russia were led by whom?",
+    "question_ta": "ரஷ்யாவில் போல்ஷெவிக்குகளை வழிநடத்தியவர் யார்?",
+    "options_en": ["Karl Marx", "Lenin", "Trotsky", "Stalin"],
+    "options_ta": ["கார்ல் மார்க்ஸ்", "லெனின்", "ட்ரோட்ஸ்கி", "ஸ்டாலின்"],
+    "answer_en": "Lenin",
+    "answer_ta": "லெனின்"
+  },
+  {
+    "question_en": "Which Indian Act introduced the system of Dyarchy?",
+    "question_ta": "இந்தியாவில் இரட்டை ஆட்சியை அறிமுகப்படுத்திய சட்டம் எது?",
+    "options_en": ["Government of India Act 1909", "Government of India Act 1919", "Government of India Act 1935", "Indian Councils Act 1892"],
+    "options_ta": ["1909 இந்திய ஆட்சிச் சட்டம்", "1919 இந்திய ஆட்சிச் சட்டம்", "1935 இந்திய ஆட்சிச் சட்டம்", "1892 இந்திய கவுன்சில் சட்டம்"],
+    "answer_en": "Government of India Act 1919",
+    "answer_ta": "1919 இந்திய ஆட்சிச் சட்டம்"
+  },
+  {
+    "question_en": "The League of Nations was formed after which war?",
+    "question_ta": "எந்தப் போருக்குப் பிறகு நாடுகளின் சங்கம் உருவாக்கப்பட்டது?",
+    "options_en": ["First World War", "Second World War", "Cold War", "Crimean War"],
+    "options_ta": ["முதல் உலகப் போர்", "இரண்டாம் உலகப் போர்", "குளிர்போர்", "கிரிமியப் போர்"],
+    "answer_en": "First World War",
+    "answer_ta": "முதல் உலகப் போர்"
+  },
+  {
+    "question_en": "Which Indian state has ‘Tropical Evergreen Forests’ in large scale?",
+    "question_ta": "பெரிய அளவில் ‘வளிமண்டல நிலை எப்போதும் பசுமை காடுகள்’ உள்ள மாநிலம் எது?",
+    "options_en": ["Kerala", "Rajasthan", "Punjab", "Haryana"],
+    "options_ta": ["கேரளா", "ராஜஸ்தான்", "பஞ்சாப்", "ஹரியானா"],
+    "answer_en": "Kerala",
+    "answer_ta": "கேரளா"
+  },
+  {
+    "question_en": "Which latitude passes almost through the middle of India?",
+    "question_ta": "இந்தியாவின் நடுப்பகுதியை கடக்கும் அகலாங்கு எது?",
+    "options_en": ["Equator", "Tropic of Cancer", "Tropic of Capricorn", "Arctic Circle"],
+    "options_ta": ["விடுதலை கோடு", "கடக ரேகை", "மகர ரேகை", "ஆர்க்டிக் வட்டம்"],
+    "answer_en": "Tropic of Cancer",
+    "answer_ta": "கடக ரேகை"
+  },
+  {
+    "question_en": "Which river is known as the ‘Sorrow of Bihar’?",
+    "question_ta": "‘பீஹாரின் துயரம்’ என்று அழைக்கப்படும் நதி எது?",
+    "options_en": ["Ganga", "Kosi", "Son", "Ghagra"],
+    "options_ta": ["கங்கை", "கோசி", "சோன்", "காக்ரா"],
+    "answer_en": "Kosi",
+    "answer_ta": "கோசி"
+  },
+  {
+    "question_en": "Which battle marked the beginning of British supremacy in India?",
+    "question_ta": "இந்தியாவில் பிரிட்டிஷ் ஆதிக்கத்தின் துவக்கமாக அமைந்த போர் எது?",
+    "options_en": ["Battle of Panipat", "Battle of Plassey", "Battle of Buxar", "Battle of Talikota"],
+    "options_ta": ["பாணிபட் போர்", "பிளாசி போர்", "பக்சார் போர்", "தாலிகோட்டை போர்"],
+    "answer_en": "Battle of Plassey",
+    "answer_ta": "பிளாசி போர்"
+  },
+  {
+    "question_en": "Which Indian leader gave the slogan ‘Swaraj is my birthright’?",
+    "question_ta": "‘சுவராஜ் என் பிறப்புரிமை’ என்ற கோஷத்தை எழுப்பிய இந்தியத் தலைவர் யார்?",
+    "options_en": ["Mahatma Gandhi", "Bal Gangadhar Tilak", "Lala Lajpat Rai", "Bipin Chandra Pal"],
+    "options_ta": ["மகாத்மா காந்தி", "பால கங்காதர் திலக்", "லாலா லஜ்பத் ராய்", "பிபின் சந்திர பால்"],
+    "answer_en": "Bal Gangadhar Tilak",
+    "answer_ta": "பால கங்காதர் திலக்"
+  },
+  {
+    "question_en": "Which mountain pass connects India with Afghanistan?",
+    "question_ta": "இந்தியாவையும் ஆப்கானிஸ்தானையும் இணைக்கும் மலைவழி எது?",
+    "options_en": ["Nathu La", "Khyber Pass", "Shipki La", "Zojila"],
+    "options_ta": ["நாதுலா", "கைபர் பாஸ்", "ஷிப்கிலா", "சோஜிலா"],
+    "answer_en": "Khyber Pass",
+    "answer_ta": "கைபர் பாஸ்"
+  },
+  {
+    "question_en": "Which is the oldest mountain range in India?",
+    "question_ta": "இந்தியாவின் பழமையான மலைத்தொடர் எது?",
+    "options_en": ["Himalayas", "Aravalli", "Vindhya", "Satpura"],
+    "options_ta": ["ஹிமாலயா", "அராவள்ளி", "விந்த்யா", "சத்புரா"],
+    "answer_en": "Aravalli",
+    "answer_ta": "அராவள்ளி"
+  },
+  {
+    "question_en": "Who was the Viceroy of India during Quit India Movement?",
+    "question_ta": "இந்தியா விட்டு வெளியேறு இயக்கத்தின் போது இந்தியாவின் வைச்ராய் யார்?",
+    "options_en": ["Lord Mountbatten", "Lord Linlithgow", "Lord Irwin", "Lord Wavell"],
+    "options_ta": ["லார்ட் மவுண்ட்பேட்டன்", "லார்ட் லின்லித்கோ", "லார்ட் இர்வின்", "லார்ட் வேவல்"],
+    "answer_en": "Lord Linlithgow",
+    "answer_ta": "லார்ட் லின்லித்கோ"
+  },
+  {
+    "question_en": "Which Indian state is the leading producer of coffee?",
+    "question_ta": "இந்தியாவில் காபி அதிகம் உற்பத்தி செய்யும் மாநிலம் எது?",
+    "options_en": ["Kerala", "Karnataka", "Tamil Nadu", "Andhra Pradesh"],
+    "options_ta": ["கேரளா", "கர்நாடகா", "தமிழ்நாடு", "ஆந்திரப் பிரதேசம்"],
+    "answer_en": "Karnataka",
+    "answer_ta": "கர்நாடகா"
+  },
+  {
+    "question_en": "Which is the highest dam in India?",
+    "question_ta": "இந்தியாவின் உயரமான அணை எது?",
+    "options_en": ["Bhakra Nangal", "Hirakud", "Tehri", "Sardar Sarovar"],
+    "options_ta": ["பாக்ரா நாங்கல்", "ஹிராகுட்", "தேஹ்ரி", "சர்தார் சரோவரர்"],
+    "answer_en": "Tehri",
+    "answer_ta": "தேஹ்ரி"
+  },
+  {
+    "question_en": "Which river is called ‘Dakshin Ganga’?",
+    "question_ta": "‘தட்சிண கங்கை’ என்று அழைக்கப்படும் நதி எது?",
+    "options_en": ["Godavari", "Krishna", "Kaveri", "Narmada"],
+    "options_ta": ["கோதாவரி", "கிருஷ்ணா", "காவிரி", "நர்மதா"],
+    "answer_en": "Godavari",
+    "answer_ta": "கோதாவரி"
+  },
+  {
+    "question_en": "The Duma was the parliament of which country?",
+    "question_ta": "டூமா எந்த நாட்டின் நாடாளுமன்றம்?",
+    "options_en": ["Germany", "Russia", "France", "Italy"],
+    "options_ta": ["ஜெர்மனி", "ரஷ்யா", "பிரான்ஸ்", "இத்தாலி"],
+    "answer_en": "Russia",
+    "answer_ta": "ரஷ்யா"
+  },
+  {
+    "question_en": "Which plan is known as the ‘Gandhian Plan’?",
+    "question_ta": "‘காந்திய திட்டம்’ என்று அழைக்கப்படும் திட்டம் எது?",
+    "options_en": ["Second Five Year Plan", "Third Five Year Plan", "Nehru Plan", "Sarvodaya Plan"],
+    "options_ta": ["இரண்டாம் ஐந்தாண்டுத் திட்டம்", "மூன்றாம் ஐந்தாண்டுத் திட்டம்", "நேரு திட்டம்", "சர்வோதய திட்டம்"],
+    "answer_en": "Sarvodaya Plan",
+    "answer_ta": "சர்வோதய திட்டம்"
+  },
+  {
+    "question_en": "Which Prime Minister gave the slogan ‘Garibi Hatao’?",
+    "question_ta": "‘கறிபி ஹடாவோ’ என்ற கோஷத்தை எழுப்பிய பிரதமர் யார்?",
+    "options_en": ["Jawaharlal Nehru", "Lal Bahadur Shastri", "Indira Gandhi", "Rajiv Gandhi"],
+    "options_ta": ["ஜவஹர்லால் நேரு", "லால் பகதூர் சாஸ்திரி", "இந்திரா காந்தி", "ராஜீவ் காந்தி"],
+    "answer_en": "Indira Gandhi",
+    "answer_ta": "இந்திரா காந்தி"
+  },
+  {
+    "question_en": "Which latitude is also known as the ‘Great Circle’?",
+    "question_ta": "‘பெரிய வட்டம்’ என்று அழைக்கப்படும் அகலாங்கு எது?",
+    "options_en": ["Equator", "Tropic of Cancer", "Tropic of Capricorn", "Arctic Circle"],
+    "options_ta": ["விடுதலை கோடு", "கடக ரேகை", "மகர ரேகை", "ஆர்க்டிக் வட்டம்"],
+    "answer_en": "Equator",
+    "answer_ta": "விடுதலை கோடு"
+  },
+  {
+    "question_en": "Which battle is considered the turning point of World War II?",
+    "question_ta": "இரண்டாம் உலகப்போரின் திருப்புமுனை எனக் கருதப்படும் போர் எது?",
+    "options_en": ["Battle of Stalingrad", "Battle of Midway", "Battle of El Alamein", "Battle of Normandy"],
+    "options_ta": ["ஸ்டாலின்கிராட் போர்", "மிட்வே போர்", "எல் அலமைன் போர்", "நார்மண்டி போர்"],
+    "answer_en": "Battle of Stalingrad",
+    "answer_ta": "ஸ்டாலின்கிராட் போர்"
+  },
+  {
+    "question_en": "Who was the founder of Fascism in Italy?",
+    "question_ta": "இத்தாலியில் ஃபாசிசத்தை நிறுவியவர் யார்?",
+    "options_en": ["Mussolini", "Hitler", "Franco", "Lenin"],
+    "options_ta": ["முசோலினி", "ஹிட்லர்", "ஃபிராங்கோ", "லெனின்"],
+    "answer_en": "Mussolini",
+    "answer_ta": "முசோலினி"
+  },
+  {
+    "question_en": "Who was the last Governor-General of independent India?",
+    "question_ta": "சுதந்திரமான இந்தியாவின் கடைசி ஆளுநர் ஜெனரல் யார்?",
+    "options_en": ["Lord Mountbatten", "C. Rajagopalachari", "Rajendra Prasad", "Jawaharlal Nehru"],
+    "options_ta": ["லார்ட் மவுண்ட்பேட்டன்", "சி. ராஜகோபாலாச்சாரி", "ராஜேந்திர பிரசாத்", "ஜவஹர்லால் நேரு"],
+    "answer_en": "C. Rajagopalachari",
+    "answer_ta": "சி. ராஜகோபாலாச்சாரி"
+  },
+  {
+    "question_en": "Which amendment lowered the voting age from 21 to 18 in India?",
+    "question_ta": "இந்தியாவில் வாக்களிக்கும் வயதை 21 இல் இருந்து 18 ஆகக் குறைத்த திருத்தம் எது?",
+    "options_en": ["42nd Amendment", "44th Amendment", "61st Amendment", "73rd Amendment"],
+    "options_ta": ["42வது திருத்தம்", "44வது திருத்தம்", "61வது திருத்தம்", "73வது திருத்தம்"],
+    "answer_en": "61st Amendment",
+    "answer_ta": "61வது திருத்தம்"
+  },
+  {
+    "question_en": "Which country first adopted the policy of Apartheid?",
+    "question_ta": "அப்பார்ட்ஹெய்டு கொள்கையை முதலில் ஏற்ற நாடு எது?",
+    "options_en": ["USA", "South Africa", "Germany", "Brazil"],
+    "options_ta": ["அமெரிக்கா", "தென் ஆப்ரிக்கா", "ஜெர்மனி", "பிரேசில்"],
+    "answer_en": "South Africa",
+    "answer_ta": "தென் ஆப்ரிக்கா"
+  },
+  {
+    "question_en": "Which is the highest mountain peak in South India?",
+    "question_ta": "தென்னிந்தியாவின் உயரமான மலைச் சிகரம் எது?",
+    "options_en": ["Doddabetta", "Anaimudi", "Kudremukh", "Agasthyakoodam"],
+    "options_ta": ["தொடடபெட்டா", "அணைமுடி", "குத்ரேமுக்", "அகஸ்தியகூடம்"],
+    "answer_en": "Anaimudi",
+    "answer_ta": "அணைமுடி"
+  },
+  {
+    "question_en": "Who gave the slogan ‘Workers of the world, unite’?",
+    "question_ta": "‘உலகத் தொழிலாளர்களே, ஒன்றிணைவீர்’ என்ற கோஷத்தை எழுப்பியவர் யார்?",
+    "options_en": ["Lenin", "Karl Marx", "Trotsky", "Stalin"],
+    "options_ta": ["லெனின்", "கார்ல் மார்க்ஸ்", "ட்ரோட்ஸ்கி", "ஸ்டாலின்"],
+    "answer_en": "Karl Marx",
+    "answer_ta": "கார்ல் மார்க்ஸ்"
+  }
+]

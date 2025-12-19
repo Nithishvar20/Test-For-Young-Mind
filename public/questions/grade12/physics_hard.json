@@ -1,0 +1,470 @@
+[
+  {
+    "question_en": "State Faraday's law of electromagnetic induction.",
+    "question_ta": "பாரடை (Faraday) மின் சிதைவியல் சட்டத்தை குறிப்பிடு.",
+    "options_en": [
+      "ε = IR",
+      "ε = -dΦ/dt (emf induced equals negative rate of change of magnetic flux)",
+      "V=IR",
+      "F=qE"
+    ],
+    "options_ta": [
+      "ε = IR",
+      "ε = -dΦ/dt (மின்இச்சை = - காந்த ஓட்ட மாற்றவிகிதம்)",
+      "V=IR",
+      "F=qE"
+    ],
+    "answer_en": "ε = -dΦ/dt (emf induced equals negative rate of change of magnetic flux)",
+    "answer_ta": "ε = -dΦ/dt (மின்இச்சை = - காந்த ஓட்ட மாற்றவிகிதம்)"
+  },
+  {
+    "question_en": "Expression for time period of LC oscillation?",
+    "question_ta": "LC அதிர்வின் கால அவகாசம் எனப்படுவது?",
+    "options_en": [
+      "T = 1/RC",
+      "T = 2π√(LC)",
+      "T = 2πL/C",
+      "T = LC"
+    ],
+    "options_ta": [
+      "T = 1/RC",
+      "T = 2π√(LC)",
+      "T = 2πL/C",
+      "T = LC"
+    ],
+    "answer_en": "T = 2π√(LC)",
+    "answer_ta": "T = 2π√(LC)"
+  },
+  {
+    "question_en": "Radius of charged particle (charge q, mass m) moving perpendicular to B with velocity v?",
+    "question_ta": "காந்த புலம் B-க்கு செங்குத்தாக v வேகத்தில் செல்லும் சார்ஜ் q, மாஸ் m உடைய துதியின் வட்டம்?",
+    "options_en": [
+      "r = qB/mv",
+      "r = q/mvB",
+      "r = m/qvB",
+      "r = mv/qB"
+    ],
+    "options_ta": [
+      "r = qB/mv",
+      "r = q/mvB",
+      "r = m/qvB",
+      "r = mv/qB"
+    ],
+    "answer_en": "r = mv/qB",
+    "answer_ta": "r = mv/qB"
+  },
+  {
+    "question_en": "Derive relation between half-life and decay constant.",
+    "question_ta": "அரை ஆயுள் மற்றும் அழிவு நிலையான λ இடையிலான உறவை காண்க.",
+    "options_en": [
+      "T1/2 = 1/λ",
+      "T1/2 = λ/ln2",
+      "T1/2 = 2π/λ",
+      "T1/2 = ln2 / λ"
+    ],
+    "options_ta": [
+      "T1/2 = 1/λ",
+      "T1/2 = λ/ln2",
+      "T1/2 = 2π/λ",
+      "T1/2 = ln2 / λ"
+    ],
+    "answer_en": "T1/2 = ln2 / λ",
+    "answer_ta": "T1/2 = ln2 / λ"
+  },
+  {
+    "question_en": "Which detector is best for gamma rays?",
+    "question_ta": "காமா கதிர்களை கண்டறிய சிறந்த கருவி எது?",
+    "options_en": [
+      "LDR",
+      "Photodiode",
+      "Thermocouple",
+      "Scintillation detector"
+    ],
+    "options_ta": [
+      "LDR",
+      "போட்டோடைஒடு",
+      "தெர்மோக்கோபிள்",
+      "ஸ்சின்டில்லேஷன் கண்டறிதல்"
+    ],
+    "answer_en": "Scintillation detector",
+    "answer_ta": "ஸ்சின்டில்லேஷன் கண்டறிதல்"
+  },
+  {
+    "question_en": "What causes Compton scattering?",
+    "question_ta": "காம்டன் சிதைவு என்னால் ஏற்படுகிறது?",
+    "options_en": [
+      "Nuclear fusion",
+      "Neutron decay",
+      "Photon-electron collision",
+      "Alpha emission"
+    ],
+    "options_ta": [
+      "அணு இணைவு",
+      "நியூட்ரான் சிதைவு",
+      "போதிரன்-எலக்ட்ரான் மோதல்",
+      "ஆல்பா வெளியீடு"
+    ],
+    "answer_en": "Photon-electron collision",
+    "answer_ta": "போதிரன்-எலக்ட்ரான் மோதல்"
+  },
+  {
+    "question_en": "Define work function in photoelectric effect.",
+    "question_ta": "போட்டோஎலெக்ட்ரிக் விளைவில் work function என்பதின் வரையறை என்ன?",
+    "options_en": [
+      "Wavelength",
+      "Maximum kinetic energy of electrons",
+      "Minimum energy to remove electron from surface",
+      "Intensity of light"
+    ],
+    "options_ta": [
+      "அதிர்வேகம்",
+      "எலக்ட்ரான்களின் அதிகபட்ச இயக்க சக்தி",
+      "பரப்பிலிருந்து எலக்ட்ரானை அகற்ற குறைந்தபட்ச சக்தி",
+      "ஒளியின் தீவிரம்"
+    ],
+    "answer_en": "Minimum energy to remove electron from surface",
+    "answer_ta": "பரப்பிலிருந்து எலக்ட்ரானை அகற்ற குறைந்தபட்ச சக்தி"
+  },
+  {
+    "question_en": "Condition for total internal reflection?",
+    "question_ta": "முழு உள் பிரதிபலிப்பு எப்போது நடக்கும்?",
+    "options_en": [
+      "Incident angle < critical angle",
+      "Always",
+      "Incident angle > critical angle",
+      "Normal incidence"
+    ],
+    "options_ta": [
+      "சம்பவிக்கும் கோணம் < தீர்க்கக் கோணம்",
+      "எப்போதும்",
+      "சம்பவிக்கும் கோணம் > தீர்க்கக் கோணம்",
+      "சாதாரண தாக்குதல்"
+    ],
+    "answer_en": "Incident angle > critical angle",
+    "answer_ta": "சம்பவிக்கும் கோணம் > தீர்க்கக் கோணம்"
+  },
+  {
+    "question_en": "Explain population inversion in LASER.",
+    "question_ta": "LASER-ல் population inversion என்ன?",
+    "options_en": [
+      "More atoms in excited state than ground",
+      "Only thermal distribution",
+      "Equal populations",
+      "No excited states"
+    ],
+    "options_ta": [
+      "excited நிலையிலுள்ள அணுக்கள் ground-ஐவிட அதிகமாக இருக்கும்",
+      "வெறும் வெப்ப பகிர்வு",
+      "சமமான மக்கள் தொகை",
+      "excited இல்லை"
+    ],
+    "answer_en": "More atoms in excited state than ground",
+    "answer_ta": "excited நிலையிலுள்ள அணுக்கள் ground-ஐவிட அதிகமாக இருக்கும்"
+  },
+  {
+    "question_en": "Which quantum number determines orbital shape?",
+    "question_ta": "ஆர்பிட்டலின் வடிவத்தை யார் தீர்மானிக்கிற குவாண்டம் எண்?",
+    "options_en": [
+      "Spin quantum number (s)",
+      "Azimuthal quantum number (l)",
+      "Principal quantum number (n)",
+      "Magnetic quantum number (m)"
+    ],
+    "options_ta": [
+      "சுழற்சி குவாண்டம் (s)",
+      "அசிமுத்தல் குவாண்டம் எண் (l)",
+      "முதன்மைக் குவாண்டம் (n)",
+      "காந்த குவாண்டம் (m)"
+    ],
+    "answer_en": "Azimuthal quantum number (l)",
+    "answer_ta": "அசிமுத்தல் குவாண்டம் எண் (l)"
+  },
+  {
+    "question_en": "Which phenomenon explains Cherenkov radiation?",
+    "question_ta": "Cherenkov கதிர்வீடு எந்த நிகழ்வால் ஏற்படுகிறது?",
+    "options_en": [
+      "Particle moving slower than light",
+      "Thermal emission",
+      "Particle moving faster than phase velocity of light in medium",
+      "Radio waves"
+    ],
+    "options_ta": [
+      "ஒளிக்கு மெதுவாக நகரும் துதி",
+      "வெப்ப கதிர்வு",
+      "ஓர் துதி ஊடகத்தில் ஒளியின் கட்டமைப்பு வேகத்தைவிட விரைவாக நகரும் போது",
+      "ரேடியோ அலைகள்"
+    ],
+    "answer_en": "Particle moving faster than phase velocity of light in medium",
+    "answer_ta": "ஓர் துதி ஊடகத்தில் ஒளியின் கட்டமைப்பு வேகத்தைவிட விரைவாக நகரும் போது"
+  },
+  {
+    "question_en": "What is the Bethe formula related to?",
+    "question_ta": "Bethe சமன்பாடு எந்ததிற்கு தொடர்புடையது?",
+    "options_en": [
+      "Black body radiation",
+      "Crystal diffraction",
+      "Atomic spectra",
+      "Stopping power (energy loss) of charged particles in matter"
+    ],
+    "options_ta": [
+      "பிளாக் பாடி கதிர்வீவு",
+      "கிரிஸ்டல் விரிதல்",
+      "அணு ஸ்பெக்ட்ரா",
+      "துகள்களின் சக்தி இழப்பு - Stopping power"
+    ],
+    "answer_en": "Stopping power (energy loss) of charged particles in matter",
+    "answer_ta": "துகள்களின் சக்தி இழப்பு - Stopping power"
+  },
+  {
+    "question_en": "Which spectroscopy gives information about functional groups?",
+    "question_ta": "ஏது ஸ்பெக்ட்ரோஸ்கோபி செயல்பாட்டு குழுக்களை குறிக்கும் தகவலை வழங்குகிறது?",
+    "options_en": [
+      "Infrared (IR) spectroscopy",
+      "UV-Vis spectroscopy",
+      "Mass spectrometry",
+      "NMR spectroscopy"
+    ],
+    "options_ta": [
+      "இன்ஃப்ரா ரெட் (IR)",
+      "UV-Vis",
+      "மாஸ் ஸ்பெக்ட்ரோமெட்ரி",
+      "NMR"
+    ],
+    "answer_en": "Infrared (IR) spectroscopy",
+    "answer_ta": "இன்ஃப்ரா ரெட் (IR)"
+  },
+  {
+    "question_en": "Which is the rate determining step in a multi-step reaction?",
+    "question_ta": "பல படிக்கட்டான வினையில் வேகத்தை தீர்மானிக்கும் படி எது?",
+    "options_en": [
+      "The last step always",
+      "The slowest step",
+      "Any random step",
+      "The first step always"
+    ],
+    "options_ta": [
+      "எப்போதும் கடைசி படி",
+      "மிகவும் மெதுவான படி",
+      "ஏதேனும் படி",
+      "எப்போதும் முதல் படி"
+    ],
+    "answer_en": "The slowest step",
+    "answer_ta": "மிகவும் மெதுவான படி"
+  },
+  {
+    "question_en": "Which spectroscopy technique provides molecular mass by fragmentation?",
+    "question_ta": "பிரமாணம் மூலம் மூலக்கூறு பரிணாமத்தை அளிக்கும் தொழில்நுட்பம் எது?",
+    "options_en": [
+      "Infrared spectroscopy",
+      "UV-Vis",
+      "Mass spectrometry",
+      "NMR"
+    ],
+    "options_ta": [
+      "இன்ஃப்ரா ரெட்",
+      "UV-Vis",
+      "மாஸ் ஸ்பெக்ட்ரோமெட்ரி",
+      "NMR"
+    ],
+    "answer_en": "Mass spectrometry",
+    "answer_ta": "மாஸ் ஸ்பெக்ட்ரோமெட்ரி"
+  },
+  {
+    "question_en": "Which reaction is electrophilic aromatic substitution?",
+    "question_ta": "எந்த எதிர்வினை electrophilic aromatic substitution ஆகும்?",
+    "options_en": [
+      "E2 elimination",
+      "Nitration of benzene",
+      "Free radical halogenation of methane",
+      "SN2 reaction of methyl bromide"
+    ],
+    "options_ta": [
+      "E2 நீக்கல்",
+      "பென்சீன் நைட்ரேஷன்",
+      "மீத்தேன் ஹாலோஜனேஷன்",
+      "SN2 மாறுதல்"
+    ],
+    "answer_en": "Nitration of benzene",
+    "answer_ta": "பென்சீன் நைட்ரேஷன்"
+  },
+  {
+    "question_en": "Which is true for Raoult's law in ideal solutions?",
+    "question_ta": "இடியல் கரையூட்டுகளில் Raoult's சட்டம் பற்றி எந்தது உண்மை?",
+    "options_en": [
+      "Not applicable",
+      "Vapour pressure of solvent ∝ mole fraction of solvent",
+      "Vapour pressure equals zero",
+      "Vapour pressure independent of composition"
+    ],
+    "options_ta": [
+      "பயன்பாடு இல்லை",
+      "தரபொருள் வாபர் அழுத்தம் அதன் மோல் பங்குடன் تناسبம்",
+      "வெப்பநிலை பூஜ்ஜியம்",
+      "வழிமானம் பொருள் சாரா"
+    ],
+    "answer_en": "Vapour pressure of solvent ∝ mole fraction of solvent",
+    "answer_ta": "தரபொருள் வாபர் அழுத்தம் அதன் மோல் பங்குடன் تناسبம்"
+  },
+  {
+    "question_en": "Which phenomenon explains tunneling effect in quantum mechanics?",
+    "question_ta": "குவாண்டம் இயற்பியலில் டன்னலிங் விளைவை எந்தது விளக்குகிறது?",
+    "options_en": [
+      "Classical over-the-barrier crossing",
+      "Wavefunction penetration through barrier (quantum tunneling)",
+      "No tunneling",
+      "Only photons tunnel"
+    ],
+    "options_ta": [
+      "பாரம்பரிய வழி",
+      "அலை செயல்பாடு தடம் கடக்கிறது",
+      "டன்னலிங் இல்லை",
+      "தொலைபேசி மட்டும்"
+    ],
+    "answer_en": "Wavefunction penetration through barrier (quantum tunneling)",
+    "answer_ta": "அலை செயல்பாடு தடம் கடக்கிறது"
+  },
+  {
+    "question_en": "Which condition favours E2 elimination over SN2?",
+    "question_ta": "E2 நீக்கல் SN2-ஐவிட எந்த நிலை ஆதரிக்கிறது?",
+    "options_en": [
+      "Polar protic solvent only",
+      "Weak base and primary substrate",
+      "Strong base and secondary/tertiary substrate",
+      "No base present"
+    ],
+    "options_ta": [
+      "பாலர் புரோட்டிக் கரிகூறு",
+      "பலவீன அடிப்படை மற்றும் முதன்மை",
+      "வலுவான அடிப்படை மற்றும் இரண்டாம்/மூன்றாம் நிலை சப்ஸ்ட்ரேட்",
+      "பேஸ் இல்லாமல்"
+    ],
+    "answer_en": "Strong base and secondary/tertiary substrate",
+    "answer_ta": "வலுவான அடிப்படை மற்றும் இரண்டாம்/மூன்றாம் நிலை சப்ஸ்ட்ரேட்"
+  },
+  {
+    "question_en": "Which statement about colligative properties is true?",
+    "question_ta": "கொலிகேட்டிவ் பண்புகள் பற்றி எந்த கூற்று உண்மை?",
+    "options_en": [
+      "Depends on nature of solute",
+      "Depends on color",
+      "Depends on taste",
+      "Depends only on number of solute particles, not their nature"
+    ],
+    "options_ta": [
+      "கரையூட்டத்தின் தன்மை மீது சார்ந்தது",
+      "வண்ணத்தை சார்ந்தது",
+      "சுவையை சார்ந்தது",
+      "காரணிகள் மட்டுமே எண்னிக்கே சார்ந்தது"
+    ],
+    "answer_en": "Depends only on number of solute particles, not their nature",
+    "answer_ta": "காரணிகள் மட்டுமே எண்னிக்கே சார்ந்தது"
+  },
+  {
+    "question_en": "Which metal is refined by Mond's process?",
+    "question_ta": "மோண்ட் செயல்முறையால் எந்த உலோகம் சுத்திகரிக்கப்படுகிறது?",
+    "options_en": [
+      "Iron",
+      "Nickel",
+      "Zinc",
+      "Copper"
+    ],
+    "options_ta": [
+      "இரும்பு",
+      "நிக்கல்",
+      "துத்தநாகம்",
+      "செம்பு"
+    ],
+    "answer_en": "Nickel",
+    "answer_ta": "நிக்கல்"
+  },
+  {
+    "question_en": "Which orbital interaction explains π bonding in ethene?",
+    "question_ta": "எதீனில் π பிணைப்பை எந்த ஆர்பிட்டல் தொடர்பு விளக்குகிறது?",
+    "options_en": [
+      "d-orbital overlap",
+      "Non-bonding interaction",
+      "Head-on overlap of s-orbitals",
+      "Side-by-side overlap of p-orbitals"
+    ],
+    "options_ta": [
+      "d-ஆர்பிட்டல் ஒட்டுமொத்தம்",
+      "பிணையல்லாத தொடர்பு",
+      "s-ஆர்பிட்டல்களின் தலைமுனை ஒட்டுமொத்தம்",
+      "p-ஆர்பிட்டல்களின் பக்க ஒட்டுமொத்தம்"
+    ],
+    "answer_en": "Side-by-side overlap of p-orbitals",
+    "answer_ta": "p-ஆர்பிட்டல்களின் பக்க ஒட்டுமொத்தம்"
+  },
+  {
+    "question_en": "Which is true about SN1 reaction?",
+    "question_ta": "SN1 வினை பற்றி எந்தது உண்மை?",
+    "options_en": [
+      "Rate depends on nucleophile concentration",
+      "Rate depends only on substrate concentration (unimolecular)",
+      "Concerted mechanism",
+      "Always gives inversion"
+    ],
+    "options_ta": [
+      "விகிதம் நியூக்லியோபைலில் சார்ந்தது",
+      "விகிதம் சப்ஸ்ட்ரேட் செறிவேதத்தின் மீது மட்டுமே சார்ந்தது",
+      "ஒன்றிணைந்த முறை",
+      "எப்போதும் பிரதம மாற்றம்"
+    ],
+    "answer_en": "Rate depends only on substrate concentration (unimolecular)",
+    "answer_ta": "விகிதம் சப்ஸ்ட்ரேட் செறிவேதத்தின் மீது மட்டுமே சார்ந்தது"
+  },
+  {
+    "question_en": "Which technique separates components based on polarity on a stationary phase?",
+    "question_ta": "நிலையான படியில் தாறுமாறான அடிப்படையில் கூறுகளை பிரிக்கும் தொழில்நுட்பம் எது?",
+    "options_en": [
+      "Decantation",
+      "Distillation",
+      "Filtration",
+      "Chromatography"
+    ],
+    "options_ta": [
+      "பிரிப்பான் கலப்பு",
+      "திரவிகரிப்பு",
+      "ஃபில்ட்ரேஷன்",
+      "க்ரோமடோகிராஃபி"
+    ],
+    "answer_en": "Chromatography",
+    "answer_ta": "க்ரோமடோகிராஃபி"
+  },
+  {
+    "question_en": "Which phenomenon causes Fraunhofer lines?",
+    "question_ta": "ஃப்ராஊன்ஹோஃபர் வரிகள் எந்த நிகழ்வு மூலம் ஏற்படுகின்றன?",
+    "options_en": [
+      "Black body radiation",
+      "Scattering",
+      "Absorption by cooler gases in Sun's atmosphere (line absorption)",
+      "Emission lines from hot gas"
+    ],
+    "options_ta": [
+      "கருப்பு உடல் கதிர்வீடு",
+      "பிரசாரம்",
+      "சூரிய காழிபை வாயுக்களின் உறிஞ்சுதல் (line absorption)",
+      "சூடான வாயுவிலிருந்து வெளியீடு"
+    ],
+    "answer_en": "Absorption by cooler gases in Sun's atmosphere (line absorption)",
+    "answer_ta": "சூரிய காழிபை வாயுக்களின் உறிஞ்சுதல் (line absorption)"
+  },
+  {
+    "question_en": "Which device is used to detect radioactivity via scintillation?",
+    "question_ta": "ஸ்சின்டில்லேஷன் மூலம் அயோமிக்கத்தை கண்டறிய எந்த கருவி பயன்படுகிறது?",
+    "options_en": [
+      "Scintillation detector",
+      "Geiger-Muller counter",
+      "Voltmeter",
+      "Galvanometer"
+    ],
+    "options_ta": [
+      "ஸ்சின்டில்லேஷன் கண்டறிதல்",
+      "கீஜர்-முல்லர் கவுண்டர்",
+      "வோல்ட்மீட்டர்",
+      "கால்வனோமீட்டர்"
+    ],
+    "answer_en": "Scintillation detector",
+    "answer_ta": "ஸ்சின்டில்லேஷன் கண்டறிதல்"
+  }
+]

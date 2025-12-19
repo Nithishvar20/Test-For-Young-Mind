@@ -1,0 +1,200 @@
+/* Global reset */
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+html,
+body,
+#root {
+  height: 100%;
+  overflow: hidden; /* 🚫 disable scrolling */
+}
+body {
+  font-family: Inter, system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial;
+  background: linear-gradient(120deg, #0f172a 0%, #3b0a45 40%, #111827 100%);
+  color: #f8fafc;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* Container */
+.container {
+  max-width: 1400px;
+  margin: 0 auto;
+  padding: 28px;
+  position: relative;
+  z-index: 10;
+}
+
+/* Card - glassmorphism */
+.card {
+  background: linear-gradient(180deg, rgba(255, 255, 255, 0.03), rgba(255, 255, 255, 0.01));
+  border: 1px solid rgba(255, 255, 255, 0.04);
+  border-radius: 28px;
+  padding: 28px;
+  box-shadow: 0 12px 30px rgba(2, 6, 23, 0.6), inset 0 1px 0 rgba(255, 255, 255, 0.02);
+  backdrop-filter: blur(6px) saturate(120%);
+  color: #f8fafc;
+}
+
+/* Full center helper */
+.full-center {
+  min-height: calc(100vh - 80px);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.center-box {
+  width: 100%;
+  max-width: 1100px;
+  margin: 0 auto;
+}
+
+/* Headings */
+h1 {
+  text-align: center;
+  font-size: 3.5rem;
+  letter-spacing: -0.02em;
+}
+h2 {
+  font-size: 2rem;
+  margin-bottom: 8px;
+}
+.text-4xl {
+  font-size: 2.25rem;
+  font-weight: 800;
+}
+.text-6xl {
+  font-size: 4rem;
+  font-weight: 900;
+}
+
+/* Buttons */
+.btn {
+  display: inline-block;
+  padding: 14px 36px;
+  border-radius: 20px;
+  font-weight: 800;
+  font-size: 1.1rem;
+  cursor: pointer;
+  box-shadow: 0 12px 30px rgba(0, 0, 0, 0.25);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  color: #081225;
+  background: linear-gradient(90deg, #ffd89b 0%, #ff8a00 100%);
+  border: none;
+}
+.btn:hover {
+  transform: translateY(-6px) scale(1.02);
+  box-shadow: 0 18px 40px rgba(0, 0, 0, 0.35);
+}
+
+/* small button */
+.small-btn {
+  background: #ffffff10;
+  padding: 8px 12px;
+  border-radius: 10px;
+  border: 1px solid rgba(255, 255, 255, 0.06);
+}
+
+/* Options */
+.opt {
+  padding: 18px;
+  border-radius: 16px;
+  box-shadow: 0 10px 24px rgba(2, 6, 23, 0.12);
+  background: linear-gradient(90deg, rgba(255, 255, 255, 0.02), rgba(255, 255, 255, 0.01));
+  cursor: pointer;
+  transition: transform 0.18s ease, box-shadow 0.18s ease;
+}
+.opt:hover {
+  transform: translateY(-6px);
+  box-shadow: 0 18px 40px rgba(2, 6, 23, 0.16);
+}
+
+/* Wordsearch */
+.wordgrid {
+  display: grid;
+  grid-template-columns: repeat(12, 2rem);
+  gap: 8px;
+  justify-content: center;
+}
+.wordcell {
+  width: 2rem;
+  height: 2rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 6px;
+  background: rgba(255, 255, 255, 0.02);
+  font-weight: 700;
+  user-select: none;
+}
+.wordlist {
+  display: flex;
+  gap: 12px;
+  flex-wrap: wrap;
+  margin-top: 12px;
+}
+.worditem {
+  background: rgba(255, 255, 255, 0.03);
+  padding: 6px 10px;
+  border-radius: 10px;
+  font-weight: 700;
+}
+
+/* topbar */
+.topbar {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  padding: 12px 8px;
+}
+.topbar .title {
+  font-weight: 800;
+  font-size: 1.6rem;
+  color: #fff;
+  text-shadow: 0 6px 14px rgba(0, 0, 0, 0.6);
+}
+
+/* watermark */
+.watermark {
+  position: fixed;
+  right: 18px;
+  bottom: 12px;
+  opacity: 0.95;
+  font-weight: 800;
+  color: #f0f0f0;
+  z-index: 20;
+}
+
+/* animations */
+@keyframes floaty {
+  0% {
+    transform: translateY(0px);
+  }
+  50% {
+    transform: translateY(-6px);
+  }
+  100% {
+    transform: translateY(0px);
+  }
+}
+.text-float {
+  animation: floaty 5s ease-in-out infinite;
+}
+
+/* responsive */
+@media (max-width: 768px) {
+  h1 {
+    font-size: 2.25rem;
+  }
+  .container {
+    padding: 16px;
+  }
+  .center-box {
+    padding: 12px;
+  }
+  .wordgrid {
+    grid-template-columns: repeat(10, 1.8rem);
+  }
+}

@@ -1,0 +1,282 @@
+[
+  {
+    "question_en": "For small oscillations of a simple pendulum, the period is independent of amplitude because",
+    "question_ta": "ஒரு எளிய ஆடிப்பொறியின் (pendulum) சிறு அசைவுகளில், காலப்பகுதி (period) ஆழத்தால் (amplitude) சாராதது ஏன்?",
+    "options_en": ["Because mass cancels out in the equation", "Because energy is conserved exactly", "Because sinθ ≈ θ for small angles (small-angle approximation)", "Because air resistance balances the motion"],
+    "options_ta": ["சமன்பாட்டில் மாஸ் (mass) ஓழிக்கப்படுகிறது", "ஆற்றல் (energy) சரியான முறையில் பாதுகாக்கப்படுகிறது", "சிறு கோணங்களுக்கு sinθ ≈ θ ஆகிறது (சிறு கோண அண்மித்தல்)", "காற்று எதிர்ப்பு இயக்கத்தை சமநிலைப்படுத்துகிறது"],
+    "answer_en": "Because sinθ ≈ θ for small angles (small-angle approximation)",
+    "answer_ta": "சிறு கோணங்களுக்கு sinθ ≈ θ ஆகிறது (சிறு கோண அண்மித்தல்)"
+  },
+  {
+    "question_en": "Two solid spheres of the same radius but different densities are dropped in the same fluid. Which reaches higher terminal velocity?",
+    "question_ta": "ஒத்த त्रिज்யையுடைய (radius) ஆனால் வெவ்வேறு அடர்த்தி (density) கொண்ட இரண்டு திடப் பந்து (solid spheres) ஒரே திரவத்தில் விடப்பட்டால், எந்தது அதிகமான இடைநில வேகத்தை (terminal velocity) அடையும்?",
+    "options_en": ["They have the same terminal velocity", "The sphere with higher density", "The sphere with lower density", "Terminal velocity depends only on the fluid viscosity"],
+    "options_ta": ["இவைகள் ஒரே இடைநில வேகத்தை கொண்டிருக்கும்", "அதிக அடர்த்தியுடைய பந்து", "குறைந்த அடர்த்தியுடைய பந்து", "இடைநில வேகம் திரவத்தின் சுருங்குதன்மை (viscosity) மட்டுமே சார்பு"],
+    "answer_en": "The sphere with higher density",
+    "answer_ta": "அதிக அடர்த்தியுடைய பந்து"
+  },
+  {
+    "question_en": "According to Bernoulli's principle, at a point in a streamline where the fluid speed is higher, the pressure is",
+    "question_ta": "பெர்னூலி விதி படி, ஒரு ஓடையில் (streamline) திரவ வேகம் அதிகமான இடத்தில் அழுத்தம் (pressure) எப்படி இருக்கும்?",
+    "options_en": ["Higher", "Same", "Zero", "Lower"],
+    "options_ta": ["உயரமானது", "மறுபடி இல்லாமல் இருக்கும்", "பூஜ்ஜியம்", "குறைவானது"],
+    "answer_en": "Lower",
+    "answer_ta": "குறைவானது"
+  },
+  {
+    "question_en": "Viscosity of most liquids decreases with temperature because",
+    "question_ta": "பெரும்பாலான திரவங்களின் (liquids) சுருங்குதன்மை (viscosity) வெப்பநிலையால் (temperature) குறையும் காரணம் என்ன?",
+    "options_en": ["Intermolecular forces weaken as molecules move faster", "Molecules move slower at higher temperature", "Density increases with temperature", "Viscosity intrinsically increases with temperature"],
+    "options_ta": ["அணுக்களின் இடையே உள்ள அண்டிணை விசைகள் அதிக வேகத்தில் குறையும்", "வெப்பநிலை அதிகரித்தால் அணுக்கள் மெதுவாக நகர்கின்றன", "வெப்பநிலையில் அடர்த்தி அதிகரிக்கும்", "சுருங்குதன்மை வெப்பநிலையால் எப்பொழுதும் அதிகரிக்கும்"],
+    "answer_en": "Intermolecular forces weaken as molecules move faster",
+    "answer_ta": "அணுக்களின் இடையே உள்ள அண்டிணை விசைகள் அதிக வேகத்தில் குறையும்"
+  },
+  {
+    "question_en": "Why is the electric field inside a conductor zero in electrostatic equilibrium?",
+    "question_ta": "மின்சாதாரண சமநிலையில் (electrostatic equilibrium) ஒரு கடத்தியின் (conductor) உள்ளே மின்களம் (electric field) பூஜ்ஜியம் ஆகும் காரணம் என்ன?",
+    "options_en": ["Due to shielding by bound electrons only", "Because free charges rearrange to cancel any internal field", "Because conductors have no free charges", "Because magnetic effects cancel electric field"],
+    "options_ta": ["இடை கட்டணகள் (bound electrons) மட்டுமே ஒட்டுதல் மூலம் தடுக்கும்", "இலவச மின்கணங்கள் (free charges) உள்ளகத்தை சமநிலைப்படுத்தி எந்த உள்ளகக் களத்தையும் நீக்குகின்றன", "கடத்திகளில் இலவச மின்கணங்கள் இல்லை", "காந்தத் தாக்கங்கள் மின்களத்தை சமமாக்குகின்றன"],
+    "answer_en": "Because free charges rearrange to cancel any internal field",
+    "answer_ta": "இலவச மின்கணங்கள் (free charges) உள்ளகத்தை சமநிலைப்படுத்தி எந்த உள்ளகக் களத்தையும் நீக்குகின்றன"
+  },
+  {
+    "question_en": "The electric potential throughout a hollow charged conductor is",
+    "question_ta": "ஒரு காலி (hollow) மின்னஞ்சல் கொண்ட கடத்தியின் மின் மின்னழுத்தம் (electric potential) எப்படி இருக்கும்?",
+    "options_en": ["Zero everywhere", "Varying linearly from centre to surface", "Constant (same) throughout", "Same as potential at infinity"],
+    "options_ta": ["எங்குமுள்ள صفرம்", "நிலையாக மையத்திலிருந்து மேற்பரப்புக்குப் பிரித்து மாறு", "முழுவதும் ஒரே மாதிரியானது (நிலையானது)", "அதிரதியில் உள்ள மின்னழுத்தத்துடன் சமம்"],
+    "answer_en": "Constant (same) throughout",
+    "answer_ta": "முழுவதும் ஒரே மாதிரியானது (நிலையானது)"
+  },
+  {
+    "question_en": "In a parallel combination of resistors, currents through each branch are related how?",
+    "question_ta": "தொகுப்பு (combination) நிலையில் இணை (parallel) எதிர்ப்புகளில், ஒவ்வொரு கிளையிலும் செல்லும் மின்சாரங்கள் எப்படி தொடர்புடையவையாக இருக்கும்?",
+    "options_en": ["They split inversely proportional to resistance", "Same current flows through each branch", "Voltage is divided among branches", "Total resistance is the arithmetic sum"],
+    "options_ta": ["எதிர்ப்பு அளவுக்கு மாறாக மின்னீடு இருக்கு பிரிக்கப்படும்", "ஒவ்வொரு கிளையிலும் ஒரே மின்சாரம் ஒளிக்கிறது", "மின்போது கிளைகளுக்கு இடையே பிரிக்கப்படுகிறது", "மொத்த எதிர்ப்பு நேரடியாக கூட்டு"],
+    "answer_en": "They split inversely proportional to resistance",
+    "answer_ta": "எதிர்ப்பு அளவுக்கு மாறாக மின்னீடு இருக்கு பிரிக்கப்படும்"
+  },
+  {
+    "question_en": "The natural frequency of an LC circuit depends mainly on",
+    "question_ta": "ஒரு LC சுற்றின் இயல்பான அதிர்வெண் (natural frequency) முதன்மையாக எதற்கே சார்ந்தது?",
+    "options_en": ["Resistance only", "Applied voltage", "Amplitude of oscillation", "Inductance and capacitance (f = 1 / (2π√(LC)))"],
+    "options_ta": ["எதிர்ப்பு மட்டும்", "வருத்தப்படும் மின்னழுத்தம்", "அதிர்வு ஆழம்", "இன்டக்டன்ஸ் மற்றும் கேபாசிட்டன்ஸ் (f = 1 / (2π√(LC)))"],
+    "answer_en": "Inductance and capacitance (f = 1 / (2π√(LC)))",
+    "answer_ta": "இன்டக்டன்ஸ் மற்றும் கேபாசிட்டன்ஸ் (f = 1 / (2π√(LC)))"
+  },
+  {
+    "question_en": "Faraday's law of electromagnetic induction implies that induced emf is larger when",
+    "question_ta": "மின்காந்த தூண்டல் (electromagnetic induction) பற்றிய பாரடேச் சட்டம் (Faraday) என்னவென்று கூறுகிறது; induced emf எப்படி அதிகமாக இருக்கும்?",
+    "options_en": ["Flux magnitude is larger but change slow", "Rate of change of magnetic flux is larger", "Flux direction is reversed slowly", "Only depends on area of loop"],
+    "options_ta": ["துல்யம் அதிகம் ஆனால் மாற்றம் மெதுவாக நடக்கும்", "காந்த ஓட்டத்தின் மாற்ற வேகம் அதிகமானபோது", "ஓட்டம் கருவியின் திசை மெதுவாக மாறும் போது", "வட்டத்தின் பரப்பளவுக்கே அது மட்டும் சாரும்"],
+    "answer_en": "Rate of change of magnetic flux is larger",
+    "answer_ta": "காந்த ஓட்டத்தின் மாற்ற வேகம் அதிகமானபோது"
+  },
+  {
+    "question_en": "A split-ring (commutator) in a DC motor is used to",
+    "question_ta": "ஒரு DC மோட்டாரிலுள்ள ஸ்பிளிட்-ரிங் (commutator) பயன்பாடு என்ன?",
+    "options_en": ["Reduce brush wear", "Increase voltage output", "Reverse current every half rotation to maintain torque direction", "Convert AC to DC"],
+    "options_ta": ["ப்ரஷ் கழுவலை குறைத்தல்", "மின்வोल்டேஜ் வெளியீட்டை அதிகரித்தல்", "ஒவ்வோரு அரை சுற்றிலும் மின்கடத்தலை மாற்றி விட்டுவைத்து சுழற்சிக் குழைப்படத்தை நிலைநின்று வைத்தல்", "AC ஐ DC க்கு மாற்றுதல்"],
+    "answer_en": "Reverse current every half rotation to maintain torque direction",
+    "answer_ta": "ஒவ்வோரு அரை சுற்றிலும் மின்கடத்தலை மாற்றி விட்டுவைத்து சுழற்சிக் குழைப்படத்தை நிலைநின்று வைத்தல்"
+  },
+  {
+    "question_en": "Why is a soft iron core used in a moving-coil galvanometer?",
+    "question_ta": "இயங்கும் காயில் கால்வனோமீட்டரில் (moving-coil galvanometer) மென்மையான இரும்பு (soft iron) உள்ளடக்கம் ஏன் பயன்படுத்தப்படுகிறது?",
+    "options_en": ["To reduce electrical resistance", "To concentrate magnetic field and increase sensitivity", "To make the coil rigid", "To prevent corrosion"],
+    "options_ta": ["மின்இதிர்க்கை குறைக்க", "காந்தப்புலத்தை ஒன்றுசேர்த்துக் கொண்டு உணர்திறனைக் (sensitivity) அதிகரிக்க", "காயிலை குழாயாக்க வலுப்படுத்த", "ஆகப்படுகொள்ளாமைக்கு தடுப்பு"],
+    "answer_en": "To concentrate magnetic field and increase sensitivity",
+    "answer_ta": "காந்தப்புலத்தை ஒன்றுசேர்த்துக் கொண்டு உணர்திறனைக் (sensitivity) அதிகரிக்க"
+  },
+  {
+    "question_en": "Apparent depth of an object seen through water is less than the real depth because of",
+    "question_ta": "தண்ணீரில் காணப்படும் ஒரு பொருளின் தோற்ற ஆழம் (apparent depth) உண்மையான ஆழத்தைவிட குறைவாகத் தோன்றுவதன் காரணம் என்ன?",
+    "options_en": ["Reflection at surface", "Absorption of light by water", "Scattering of light", "Refraction of light at the interface"],
+    "options_ta": ["முனைப்பு (reflection) மேற்பரப்பில்", "தண்ணீரால் ஒளி உறிஞ்சுதல்", "ஒளியின் சிதறல்", "நீர்நீடின் இடைமுகத்தில் ஒளி விலகல் (refraction)"],
+    "answer_en": "Refraction of light at the interface",
+    "answer_ta": "நீர்நீடின் இடைமுகத்தில் ஒளி விலகல் (refraction)"
+  },
+  {
+    "question_en": "Why must Doppler formula for light be treated relativistically, unlike sound?",
+    "question_ta": "ஒலி போல ஒளிக்கு டாப்லர் சமன்பாட்டை (Doppler) ஆபராதிய முறையில் (relativistic) எடுத்துக்கொள்ள வேண்டியதன் காரணம் என்ன?",
+    "options_en": ["Because both use same classical formula", "Because speed of light is constant for all observers so relativistic treatment is needed", "Because sound needs relativistic correction too", "Because light does not show Doppler shift"],
+    "options_ta": ["இரண்டும் ஒரே கிளாசிக்கல் சமன்பாட்டைப் பயன்படுத்துகின்றன", "ஒளியின் வேகம் எல்லா நம்பிகளுக்கும் நிலையானது; ஆகையால் சார்பு-முறை (relativistic) கருதுகோள் தேவை", "ஒலிக்கும் ஆபராதிய திருத்தம் தேவையாகும்", "ஒளி டாப்லர் சித்திரத்தை காட்டாது"],
+    "answer_en": "Because speed of light is constant for all observers so relativistic treatment is needed",
+    "answer_ta": "ஒளியின் வேகம் எல்லா நம்பிகளுக்கும் நிலையானது; ஆகையால் சார்பு-முறை (relativistic) கருதுகோள் தேவை"
+  },
+  {
+    "question_en": "Chromatic aberration in lenses is commonly corrected by",
+    "question_ta": "லென்ஸ்களில் வரும் நிற வேறுபாடு (chromatic aberration) பொதுவாக எப்படி சரிசெய்யப்படுகிறது?",
+    "options_en": ["Using a very thick single lens", "Using mirrors only", "Combining crown and flint glass elements (achromatic doublet)", "Using polarising filters"],
+    "options_ta": ["ஒரே தடிமனான லென்ஸை பயன்படுத்தி", "மெதிர்களை மட்டும் பயன்படுத்தி", "கிரவுன் மற்றும் ஃபிளிண்ட் கண்ணாடிகளை இணைத்து (achromatic doublet) பயன்படுத்தி", "துருவமைப்பு யூனிட் உடன்"],
+    "answer_en": "Combining crown and flint glass elements (achromatic doublet)",
+    "answer_ta": "கிரவுன் மற்றும் ஃபிளிண்ட் கண்ணாடிகளை இணைத்து (achromatic doublet) பயன்படுத்தி"
+  },
+  {
+    "question_en": "Why does diffraction impose a limit on the resolving power of optical instruments?",
+    "question_ta": "ஒளியியல் கருவிகளின் தீர்மானக்கூறலை (resolving power) விலகல் (diffraction) ஏன் எல்லைபடுத்துகிறது?",
+    "options_en": ["Because diffraction increases image brightness", "Because diffraction depends only on magnification", "Because diffraction causes overlapping of adjacent point images making them indistinguishable", "Because diffraction removes chromatic effects"],
+    "options_ta": ["விலகல் படத்தை பிரகாசமாக்குவதால்", "விலகல் பெரிதாக்கத்திற்கே மட்டுமே சார்ந்தது", "பக்கப்பக்க புள்ளி படங்கள் ஒரே மாதிரியாக சிதறிப் பரவுவதால் அவை வேறுபடுத்த முடியாமல் தவறாகிருக்கும்", "விலகல் நிற வேறுபாட்டை நீக்குகிறது"],
+    "answer_en": "Because diffraction causes overlapping of adjacent point images making them indistinguishable",
+    "answer_ta": "பக்கப்பக்க புள்ளி படங்கள் ஒரே மாதிரியாக சிதறிப் பரவுவதால் அவை வேறுபடுத்த முடியாமல் தவறாகிருக்கும்"
+  },
+  {
+    "question_en": "Constructive interference in a two-slit experiment occurs when the path difference is",
+    "question_ta": "இரு சிளிட் (two-slit) சோதனையில் கட்டுமான (constructive) இடைவெளி எப்போது ஏற்படும்?",
+    "options_en": ["(2n+1)λ/2", "λ/4", "Depends only on amplitude", "nλ (where n is an integer)"],
+    "options_ta": ["(2n+1)λ/2", "λ/4", "ஆழம் (amplitude) மட்டும் சார்ந்தது", "nλ (n என்பது ஒரு முழு எண்)"],
+    "answer_en": "nλ (where n is an integer)",
+    "answer_ta": "nλ (n என்பது ஒரு முழு எண்)"
+  },
+  {
+    "question_en": "For a string fixed at both ends, the allowed wavelengths of standing waves are given by",
+    "question_ta": "இரு முடிவுகளிலும் முடுக்கப்பட்டுள்ள ஒரு கயிறு (string) க்கு நின்ற அலைகளின் (standing waves) அனுமதிக்கப்பட்ட அலைநீளங்கள் (wavelengths) எப்படி தரப்படுகின்றன?",
+    "options_en": ["λ = L / n", "λ = 2L / n", "λ = L / (2n)", "λ = nL"],
+    "options_ta": ["λ = L / n", "λ = 2L / n", "λ = L / (2n)", "λ = nL"],
+    "answer_en": "λ = 2L / n",
+    "answer_ta": "λ = 2L / n"
+  },
+  {
+    "question_en": "Specific heat versus heat capacity: the difference is that",
+    "question_ta": "நிறைவுக் குயிர் (heat capacity) மற்றும் தனிப்பட்ட வெப்ப சக்தி (specific heat) இடையிலான வேறுபாடு என்ன?",
+    "options_en": ["They are identical quantities", "Specific heat depends on shape", "Specific heat is heat per unit mass; heat capacity depends on amount of substance", "Heat capacity is per unit mass"],
+    "options_ta": ["இவை ஒரே மாதிரி அளவுகள்", "தனிப்பட்ட வெப்ப சக்தி வடிவமைப்பில் சார்பு கொண்டது", "தனிப்பட்ட வெப்ப சக்தி ஒரு அலகு எடை மீது தேவைப்படும் வெப்பம்; வெப்பக் கூற்றம் பொருள் அளவை சார்ந்தது", "வெப்பக் கூற்றம் ஒரு அலகு எடைக்கு ஆகும்"],
+    "answer_en": "Specific heat is heat per unit mass; heat capacity depends on amount of substance",
+    "answer_ta": "தனிப்பட்ட வெப்ப சக்தி ஒரு அலகு எடை மீது தேவைப்படும் வெப்பம்; வெப்பக் கூற்றம் பொருள் அளவை சார்ந்தது"
+  },
+  {
+    "question_en": "According to Stefan–Boltzmann law, power radiated per unit area by a perfect black body varies as",
+    "question_ta": "ஸ்டீபன்–பால்ட்ஸ்மேன் சட்டத்தின் படி, ஒரு முழுமையான கருப்பொருள் (black body) ஒரு அலகு பரப்புக்கு வெளிர்க்கும் சக்தி எப்படி மாறுகிறது?",
+    "options_en": ["Proportional to T^4", "Proportional to T", "Proportional to √T", "Independent of temperature"],
+    "options_ta": ["T^4 உடன் تناபு", "T உடன் تناபு", "√T உடன் تناபு", "வெப்பநிலையுடன் தொடர்பில்லாதது"],
+    "answer_en": "Proportional to T^4",
+    "answer_ta": "T^4 உடன் تناபு"
+  },
+  {
+    "question_en": "Wien's displacement law states that the wavelength at which blackbody radiation is maximum is",
+    "question_ta": "வைனின் இடைநீக்கம் விதி (Wien) கூறுவது: கருப்பொருள் வெடிப்பு அதிகபட்சமாக இருக்கும் அலைநீளம் எவ்வாறு மாறும்?",
+    "options_en": ["Proportional to T", "Independent of temperature", "Proportional to T^2", "Inversely proportional to temperature (λ_max ∝ 1/T)"],
+    "options_ta": ["T உடன் تناபு", "வெப்பநிலையுடன் தொடர்பில்லாதது", "T^2 உடன் تناபு", "வெப்பநிலைக்கு எதிர் تناபு (λ_max ∝ 1/T)"],
+    "answer_en": "Inversely proportional to temperature (λ_max ∝ 1/T)",
+    "answer_ta": "வெப்பநிலைக்கு எதிர் تناபு (λ_max ∝ 1/T)"
+  },
+  {
+    "question_en": "When two sound waves of slightly different frequencies superpose, the phenomenon observed is",
+    "question_ta": "சிறிது வித்தியாசமான அலைவரிசைகளைக் கொண்ட இரண்டு ஒலி அலைகள் ஒட்டி சமநிலையாவதில் ஏற்படும் நிகழ்வு எது?",
+    "options_en": ["Beats with frequency equal to the difference", "Amplitude becomes sum of frequencies", "Frequency becomes product", "No audible effect"],
+    "options_ta": ["வியாத்துகள் (beats) — அதிர்வெண் வித்தியாசத்தினை சமம்", "ஆழம் அலைவரிசைகளின் கூட்டுத்தொகு ஆகும்", "அதிர்வெண் போடுதல் (product) ஆகும்", "கேட்கத்தகுந்த தாக்கம் இல்லை"],
+    "answer_en": "Beats with frequency equal to the difference",
+    "answer_ta": "வியாத்துகள் (beats) — அதிர்வெண் வித்தியாசத்தினை சமம்"
+  },
+  {
+    "question_en": "A sonic boom occurs when an object moves through air at a speed",
+    "question_ta": "சொனிக் பூம் (sonic boom) என்பது ஒரு பொருள் காற்றில் எந்த வேகத்தில் நகரும்போது ஏற்படுகிறது?",
+    "options_en": ["Less than sound speed", "Equal to sound speed only", "Greater than sound speed (supersonic)", "Only in vacuum"],
+    "options_ta": ["ஒலி வேகத்திற்குக் குறைவாக", "ஒலி வேகத்தோடு சமமாக", "ஒலி வேகத்தைக் கடந்து (supersonic)", "வெற்றிடத்தில் மட்டுமே"],
+    "answer_en": "Greater than sound speed (supersonic)",
+    "answer_ta": "ஒலி வேகத்தைக் கடந்து (supersonic)"
+  },
+  {
+    "question_en": "Escape velocity from a planet is independent of the mass of the escaping object because",
+    "question_ta": "ஒரு கிரகத்திலிருந்து தப்பிச் செல்லும் வேகம் (escape velocity) தப்பிச் செல்லும் பொருளின் மதிப்பில் (mass) ஏன் சாராதது?",
+    "options_en": ["Both gravitational potential energy and kinetic energy scale with the object's mass and mass cancels out", "It depends only on object's mass", "It depends on shape of object", "It depends on atmosphere only"],
+    "options_ta": ["புவி ஈர்ப்பு மற்றும் கைனடைடிக் ஆற்றலும் பொருளின் நிறையால் பரிமாரணமாகும்; அதன் மூலம் நிறை நீக்கப்படுகிறது", "இது பொருளின் நிறையில் மட்டுமே சார்ந்தது", "இது பொருளின் வடிவத்தை சார்ந்தது", "இது மட்டும் வளிமண்டலத்தின் மீது சார்ந்தது"],
+    "answer_en": "Both gravitational potential energy and kinetic energy scale with the object's mass and mass cancels out",
+    "answer_ta": "புவி ஈர்ப்பு மற்றும் கைனடைடிக் ஆற்றலும் பொருளின் நிறையால் பரிமாரணமாகும்; அதன் மூலம் நிறை நீக்கப்படுகிறது"
+  },
+  {
+    "question_en": "Orbital speed of a satellite depends primarily on",
+    "question_ta": "ஒரு செயற்கை கிரக பணிக்குழாயின் (satellite) வரிசை வேகம் (orbital speed) முதன்மையாக ஏதிற்கே சார்ந்தது?",
+    "options_en": ["Mass of the satellite", "Its material composition", "Launch vehicle power", "Mass of central body and orbital radius (v = √(GM/r))"],
+    "options_ta": ["செயற்கைக்கோளின் நிறை", "அதன் பொருள் சங்கிலி", "விமானி வாகனத்தின் திறன்", "மையப் பொருளின் масса மற்றும் சுற்று வட்டரத்தின் விசை (v = √(GM/r))"],
+    "answer_en": "Mass of central body and orbital radius (v = √(GM/r))",
+    "answer_ta": "மையப் பொருளின் масса மற்றும் சுற்று வட்டரத்தின் விசை (v = √(GM/r))"
+  },
+  {
+    "question_en": "Tides on Earth are caused primarily by",
+    "question_ta": "பூமியில் ஏற்படும் கடல்களின் பிறை (tides) முதன்மையாக என்னால் உண்டாகின்றன?",
+    "options_en": ["Wind patterns", "Differential gravitational pull of Moon and Sun", "Earth's rotation alone", "Ocean currents only"],
+    "options_ta": ["காற்றின் விதிகள் (wind patterns)", "சந்திரனுக்கும் சூரியனுக்கும் இடையிலான வேறுபட்ட ஈர்ப்பு விசை", "பூமியின் சுழற்சி மட்டும்", "நதிநோக்கி ஓடும் கறைகள் மட்டும்"],
+    "answer_en": "Differential gravitational pull of Moon and Sun",
+    "answer_ta": "சந்திரனுக்கும் சூரியனுக்கும் இடையிலான வேறுபட்ட ஈர்ப்பு விசை"
+  },
+  {
+    "question_en": "In the photoelectric effect the threshold frequency depends on",
+    "question_ta": "போட்டோஎலக்ட்ரிக் தாக்கத்தில் (photoelectric effect) துவக்க அதிர்வெண் (threshold frequency) எதற்கே சார்ந்தது?",
+    "options_en": ["Intensity of incident light", "Distance of source", "Work function of the metal (material)", "Angle of incidence"],
+    "options_ta": ["மூச்சு வெளிச்சத்தின் ஆழம் (intensity)", "மூலத்தின் தொலைவு", "இரும்பு மேட்டலின் வேலை செயல்பாடு (work function)", "விழும் கோணத்தின் அளவு"],
+    "answer_en": "Work function of the metal (material)",
+    "answer_ta": "இரும்பு மேட்டலின் வேலை செயல்பாடு (work function)"
+  },
+  {
+    "question_en": "Why are atomic spectral lines unique for each element?",
+    "question_ta": "ஒவ்வொரு தன்மை (element)க்கும் அணு வரிசைப் புற்களாகும் (spectral lines) ஏன் தனித்துவமானவை?",
+    "options_en": ["Because each element has discrete energy levels", "Because of macroscopic temperature only", "Because of instrument used", "Because all atoms have same levels"],
+    "options_ta": ["ஒவ்வொரு தன்மையிலும் தனித்தEnergy நிலைகள் கொண்டதால்", "மொத்த வெப்பநிலை காரணத்தால்", "பயன்படுத்தப்படும் கருவியின் காரணமாக", "அனைத்து அணுக்களுக்கும் ஒரே வழி நிலைகள் இருப்பதால்"],
+    "answer_en": "Because each element has discrete energy levels",
+    "answer_ta": "ஒவ்வொரு தன்மையிலும் தனித்தEnergy நிலைகள் கொண்டதால்"
+  },
+  {
+    "question_en": "Hubble's observation that galaxies show redshift proportional to distance implies",
+    "question_ta": "ஹப்பிள் (Hubble) கண்டுபிடித்தது: படுகுழுக்கள் (galaxies) தூரத்திற்கு تناபாக சிவப்பு சாய்வு (redshift) காட்டுவது என்பதன் பொருள் என்ன?",
+    "options_en": ["Galaxies are moving randomly", "Local Doppler shifts only", "Universe is static", "The universe is expanding (cosmological redshift)"],
+    "options_ta": ["கேலக்சிகள் சீரற்ற முறையில் நகர்கின்றன", "உள்ளூரினால் மட்டும் டாப்லர் சாய்வுகள்", "உலகம் நிலையானது", "காசோலை பரவுகின்றது (cosmological redshift)"],
+    "answer_en": "The universe is expanding (cosmological redshift)",
+    "answer_ta": "காசோலை பரவுகின்றது (cosmological redshift)"
+  },
+  {
+    "question_en": "Cosmic Microwave Background (CMB) is important evidence because it is",
+    "question_ta": "காஸ்மிக் மைக்ரோவேவ் பின்னணி (CMB) முக்கிய சான்றாக ஏனென்றால் அது என்ன?",
+    "options_en": ["Produced by current stars", "A nearly uniform microwave radiation left over from early hot universe", "Only produced in laboratories", "Due to Earth's atmosphere"],
+    "options_ta": ["தற்போதைய நட்சத்திரங்களால் உற்பத்தி", "ஆரம்பத்தில் சூடான பிரபஞ்சத்தின் மீதமுள்ள சுமார் ஒரே மாதிரியான மைக்ரோவேவ் கதிர்வீச்சு", "தனிமையாக ஆய்வகங்களில் மட்டுமே உருவாகிறது", "பூமியின் வளிமண்டலத்தால் ஏற்பட்டது"],
+    "answer_en": "A nearly uniform microwave radiation left over from early hot universe",
+    "answer_ta": "ஆரம்பத்தில் சூடான பிரபஞ்சத்தின் மீதமுள்ள சுமார் ஒரே மாதிரியான மைக்ரோவேவ் கதிர்வீச்சு"
+  },
+  {
+    "question_en": "The heat produced in a resistor when current flows is given by which relation?",
+    "question_ta": "ஒரு எதிர்ப்பியில் (resistor) மின்சாரம் 흐르는 போது உண்டாகும் வெப்பம் எந்த சமன்பாட்டால் அளவிடப்படும்?",
+    "options_en": ["V/R", "I×V only", "I^2 R (Joule heating)", "Independent of current"],
+    "options_ta": ["V/R", "I×V மட்டும்", "I^2 R (ஜூல் வெப்பம்)", "மின்சாரத்தின் மீது சார்பில்லை"],
+    "answer_en": "I^2 R (Joule heating)",
+    "answer_ta": "I^2 R (ஜூல் வெப்பம்)"
+  },
+  {
+    "question_en": "A fuse in an electrical circuit is rated so that it melts when current exceeds a safe limit because",
+    "question_ta": "மின்சார சுற்றிலுள்ள ஃப்யூஸ் (fuse) ஒரு பாதுகாப்பான வரம்பைக் கடக்கும்போது உருகும் வகையில் மதிப்பிடப்பட்டுள்ளன; காரணம் என்ன?",
+    "options_en": ["It protects wiring and devices by breaking the circuit when excessive current flows", "To provide a controlled power supply", "To increase circuit current when needed", "To measure current precisely"],
+    "options_ta": ["மிக அதிக மின்காரம் சென்றால் சுற்றை உடைத்துவிட்டு கம்பிகள் மற்றும் சாதனங்களை பாதுகாக்க", "ஒழுங்கான மின்சாரத்தை வழங்க", "தேவைப்பட்டால் மின்சாரத்தை அதிகரிக்க", "மின்சாரத்தை துல்லியமாக அளவிட"],
+    "answer_en": "It protects wiring and devices by breaking the circuit when excessive current flows",
+    "answer_ta": "மிக அதிக மின்காரம் சென்றால் சுற்றை உடைத்துவிட்டு கம்பிகள் மற்றும் சாதனங்களை பாதுகாக்க"
+  },
+  {
+    "question_en": "Kirchhoff's current law (junction rule) expresses which conservation principle?",
+    "question_ta": "கிர்ஷோஃப்பின் மின்சாரம் சட்டம் (junction rule) எந்த பாதுகாப்பு கொள்கையை (conservation principle) வெளிப்படுத்துகிறது?",
+    "options_en": ["Conservation of energy", "Conservation of momentum", "No net voltage in a loop", "Conservation of electric charge (sum of currents at a junction is zero)"],
+    "options_ta": ["ஆற்றல் பாதுகாப்பு", "சுழற்சி பாதுகாப்பு", "ஒரு வளையத்தில் மொத்த மின்னழுத்தம் இல்லை", "மின்மின் பாதுகாப்பு (ஒரு சந்தியில் மின்சாரங்களின் கூட்டெண் பூஜ்ஜியம்)"],
+    "answer_en": "Conservation of electric charge (sum of currents at a junction is zero)",
+    "answer_ta": "மின்மின் பாதுகாப்பு (ஒரு சந்தியில் மின்சாரங்களின் கூட்டெண் பூஜ்ஜியம்)"
+  },
+  {
+    "question_en": "In an RC circuit, a larger time constant (RC) means the capacitor charges",
+    "question_ta": "RC சுற்றில் பெரிய டைம் நிலைமை (time constant = RC) என்றால் கேபாசிட்டர் (capacitor) எப்படி சார்ஜ் ஆகும்?",
+    "options_en": ["Faster", "Slower", "Instantly", "Not at all"],
+    "options_ta": ["விரைவாக", "மெதுவாக", "நொடியிலே", "முழுதாவதும் இல்லை"],
+    "answer_en": "Slower",
+    "answer_ta": "மெதுவாக"
+  },
+  {
+    "question_en": "Lenz's law states that the direction of induced emf is such that",
+    "question_ta": "லென்சின் சட்டம் (Lenz's law) சொல்லுவது: உந்தப்பட்ட (induced) மின்இம்ஃப் (emf) திசை எப்படி இருக்க வேண்டும்?",
+    "options_en": ["It aids the change in magnetic flux", "It has no preferred direction", "It opposes the change in magnetic flux", "It aligns with Earth's field always"],
+    "options_ta": ["காந்த ஓட்டின் மாற்றத்தை உதவுகிறது", "அதற்கு எந்தத் திசையும் இல்லை", "காந்த ஓட்டத்தின் மாற்றத்திற்கு எதிராக செயல்படுகிறது", "எப்போதும் பூமியின் களத்துடன் ஒத்துசேரும்"],
+    "answer_en": "It opposes the change in magnetic flux",
+    "answer_ta": "காந்த ஓட்டத்தின் மாற்றத்திற்கு எதிராக செயல்படுகிறது"
+  },
+  {
+    "question_en": "Why does the frequency of a musical note not change when its amplitude is increased?",
+    "question_ta": "ஒரு இசை நோட்டின் ஆழம் (amplitude) அதிகரித்தாலும் அதன் அதிர்வெண் (frequency) ஏன் மாறாது?",
+    "options_en": ["Because frequency is determined by source properties (tension/length), amplitude affects loudness only", "Because amplitude determines frequency directly", "Because frequency depends on listener distance only", "Because frequency is random"],
+    "options_ta": ["அதிர்வெண் மூலத் தொகுதிகளின் (மோசை/நீளம்) பண்புகளால் நிர்ணயிக்கப்படும்; ஆழம் வெறும் சப்தத்தின் (loudness) மீது பாதிப்பு", "ஆழம் நேரடியாக அதிர்வெண்ணை தீர்மானிக்கிறது", "அதிர்வெண் கேட்கும் நபரின் தொலைவையே சார்ந்தது", "அதிர்வெண் சீரற்றது"],
+    "answer_en": "Because frequency is determined by source properties (tension/length), amplitude affects loudness only",
+    "answer_ta": "அதிர்வெண் மூலத் தொகுதிகளின் (மோசை/நீளம்) பண்புகளால் நிர்ணயிக்கப்படும்; ஆழம் வெறும் சப்தத்தின் (loudness) மீது பாதிப்பு"
+  }
+]

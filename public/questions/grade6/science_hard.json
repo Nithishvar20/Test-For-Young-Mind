@@ -1,0 +1,902 @@
+[
+  {
+    "question_en": "Why does a compass needle always point north-south?",
+    "question_ta": "திசைகாட்டி ஊசி எப்போதும் வட-தென் திசை காட்டுவதன் காரணம்?",
+    "options_en": [
+      "Earth has magnetic field",
+      "Because of light",
+      "Due to rotation",
+      "Due to gravity"
+    ],
+    "options_ta": [
+      "பூமிக்கு காந்தப் புலம் உள்ளது",
+      "ஒளி காரணமாக",
+      "சுழற்சி காரணமாக",
+      "இயற்பிணைவு காரணமாக"
+    ],
+    "answer_en": "Earth has magnetic field",
+    "answer_ta": "பூமிக்கு காந்தப் புலம் உள்ளது"
+  },
+  {
+    "question_en": "Why are gaps left between railway tracks?",
+    "question_ta": "ரயில் பாதைகளில் இடைவெளி விடப்படுவதன் காரணம்?",
+    "options_en": [
+      "Due to expansion",
+      "To join easily",
+      "For safety",
+      "To reduce friction"
+    ],
+    "options_ta": [
+      "விரிவடைவதற்காக",
+      "எளிதாக இணைக்க",
+      "பாதுகாப்புக்காக",
+      "உராய்வை குறைக்க"
+    ],
+    "answer_en": "Due to expansion",
+    "answer_ta": "விரிவடைவதற்காக"
+  },
+  {
+    "question_en": "What will happen if there are no platelets in blood?",
+    "question_ta": "இரத்தத்தில் தகடணுக்கள் இல்லையெனில் என்ன ஆகும்?",
+    "options_en": [
+      "No oxygen",
+      "No immunity",
+      "No digestion",
+      "No clotting"
+    ],
+    "options_ta": [
+      "ஆக்சிஜன் கிடையாது",
+      "நோய் எதிர்ப்பு இல்லை",
+      "செரிமானம் இல்லை",
+      "இரத்தம் உறையாது"
+    ],
+    "answer_en": "No clotting",
+    "answer_ta": "இரத்தம் உறையாது"
+  },
+  {
+    "question_en": "Why are copper wires used in electricity?",
+    "question_ta": "மின்சாரத்தில் செம்புக் கம்பிகள் ஏன் பயன்படுத்தப்படுகின்றன?",
+    "options_en": [
+      "Cheap",
+      "Good conductor",
+      "Shiny",
+      "Magnetic"
+    ],
+    "options_ta": [
+      "மலிவு",
+      "நல்ல நடத்தி",
+      "பளபளப்பானது",
+      "காந்தம்"
+    ],
+    "answer_en": "Good conductor",
+    "answer_ta": "நல்ல நடத்தி"
+  },
+  {
+    "question_en": "Explain why sea breeze occurs.",
+    "question_ta": "கடற்காற்று ஏன் ஏற்படுகிறது?",
+    "options_en": [
+      "None",
+      "Both same",
+      "Sea heats faster",
+      "Land heats faster"
+    ],
+    "options_ta": [
+      "எதுவுமில்லை",
+      "இரண்டும் ஒரே மாதிரி",
+      "கடல் விரைவில் சூடாகும்",
+      "நிலம் விரைவில் சூடாகும்"
+    ],
+    "answer_en": "Land heats faster",
+    "answer_ta": "நிலம் விரைவில் சூடாகும்"
+  },
+  {
+    "question_en": "Which gas causes greenhouse effect?",
+    "question_ta": "கிரீன்ஹவுஸ் விளைவை ஏற்படுத்தும் வாயு?",
+    "options_en": [
+      "CO2",
+      "H2",
+      "O2",
+      "N2"
+    ],
+    "options_ta": [
+      "கார்பன் டை ஆக்சைடு",
+      "ஹைட்ரஜன்",
+      "ஆக்சிஜன்",
+      "நைட்ரஜன்"
+    ],
+    "answer_en": "CO2",
+    "answer_ta": "கார்பன் டை ஆக்சைடு"
+  },
+  {
+    "question_en": "Why are copper wires used in electricity?",
+    "question_ta": "மின்சாரத்தில் செம்புக் கம்பிகள் ஏன் பயன்படுத்தப்படுகின்றன?",
+    "options_en": [
+      "Magnetic",
+      "Shiny",
+      "Good conductor",
+      "Cheap"
+    ],
+    "options_ta": [
+      "காந்தம்",
+      "பளபளப்பானது",
+      "நல்ல நடத்தி",
+      "மலிவு"
+    ],
+    "answer_en": "Good conductor",
+    "answer_ta": "நல்ல நடத்தி"
+  },
+  {
+    "question_en": "Explain why sea breeze occurs.",
+    "question_ta": "கடற்காற்று ஏன் ஏற்படுகிறது?",
+    "options_en": [
+      "None",
+      "Sea heats faster",
+      "Both same",
+      "Land heats faster"
+    ],
+    "options_ta": [
+      "எதுவுமில்லை",
+      "கடல் விரைவில் சூடாகும்",
+      "இரண்டும் ஒரே மாதிரி",
+      "நிலம் விரைவில் சூடாகும்"
+    ],
+    "answer_en": "Land heats faster",
+    "answer_ta": "நிலம் விரைவில் சூடாகும்"
+  },
+  {
+    "question_en": "Why are copper wires used in electricity?",
+    "question_ta": "மின்சாரத்தில் செம்புக் கம்பிகள் ஏன் பயன்படுத்தப்படுகின்றன?",
+    "options_en": [
+      "Magnetic",
+      "Cheap",
+      "Good conductor",
+      "Shiny"
+    ],
+    "options_ta": [
+      "காந்தம்",
+      "மலிவு",
+      "நல்ல நடத்தி",
+      "பளபளப்பானது"
+    ],
+    "answer_en": "Good conductor",
+    "answer_ta": "நல்ல நடத்தி"
+  },
+  {
+    "question_en": "Explain why sea breeze occurs.",
+    "question_ta": "கடற்காற்று ஏன் ஏற்படுகிறது?",
+    "options_en": [
+      "Land heats faster",
+      "Both same",
+      "None",
+      "Sea heats faster"
+    ],
+    "options_ta": [
+      "நிலம் விரைவில் சூடாகும்",
+      "இரண்டும் ஒரே மாதிரி",
+      "எதுவுமில்லை",
+      "கடல் விரைவில் சூடாகும்"
+    ],
+    "answer_en": "Land heats faster",
+    "answer_ta": "நிலம் விரைவில் சூடாகும்"
+  },
+  {
+    "question_en": "Explain why sea breeze occurs.",
+    "question_ta": "கடற்காற்று ஏன் ஏற்படுகிறது?",
+    "options_en": [
+      "Land heats faster",
+      "Both same",
+      "None",
+      "Sea heats faster"
+    ],
+    "options_ta": [
+      "நிலம் விரைவில் சூடாகும்",
+      "இரண்டும் ஒரே மாதிரி",
+      "எதுவுமில்லை",
+      "கடல் விரைவில் சூடாகும்"
+    ],
+    "answer_en": "Land heats faster",
+    "answer_ta": "நிலம் விரைவில் சூடாகும்"
+  },
+  {
+    "question_en": "Which gas causes greenhouse effect?",
+    "question_ta": "கிரீன்ஹவுஸ் விளைவை ஏற்படுத்தும் வாயு?",
+    "options_en": [
+      "O2",
+      "CO2",
+      "H2",
+      "N2"
+    ],
+    "options_ta": [
+      "ஆக்சிஜன்",
+      "கார்பன் டை ஆக்சைடு",
+      "ஹைட்ரஜன்",
+      "நைட்ரஜன்"
+    ],
+    "answer_en": "CO2",
+    "answer_ta": "கார்பன் டை ஆக்சைடு"
+  },
+  {
+    "question_en": "Explain why sea breeze occurs.",
+    "question_ta": "கடற்காற்று ஏன் ஏற்படுகிறது?",
+    "options_en": [
+      "Land heats faster",
+      "None",
+      "Both same",
+      "Sea heats faster"
+    ],
+    "options_ta": [
+      "நிலம் விரைவில் சூடாகும்",
+      "எதுவுமில்லை",
+      "இரண்டும் ஒரே மாதிரி",
+      "கடல் விரைவில் சூடாகும்"
+    ],
+    "answer_en": "Land heats faster",
+    "answer_ta": "நிலம் விரைவில் சூடாகும்"
+  },
+  {
+    "question_en": "Why are copper wires used in electricity?",
+    "question_ta": "மின்சாரத்தில் செம்புக் கம்பிகள் ஏன் பயன்படுத்தப்படுகின்றன?",
+    "options_en": [
+      "Cheap",
+      "Good conductor",
+      "Shiny",
+      "Magnetic"
+    ],
+    "options_ta": [
+      "மலிவு",
+      "நல்ல நடத்தி",
+      "பளபளப்பானது",
+      "காந்தம்"
+    ],
+    "answer_en": "Good conductor",
+    "answer_ta": "நல்ல நடத்தி"
+  },
+  {
+    "question_en": "Why are copper wires used in electricity?",
+    "question_ta": "மின்சாரத்தில் செம்புக் கம்பிகள் ஏன் பயன்படுத்தப்படுகின்றன?",
+    "options_en": [
+      "Shiny",
+      "Magnetic",
+      "Good conductor",
+      "Cheap"
+    ],
+    "options_ta": [
+      "பளபளப்பானது",
+      "காந்தம்",
+      "நல்ல நடத்தி",
+      "மலிவு"
+    ],
+    "answer_en": "Good conductor",
+    "answer_ta": "நல்ல நடத்தி"
+  },
+  {
+    "question_en": "Explain why sea breeze occurs.",
+    "question_ta": "கடற்காற்று ஏன் ஏற்படுகிறது?",
+    "options_en": [
+      "None",
+      "Both same",
+      "Land heats faster",
+      "Sea heats faster"
+    ],
+    "options_ta": [
+      "எதுவுமில்லை",
+      "இரண்டும் ஒரே மாதிரி",
+      "நிலம் விரைவில் சூடாகும்",
+      "கடல் விரைவில் சூடாகும்"
+    ],
+    "answer_en": "Land heats faster",
+    "answer_ta": "நிலம் விரைவில் சூடாகும்"
+  },
+  {
+    "question_en": "Explain why sea breeze occurs.",
+    "question_ta": "கடற்காற்று ஏன் ஏற்படுகிறது?",
+    "options_en": [
+      "None",
+      "Sea heats faster",
+      "Both same",
+      "Land heats faster"
+    ],
+    "options_ta": [
+      "எதுவுமில்லை",
+      "கடல் விரைவில் சூடாகும்",
+      "இரண்டும் ஒரே மாதிரி",
+      "நிலம் விரைவில் சூடாகும்"
+    ],
+    "answer_en": "Land heats faster",
+    "answer_ta": "நிலம் விரைவில் சூடாகும்"
+  },
+  {
+    "question_en": "Which gas causes greenhouse effect?",
+    "question_ta": "கிரீன்ஹவுஸ் விளைவை ஏற்படுத்தும் வாயு?",
+    "options_en": [
+      "O2",
+      "CO2",
+      "N2",
+      "H2"
+    ],
+    "options_ta": [
+      "ஆக்சிஜன்",
+      "கார்பன் டை ஆக்சைடு",
+      "நைட்ரஜன்",
+      "ஹைட்ரஜன்"
+    ],
+    "answer_en": "CO2",
+    "answer_ta": "கார்பன் டை ஆக்சைடு"
+  },
+  {
+    "question_en": "Explain why sea breeze occurs.",
+    "question_ta": "கடற்காற்று ஏன் ஏற்படுகிறது?",
+    "options_en": [
+      "None",
+      "Land heats faster",
+      "Both same",
+      "Sea heats faster"
+    ],
+    "options_ta": [
+      "எதுவுமில்லை",
+      "நிலம் விரைவில் சூடாகும்",
+      "இரண்டும் ஒரே மாதிரி",
+      "கடல் விரைவில் சூடாகும்"
+    ],
+    "answer_en": "Land heats faster",
+    "answer_ta": "நிலம் விரைவில் சூடாகும்"
+  },
+  {
+    "question_en": "Explain why sea breeze occurs.",
+    "question_ta": "கடற்காற்று ஏன் ஏற்படுகிறது?",
+    "options_en": [
+      "Land heats faster",
+      "Sea heats faster",
+      "None",
+      "Both same"
+    ],
+    "options_ta": [
+      "நிலம் விரைவில் சூடாகும்",
+      "கடல் விரைவில் சூடாகும்",
+      "எதுவுமில்லை",
+      "இரண்டும் ஒரே மாதிரி"
+    ],
+    "answer_en": "Land heats faster",
+    "answer_ta": "நிலம் விரைவில் சூடாகும்"
+  },
+  {
+    "question_en": "Explain why sea breeze occurs.",
+    "question_ta": "கடற்காற்று ஏன் ஏற்படுகிறது?",
+    "options_en": [
+      "Sea heats faster",
+      "Both same",
+      "Land heats faster",
+      "None"
+    ],
+    "options_ta": [
+      "கடல் விரைவில் சூடாகும்",
+      "இரண்டும் ஒரே மாதிரி",
+      "நிலம் விரைவில் சூடாகும்",
+      "எதுவுமில்லை"
+    ],
+    "answer_en": "Land heats faster",
+    "answer_ta": "நிலம் விரைவில் சூடாகும்"
+  },
+  {
+    "question_en": "Why are copper wires used in electricity?",
+    "question_ta": "மின்சாரத்தில் செம்புக் கம்பிகள் ஏன் பயன்படுத்தப்படுகின்றன?",
+    "options_en": [
+      "Magnetic",
+      "Shiny",
+      "Cheap",
+      "Good conductor"
+    ],
+    "options_ta": [
+      "காந்தம்",
+      "பளபளப்பானது",
+      "மலிவு",
+      "நல்ல நடத்தி"
+    ],
+    "answer_en": "Good conductor",
+    "answer_ta": "நல்ல நடத்தி"
+  },
+  {
+    "question_en": "Which gas causes greenhouse effect?",
+    "question_ta": "கிரீன்ஹவுஸ் விளைவை ஏற்படுத்தும் வாயு?",
+    "options_en": [
+      "O2",
+      "CO2",
+      "N2",
+      "H2"
+    ],
+    "options_ta": [
+      "ஆக்சிஜன்",
+      "கார்பன் டை ஆக்சைடு",
+      "நைட்ரஜன்",
+      "ஹைட்ரஜன்"
+    ],
+    "answer_en": "CO2",
+    "answer_ta": "கார்பன் டை ஆக்சைடு"
+  },
+  {
+    "question_en": "Explain why sea breeze occurs.",
+    "question_ta": "கடற்காற்று ஏன் ஏற்படுகிறது?",
+    "options_en": [
+      "Land heats faster",
+      "None",
+      "Sea heats faster",
+      "Both same"
+    ],
+    "options_ta": [
+      "நிலம் விரைவில் சூடாகும்",
+      "எதுவுமில்லை",
+      "கடல் விரைவில் சூடாகும்",
+      "இரண்டும் ஒரே மாதிரி"
+    ],
+    "answer_en": "Land heats faster",
+    "answer_ta": "நிலம் விரைவில் சூடாகும்"
+  },
+  {
+    "question_en": "Why are copper wires used in electricity?",
+    "question_ta": "மின்சாரத்தில் செம்புக் கம்பிகள் ஏன் பயன்படுத்தப்படுகின்றன?",
+    "options_en": [
+      "Shiny",
+      "Good conductor",
+      "Cheap",
+      "Magnetic"
+    ],
+    "options_ta": [
+      "பளபளப்பானது",
+      "நல்ல நடத்தி",
+      "மலிவு",
+      "காந்தம்"
+    ],
+    "answer_en": "Good conductor",
+    "answer_ta": "நல்ல நடத்தி"
+  },
+  {
+    "question_en": "Which gas causes greenhouse effect?",
+    "question_ta": "கிரீன்ஹவுஸ் விளைவை ஏற்படுத்தும் வாயு?",
+    "options_en": [
+      "O2",
+      "N2",
+      "H2",
+      "CO2"
+    ],
+    "options_ta": [
+      "ஆக்சிஜன்",
+      "நைட்ரஜன்",
+      "ஹைட்ரஜன்",
+      "கார்பன் டை ஆக்சைடு"
+    ],
+    "answer_en": "CO2",
+    "answer_ta": "கார்பன் டை ஆக்சைடு"
+  },
+  {
+    "question_en": "Which gas causes greenhouse effect?",
+    "question_ta": "கிரீன்ஹவுஸ் விளைவை ஏற்படுத்தும் வாயு?",
+    "options_en": [
+      "O2",
+      "CO2",
+      "H2",
+      "N2"
+    ],
+    "options_ta": [
+      "ஆக்சிஜன்",
+      "கார்பன் டை ஆக்சைடு",
+      "ஹைட்ரஜன்",
+      "நைட்ரஜன்"
+    ],
+    "answer_en": "CO2",
+    "answer_ta": "கார்பன் டை ஆக்சைடு"
+  },
+  {
+    "question_en": "Explain why sea breeze occurs.",
+    "question_ta": "கடற்காற்று ஏன் ஏற்படுகிறது?",
+    "options_en": [
+      "None",
+      "Land heats faster",
+      "Sea heats faster",
+      "Both same"
+    ],
+    "options_ta": [
+      "எதுவுமில்லை",
+      "நிலம் விரைவில் சூடாகும்",
+      "கடல் விரைவில் சூடாகும்",
+      "இரண்டும் ஒரே மாதிரி"
+    ],
+    "answer_en": "Land heats faster",
+    "answer_ta": "நிலம் விரைவில் சூடாகும்"
+  },
+  {
+    "question_en": "Which gas causes greenhouse effect?",
+    "question_ta": "கிரீன்ஹவுஸ் விளைவை ஏற்படுத்தும் வாயு?",
+    "options_en": [
+      "N2",
+      "H2",
+      "CO2",
+      "O2"
+    ],
+    "options_ta": [
+      "நைட்ரஜன்",
+      "ஹைட்ரஜன்",
+      "கார்பன் டை ஆக்சைடு",
+      "ஆக்சிஜன்"
+    ],
+    "answer_en": "CO2",
+    "answer_ta": "கார்பன் டை ஆக்சைடு"
+  },
+  {
+    "question_en": "Which gas causes greenhouse effect?",
+    "question_ta": "கிரீன்ஹவுஸ் விளைவை ஏற்படுத்தும் வாயு?",
+    "options_en": [
+      "O2",
+      "CO2",
+      "H2",
+      "N2"
+    ],
+    "options_ta": [
+      "ஆக்சிஜன்",
+      "கார்பன் டை ஆக்சைடு",
+      "ஹைட்ரஜன்",
+      "நைட்ரஜன்"
+    ],
+    "answer_en": "CO2",
+    "answer_ta": "கார்பன் டை ஆக்சைடு"
+  },
+  {
+    "question_en": "Why are copper wires used in electricity?",
+    "question_ta": "மின்சாரத்தில் செம்புக் கம்பிகள் ஏன் பயன்படுத்தப்படுகின்றன?",
+    "options_en": [
+      "Magnetic",
+      "Good conductor",
+      "Cheap",
+      "Shiny"
+    ],
+    "options_ta": [
+      "காந்தம்",
+      "நல்ல நடத்தி",
+      "மலிவு",
+      "பளபளப்பானது"
+    ],
+    "answer_en": "Good conductor",
+    "answer_ta": "நல்ல நடத்தி"
+  },
+  {
+    "question_en": "Why are copper wires used in electricity?",
+    "question_ta": "மின்சாரத்தில் செம்புக் கம்பிகள் ஏன் பயன்படுத்தப்படுகின்றன?",
+    "options_en": [
+      "Good conductor",
+      "Cheap",
+      "Shiny",
+      "Magnetic"
+    ],
+    "options_ta": [
+      "நல்ல நடத்தி",
+      "மலிவு",
+      "பளபளப்பானது",
+      "காந்தம்"
+    ],
+    "answer_en": "Good conductor",
+    "answer_ta": "நல்ல நடத்தி"
+  },
+  {
+    "question_en": "Explain why sea breeze occurs.",
+    "question_ta": "கடற்காற்று ஏன் ஏற்படுகிறது?",
+    "options_en": [
+      "Both same",
+      "None",
+      "Land heats faster",
+      "Sea heats faster"
+    ],
+    "options_ta": [
+      "இரண்டும் ஒரே மாதிரி",
+      "எதுவுமில்லை",
+      "நிலம் விரைவில் சூடாகும்",
+      "கடல் விரைவில் சூடாகும்"
+    ],
+    "answer_en": "Land heats faster",
+    "answer_ta": "நிலம் விரைவில் சூடாகும்"
+  },
+  {
+    "question_en": "Explain why sea breeze occurs.",
+    "question_ta": "கடற்காற்று ஏன் ஏற்படுகிறது?",
+    "options_en": [
+      "Both same",
+      "None",
+      "Sea heats faster",
+      "Land heats faster"
+    ],
+    "options_ta": [
+      "இரண்டும் ஒரே மாதிரி",
+      "எதுவுமில்லை",
+      "கடல் விரைவில் சூடாகும்",
+      "நிலம் விரைவில் சூடாகும்"
+    ],
+    "answer_en": "Land heats faster",
+    "answer_ta": "நிலம் விரைவில் சூடாகும்"
+  },
+  {
+    "question_en": "Which gas causes greenhouse effect?",
+    "question_ta": "கிரீன்ஹவுஸ் விளைவை ஏற்படுத்தும் வாயு?",
+    "options_en": [
+      "N2",
+      "H2",
+      "O2",
+      "CO2"
+    ],
+    "options_ta": [
+      "நைட்ரஜன்",
+      "ஹைட்ரஜன்",
+      "ஆக்சிஜன்",
+      "கார்பன் டை ஆக்சைடு"
+    ],
+    "answer_en": "CO2",
+    "answer_ta": "கார்பன் டை ஆக்சைடு"
+  },
+  {
+    "question_en": "Explain why sea breeze occurs.",
+    "question_ta": "கடற்காற்று ஏன் ஏற்படுகிறது?",
+    "options_en": [
+      "None",
+      "Both same",
+      "Sea heats faster",
+      "Land heats faster"
+    ],
+    "options_ta": [
+      "எதுவுமில்லை",
+      "இரண்டும் ஒரே மாதிரி",
+      "கடல் விரைவில் சூடாகும்",
+      "நிலம் விரைவில் சூடாகும்"
+    ],
+    "answer_en": "Land heats faster",
+    "answer_ta": "நிலம் விரைவில் சூடாகும்"
+  },
+  {
+    "question_en": "Explain why sea breeze occurs.",
+    "question_ta": "கடற்காற்று ஏன் ஏற்படுகிறது?",
+    "options_en": [
+      "Sea heats faster",
+      "Both same",
+      "Land heats faster",
+      "None"
+    ],
+    "options_ta": [
+      "கடல் விரைவில் சூடாகும்",
+      "இரண்டும் ஒரே மாதிரி",
+      "நிலம் விரைவில் சூடாகும்",
+      "எதுவுமில்லை"
+    ],
+    "answer_en": "Land heats faster",
+    "answer_ta": "நிலம் விரைவில் சூடாகும்"
+  },
+  {
+    "question_en": "Explain why sea breeze occurs.",
+    "question_ta": "கடற்காற்று ஏன் ஏற்படுகிறது?",
+    "options_en": [
+      "None",
+      "Both same",
+      "Sea heats faster",
+      "Land heats faster"
+    ],
+    "options_ta": [
+      "எதுவுமில்லை",
+      "இரண்டும் ஒரே மாதிரி",
+      "கடல் விரைவில் சூடாகும்",
+      "நிலம் விரைவில் சூடாகும்"
+    ],
+    "answer_en": "Land heats faster",
+    "answer_ta": "நிலம் விரைவில் சூடாகும்"
+  },
+  {
+    "question_en": "Why are copper wires used in electricity?",
+    "question_ta": "மின்சாரத்தில் செம்புக் கம்பிகள் ஏன் பயன்படுத்தப்படுகின்றன?",
+    "options_en": [
+      "Cheap",
+      "Magnetic",
+      "Shiny",
+      "Good conductor"
+    ],
+    "options_ta": [
+      "மலிவு",
+      "காந்தம்",
+      "பளபளப்பானது",
+      "நல்ல நடத்தி"
+    ],
+    "answer_en": "Good conductor",
+    "answer_ta": "நல்ல நடத்தி"
+  },
+  {
+    "question_en": "Why are copper wires used in electricity?",
+    "question_ta": "மின்சாரத்தில் செம்புக் கம்பிகள் ஏன் பயன்படுத்தப்படுகின்றன?",
+    "options_en": [
+      "Shiny",
+      "Magnetic",
+      "Good conductor",
+      "Cheap"
+    ],
+    "options_ta": [
+      "பளபளப்பானது",
+      "காந்தம்",
+      "நல்ல நடத்தி",
+      "மலிவு"
+    ],
+    "answer_en": "Good conductor",
+    "answer_ta": "நல்ல நடத்தி"
+  },
+  {
+    "question_en": "Explain why sea breeze occurs.",
+    "question_ta": "கடற்காற்று ஏன் ஏற்படுகிறது?",
+    "options_en": [
+      "Sea heats faster",
+      "Both same",
+      "Land heats faster",
+      "None"
+    ],
+    "options_ta": [
+      "கடல் விரைவில் சூடாகும்",
+      "இரண்டும் ஒரே மாதிரி",
+      "நிலம் விரைவில் சூடாகும்",
+      "எதுவுமில்லை"
+    ],
+    "answer_en": "Land heats faster",
+    "answer_ta": "நிலம் விரைவில் சூடாகும்"
+  },
+  {
+    "question_en": "Which gas causes greenhouse effect?",
+    "question_ta": "கிரீன்ஹவுஸ் விளைவை ஏற்படுத்தும் வாயு?",
+    "options_en": [
+      "H2",
+      "CO2",
+      "N2",
+      "O2"
+    ],
+    "options_ta": [
+      "ஹைட்ரஜன்",
+      "கார்பன் டை ஆக்சைடு",
+      "நைட்ரஜன்",
+      "ஆக்சிஜன்"
+    ],
+    "answer_en": "CO2",
+    "answer_ta": "கார்பன் டை ஆக்சைடு"
+  },
+  {
+    "question_en": "Explain why sea breeze occurs.",
+    "question_ta": "கடற்காற்று ஏன் ஏற்படுகிறது?",
+    "options_en": [
+      "None",
+      "Both same",
+      "Land heats faster",
+      "Sea heats faster"
+    ],
+    "options_ta": [
+      "எதுவுமில்லை",
+      "இரண்டும் ஒரே மாதிரி",
+      "நிலம் விரைவில் சூடாகும்",
+      "கடல் விரைவில் சூடாகும்"
+    ],
+    "answer_en": "Land heats faster",
+    "answer_ta": "நிலம் விரைவில் சூடாகும்"
+  },
+  {
+    "question_en": "Explain why sea breeze occurs.",
+    "question_ta": "கடற்காற்று ஏன் ஏற்படுகிறது?",
+    "options_en": [
+      "None",
+      "Sea heats faster",
+      "Both same",
+      "Land heats faster"
+    ],
+    "options_ta": [
+      "எதுவுமில்லை",
+      "கடல் விரைவில் சூடாகும்",
+      "இரண்டும் ஒரே மாதிரி",
+      "நிலம் விரைவில் சூடாகும்"
+    ],
+    "answer_en": "Land heats faster",
+    "answer_ta": "நிலம் விரைவில் சூடாகும்"
+  },
+  {
+    "question_en": "Which gas causes greenhouse effect?",
+    "question_ta": "கிரீன்ஹவுஸ் விளைவை ஏற்படுத்தும் வாயு?",
+    "options_en": [
+      "H2",
+      "CO2",
+      "O2",
+      "N2"
+    ],
+    "options_ta": [
+      "ஹைட்ரஜன்",
+      "கார்பன் டை ஆக்சைடு",
+      "ஆக்சிஜன்",
+      "நைட்ரஜன்"
+    ],
+    "answer_en": "CO2",
+    "answer_ta": "கார்பன் டை ஆக்சைடு"
+  },
+  {
+    "question_en": "Explain why sea breeze occurs.",
+    "question_ta": "கடற்காற்று ஏன் ஏற்படுகிறது?",
+    "options_en": [
+      "Both same",
+      "Sea heats faster",
+      "None",
+      "Land heats faster"
+    ],
+    "options_ta": [
+      "இரண்டும் ஒரே மாதிரி",
+      "கடல் விரைவில் சூடாகும்",
+      "எதுவுமில்லை",
+      "நிலம் விரைவில் சூடாகும்"
+    ],
+    "answer_en": "Land heats faster",
+    "answer_ta": "நிலம் விரைவில் சூடாகும்"
+  },
+  {
+    "question_en": "Explain why sea breeze occurs.",
+    "question_ta": "கடற்காற்று ஏன் ஏற்படுகிறது?",
+    "options_en": [
+      "Both same",
+      "Sea heats faster",
+      "None",
+      "Land heats faster"
+    ],
+    "options_ta": [
+      "இரண்டும் ஒரே மாதிரி",
+      "கடல் விரைவில் சூடாகும்",
+      "எதுவுமில்லை",
+      "நிலம் விரைவில் சூடாகும்"
+    ],
+    "answer_en": "Land heats faster",
+    "answer_ta": "நிலம் விரைவில் சூடாகும்"
+  },
+  {
+    "question_en": "Why are copper wires used in electricity?",
+    "question_ta": "மின்சாரத்தில் செம்புக் கம்பிகள் ஏன் பயன்படுத்தப்படுகின்றன?",
+    "options_en": [
+      "Shiny",
+      "Good conductor",
+      "Cheap",
+      "Magnetic"
+    ],
+    "options_ta": [
+      "பளபளப்பானது",
+      "நல்ல நடத்தி",
+      "மலிவு",
+      "காந்தம்"
+    ],
+    "answer_en": "Good conductor",
+    "answer_ta": "நல்ல நடத்தி"
+  },
+  {
+    "question_en": "Explain why sea breeze occurs.",
+    "question_ta": "கடற்காற்று ஏன் ஏற்படுகிறது?",
+    "options_en": [
+      "None",
+      "Both same",
+      "Sea heats faster",
+      "Land heats faster"
+    ],
+    "options_ta": [
+      "எதுவுமில்லை",
+      "இரண்டும் ஒரே மாதிரி",
+      "கடல் விரைவில் சூடாகும்",
+      "நிலம் விரைவில் சூடாகும்"
+    ],
+    "answer_en": "Land heats faster",
+    "answer_ta": "நிலம் விரைவில் சூடாகும்"
+  },
+  {
+    "question_en": "Explain why sea breeze occurs.",
+    "question_ta": "கடற்காற்று ஏன் ஏற்படுகிறது?",
+    "options_en": [
+      "Both same",
+      "Land heats faster",
+      "None",
+      "Sea heats faster"
+    ],
+    "options_ta": [
+      "இரண்டும் ஒரே மாதிரி",
+      "நிலம் விரைவில் சூடாகும்",
+      "எதுவுமில்லை",
+      "கடல் விரைவில் சூடாகும்"
+    ],
+    "answer_en": "Land heats faster",
+    "answer_ta": "நிலம் விரைவில் சூடாகும்"
+  }
+]

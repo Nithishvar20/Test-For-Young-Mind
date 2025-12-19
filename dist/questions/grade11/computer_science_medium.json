@@ -1,0 +1,560 @@
+[
+  {
+    "question_en": "The process of binding a variable name with an object is called?",
+    "question_ta": "ஒரு மாறி பெயரை ஒரு பொருளுடன் இணைப்பது என்ன அழைக்கப்படுகிறது?",
+    "options_en": [
+      "Late Binding",
+      "Mapping",
+      "Early Binding",
+      "Scope"
+    ],
+    "options_ta": [
+      "தாமத பைண்டிங்",
+      "மேப்பிங்",
+      "ஆரம்ப பைண்டிங்",
+      "ஸ்கோப்"
+    ],
+    "answer_en": "Mapping",
+    "answer_ta": "மேப்பிங்"
+  },
+  {
+    "question_en": "Which of the following is used in programming languages to map the variable and object?",
+    "question_ta": "மாறி மற்றும் பொருளை மேப் செய்ய எந்த குறியீடு பயன்படுத்தப்படுகிறது?",
+    "options_en": [
+      "=",
+      ":=",
+      "::",
+      "=="
+    ],
+    "options_ta": [
+      "=",
+      ":=",
+      "::",
+      "=="
+    ],
+    "answer_en": ":=",
+    "answer_ta": ":="
+  },
+  {
+    "question_en": "Containers for mapping names of variables to objects is called?",
+    "question_ta": "மாறிகளின் பெயர்களை பொருட்களுடன் தொடர்புபடுத்தும் தொகுதிகள் எவை?",
+    "options_en": [
+      "Mapping",
+      "Namespaces",
+      "Binding",
+      "Scope"
+    ],
+    "options_ta": [
+      "மேப்பிங்",
+      "பெயர்வெளிகள்",
+      "பைண்டிங்",
+      "ஸ்கோப்"
+    ],
+    "answer_en": "Namespaces",
+    "answer_ta": "பெயர்வெளிகள்"
+  },
+  {
+    "question_en": "Which scope refers to variables defined in the current function?",
+    "question_ta": "தற்போதைய function இல் வரையறுக்கப்பட்ட மாறிகளுக்கான scope எது?",
+    "options_en": [
+      "Function Scope",
+      "Local Scope",
+      "Global Scope",
+      "Module Scope"
+    ],
+    "options_ta": [
+      "ஃபங்க்ஷன் ஸ்கோப்",
+      "உள்-ஸ்கோப்",
+      "உலகளாவிய ஸ்கோப்",
+      "மொட்யூல் ஸ்கோப்"
+    ],
+    "answer_en": "Local Scope",
+    "answer_ta": "உள்-ஸ்கோப்"
+  },
+  {
+    "question_en": "Which of the following is used to split a program into sub-programs?",
+    "question_ta": "ஒரு நிரலை துணை-நிரல்களாக பிரிக்க எது பயன்படுத்தப்படுகிறது?",
+    "options_en": [
+      "Procedural Programming",
+      "Event Driven Programming",
+      "Modular Programming",
+      "Object Oriented Programming"
+    ],
+    "options_ta": [
+      "செயல்முறை நிரலாக்கம்",
+      "நிகழ்வு இயக்க நிரலாக்கம்",
+      "மாட்யூலர் நிரலாக்கம்",
+      "வஸ்து சார்ந்த நிரலாக்கம்"
+    ],
+    "answer_en": "Modular Programming",
+    "answer_ta": "மாட்யூலர் நிரலாக்கம்"
+  },
+  {
+    "question_en": "Which scope has names pre-loaded when interpreter starts?",
+    "question_ta": "இன்டர்பிரிட்டர் தொடங்கும் போது முன்பே ஏற்றப்பட்ட பெயர்களைக் கொண்ட scope எது?",
+    "options_en": [
+      "Enclosed Scope",
+      "Local Scope",
+      "Global Scope",
+      "Built-in Scope"
+    ],
+    "options_ta": [
+      "சூழ்ந்த ஸ்கோப்",
+      "உள்-ஸ்கோப்",
+      "உலகளாவிய ஸ்கோப்",
+      "உள்ளமைக்கப்பட்ட ஸ்கோப்"
+    ],
+    "answer_en": "Built-in Scope",
+    "answer_ta": "உள்ளமைக்கப்பட்ட ஸ்கோப்"
+  },
+  {
+    "question_en": "Which function is called an anonymous un-named function?",
+    "question_ta": "பெயரில்லாத function எது என்று அழைக்கப்படுகிறது?",
+    "options_en": [
+      "Define",
+      "Function",
+      "Lambda",
+      "Recursion"
+    ],
+    "options_ta": [
+      "டிபைன்",
+      "ஃபங்க்ஷன்",
+      "லாம்ப்டா",
+      "மீளுருவாக்கம்"
+    ],
+    "answer_en": "Lambda",
+    "answer_ta": "லாம்ப்டா"
+  },
+  {
+    "question_en": "Which keyword is used to begin the function block?",
+    "question_ta": "Function block ஐ தொடங்க எந்த keyword பயன்படுத்தப்படுகிறது?",
+    "options_en": [
+      "define",
+      "def",
+      "finally",
+      "for"
+    ],
+    "options_ta": [
+      "define",
+      "def",
+      "finally",
+      "for"
+    ],
+    "answer_en": "def",
+    "answer_ta": "def"
+  },
+  {
+    "question_en": "Which of the following is known as a definite loop?",
+    "question_ta": "எந்த loop 'definite loop' என்று அழைக்கப்படுகிறது?",
+    "options_en": [
+      "if..elif",
+      "while",
+      "for",
+      "do..while"
+    ],
+    "options_ta": [
+      "if..elif",
+      "while",
+      "for",
+      "do..while"
+    ],
+    "answer_en": "for",
+    "answer_ta": "for"
+  },
+  {
+    "question_en": "Which of the following is used to accept input at runtime in Python?",
+    "question_ta": "Python இல் runtime-இல் உள்ளீட்டை பெற எது பயன்படுத்தப்படுகிறது?",
+    "options_en": [
+      "raw_input()",
+      "scan()",
+      "read()",
+      "input()"
+    ],
+    "options_ta": [
+      "raw_input()",
+      "scan()",
+      "read()",
+      "input()"
+    ],
+    "answer_en": "input()",
+    "answer_ta": "input()"
+  },
+  {
+    "question_en": "Which notation in asymptotic evaluation represents the average case?",
+    "question_ta": "Asymptotic மதிப்பீட்டில் சராசரி நிலையை எந்த நோட்டேஷன் குறிக்கிறது?",
+    "options_en": [
+      "Big θ",
+      "Big Ω",
+      "Big S",
+      "Big O"
+    ],
+    "options_ta": [
+      "பிக் தீட்டா (Big θ)",
+      "பிக் ஓமேகா (Big Ω)",
+      "பிக் S (Big S)",
+      "பிக் O (Big O)"
+    ],
+    "answer_en": "Big θ",
+    "answer_ta": "பிக் தீட்டா (Big θ)"
+  },
+  {
+    "question_en": "If a problem can be broken into subproblems which are reused several times, the problem possesses which property?",
+    "question_ta": "ஒரு பிரச்சினையை பலமுறை மீண்டும் பயன்படும் துணைப் பிரச்சினைகளாகப் பிரிக்கலாம் என்றால், அந்த பிரச்சினைக்கு எந்த பண்பு உள்ளது?",
+    "options_en": [
+      "Optimal substructure",
+      "Overlapping subproblems",
+      "Greedy",
+      "Memoization"
+    ],
+    "options_ta": [
+      "சரியான உள்கட்டமைப்பு (Optimal substructure)",
+      "மீறிச் செயல்கள் (Overlapping subproblems)",
+      "வரிசைப்படுத்தல் (Greedy)",
+      "அமைச்சு (Memoization)"
+    ],
+    "answer_en": "Overlapping subproblems",
+    "answer_ta": "மீறிச் செயல்கள் (Overlapping subproblems)"
+  },
+  {
+    "question_en": "In dynamic programming, the technique of storing previously calculated values is called?",
+    "question_ta": "டயனமிக் ப்ரோக்ராமிங்கில், முந்தைய கணிக்கப்பட்ட மதிப்புகளை சேமிக்கும் தொழில் என்ன?",
+    "options_en": [
+      "Mapping",
+      "Storing value property",
+      "Saving value property",
+      "Memoization"
+    ],
+    "options_ta": [
+      "மேப்பிங்",
+      "மதிப்பு வைப்புச் சொத்து",
+      "மதிப்பு சேமிப்பு பண்பு",
+      "Memoization (மெமோஇசேஷன்)"
+    ],
+    "answer_en": "Memoization",
+    "answer_ta": "Memoization (மெமோஇசேஷன்)"
+  },
+  {
+    "question_en": "Which of the following is used to describe the worst case of an algorithm?",
+    "question_ta": "ஒரு ஆல்கோரிதத்தின் மோசமான நிலையை விவரிக்க எது பயன்படுத்தப்படுகிறது?",
+    "options_en": [
+      "Big S",
+      "Big O",
+      "Big A",
+      "Big W"
+    ],
+    "options_ta": [
+      "பிக் S (Big S)",
+      "பிக் O (Big O)",
+      "பிக் A (Big A)",
+      "பிக் W (Big W)"
+    ],
+    "answer_en": "Big O",
+    "answer_ta": "பிக் O (Big O)"
+  },
+  {
+    "question_en": "Which search algorithm is called half-interval search?",
+    "question_ta": "அரை இடைப்பட்டியல் தேடல் என்று அழைக்கப்படும் தேடல் ஆல்கோரிதம் எது?",
+    "options_en": [
+      "Sequential search",
+      "Random search",
+      "Binary search",
+      "Linear search"
+    ],
+    "options_ta": [
+      "Sequential search (வரிசை தேடல்)",
+      "Random search (சீரிழிவு தேடல்)",
+      "Binary search (பைனரி தேடல்)",
+      "Linear search (கோட்படுத்தல் தேடல்)"
+    ],
+    "answer_en": "Binary search",
+    "answer_ta": "Binary search (பைனரி தேடல்)"
+  },
+  {
+    "question_en": "Which module helps parse command-line options and arguments in Python?",
+    "question_ta": "Python-இல் கணிணி வரிசை விருப்பங்களையும் arguments-ஐ பிரிக்க எந்த module உதவுகிறது?",
+    "options_en": [
+      "sys",
+      "getopt",
+      "os",
+      "csv"
+    ],
+    "options_ta": [
+      "sys",
+      "getopt",
+      "os",
+      "csv"
+    ],
+    "answer_en": "getopt",
+    "answer_ta": "getopt"
+  },
+  {
+    "question_en": "Which module provides access to interpreter variables and functions?",
+    "question_ta": "Interpreter மாறில்கள் மற்றும் function-க்களுக்கு அணுகல் வழங்கும் module எது?",
+    "options_en": [
+      "csv module",
+      "sys module",
+      "os module",
+      "getopt module"
+    ],
+    "options_ta": [
+      "csv module",
+      "sys module",
+      "os module",
+      "getopt module"
+    ],
+    "answer_en": "sys module",
+    "answer_ta": "sys module"
+  },
+  {
+    "question_en": "Which of the following can be used for processing text, numbers, images and scientific data?",
+    "question_ta": "உரை, எண்கள், படங்கள் மற்றும் அறிவியல் தரவுகளை செயலாக்க எது பயன்படுத்தப்படலாம்?",
+    "options_en": [
+      "C++",
+      "C",
+      "PYTHON",
+      "HTML"
+    ],
+    "options_ta": [
+      "C++",
+      "C",
+      "PYTHON",
+      "HTML"
+    ],
+    "answer_en": "PYTHON",
+    "answer_ta": "PYTHON"
+  },
+  {
+    "question_en": "Importing a C++ program into a Python program is called?",
+    "question_ta": "C++ நிரலை Python நிரலுக்கு இறக்குமதி செய்வதை என்ன அழைக்கின்றனர்?",
+    "options_en": [
+      "Downloading",
+      "Parsing",
+      "wrapping",
+      "Interconnecting"
+    ],
+    "options_ta": [
+      "பதிவிறக்கம் (Downloading)",
+      "Parsing",
+      "wrapping",
+      "Interconnecting"
+    ],
+    "answer_en": "wrapping",
+    "answer_ta": "wrapping"
+  },
+  {
+    "question_en": "A framework for interfacing Python and C++ listed in the textbook is?",
+    "question_ta": "Python மற்றும் C++ இடையிலான இடைமுகம் உருவாக்குவதற்கான எந்த framework புத்தகத்தில் குறிப்பிடப்பட்டுள்ளது?",
+    "options_en": [
+      "Cython",
+      "Boost",
+      "Ctypes",
+      "SWIG"
+    ],
+    "options_ta": [
+      "Cython",
+      "Boost",
+      "Ctypes",
+      "SWIG"
+    ],
+    "answer_en": "SWIG",
+    "answer_ta": "SWIG"
+  },
+  {
+    "question_en": "Which of the following is a software design technique to split your code into separate parts?",
+    "question_ta": "குறியீட்டை பிரித்து தனித்தனி பகுதிகளாக்க எந்த மென்பொருள் வடிவமைப்பு தொழில்நுட்பம் பயன்படும்?",
+    "options_en": [
+      "Modular programming",
+      "Procedure oriented Programming",
+      "Object Oriented Programming",
+      "Low Level Programming"
+    ],
+    "options_ta": [
+      "Modular programming (மாட்யூலர்)",
+      "Procedure oriented Programming (செயல்முறை நோக்கி)",
+      "Object Oriented Programming (வகுப்பு சார்ந்த)",
+      "Low Level Programming (குறைந்த நிலை)"
+    ],
+    "answer_en": "Modular programming",
+    "answer_ta": "Modular programming (மாட்யூலர்)"
+  },
+  {
+    "question_en": "Which of the following is used to describe the time complexity worst case?",
+    "question_ta": "ஒரு ஆல்கோரிதத்தின் நேரக் கொள்கையின் மோசமான நிலையை விவரிக்க எது பயன்படுத்தப்படுகிறது?",
+    "options_en": [
+      "Big O",
+      "Big Ω",
+      "Big θ",
+      "Big S"
+    ],
+    "options_ta": [
+      "பிக் O (Big O)",
+      "பிக் ஓமேகா (Big Ω)",
+      "பிக் தீட்டா (Big θ)",
+      "பிக் S (Big S)"
+    ],
+    "answer_en": "Big O",
+    "answer_ta": "பிக் O (Big O)"
+  },
+  {
+    "question_en": "Which notation in asymptotic evaluation represents the average case?",
+    "question_ta": "Asymptotic மதிப்பீட்டில் சராசரி நிலையை எந்த நோட்டேஷன் குறிக்கிறது?",
+    "options_en": [
+      "Big θ",
+      "Big Ω",
+      "Big S",
+      "Big O"
+    ],
+    "options_ta": [
+      "பிக் θ (Big θ)",
+      "பிக் Ω (Big Ω)",
+      "பிக் S (Big S)",
+      "பிக் O (Big O)"
+    ],
+    "answer_en": "Big θ",
+    "answer_ta": "பிக் θ (Big θ)"
+  },
+  {
+    "question_en": "Which of the following is the expansion of API?",
+    "question_ta": "API என்ற சுருக்கம் எந்த வார்த்தைகளை குறிக்கிறது?",
+    "options_en": [
+      "Application Performing Interface",
+      "Application Programming Interface",
+      "Application Programming Interlink",
+      "Application Programming Interpreter"
+    ],
+    "options_ta": [
+      "Application Performing Interface",
+      "Application Programming Interface",
+      "Application Programming Interlink",
+      "Application Programming Interpreter"
+    ],
+    "answer_en": "Application Programming Interface",
+    "answer_ta": "Application Programming Interface"
+  },
+  {
+    "question_en": "Which of the following is NOT a scripting language (textbook MCQ)?",
+    "question_ta": "பின்வரும் எந்தது ஸ்கிரிப்டிங் மொழியாக இல்லை?",
+    "options_en": [
+      "HTML",
+      "JavaScript",
+      "Perl",
+      "PHP"
+    ],
+    "options_ta": [
+      "HTML",
+      "JavaScript",
+      "Perl",
+      "PHP"
+    ],
+    "answer_en": "HTML",
+    "answer_ta": "HTML"
+  },
+  {
+    "question_en": "Which module should be imported to visualize data and information in Python?",
+    "question_ta": "Python-இல் தரவுகளை காட்சி வடிவில் காண்பிக்க எந்த module-ஐ இறக்குமதி செய்ய வேண்டும்?",
+    "options_en": [
+      "csv",
+      "mysql",
+      "getopt",
+      "matplotlib"
+    ],
+    "options_ta": [
+      "csv",
+      "mysql",
+      "getopt",
+      "matplotlib"
+    ],
+    "answer_en": "matplotlib",
+    "answer_ta": "matplotlib"
+  },
+  {
+    "question_en": "Which of the following is a relational DBMS example (textbook)?",
+    "question_ta": "பின்வரும் எவற்றில் relational DBMS உதாரணமாக அடங்கும்?",
+    "options_en": [
+      "All of the above",
+      "sql server",
+      "oracle",
+      "mysql"
+    ],
+    "options_ta": [
+      "மேற்கண்ட எல்லாம்",
+      "sql server",
+      "oracle",
+      "mysql"
+    ],
+    "answer_en": "All of the above",
+    "answer_ta": "மேற்கண்ட எல்லாம்"
+  },
+  {
+    "question_en": "Who is called the father of relational database (textbook)?",
+    "question_ta": "Relational database-இன் தந்தை என்று குறிப்பிடப்படுகிறார்?",
+    "options_en": [
+      "Edgar Frank Cadd",
+      "Hugh Darween",
+      "Chris Date",
+      "Edgar Frank Codd"
+    ],
+    "options_ta": [
+      "Edgar Frank Cadd",
+      "Hugh Darween",
+      "Chris Date",
+      "Edgar Frank Codd"
+    ],
+    "answer_en": "Edgar Frank Codd",
+    "answer_ta": "Edgar Frank Codd"
+  },
+  {
+    "question_en": "Which of the following is the output of: class Student: def __init__(self,name): self.name=name; print(self.name) S=Student('Tamil') ?",
+    "question_ta": "கீழ்காணும் நிரலின் output என்ன? class Student: def __init__(self,name): self.name=name; print(self.name) S=Student('Tamil')",
+    "options_en": [
+      "name",
+      "Tamil",
+      "self",
+      "Error"
+    ],
+    "options_ta": [
+      "name",
+      "Tamil",
+      "self",
+      "தவறு (Error)"
+    ],
+    "answer_en": "Tamil",
+    "answer_ta": "Tamil"
+  },
+  {
+    "question_en": "Which module allows interfacing with the Windows operating system?",
+    "question_ta": "Windows இயங்கு முறைதுடன் இடைமுகப்படுத்த எந்த module உதவுகிறது?",
+    "options_en": [
+      "getopt module",
+      "csv module",
+      "sys module",
+      "OS module"
+    ],
+    "options_ta": [
+      "getopt module",
+      "csv module",
+      "sys module",
+      "OS module"
+    ],
+    "answer_en": "OS module",
+    "answer_ta": "OS module"
+  },
+  {
+    "question_en": "Which of the following returns an empty array if there is no error in splitting strings using getopt()?",
+    "question_ta": "getopt() பயன்படுத்தி strings-ஐ பிரிக்கையில் பிழை இல்லாவிட்டால் எது காலி வரிசையை (empty array) நல்கும்?",
+    "options_en": [
+      "ifile variable",
+      "args variable",
+      "argv variable",
+      "opt variable"
+    ],
+    "options_ta": [
+      "ifile மாறி",
+      "args மாறி",
+      "argv மாறி",
+      "opt மாறி"
+    ],
+    "answer_en": "opt variable",
+    "answer_ta": "opt மாறி"
+  }
+]

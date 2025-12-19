@@ -1,0 +1,274 @@
+[
+  {
+    "question_en": "Who was the founder of the Maurya Empire?",
+    "question_ta": "மௌரிய சாம்ராஜ்யத்தை நிறுவியவர் யார்?",
+    "options_en": ["Ashoka", "Chandragupta Maurya", "Bindusara", "Bimbisara"],
+    "options_ta": ["அசோகர்", "சந்திரகுப்த மௌரியர்", "பிந்து சாரர்", "பிம்பிசாரர்"],
+    "answer_en": "Chandragupta Maurya",
+    "answer_ta": "சந்திரகுப்த மௌரியர்"
+  },
+  {
+    "question_en": "Which battle marked the beginning of British rule in India?",
+    "question_ta": "இந்தியாவில் பிரிட்டிஷ் ஆட்சியின் தொடக்கமாக அமைந்த போர் எது?",
+    "options_en": ["Battle of Buxar", "Battle of Panipat", "Battle of Plassey", "Battle of Talikota"],
+    "options_ta": ["பக்சார் போர்", "பாணிபட் போர்", "பிளாசி போர்", "தளிகோட்டைப் போர்"],
+    "answer_en": "Battle of Plassey",
+    "answer_ta": "பிளாசி போர்"
+  },
+  {
+    "question_en": "Which Mughal emperor introduced Din-i-Ilahi?",
+    "question_ta": "தீன்-இ-இலாஹி என்ற மதத்தை அறிமுகப்படுத்திய முகலாய மன்னன் யார்?",
+    "options_en": ["Shah Jahan", "Aurangzeb", "Akbar", "Babur"],
+    "options_ta": ["ஷாஜகான்", "ஔரங்கசீப்", "அக்பர்", "பாபர்"],
+    "answer_en": "Akbar",
+    "answer_ta": "அக்பர்"
+  },
+  {
+    "question_en": "Which state is famous for the Sanchi Stupa?",
+    "question_ta": "சாஞ்சி ஸ்தூபாவிற்குப் பிரசித்தமான மாநிலம் எது?",
+    "options_en": ["Uttar Pradesh", "Madhya Pradesh", "Bihar", "Gujarat"],
+    "options_ta": ["உத்தரப்பிரதேசம்", "மத்தியப்பிரதேசம்", "பீஹார்", "குஜராத்"],
+    "answer_en": "Madhya Pradesh",
+    "answer_ta": "மத்தியப்பிரதேசம்"
+  },
+  {
+    "question_en": "Which river is also called 'Dakshin Ganga'?",
+    "question_ta": "‘தக்ஷிண கங்கை’ என்று அழைக்கப்படும் நதி எது?",
+    "options_en": ["Krishna", "Godavari", "Kaveri", "Narmada"],
+    "options_ta": ["கிருஷ்ணா", "கோதாவரி", "காவிரி", "நர்மதா"],
+    "answer_en": "Godavari",
+    "answer_ta": "கோதாவரி"
+  },
+  {
+    "question_en": "Who was the first Governor-General of India?",
+    "question_ta": "இந்தியாவின் முதல் கவர்னர் ஜெனரல் யார்?",
+    "options_en": ["Lord Canning", "Lord Wellesley", "Warren Hastings", "Lord Dalhousie"],
+    "options_ta": ["லார்டு கானிங்", "லார்டு வெல்லஸ்லி", "வாரன் ஹேஸ்டிங்ஸ்", "லார்டு டல்ஹௌசி"],
+    "answer_en": "Warren Hastings",
+    "answer_ta": "வாரன் ஹேஸ்டிங்ஸ்"
+  },
+  {
+    "question_en": "Where is the Brihadeeswarar Temple located?",
+    "question_ta": "பெருவுடையார் கோவில் எங்கு அமைந்துள்ளது?",
+    "options_en": ["Madurai", "Kanchipuram", "Thanjavur", "Chidambaram"],
+    "options_ta": ["மதுரை", "காஞ்சிபுரம்", "தஞ்சாவூர்", "சிதம்பரம்"],
+    "answer_en": "Thanjavur",
+    "answer_ta": "தஞ்சாவூர்"
+  },
+  {
+    "question_en": "Who was the first woman Prime Minister of India?",
+    "question_ta": "இந்தியாவின் முதல் பெண் பிரதமர் யார்?",
+    "options_en": ["Sarojini Naidu", "Indira Gandhi", "Pratibha Patil", "Sushma Swaraj"],
+    "options_ta": ["சரோஜினி நாயுடு", "இந்திரா காந்தி", "பிரதிபா பாடில்", "சுஷ்மா சுராஜ்"],
+    "answer_en": "Indira Gandhi",
+    "answer_ta": "இந்திரா காந்தி"
+  },
+  {
+    "question_en": "Which Indian freedom fighter founded the 'Azad Hind Fauj'?",
+    "question_ta": "‘ஆசாத் ஹிந்த் ஃபௌஜ்’ அமைப்பை நிறுவிய இந்திய சுதந்திர போராட்ட வீரர் யார்?",
+    "options_en": ["Bhagat Singh", "Mahatma Gandhi", "Subhas Chandra Bose", "Jawaharlal Nehru"],
+    "options_ta": ["பகவத் சிங்", "மகாத்மா காந்தி", "சுபாஷ் சந்திர போஸ்", "ஜவஹர்லால் நேரு"],
+    "answer_en": "Subhas Chandra Bose",
+    "answer_ta": "சுபாஷ் சந்திர போஸ்"
+  },
+  {
+    "question_en": "Which is the smallest continent in the world?",
+    "question_ta": "உலகின் மிகச்சிறிய கண்டம் எது?",
+    "options_en": ["Asia", "Australia", "Europe", "Africa"],
+    "options_ta": ["ஆசியா", "ஆஸ்திரேலியா", "ஐரோப்பா", "ஆப்பிரிக்கா"],
+    "answer_en": "Australia",
+    "answer_ta": "ஆஸ்திரேலியா"
+  },
+  {
+    "question_en": "Who was the first Indian woman to win an Olympic medal?",
+    "question_ta": "ஒலிம்பிக் பதக்கம் வென்ற முதல் இந்திய பெண் யார்?",
+    "options_en": ["Saina Nehwal", "P. T. Usha", "Karnam Malleswari", "Mary Kom"],
+    "options_ta": ["சாய்னா நேவால்", "பி.டி.உஷா", "கர்ணம் மல்லேஸ்வரி", "மேரி கோம்"],
+    "answer_en": "Karnam Malleswari",
+    "answer_ta": "கர்ணம் மல்லேஸ்வரி"
+  },
+  {
+    "question_en": "In which year did India gain independence?",
+    "question_ta": "இந்தியா எந்த ஆண்டில் சுதந்திரம் பெற்றது?",
+    "options_en": ["1950", "1945", "1947", "1930"],
+    "options_ta": ["1950", "1945", "1947", "1930"],
+    "answer_en": "1947",
+    "answer_ta": "1947"
+  },
+  {
+    "question_en": "Which state is famous for the dance Bharatanatyam?",
+    "question_ta": "பரதநாட்டியத்திற்கு பிரசித்தமான மாநிலம் எது?",
+    "options_en": ["Kerala", "Tamil Nadu", "Andhra Pradesh", "Karnataka"],
+    "options_ta": ["கேரளா", "தமிழ்நாடு", "ஆந்திரப் பிரதேசம்", "கர்நாடகா"],
+    "answer_en": "Tamil Nadu",
+    "answer_ta": "தமிழ்நாடு"
+  },
+  {
+    "question_en": "Which is the highest mountain peak in the world?",
+    "question_ta": "உலகின் உயரமான மலைச்சிகரம் எது?",
+    "options_en": ["Mount Everest", "K2", "Kangchenjunga", "Nanda Devi"],
+    "options_ta": ["எவரெஸ்ட் மலை", "கே2", "காஞ்சன்ஜுங்கா", "நந்தா தேவி"],
+    "answer_en": "Mount Everest",
+    "answer_ta": "எவரெஸ்ட் மலை"
+  },
+  {
+    "question_en": "Which dynasty built the Meenakshi Temple in Madurai?",
+    "question_ta": "மதுரையின் மீனாட்சி கோவிலை கட்டிய வம்சம் எது?",
+    "options_en": ["Chola", "Pandya", "Chera", "Pallava"],
+    "options_ta": ["சோழர்", "பாண்டியர்", "சேரர்", "பல்லவர்"],
+    "answer_en": "Pandya",
+    "answer_ta": "பாண்டியர்"
+  },
+  {
+    "question_en": "Who is the author of 'Arthashastra'?",
+    "question_ta": "‘அர்த்தசாஸ்திரம்’ என்ற நூலை எழுதியவர் யார்?",
+    "options_en": ["Chanakya", "Kalidasa", "Banabhatta", "Valmiki"],
+    "options_ta": ["சாணக்யர்", "காளிதாசர்", "பாணபட்டர்", "வால்மீகி"],
+    "answer_en": "Chanakya",
+    "answer_ta": "சாணக்யர்"
+  },
+  {
+    "question_en": "Which state is called the 'Land of Five Rivers'?",
+    "question_ta": "‘ஐந்து நதிகளின் நிலம்’ என்று அழைக்கப்படும் மாநிலம் எது?",
+    "options_en": ["Punjab", "Haryana", "Bihar", "Rajasthan"],
+    "options_ta": ["பஞ்சாப்", "ஹரியானா", "பீஹார்", "ராஜஸ்தான்"],
+    "answer_en": "Punjab",
+    "answer_ta": "பஞ்சாப்"
+  },
+  {
+    "question_en": "Who was the first Indian to go to space?",
+    "question_ta": "விண்வெளிக்குச் சென்ற முதல் இந்தியர் யார்?",
+    "options_en": ["Kalpana Chawla", "Rakesh Sharma", "Vikram Sarabhai", "Satish Dhawan"],
+    "options_ta": ["கல்பனா சாவ்லா", "ராகேஷ் சர்மா", "விக்ரம் சாரண்பாய்", "சதீஷ் தவான்"],
+    "answer_en": "Rakesh Sharma",
+    "answer_ta": "ராகேஷ் சர்மா"
+  },
+  {
+    "question_en": "Which Indian reformer started the 'Brahmo Samaj'?",
+    "question_ta": "‘பிரம்மோ சமாஜ்’ அமைப்பை தொடங்கிய இந்திய சீர்திருத்தவாதி யார்?",
+    "options_en": ["Dayananda Saraswati", "Raja Ram Mohan Roy", "Swami Vivekananda", "Gopal Krishna Gokhale"],
+    "options_ta": ["தயானந்த சரஸ்வதி", "ராஜா ராம் மோகன் ராய்", "சுவாமி விவேகானந்தர்", "கோபால் கிருஷ்ண கோகலே"],
+    "answer_en": "Raja Ram Mohan Roy",
+    "answer_ta": "ராஜா ராம் மோகன் ராய்"
+  },
+  {
+    "question_en": "Which Indian leader is called 'Grand Old Man of India'?",
+    "question_ta": "‘இந்தியாவின் முதியவர்’ என்று அழைக்கப்படும் இந்தியத் தலைவர் யார்?",
+    "options_en": ["Dadabhai Naoroji", "Gopal Krishna Gokhale", "Bal Gangadhar Tilak", "Bipin Chandra Pal"],
+    "options_ta": ["தாதாபாய் நவுரோஜி", "கோபால் கிருஷ்ண கோகலே", "பால் கங்காதர் திலக்", "பிபின் சந்திர பாலு"],
+    "answer_en": "Dadabhai Naoroji",
+    "answer_ta": "தாதாபாய் நவுரோஜி"
+  },
+  {
+    "question_en": "Which river is known as the 'Sorrow of Bihar'?",
+    "question_ta": "‘பீஹாரின் துயர நதி’ என்று அழைக்கப்படும் நதி எது?",
+    "options_en": ["Kosi", "Ganga", "Son", "Yamuna"],
+    "options_ta": ["கோசி", "கங்கை", "சோன்", "யமுனா"],
+    "answer_en": "Kosi",
+    "answer_ta": "கோசி"
+  },
+  {
+    "question_en": "Who was the first President of India?",
+    "question_ta": "இந்தியாவின் முதல் குடியரசுத் தலைவர் யார்?",
+    "options_en": ["Rajendra Prasad", "Sarvepalli Radhakrishnan", "Zakir Hussain", "Jawaharlal Nehru"],
+    "options_ta": ["ராஜேந்திர பிரசாத்", "சர்வேபள்ளி இராதாகிருஷ்ணன்", "சாகீர் ஹுஸைன்", "ஜவஹர்லால் நேரு"],
+    "answer_en": "Rajendra Prasad",
+    "answer_ta": "ராஜேந்திர பிரசாத்"
+  },
+  {
+    "question_en": "Which Indian leader is called the 'Iron Man of India'?",
+    "question_ta": "‘இந்தியாவின் இரும்பு மனிதன்’ என்று அழைக்கப்படுபவர் யார்?",
+    "options_en": ["Sardar Vallabhbhai Patel", "Bal Gangadhar Tilak", "Mahatma Gandhi", "Lal Bahadur Shastri"],
+    "options_ta": ["சர்தார் வல்லபாய் பட்டேல்", "பால் கங்காதர் திலக்", "மகாத்மா காந்தி", "லால் பகதூர் சாஸ்திரி"],
+    "answer_en": "Sardar Vallabhbhai Patel",
+    "answer_ta": "சர்தார் வல்லபாய் பட்டேல்"
+  },
+  {
+    "question_en": "Which Indian state has the largest coastline?",
+    "question_ta": "இந்தியாவில் மிகப்பெரிய கடற்கரை கொண்ட மாநிலம் எது?",
+    "options_en": ["Kerala", "Gujarat", "Andhra Pradesh", "Maharashtra"],
+    "options_ta": ["கேரளா", "குஜராத்", "ஆந்திரப் பிரதேசம்", "மகாராஷ்டிரா"],
+    "answer_en": "Gujarat",
+    "answer_ta": "குஜராத்"
+  },
+  {
+    "question_en": "Who is known as the 'Missile Man of India'?",
+    "question_ta": "‘இந்தியாவின் ஏவுகணை மனிதர்’ என்று அழைக்கப்படுபவர் யார்?",
+    "options_en": ["A. P. J. Abdul Kalam", "Vikram Sarabhai", "Homi Bhabha", "C. V. Raman"],
+    "options_ta": ["அப்துல் கலாம்", "விக்ரம் சாரண்பாய்", "ஹோமி பாபா", "சி.வி. ராமன்"],
+    "answer_en": "A. P. J. Abdul Kalam",
+    "answer_ta": "அப்துல் கலாம்"
+  },
+  {
+    "question_en": "Which city is known as the 'Manchester of India'?",
+    "question_ta": "‘இந்தியாவின் மான்செஸ்டர்’ என்று அழைக்கப்படும் நகரம் எது?",
+    "options_en": ["Ahmedabad", "Kanpur", "Surat", "Mumbai"],
+    "options_ta": ["அகமதாபாத்", "கான்பூர்", "சூரத்", "மும்பை"],
+    "answer_en": "Ahmedabad",
+    "answer_ta": "அகமதாபாத்"
+  },
+  {
+    "question_en": "Who is called the 'Father of the Indian Constitution'?",
+    "question_ta": "‘இந்திய அரசியலமைப்பின் தந்தை’ என்று அழைக்கப்படுபவர் யார்?",
+    "options_en": ["Mahatma Gandhi", "B. R. Ambedkar", "Jawaharlal Nehru", "Rajendra Prasad"],
+    "options_ta": ["மகாத்மா காந்தி", "பி.ஆர்.அம்பேத்கர்", "ஜவஹர்லால் நேரு", "ராஜேந்திர பிரசாத்"],
+    "answer_en": "B. R. Ambedkar",
+    "answer_ta": "பி.ஆர்.அம்பேத்கர்"
+  },
+  {
+    "question_en": "Which is the national animal of India?",
+    "question_ta": "இந்தியாவின் தேசிய விலங்கு எது?",
+    "options_en": ["Elephant", "Tiger", "Lion", "Leopard"],
+    "options_ta": ["யானை", "புலி", "சிங்கம்", "சிறுத்தை"],
+    "answer_en": "Tiger",
+    "answer_ta": "புலி"
+  },
+  {
+    "question_en": "Which ocean lies to the south of India?",
+    "question_ta": "இந்தியாவின் தெற்கில் அமைந்துள்ள பெருங்கடல் எது?",
+    "options_en": ["Pacific Ocean", "Atlantic Ocean", "Indian Ocean", "Arctic Ocean"],
+    "options_ta": ["பசிபிக் பெருங்கடல்", "அட்லாண்டிக் பெருங்கடல்", "இந்தியப் பெருங்கடல்", "ஆர்க்டிக் பெருங்கடல்"],
+    "answer_en": "Indian Ocean",
+    "answer_ta": "இந்தியப் பெருங்கடல்"
+  },
+  {
+    "question_en": "Which Indian freedom fighter is known as 'Lokmanya'?",
+    "question_ta": "‘லோகமாந்யா’ என்று அழைக்கப்படும் இந்திய சுதந்திர போராட்ட வீரர் யார்?",
+    "options_en": ["Bal Gangadhar Tilak", "Bipin Chandra Pal", "Lala Lajpat Rai", "Mahatma Gandhi"],
+    "options_ta": ["பால் கங்காதர் திலக்", "பிபின் சந்திர பாலு", "லாலா லஜபத் ராய்", "மகாத்மா காந்தி"],
+    "answer_en": "Bal Gangadhar Tilak",
+    "answer_ta": "பால் கங்காதர் திலக்"
+  },
+  {
+    "question_en": "Which state is called 'Spice Garden of India'?",
+    "question_ta": "‘இந்தியாவின் மசாலா தோட்டம்’ என்று அழைக்கப்படும் மாநிலம் எது?",
+    "options_en": ["Tamil Nadu", "Andhra Pradesh", "Kerala", "Goa"],
+    "options_ta": ["தமிழ்நாடு", "ஆந்திரப் பிரதேசம்", "கேரளா", "கோவா"],
+    "answer_en": "Kerala",
+    "answer_ta": "கேரளா"
+  },
+  {
+    "question_en": "Which Indian leader gave the slogan 'Do or Die'?",
+    "question_ta": "‘செய் அல்லது சாவு’ என்ற கோஷத்தை எழுப்பிய இந்தியத் தலைவர் யார்?",
+    "options_en": ["Mahatma Gandhi", "Jawaharlal Nehru", "Bhagat Singh", "Subhas Chandra Bose"],
+    "options_ta": ["மகாத்மா காந்தி", "ஜவஹர்லால் நேரு", "பகவத் சிங்", "சுபாஷ் சந்திர போஸ்"],
+    "answer_en": "Mahatma Gandhi",
+    "answer_ta": "மகாத்மா காந்தி"
+  },
+  {
+    "question_en": "Which is the longest river in India?",
+    "question_ta": "இந்தியாவின் நீளமான நதி எது?",
+    "options_en": ["Yamuna", "Godavari", "Ganga", "Brahmaputra"],
+    "options_ta": ["யமுனா", "கோதாவரி", "கங்கை", "பிரம்மபுத்திரா"],
+    "answer_en": "Ganga",
+    "answer_ta": "கங்கை"
+  },
+  {
+    "question_en": "Which state is called the 'Tea Garden of India'?",
+    "question_ta": "‘இந்தியாவின் தேயிலை தோட்டம்’ என்று அழைக்கப்படும் மாநிலம் எது?",
+    "options_en": ["West Bengal", "Assam", "Kerala", "Himachal Pradesh"],
+    "options_ta": ["மேற்கு வங்காளம்", "அசாம்", "கேரளா", "ஹிமாச்சலப் பிரதேசம்"],
+    "answer_en": "Assam",
+    "answer_ta": "அசாம்"
+  }
+]

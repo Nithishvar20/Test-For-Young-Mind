@@ -1,0 +1,902 @@
+[
+  {
+    "question_en": "Which mountain range is in northern India?",
+    "question_ta": "வடக்கு இந்தியாவில் எந்த மலைமாலை உள்ளது?",
+    "options_en": [
+      "Vindhyas",
+      "Aravalli",
+      "Himalayas",
+      "Western Ghats"
+    ],
+    "options_ta": [
+      "விந்த்யா",
+      "அறவள்ளி",
+      "ஹிமாலயா",
+      "மேற்கு தொடர்ச்சி மலைகள்"
+    ],
+    "answer_en": "Himalayas",
+    "answer_ta": "ஹிமாலயா"
+  },
+  {
+    "question_en": "Which is a renewable source of energy?",
+    "question_ta": "புது செய்யக்கூடிய சக்தி மூலமாக எது?",
+    "options_en": [
+      "Petroleum",
+      "Solar",
+      "Coal",
+      "Natural gas"
+    ],
+    "options_ta": [
+      "பெட்ரோலியம்",
+      "சூரிய",
+      "காயிலை",
+      "சொந்த வாயு"
+    ],
+    "answer_en": "Solar",
+    "answer_ta": "சூரிய"
+  },
+  {
+    "question_en": "What is the main function of the Legislature?",
+    "question_ta": "சட்டமன்றத்தின் முக்கியப் பொறுப்பு எது?",
+    "options_en": [
+      "Adjudicate disputes",
+      "Collect taxes",
+      "Make laws",
+      "Enforce laws"
+    ],
+    "options_ta": [
+      "விவாத தீர்ப்பு காணுதல்",
+      "வரி சேகரிப்பு",
+      "சட்டங்கள் உருவாக்குதல்",
+      "சட்டம் நடைமுறைப்படுத்துதல்"
+    ],
+    "answer_en": "Make laws",
+    "answer_ta": "சட்டங்கள் உருவாக்குதல்"
+  },
+  {
+    "question_en": "Which crop is a Kharif crop?",
+    "question_ta": "இவை எது கதிர் பருவப் பயிர்?",
+    "options_en": [
+      "Wheat",
+      "Oats",
+      "Rice",
+      "Barley"
+    ],
+    "options_ta": [
+      "கோதுமை",
+      "ஓட்ஸ்",
+      "அரிசி",
+      "பார்லி"
+    ],
+    "answer_en": "Rice",
+    "answer_ta": "அரிசி"
+  },
+  {
+    "question_en": "Who led the Dandi March?",
+    "question_ta": "டாண்டி பயணத்தை யார் முறைகேடாய் நடத்தியார்?",
+    "options_en": [
+      "Subhash Chandra Bose",
+      "Mahatma Gandhi",
+      "Bhagat Singh",
+      "Sardar Patel"
+    ],
+    "options_ta": [
+      "சுபாஷ் சந்திர போஸ்",
+      "மகாத்மா காந்தி",
+      "பகத் சிங்",
+      "சர்தார் படேல்"
+    ],
+    "answer_en": "Mahatma Gandhi",
+    "answer_ta": "மகாத்மா காந்தி"
+  },
+  {
+    "question_en": "What is GDP a measure of?",
+    "question_ta": "GDP என்பது எதை அளவிடுகிறது?",
+    "options_en": [
+      "Literacy",
+      "Population",
+      "Land area",
+      "Total economic output"
+    ],
+    "options_ta": [
+      "படிப்பு",
+      "மக்கள் தொகை",
+      "நிலப் பகுதி",
+      "மொத்த பொருளாதார விளைவு"
+    ],
+    "answer_en": "Total economic output",
+    "answer_ta": "மொத்த பொருளாதார விளைவு"
+  },
+  {
+    "question_en": "What is GDP a measure of?",
+    "question_ta": "GDP என்பது எதை அளவிடுகிறது?",
+    "options_en": [
+      "Population",
+      "Total economic output",
+      "Land area",
+      "Literacy"
+    ],
+    "options_ta": [
+      "மக்கள் தொகை",
+      "மொத்த பொருளாதார விளைவு",
+      "நிலப் பகுதி",
+      "படிப்பு"
+    ],
+    "answer_en": "Total economic output",
+    "answer_ta": "மொத்த பொருளாதார விளைவு"
+  },
+  {
+    "question_en": "What is GDP a measure of?",
+    "question_ta": "GDP என்பது எதை அளவிடுகிறது?",
+    "options_en": [
+      "Land area",
+      "Total economic output",
+      "Literacy",
+      "Population"
+    ],
+    "options_ta": [
+      "நிலப் பகுதி",
+      "மொத்த பொருளாதார விளைவு",
+      "படிப்பு",
+      "மக்கள் தொகை"
+    ],
+    "answer_en": "Total economic output",
+    "answer_ta": "மொத்த பொருளாதார விளைவு"
+  },
+  {
+    "question_en": "What do we call a map that shows elevation?",
+    "question_ta": "எlevationஐ காட்டும் வரைபடத்தை என்ன என்று சொல்வது?",
+    "options_en": [
+      "Road map",
+      "Climate map",
+      "Topographic map",
+      "Political map"
+    ],
+    "options_ta": [
+      "தொழில்நடை வரைபடம்",
+      "வானிலை வரைபடம்",
+      "உயர்நிலை வரைபடம்",
+      "அரசியல் வரைபடம்"
+    ],
+    "answer_en": "Topographic map",
+    "answer_ta": "உயர்நிலை வரைபடம்"
+  },
+  {
+    "question_en": "Which ancient civilization flourished in the Indus Valley?",
+    "question_ta": "இந்துஸ் பள்ளத்தாக்கில் எந்த பழமையான நாகரிகம் வளர்ந்தது?",
+    "options_en": [
+      "Chola",
+      "Gupta",
+      "Mauryan",
+      "Harappan"
+    ],
+    "options_ta": [
+      "சோழ",
+      "குப்த",
+      "மௌரிய",
+      "ஹரப்பன்"
+    ],
+    "answer_en": "Harappan",
+    "answer_ta": "ஹரப்பன்"
+  },
+  {
+    "question_en": "What do we call a map that shows elevation?",
+    "question_ta": "எlevationஐ காட்டும் வரைபடத்தை என்ன என்று சொல்வது?",
+    "options_en": [
+      "Road map",
+      "Climate map",
+      "Topographic map",
+      "Political map"
+    ],
+    "options_ta": [
+      "தொழில்நடை வரைபடம்",
+      "வானிலை வரைபடம்",
+      "உயர்நிலை வரைபடம்",
+      "அரசியல் வரைபடம்"
+    ],
+    "answer_en": "Topographic map",
+    "answer_ta": "உயர்நிலை வரைபடம்"
+  },
+  {
+    "question_en": "Which ancient civilization flourished in the Indus Valley?",
+    "question_ta": "இந்துஸ் பள்ளத்தாக்கில் எந்த பழமையான நாகரிகம் வளர்ந்தது?",
+    "options_en": [
+      "Mauryan",
+      "Chola",
+      "Gupta",
+      "Harappan"
+    ],
+    "options_ta": [
+      "மௌரிய",
+      "சோழ",
+      "குப்த",
+      "ஹரப்பன்"
+    ],
+    "answer_en": "Harappan",
+    "answer_ta": "ஹரப்பன்"
+  },
+  {
+    "question_en": "The equator divides the Earth into?",
+    "question_ta": "புவியை சமச்சீராக பிரிக்கும் வரி என்ன?",
+    "options_en": [
+      "Eastern and Western",
+      "Northern and Southern hemisphere",
+      "Tropic and Arctic",
+      "None"
+    ],
+    "options_ta": [
+      "கிழக்கு மற்றும் zápach",
+      "வடக்கு மற்றும் தெற்கு அரையுகம்",
+      "ட்ராபிக் மற்றும் ஆர்டிக்",
+      "யாரும் இல்லை"
+    ],
+    "answer_en": "Northern and Southern hemisphere",
+    "answer_ta": "வடக்கு மற்றும் தெற்கு அரையுகம்"
+  },
+  {
+    "question_en": "The equator divides the Earth into?",
+    "question_ta": "புவியை சமச்சீராக பிரிக்கும் வரி என்ன?",
+    "options_en": [
+      "None",
+      "Northern and Southern hemisphere",
+      "Eastern and Western",
+      "Tropic and Arctic"
+    ],
+    "options_ta": [
+      "யாரும் இல்லை",
+      "வடக்கு மற்றும் தெற்கு அரையுகம்",
+      "கிழக்கு மற்றும் zápach",
+      "ட்ராபிக் மற்றும் ஆர்டிக்"
+    ],
+    "answer_en": "Northern and Southern hemisphere",
+    "answer_ta": "வடக்கு மற்றும் தெற்கு அரையுகம்"
+  },
+  {
+    "question_en": "Which ancient civilization flourished in the Indus Valley?",
+    "question_ta": "இந்துஸ் பள்ளத்தாக்கில் எந்த பழமையான நாகரிகம் வளர்ந்தது?",
+    "options_en": [
+      "Chola",
+      "Gupta",
+      "Harappan",
+      "Mauryan"
+    ],
+    "options_ta": [
+      "சோழ",
+      "குப்த",
+      "ஹரப்பன்",
+      "மௌரிய"
+    ],
+    "answer_en": "Harappan",
+    "answer_ta": "ஹரப்பன்"
+  },
+  {
+    "question_en": "Which ancient civilization flourished in the Indus Valley?",
+    "question_ta": "இந்துஸ் பள்ளத்தாக்கில் எந்த பழமையான நாகரிகம் வளர்ந்தது?",
+    "options_en": [
+      "Gupta",
+      "Mauryan",
+      "Chola",
+      "Harappan"
+    ],
+    "options_ta": [
+      "குப்த",
+      "மௌரிய",
+      "சோழ",
+      "ஹரப்பன்"
+    ],
+    "answer_en": "Harappan",
+    "answer_ta": "ஹரப்பன்"
+  },
+  {
+    "question_en": "What do we call a map that shows elevation?",
+    "question_ta": "எlevationஐ காட்டும் வரைபடத்தை என்ன என்று சொல்வது?",
+    "options_en": [
+      "Climate map",
+      "Road map",
+      "Political map",
+      "Topographic map"
+    ],
+    "options_ta": [
+      "வானிலை வரைபடம்",
+      "தொழில்நடை வரைபடம்",
+      "அரசியல் வரைபடம்",
+      "உயர்நிலை வரைபடம்"
+    ],
+    "answer_en": "Topographic map",
+    "answer_ta": "உயர்நிலை வரைபடம்"
+  },
+  {
+    "question_en": "What do we call a map that shows elevation?",
+    "question_ta": "எlevationஐ காட்டும் வரைபடத்தை என்ன என்று சொல்வது?",
+    "options_en": [
+      "Topographic map",
+      "Road map",
+      "Political map",
+      "Climate map"
+    ],
+    "options_ta": [
+      "உயர்நிலை வரைபடம்",
+      "தொழில்நடை வரைபடம்",
+      "அரசியல் வரைபடம்",
+      "வானிலை வரைபடம்"
+    ],
+    "answer_en": "Topographic map",
+    "answer_ta": "உயர்நிலை வரைபடம்"
+  },
+  {
+    "question_en": "What is GDP a measure of?",
+    "question_ta": "GDP என்பது எதை அளவிடுகிறது?",
+    "options_en": [
+      "Land area",
+      "Total economic output",
+      "Population",
+      "Literacy"
+    ],
+    "options_ta": [
+      "நிலப் பகுதி",
+      "மொத்த பொருளாதார விளைவு",
+      "மக்கள் தொகை",
+      "படிப்பு"
+    ],
+    "answer_en": "Total economic output",
+    "answer_ta": "மொத்த பொருளாதார விளைவு"
+  },
+  {
+    "question_en": "What do we call a map that shows elevation?",
+    "question_ta": "எlevationஐ காட்டும் வரைபடத்தை என்ன என்று சொல்வது?",
+    "options_en": [
+      "Climate map",
+      "Topographic map",
+      "Political map",
+      "Road map"
+    ],
+    "options_ta": [
+      "வானிலை வரைபடம்",
+      "உயர்நிலை வரைபடம்",
+      "அரசியல் வரைபடம்",
+      "தொழில்நடை வரைபடம்"
+    ],
+    "answer_en": "Topographic map",
+    "answer_ta": "உயர்நிலை வரைபடம்"
+  },
+  {
+    "question_en": "Which state is known as the 'Rice Bowl' of India?",
+    "question_ta": "இந்தியாவின் 'அரிசி கடலி' என அழைக்கப்படும் மாநிலம்?",
+    "options_en": [
+      "Odisha",
+      "West Bengal",
+      "Bihar",
+      "Punjab"
+    ],
+    "options_ta": [
+      "ஒடிசா",
+      "மேற்கு வங்கம்",
+      "பிஹார்",
+      "பஞ்சாப்"
+    ],
+    "answer_en": "West Bengal",
+    "answer_ta": "மேற்கு வங்கம்"
+  },
+  {
+    "question_en": "What is GDP a measure of?",
+    "question_ta": "GDP என்பது எதை அளவிடுகிறது?",
+    "options_en": [
+      "Population",
+      "Total economic output",
+      "Land area",
+      "Literacy"
+    ],
+    "options_ta": [
+      "மக்கள் தொகை",
+      "மொத்த பொருளாதார விளைவு",
+      "நிலப் பகுதி",
+      "படிப்பு"
+    ],
+    "answer_en": "Total economic output",
+    "answer_ta": "மொத்த பொருளாதார விளைவு"
+  },
+  {
+    "question_en": "What do we call a map that shows elevation?",
+    "question_ta": "எlevationஐ காட்டும் வரைபடத்தை என்ன என்று சொல்வது?",
+    "options_en": [
+      "Climate map",
+      "Road map",
+      "Political map",
+      "Topographic map"
+    ],
+    "options_ta": [
+      "வானிலை வரைபடம்",
+      "தொழில்நடை வரைபடம்",
+      "அரசியல் வரைபடம்",
+      "உயர்நிலை வரைபடம்"
+    ],
+    "answer_en": "Topographic map",
+    "answer_ta": "உயர்நிலை வரைபடம்"
+  },
+  {
+    "question_en": "What is GDP a measure of?",
+    "question_ta": "GDP என்பது எதை அளவிடுகிறது?",
+    "options_en": [
+      "Population",
+      "Land area",
+      "Literacy",
+      "Total economic output"
+    ],
+    "options_ta": [
+      "மக்கள் தொகை",
+      "நிலப் பகுதி",
+      "படிப்பு",
+      "மொத்த பொருளாதார விளைவு"
+    ],
+    "answer_en": "Total economic output",
+    "answer_ta": "மொத்த பொருளாதார விளைவு"
+  },
+  {
+    "question_en": "What is GDP a measure of?",
+    "question_ta": "GDP என்பது எதை அளவிடுகிறது?",
+    "options_en": [
+      "Land area",
+      "Population",
+      "Literacy",
+      "Total economic output"
+    ],
+    "options_ta": [
+      "நிலப் பகுதி",
+      "மக்கள் தொகை",
+      "படிப்பு",
+      "மொத்த பொருளாதார விளைவு"
+    ],
+    "answer_en": "Total economic output",
+    "answer_ta": "மொத்த பொருளாதார விளைவு"
+  },
+  {
+    "question_en": "What is GDP a measure of?",
+    "question_ta": "GDP என்பது எதை அளவிடுகிறது?",
+    "options_en": [
+      "Total economic output",
+      "Land area",
+      "Literacy",
+      "Population"
+    ],
+    "options_ta": [
+      "மொத்த பொருளாதார விளைவு",
+      "நிலப் பகுதி",
+      "படிப்பு",
+      "மக்கள் தொகை"
+    ],
+    "answer_en": "Total economic output",
+    "answer_ta": "மொத்த பொருளாதார விளைவு"
+  },
+  {
+    "question_en": "Which state is known as the 'Rice Bowl' of India?",
+    "question_ta": "இந்தியாவின் 'அரிசி கடலி' என அழைக்கப்படும் மாநிலம்?",
+    "options_en": [
+      "Bihar",
+      "Odisha",
+      "Punjab",
+      "West Bengal"
+    ],
+    "options_ta": [
+      "பிஹார்",
+      "ஒடிசா",
+      "பஞ்சாப்",
+      "மேற்கு வங்கம்"
+    ],
+    "answer_en": "West Bengal",
+    "answer_ta": "மேற்கு வங்கம்"
+  },
+  {
+    "question_en": "Which ancient civilization flourished in the Indus Valley?",
+    "question_ta": "இந்துஸ் பள்ளத்தாக்கில் எந்த பழமையான நாகரிகம் வளர்ந்தது?",
+    "options_en": [
+      "Mauryan",
+      "Gupta",
+      "Harappan",
+      "Chola"
+    ],
+    "options_ta": [
+      "மௌரிய",
+      "குப்த",
+      "ஹரப்பன்",
+      "சோழ"
+    ],
+    "answer_en": "Harappan",
+    "answer_ta": "ஹரப்பன்"
+  },
+  {
+    "question_en": "What do we call a map that shows elevation?",
+    "question_ta": "எlevationஐ காட்டும் வரைபடத்தை என்ன என்று சொல்வது?",
+    "options_en": [
+      "Climate map",
+      "Road map",
+      "Political map",
+      "Topographic map"
+    ],
+    "options_ta": [
+      "வானிலை வரைபடம்",
+      "தொழில்நடை வரைபடம்",
+      "அரசியல் வரைபடம்",
+      "உயர்நிலை வரைபடம்"
+    ],
+    "answer_en": "Topographic map",
+    "answer_ta": "உயர்நிலை வரைபடம்"
+  },
+  {
+    "question_en": "What do we call a map that shows elevation?",
+    "question_ta": "எlevationஐ காட்டும் வரைபடத்தை என்ன என்று சொல்வது?",
+    "options_en": [
+      "Climate map",
+      "Road map",
+      "Topographic map",
+      "Political map"
+    ],
+    "options_ta": [
+      "வானிலை வரைபடம்",
+      "தொழில்நடை வரைபடம்",
+      "உயர்நிலை வரைபடம்",
+      "அரசியல் வரைபடம்"
+    ],
+    "answer_en": "Topographic map",
+    "answer_ta": "உயர்நிலை வரைபடம்"
+  },
+  {
+    "question_en": "The equator divides the Earth into?",
+    "question_ta": "புவியை சமச்சீராக பிரிக்கும் வரி என்ன?",
+    "options_en": [
+      "Northern and Southern hemisphere",
+      "None",
+      "Tropic and Arctic",
+      "Eastern and Western"
+    ],
+    "options_ta": [
+      "வடக்கு மற்றும் தெற்கு அரையுகம்",
+      "யாரும் இல்லை",
+      "ட்ராபிக் மற்றும் ஆர்டிக்",
+      "கிழக்கு மற்றும் zápach"
+    ],
+    "answer_en": "Northern and Southern hemisphere",
+    "answer_ta": "வடக்கு மற்றும் தெற்கு அரையுகம்"
+  },
+  {
+    "question_en": "Which ancient civilization flourished in the Indus Valley?",
+    "question_ta": "இந்துஸ் பள்ளத்தாக்கில் எந்த பழமையான நாகரிகம் வளர்ந்தது?",
+    "options_en": [
+      "Chola",
+      "Gupta",
+      "Harappan",
+      "Mauryan"
+    ],
+    "options_ta": [
+      "சோழ",
+      "குப்த",
+      "ஹரப்பன்",
+      "மௌரிய"
+    ],
+    "answer_en": "Harappan",
+    "answer_ta": "ஹரப்பன்"
+  },
+  {
+    "question_en": "Which ancient civilization flourished in the Indus Valley?",
+    "question_ta": "இந்துஸ் பள்ளத்தாக்கில் எந்த பழமையான நாகரிகம் வளர்ந்தது?",
+    "options_en": [
+      "Mauryan",
+      "Gupta",
+      "Chola",
+      "Harappan"
+    ],
+    "options_ta": [
+      "மௌரிய",
+      "குப்த",
+      "சோழ",
+      "ஹரப்பன்"
+    ],
+    "answer_en": "Harappan",
+    "answer_ta": "ஹரப்பன்"
+  },
+  {
+    "question_en": "The equator divides the Earth into?",
+    "question_ta": "புவியை சமச்சீராக பிரிக்கும் வரி என்ன?",
+    "options_en": [
+      "None",
+      "Tropic and Arctic",
+      "Northern and Southern hemisphere",
+      "Eastern and Western"
+    ],
+    "options_ta": [
+      "யாரும் இல்லை",
+      "ட்ராபிக் மற்றும் ஆர்டிக்",
+      "வடக்கு மற்றும் தெற்கு அரையுகம்",
+      "கிழக்கு மற்றும் zápach"
+    ],
+    "answer_en": "Northern and Southern hemisphere",
+    "answer_ta": "வடக்கு மற்றும் தெற்கு அரையுகம்"
+  },
+  {
+    "question_en": "Which ancient civilization flourished in the Indus Valley?",
+    "question_ta": "இந்துஸ் பள்ளத்தாக்கில் எந்த பழமையான நாகரிகம் வளர்ந்தது?",
+    "options_en": [
+      "Chola",
+      "Mauryan",
+      "Gupta",
+      "Harappan"
+    ],
+    "options_ta": [
+      "சோழ",
+      "மௌரிய",
+      "குப்த",
+      "ஹரப்பன்"
+    ],
+    "answer_en": "Harappan",
+    "answer_ta": "ஹரப்பன்"
+  },
+  {
+    "question_en": "What is GDP a measure of?",
+    "question_ta": "GDP என்பது எதை அளவிடுகிறது?",
+    "options_en": [
+      "Land area",
+      "Total economic output",
+      "Literacy",
+      "Population"
+    ],
+    "options_ta": [
+      "நிலப் பகுதி",
+      "மொத்த பொருளாதார விளைவு",
+      "படிப்பு",
+      "மக்கள் தொகை"
+    ],
+    "answer_en": "Total economic output",
+    "answer_ta": "மொத்த பொருளாதார விளைவு"
+  },
+  {
+    "question_en": "The equator divides the Earth into?",
+    "question_ta": "புவியை சமச்சீராக பிரிக்கும் வரி என்ன?",
+    "options_en": [
+      "None",
+      "Tropic and Arctic",
+      "Eastern and Western",
+      "Northern and Southern hemisphere"
+    ],
+    "options_ta": [
+      "யாரும் இல்லை",
+      "ட்ராபிக் மற்றும் ஆர்டிக்",
+      "கிழக்கு மற்றும் zápach",
+      "வடக்கு மற்றும் தெற்கு அரையுகம்"
+    ],
+    "answer_en": "Northern and Southern hemisphere",
+    "answer_ta": "வடக்கு மற்றும் தெற்கு அரையுகம்"
+  },
+  {
+    "question_en": "What is GDP a measure of?",
+    "question_ta": "GDP என்பது எதை அளவிடுகிறது?",
+    "options_en": [
+      "Literacy",
+      "Total economic output",
+      "Land area",
+      "Population"
+    ],
+    "options_ta": [
+      "படிப்பு",
+      "மொத்த பொருளாதார விளைவு",
+      "நிலப் பகுதி",
+      "மக்கள் தொகை"
+    ],
+    "answer_en": "Total economic output",
+    "answer_ta": "மொத்த பொருளாதார விளைவு"
+  },
+  {
+    "question_en": "What is GDP a measure of?",
+    "question_ta": "GDP என்பது எதை அளவிடுகிறது?",
+    "options_en": [
+      "Literacy",
+      "Land area",
+      "Population",
+      "Total economic output"
+    ],
+    "options_ta": [
+      "படிப்பு",
+      "நிலப் பகுதி",
+      "மக்கள் தொகை",
+      "மொத்த பொருளாதார விளைவு"
+    ],
+    "answer_en": "Total economic output",
+    "answer_ta": "மொத்த பொருளாதார விளைவு"
+  },
+  {
+    "question_en": "What do we call a map that shows elevation?",
+    "question_ta": "எlevationஐ காட்டும் வரைபடத்தை என்ன என்று சொல்வது?",
+    "options_en": [
+      "Climate map",
+      "Road map",
+      "Political map",
+      "Topographic map"
+    ],
+    "options_ta": [
+      "வானிலை வரைபடம்",
+      "தொழில்நடை வரைபடம்",
+      "அரசியல் வரைபடம்",
+      "உயர்நிலை வரைபடம்"
+    ],
+    "answer_en": "Topographic map",
+    "answer_ta": "உயர்நிலை வரைபடம்"
+  },
+  {
+    "question_en": "What is GDP a measure of?",
+    "question_ta": "GDP என்பது எதை அளவிடுகிறது?",
+    "options_en": [
+      "Land area",
+      "Literacy",
+      "Total economic output",
+      "Population"
+    ],
+    "options_ta": [
+      "நிலப் பகுதி",
+      "படிப்பு",
+      "மொத்த பொருளாதார விளைவு",
+      "மக்கள் தொகை"
+    ],
+    "answer_en": "Total economic output",
+    "answer_ta": "மொத்த பொருளாதார விளைவு"
+  },
+  {
+    "question_en": "Which state is known as the 'Rice Bowl' of India?",
+    "question_ta": "இந்தியாவின் 'அரிசி கடலி' என அழைக்கப்படும் மாநிலம்?",
+    "options_en": [
+      "Odisha",
+      "Punjab",
+      "Bihar",
+      "West Bengal"
+    ],
+    "options_ta": [
+      "ஒடிசா",
+      "பஞ்சாப்",
+      "பிஹார்",
+      "மேற்கு வங்கம்"
+    ],
+    "answer_en": "West Bengal",
+    "answer_ta": "மேற்கு வங்கம்"
+  },
+  {
+    "question_en": "What is GDP a measure of?",
+    "question_ta": "GDP என்பது எதை அளவிடுகிறது?",
+    "options_en": [
+      "Literacy",
+      "Land area",
+      "Total economic output",
+      "Population"
+    ],
+    "options_ta": [
+      "படிப்பு",
+      "நிலப் பகுதி",
+      "மொத்த பொருளாதார விளைவு",
+      "மக்கள் தொகை"
+    ],
+    "answer_en": "Total economic output",
+    "answer_ta": "மொத்த பொருளாதார விளைவு"
+  },
+  {
+    "question_en": "Which ancient civilization flourished in the Indus Valley?",
+    "question_ta": "இந்துஸ் பள்ளத்தாக்கில் எந்த பழமையான நாகரிகம் வளர்ந்தது?",
+    "options_en": [
+      "Chola",
+      "Gupta",
+      "Harappan",
+      "Mauryan"
+    ],
+    "options_ta": [
+      "சோழ",
+      "குப்த",
+      "ஹரப்பன்",
+      "மௌரிய"
+    ],
+    "answer_en": "Harappan",
+    "answer_ta": "ஹரப்பன்"
+  },
+  {
+    "question_en": "Which state is known as the 'Rice Bowl' of India?",
+    "question_ta": "இந்தியாவின் 'அரிசி கடலி' என அழைக்கப்படும் மாநிலம்?",
+    "options_en": [
+      "Punjab",
+      "West Bengal",
+      "Odisha",
+      "Bihar"
+    ],
+    "options_ta": [
+      "பஞ்சாப்",
+      "மேற்கு வங்கம்",
+      "ஒடிசா",
+      "பிஹார்"
+    ],
+    "answer_en": "West Bengal",
+    "answer_ta": "மேற்கு வங்கம்"
+  },
+  {
+    "question_en": "Which state is known as the 'Rice Bowl' of India?",
+    "question_ta": "இந்தியாவின் 'அரிசி கடலி' என அழைக்கப்படும் மாநிலம்?",
+    "options_en": [
+      "West Bengal",
+      "Odisha",
+      "Punjab",
+      "Bihar"
+    ],
+    "options_ta": [
+      "மேற்கு வங்கம்",
+      "ஒடிசா",
+      "பஞ்சாப்",
+      "பிஹார்"
+    ],
+    "answer_en": "West Bengal",
+    "answer_ta": "மேற்கு வங்கம்"
+  },
+  {
+    "question_en": "The equator divides the Earth into?",
+    "question_ta": "புவியை சமச்சீராக பிரிக்கும் வரி என்ன?",
+    "options_en": [
+      "Tropic and Arctic",
+      "None",
+      "Northern and Southern hemisphere",
+      "Eastern and Western"
+    ],
+    "options_ta": [
+      "ட்ராபிக் மற்றும் ஆர்டிக்",
+      "யாரும் இல்லை",
+      "வடக்கு மற்றும் தெற்கு அரையுகம்",
+      "கிழக்கு மற்றும் zápach"
+    ],
+    "answer_en": "Northern and Southern hemisphere",
+    "answer_ta": "வடக்கு மற்றும் தெற்கு அரையுகம்"
+  },
+  {
+    "question_en": "What is GDP a measure of?",
+    "question_ta": "GDP என்பது எதை அளவிடுகிறது?",
+    "options_en": [
+      "Population",
+      "Total economic output",
+      "Literacy",
+      "Land area"
+    ],
+    "options_ta": [
+      "மக்கள் தொகை",
+      "மொத்த பொருளாதார விளைவு",
+      "படிப்பு",
+      "நிலப் பகுதி"
+    ],
+    "answer_en": "Total economic output",
+    "answer_ta": "மொத்த பொருளாதார விளைவு"
+  },
+  {
+    "question_en": "What is GDP a measure of?",
+    "question_ta": "GDP என்பது எதை அளவிடுகிறது?",
+    "options_en": [
+      "Total economic output",
+      "Land area",
+      "Literacy",
+      "Population"
+    ],
+    "options_ta": [
+      "மொத்த பொருளாதார விளைவு",
+      "நிலப் பகுதி",
+      "படிப்பு",
+      "மக்கள் தொகை"
+    ],
+    "answer_en": "Total economic output",
+    "answer_ta": "மொத்த பொருளாதார விளைவு"
+  },
+  {
+    "question_en": "What do we call a map that shows elevation?",
+    "question_ta": "எlevationஐ காட்டும் வரைபடத்தை என்ன என்று சொல்வது?",
+    "options_en": [
+      "Road map",
+      "Topographic map",
+      "Political map",
+      "Climate map"
+    ],
+    "options_ta": [
+      "தொழில்நடை வரைபடம்",
+      "உயர்நிலை வரைபடம்",
+      "அரசியல் வரைபடம்",
+      "வானிலை வரைபடம்"
+    ],
+    "answer_en": "Topographic map",
+    "answer_ta": "உயர்நிலை வரைபடம்"
+  }
+]

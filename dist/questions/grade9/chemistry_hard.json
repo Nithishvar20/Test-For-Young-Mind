@@ -1,0 +1,250 @@
+[
+  {
+    "question_en": "Which law explains the relationship between volume and pressure of a gas at constant temperature?",
+    "question_ta": "வெப்பநிலை மாறாதபோது வாயுவின் பருமன் மற்றும் அழுத்தம் இடையேயான தொடர்பை விளக்கும் சட்டம் எது?",
+    "options_en": ["Avogadro’s law", "Charles’s law", "Boyle’s law", "Dalton’s law"],
+    "options_ta": ["அவோகாட்ரோ சட்டம்", "சார்ல்ஸ் சட்டம்", "பாய்ல் சட்டம்", "டால்டன் சட்டம்"],
+    "answer_en": "Boyle’s law",
+    "answer_ta": "பாய்ல் சட்டம்"
+  },
+  {
+    "question_en": "Which principle is used in separating isotopes of uranium?",
+    "question_ta": "யுரேனியத்தின் ஐசோடோப்புகளைப் பிரிப்பதில் எந்தக் கோட்பாடு பயன்படுத்தப்படுகிறது?",
+    "options_en": ["Electrolysis", "Centrifugation", "Fractional distillation", "Electroplating"],
+    "options_ta": ["மின்விளைவு", "சுற்றுமுழுமை (Centrifugation)", "பகுதி ஆவியாக்கம்", "மின்இணைப்பு"],
+    "answer_en": "Centrifugation",
+    "answer_ta": "சுற்றுமுழுமை (Centrifugation)"
+  },
+  {
+    "question_en": "Which concept explains that orbitals of equal energy are occupied singly before pairing?",
+    "question_ta": "சம எரிசக்தியுடைய ஆர்பிட்டல்கள் இரட்டையாக்கப்படுவதற்கு முன் தனித்தனியாக நிரப்பப்படும் எனக் கூறும் கொள்கை எது?",
+    "options_en": ["Pauli’s exclusion principle", "Hund’s rule", "Aufbau principle", "Dalton’s theory"],
+    "options_ta": ["பாலி விலக்கு கொள்கை", "ஹண்ட் விதி", "ஆபவ் கொள்கை", "டால்டன் கோட்பாடு"],
+    "answer_en": "Hund’s rule",
+    "answer_ta": "ஹண்ட் விதி"
+  },
+  {
+    "question_en": "Which acid is produced in the Ostwald process?",
+    "question_ta": "ஒஸ்ட்வால்ட் செயல்முறையில் தயாரிக்கப்படும் அமிலம் எது?",
+    "options_en": ["Nitric acid", "Sulphuric acid", "Hydrochloric acid", "Phosphoric acid"],
+    "options_ta": ["நைட்ரிக் அமிலம்", "சல்பியூரிக் அமிலம்", "ஹைட்ரோகுளோரிக் அமிலம்", "பாஸ்போரிக் அமிலம்"],
+    "answer_en": "Nitric acid",
+    "answer_ta": "நைட்ரிக் அமிலம்"
+  },
+  {
+    "question_en": "In electrolytic refining of copper, the pure copper is deposited on",
+    "question_ta": "தாமிரத்தின் மின்விளைவு சுத்திகரிப்பில் தூய தாமிரம் எங்கு படிகமாகும்?",
+    "options_en": ["Cathode", "Anode", "Electrolyte", "Separator"],
+    "options_ta": ["கேத்தோடு", "அனோடு", "மின்கரைசல்", "பிரிப்பான்"],
+    "answer_en": "Cathode",
+    "answer_ta": "கேத்தோடு"
+  },
+  {
+    "question_en": "Which element is known as the ‘King of Chemicals’?",
+    "question_ta": "‘ரசாயனங்களின் அரசன்’ என்று அழைக்கப்படும் தனிமம் எது?",
+    "options_en": ["Sulphur", "Hydrogen", "Sulphuric acid (H2SO4)", "Chlorine"],
+    "options_ta": ["சல்பர்", "ஹைட்ரஜன்", "சல்பியூரிக் அமிலம் (H2SO4)", "குளோரைன்"],
+    "answer_en": "Sulphuric acid (H2SO4)",
+    "answer_ta": "சல்பியூரிக் அமிலம் (H2SO4)"
+  },
+  {
+    "question_en": "Which property of transition metals makes them good catalysts?",
+    "question_ta": "மாறும் உலோகங்களை சிறந்த துரிதப்படுத்திகளாக ஆக்கும் பண்பு எது?",
+    "options_en": ["Low melting point", "Variable oxidation states", "High electronegativity", "Inertness"],
+    "options_ta": ["குறைந்த உருகுநிலை", "மாறுபடும் ஆக்சிடேஷன் நிலைகள்", "அதிக மின்முனைவு", "செயலற்ற தன்மை"],
+    "answer_en": "Variable oxidation states",
+    "answer_ta": "மாறுபடும் ஆக்சிடேஷன் நிலைகள்"
+  },
+  {
+    "question_en": "Which is the main ore of iron?",
+    "question_ta": "இரும்பின் முக்கிய கனிமம் எது?",
+    "options_en": ["Bauxite", "Galena", "Haematite", "Cinnabar"],
+    "options_ta": ["பாக்சைட்", "கலீனா", "ஹீமடைட்", "சின்னாபார்"],
+    "answer_en": "Haematite",
+    "answer_ta": "ஹீமடைட்"
+  },
+  {
+    "question_en": "Which law relates the pressure and absolute temperature of a gas at constant volume?",
+    "question_ta": "பருமன் மாறாதபோது வாயுவின் அழுத்தம் மற்றும் முழுமையான வெப்பநிலை இடையிலான தொடர்பைக் கூறும் சட்டம் எது?",
+    "options_en": ["Boyle’s law", "Charles’s law", "Avogadro’s law", "Gay-Lussac’s law"],
+    "options_ta": ["பாய்ல் சட்டம்", "சார்ல்ஸ் சட்டம்", "அவோகாட்ரோ சட்டம்", "கே-லூசக் சட்டம்"],
+    "answer_en": "Gay-Lussac’s law",
+    "answer_ta": "கே-லூசக் சட்டம்"
+  },
+  {
+    "question_en": "Which part of the periodic table contains halogens?",
+    "question_ta": "ஆவர்த்தன அட்டவணையில் ஹாலஜன்கள் எந்தக் குழுவில் உள்ளன?",
+    "options_en": ["Group 17", "Group 2", "Group 1", "Group 18"],
+    "options_ta": ["குழு 17", "குழு 2", "குழு 1", "குழு 18"],
+    "answer_en": "Group 17",
+    "answer_ta": "குழு 17"
+  },
+  {
+    "question_en": "Which process converts vegetable oils into ghee-like solids?",
+    "question_ta": "எண்ணெய்களை நெய் போன்ற திடமாக மாற்றும் செயல்முறை எது?",
+    "options_en": ["Oxidation", "Hydrogenation", "Fermentation", "Distillation"],
+    "options_ta": ["ஆக்சிடேஷன்", "ஹைட்ரஜனேஷன்", "காளான் வினை", "அசலம்"],
+    "answer_en": "Hydrogenation",
+    "answer_ta": "ஹைட்ரஜனேஷன்"
+  },
+  {
+    "question_en": "Which acid is produced by the contact process?",
+    "question_ta": "கான்டாக்ட் செயல்முறையில் உருவாகும் அமிலம் எது?",
+    "options_en": ["Sulphuric acid", "Nitric acid", "Hydrochloric acid", "Acetic acid"],
+    "options_ta": ["சல்பியூரிக் அமிலம்", "நைட்ரிக் அமிலம்", "ஹைட்ரோகுளோரிக் அமிலம்", "அசிட்டிக் அமிலம்"],
+    "answer_en": "Sulphuric acid",
+    "answer_ta": "சல்பியூரிக் அமிலம்"
+  },
+  {
+    "question_en": "Which gas is called Marsh gas?",
+    "question_ta": "மார்ஷ் வாயு என்று அழைக்கப்படும் வாயு எது?",
+    "options_en": ["Carbon dioxide", "Methane", "Ethane", "Propane"],
+    "options_ta": ["கார்பன் டைஆக்சைடு", "மீத்தேன்", "எத்தேன்", "புரோப்பேன்"],
+    "answer_en": "Methane",
+    "answer_ta": "மீத்தேன்"
+  },
+  {
+    "question_en": "Which branch of chemistry deals with carbon compounds?",
+    "question_ta": "கார்பன் சேர்மங்களை ஆய்வு செய்யும் வேதியியலின் கிளை எது?",
+    "options_en": ["Inorganic chemistry", "Organic chemistry", "Physical chemistry", "Biochemistry"],
+    "options_ta": ["அகச்சேர்ம வேதியியல்", "ஓர்சேர்ம வேதியியல்", "பொதுவான வேதியியல்", "உயிர்வேதியியல்"],
+    "answer_en": "Organic chemistry",
+    "answer_ta": "ஓர்சேர்ம வேதியியல்"
+  },
+  {
+    "question_en": "Which is the formula of bleaching powder?",
+    "question_ta": "ப்ளீச்சிங் பவுடரின் வேதியியல் வாய்பாடு எது?",
+    "options_en": ["CaOCl2", "CaCl2", "CaCO3", "CaSO4"],
+    "options_ta": ["CaOCl2", "CaCl2", "CaCO3", "CaSO4"],
+    "answer_en": "CaOCl2",
+    "answer_ta": "CaOCl2"
+  },
+  {
+    "question_en": "Which of the following is a strong reducing agent?",
+    "question_ta": "பின்வருவனவற்றில் எது வலுவான இறக்க வினையூக்கி?",
+    "options_en": ["Oxygen", "Chlorine", "Carbon monoxide", "Hydrogen"],
+    "options_ta": ["ஆக்சிஜன்", "குளோரைன்", "கார்பன் மோனாக்சைடு", "ஹைட்ரஜன்"],
+    "answer_en": "Carbon monoxide",
+    "answer_ta": "கார்பன் மோனாக்சைடு"
+  },
+  {
+    "question_en": "Which gas is liberated at the cathode during electrolysis of brine?",
+    "question_ta": "உப்பு நீரின் மின்விளைவில் கேத்தோடில் வெளியேறும் வாயு எது?",
+    "options_en": ["Chlorine", "Hydrogen", "Oxygen", "Sodium vapour"],
+    "options_ta": ["குளோரைன்", "ஹைட்ரஜன்", "ஆக்சிஜன்", "சோடியம் ஆவிகள்"],
+    "answer_en": "Hydrogen",
+    "answer_ta": "ஹைட்ரஜன்"
+  },
+  {
+    "question_en": "The greenhouse effect is mainly due to which gas?",
+    "question_ta": "வளிமண்டல வெப்பப்படுத்தல் (Greenhouse effect) எது காரணமாகும்?",
+    "options_en": ["Carbon dioxide", "Oxygen", "Nitrogen", "Hydrogen"],
+    "options_ta": ["கார்பன் டைஆக்சைடு", "ஆக்சிஜன்", "நைட்ரஜன்", "ஹைட்ரஜன்"],
+    "answer_en": "Carbon dioxide",
+    "answer_ta": "கார்பன் டைஆக்சைடு"
+  },
+  {
+    "question_en": "Which compound is used in the manufacture of glass?",
+    "question_ta": "கண்ணாடி உற்பத்தியில் பயன்படுத்தப்படும் சேர்மம் எது?",
+    "options_en": ["Na2CO3", "NaCl", "NaOH", "NaNO3"],
+    "options_ta": ["Na2CO3", "NaCl", "NaOH", "NaNO3"],
+    "answer_en": "Na2CO3",
+    "answer_ta": "Na2CO3"
+  },
+  {
+    "question_en": "Which theory explains acids as proton donors?",
+    "question_ta": "அமிலங்களை ப்ரோட்டான் வழங்குபவர்களாக விளக்கும் கோட்பாடு எது?",
+    "options_en": ["Lewis theory", "Arrhenius theory", "Bronsted–Lowry theory", "Dalton’s theory"],
+    "options_ta": ["லூயிஸ் கோட்பாடு", "அரேனியஸ் கோட்பாடு", "ப்ரான்ஸ்டெட்–லோரி கோட்பாடு", "டால்டன் கோட்பாடு"],
+    "answer_en": "Bronsted–Lowry theory",
+    "answer_ta": "ப்ரான்ஸ்டெட்–லோரி கோட்பாடு"
+  },
+  {
+    "question_en": "Which element is a liquid non-metal at room temperature?",
+    "question_ta": "அறை வெப்பநிலையில் திரவமாக இருக்கும் அலோகம் எது?",
+    "options_en": ["Bromine", "Chlorine", "Iodine", "Fluorine"],
+    "options_ta": ["ப்ரோமின்", "குளோரைன்", "அயோடின்", "ஃப்ளூரின்"],
+    "answer_en": "Bromine",
+    "answer_ta": "ப்ரோமின்"
+  },
+  {
+    "question_en": "Which principle explains that no two electrons can have the same set of four quantum numbers?",
+    "question_ta": "ஒரே நான்கு குவாண்டம் எண்களை உடையதாக இரண்டு எலக்ட்ரான்கள் இருக்க முடியாது என்று கூறும் கொள்கை எது?",
+    "options_en": ["Hund’s rule", "Aufbau principle", "Pauli’s exclusion principle", "Heisenberg principle"],
+    "options_ta": ["ஹண்ட் விதி", "ஆபவ் கொள்கை", "பாலி விலக்கு கொள்கை", "ஹெய்சன்பெர்க் கோட்பாடு"],
+    "answer_en": "Pauli’s exclusion principle",
+    "answer_ta": "பாலி விலக்கு கொள்கை"
+  },
+  {
+    "question_en": "Which chemical is called caustic soda?",
+    "question_ta": "Caustic soda என்று அழைக்கப்படும் வேதிப்பொருள் எது?",
+    "options_en": ["NaOH", "Na2CO3", "KOH", "NaHCO3"],
+    "options_ta": ["NaOH", "Na2CO3", "KOH", "NaHCO3"],
+    "answer_en": "NaOH",
+    "answer_ta": "NaOH"
+  },
+  {
+    "question_en": "Which compound is commonly known as quick lime?",
+    "question_ta": "Quick lime என்று அழைக்கப்படும் சேர்மம் எது?",
+    "options_en": ["CaCO3", "Ca(OH)2", "CaO", "CaCl2"],
+    "options_ta": ["CaCO3", "Ca(OH)2", "CaO", "CaCl2"],
+    "answer_en": "CaO",
+    "answer_ta": "CaO"
+  },
+  {
+    "question_en": "Which gas is collected at the anode during electrolysis of water?",
+    "question_ta": "தண்ணீரின் மின்விளைவில் அனோடில் சேகரிக்கப்படும் வாயு எது?",
+    "options_en": ["Hydrogen", "Oxygen", "Nitrogen", "Chlorine"],
+    "options_ta": ["ஹைட்ரஜன்", "ஆக்சிஜன்", "நைட்ரஜன்", "குளோரைன்"],
+    "answer_en": "Oxygen",
+    "answer_ta": "ஆக்சிஜன்"
+  },
+  {
+    "question_en": "Which process is used in softening of hard water using zeolite?",
+    "question_ta": "கடின நீரை ஜியோலைட் மூலம் மிருதுவாக்கப் பயன்படும் செயல்முறை எது?",
+    "options_en": ["Ion exchange", "Filtration", "Distillation", "Evaporation"],
+    "options_ta": ["அயன் பரிமாற்றம்", "சுற்றறிதல்", "அசலம்", "ஆவியாக்கம்"],
+    "answer_en": "Ion exchange",
+    "answer_ta": "அயன் பரிமாற்றம்"
+  },
+  {
+    "question_en": "Which of the following is used as an antacid?",
+    "question_ta": "பின்வருவனவற்றில் எது அமில எதிரி மருந்தாக (antacid) பயன்படுத்தப்படுகிறது?",
+    "options_en": ["NaCl", "NaOH", "Mg(OH)2", "KCl"],
+    "options_ta": ["NaCl", "NaOH", "Mg(OH)2", "KCl"],
+    "answer_en": "Mg(OH)2",
+    "answer_ta": "Mg(OH)2"
+  },
+  {
+    "question_en": "Which gas is used for artificial ripening of fruits?",
+    "question_ta": "பழங்களை செயற்கையாக பழுக்கச் செய்யப் பயன்படுத்தப்படும் வாயு எது?",
+    "options_en": ["Ethylene", "Methane", "Oxygen", "Carbon monoxide"],
+    "options_ta": ["எத்திலீன்", "மீத்தேன்", "ஆக்சிஜன்", "கார்பன் மோனாக்சைடு"],
+    "answer_en": "Ethylene",
+    "answer_ta": "எத்திலீன்"
+  },
+  {
+    "question_en": "Which type of bond exists in diamond?",
+    "question_ta": "வைரத்தில் உள்ள பிணைப்பு எது?",
+    "options_en": ["Metallic bond", "Covalent bond", "Ionic bond", "Hydrogen bond"],
+    "options_ta": ["உலோக பிணைப்பு", "ஒற்றை பிணைப்பு", "அயோனிக் பிணைப்பு", "ஹைட்ரஜன் பிணைப்பு"],
+    "answer_en": "Covalent bond",
+    "answer_ta": "ஒற்றை பிணைப்பு"
+  },
+  {
+    "question_en": "Which process is used in the manufacture of caustic soda and chlorine?",
+    "question_ta": "Caustic soda மற்றும் குளோரின் உற்பத்தியில் பயன்படுத்தப்படும் செயல்முறை எது?",
+    "options_en": ["Haber process", "Electrolysis of brine", "Contact process", "Ostwald process"],
+    "options_ta": ["ஹேபர் முறை", "உப்பு நீரின் மின்விளைவு", "கான்டாக்ட் முறை", "ஒஸ்ட்வால்ட் முறை"],
+    "answer_en": "Electrolysis of brine",
+    "answer_ta": "உப்பு நீரின் மின்விளைவு"
+  },
+  {
+    "question_en": "Which compound is used as plaster of Paris?",
+    "question_ta": "பிளாஸ்டர் ஆஃப் பாரிஸ் என்று அழைக்கப்படும் சேர்மம் எது?",
+    "options_en": ["CaSO4·½H2O", "CaCO3", "CaCl2", "CaO"],
+    "options_ta": ["CaSO4·½H2O", "CaCO3", "CaCl2", "CaO"],
+    "answer_en": "CaSO4·½H2O",
+    "answer_ta": "CaSO4·½H2O"
+  }
+]

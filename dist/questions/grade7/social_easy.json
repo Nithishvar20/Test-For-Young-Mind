@@ -1,0 +1,267 @@
+[
+  {
+    "question_en": "Who was the founder of the Mughal Empire in India?",
+    "question_ta": "இந்தியாவில் முகலாய பேரரசை நிறுவியவர் யார்?",
+    "options_en": ["Akbar", "Babar", "Aurangzeb", "Humayun"],
+    "options_ta": ["அக்பர்", "பாபர்", "ஔரங்கசீப்", "ஹுமாயூன்"],
+    "answer_en": "Babar",
+    "answer_ta": "பாபர்"
+  },
+  {
+    "question_en": "Which dynasty built the Brihadeeswarar Temple in Thanjavur?",
+    "question_ta": "தஞ்சாவூரில் உள்ள பெரிய கோயிலை கட்டிய வம்சம் எது?",
+    "options_en": ["Chola", "Pandya", "Chera", "Pallava"],
+    "options_ta": ["சோழர்", "பாண்டியர்", "சேரர்", "பல்லவர்"],
+    "answer_en": "Chola",
+    "answer_ta": "சோழர்"
+  },
+  {
+    "question_en": "Who was called the 'Napoleon of India'?",
+    "question_ta": "‘இந்தியாவின் நெப்போலியன்’ என்று அழைக்கப்படுபவர் யார்?",
+    "options_en": ["Rajaraja Chola", "Alauddin Khilji", "Samudragupta", "Shivaji"],
+    "options_ta": ["ராஜராஜ சோழன்", "அலாவுதீன் கில்ஜி", "சமுத்திரகுப்தர்", "சிவாஜி"],
+    "answer_en": "Samudragupta",
+    "answer_ta": "சமுத்திரகுப்தர்"
+  },
+  {
+    "question_en": "Which European power was the first to come to India?",
+    "question_ta": "இந்தியாவுக்கு முதலில் வந்த ஐரோப்பிய சக்தி எது?",
+    "options_en": ["French", "Portuguese", "British", "Dutch"],
+    "options_ta": ["பிரெஞ்சு", "போர்த்துகீசியர்", "பிரிட்டிஷ்", "டச்சு"],
+    "answer_en": "Portuguese",
+    "answer_ta": "போர்த்துகீசியர்"
+  },
+  {
+    "question_en": "The Battle of Plassey (1757) was fought between the British and?",
+    "question_ta": "பிளாசி போர் (1757) யாருக்கும் பிரிட்டிஷுக்கும் இடையே நடந்தது?",
+    "options_en": ["Tipu Sultan", "Siraj-ud-Daulah", "Hyder Ali", "Aurangzeb"],
+    "options_ta": ["தீபு சுல்தான்", "சிராஜ்-உத்-தௌலா", "ஹைதர் அலி", "ஔரங்கசீப்"],
+    "answer_en": "Siraj-ud-Daulah",
+    "answer_ta": "சிராஜ்-உத்-தௌலா"
+  },
+  {
+    "question_en": "Which is the largest continent in the world?",
+    "question_ta": "உலகின் மிகப்பெரிய கண்டம் எது?",
+    "options_en": ["Africa", "Asia", "Europe", "Australia"],
+    "options_ta": ["ஆப்பிரிக்கா", "ஆசியா", "ஐரோப்பா", "ஆஸ்திரேலியா"],
+    "answer_en": "Asia",
+    "answer_ta": "ஆசியா"
+  },
+  {
+    "question_en": "Which is the deepest ocean in the world?",
+    "question_ta": "உலகின் ஆழமான பெருங்கடல் எது?",
+    "options_en": ["Indian Ocean", "Pacific Ocean", "Atlantic Ocean", "Arctic Ocean"],
+    "options_ta": ["இந்தியப் பெருங்கடல்", "பசிபிக் பெருங்கடல்", "அட்லாண்டிக் பெருங்கடல்", "ஆர்க்டிக் பெருங்கடல்"],
+    "answer_en": "Pacific Ocean",
+    "answer_ta": "பசிபிக் பெருங்கடல்"
+  },
+  {
+    "question_en": "Mount Everest is located in which mountain range?",
+    "question_ta": "மவுண்ட் எவரெஸ்ட் எந்த மலைத் தொடரில் அமைந்துள்ளது?",
+    "options_en": ["Andes", "Himalayas", "Rockies", "Alps"],
+    "options_ta": ["ஆண்டிஸ்", "ஹிமாலயா", "ராகி மலை", "ஆல்ப்ஸ்"],
+    "answer_en": "Himalayas",
+    "answer_ta": "ஹிமாலயா"
+  },
+  {
+    "question_en": "Which is the largest desert in the world?",
+    "question_ta": "உலகின் மிகப்பெரிய பாலைவனம் எது?",
+    "options_en": ["Thar", "Kalahari", "Sahara", "Gobi"],
+    "options_ta": ["தார்", "கலஹாரி", "சஹாரா", "கோபி"],
+    "answer_en": "Sahara",
+    "answer_ta": "சஹாரா"
+  },
+  {
+    "question_en": "Which is the largest river in the world by length?",
+    "question_ta": "உலகின் நீளமான நதி எது?",
+    "options_en": ["Amazon", "Ganga", "Nile", "Yangtze"],
+    "options_ta": ["அமேசான்", "கங்கை", "நைல்", "யாங்க்ஸி"],
+    "answer_en": "Nile",
+    "answer_ta": "நைல்"
+  },
+  {
+    "question_en": "Which gas is most abundant in Earth’s atmosphere?",
+    "question_ta": "பூமியின் வளிமண்டலத்தில் அதிகமாக உள்ள வாயு எது?",
+    "options_en": ["Carbon dioxide", "Oxygen", "Nitrogen", "Hydrogen"],
+    "options_ta": ["கார்பன் டை ஆக்சைடு", "ஆக்சிஜன்", "நைட்ரஜன்", "ஹைட்ரஜன்"],
+    "answer_en": "Nitrogen",
+    "answer_ta": "நைட்ரஜன்"
+  },
+  {
+    "question_en": "Which type of government is by the people and for the people?",
+    "question_ta": "மக்களால் நடத்தப்படும் ஆட்சி எது?",
+    "options_en": ["Monarchy", "Democracy", "Dictatorship", "Oligarchy"],
+    "options_ta": ["மன்னராட்சி", "ஜனநாயகம்", "ஒற்றை ஆட்சி", "குறுகிய ஆட்சி"],
+    "answer_en": "Democracy",
+    "answer_ta": "ஜனநாயகம்"
+  },
+  {
+    "question_en": "Who is the head of the State Government?",
+    "question_ta": "மாநில அரசின் தலைவர் யார்?",
+    "options_en": ["Prime Minister", "Governor", "Chief Minister", "President"],
+    "options_ta": ["பிரதமர்", "ஆளுநர்", "முதல்வர்", "ஜனாதிபதி"],
+    "answer_en": "Chief Minister",
+    "answer_ta": "முதல்வர்"
+  },
+  {
+    "question_en": "The Parliament of India consists of Lok Sabha and?",
+    "question_ta": "இந்திய பாராளுமன்றம் லோக்சபா மற்றும் எதைக் கொண்டுள்ளது?",
+    "options_en": ["Vidhan Sabha", "Rajya Sabha", "Legislative Council", "Supreme Court"],
+    "options_ta": ["விதான் சபா", "ராஜ்ய சபா", "சட்டமன்றம்", "உச்சநீதிமன்றம்"],
+    "answer_en": "Rajya Sabha",
+    "answer_ta": "ராஜ்ய சபா"
+  },
+  {
+    "question_en": "Which is the lowest level of local self-government in India?",
+    "question_ta": "இந்தியாவில் உள்ளூர் சுயாட்சி அரசின் அடிப்படை நிலை எது?",
+    "options_en": ["District", "Panchayat", "Municipality", "Corporation"],
+    "options_ta": ["மாவட்டம்", "பஞ்சாயத்து", "நகராட்சி", "நிறுவனம்"],
+    "answer_en": "Panchayat",
+    "answer_ta": "பஞ்சாயத்து"
+  },
+  {
+    "question_en": "Which road sign indicates to stop the vehicle?",
+    "question_ta": "வாகனத்தை நிறுத்த சொல்லும் சாலை அடையாளம் எது?",
+    "options_en": ["Stop", "Speed limit", "No entry", "Turn left"],
+    "options_ta": ["நிறுத்துக", "வேக வரம்பு", "நுழைய வேண்டாம்", "இடது திருப்பு"],
+    "answer_en": "Stop",
+    "answer_ta": "நிறுத்துக"
+  },
+  {
+    "question_en": "What is the basic unit of money in India?",
+    "question_ta": "இந்தியாவின் அடிப்படை நாணயம் எது?",
+    "options_en": ["Dollar", "Euro", "Rupee", "Pound"],
+    "options_ta": ["டாலர்", "யூரோ", "ரூபாய்", "பவுண்ட்"],
+    "answer_en": "Rupee",
+    "answer_ta": "ரூபாய்"
+  },
+  {
+    "question_en": "Which is the primary occupation of most people in India?",
+    "question_ta": "இந்தியாவில் பெரும்பாலான மக்களின் முதன்மை தொழில் எது?",
+    "options_en": ["Agriculture", "Industry", "Banking", "Trade"],
+    "options_ta": ["விவசாயம்", "தொழில்", "வங்கி", "வர்த்தகம்"],
+    "answer_en": "Agriculture",
+    "answer_ta": "விவசாயம்"
+  },
+  {
+    "question_en": "Which of these is an example of a service?",
+    "question_ta": "இதில் எது ஒரு சேவைக்கு உதாரணம்?",
+    "options_en": ["Teacher", "Farmer", "Miner", "Carpenter"],
+    "options_ta": ["ஆசிரியர்", "விவசாயி", "சுரங்கத் தொழிலாளர்", "தச்சன்"],
+    "answer_en": "Teacher",
+    "answer_ta": "ஆசிரியர்"
+  },
+  {
+    "question_en": "Who was the first Prime Minister of India?",
+    "question_ta": "இந்தியாவின் முதல் பிரதமர் யார்?",
+    "options_en": ["Mahatma Gandhi", "Sardar Patel", "Jawaharlal Nehru", "Rajaji"],
+    "options_ta": ["மகாத்மா காந்தி", "சர்தார் படேல்", "ஜவஹர்லால் நேரு", "ராஜாஜி"],
+    "answer_en": "Jawaharlal Nehru",
+    "answer_ta": "ஜவஹர்லால் நேரு"
+  },
+  {
+    "question_en": "Who wrote the Indian National Anthem?",
+    "question_ta": "இந்திய தேசிய கீதத்தை எழுதியவர் யார்?",
+    "options_en": ["Bankim Chandra Chatterjee", "Rabindranath Tagore", "Subramania Bharathi", "Sarojini Naidu"],
+    "options_ta": ["பங்கிம் சந்திர சாட்டர்ஜி", "ரபீந்திரநாத் தாகூர்", "சுப்பிரமணிய பாரதி", "சரோஜினி நாயுடு"],
+    "answer_en": "Rabindranath Tagore",
+    "answer_ta": "ரபீந்திரநாத் தாகூர்"
+  },
+  {
+    "question_en": "Who is known as the Iron Man of India?",
+    "question_ta": "‘இந்தியாவின் இரும்பு மனிதர்’ என்று அழைக்கப்படுபவர் யார்?",
+    "options_en": ["Mahatma Gandhi", "Sardar Vallabhbhai Patel", "Subhas Chandra Bose", "Jawaharlal Nehru"],
+    "options_ta": ["மகாத்மா காந்தி", "சர்தார் வல்லபாய் படேல்", "சுபாஷ் சந்திர போஸ்", "ஜவஹர்லால் நேரு"],
+    "answer_en": "Sardar Vallabhbhai Patel",
+    "answer_ta": "சர்தார் வல்லபாய் படேல்"
+  },
+  {
+    "question_en": "Which is the capital city of Tamil Nadu?",
+    "question_ta": "தமிழ்நாட்டின் தலைநகரம் எது?",
+    "options_en": ["Madurai", "Trichy", "Chennai", "Coimbatore"],
+    "options_ta": ["மதுரை", "திருச்சி", "சென்னை", "கோயம்புத்தூர்"],
+    "answer_en": "Chennai",
+    "answer_ta": "சென்னை"
+  },
+  {
+    "question_en": "Which Mughal ruler built the Taj Mahal?",
+    "question_ta": "தாஜ்மகாலை கட்டிய முகலாய மன்னன் யார்?",
+    "options_en": ["Babur", "Akbar", "Shah Jahan", "Aurangzeb"],
+    "options_ta": ["பாபர்", "அக்பர்", "ஷாஜகான்", "ஔரங்கசீப்"],
+    "answer_en": "Shah Jahan",
+    "answer_ta": "ஷாஜகான்"
+  },
+  {
+    "question_en": "What is the currency of the United States of America?",
+    "question_ta": "அமெரிக்காவின் நாணயம் எது?",
+    "options_en": ["Dollar", "Euro", "Yen", "Pound"],
+    "options_ta": ["டாலர்", "யூரோ", "யென்", "பவுண்ட்"],
+    "answer_en": "Dollar",
+    "answer_ta": "டாலர்"
+  },
+  {
+    "question_en": "Which Indian leader gave the slogan 'Quit India'?",
+    "question_ta": "‘இந்தியாவை விட்டு வெளியேறு’ என்ற முழக்கத்தை கொடுத்த தலைவர் யார்?",
+    "options_en": ["Subhas Chandra Bose", "Mahatma Gandhi", "Bal Gangadhar Tilak", "Jawaharlal Nehru"],
+    "options_ta": ["சுபாஷ் சந்திர போஸ்", "மகாத்மா காந்தி", "பால் கங்காதர் திலக்", "ஜவஹர்லால் நேரு"],
+    "answer_en": "Mahatma Gandhi",
+    "answer_ta": "மகாத்மா காந்தி"
+  },
+  {
+    "question_en": "Which is the southernmost tip of India?",
+    "question_ta": "இந்தியாவின் தெற்குத் திசையின் கடைசி முனை எது?",
+    "options_en": ["Kanniyakumari", "Rameswaram", "Tuticorin", "Goa"],
+    "options_ta": ["கன்னியாகுமரி", "ராமேஸ்வரம்", "தூத்துக்குடி", "கோவா"],
+    "answer_en": "Kanniyakumari",
+    "answer_ta": "கன்னியாகுமரி"
+  },
+  {
+    "question_en": "Who is known as the 'Father of the Nation' in India?",
+    "question_ta": "இந்தியாவின் ‘தேசத்தந்தை’ என்று அழைக்கப்படுபவர் யார்?",
+    "options_en": ["Jawaharlal Nehru", "Mahatma Gandhi", "Subhas Chandra Bose", "Dr. Ambedkar"],
+    "options_ta": ["ஜவஹர்லால் நேரு", "மகாத்மா காந்தி", "சுபாஷ் சந்திர போஸ்", "அம்பேத்கர்"],
+    "answer_en": "Mahatma Gandhi",
+    "answer_ta": "மகாத்மா காந்தி"
+  },
+  {
+    "question_en": "Which city is called the 'Manchester of South India'?",
+    "question_ta": "‘தென்னிந்தியாவின் மான்செஸ்டர்’ என்று அழைக்கப்படும் நகரம் எது?",
+    "options_en": ["Madurai", "Coimbatore", "Chennai", "Salem"],
+    "options_ta": ["மதுரை", "கோயம்புத்தூர்", "சென்னை", "சேலம்"],
+    "answer_en": "Coimbatore",
+    "answer_ta": "கோயம்புத்தூர்"
+  },
+  {
+    "question_en": "Which festival is known as the 'Festival of Lights'?",
+    "question_ta": "‘ஒளியின் திருவிழா’ என்று அழைக்கப்படும் திருவிழா எது?",
+    "options_en": ["Pongal", "Christmas", "Diwali", "Ramzan"],
+    "options_ta": ["பொங்கல்", "கிறிஸ்துமஸ்", "தீபாவளி", "ரம்ஜான்"],
+    "answer_en": "Diwali",
+    "answer_ta": "தீபாவளி"
+  },
+  {
+    "question_en": "Which state is called the 'Rice Bowl of India'?",
+    "question_ta": "‘இந்தியாவின் அரிசிக் கிண்ணம்’ என்று அழைக்கப்படும் மாநிலம் எது?",
+    "options_en": ["Punjab", "Tamil Nadu", "Andhra Pradesh", "Karnataka"],
+    "options_ta": ["பஞ்சாப்", "தமிழ்நாடு", "ஆந்திர பிரதேசம்", "கர்நாடகா"],
+    "answer_en": "Andhra Pradesh",
+    "answer_ta": "ஆந்திர பிரதேசம்"
+  },
+  {
+    "question_en": "Which Indian leader was called 'Netaji'?",
+    "question_ta": "‘நேதாஜி’ என்று அழைக்கப்பட்ட இந்தியத் தலைவர் யார்?",
+    "options_en": ["Bal Gangadhar Tilak", "Mahatma Gandhi", "Subhas Chandra Bose", "Bhagat Singh"],
+    "options_ta": ["பால் கங்காதர் திலக்", "மகாத்மா காந்தி", "சுபாஷ் சந்திர போஸ்", "பகவத் சிங்"],
+    "answer_en": "Subhas Chandra Bose",
+    "answer_ta": "சுபாஷ் சந்திர போஸ்"
+  },
+  {
+    "question_en": "Who wrote the book 'Discovery of India'?",
+    "question_ta": "‘டிஸ்கவரி ஆஃப் இந்தியா’ என்ற புத்தகத்தை எழுதியவர் யார்?",
+    "options_en": ["Jawaharlal Nehru", "Mahatma Gandhi", "Rabindranath Tagore", "B. R. Ambedkar"],
+    "options_ta": ["ஜவஹர்லால் நேரு", "மகாத்மா காந்தி", "ரபீந்திரநாத் தாகூர்", "அம்பேத்கர்"],
+    "answer_en": "Jawaharlal Nehru",
+    "answer_ta": "ஜவஹர்லால் நேரு"
+  }
+]
+

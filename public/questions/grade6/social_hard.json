@@ -1,0 +1,902 @@
+[
+  {
+    "question_en": "Why is rotation of Earth important?",
+    "question_ta": "பூமியின் சுழற்சி ஏன் முக்கியம்?",
+    "options_en": [
+      "Changes size of Earth",
+      "Causes seasons",
+      "Causes day and night",
+      "Affects gravity"
+    ],
+    "options_ta": [
+      "பூமியின் அளவை மாற்றுகிறது",
+      "பிரிவுகள் ஏற்படுகின்றன",
+      "நாளும் இரவுமாகும்",
+      "ட்டாயத்தை பாதிக்கிறது"
+    ],
+    "answer_en": "Causes day and night",
+    "answer_ta": "நாளும் இரவுமாகும்"
+  },
+  {
+    "question_en": "What is the primary reason for migration from villages to cities?",
+    "question_ta": "பேய் நகரங்களில் குடியிருப்பு மாறுவதன் முக்கிய காரணம் என்ன?",
+    "options_en": [
+      "Less population",
+      "Jobs and better facilities",
+      "Better climate",
+      "More farmland"
+    ],
+    "options_ta": [
+      "குறைந்த மக்கள்",
+      "வேலைகள் மற்றும் சிறந்த வசதிகள்",
+      "மேலான காலநிலை",
+      "மேலும் வயல்காண்"
+    ],
+    "answer_en": "Jobs and better facilities",
+    "answer_ta": "வேலைகள் மற்றும் சிறந்த வசதிகள்"
+  },
+  {
+    "question_en": "How does deforestation affect rainfall?",
+    "question_ta": "மரங்கள் வெட்டப்பட்டால் மழை மீது அது எப்படிப் பாதிக்கும்?",
+    "options_en": [
+      "Reduces rainfall",
+      "Causes immediate floods",
+      "No effect",
+      "Increases rainfall"
+    ],
+    "options_ta": [
+      "மழை குறையும்",
+      "உடனடி வெள்ளங்களை ஏற்படுத்தும்",
+      "பாதிப்பு இல்லை",
+      "மழை அதிகரிக்கும்"
+    ],
+    "answer_en": "Reduces rainfall",
+    "answer_ta": "மழை குறையும்"
+  },
+  {
+    "question_en": "Why is the Constitution called a 'living document'?",
+    "question_ta": "மூலநெறிமுறை ஏன் 'ஊது' எனப்படும்?",
+    "options_en": [
+      "Only judges read it",
+      "It is very old",
+      "It is printed on paper",
+      "It can be amended"
+    ],
+    "options_ta": [
+      "வழக்கமாக நீதிபதிகள் மட்டும் அதைப் படிக்கின்றனர்",
+      "இது மிக பழையது",
+      "இது அனைத்துக்கும் கடிதம்",
+      "அதனை மாற்ற முடியும்"
+    ],
+    "answer_en": "It can be amended",
+    "answer_ta": "அதனை மாற்ற முடியும்"
+  },
+  {
+    "question_en": "Explain the impact of Green Revolution in India.",
+    "question_ta": "இந்தியாவில் கிரீன் ரெவலூஷனின் தாக்கத்தை விளக்கவும்.",
+    "options_en": [
+      "Increased food production",
+      "Led to more imports",
+      "No change",
+      "Decreased food production"
+    ],
+    "options_ta": [
+      "சோறு உற்பத்தி அதிகரித்தது",
+      "மேலும் இறக்குமதிக்கு வழிவகுத்தது",
+      "மாற்றமில்லை",
+      "சோறு உற்பத்தி குறைந்தது"
+    ],
+    "answer_en": "Increased food production",
+    "answer_ta": "சோறு உற்பத்தி அதிகரித்தது"
+  },
+  {
+    "question_en": "How do rivers help in the development of civilizations?",
+    "question_ta": "நதிகள் நாகரிக வளர்ச்சியில் எவ்வாறு உதவுகின்றன?",
+    "options_en": [
+      "Only for religion",
+      "Provide water, transport, fertile soil",
+      "No role",
+      "Only for bathing"
+    ],
+    "options_ta": [
+      "மதத்திற்கே மட்டும்",
+      "தண்ணீர், போக்குவரத்து, உருக்கமான மண் வழங்குகின்றன",
+      "பங்கு இல்லை",
+      "வெறும் குளிர்ச்சிக்கு மட்டுமே"
+    ],
+    "answer_en": "Provide water, transport, fertile soil",
+    "answer_ta": "தண்ணீர், போக்குவரத்து, உருக்கமான மண்"
+  },
+  {
+    "question_en": "How do rivers help in the development of civilizations?",
+    "question_ta": "நதிகள் நாகரிக வளர்ச்சியில் எவ்வாறு உதவுகின்றன?",
+    "options_en": [
+      "Only for religion",
+      "Only for bathing",
+      "Provide water, transport, fertile soil",
+      "No role"
+    ],
+    "options_ta": [
+      "மதத்திற்கே மட்டும்",
+      "வெறும் குளிர்ச்சிக்கு மட்டுமே",
+      "தண்ணீர், போக்குவரத்து, உருக்கமான மண் வழங்குகின்றன",
+      "பங்கு இல்லை"
+    ],
+    "answer_en": "Provide water, transport, fertile soil",
+    "answer_ta": "தண்ணீர், போக்குவரத்து, உருக்கமான மண்"
+  },
+  {
+    "question_en": "What are monsoons and why are they important for India?",
+    "question_ta": "மான் சோனுகள் என்ன மற்றும் இந்தியக்காக அவை ஏன் முக்கியம்?",
+    "options_en": [
+      "Seasonal winds bringing rain",
+      "Deserts",
+      "Tropical storms",
+      "Cold winds"
+    ],
+    "options_ta": [
+      "மழை கொண்டுவரும் பருவ காற்றுகள்",
+      "மணற் பகுதிகள்",
+      "வானிலை புயல்கள்",
+      "குளிர் காற்றுகள்"
+    ],
+    "answer_en": "Seasonal winds bringing rain",
+    "answer_ta": "மழை கொண்டுவரும் பருவ காற்றுகள்"
+  },
+  {
+    "question_en": "Discuss reasons for regional inequalities.",
+    "question_ta": "பிராந்திய சமநிலையின்மையின் காரணங்களை விவாதிக்கவும்.",
+    "options_en": [
+      "Weather only",
+      "Only culture causes it",
+      "Unequal resources and development",
+      "Same everywhere"
+    ],
+    "options_ta": [
+      "வானிலை மட்டுமே",
+      "மட்டும் கலாச்சாரம் காரணம்",
+      "சமநிலை இல்லாத வளங்கள் மற்றும் வளர்ச்சி",
+      "எங்கும் ஒரே மாதிரி"
+    ],
+    "answer_en": "Unequal resources and development",
+    "answer_ta": "சமநிலை இல்லாத வளங்கள் மற்றும் வளர்ச்சி"
+  },
+  {
+    "question_en": "How do rivers help in the development of civilizations?",
+    "question_ta": "நதிகள் நாகரிக வளர்ச்சியில் எவ்வாறு உதவுகின்றன?",
+    "options_en": [
+      "Only for bathing",
+      "No role",
+      "Only for religion",
+      "Provide water, transport, fertile soil"
+    ],
+    "options_ta": [
+      "வெறும் குளிர்ச்சிக்கு மட்டுமே",
+      "பங்கு இல்லை",
+      "மதத்திற்கே மட்டும்",
+      "தண்ணீர், போக்குவரத்து, உருக்கமான மண் வழங்குகின்றன"
+    ],
+    "answer_en": "Provide water, transport, fertile soil",
+    "answer_ta": "தண்ணீர், போக்குவரத்து, உருக்கமான மண்"
+  },
+  {
+    "question_en": "How do rivers help in the development of civilizations?",
+    "question_ta": "நதிகள் நாகரிக வளர்ச்சியில் எவ்வாறு உதவுகின்றன?",
+    "options_en": [
+      "Only for religion",
+      "No role",
+      "Only for bathing",
+      "Provide water, transport, fertile soil"
+    ],
+    "options_ta": [
+      "மதத்திற்கே மட்டும்",
+      "பங்கு இல்லை",
+      "வெறும் குளிர்ச்சிக்கு மட்டுமே",
+      "தண்ணீர், போக்குவரத்து, உருக்கமான மண் வழங்குகின்றன"
+    ],
+    "answer_en": "Provide water, transport, fertile soil",
+    "answer_ta": "தண்ணீர், போக்குவரத்து, உருக்கமான மண்"
+  },
+  {
+    "question_en": "What are monsoons and why are they important for India?",
+    "question_ta": "மான் சோனுகள் என்ன மற்றும் இந்தியக்காக அவை ஏன் முக்கியம்?",
+    "options_en": [
+      "Cold winds",
+      "Tropical storms",
+      "Deserts",
+      "Seasonal winds bringing rain"
+    ],
+    "options_ta": [
+      "குளிர் காற்றுகள்",
+      "வானிலை புயல்கள்",
+      "மணற் பகுதிகள்",
+      "மழை கொண்டுவரும் பருவ காற்றுகள்"
+    ],
+    "answer_en": "Seasonal winds bringing rain",
+    "answer_ta": "மழை கொண்டுவரும் பருவ காற்றுகள்"
+  },
+  {
+    "question_en": "Discuss reasons for regional inequalities.",
+    "question_ta": "பிராந்திய சமநிலையின்மையின் காரணங்களை விவாதிக்கவும்.",
+    "options_en": [
+      "Same everywhere",
+      "Only culture causes it",
+      "Weather only",
+      "Unequal resources and development"
+    ],
+    "options_ta": [
+      "எங்கும் ஒரே மாதிரி",
+      "மட்டும் கலாச்சாரம் காரணம்",
+      "வானிலை மட்டுமே",
+      "சமநிலை இல்லாத வளங்கள் மற்றும் வளர்ச்சி"
+    ],
+    "answer_en": "Unequal resources and development",
+    "answer_ta": "சமநிலை இல்லாத வளங்கள் மற்றும் வளர்ச்சி"
+  },
+  {
+    "question_en": "What are monsoons and why are they important for India?",
+    "question_ta": "மான் சோனுகள் என்ன மற்றும் இந்தியக்காக அவை ஏன் முக்கியம்?",
+    "options_en": [
+      "Deserts",
+      "Seasonal winds bringing rain",
+      "Tropical storms",
+      "Cold winds"
+    ],
+    "options_ta": [
+      "மணற் பகுதிகள்",
+      "மழை கொண்டுவரும் பருவ காற்றுகள்",
+      "வானிலை புயல்கள்",
+      "குளிர் காற்றுகள்"
+    ],
+    "answer_en": "Seasonal winds bringing rain",
+    "answer_ta": "மழை கொண்டுவரும் பருவ காற்றுகள்"
+  },
+  {
+    "question_en": "Discuss reasons for regional inequalities.",
+    "question_ta": "பிராந்திய சமநிலையின்மையின் காரணங்களை விவாதிக்கவும்.",
+    "options_en": [
+      "Only culture causes it",
+      "Weather only",
+      "Unequal resources and development",
+      "Same everywhere"
+    ],
+    "options_ta": [
+      "மட்டும் கலாச்சாரம் காரணம்",
+      "வானிலை மட்டுமே",
+      "சமநிலை இல்லாத வளங்கள் மற்றும் வளர்ச்சி",
+      "எங்கும் ஒரே மாதிரி"
+    ],
+    "answer_en": "Unequal resources and development",
+    "answer_ta": "சமநிலை இல்லாத வளங்கள் மற்றும் வளர்ச்சி"
+  },
+  {
+    "question_en": "What are monsoons and why are they important for India?",
+    "question_ta": "மான் சோனுகள் என்ன மற்றும் இந்தியக்காக அவை ஏன் முக்கியம்?",
+    "options_en": [
+      "Deserts",
+      "Cold winds",
+      "Tropical storms",
+      "Seasonal winds bringing rain"
+    ],
+    "options_ta": [
+      "மணற் பகுதிகள்",
+      "குளிர் காற்றுகள்",
+      "வானிலை புயல்கள்",
+      "மழை கொண்டுவரும் பருவ காற்றுகள்"
+    ],
+    "answer_en": "Seasonal winds bringing rain",
+    "answer_ta": "மழை கொண்டுவரும் பருவ காற்றுகள்"
+  },
+  {
+    "question_en": "What are monsoons and why are they important for India?",
+    "question_ta": "மான் சோனுகள் என்ன மற்றும் இந்தியக்காக அவை ஏன் முக்கியம்?",
+    "options_en": [
+      "Deserts",
+      "Tropical storms",
+      "Seasonal winds bringing rain",
+      "Cold winds"
+    ],
+    "options_ta": [
+      "மணற் பகுதிகள்",
+      "வானிலை புயல்கள்",
+      "மழை கொண்டுவரும் பருவ காற்றுகள்",
+      "குளிர் காற்றுகள்"
+    ],
+    "answer_en": "Seasonal winds bringing rain",
+    "answer_ta": "மழை கொண்டுவரும் பருவ காற்றுகள்"
+  },
+  {
+    "question_en": "Discuss reasons for regional inequalities.",
+    "question_ta": "பிராந்திய சமநிலையின்மையின் காரணங்களை விவாதிக்கவும்.",
+    "options_en": [
+      "Only culture causes it",
+      "Unequal resources and development",
+      "Weather only",
+      "Same everywhere"
+    ],
+    "options_ta": [
+      "மட்டும் கலாச்சாரம் காரணம்",
+      "சமநிலை இல்லாத வளங்கள் மற்றும் வளர்ச்சி",
+      "வானிலை மட்டுமே",
+      "எங்கும் ஒரே மாதிரி"
+    ],
+    "answer_en": "Unequal resources and development",
+    "answer_ta": "சமநிலை இல்லாத வளங்கள் மற்றும் வளர்ச்சி"
+  },
+  {
+    "question_en": "How do rivers help in the development of civilizations?",
+    "question_ta": "நதிகள் நாகரிக வளர்ச்சியில் எவ்வாறு உதவுகின்றன?",
+    "options_en": [
+      "Only for bathing",
+      "No role",
+      "Only for religion",
+      "Provide water, transport, fertile soil"
+    ],
+    "options_ta": [
+      "வெறும் குளிர்ச்சிக்கு மட்டுமே",
+      "பங்கு இல்லை",
+      "மதத்திற்கே மட்டும்",
+      "தண்ணீர், போக்குவரத்து, உருக்கமான மண் வழங்குகின்றன"
+    ],
+    "answer_en": "Provide water, transport, fertile soil",
+    "answer_ta": "தண்ணீர், போக்குவரத்து, உருக்கமான மண்"
+  },
+  {
+    "question_en": "Discuss reasons for regional inequalities.",
+    "question_ta": "பிராந்திய சமநிலையின்மையின் காரணங்களை விவாதிக்கவும்.",
+    "options_en": [
+      "Only culture causes it",
+      "Weather only",
+      "Unequal resources and development",
+      "Same everywhere"
+    ],
+    "options_ta": [
+      "மட்டும் கலாச்சாரம் காரணம்",
+      "வானிலை மட்டுமே",
+      "சமநிலை இல்லாத வளங்கள் மற்றும் வளர்ச்சி",
+      "எங்கும் ஒரே மாதிரி"
+    ],
+    "answer_en": "Unequal resources and development",
+    "answer_ta": "சமநிலை இல்லாத வளங்கள் மற்றும் வளர்ச்சி"
+  },
+  {
+    "question_en": "What are monsoons and why are they important for India?",
+    "question_ta": "மான் சோனுகள் என்ன மற்றும் இந்தியக்காக அவை ஏன் முக்கியம்?",
+    "options_en": [
+      "Tropical storms",
+      "Deserts",
+      "Seasonal winds bringing rain",
+      "Cold winds"
+    ],
+    "options_ta": [
+      "வானிலை புயல்கள்",
+      "மணற் பகுதிகள்",
+      "மழை கொண்டுவரும் பருவ காற்றுகள்",
+      "குளிர் காற்றுகள்"
+    ],
+    "answer_en": "Seasonal winds bringing rain",
+    "answer_ta": "மழை கொண்டுவரும் பருவ காற்றுகள்"
+  },
+  {
+    "question_en": "What are monsoons and why are they important for India?",
+    "question_ta": "மான் சோனுகள் என்ன மற்றும் இந்தியக்காக அவை ஏன் முக்கியம்?",
+    "options_en": [
+      "Tropical storms",
+      "Seasonal winds bringing rain",
+      "Deserts",
+      "Cold winds"
+    ],
+    "options_ta": [
+      "வானிலை புயல்கள்",
+      "மழை கொண்டுவரும் பருவ காற்றுகள்",
+      "மணற் பகுதிகள்",
+      "குளிர் காற்றுகள்"
+    ],
+    "answer_en": "Seasonal winds bringing rain",
+    "answer_ta": "மழை கொண்டுவரும் பருவ காற்றுகள்"
+  },
+  {
+    "question_en": "How do rivers help in the development of civilizations?",
+    "question_ta": "நதிகள் நாகரிக வளர்ச்சியில் எவ்வாறு உதவுகின்றன?",
+    "options_en": [
+      "Only for religion",
+      "No role",
+      "Only for bathing",
+      "Provide water, transport, fertile soil"
+    ],
+    "options_ta": [
+      "மதத்திற்கே மட்டும்",
+      "பங்கு இல்லை",
+      "வெறும் குளிர்ச்சிக்கு மட்டுமே",
+      "தண்ணீர், போக்குவரத்து, உருக்கமான மண் வழங்குகின்றன"
+    ],
+    "answer_en": "Provide water, transport, fertile soil",
+    "answer_ta": "தண்ணீர், போக்குவரத்து, உருக்கமான மண்"
+  },
+  {
+    "question_en": "Discuss reasons for regional inequalities.",
+    "question_ta": "பிராந்திய சமநிலையின்மையின் காரணங்களை விவாதிக்கவும்.",
+    "options_en": [
+      "Same everywhere",
+      "Unequal resources and development",
+      "Only culture causes it",
+      "Weather only"
+    ],
+    "options_ta": [
+      "எங்கும் ஒரே மாதிரி",
+      "சமநிலை இல்லாத வளங்கள் மற்றும் வளர்ச்சி",
+      "மட்டும் கலாச்சாரம் காரணம்",
+      "வானிலை மட்டுமே"
+    ],
+    "answer_en": "Unequal resources and development",
+    "answer_ta": "சமநிலை இல்லாத வளங்கள் மற்றும் வளர்ச்சி"
+  },
+  {
+    "question_en": "How do rivers help in the development of civilizations?",
+    "question_ta": "நதிகள் நாகரிக வளர்ச்சியில் எவ்வாறு உதவுகின்றன?",
+    "options_en": [
+      "Only for religion",
+      "Provide water, transport, fertile soil",
+      "No role",
+      "Only for bathing"
+    ],
+    "options_ta": [
+      "மதத்திற்கே மட்டும்",
+      "தண்ணீர், போக்குவரத்து, உருக்கமான மண் வழங்குகின்றன",
+      "பங்கு இல்லை",
+      "வெறும் குளிர்ச்சிக்கு மட்டுமே"
+    ],
+    "answer_en": "Provide water, transport, fertile soil",
+    "answer_ta": "தண்ணீர், போக்குவரத்து, உருக்கமான மண்"
+  },
+  {
+    "question_en": "What are monsoons and why are they important for India?",
+    "question_ta": "மான் சோனுகள் என்ன மற்றும் இந்தியக்காக அவை ஏன் முக்கியம்?",
+    "options_en": [
+      "Cold winds",
+      "Tropical storms",
+      "Deserts",
+      "Seasonal winds bringing rain"
+    ],
+    "options_ta": [
+      "குளிர் காற்றுகள்",
+      "வானிலை புயல்கள்",
+      "மணற் பகுதிகள்",
+      "மழை கொண்டுவரும் பருவ காற்றுகள்"
+    ],
+    "answer_en": "Seasonal winds bringing rain",
+    "answer_ta": "மழை கொண்டுவரும் பருவ காற்றுகள்"
+  },
+  {
+    "question_en": "What are monsoons and why are they important for India?",
+    "question_ta": "மான் சோனுகள் என்ன மற்றும் இந்தியக்காக அவை ஏன் முக்கியம்?",
+    "options_en": [
+      "Tropical storms",
+      "Deserts",
+      "Cold winds",
+      "Seasonal winds bringing rain"
+    ],
+    "options_ta": [
+      "வானிலை புயல்கள்",
+      "மணற் பகுதிகள்",
+      "குளிர் காற்றுகள்",
+      "மழை கொண்டுவரும் பருவ காற்றுகள்"
+    ],
+    "answer_en": "Seasonal winds bringing rain",
+    "answer_ta": "மழை கொண்டுவரும் பருவ காற்றுகள்"
+  },
+  {
+    "question_en": "What are monsoons and why are they important for India?",
+    "question_ta": "மான் சோனுகள் என்ன மற்றும் இந்தியக்காக அவை ஏன் முக்கியம்?",
+    "options_en": [
+      "Cold winds",
+      "Tropical storms",
+      "Deserts",
+      "Seasonal winds bringing rain"
+    ],
+    "options_ta": [
+      "குளிர் காற்றுகள்",
+      "வானிலை புயல்கள்",
+      "மணற் பகுதிகள்",
+      "மழை கொண்டுவரும் பருவ காற்றுகள்"
+    ],
+    "answer_en": "Seasonal winds bringing rain",
+    "answer_ta": "மழை கொண்டுவரும் பருவ காற்றுகள்"
+  },
+  {
+    "question_en": "Discuss reasons for regional inequalities.",
+    "question_ta": "பிராந்திய சமநிலையின்மையின் காரணங்களை விவாதிக்கவும்.",
+    "options_en": [
+      "Only culture causes it",
+      "Unequal resources and development",
+      "Weather only",
+      "Same everywhere"
+    ],
+    "options_ta": [
+      "மட்டும் கலாச்சாரம் காரணம்",
+      "சமநிலை இல்லாத வளங்கள் மற்றும் வளர்ச்சி",
+      "வானிலை மட்டுமே",
+      "எங்கும் ஒரே மாதிரி"
+    ],
+    "answer_en": "Unequal resources and development",
+    "answer_ta": "சமநிலை இல்லாத வளங்கள் மற்றும் வளர்ச்சி"
+  },
+  {
+    "question_en": "What are monsoons and why are they important for India?",
+    "question_ta": "மான் சோனுகள் என்ன மற்றும் இந்தியக்காக அவை ஏன் முக்கியம்?",
+    "options_en": [
+      "Seasonal winds bringing rain",
+      "Tropical storms",
+      "Cold winds",
+      "Deserts"
+    ],
+    "options_ta": [
+      "மழை கொண்டுவரும் பருவ காற்றுகள்",
+      "வானிலை புயல்கள்",
+      "குளிர் காற்றுகள்",
+      "மணற் பகுதிகள்"
+    ],
+    "answer_en": "Seasonal winds bringing rain",
+    "answer_ta": "மழை கொண்டுவரும் பருவ காற்றுகள்"
+  },
+  {
+    "question_en": "How do rivers help in the development of civilizations?",
+    "question_ta": "நதிகள் நாகரிக வளர்ச்சியில் எவ்வாறு உதவுகின்றன?",
+    "options_en": [
+      "Only for religion",
+      "Provide water, transport, fertile soil",
+      "Only for bathing",
+      "No role"
+    ],
+    "options_ta": [
+      "மதத்திற்கே மட்டும்",
+      "தண்ணீர், போக்குவரத்து, உருக்கமான மண் வழங்குகின்றன",
+      "வெறும் குளிர்ச்சிக்கு மட்டுமே",
+      "பங்கு இல்லை"
+    ],
+    "answer_en": "Provide water, transport, fertile soil",
+    "answer_ta": "தண்ணீர், போக்குவரத்து, உருக்கமான மண்"
+  },
+  {
+    "question_en": "Discuss reasons for regional inequalities.",
+    "question_ta": "பிராந்திய சமநிலையின்மையின் காரணங்களை விவாதிக்கவும்.",
+    "options_en": [
+      "Only culture causes it",
+      "Unequal resources and development",
+      "Weather only",
+      "Same everywhere"
+    ],
+    "options_ta": [
+      "மட்டும் கலாச்சாரம் காரணம்",
+      "சமநிலை இல்லாத வளங்கள் மற்றும் வளர்ச்சி",
+      "வானிலை மட்டுமே",
+      "எங்கும் ஒரே மாதிரி"
+    ],
+    "answer_en": "Unequal resources and development",
+    "answer_ta": "சமநிலை இல்லாத வளங்கள் மற்றும் வளர்ச்சி"
+  },
+  {
+    "question_en": "How do rivers help in the development of civilizations?",
+    "question_ta": "நதிகள் நாகரிக வளர்ச்சியில் எவ்வாறு உதவுகின்றன?",
+    "options_en": [
+      "Only for bathing",
+      "Only for religion",
+      "No role",
+      "Provide water, transport, fertile soil"
+    ],
+    "options_ta": [
+      "வெறும் குளிர்ச்சிக்கு மட்டுமே",
+      "மதத்திற்கே மட்டும்",
+      "பங்கு இல்லை",
+      "தண்ணீர், போக்குவரத்து, உருக்கமான மண் வழங்குகின்றன"
+    ],
+    "answer_en": "Provide water, transport, fertile soil",
+    "answer_ta": "தண்ணீர், போக்குவரத்து, உருக்கமான மண்"
+  },
+  {
+    "question_en": "What are monsoons and why are they important for India?",
+    "question_ta": "மான் சோனுகள் என்ன மற்றும் இந்தியக்காக அவை ஏன் முக்கியம்?",
+    "options_en": [
+      "Deserts",
+      "Cold winds",
+      "Seasonal winds bringing rain",
+      "Tropical storms"
+    ],
+    "options_ta": [
+      "மணற் பகுதிகள்",
+      "குளிர் காற்றுகள்",
+      "மழை கொண்டுவரும் பருவ காற்றுகள்",
+      "வானிலை புயல்கள்"
+    ],
+    "answer_en": "Seasonal winds bringing rain",
+    "answer_ta": "மழை கொண்டுவரும் பருவ காற்றுகள்"
+  },
+  {
+    "question_en": "Discuss reasons for regional inequalities.",
+    "question_ta": "பிராந்திய சமநிலையின்மையின் காரணங்களை விவாதிக்கவும்.",
+    "options_en": [
+      "Unequal resources and development",
+      "Only culture causes it",
+      "Same everywhere",
+      "Weather only"
+    ],
+    "options_ta": [
+      "சமநிலை இல்லாத வளங்கள் மற்றும் வளர்ச்சி",
+      "மட்டும் கலாச்சாரம் காரணம்",
+      "எங்கும் ஒரே மாதிரி",
+      "வானிலை மட்டுமே"
+    ],
+    "answer_en": "Unequal resources and development",
+    "answer_ta": "சமநிலை இல்லாத வளங்கள் மற்றும் வளர்ச்சி"
+  },
+  {
+    "question_en": "What are monsoons and why are they important for India?",
+    "question_ta": "மான் சோனுகள் என்ன மற்றும் இந்தியக்காக அவை ஏன் முக்கியம்?",
+    "options_en": [
+      "Deserts",
+      "Tropical storms",
+      "Cold winds",
+      "Seasonal winds bringing rain"
+    ],
+    "options_ta": [
+      "மணற் பகுதிகள்",
+      "வானிலை புயல்கள்",
+      "குளிர் காற்றுகள்",
+      "மழை கொண்டுவரும் பருவ காற்றுகள்"
+    ],
+    "answer_en": "Seasonal winds bringing rain",
+    "answer_ta": "மழை கொண்டுவரும் பருவ காற்றுகள்"
+  },
+  {
+    "question_en": "How do rivers help in the development of civilizations?",
+    "question_ta": "நதிகள் நாகரிக வளர்ச்சியில் எவ்வாறு உதவுகின்றன?",
+    "options_en": [
+      "Only for religion",
+      "No role",
+      "Provide water, transport, fertile soil",
+      "Only for bathing"
+    ],
+    "options_ta": [
+      "மதத்திற்கே மட்டும்",
+      "பங்கு இல்லை",
+      "தண்ணீர், போக்குவரத்து, உருக்கமான மண் வழங்குகின்றன",
+      "வெறும் குளிர்ச்சிக்கு மட்டுமே"
+    ],
+    "answer_en": "Provide water, transport, fertile soil",
+    "answer_ta": "தண்ணீர், போக்குவரத்து, உருக்கமான மண்"
+  },
+  {
+    "question_en": "What are monsoons and why are they important for India?",
+    "question_ta": "மான் சோனுகள் என்ன மற்றும் இந்தியக்காக அவை ஏன் முக்கியம்?",
+    "options_en": [
+      "Cold winds",
+      "Tropical storms",
+      "Seasonal winds bringing rain",
+      "Deserts"
+    ],
+    "options_ta": [
+      "குளிர் காற்றுகள்",
+      "வானிலை புயல்கள்",
+      "மழை கொண்டுவரும் பருவ காற்றுகள்",
+      "மணற் பகுதிகள்"
+    ],
+    "answer_en": "Seasonal winds bringing rain",
+    "answer_ta": "மழை கொண்டுவரும் பருவ காற்றுகள்"
+  },
+  {
+    "question_en": "How do rivers help in the development of civilizations?",
+    "question_ta": "நதிகள் நாகரிக வளர்ச்சியில் எவ்வாறு உதவுகின்றன?",
+    "options_en": [
+      "Only for religion",
+      "Only for bathing",
+      "Provide water, transport, fertile soil",
+      "No role"
+    ],
+    "options_ta": [
+      "மதத்திற்கே மட்டும்",
+      "வெறும் குளிர்ச்சிக்கு மட்டுமே",
+      "தண்ணீர், போக்குவரத்து, உருக்கமான மண் வழங்குகின்றன",
+      "பங்கு இல்லை"
+    ],
+    "answer_en": "Provide water, transport, fertile soil",
+    "answer_ta": "தண்ணீர், போக்குவரத்து, உருக்கமான மண்"
+  },
+  {
+    "question_en": "How do rivers help in the development of civilizations?",
+    "question_ta": "நதிகள் நாகரிக வளர்ச்சியில் எவ்வாறு உதவுகின்றன?",
+    "options_en": [
+      "Only for religion",
+      "Only for bathing",
+      "Provide water, transport, fertile soil",
+      "No role"
+    ],
+    "options_ta": [
+      "மதத்திற்கே மட்டும்",
+      "வெறும் குளிர்ச்சிக்கு மட்டுமே",
+      "தண்ணீர், போக்குவரத்து, உருக்கமான மண் வழங்குகின்றன",
+      "பங்கு இல்லை"
+    ],
+    "answer_en": "Provide water, transport, fertile soil",
+    "answer_ta": "தண்ணீர், போக்குவரத்து, உருக்கமான மண்"
+  },
+  {
+    "question_en": "What are monsoons and why are they important for India?",
+    "question_ta": "மான் சோனுகள் என்ன மற்றும் இந்தியக்காக அவை ஏன் முக்கியம்?",
+    "options_en": [
+      "Cold winds",
+      "Tropical storms",
+      "Deserts",
+      "Seasonal winds bringing rain"
+    ],
+    "options_ta": [
+      "குளிர் காற்றுகள்",
+      "வானிலை புயல்கள்",
+      "மணற் பகுதிகள்",
+      "மழை கொண்டுவரும் பருவ காற்றுகள்"
+    ],
+    "answer_en": "Seasonal winds bringing rain",
+    "answer_ta": "மழை கொண்டுவரும் பருவ காற்றுகள்"
+  },
+  {
+    "question_en": "Discuss reasons for regional inequalities.",
+    "question_ta": "பிராந்திய சமநிலையின்மையின் காரணங்களை விவாதிக்கவும்.",
+    "options_en": [
+      "Unequal resources and development",
+      "Weather only",
+      "Same everywhere",
+      "Only culture causes it"
+    ],
+    "options_ta": [
+      "சமநிலை இல்லாத வளங்கள் மற்றும் வளர்ச்சி",
+      "வானிலை மட்டுமே",
+      "எங்கும் ஒரே மாதிரி",
+      "மட்டும் கலாச்சாரம் காரணம்"
+    ],
+    "answer_en": "Unequal resources and development",
+    "answer_ta": "சமநிலை இல்லாத வளங்கள் மற்றும் வளர்ச்சி"
+  },
+  {
+    "question_en": "What are monsoons and why are they important for India?",
+    "question_ta": "மான் சோனுகள் என்ன மற்றும் இந்தியக்காக அவை ஏன் முக்கியம்?",
+    "options_en": [
+      "Cold winds",
+      "Seasonal winds bringing rain",
+      "Deserts",
+      "Tropical storms"
+    ],
+    "options_ta": [
+      "குளிர் காற்றுகள்",
+      "மழை கொண்டுவரும் பருவ காற்றுகள்",
+      "மணற் பகுதிகள்",
+      "வானிலை புயல்கள்"
+    ],
+    "answer_en": "Seasonal winds bringing rain",
+    "answer_ta": "மழை கொண்டுவரும் பருவ காற்றுகள்"
+  },
+  {
+    "question_en": "What are monsoons and why are they important for India?",
+    "question_ta": "மான் சோனுகள் என்ன மற்றும் இந்தியக்காக அவை ஏன் முக்கியம்?",
+    "options_en": [
+      "Tropical storms",
+      "Cold winds",
+      "Deserts",
+      "Seasonal winds bringing rain"
+    ],
+    "options_ta": [
+      "வானிலை புயல்கள்",
+      "குளிர் காற்றுகள்",
+      "மணற் பகுதிகள்",
+      "மழை கொண்டுவரும் பருவ காற்றுகள்"
+    ],
+    "answer_en": "Seasonal winds bringing rain",
+    "answer_ta": "மழை கொண்டுவரும் பருவ காற்றுகள்"
+  },
+  {
+    "question_en": "How do rivers help in the development of civilizations?",
+    "question_ta": "நதிகள் நாகரிக வளர்ச்சியில் எவ்வாறு உதவுகின்றன?",
+    "options_en": [
+      "Provide water, transport, fertile soil",
+      "Only for bathing",
+      "No role",
+      "Only for religion"
+    ],
+    "options_ta": [
+      "தண்ணீர், போக்குவரத்து, உருக்கமான மண் வழங்குகின்றன",
+      "வெறும் குளிர்ச்சிக்கு மட்டுமே",
+      "பங்கு இல்லை",
+      "மதத்திற்கே மட்டும்"
+    ],
+    "answer_en": "Provide water, transport, fertile soil",
+    "answer_ta": "தண்ணீர், போக்குவரத்து, உருக்கமான மண்"
+  },
+  {
+    "question_en": "Discuss reasons for regional inequalities.",
+    "question_ta": "பிராந்திய சமநிலையின்மையின் காரணங்களை விவாதிக்கவும்.",
+    "options_en": [
+      "Only culture causes it",
+      "Same everywhere",
+      "Unequal resources and development",
+      "Weather only"
+    ],
+    "options_ta": [
+      "மட்டும் கலாச்சாரம் காரணம்",
+      "எங்கும் ஒரே மாதிரி",
+      "சமநிலை இல்லாத வளங்கள் மற்றும் வளர்ச்சி",
+      "வானிலை மட்டுமே"
+    ],
+    "answer_en": "Unequal resources and development",
+    "answer_ta": "சமநிலை இல்லாத வளங்கள் மற்றும் வளர்ச்சி"
+  },
+  {
+    "question_en": "What are monsoons and why are they important for India?",
+    "question_ta": "மான் சோனுகள் என்ன மற்றும் இந்தியக்காக அவை ஏன் முக்கியம்?",
+    "options_en": [
+      "Deserts",
+      "Tropical storms",
+      "Seasonal winds bringing rain",
+      "Cold winds"
+    ],
+    "options_ta": [
+      "மணற் பகுதிகள்",
+      "வானிலை புயல்கள்",
+      "மழை கொண்டுவரும் பருவ காற்றுகள்",
+      "குளிர் காற்றுகள்"
+    ],
+    "answer_en": "Seasonal winds bringing rain",
+    "answer_ta": "மழை கொண்டுவரும் பருவ காற்றுகள்"
+  },
+  {
+    "question_en": "How do rivers help in the development of civilizations?",
+    "question_ta": "நதிகள் நாகரிக வளர்ச்சியில் எவ்வாறு உதவுகின்றன?",
+    "options_en": [
+      "Only for bathing",
+      "No role",
+      "Only for religion",
+      "Provide water, transport, fertile soil"
+    ],
+    "options_ta": [
+      "வெறும் குளிர்ச்சிக்கு மட்டுமே",
+      "பங்கு இல்லை",
+      "மதத்திற்கே மட்டும்",
+      "தண்ணீர், போக்குவரத்து, உருக்கமான மண் வழங்குகின்றன"
+    ],
+    "answer_en": "Provide water, transport, fertile soil",
+    "answer_ta": "தண்ணீர், போக்குவரத்து, உருக்கமான மண்"
+  },
+  {
+    "question_en": "Discuss reasons for regional inequalities.",
+    "question_ta": "பிராந்திய சமநிலையின்மையின் காரணங்களை விவாதிக்கவும்.",
+    "options_en": [
+      "Only culture causes it",
+      "Same everywhere",
+      "Unequal resources and development",
+      "Weather only"
+    ],
+    "options_ta": [
+      "மட்டும் கலாச்சாரம் காரணம்",
+      "எங்கும் ஒரே மாதிரி",
+      "சமநிலை இல்லாத வளங்கள் மற்றும் வளர்ச்சி",
+      "வானிலை மட்டுமே"
+    ],
+    "answer_en": "Unequal resources and development",
+    "answer_ta": "சமநிலை இல்லாத வளங்கள் மற்றும் வளர்ச்சி"
+  },
+  {
+    "question_en": "How do rivers help in the development of civilizations?",
+    "question_ta": "நதிகள் நாகரிக வளர்ச்சியில் எவ்வாறு உதவுகின்றன?",
+    "options_en": [
+      "No role",
+      "Only for religion",
+      "Provide water, transport, fertile soil",
+      "Only for bathing"
+    ],
+    "options_ta": [
+      "பங்கு இல்லை",
+      "மதத்திற்கே மட்டும்",
+      "தண்ணீர், போக்குவரத்து, உருக்கமான மண் வழங்குகின்றன",
+      "வெறும் குளிர்ச்சிக்கு மட்டுமே"
+    ],
+    "answer_en": "Provide water, transport, fertile soil",
+    "answer_ta": "தண்ணீர், போக்குவரத்து, உருக்கமான மண்"
+  }
+]

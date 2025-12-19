@@ -1,0 +1,902 @@
+[
+  {
+    "question_en": "What is the capital city of India?",
+    "question_ta": "இந்தியாவின் தலைநகரம் எது?",
+    "options_en": [
+      "Mumbai",
+      "Chennai",
+      "New Delhi",
+      "Kolkata"
+    ],
+    "options_ta": [
+      "மும்பை",
+      "சென்னை",
+      "புது தில்லி",
+      "கோல்கத்தா"
+    ],
+    "answer_en": "New Delhi",
+    "answer_ta": "புது தில்லி"
+  },
+  {
+    "question_en": "Which is the largest continent?",
+    "question_ta": "எது மிகப்பெரிய கண்டம்?",
+    "options_en": [
+      "Australia",
+      "Africa",
+      "Asia",
+      "Europe"
+    ],
+    "options_ta": [
+      "ஆஸ்திரேலியா",
+      "ஆப்பிரிக்கா",
+      "ஆசியா",
+      "யூரோப்"
+    ],
+    "answer_en": "Asia",
+    "answer_ta": "ஆசியா"
+  },
+  {
+    "question_en": "What do we call a person who studies history?",
+    "question_ta": "வரலாற்றை படிப்பவரை என்ன அழைப்போம்?",
+    "options_en": [
+      "Historian",
+      "Biologist",
+      "Economist",
+      "Geographer"
+    ],
+    "options_ta": [
+      "வரலாற்ச்செயற்பவர்",
+      "நுண்ணுயிரியல் அறிஞர்",
+      "பொருளியல் நிபுணர்",
+      "புவியியல்வோர்"
+    ],
+    "answer_en": "Historian",
+    "answer_ta": "வரலாற்ச்செயற்பவர்"
+  },
+  {
+    "question_en": "Which instrument is used to measure temperature?",
+    "question_ta": "வெப்பநிலையை அளக்க எது பயன்படும்?",
+    "options_en": [
+      "Compass",
+      "Ruler",
+      "Thermometer",
+      "Barometer"
+    ],
+    "options_ta": [
+      "திசைகாட்டி",
+      "அளவுக் கட்டு",
+      "வெப்பமானி",
+      "மரபணுமணி"
+    ],
+    "answer_en": "Thermometer",
+    "answer_ta": "வெப்பமானி"
+  },
+  {
+    "question_en": "Which river is the longest in India?",
+    "question_ta": "இந்தியாவில் நீளமான நதி எது?",
+    "options_en": [
+      "Ganga",
+      "Brahmaputra",
+      "Godavari",
+      "Narmada"
+    ],
+    "options_ta": [
+      "கங்கா",
+      "பிரஹ்மபுத்திரா",
+      "கோதாவரி",
+      "நர்மதா"
+    ],
+    "answer_en": "Ganga",
+    "answer_ta": "கங்கா"
+  },
+  {
+    "question_en": "Which ocean is on the east coast of India?",
+    "question_ta": "இந்தியாவின் கிழக்கு கடற்கரை அருகில் எந்த பெருங்கடல் உள்ளது?",
+    "options_en": [
+      "Arabian Sea",
+      "Pacific Ocean",
+      "Bay of Bengal",
+      "Indian Ocean"
+    ],
+    "options_ta": [
+      "அரபுக் கடல்",
+      "பசிபிக் கடல்",
+      "பெங்கால் வளைகுடா",
+      "இந்தியக் கடல்"
+    ],
+    "answer_en": "Bay of Bengal",
+    "answer_ta": "பெங்கால் வளைகுடா"
+  },
+  {
+    "question_en": "What is the study of planets called?",
+    "question_ta": "கோள்களைப் பற்றி படிப்பதை என்ன라고 அழைப்போம்?",
+    "options_en": [
+      "Economy",
+      "History",
+      "Astronomy",
+      "Geography"
+    ],
+    "options_ta": [
+      "பொருளியல்",
+      "வரலாறு",
+      "வானியக்கம்",
+      "புவியியல்"
+    ],
+    "answer_en": "Astronomy",
+    "answer_ta": "வானியக்கம்"
+  },
+  {
+    "question_en": "Which soil type is good for growing rice?",
+    "question_ta": "அரிசி வளர்க்க எந்த மண்ணுதகவு நல்லது?",
+    "options_en": [
+      "Sandy soil",
+      "Alluvial soil",
+      "Red soil",
+      "Laterite soil"
+    ],
+    "options_ta": [
+      "மண்மண்",
+      "மலிவு மண்",
+      "சிவப்பு மண்",
+      "லேட்டரைட் மண்"
+    ],
+    "answer_en": "Alluvial soil",
+    "answer_ta": "மலிவு மண்"
+  },
+  {
+    "question_en": "What is the study of planets called?",
+    "question_ta": "கோள்களைப் பற்றி படிப்பதை என்ன라고 அழைப்போம்?",
+    "options_en": [
+      "Geography",
+      "Astronomy",
+      "Economy",
+      "History"
+    ],
+    "options_ta": [
+      "புவியியல்",
+      "வானியக்கம்",
+      "பொருளியல்",
+      "வரலாறு"
+    ],
+    "answer_en": "Astronomy",
+    "answer_ta": "வானியக்கம்"
+  },
+  {
+    "question_en": "Which soil type is good for growing rice?",
+    "question_ta": "அரிசி வளர்க்க எந்த மண்ணுதகவு நல்லது?",
+    "options_en": [
+      "Laterite soil",
+      "Red soil",
+      "Alluvial soil",
+      "Sandy soil"
+    ],
+    "options_ta": [
+      "லேட்டரைட் மண்",
+      "சிவப்பு மண்",
+      "மலிவு மண்",
+      "மண்மண்"
+    ],
+    "answer_en": "Alluvial soil",
+    "answer_ta": "மலிவு மண்"
+  },
+  {
+    "question_en": "Which soil type is good for growing rice?",
+    "question_ta": "அரிசி வளர்க்க எந்த மண்ணுதகவு நல்லது?",
+    "options_en": [
+      "Red soil",
+      "Laterite soil",
+      "Sandy soil",
+      "Alluvial soil"
+    ],
+    "options_ta": [
+      "சிவப்பு மண்",
+      "லேட்டரைட் மண்",
+      "மண்மண்",
+      "மலிவு மண்"
+    ],
+    "answer_en": "Alluvial soil",
+    "answer_ta": "மலிவு மண்"
+  },
+  {
+    "question_en": "Which ocean is on the east coast of India?",
+    "question_ta": "இந்தியாவின் கிழக்கு கடற்கரை அருகில் எந்த பெருங்கடல் உள்ளது?",
+    "options_en": [
+      "Pacific Ocean",
+      "Arabian Sea",
+      "Indian Ocean",
+      "Bay of Bengal"
+    ],
+    "options_ta": [
+      "பசிபிக் கடல்",
+      "அரபுக் கடல்",
+      "இந்தியக் கடல்",
+      "பெங்கால் வளைகுடா"
+    ],
+    "answer_en": "Bay of Bengal",
+    "answer_ta": "பெங்கால் வளைகுடா"
+  },
+  {
+    "question_en": "What do we call the place where laws are made in India?",
+    "question_ta": "இந்தியா சட்டங்கள் உருவாகும் இடம் என்ன?",
+    "options_en": [
+      "President House",
+      "State Secretariat",
+      "Parliament",
+      "Court"
+    ],
+    "options_ta": [
+      "ராச்சிய மாளிகை",
+      "மாநில செயலாளர்",
+      "பார்லிமென்ட்",
+      "நீதிமன்றம்"
+    ],
+    "answer_en": "Parliament",
+    "answer_ta": "பார்லிமென்ட்"
+  },
+  {
+    "question_en": "Which ocean is on the east coast of India?",
+    "question_ta": "இந்தியாவின் கிழக்கு கடற்கரை அருகில் எந்த பெருங்கடல் உள்ளது?",
+    "options_en": [
+      "Bay of Bengal",
+      "Pacific Ocean",
+      "Indian Ocean",
+      "Arabian Sea"
+    ],
+    "options_ta": [
+      "பெங்கால் வளைகுடா",
+      "பசிபிக் கடல்",
+      "இந்தியக் கடல்",
+      "அரபுக் கடல்"
+    ],
+    "answer_en": "Bay of Bengal",
+    "answer_ta": "பெங்கால் வளைகுடா"
+  },
+  {
+    "question_en": "What do we call the place where laws are made in India?",
+    "question_ta": "இந்தியா சட்டங்கள் உருவாகும் இடம் என்ன?",
+    "options_en": [
+      "Court",
+      "Parliament",
+      "President House",
+      "State Secretariat"
+    ],
+    "options_ta": [
+      "நீதிமன்றம்",
+      "பார்லிமென்ட்",
+      "ராச்சிய மாளிகை",
+      "மாநில செயலாளர்"
+    ],
+    "answer_en": "Parliament",
+    "answer_ta": "பார்லிமென்ட்"
+  },
+  {
+    "question_en": "What do we call the place where laws are made in India?",
+    "question_ta": "இந்தியா சட்டங்கள் உருவாகும் இடம் என்ன?",
+    "options_en": [
+      "President House",
+      "State Secretariat",
+      "Court",
+      "Parliament"
+    ],
+    "options_ta": [
+      "ராச்சிய மாளிகை",
+      "மாநில செயலாளர்",
+      "நீதிமன்றம்",
+      "பார்லிமென்ட்"
+    ],
+    "answer_en": "Parliament",
+    "answer_ta": "பார்லிமென்ட்"
+  },
+  {
+    "question_en": "Which ocean is on the east coast of India?",
+    "question_ta": "இந்தியாவின் கிழக்கு கடற்கரை அருகில் எந்த பெருங்கடல் உள்ளது?",
+    "options_en": [
+      "Pacific Ocean",
+      "Arabian Sea",
+      "Bay of Bengal",
+      "Indian Ocean"
+    ],
+    "options_ta": [
+      "பசிபிக் கடல்",
+      "அரபுக் கடல்",
+      "பெங்கால் வளைகுடா",
+      "இந்தியக் கடல்"
+    ],
+    "answer_en": "Bay of Bengal",
+    "answer_ta": "பெங்கால் வளைகுடா"
+  },
+  {
+    "question_en": "What is the study of planets called?",
+    "question_ta": "கோள்களைப் பற்றி படிப்பதை என்ன라고 அழைப்போம்?",
+    "options_en": [
+      "Economy",
+      "History",
+      "Astronomy",
+      "Geography"
+    ],
+    "options_ta": [
+      "பொருளியல்",
+      "வரலாறு",
+      "வானியக்கம்",
+      "புவியியல்"
+    ],
+    "answer_en": "Astronomy",
+    "answer_ta": "வானியக்கம்"
+  },
+  {
+    "question_en": "What do we call the place where laws are made in India?",
+    "question_ta": "இந்தியா சட்டங்கள் உருவாகும் இடம் என்ன?",
+    "options_en": [
+      "Court",
+      "Parliament",
+      "State Secretariat",
+      "President House"
+    ],
+    "options_ta": [
+      "நீதிமன்றம்",
+      "பார்லிமென்ட்",
+      "மாநில செயலாளர்",
+      "ராச்சிய மாளிகை"
+    ],
+    "answer_en": "Parliament",
+    "answer_ta": "பார்லிமென்ட்"
+  },
+  {
+    "question_en": "What is the study of planets called?",
+    "question_ta": "கோள்களைப் பற்றி படிப்பதை என்ன라고 அழைப்போம்?",
+    "options_en": [
+      "Economy",
+      "Geography",
+      "Astronomy",
+      "History"
+    ],
+    "options_ta": [
+      "பொருளியல்",
+      "புவியியல்",
+      "வானியக்கம்",
+      "வரலாறு"
+    ],
+    "answer_en": "Astronomy",
+    "answer_ta": "வானியக்கம்"
+  },
+  {
+    "question_en": "Which soil type is good for growing rice?",
+    "question_ta": "அரிசி வளர்க்க எந்த மண்ணுதகவு நல்லது?",
+    "options_en": [
+      "Alluvial soil",
+      "Sandy soil",
+      "Laterite soil",
+      "Red soil"
+    ],
+    "options_ta": [
+      "மலிவு மண்",
+      "மண்மண்",
+      "லேட்டரைட் மண்",
+      "சிவப்பு மண்"
+    ],
+    "answer_en": "Alluvial soil",
+    "answer_ta": "மலிவு மண்"
+  },
+  {
+    "question_en": "Which ocean is on the east coast of India?",
+    "question_ta": "இந்தியாவின் கிழக்கு கடற்கரை அருகில் எந்த பெருங்கடல் உள்ளது?",
+    "options_en": [
+      "Arabian Sea",
+      "Indian Ocean",
+      "Pacific Ocean",
+      "Bay of Bengal"
+    ],
+    "options_ta": [
+      "அரபுக் கடல்",
+      "இந்தியக் கடல்",
+      "பசிபிக் கடல்",
+      "பெங்கால் வளைகுடா"
+    ],
+    "answer_en": "Bay of Bengal",
+    "answer_ta": "பெங்கால் வளைகுடா"
+  },
+  {
+    "question_en": "What is the study of planets called?",
+    "question_ta": "கோள்களைப் பற்றி படிப்பதை என்ன라고 அழைப்போம்?",
+    "options_en": [
+      "Economy",
+      "Geography",
+      "Astronomy",
+      "History"
+    ],
+    "options_ta": [
+      "பொருளியல்",
+      "புவியியல்",
+      "வானியக்கம்",
+      "வரலாறு"
+    ],
+    "answer_en": "Astronomy",
+    "answer_ta": "வானியக்கம்"
+  },
+  {
+    "question_en": "Which ocean is on the east coast of India?",
+    "question_ta": "இந்தியாவின் கிழக்கு கடற்கரை அருகில் எந்த பெருங்கடல் உள்ளது?",
+    "options_en": [
+      "Indian Ocean",
+      "Arabian Sea",
+      "Bay of Bengal",
+      "Pacific Ocean"
+    ],
+    "options_ta": [
+      "இந்தியக் கடல்",
+      "அரபுக் கடல்",
+      "பெங்கால் வளைகுடா",
+      "பசிபிக் கடல்"
+    ],
+    "answer_en": "Bay of Bengal",
+    "answer_ta": "பெங்கால் வளைகுடா"
+  },
+  {
+    "question_en": "Who was the first Prime Minister of India?",
+    "question_ta": "இந்தியாவின் முதல் பிரதமர் யார்?",
+    "options_en": [
+      "Patel",
+      "Jawaharlal Nehru",
+      "Subhash Bose",
+      "Gandhi"
+    ],
+    "options_ta": [
+      "படேல்",
+      "ஜவஹர்லால் நேहरु",
+      "சுபாஷ் போஸ்",
+      "காந்தி"
+    ],
+    "answer_en": "Jawaharlal Nehru",
+    "answer_ta": "ஜவஹர்லால் நேहरु"
+  },
+  {
+    "question_en": "Which ocean is on the east coast of India?",
+    "question_ta": "இந்தியாவின் கிழக்கு கடற்கரை அருகில் எந்த பெருங்கடல் உள்ளது?",
+    "options_en": [
+      "Indian Ocean",
+      "Bay of Bengal",
+      "Pacific Ocean",
+      "Arabian Sea"
+    ],
+    "options_ta": [
+      "இந்தியக் கடல்",
+      "பெங்கால் வளைகுடா",
+      "பசிபிக் கடல்",
+      "அரபுக் கடல்"
+    ],
+    "answer_en": "Bay of Bengal",
+    "answer_ta": "பெங்கால் வளைகுடா"
+  },
+  {
+    "question_en": "What do we call the place where laws are made in India?",
+    "question_ta": "இந்தியா சட்டங்கள் உருவாகும் இடம் என்ன?",
+    "options_en": [
+      "State Secretariat",
+      "President House",
+      "Court",
+      "Parliament"
+    ],
+    "options_ta": [
+      "மாநில செயலாளர்",
+      "ராச்சிய மாளிகை",
+      "நீதிமன்றம்",
+      "பார்லிமென்ட்"
+    ],
+    "answer_en": "Parliament",
+    "answer_ta": "பார்லிமென்ட்"
+  },
+  {
+    "question_en": "What is the study of planets called?",
+    "question_ta": "கோள்களைப் பற்றி படிப்பதை என்ன라고 அழைப்போம்?",
+    "options_en": [
+      "History",
+      "Economy",
+      "Astronomy",
+      "Geography"
+    ],
+    "options_ta": [
+      "வரலாறு",
+      "பொருளியல்",
+      "வானியக்கம்",
+      "புவியியல்"
+    ],
+    "answer_en": "Astronomy",
+    "answer_ta": "வானியக்கம்"
+  },
+  {
+    "question_en": "What do we call the place where laws are made in India?",
+    "question_ta": "இந்தியா சட்டங்கள் உருவாகும் இடம் என்ன?",
+    "options_en": [
+      "President House",
+      "Parliament",
+      "Court",
+      "State Secretariat"
+    ],
+    "options_ta": [
+      "ராச்சிய மாளிகை",
+      "பார்லிமென்ட்",
+      "நீதிமன்றம்",
+      "மாநில செயலாளர்"
+    ],
+    "answer_en": "Parliament",
+    "answer_ta": "பார்லிமென்ட்"
+  },
+  {
+    "question_en": "What do we call the place where laws are made in India?",
+    "question_ta": "இந்தியா சட்டங்கள் உருவாகும் இடம் என்ன?",
+    "options_en": [
+      "President House",
+      "State Secretariat",
+      "Court",
+      "Parliament"
+    ],
+    "options_ta": [
+      "ராச்சிய மாளிகை",
+      "மாநில செயலாளர்",
+      "நீதிமன்றம்",
+      "பார்லிமென்ட்"
+    ],
+    "answer_en": "Parliament",
+    "answer_ta": "பார்லிமென்ட்"
+  },
+  {
+    "question_en": "Which ocean is on the east coast of India?",
+    "question_ta": "இந்தியாவின் கிழக்கு கடற்கரை அருகில் எந்த பெருங்கடல் உள்ளது?",
+    "options_en": [
+      "Bay of Bengal",
+      "Pacific Ocean",
+      "Indian Ocean",
+      "Arabian Sea"
+    ],
+    "options_ta": [
+      "பெங்கால் வளைகுடா",
+      "பசிபிக் கடல்",
+      "இந்தியக் கடல்",
+      "அரபுக் கடல்"
+    ],
+    "answer_en": "Bay of Bengal",
+    "answer_ta": "பெங்கால் வளைகுடா"
+  },
+  {
+    "question_en": "What is the study of planets called?",
+    "question_ta": "கோள்களைப் பற்றி படிப்பதை என்ன라고 அழைப்போம்?",
+    "options_en": [
+      "Astronomy",
+      "Geography",
+      "Economy",
+      "History"
+    ],
+    "options_ta": [
+      "வானியக்கம்",
+      "புவியியல்",
+      "பொருளியல்",
+      "வரலாறு"
+    ],
+    "answer_en": "Astronomy",
+    "answer_ta": "வானியக்கம்"
+  },
+  {
+    "question_en": "Who was the first Prime Minister of India?",
+    "question_ta": "இந்தியாவின் முதல் பிரதமர் யார்?",
+    "options_en": [
+      "Patel",
+      "Gandhi",
+      "Subhash Bose",
+      "Jawaharlal Nehru"
+    ],
+    "options_ta": [
+      "படேல்",
+      "காந்தி",
+      "சுபாஷ் போஸ்",
+      "ஜவஹர்லால் நேहरु"
+    ],
+    "answer_en": "Jawaharlal Nehru",
+    "answer_ta": "ஜவஹர்லால் நேहरु"
+  },
+  {
+    "question_en": "Which ocean is on the east coast of India?",
+    "question_ta": "இந்தியாவின் கிழக்கு கடற்கரை அருகில் எந்த பெருங்கடல் உள்ளது?",
+    "options_en": [
+      "Indian Ocean",
+      "Bay of Bengal",
+      "Pacific Ocean",
+      "Arabian Sea"
+    ],
+    "options_ta": [
+      "இந்தியக் கடல்",
+      "பெங்கால் வளைகுடா",
+      "பசிபிக் கடல்",
+      "அரபுக் கடல்"
+    ],
+    "answer_en": "Bay of Bengal",
+    "answer_ta": "பெங்கால் வளைகுடா"
+  },
+  {
+    "question_en": "Which soil type is good for growing rice?",
+    "question_ta": "அரிசி வளர்க்க எந்த மண்ணுதகவு நல்லது?",
+    "options_en": [
+      "Laterite soil",
+      "Sandy soil",
+      "Alluvial soil",
+      "Red soil"
+    ],
+    "options_ta": [
+      "லேட்டரைட் மண்",
+      "மண்மண்",
+      "மலிவு மண்",
+      "சிவப்பு மண்"
+    ],
+    "answer_en": "Alluvial soil",
+    "answer_ta": "மலிவு மண்"
+  },
+  {
+    "question_en": "What do we call the place where laws are made in India?",
+    "question_ta": "இந்தியா சட்டங்கள் உருவாகும் இடம் என்ன?",
+    "options_en": [
+      "State Secretariat",
+      "President House",
+      "Parliament",
+      "Court"
+    ],
+    "options_ta": [
+      "மாநில செயலாளர்",
+      "ராச்சிய மாளிகை",
+      "பார்லிமென்ட்",
+      "நீதிமன்றம்"
+    ],
+    "answer_en": "Parliament",
+    "answer_ta": "பார்லிமென்ட்"
+  },
+  {
+    "question_en": "What do we call the place where laws are made in India?",
+    "question_ta": "இந்தியா சட்டங்கள் உருவாகும் இடம் என்ன?",
+    "options_en": [
+      "President House",
+      "Parliament",
+      "Court",
+      "State Secretariat"
+    ],
+    "options_ta": [
+      "ராச்சிய மாளிகை",
+      "பார்லிமென்ட்",
+      "நீதிமன்றம்",
+      "மாநில செயலாளர்"
+    ],
+    "answer_en": "Parliament",
+    "answer_ta": "பார்லிமென்ட்"
+  },
+  {
+    "question_en": "Which ocean is on the east coast of India?",
+    "question_ta": "இந்தியாவின் கிழக்கு கடற்கரை அருகில் எந்த பெருங்கடல் உள்ளது?",
+    "options_en": [
+      "Pacific Ocean",
+      "Indian Ocean",
+      "Arabian Sea",
+      "Bay of Bengal"
+    ],
+    "options_ta": [
+      "பசிபிக் கடல்",
+      "இந்தியக் கடல்",
+      "அரபுக் கடல்",
+      "பெங்கால் வளைகுடா"
+    ],
+    "answer_en": "Bay of Bengal",
+    "answer_ta": "பெங்கால் வளைகுடா"
+  },
+  {
+    "question_en": "Which soil type is good for growing rice?",
+    "question_ta": "அரிசி வளர்க்க எந்த மண்ணுதகவு நல்லது?",
+    "options_en": [
+      "Sandy soil",
+      "Red soil",
+      "Laterite soil",
+      "Alluvial soil"
+    ],
+    "options_ta": [
+      "மண்மண்",
+      "சிவப்பு மண்",
+      "லேட்டரைட் மண்",
+      "மலிவு மண்"
+    ],
+    "answer_en": "Alluvial soil",
+    "answer_ta": "மலிவு மண்"
+  },
+  {
+    "question_en": "What is the study of planets called?",
+    "question_ta": "கோள்களைப் பற்றி படிப்பதை என்ன라고 அழைப்போம்?",
+    "options_en": [
+      "Astronomy",
+      "Geography",
+      "History",
+      "Economy"
+    ],
+    "options_ta": [
+      "வானியக்கம்",
+      "புவியியல்",
+      "வரலாறு",
+      "பொருளியல்"
+    ],
+    "answer_en": "Astronomy",
+    "answer_ta": "வானியக்கம்"
+  },
+  {
+    "question_en": "What do we call the place where laws are made in India?",
+    "question_ta": "இந்தியா சட்டங்கள் உருவாகும் இடம் என்ன?",
+    "options_en": [
+      "President House",
+      "Court",
+      "Parliament",
+      "State Secretariat"
+    ],
+    "options_ta": [
+      "ராச்சிய மாளிகை",
+      "நீதிமன்றம்",
+      "பார்லிமென்ட்",
+      "மாநில செயலாளர்"
+    ],
+    "answer_en": "Parliament",
+    "answer_ta": "பார்லிமென்ட்"
+  },
+  {
+    "question_en": "What is the study of planets called?",
+    "question_ta": "கோள்களைப் பற்றி படிப்பதை என்ன라고 அழைப்போம்?",
+    "options_en": [
+      "Geography",
+      "Economy",
+      "History",
+      "Astronomy"
+    ],
+    "options_ta": [
+      "புவியியல்",
+      "பொருளியல்",
+      "வரலாறு",
+      "வானியக்கம்"
+    ],
+    "answer_en": "Astronomy",
+    "answer_ta": "வானியக்கம்"
+  },
+  {
+    "question_en": "Which soil type is good for growing rice?",
+    "question_ta": "அரிசி வளர்க்க எந்த மண்ணுதகவு நல்லது?",
+    "options_en": [
+      "Red soil",
+      "Sandy soil",
+      "Laterite soil",
+      "Alluvial soil"
+    ],
+    "options_ta": [
+      "சிவப்பு மண்",
+      "மண்மண்",
+      "லேட்டரைட் மண்",
+      "மலிவு மண்"
+    ],
+    "answer_en": "Alluvial soil",
+    "answer_ta": "மலிவு மண்"
+  },
+  {
+    "question_en": "Which soil type is good for growing rice?",
+    "question_ta": "அரிசி வளர்க்க எந்த மண்ணுதகவு நல்லது?",
+    "options_en": [
+      "Red soil",
+      "Sandy soil",
+      "Alluvial soil",
+      "Laterite soil"
+    ],
+    "options_ta": [
+      "சிவப்பு மண்",
+      "மண்மண்",
+      "மலிவு மண்",
+      "லேட்டரைட் மண்"
+    ],
+    "answer_en": "Alluvial soil",
+    "answer_ta": "மலிவு மண்"
+  },
+  {
+    "question_en": "Who was the first Prime Minister of India?",
+    "question_ta": "இந்தியாவின் முதல் பிரதமர் யார்?",
+    "options_en": [
+      "Patel",
+      "Subhash Bose",
+      "Gandhi",
+      "Jawaharlal Nehru"
+    ],
+    "options_ta": [
+      "படேல்",
+      "சுபாஷ் போஸ்",
+      "காந்தி",
+      "ஜவஹர்லால் நேहरु"
+    ],
+    "answer_en": "Jawaharlal Nehru",
+    "answer_ta": "ஜவஹர்லால் நேहरु"
+  },
+  {
+    "question_en": "What is the study of planets called?",
+    "question_ta": "கோள்களைப் பற்றி படிப்பதை என்ன라고 அழைப்போம்?",
+    "options_en": [
+      "History",
+      "Astronomy",
+      "Geography",
+      "Economy"
+    ],
+    "options_ta": [
+      "வரலாறு",
+      "வானியக்கம்",
+      "புவியியல்",
+      "பொருளியல்"
+    ],
+    "answer_en": "Astronomy",
+    "answer_ta": "வானியக்கம்"
+  },
+  {
+    "question_en": "What do we call the place where laws are made in India?",
+    "question_ta": "இந்தியா சட்டங்கள் உருவாகும் இடம் என்ன?",
+    "options_en": [
+      "Parliament",
+      "President House",
+      "Court",
+      "State Secretariat"
+    ],
+    "options_ta": [
+      "பார்லிமென்ட்",
+      "ராச்சிய மாளிகை",
+      "நீதிமன்றம்",
+      "மாநில செயலாளர்"
+    ],
+    "answer_en": "Parliament",
+    "answer_ta": "பார்லிமென்ட்"
+  },
+  {
+    "question_en": "Who was the first Prime Minister of India?",
+    "question_ta": "இந்தியாவின் முதல் பிரதமர் யார்?",
+    "options_en": [
+      "Patel",
+      "Jawaharlal Nehru",
+      "Gandhi",
+      "Subhash Bose"
+    ],
+    "options_ta": [
+      "படேல்",
+      "ஜவஹர்லால் நேहरु",
+      "காந்தி",
+      "சுபாஷ் போஸ்"
+    ],
+    "answer_en": "Jawaharlal Nehru",
+    "answer_ta": "ஜவஹர்லால் நேहरु"
+  },
+  {
+    "question_en": "Which soil type is good for growing rice?",
+    "question_ta": "அரிசி வளர்க்க எந்த மண்ணுதகவு நல்லது?",
+    "options_en": [
+      "Sandy soil",
+      "Red soil",
+      "Alluvial soil",
+      "Laterite soil"
+    ],
+    "options_ta": [
+      "மண்மண்",
+      "சிவப்பு மண்",
+      "மலிவு மண்",
+      "லேட்டரைட் மண்"
+    ],
+    "answer_en": "Alluvial soil",
+    "answer_ta": "மலிவு மண்"
+  },
+  {
+    "question_en": "What do we call the place where laws are made in India?",
+    "question_ta": "இந்தியா சட்டங்கள் உருவாகும் இடம் என்ன?",
+    "options_en": [
+      "President House",
+      "Court",
+      "State Secretariat",
+      "Parliament"
+    ],
+    "options_ta": [
+      "ராச்சிய மாளிகை",
+      "நீதிமன்றம்",
+      "மாநில செயலாளர்",
+      "பார்லிமென்ட்"
+    ],
+    "answer_en": "Parliament",
+    "answer_ta": "பார்லிமென்ட்"
+  }
+]

@@ -1,0 +1,632 @@
+[
+  {
+    "question_en": "Which pigment gives leaves their green colour?",
+    "question_ta": "இலைகளுக்கு பச்சைக் கலந்த நிறத்தை தரும் நிறமிப்பொருள் எது?",
+    "options_en": [
+      "Xanthophyll",
+      "Carotene",
+      "Anthocyanin",
+      "Chlorophyll"
+    ],
+    "options_ta": [
+      "ஜாந்தோஃபில்",
+      "கரோட்டீன்",
+      "ஆந்தோசயனின்",
+      "குளோரோபில்"
+    ],
+    "answer_en": "Chlorophyll",
+    "answer_ta": "குளோரோபில்"
+  },
+  {
+    "question_en": "Which process do plants use to make food using sunlight?",
+    "question_ta": "தாவரங்கள் சூரியஒளியைப் பயன்படுத்தி உணவு தயாரிப்பதில் பயன்படுத்தும் செயல்முறை எது?",
+    "options_en": [
+      "Fermentation",
+      "Respiration",
+      "Photosynthesis",
+      "Transpiration"
+    ],
+    "options_ta": [
+      "உறிஞ்சுதல்",
+      "உயிரணுப் பயன்",
+      "புகுபசிப்பு",
+      "வெளியீடு"
+    ],
+    "answer_en": "Photosynthesis",
+    "answer_ta": "புகுபசிப்பு"
+  },
+  {
+    "question_en": "Amoeba reproduces by which method?",
+    "question_ta": "ஆமீபா எந்த முறையில் பெருகுகிறது?",
+    "options_en": [
+      "Binary fission",
+      "Spore formation",
+      "Budding",
+      "Fragmentation"
+    ],
+    "options_ta": [
+      "இரிமடிப்பு பிரிவு",
+      "மாவு உருவாக்கம்",
+      "மூட்டுதல்",
+      "உற்ட்டியல்"
+    ],
+    "answer_en": "Binary fission",
+    "answer_ta": "இரிமடிப்பு பிரிவு"
+  },
+  {
+    "question_en": "What is the basic unit of life?",
+    "question_ta": "வாழ்க்கையின் அடிப்படை அலகு எது?",
+    "options_en": [
+      "Cell",
+      "Organ system",
+      "Organ",
+      "Tissue"
+    ],
+    "options_ta": [
+      "செல்",
+      "அமைப்பு",
+      "ஒய்கை",
+      "திசு"
+    ],
+    "answer_en": "Cell",
+    "answer_ta": "செல்"
+  },
+  {
+    "question_en": "Which tissue transports water in plants?",
+    "question_ta": "தாவரங்களில் தண்ணீரை கடத்தும் திசு எது?",
+    "options_en": [
+      "Phloem",
+      "Cortex",
+      "Epidermis",
+      "Xylem"
+    ],
+    "options_ta": [
+      "ஃப்லோயம்",
+      "பரிசரல்",
+      "துப்ரம்",
+      "ஜைலம்"
+    ],
+    "answer_en": "Xylem",
+    "answer_ta": "ஜைலம்"
+  },
+  {
+    "question_en": "Which organelle is called the powerhouse of the cell?",
+    "question_ta": "செல்லின் சக்தி நிலையமாக அழைக்கப்படும் உட்கருவி எது?",
+    "options_en": [
+      "Chloroplast",
+      "Nucleus",
+      "Mitochondria",
+      "Ribosome"
+    ],
+    "options_ta": [
+      "குளோரோபிளாஸ்",
+      "நியூகிளியஸ்",
+      "மைட்டோகாண்ட்ரியா",
+      "ரைபோசோம்"
+    ],
+    "answer_en": "Mitochondria",
+    "answer_ta": "மைட்டோகாண்ட்ரியா"
+  },
+  {
+    "question_en": "Which gas is released during photosynthesis?",
+    "question_ta": "புகுபசிப்பின் போது எந்த வாயு வெளியேறுகிறது?",
+    "options_en": [
+      "Methane",
+      "Carbon dioxide",
+      "Oxygen",
+      "Nitrogen"
+    ],
+    "options_ta": [
+      "மீதேன்",
+      "கார்பன் டை ஆக்சைடு",
+      "ஆக்சிஜன்",
+      "நைட்ரஜன்"
+    ],
+    "answer_en": "Oxygen",
+    "answer_ta": "ஆக்சிஜன்"
+  },
+  {
+    "question_en": "Which blood group is known as universal donor?",
+    "question_ta": "உலகளாவிய வழங்குநராகக் கருதப்படும் இரத்த வகை எது?",
+    "options_en": [
+      "A positive",
+      "B negative",
+      "O negative",
+      "AB positive"
+    ],
+    "options_ta": [
+      "A+",
+      "B-",
+      "O-",
+      "AB+"
+    ],
+    "answer_en": "O negative",
+    "answer_ta": "O-"
+  },
+  {
+    "question_en": "Which kingdom do fungi belong to?",
+    "question_ta": "பூஞ்சைகள் எந்த ராஜ்யத்தில் அடங்கும்?",
+    "options_en": [
+      "Protista",
+      "Plantae",
+      "Animalia",
+      "Fungi"
+    ],
+    "options_ta": [
+      "ப்ரோடிஸ்தா",
+      "தாவரங்கள்",
+      "உயிரினங்கள்",
+      "ஃபஞ்ஜி"
+    ],
+    "answer_en": "Fungi",
+    "answer_ta": "ஃபஞ்ஜி"
+  },
+  {
+    "question_en": "Which is the male reproductive organ in flowering plants?",
+    "question_ta": "மலர்ச்ச செடிகளில் ஆண் பெருக்க உறுப்பின தானெது?",
+    "options_en": [
+      "Pistil",
+      "Sepal",
+      "Petal",
+      "Stamen"
+    ],
+    "options_ta": [
+      "பிஸ்டில்",
+      "சீப்பல்",
+      "பெட்டல்",
+      "ஸ்டேமன்"
+    ],
+    "answer_en": "Stamen",
+    "answer_ta": "ஸ்டேமன்"
+  },
+  {
+    "question_en": "What is transpiration?",
+    "question_ta": "வெளியீடு (transpiration) என்றால் என்ன?",
+    "options_en": [
+      "Absorption of water",
+      "Transport of sugars",
+      "Loss of water vapour from plant surfaces",
+      "Photosynthesis"
+    ],
+    "options_ta": [
+      "நீர் உறிஞ்சுதல்",
+      "சர்க்கரை போக்குவரத்து",
+      "தாவரத்தின் மேற்பரப்பிலிருந்து நீர் ஆவியாக இழப்பு",
+      "புகுபசிப்பு"
+    ],
+    "answer_en": "Loss of water vapour from plant surfaces",
+    "answer_ta": "தாவரத்தின் மேற்பரப்பிலிருந்து நீர் ஆவியாக இழப்பு"
+  },
+  {
+    "question_en": "Which gas is essential for respiration?",
+    "question_ta": "உயிரணுப் செயலுக்கு அவசியமான வாயு எது?",
+    "options_en": [
+      "Oxygen",
+      "Nitrogen",
+      "Carbon dioxide",
+      "Hydrogen"
+    ],
+    "options_ta": [
+      "ஆக்சிஜன்",
+      "நைட்ரஜன்",
+      "கார்பன் டை ஆக்சைடு",
+      "ஹைட்ரஜன்"
+    ],
+    "answer_en": "Oxygen",
+    "answer_ta": "ஆக்சிஜன்"
+  },
+  {
+    "question_en": "Which structure contains chlorophyll in plant cells?",
+    "question_ta": "தாவர செல்களில் குளோரோபில் எந்த அமைப்பில் இருக்கும்?",
+    "options_en": [
+      "Vacuole",
+      "Chloroplast",
+      "Mitochondria",
+      "Golgi apparatus"
+    ],
+    "options_ta": [
+      "வாகியூல்",
+      "குளோரோபிளாஸ்ட்",
+      "மைட்டோகாண்ட்ரியா",
+      "கால்ஜி அமைப்பு"
+    ],
+    "answer_en": "Chloroplast",
+    "answer_ta": "குளோரோபிளாஸ்ட்"
+  },
+  {
+    "question_en": "Which blood cells help in clotting?",
+    "question_ta": "எந்த இரத்த செல்கள் இரத்தம் கரைய உதவுகின்றன?",
+    "options_en": [
+      "RBC",
+      "Platelets",
+      "WBC",
+      "Plasma"
+    ],
+    "options_ta": [
+      "சிவப்பு செல்கள்",
+      "தகடுகள்",
+      "வெள்ளை செல்கள்",
+      "பிளாஸ்மா"
+    ],
+    "answer_en": "Platelets",
+    "answer_ta": "தகடுகள்"
+  },
+  {
+    "question_en": "What is the female gamete in human?",
+    "question_ta": "மனிதனில் பெண் விளைவு அணு எது?",
+    "options_en": [
+      "Embryo",
+      "Ovum (egg)",
+      "Zygote",
+      "Sperm"
+    ],
+    "options_ta": [
+      "எம்ப்ரையோ",
+      "உவம் (முட்டை)",
+      "ஜைகோட்",
+      "ஸ்பர்ம்"
+    ],
+    "answer_en": "Ovum (egg)",
+    "answer_ta": "உவம் (முட்டை)"
+  },
+  {
+    "question_en": "Where does fertilization occur in human female?",
+    "question_ta": "மனித பெண்களில் கருவொருக்கை எங்கு நடைபெறுகிறது?",
+    "options_en": [
+      "Ovary",
+      "Vagina",
+      "Fallopian tube",
+      "Uterus"
+    ],
+    "options_ta": [
+      "அவுரி",
+      "யோனி",
+      "ஃபாலோபியன் குழாய்",
+      "கர்ப்பகுடி"
+    ],
+    "answer_en": "Fallopian tube",
+    "answer_ta": "ஃபாலோபியன் குழாய்"
+  },
+  {
+    "question_en": "Which process produces spores in fungi?",
+    "question_ta": "பூஞ்சையில் எந்த செயல்முறையாக மவுகள் உருவாகின்றன?",
+    "options_en": [
+      "Binary fission",
+      "Sporulation",
+      "Budding",
+      "Conjugation"
+    ],
+    "options_ta": [
+      "இரிமடிப்பு",
+      "ஸ்போருலேசன்",
+      "முட்டுதல்",
+      "ஒற்றுமை"
+    ],
+    "answer_en": "Sporulation",
+    "answer_ta": "ஸ்போருலேசன்"
+  },
+  {
+    "question_en": "What is a population?",
+    "question_ta": "ஒரு மக்கள் தொகை என்றால் என்ன?",
+    "options_en": [
+      "A single organism",
+      "All organisms in an ecosystem",
+      "Habitat",
+      "Group of individuals of same species in an area"
+    ],
+    "options_ta": [
+      "ஒரே உயிரினம்",
+      "சுற்றுச்சூழலில் உள்ள அனைத்து உயிரினங்கள்",
+      "வாழும் இடம்",
+      "ஒரே இனத்தைச் சேர்ந்த ஒரு பகுதியில் உள்ள நபர்கள் குழு"
+    ],
+    "answer_en": "Group of individuals of same species in an area",
+    "answer_ta": "ஒரே இனத்தைச் சேர்ந்த ஒரு பகுதியில் உள்ள நபர்கள் குழு"
+  },
+  {
+    "question_en": "Which organelle synthesizes proteins?",
+    "question_ta": "எந்த உட்கருவி புரதங்களை உருவாக்குகிறது?",
+    "options_en": [
+      "Chloroplast",
+      "Ribosome",
+      "Nucleus",
+      "Mitochondria"
+    ],
+    "options_ta": [
+      "குளோரோபிளாஸ்",
+      "ரைபோசோம்",
+      "நியூகிளியஸ்",
+      "மைட்டோகாண்ட்ரியா"
+    ],
+    "answer_en": "Ribosome",
+    "answer_ta": "ரைபோசோம்"
+  },
+  {
+    "question_en": "Which is photosynthetic pigment in cyanobacteria?",
+    "question_ta": "சயானோபாக்டீரியாக்களில் புகுபசிப்புச் சுருக்கப்பொருள் எது?",
+    "options_en": [
+      "Chlorophyll",
+      "Carotene",
+      "Anthocyanin",
+      "Phycobilin"
+    ],
+    "options_ta": [
+      "குளோரோபில்",
+      "கரோட்டீன்",
+      "ஆந்தோசயனின்",
+      "பைசோபிலின்"
+    ],
+    "answer_en": "Phycobilin",
+    "answer_ta": "பைசோபிலின்"
+  },
+  {
+    "question_en": "Which ion is central in chlorophyll molecule?",
+    "question_ta": "குளோரோபில் மூலக்கூறில் மையப் பொருள் எது?",
+    "options_en": [
+      "Iron",
+      "Zinc",
+      "Magnesium",
+      "Calcium"
+    ],
+    "options_ta": [
+      "இரும்பு",
+      "சிங்க்",
+      "மக்னீசியம்",
+      "கால்சியம்"
+    ],
+    "answer_en": "Magnesium",
+    "answer_ta": "மக்னீசியம்"
+  },
+  {
+    "question_en": "Which vascular tissue transports food in plants?",
+    "question_ta": "தாவரங்களில் உணவை கடத்தும் திசு எது?",
+    "options_en": [
+      "Cambium",
+      "Epidermis",
+      "Xylem",
+      "Phloem"
+    ],
+    "options_ta": [
+      "கேம்பியம்",
+      "அதிகரிப்பு",
+      "ஜைலம்",
+      "ஃப்லோயம்"
+    ],
+    "answer_en": "Phloem",
+    "answer_ta": "ஃப்லோயம்"
+  },
+  {
+    "question_en": "Which hormone regulates water balance in animals?",
+    "question_ta": "மிருகங்களில் நீர் சமநிலையை ஒழுங்குப்படுத்தும் ஹார்மோன் எது?",
+    "options_en": [
+      "Thyroxine",
+      "Adrenaline",
+      "Insulin",
+      "ADH (Antidiuretic hormone)"
+    ],
+    "options_ta": [
+      "தைராய்டு ஹார்மோன்",
+      "அட்ரினலின்",
+      "இன்சுலின்",
+      "ADH"
+    ],
+    "answer_en": "ADH (Antidiuretic hormone)",
+    "answer_ta": "ADH"
+  },
+  {
+    "question_en": "Which inheritance is via cytoplasm rather than nucleus?",
+    "question_ta": "நியூக்ளியஸ்தானமில்லாமல் செல்மாவிலிருந்து மரபு எது?",
+    "options_en": [
+      "Linkage",
+      "Mendelian inheritance",
+      "Extrachromosomal (cytoplasmic) inheritance",
+      "Crossing over"
+    ],
+    "options_ta": [
+      "இணைப்பு",
+      "மென்டேலியன் மரபு",
+      "நுண்ணிய மரபு",
+      "கிராஸிங் ஓவர்"
+    ],
+    "answer_en": "Extrachromosomal (cytoplasmic) inheritance",
+    "answer_ta": "நுண்ணிய மரபு"
+  },
+  {
+    "question_en": "Which biome has highest species diversity?",
+    "question_ta": "எந்த பயோமில் இனப் பல்வகை அதிகமாக உள்ளது?",
+    "options_en": [
+      "Desert",
+      "Tundra",
+      "Taiga",
+      "Tropical rainforest"
+    ],
+    "options_ta": [
+      "மருமலை",
+      "துண்டிரா",
+      "டைகா",
+      "வளர்ச்சிகக மழைக்காடு"
+    ],
+    "answer_en": "Tropical rainforest",
+    "answer_ta": "வளர்ச்சிகக மழைக்காடு"
+  },
+  {
+    "question_en": "Which process breaks glucose to release energy?",
+    "question_ta": "குளுக்கோசை உடைத்து சக்தியை வெளியிடும் செயல்முறை எது?",
+    "options_en": [
+      "Transpiration",
+      "Fermentation",
+      "Cellular respiration",
+      "Photosynthesis"
+    ],
+    "options_ta": [
+      "வெளியீடு",
+      "மராசி (Fermentation)",
+      "செல் செயற்பாடு (Cellular respiration)",
+      "புகுபசிப்பு"
+    ],
+    "answer_en": "Cellular respiration",
+    "answer_ta": "செல் செயற்பாடு (Cellular respiration)"
+  },
+  {
+    "question_en": "Which part of seed stores food?",
+    "question_ta": "விதையின் எந்தப் பகுதி உணவு சேமிக்கிறது?",
+    "options_en": [
+      "Embryo",
+      "Seed coat",
+      "Cotyledon",
+      "Endosperm"
+    ],
+    "options_ta": [
+      "எம்ப்ரையோ",
+      "விதை மரபு",
+      "கொடைலெடன்",
+      "எண்டோஸ்பெர்ம்"
+    ],
+    "answer_en": "Endosperm",
+    "answer_ta": "எண்டோஸ்பெர்ம்"
+  },
+  {
+    "question_en": "What is function of stomata?",
+    "question_ta": "ஸ்டோமாட்டாவின் பணி என்ன?",
+    "options_en": [
+      "Seed dispersal",
+      "Gas exchange and transpiration",
+      "Photosynthesis",
+      "Pollination"
+    ],
+    "options_ta": [
+      "விதை பரப்புதல்",
+      "வாயு பரிமாற்றம் மற்றும் வெளியீடு",
+      "புகுபசிப்பு",
+      "மலர்ச்சி"
+    ],
+    "answer_en": "Gas exchange and transpiration",
+    "answer_ta": "வாயு பரிமாற்றம் மற்றும் வெளியீடு"
+  },
+  {
+    "question_en": "Which pigment gives leaves their green colour? (Q29)",
+    "question_ta": "இலைகளுக்கு பச்சைக் கலந்த நிறத்தை தரும் நிறமிப்பொருள் எது? (வ29)",
+    "options_en": [
+      "Carotene",
+      "Anthocyanin",
+      "Chlorophyll",
+      "Xanthophyll"
+    ],
+    "options_ta": [
+      "கரோட்டீன்",
+      "ஆந்தோசயனின்",
+      "குளோரோபில்",
+      "ஜாந்தோஃபில்"
+    ],
+    "answer_en": "Chlorophyll",
+    "answer_ta": "குளோரோபில்"
+  },
+  {
+    "question_en": "Which process do plants use to make food using sunlight? (Q30)",
+    "question_ta": "தாவரங்கள் சூரியஒளியைப் பயன்படுத்தி உணவு தயாரிப்பதில் பயன்படுத்தும் செயல்முறை எது? (வ30)",
+    "options_en": [
+      "Transpiration",
+      "Fermentation",
+      "Respiration",
+      "Photosynthesis"
+    ],
+    "options_ta": [
+      "வெளியீடு",
+      "உறிஞ்சுதல்",
+      "உயிரணுப் பயன்",
+      "புகுபசிப்பு"
+    ],
+    "answer_en": "Photosynthesis",
+    "answer_ta": "புகுபசிப்பு"
+  },
+  {
+    "question_en": "Amoeba reproduces by which method? (Q31)",
+    "question_ta": "ஆமீபா எந்த முறையில் பெருகுகிறது? (வ31)",
+    "options_en": [
+      "Spore formation",
+      "Binary fission",
+      "Budding",
+      "Fragmentation"
+    ],
+    "options_ta": [
+      "மாவு உருவாக்கம்",
+      "இரிமடிப்பு பிரிவு",
+      "மூட்டுதல்",
+      "உற்ட்டியல்"
+    ],
+    "answer_en": "Binary fission",
+    "answer_ta": "இரிமடிப்பு பிரிவு"
+  },
+  {
+    "question_en": "What is the basic unit of life? (Q32)",
+    "question_ta": "வாழ்க்கையின் அடிப்படை அலகு எது? (வ32)",
+    "options_en": [
+      "Organ system",
+      "Organ",
+      "Cell",
+      "Tissue"
+    ],
+    "options_ta": [
+      "அமைப்பு",
+      "ஒய்கை",
+      "செல்",
+      "திசு"
+    ],
+    "answer_en": "Cell",
+    "answer_ta": "செல்"
+  },
+  {
+    "question_en": "Which tissue transports water in plants? (Q33)",
+    "question_ta": "தாவரங்களில் தண்ணீரை கடத்தும் திசு எது? (வ33)",
+    "options_en": [
+      "Xylem",
+      "Phloem",
+      "Cortex",
+      "Epidermis"
+    ],
+    "options_ta": [
+      "ஜைலம்",
+      "ஃப்லோயம்",
+      "பரிசரல்",
+      "துப்ரம்"
+    ],
+    "answer_en": "Xylem",
+    "answer_ta": "ஜைலம்"
+  },
+  {
+    "question_en": "Which organelle is called the powerhouse of the cell? (Q34)",
+    "question_ta": "செல்லின் சக்தி நிலையமாக அழைக்கப்படும் உட்கருவி எது? (வ34)",
+    "options_en": [
+      "Mitochondria",
+      "Nucleus",
+      "Chloroplast",
+      "Ribosome"
+    ],
+    "options_ta": [
+      "மைட்டோகாண்ட்ரியா",
+      "நியூகிளியஸ்",
+      "குளோரோபிளாஸ்",
+      "ரைபோசோம்"
+    ],
+    "answer_en": "Mitochondria",
+    "answer_ta": "மைட்டோகாண்ட்ரியா"
+  },
+  {
+    "question_en": "Which gas is released during photosynthesis? (Q35)",
+    "question_ta": "புகுபசிப்பின் போது எந்த வாயு வெளியேறுகிறது? (வ35)",
+    "options_en": [
+      "Nitrogen",
+      "Carbon dioxide",
+      "Oxygen",
+      "Methane"
+    ],
+    "options_ta": [
+      "நைட்ரஜன்",
+      "கார்பன் டை ஆக்சைடு",
+      "ஆக்சிஜன்",
+      "மீதேன்"
+    ],
+    "answer_en": "Oxygen",
+    "answer_ta": "ஆக்சிஜன்"
+  }
+]

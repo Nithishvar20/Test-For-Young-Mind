@@ -1,0 +1,234 @@
+[
+  {
+    "question_en": "Which Act introduced the system of 'Permanent Settlement' in Bengal in 1793?",
+    "question_ta": "1793இல் பெங்காலில் 'நிரந்தர ஒழுங்கு (Permanent Settlement)' மனையின் அறிமுகத்தை ஏற்படுத்தியது எது?",
+    "options_en": ["Regulating Act","Permanent Settlement Act (by Cornwallis)","Ryotwari System Act","Indigo Act"],
+    "options_ta": ["Регுலேட்டிங் சட்டம்","கார்ன்வாலிஸ் மேற்கொண்ட நிரந்தர ஒழுங்கு சட்டம்","ரயோத்வாரி முறைச் சட்டம்","நீலச் சட்டம்"],
+    "answer_en": "Permanent Settlement Act (by Cornwallis)",
+    "answer_ta": "கார்ன்வாலிஸ் மேற்கொண்ட நிரந்தர ஒழுங்கு சட்டம்"
+  },
+  {
+    "question_en": "Which Indian river forms a large delta before joining the Bay of Bengal?",
+    "question_ta": "இந்து நதி கரைப்பகுதிக்கு முன் பெரும் டெல்டாவை உருவாக்குவது எது?",
+    "options_en": ["Narmada","Ganga","Mahanadi","Sabarmati"],
+    "options_ta": ["நர்மதா","கங்கை","மஹாநதி","சபர்மதி"],
+    "answer_en": "Ganga",
+    "answer_ta": "கங்கை"
+  },
+  {
+    "question_en": "Which 19th-century social reformer launched widow remarriage movement and worked against sati in India?",
+    "question_ta": "19 ஆம் நூற்றாண்டு சமூக சீர்திருத்தம் செய்பவர் யார், அவரால் விதவை மறுநீக்கம் (widow remarriage) மற்றும் சாதி (sati) கட்டுப்படுத்தப்பட்டது?",
+    "options_en": ["Raja Ram Mohan Roy","Jyotirao Phule","Ishwar Chandra Vidyasagar","Dayananda Saraswati"],
+    "options_ta": ["ராஜா ராம் மோகன் ರாய்","ஜியோதிராவ் புலே","இஷ்வர் சந்திர வித்யாசாகர்","தயாநந்த சரஸ்வதி"],
+    "answer_en": "Raja Ram Mohan Roy",
+    "answer_ta": "ராஜா ராம் மோகன் ராய்"
+  },
+  {
+    "question_en": "Which soil type is most fertile and commonly found in river plains and deltas?",
+    "question_ta": "நதி சமச்சேரல் மற்றும் டெல்டாக்களில் பொதுவாக காணப்படும் அதிக பயிர்ச்சி தரும் மண் வகை எது?",
+    "options_en": ["Black soil","Laterite soil","Alluvial soil","Red soil"],
+    "options_ta": ["கருப்பு மண்","பிந்தை மண்","மழைவெள்ள நதி மண் (Alluvial)","செம்மண்"],
+    "answer_en": "Alluvial soil",
+    "answer_ta": "மழைவெள்ள நதி மண் (Alluvial)"
+  },
+  {
+    "question_en": "Which Constitutional body in India is primarily responsible for conducting free and fair elections?",
+    "question_ta": "இந்தியாவில் இலவசமும் நீதியானதும் தேர்தல்களை நடத்துவதற்கு முதன்மையாக பொறுப்பேற்கும் அரசியல் அமைப்பு எது?",
+    "options_en": ["Election Commission of India","Supreme Court","Ministry of Home Affairs","Parliamentary Committee"],
+    "options_ta": ["இந்திய தேர்தல் ஆணையம்","உயர்நீதிமன்றம்","உள்நாட்டு செயலாளர் துறை","சட்டமன்றக் குழு"],
+    "answer_en": "Election Commission of India",
+    "answer_ta": "இந்திய தேர்தல் ஆணையம்"
+  },
+  {
+    "question_en": "The term 'subsidiary alliance' is associated with the policies of which colonial power in India?",
+    "question_ta": "‘சப்ஸிடியரி அல்லயன்ஸ் (Subsidiary Alliance)’ என்ற கொள்கை இந்தியாவில் எந்த காலனியக் கூடலுடன் தொடர்புடையது?",
+    "options_en": ["French","Portuguese","British (Lord Wellesley)","Dutch"],
+    "options_ta": ["பிரெஞ்சு","பொர்த்துக்","பிரிட்டிஷ் (லார்ட் வெல்ஸ்லி)","டச்சு"],
+    "answer_en": "British (Lord Wellesley)",
+    "answer_ta": "பிரிட்டிஷ் (லார்ட் வெல்ஸ்லி)"
+  },
+  {
+    "question_en": "Which mountain range in India is older geologically: the Himalayas or the Aravallis?",
+    "question_ta": "புவியியல்பூர்வமானவையாக இந்தியாவின் எது பழமையான மலைத் தொடர்: ஹிமாலயா அல்லது அறவலி?",
+    "options_en": ["Himalayas are older","Aravallis are older","Both formed at same time","Neither is very old geologically"],
+    "options_ta": ["ஹிமாலயா பழமையானவை","அரவலி பழமையானவை","இரண்டும் ஒரே நேரத்தில் உருவானவையாகும்","புவியியல் ரீதியாகஇவை பழமையானவை அல்ல"],
+    "answer_en": "Aravallis are older",
+    "answer_ta": "அரவலி பழமையானவை"
+  },
+  {
+    "question_en": "Which plan introduced a major emphasis on heavy industries and self-reliance in independent India?",
+    "question_ta": "சுதந்திர இந்தியாவில் எந்த திட்டம் கனமான தொழிற்துறை மற்றும் சுயாதீனத்திற்குப் பெரும் முக்கியத்துவம் கொடுத்தது?",
+    "options_en": ["Gandhian model","Second Five-Year Plan (Nehru–Nehru model)","Green Revolution","Liberalisation, Privatisation and Globalisation (1991)"],
+    "options_ta": ["காந்திய முறை","இரண்டாம் ஐந்தாண்டுப் பணி (நேहरु திட்டம்)","பச்சை புரட்சிதுறை","திறந்தகடை, தனியுரிமை (1991)"],
+    "answer_en": "Second Five-Year Plan (Nehru–Nehru model)",
+    "answer_ta": "இரண்டாம் ஐந்தாண்டுப் பணி (நேहरु திட்டம்)"
+  },
+  {
+    "question_en": "Which administrative division is the basic unit of rural local government under the Panchayati Raj system?",
+    "question_ta": "பஞ்சாயத்து ஆணைய அமைப்பில் கிராமப் பிரதேசத்தின் அடிப்படை நிர்வாக அலகு எது?",
+    "options_en": ["Municipality","Gram Panchayat","Block","District"],
+    "options_ta": ["பேரூராட்சி","கிராம பஞ்சாயத்து","பிளாக்","மாவட்டம்"],
+    "answer_en": "Gram Panchayat",
+    "answer_ta": "கிராம பஞ்சாயத்து"
+  },
+  {
+    "question_en": "Which economic activity is classified under the tertiary sector?",
+    "question_ta": "பின்வருவனில் எது மூன்றாம் துறை (tertiary sector) சார்ந்த பொருளாதார செயல்பாடு?",
+    "options_en": ["Farming rice","Steel manufacturing","Banking and insurance","Coal mining"],
+    "options_ta": ["அரிசி விளைபிரவாரம்","இரும்பு உற்பத்தி","வங்கி மற்றும் காப்பீடு","கோல் திடுமொழிப்பு"],
+    "answer_en": "Banking and insurance",
+    "answer_ta": "வங்கி மற்றும் காப்பீடு"
+  },
+  {
+    "question_en": "Which event in 1857 is often regarded as the first large-scale revolt against British rule in India?",
+    "question_ta": "1857 ஆம் ஆண்டில் எந்த நிகழ்வு பொதுவாக இந்தியாவில் பிரிட்டிஷ் ஆட்சிக்கெதிரான முதல் பெருமளவிலான எழுச்சியாக கருதப்படுவது?",
+    "options_en": ["Salt Satyagraha","First War of Indian Independence (Sepoy Mutiny)","Non-Cooperation Movement","Civil Disobedience Movement"],
+    "options_ta": ["உப்புச் சர்ச்சை","முதல் இந்திய சுதந்திரப் போராட்டம் (சிப்பாய் எழுச்சி)","நான் ஒத்துழைப்பு இயக்கம்","பொது எதிர்ப்பு இயக்கம்"],
+    "answer_en": "First War of Indian Independence (Sepoy Mutiny)",
+    "answer_ta": "முதல் இந்திய சுதந்திரப் போராட்டம் (சிப்பாய் எழுச்சி)"
+  },
+  {
+    "question_en": "Which river system drains most of peninsular India and flows eastwards?",
+    "question_ta": "தென் அபிவிருத்தி இந்தியாவின் பெரும்பாலான பகுதிகளை வடிகட்டும் மற்றும் கிழக்கனாய் ஓடும் எந்த நதிநீர்நிலை?",
+    "options_en": ["Indus system","Ganga-Brahmaputra system","Godavari-Krishna-Mahanadi system","Narmada-Tapti system"],
+    "options_ta": ["சிந்து அமைப்பு","கங்கை-பிரகம்புத்திரா அமைப்பு","கோதாவரி-கிருஷ்ணா-மஹாநதி அமைப்பு","நர்மதா-டாப்டி அமைப்பு"],
+    "answer_en": "Godavari-Krishna-Mahanadi system",
+    "answer_ta": "கோதாவரி-கிருஷ்ணா-மஹாநதி அமைப்பு"
+  },
+  {
+    "question_en": "Which constitutional amendment gave constitutional status to Panchayati Raj institutions in India?",
+    "question_ta": "பஞ்சாயத்து ஆளைகள் இந்தியாவில் அரசமைப்புச் சிறப்பை (constitutional status) எது கொடுத்தது?",
+    "options_en": ["42nd Amendment","73rd Amendment","44th Amendment","91st Amendment"],
+    "options_ta": ["42வது திருத்தம்","73வது திருத்தம்","44வது திருத்தம்","91வது திருத்தம்"],
+    "answer_en": "73rd Amendment",
+    "answer_ta": "73வது திருத்தம்"
+  },
+  {
+    "question_en": "Which factor is most responsible for the onset of the Indian monsoon?",
+    "question_ta": "இந்திய மழைக்காலத்தின் (monsoon) தொடக்கத்திற்கு மிகவும் பொறுப்பான காரணம் எது?",
+    "options_en": ["Earth's rotation","Arabian Sea circulation","Differential heating of land and sea","Himalayan winds only"],
+    "options_ta": ["பூமியின் சுழற்சி","அரபியக் கடல் ஓட்டங்கள்","நிலமும் கடலும் வேகமாக வெப்பமாவுதல்","ஹிமாலய வளிமண்டலக் காற்றுகள் மட்டும்"],
+    "answer_en": "Differential heating of land and sea",
+    "answer_ta": "நிலமும் கடலும் வேறுபடியாக வெப்பமாவுதல்"
+  },
+  {
+    "question_en": "Which Indian leader formed the Forward Bloc after differences with the Congress leadership in the 1930s?",
+    "question_ta": "1930களில் காங்கிரஸ் தலைமையுடன் முரண்பாடுகள் பிறந்தபோது யார் 'ஃபார்வட் பிளாக்கை' (Forward Bloc) அமைத்தார்?",
+    "options_en": ["Subhas Chandra Bose","Netaji Rao","S. N. Banerjee","Morarji Desai"],
+    "options_ta": ["சுபாஸ் சந்திர போஸ்","நெடாஜி ராவ்","எஸ். என். பானர்ஜி","மோரார்ஜி தேசாய்"],
+    "answer_en": "Subhas Chandra Bose",
+    "answer_ta": "சுபாஸ் சந்திர போஸ்"
+  },
+  {
+    "question_en": "Which instrument measures the intensity of an earthquake?",
+    "question_ta": "நிலநடுக்கத்தின் தீவிரத்தைக் (intensity) அளவிட எந்த கருவி பயன்படுகிறது?",
+    "options_en": ["Barometer","Seismograph (Richter scale measures magnitude)","Thermometer","Hygrometer"],
+    "options_ta": ["பாரோமீட்டர்","சைஸ்மோகிராஃப் (ரிக்டர் அளவீடு)","வெப்பமாப்பி","ஈரப்பத அளவீடு கருவி"],
+    "answer_en": "Seismograph (Richter scale measures magnitude)",
+    "answer_ta": "சைஸ்மோகிராஃப் (ரிக்டர் அளவீடு)"
+  },
+  {
+    "question_en": "Which of these was a demand of the Civil Disobedience Movement led by Gandhi in 1930s?",
+    "question_ta": "1930களில் காந்தி தலைமையிலான சிவில் எதிர்ப்புக் இயக்கத்தின் (Civil Disobedience) ஒரு கோரிக்கை பின்வருவனில் எது?",
+    "options_en": ["Complete independence (Purna Swaraj)","Repeal of Rowlatt Act","Abolition of salt tax and right to make salt (Salt Satyagraha)","Right to vote for all adults"],
+    "options_ta": ["முழுநிலை சுயராஜ்","ரோலட் சட்டம் கைவிடப்படல்","சர்க்கரை வரியை அகற்று மற்றும் உப்பை தயாரிக்க உரிமை (Salt Satyagraha)","எல்லা வயதானவர்களுக்கும் வாக்களிக்க உரிமை"],
+    "answer_en": "Abolition of salt tax and right to make salt (Salt Satyagraha)",
+    "answer_ta": "உப்புகுடைப் பொருட்களின் வரியை நீக்குதல் மற்றும் உப்புகளை தயாரிக்க உரிமை (சால்ட் சத்யகிரஹா)"
+  },
+  {
+    "question_en": "Which economic indicator reflects average changes in prices paid by consumers for goods and services?",
+    "question_ta": "பொருட்கள் மற்றும் சேவைகளுக்காக நுகர்வோர்கள் (consumers) செலுத்தும் விலைகளில் சராசரி மாற்றத்தை காட்டும் பொருளாதார குறியீடு எது?",
+    "options_en": ["GDP","CPI (Consumer Price Index)","GNP","PPP (Purchasing Power Parity)"],
+    "options_ta": ["GDP","CPI (நுகர்வு விலை குறியீடு)","GNP","PPP (கொள்முதல் சக்தி சமம்)"],
+    "answer_en": "CPI (Consumer Price Index)",
+    "answer_ta": "CPI (நுகர்வு விலை குறியீடு)"
+  },
+  {
+    "question_en": "Which administrative level is responsible for primary education and basic services under the three-tier Panchayati Raj?",
+    "question_ta": "மூன்று அடுக்கு பஞ்சாயத்து அமைப்பில் (three-tier Panchayati Raj) பொது ஆரம்பக் கல்வி மற்றும் அடிப்படை சேவைகளுக்குப் பொறுப்பு எது?",
+    "options_en": ["District Panchayat","Zilla Parishad","Gram Panchayat","State Government"],
+    "options_ta": ["மாவட்ட பஞ்சாயத்து","ஜில்லா பாரிஷத்","கிராம பஞ்சாயத்து","மாநில அரசு"],
+    "answer_en": "Gram Panchayat",
+    "answer_ta": "கிராம பஞ்சாயத்து"
+  },
+  {
+    "question_en": "Which treaty or agreement allowed the British East India Company to assume direct control over Bengal after 1757?",
+    "question_ta": "1757க்குப் பிறகு பிரிட்டிஷ் ஈஸ்ட் இந்திய கம்பெனிக்கு பெங்காலில் நேரடி ஆட்சி ஏற்றுக்கொள்ள எந்த ஒப்பந்தம் உதவியது?",
+    "options_en": ["Treaty of Allahabad (1765) with Diwani rights","Subsidiary Alliance","Doctrine of Lapse","Treaty of Lahore"],
+    "options_ta": ["அல்லாஹாபாத் ஒப்பந்தம் (1765) - திவானி உரிமைகள்","சப்ஸிடியரி அல்லயன்ஸ்","லாப்ஸு கொள்கை","லாஹோர் ஒப்பந்தம்"],
+    "answer_en": "Treaty of Allahabad (1765) with Diwani rights",
+    "answer_ta": "அல்லாஹாபாத் ஒப்பந்தம் (1765) - திவானி உரிமைகள்"
+  },
+  {
+    "question_en": "Which region in India is most prone to cyclones and storm surges?",
+    "question_ta": "இந்தியாவின் எந்த பகுதி சுழற்சிகள் (cyclones) மற்றும் காற்றுப்பாய்ச்சல்களுக்கு மிகவும் பாதிக்கபடுகிறது?",
+    "options_en": ["West coast (Arabian Sea)","East coast (Bay of Bengal)","Thar Desert","Northeastern hills"],
+    "options_ta": ["மேற்கு கடற்கரை (அரபியக் கடல்)","கிழக்கு கடற்கரை (கரைப்பகுதி)","தார் மணல்வளம்","வடகிழக்கு மலைகள்"],
+    "answer_en": "East coast (Bay of Bengal)",
+    "answer_ta": "கிழக்கு கடற்கரை (கரைப்பகுதி)"
+  },
+  {
+    "question_en": "Which system was introduced by the British to collect land revenue directly from the ryots in many parts of India?",
+    "question_ta": "பல இந்திய பகுதிகளிலேயே பிரிட்டிஷ் நில வரியை நேரடியாக ரயோட்களிடமிருந்து ஓய்வாக சேகரிக்க அறிமுகப்படுத்திய முறை எது?",
+    "options_en": ["Permanent Settlement (Zamindari)","Ryotwari system","Mahalwari system","Zamindari abolition"],
+    "options_ta": ["நிரந்தர ஒழுங்கு (சாமிந்தார்)","ரயோத்வாரி முறை","மகால் முறை","சாமிந்தார் நீக்கம்"],
+    "answer_en": "Ryotwari system",
+    "answer_ta": "ரயோத்வாரி முறை"
+  },
+  {
+    "question_en": "Which forest type is typical of regions with heavy rainfall and supports dense evergreen vegetation?",
+    "question_ta": "பெரிய மழையுள்ள பகுதிகளுக்கு என்ன வன வகை சாதாரணமாக உள்ளது மற்றும் அடர்ந்த நிரந்தர இலைக் கசுமை (evergreen vegetation) ஆதரிக்கின்றது?",
+    "options_en": ["Tropical deciduous forest","Tropical evergreen forest","Thorn forest","Temperate coniferous forest"],
+    "options_ta": ["கடல் விழும் வனம் (Tropical deciduous)","கடல்நிலைய நிரந்தர வனம் (Tropical evergreen)","கோடைக்கட்ட வனம் (Thorn)","குளிர்பால்கன் விநியோக வனம்"],
+    "answer_en": "Tropical evergreen forest",
+    "answer_ta": "கடல்நிலைய நிரந்தர வனம் (Tropical evergreen)"
+  },
+  {
+    "question_en": "Which right is NOT explicitly listed as a Fundamental Right in the original Constitution of India (1950)?",
+    "question_ta": "1950 ஆண்டு மைய அரசியலமைப்பின் (மூல) அடிப்படை உரிமைகளில் (Fundamental Rights) தெளிவாக பட்டியலிடப்படாத உரிமை எது?",
+    "options_en": ["Right to Equality","Right to Property (later removed as a Fundamental Right)","Freedom of Speech","Right to Constitutional Remedies"],
+    "options_ta": ["சமத்துவக் உரிமை","செல்வ உரிமை (பிறகு அடிப்படை உரிமையில் இருந்து நீக்கப்பட்டது)","பேச்சு சுதந்திரம்","அரசாங்க உரிமைகளுக்கான வழிகள்"],
+    "answer_en": "Right to Property (later removed as a Fundamental Right)",
+    "answer_ta": "செல்வ உரிமை (பிறகு அடிப்படை உரிமையில் இருந்து நீக்கப்பட்டது)"
+  },
+  {
+    "question_en": "Which economic reform in 1991 most significantly changed India's trade and industry policy?",
+    "question_ta": "1991 இல் எந்த பொருளாதார சீர்திருத்தம் இந்தியாவின் வர்த்தக மற்றும் தொழில் கொள்கையை மிகவும் மாற்றியது?",
+    "options_en": ["Nationalisation of banks","Licence Raj expansion","Liberalisation and opening up to global markets","Introduction of Industrial Policy Resolution 1956"],
+    "options_ta": ["வங்கிகள் தேசியமயமுறுத்தல்","லைசென்ஸ் ராஜ் விருத்தி","பொருளாதார திறப்பும் உலக சந்தைகளுக்கு திறப்பு","1956 தொழில் நெறிமுறை அறிக்கை"],
+    "answer_en": "Liberalisation and opening up to global markets",
+    "answer_ta": "பொருளாதார திறப்பும் உலக சந்தைகளுக்கு திறப்பு"
+  },
+  {
+    "question_en": "Which reserve in India conserves natural biodiversity and was among the earliest national parks established?",
+    "question_ta": "இந்தியாவில் இயற்கை பல்வேறு வகை உயிரினங்களைக் காக்கும் மற்றும் ஆரம்ப காலத்தில் நிறுவப்பட்ட தேசியப் பூங்காக்களில் ஒன்றானது எது?",
+    "options_en": ["Kaziranga National Park","Gir National Park","Sundarbans National Park","Bandipur National Park"],
+    "options_ta": ["கஜிரங்க தேசியப் பூங்கா","கிர் தேசியப் பூங்கா","சுந்தர்பன்ஸ் தேசியப் பூங்கா","பண்டிபூர் தேசியப் பூங்கா"],
+    "answer_en": "Gir National Park",
+    "answer_ta": "கிர் தேசியப் பூங்கா"
+  },
+  {
+    "question_en": "Which body prepares the Union Budget of India annually?",
+    "question_ta": "இந்தியாவின் ஒன்றிய பட்ஜெட்டினை (Union Budget) ஆண்டாவது யார் தயார் செய்கின்றனர்?",
+    "options_en": ["Parliament","Ministry of Finance (Government)","Reserve Bank of India","Planning Commission (now NITI Aayog)"],
+    "options_ta": ["சட்டமன்றம்","பணவமைச்சகம்","ரிசர்வ் வங்கி","பிளானிங் கமிஷன் (இப்போது NITI ஆயோக்)"],
+    "answer_en": "Ministry of Finance (Government)",
+    "answer_ta": "பணவமைச்சகம்"
+  },
+  {
+    "question_en": "Which major Indian port lies on the east coast and handles large bulk cargo, e.g., coal and iron ore?",
+    "question_ta": "கிழக்கு கடற்கரையில் அமைந்துள்ள மற்றும் பெரிய மூலப்பொருள் சுமைகளை (கோல், இரும்பு கனிமம்) கையாளும் முக்கிய இந்தியத் துறைமுகம் எது?",
+    "options_en": ["Mumbai Port","Kolkata (Haldia) Port","Nhava Sheva (JNPT)","Mormugao Port"],
+    "options_ta": ["மும்பை போர்","கொழிக்கடா (ஹால்டியா) போர்","நவா ஷேவா (JNPT)","மோர்முகாவோ போர்"],
+    "answer_en": "Kolkata (Haldia) Port",
+    "answer_ta": "கொழிக்கடா (ஹால்டியா) போர்"
+  },
+  {
+    "question_en": "Which of the following best describes 'demographic transition'?",
+    "question_ta": "பின்வருவனில் எது 'மக்கள்தொகை மாற்றம் (demographic transition)' என்றதை சிறந்தவாறு விளக்குகிறது?",
+    "options_en": ["Simultaneous rise of birth and death rates","Decline in both birth and death rates as a society develops","Increase in fertility rates only","Migration from rural to urban areas only"],
+    "options_ta": ["பிறப்பு மற்றும் இறப்பு வீதங்கள் இரண்டும் ஒரே நேரத்தில் உயரும்","ஒரு சமுதாயம் முன்னேறும்போது பிறப்பு மற்றும் இறப்பு வீதம் இரண்டும் குறைவடையும்","பெருமண் மட்டுமே அதிகரிக்கும்","கிராமத்திலிருந்து நகரங்களுக்கு இடமாற்றம் மட்டும்"],
+    "answer_en": "Decline in both birth and death rates as a society develops",
+    "answer_ta": "ஒரு சமுதாயம் முன்னேறும்போது பிறப்பு மற்றும் இறப்பு வீதம் இரண்டும் குறைவடையும்"
+  }
+]

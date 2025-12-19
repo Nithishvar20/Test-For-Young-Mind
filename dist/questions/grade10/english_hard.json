@@ -1,0 +1,902 @@
+[
+  {
+    "question_en": "In 'Julius Caesar', why did Brutus join the conspirators?",
+    "question_ta": "‘ஜூலியஸ் சீசர்’ நாடகத்தில் ப்ரூட்டஸ் ஏன் சதி குழுவில் சேர்ந்தார்?",
+    "options_en": [
+      "For the good of Rome",
+      "Due to jealousy",
+      "To impress Cassius",
+      "For personal gain"
+    ],
+    "options_ta": [
+      "ரோமின் நலனுக்காக",
+      "பொறாமையால்",
+      "காசியசை கவர்வதற்காக",
+      "தன நலனுக்காக"
+    ],
+    "answer_en": "For the good of Rome",
+    "answer_ta": "ரோமின் நலனுக்காக"
+  },
+  {
+    "question_en": "What is the theme of 'The Road Not Taken'?",
+    "question_ta": "‘தி ரோடு நாட் டேகன்’ கவிதையின் கரு என்ன?",
+    "options_en": [
+      "Love",
+      "Choices in life",
+      "Friendship",
+      "War"
+    ],
+    "options_ta": [
+      "காதல்",
+      "வாழ்க்கையில் தேர்வுகள்",
+      "நட்பு",
+      "போர்"
+    ],
+    "answer_en": "Choices in life",
+    "answer_ta": "வாழ்க்கையில் தேர்வுகள்"
+  },
+  {
+    "question_en": "Who is the protagonist in 'A Christmas Carol'?",
+    "question_ta": "‘ஏ கிறிஸ்துமஸ் கரோல்’ கதையின் நாயகன் யார்?",
+    "options_en": [
+      "Scrooge",
+      "Tiny Tim",
+      "Fred",
+      "Jacob Marley"
+    ],
+    "options_ta": [
+      "ஸ்க்ரூஜ்",
+      "டைனி டிம்",
+      "ஃப்ரெட்",
+      "ஜேகப் மார்லி"
+    ],
+    "answer_en": "Scrooge",
+    "answer_ta": "ஸ்க்ரூஜ்"
+  },
+  {
+    "question_en": "In 'Julius Caesar', why did Brutus join the conspirators?",
+    "question_ta": "‘ஜூலியஸ் சீசர்’ நாடகத்தில் ப்ரூட்டஸ் ஏன் சதி குழுவில் சேர்ந்தார்?",
+    "options_en": [
+      "Due to jealousy",
+      "For personal gain",
+      "To impress Cassius",
+      "For the good of Rome"
+    ],
+    "options_ta": [
+      "பொறாமையால்",
+      "தன நலனுக்காக",
+      "காசியசை கவர்வதற்காக",
+      "ரோமின் நலனுக்காக"
+    ],
+    "answer_en": "For the good of Rome",
+    "answer_ta": "ரோமின் நலனுக்காக"
+  },
+  {
+    "question_en": "What is the theme of 'The Road Not Taken'?",
+    "question_ta": "‘தி ரோடு நாட் டேகன்’ கவிதையின் கரு என்ன?",
+    "options_en": [
+      "Love",
+      "Friendship",
+      "War",
+      "Choices in life"
+    ],
+    "options_ta": [
+      "காதல்",
+      "நட்பு",
+      "போர்",
+      "வாழ்க்கையில் தேர்வுகள்"
+    ],
+    "answer_en": "Choices in life",
+    "answer_ta": "வாழ்க்கையில் தேர்வுகள்"
+  },
+  {
+    "question_en": "Who is the protagonist in 'A Christmas Carol'?",
+    "question_ta": "‘ஏ கிறிஸ்துமஸ் கரோல்’ கதையின் நாயகன் யார்?",
+    "options_en": [
+      "Scrooge",
+      "Tiny Tim",
+      "Fred",
+      "Jacob Marley"
+    ],
+    "options_ta": [
+      "ஸ்க்ரூஜ்",
+      "டைனி டிம்",
+      "ஃப்ரெட்",
+      "ஜேகப் மார்லி"
+    ],
+    "answer_en": "Scrooge",
+    "answer_ta": "ஸ்க்ரூஜ்"
+  },
+  {
+    "question_en": "In 'Julius Caesar', why did Brutus join the conspirators?",
+    "question_ta": "‘ஜூலியஸ் சீசர்’ நாடகத்தில் ப்ரூட்டஸ் ஏன் சதி குழுவில் சேர்ந்தார்?",
+    "options_en": [
+      "To impress Cassius",
+      "Due to jealousy",
+      "For the good of Rome",
+      "For personal gain"
+    ],
+    "options_ta": [
+      "காசியசை கவர்வதற்காக",
+      "பொறாமையால்",
+      "ரோமின் நலனுக்காக",
+      "தன நலனுக்காக"
+    ],
+    "answer_en": "For the good of Rome",
+    "answer_ta": "ரோமின் நலனுக்காக"
+  },
+  {
+    "question_en": "What is the theme of 'The Road Not Taken'?",
+    "question_ta": "‘தி ரோடு நாட் டேகன்’ கவிதையின் கரு என்ன?",
+    "options_en": [
+      "Friendship",
+      "Choices in life",
+      "War",
+      "Love"
+    ],
+    "options_ta": [
+      "நட்பு",
+      "வாழ்க்கையில் தேர்வுகள்",
+      "போர்",
+      "காதல்"
+    ],
+    "answer_en": "Choices in life",
+    "answer_ta": "வாழ்க்கையில் தேர்வுகள்"
+  },
+  {
+    "question_en": "Who is the protagonist in 'A Christmas Carol'?",
+    "question_ta": "‘ஏ கிறிஸ்துமஸ் கரோல்’ கதையின் நாயகன் யார்?",
+    "options_en": [
+      "Tiny Tim",
+      "Scrooge",
+      "Fred",
+      "Jacob Marley"
+    ],
+    "options_ta": [
+      "டைனி டிம்",
+      "ஸ்க்ரூஜ்",
+      "ஃப்ரெட்",
+      "ஜேகப் மார்லி"
+    ],
+    "answer_en": "Scrooge",
+    "answer_ta": "ஸ்க்ரூஜ்"
+  },
+  {
+    "question_en": "In 'Julius Caesar', why did Brutus join the conspirators?",
+    "question_ta": "‘ஜூலியஸ் சீசர்’ நாடகத்தில் ப்ரூட்டஸ் ஏன் சதி குழுவில் சேர்ந்தார்?",
+    "options_en": [
+      "Due to jealousy",
+      "To impress Cassius",
+      "For personal gain",
+      "For the good of Rome"
+    ],
+    "options_ta": [
+      "பொறாமையால்",
+      "காசியசை கவர்வதற்காக",
+      "தன நலனுக்காக",
+      "ரோமின் நலனுக்காக"
+    ],
+    "answer_en": "For the good of Rome",
+    "answer_ta": "ரோமின் நலனுக்காக"
+  },
+  {
+    "question_en": "What is the theme of 'The Road Not Taken'?",
+    "question_ta": "‘தி ரோடு நாட் டேகன்’ கவிதையின் கரு என்ன?",
+    "options_en": [
+      "Love",
+      "Choices in life",
+      "Friendship",
+      "War"
+    ],
+    "options_ta": [
+      "காதல்",
+      "வாழ்க்கையில் தேர்வுகள்",
+      "நட்பு",
+      "போர்"
+    ],
+    "answer_en": "Choices in life",
+    "answer_ta": "வாழ்க்கையில் தேர்வுகள்"
+  },
+  {
+    "question_en": "Who is the protagonist in 'A Christmas Carol'?",
+    "question_ta": "‘ஏ கிறிஸ்துமஸ் கரோல்’ கதையின் நாயகன் யார்?",
+    "options_en": [
+      "Tiny Tim",
+      "Jacob Marley",
+      "Fred",
+      "Scrooge"
+    ],
+    "options_ta": [
+      "டைனி டிம்",
+      "ஜேகப் மார்லி",
+      "ஃப்ரெட்",
+      "ஸ்க்ரூஜ்"
+    ],
+    "answer_en": "Scrooge",
+    "answer_ta": "ஸ்க்ரூஜ்"
+  },
+  {
+    "question_en": "In 'Julius Caesar', why did Brutus join the conspirators?",
+    "question_ta": "‘ஜூலியஸ் சீசர்’ நாடகத்தில் ப்ரூட்டஸ் ஏன் சதி குழுவில் சேர்ந்தார்?",
+    "options_en": [
+      "To impress Cassius",
+      "For personal gain",
+      "Due to jealousy",
+      "For the good of Rome"
+    ],
+    "options_ta": [
+      "காசியசை கவர்வதற்காக",
+      "தன நலனுக்காக",
+      "பொறாமையால்",
+      "ரோமின் நலனுக்காக"
+    ],
+    "answer_en": "For the good of Rome",
+    "answer_ta": "ரோமின் நலனுக்காக"
+  },
+  {
+    "question_en": "What is the theme of 'The Road Not Taken'?",
+    "question_ta": "‘தி ரோடு நாட் டேகன்’ கவிதையின் கரு என்ன?",
+    "options_en": [
+      "Choices in life",
+      "Friendship",
+      "Love",
+      "War"
+    ],
+    "options_ta": [
+      "வாழ்க்கையில் தேர்வுகள்",
+      "நட்பு",
+      "காதல்",
+      "போர்"
+    ],
+    "answer_en": "Choices in life",
+    "answer_ta": "வாழ்க்கையில் தேர்வுகள்"
+  },
+  {
+    "question_en": "Who is the protagonist in 'A Christmas Carol'?",
+    "question_ta": "‘ஏ கிறிஸ்துமஸ் கரோல்’ கதையின் நாயகன் யார்?",
+    "options_en": [
+      "Jacob Marley",
+      "Tiny Tim",
+      "Scrooge",
+      "Fred"
+    ],
+    "options_ta": [
+      "ஜேகப் மார்லி",
+      "டைனி டிம்",
+      "ஸ்க்ரூஜ்",
+      "ஃப்ரெட்"
+    ],
+    "answer_en": "Scrooge",
+    "answer_ta": "ஸ்க்ரூஜ்"
+  },
+  {
+    "question_en": "In 'Julius Caesar', why did Brutus join the conspirators?",
+    "question_ta": "‘ஜூலியஸ் சீசர்’ நாடகத்தில் ப்ரூட்டஸ் ஏன் சதி குழுவில் சேர்ந்தார்?",
+    "options_en": [
+      "For the good of Rome",
+      "To impress Cassius",
+      "For personal gain",
+      "Due to jealousy"
+    ],
+    "options_ta": [
+      "ரோமின் நலனுக்காக",
+      "காசியசை கவர்வதற்காக",
+      "தன நலனுக்காக",
+      "பொறாமையால்"
+    ],
+    "answer_en": "For the good of Rome",
+    "answer_ta": "ரோமின் நலனுக்காக"
+  },
+  {
+    "question_en": "What is the theme of 'The Road Not Taken'?",
+    "question_ta": "‘தி ரோடு நாட் டேகன்’ கவிதையின் கரு என்ன?",
+    "options_en": [
+      "Love",
+      "Friendship",
+      "Choices in life",
+      "War"
+    ],
+    "options_ta": [
+      "காதல்",
+      "நட்பு",
+      "வாழ்க்கையில் தேர்வுகள்",
+      "போர்"
+    ],
+    "answer_en": "Choices in life",
+    "answer_ta": "வாழ்க்கையில் தேர்வுகள்"
+  },
+  {
+    "question_en": "Who is the protagonist in 'A Christmas Carol'?",
+    "question_ta": "‘ஏ கிறிஸ்துமஸ் கரோல்’ கதையின் நாயகன் யார்?",
+    "options_en": [
+      "Scrooge",
+      "Fred",
+      "Tiny Tim",
+      "Jacob Marley"
+    ],
+    "options_ta": [
+      "ஸ்க்ரூஜ்",
+      "ஃப்ரெட்",
+      "டைனி டிம்",
+      "ஜேகப் மார்லி"
+    ],
+    "answer_en": "Scrooge",
+    "answer_ta": "ஸ்க்ரூஜ்"
+  },
+  {
+    "question_en": "In 'Julius Caesar', why did Brutus join the conspirators?",
+    "question_ta": "‘ஜூலியஸ் சீசர்’ நாடகத்தில் ப்ரூட்டஸ் ஏன் சதி குழுவில் சேர்ந்தார்?",
+    "options_en": [
+      "For the good of Rome",
+      "Due to jealousy",
+      "To impress Cassius",
+      "For personal gain"
+    ],
+    "options_ta": [
+      "ரோமின் நலனுக்காக",
+      "பொறாமையால்",
+      "காசியசை கவர்வதற்காக",
+      "தன நலனுக்காக"
+    ],
+    "answer_en": "For the good of Rome",
+    "answer_ta": "ரோமின் நலனுக்காக"
+  },
+  {
+    "question_en": "What is the theme of 'The Road Not Taken'?",
+    "question_ta": "‘தி ரோடு நாட் டேகன்’ கவிதையின் கரு என்ன?",
+    "options_en": [
+      "War",
+      "Friendship",
+      "Choices in life",
+      "Love"
+    ],
+    "options_ta": [
+      "போர்",
+      "நட்பு",
+      "வாழ்க்கையில் தேர்வுகள்",
+      "காதல்"
+    ],
+    "answer_en": "Choices in life",
+    "answer_ta": "வாழ்க்கையில் தேர்வுகள்"
+  },
+  {
+    "question_en": "Who is the protagonist in 'A Christmas Carol'?",
+    "question_ta": "‘ஏ கிறிஸ்துமஸ் கரோல்’ கதையின் நாயகன் யார்?",
+    "options_en": [
+      "Jacob Marley",
+      "Scrooge",
+      "Tiny Tim",
+      "Fred"
+    ],
+    "options_ta": [
+      "ஜேகப் மார்லி",
+      "ஸ்க்ரூஜ்",
+      "டைனி டிம்",
+      "ஃப்ரெட்"
+    ],
+    "answer_en": "Scrooge",
+    "answer_ta": "ஸ்க்ரூஜ்"
+  },
+  {
+    "question_en": "In 'Julius Caesar', why did Brutus join the conspirators?",
+    "question_ta": "‘ஜூலியஸ் சீசர்’ நாடகத்தில் ப்ரூட்டஸ் ஏன் சதி குழுவில் சேர்ந்தார்?",
+    "options_en": [
+      "To impress Cassius",
+      "For personal gain",
+      "For the good of Rome",
+      "Due to jealousy"
+    ],
+    "options_ta": [
+      "காசியசை கவர்வதற்காக",
+      "தன நலனுக்காக",
+      "ரோமின் நலனுக்காக",
+      "பொறாமையால்"
+    ],
+    "answer_en": "For the good of Rome",
+    "answer_ta": "ரோமின் நலனுக்காக"
+  },
+  {
+    "question_en": "What is the theme of 'The Road Not Taken'?",
+    "question_ta": "‘தி ரோடு நாட் டேகன்’ கவிதையின் கரு என்ன?",
+    "options_en": [
+      "Friendship",
+      "Choices in life",
+      "War",
+      "Love"
+    ],
+    "options_ta": [
+      "நட்பு",
+      "வாழ்க்கையில் தேர்வுகள்",
+      "போர்",
+      "காதல்"
+    ],
+    "answer_en": "Choices in life",
+    "answer_ta": "வாழ்க்கையில் தேர்வுகள்"
+  },
+  {
+    "question_en": "Who is the protagonist in 'A Christmas Carol'?",
+    "question_ta": "‘ஏ கிறிஸ்துமஸ் கரோல்’ கதையின் நாயகன் யார்?",
+    "options_en": [
+      "Jacob Marley",
+      "Tiny Tim",
+      "Scrooge",
+      "Fred"
+    ],
+    "options_ta": [
+      "ஜேகப் மார்லி",
+      "டைனி டிம்",
+      "ஸ்க்ரூஜ்",
+      "ஃப்ரெட்"
+    ],
+    "answer_en": "Scrooge",
+    "answer_ta": "ஸ்க்ரூஜ்"
+  },
+  {
+    "question_en": "In 'Julius Caesar', why did Brutus join the conspirators?",
+    "question_ta": "‘ஜூலியஸ் சீசர்’ நாடகத்தில் ப்ரூட்டஸ் ஏன் சதி குழுவில் சேர்ந்தார்?",
+    "options_en": [
+      "Due to jealousy",
+      "For personal gain",
+      "To impress Cassius",
+      "For the good of Rome"
+    ],
+    "options_ta": [
+      "பொறாமையால்",
+      "தன நலனுக்காக",
+      "காசியசை கவர்வதற்காக",
+      "ரோமின் நலனுக்காக"
+    ],
+    "answer_en": "For the good of Rome",
+    "answer_ta": "ரோமின் நலனுக்காக"
+  },
+  {
+    "question_en": "What is the theme of 'The Road Not Taken'?",
+    "question_ta": "‘தி ரோடு நாட் டேகன்’ கவிதையின் கரு என்ன?",
+    "options_en": [
+      "Choices in life",
+      "Friendship",
+      "War",
+      "Love"
+    ],
+    "options_ta": [
+      "வாழ்க்கையில் தேர்வுகள்",
+      "நட்பு",
+      "போர்",
+      "காதல்"
+    ],
+    "answer_en": "Choices in life",
+    "answer_ta": "வாழ்க்கையில் தேர்வுகள்"
+  },
+  {
+    "question_en": "Who is the protagonist in 'A Christmas Carol'?",
+    "question_ta": "‘ஏ கிறிஸ்துமஸ் கரோல்’ கதையின் நாயகன் யார்?",
+    "options_en": [
+      "Jacob Marley",
+      "Tiny Tim",
+      "Fred",
+      "Scrooge"
+    ],
+    "options_ta": [
+      "ஜேகப் மார்லி",
+      "டைனி டிம்",
+      "ஃப்ரெட்",
+      "ஸ்க்ரூஜ்"
+    ],
+    "answer_en": "Scrooge",
+    "answer_ta": "ஸ்க்ரூஜ்"
+  },
+  {
+    "question_en": "In 'Julius Caesar', why did Brutus join the conspirators?",
+    "question_ta": "‘ஜூலியஸ் சீசர்’ நாடகத்தில் ப்ரூட்டஸ் ஏன் சதி குழுவில் சேர்ந்தார்?",
+    "options_en": [
+      "To impress Cassius",
+      "Due to jealousy",
+      "For personal gain",
+      "For the good of Rome"
+    ],
+    "options_ta": [
+      "காசியசை கவர்வதற்காக",
+      "பொறாமையால்",
+      "தன நலனுக்காக",
+      "ரோமின் நலனுக்காக"
+    ],
+    "answer_en": "For the good of Rome",
+    "answer_ta": "ரோமின் நலனுக்காக"
+  },
+  {
+    "question_en": "What is the theme of 'The Road Not Taken'?",
+    "question_ta": "‘தி ரோடு நாட் டேகன்’ கவிதையின் கரு என்ன?",
+    "options_en": [
+      "Love",
+      "Friendship",
+      "War",
+      "Choices in life"
+    ],
+    "options_ta": [
+      "காதல்",
+      "நட்பு",
+      "போர்",
+      "வாழ்க்கையில் தேர்வுகள்"
+    ],
+    "answer_en": "Choices in life",
+    "answer_ta": "வாழ்க்கையில் தேர்வுகள்"
+  },
+  {
+    "question_en": "Who is the protagonist in 'A Christmas Carol'?",
+    "question_ta": "‘ஏ கிறிஸ்துமஸ் கரோல்’ கதையின் நாயகன் யார்?",
+    "options_en": [
+      "Scrooge",
+      "Jacob Marley",
+      "Fred",
+      "Tiny Tim"
+    ],
+    "options_ta": [
+      "ஸ்க்ரூஜ்",
+      "ஜேகப் மார்லி",
+      "ஃப்ரெட்",
+      "டைனி டிம்"
+    ],
+    "answer_en": "Scrooge",
+    "answer_ta": "ஸ்க்ரூஜ்"
+  },
+  {
+    "question_en": "In 'Julius Caesar', why did Brutus join the conspirators?",
+    "question_ta": "‘ஜூலியஸ் சீசர்’ நாடகத்தில் ப்ரூட்டஸ் ஏன் சதி குழுவில் சேர்ந்தார்?",
+    "options_en": [
+      "For personal gain",
+      "For the good of Rome",
+      "To impress Cassius",
+      "Due to jealousy"
+    ],
+    "options_ta": [
+      "தன நலனுக்காக",
+      "ரோமின் நலனுக்காக",
+      "காசியசை கவர்வதற்காக",
+      "பொறாமையால்"
+    ],
+    "answer_en": "For the good of Rome",
+    "answer_ta": "ரோமின் நலனுக்காக"
+  },
+  {
+    "question_en": "What is the theme of 'The Road Not Taken'?",
+    "question_ta": "‘தி ரோடு நாட் டேகன்’ கவிதையின் கரு என்ன?",
+    "options_en": [
+      "War",
+      "Choices in life",
+      "Friendship",
+      "Love"
+    ],
+    "options_ta": [
+      "போர்",
+      "வாழ்க்கையில் தேர்வுகள்",
+      "நட்பு",
+      "காதல்"
+    ],
+    "answer_en": "Choices in life",
+    "answer_ta": "வாழ்க்கையில் தேர்வுகள்"
+  },
+  {
+    "question_en": "Who is the protagonist in 'A Christmas Carol'?",
+    "question_ta": "‘ஏ கிறிஸ்துமஸ் கரோல்’ கதையின் நாயகன் யார்?",
+    "options_en": [
+      "Scrooge",
+      "Fred",
+      "Jacob Marley",
+      "Tiny Tim"
+    ],
+    "options_ta": [
+      "ஸ்க்ரூஜ்",
+      "ஃப்ரெட்",
+      "ஜேகப் மார்லி",
+      "டைனி டிம்"
+    ],
+    "answer_en": "Scrooge",
+    "answer_ta": "ஸ்க்ரூஜ்"
+  },
+  {
+    "question_en": "In 'Julius Caesar', why did Brutus join the conspirators?",
+    "question_ta": "‘ஜூலியஸ் சீசர்’ நாடகத்தில் ப்ரூட்டஸ் ஏன் சதி குழுவில் சேர்ந்தார்?",
+    "options_en": [
+      "Due to jealousy",
+      "For the good of Rome",
+      "To impress Cassius",
+      "For personal gain"
+    ],
+    "options_ta": [
+      "பொறாமையால்",
+      "ரோமின் நலனுக்காக",
+      "காசியசை கவர்வதற்காக",
+      "தன நலனுக்காக"
+    ],
+    "answer_en": "For the good of Rome",
+    "answer_ta": "ரோமின் நலனுக்காக"
+  },
+  {
+    "question_en": "What is the theme of 'The Road Not Taken'?",
+    "question_ta": "‘தி ரோடு நாட் டேகன்’ கவிதையின் கரு என்ன?",
+    "options_en": [
+      "Choices in life",
+      "Love",
+      "War",
+      "Friendship"
+    ],
+    "options_ta": [
+      "வாழ்க்கையில் தேர்வுகள்",
+      "காதல்",
+      "போர்",
+      "நட்பு"
+    ],
+    "answer_en": "Choices in life",
+    "answer_ta": "வாழ்க்கையில் தேர்வுகள்"
+  },
+  {
+    "question_en": "Who is the protagonist in 'A Christmas Carol'?",
+    "question_ta": "‘ஏ கிறிஸ்துமஸ் கரோல்’ கதையின் நாயகன் யார்?",
+    "options_en": [
+      "Tiny Tim",
+      "Jacob Marley",
+      "Scrooge",
+      "Fred"
+    ],
+    "options_ta": [
+      "டைனி டிம்",
+      "ஜேகப் மார்லி",
+      "ஸ்க்ரூஜ்",
+      "ஃப்ரெட்"
+    ],
+    "answer_en": "Scrooge",
+    "answer_ta": "ஸ்க்ரூஜ்"
+  },
+  {
+    "question_en": "In 'Julius Caesar', why did Brutus join the conspirators?",
+    "question_ta": "‘ஜூலியஸ் சீசர்’ நாடகத்தில் ப்ரூட்டஸ் ஏன் சதி குழுவில் சேர்ந்தார்?",
+    "options_en": [
+      "Due to jealousy",
+      "To impress Cassius",
+      "For personal gain",
+      "For the good of Rome"
+    ],
+    "options_ta": [
+      "பொறாமையால்",
+      "காசியசை கவர்வதற்காக",
+      "தன நலனுக்காக",
+      "ரோமின் நலனுக்காக"
+    ],
+    "answer_en": "For the good of Rome",
+    "answer_ta": "ரோமின் நலனுக்காக"
+  },
+  {
+    "question_en": "What is the theme of 'The Road Not Taken'?",
+    "question_ta": "‘தி ரோடு நாட் டேகன்’ கவிதையின் கரு என்ன?",
+    "options_en": [
+      "Friendship",
+      "War",
+      "Choices in life",
+      "Love"
+    ],
+    "options_ta": [
+      "நட்பு",
+      "போர்",
+      "வாழ்க்கையில் தேர்வுகள்",
+      "காதல்"
+    ],
+    "answer_en": "Choices in life",
+    "answer_ta": "வாழ்க்கையில் தேர்வுகள்"
+  },
+  {
+    "question_en": "Who is the protagonist in 'A Christmas Carol'?",
+    "question_ta": "‘ஏ கிறிஸ்துமஸ் கரோல்’ கதையின் நாயகன் யார்?",
+    "options_en": [
+      "Tiny Tim",
+      "Jacob Marley",
+      "Scrooge",
+      "Fred"
+    ],
+    "options_ta": [
+      "டைனி டிம்",
+      "ஜேகப் மார்லி",
+      "ஸ்க்ரூஜ்",
+      "ஃப்ரெட்"
+    ],
+    "answer_en": "Scrooge",
+    "answer_ta": "ஸ்க்ரூஜ்"
+  },
+  {
+    "question_en": "In 'Julius Caesar', why did Brutus join the conspirators?",
+    "question_ta": "‘ஜூலியஸ் சீசர்’ நாடகத்தில் ப்ரூட்டஸ் ஏன் சதி குழுவில் சேர்ந்தார்?",
+    "options_en": [
+      "For the good of Rome",
+      "To impress Cassius",
+      "Due to jealousy",
+      "For personal gain"
+    ],
+    "options_ta": [
+      "ரோமின் நலனுக்காக",
+      "காசியசை கவர்வதற்காக",
+      "பொறாமையால்",
+      "தன நலனுக்காக"
+    ],
+    "answer_en": "For the good of Rome",
+    "answer_ta": "ரோமின் நலனுக்காக"
+  },
+  {
+    "question_en": "What is the theme of 'The Road Not Taken'?",
+    "question_ta": "‘தி ரோடு நாட் டேகன்’ கவிதையின் கரு என்ன?",
+    "options_en": [
+      "War",
+      "Choices in life",
+      "Friendship",
+      "Love"
+    ],
+    "options_ta": [
+      "போர்",
+      "வாழ்க்கையில் தேர்வுகள்",
+      "நட்பு",
+      "காதல்"
+    ],
+    "answer_en": "Choices in life",
+    "answer_ta": "வாழ்க்கையில் தேர்வுகள்"
+  },
+  {
+    "question_en": "Who is the protagonist in 'A Christmas Carol'?",
+    "question_ta": "‘ஏ கிறிஸ்துமஸ் கரோல்’ கதையின் நாயகன் யார்?",
+    "options_en": [
+      "Fred",
+      "Scrooge",
+      "Jacob Marley",
+      "Tiny Tim"
+    ],
+    "options_ta": [
+      "ஃப்ரெட்",
+      "ஸ்க்ரூஜ்",
+      "ஜேகப் மார்லி",
+      "டைனி டிம்"
+    ],
+    "answer_en": "Scrooge",
+    "answer_ta": "ஸ்க்ரூஜ்"
+  },
+  {
+    "question_en": "In 'Julius Caesar', why did Brutus join the conspirators?",
+    "question_ta": "‘ஜூலியஸ் சீசர்’ நாடகத்தில் ப்ரூட்டஸ் ஏன் சதி குழுவில் சேர்ந்தார்?",
+    "options_en": [
+      "For the good of Rome",
+      "To impress Cassius",
+      "For personal gain",
+      "Due to jealousy"
+    ],
+    "options_ta": [
+      "ரோமின் நலனுக்காக",
+      "காசியசை கவர்வதற்காக",
+      "தன நலனுக்காக",
+      "பொறாமையால்"
+    ],
+    "answer_en": "For the good of Rome",
+    "answer_ta": "ரோமின் நலனுக்காக"
+  },
+  {
+    "question_en": "What is the theme of 'The Road Not Taken'?",
+    "question_ta": "‘தி ரோடு நாட் டேகன்’ கவிதையின் கரு என்ன?",
+    "options_en": [
+      "Choices in life",
+      "Love",
+      "Friendship",
+      "War"
+    ],
+    "options_ta": [
+      "வாழ்க்கையில் தேர்வுகள்",
+      "காதல்",
+      "நட்பு",
+      "போர்"
+    ],
+    "answer_en": "Choices in life",
+    "answer_ta": "வாழ்க்கையில் தேர்வுகள்"
+  },
+  {
+    "question_en": "Who is the protagonist in 'A Christmas Carol'?",
+    "question_ta": "‘ஏ கிறிஸ்துமஸ் கரோல்’ கதையின் நாயகன் யார்?",
+    "options_en": [
+      "Jacob Marley",
+      "Tiny Tim",
+      "Fred",
+      "Scrooge"
+    ],
+    "options_ta": [
+      "ஜேகப் மார்லி",
+      "டைனி டிம்",
+      "ஃப்ரெட்",
+      "ஸ்க்ரூஜ்"
+    ],
+    "answer_en": "Scrooge",
+    "answer_ta": "ஸ்க்ரூஜ்"
+  },
+  {
+    "question_en": "In 'Julius Caesar', why did Brutus join the conspirators?",
+    "question_ta": "‘ஜூலியஸ் சீசர்’ நாடகத்தில் ப்ரூட்டஸ் ஏன் சதி குழுவில் சேர்ந்தார்?",
+    "options_en": [
+      "For the good of Rome",
+      "Due to jealousy",
+      "For personal gain",
+      "To impress Cassius"
+    ],
+    "options_ta": [
+      "ரோமின் நலனுக்காக",
+      "பொறாமையால்",
+      "தன நலனுக்காக",
+      "காசியசை கவர்வதற்காக"
+    ],
+    "answer_en": "For the good of Rome",
+    "answer_ta": "ரோமின் நலனுக்காக"
+  },
+  {
+    "question_en": "What is the theme of 'The Road Not Taken'?",
+    "question_ta": "‘தி ரோடு நாட் டேகன்’ கவிதையின் கரு என்ன?",
+    "options_en": [
+      "Love",
+      "War",
+      "Choices in life",
+      "Friendship"
+    ],
+    "options_ta": [
+      "காதல்",
+      "போர்",
+      "வாழ்க்கையில் தேர்வுகள்",
+      "நட்பு"
+    ],
+    "answer_en": "Choices in life",
+    "answer_ta": "வாழ்க்கையில் தேர்வுகள்"
+  },
+  {
+    "question_en": "Who is the protagonist in 'A Christmas Carol'?",
+    "question_ta": "‘ஏ கிறிஸ்துமஸ் கரோல்’ கதையின் நாயகன் யார்?",
+    "options_en": [
+      "Jacob Marley",
+      "Scrooge",
+      "Fred",
+      "Tiny Tim"
+    ],
+    "options_ta": [
+      "ஜேகப் மார்லி",
+      "ஸ்க்ரூஜ்",
+      "ஃப்ரெட்",
+      "டைனி டிம்"
+    ],
+    "answer_en": "Scrooge",
+    "answer_ta": "ஸ்க்ரூஜ்"
+  },
+  {
+    "question_en": "In 'Julius Caesar', why did Brutus join the conspirators?",
+    "question_ta": "‘ஜூலியஸ் சீசர்’ நாடகத்தில் ப்ரூட்டஸ் ஏன் சதி குழுவில் சேர்ந்தார்?",
+    "options_en": [
+      "For personal gain",
+      "To impress Cassius",
+      "Due to jealousy",
+      "For the good of Rome"
+    ],
+    "options_ta": [
+      "தன நலனுக்காக",
+      "காசியசை கவர்வதற்காக",
+      "பொறாமையால்",
+      "ரோமின் நலனுக்காக"
+    ],
+    "answer_en": "For the good of Rome",
+    "answer_ta": "ரோமின் நலனுக்காக"
+  },
+  {
+    "question_en": "What is the theme of 'The Road Not Taken'?",
+    "question_ta": "‘தி ரோடு நாட் டேகன்’ கவிதையின் கரு என்ன?",
+    "options_en": [
+      "Choices in life",
+      "Love",
+      "Friendship",
+      "War"
+    ],
+    "options_ta": [
+      "வாழ்க்கையில் தேர்வுகள்",
+      "காதல்",
+      "நட்பு",
+      "போர்"
+    ],
+    "answer_en": "Choices in life",
+    "answer_ta": "வாழ்க்கையில் தேர்வுகள்"
+  }
+]

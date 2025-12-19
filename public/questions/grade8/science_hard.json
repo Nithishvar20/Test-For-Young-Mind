@@ -1,0 +1,274 @@
+[
+  {
+    "question_en": "Pressure at a depth of 10 m in fresh water (ρ = 1000 kg/m³, g = 9.8 m/s²) is approximately:",
+    "question_ta": "தண்ணீரில் 10 m ஆழமானதில் அவரின் அழுத்தம் (ρ = 1000 kg/m³, g = 9.8 m/s²) சுமார் எவ்வளவு?",
+    "options_en": ["9.8 × 10³ Pa","9.8 × 10⁴ Pa","1.0 × 10⁵ Pa","9.8 × 10⁵ Pa"],
+    "options_ta": ["9.8 × 10³ Pa","9.8 × 10⁴ Pa","1.0 × 10⁵ Pa","9.8 × 10⁵ Pa"],
+    "answer_en": "9.8 × 10⁴ Pa",
+    "answer_ta": "9.8 × 10⁴ Pa"
+  },
+  {
+    "question_en": "How much heat (in J) is required to raise 200 g of water from 20°C to 80°C? (Specific heat of water = 4200 J/kg·K)",
+    "question_ta": "200 g நீரை 20°C இல் இருந்து 80°C வரை உயர்த்த எத்தனை ஜூல் (J) வெப்பம் தேவை? (நீரின் விசேஷ வெப்பம் = 4200 J/kg·K)",
+    "options_en": ["25,200 J","50,400 J","42,000 J","60,000 J"],
+    "options_ta": ["25,200 J","50,400 J","42,000 J","60,000 J"],
+    "answer_en": "50,400 J",
+    "answer_ta": "50,400 J"
+  },
+  {
+    "question_en": "Energy required to melt 250 g of ice at 0°C (latent heat of fusion of ice = 334 kJ/kg) is:",
+    "question_ta": "0°C இல் 250 g பனியை உருகத் தேவையான வெப்பஆற்றல் (latent heat of fusion = 334 kJ/kg) எவ்வளவு?",
+    "options_en": ["66,800 J","83,500 J","125,600 J","33,400 J"],
+    "options_ta": ["66,800 J","83,500 J","125,600 J","33,400 J"],
+    "answer_en": "83,500 J",
+    "answer_ta": "83,500 J"
+  },
+  {
+    "question_en": "A ladder leans making 60° with the ground. If the foot is 4 m from the wall, the length of the ladder is:",
+    "question_ta": "ஒரு মই தரையுடன் 60° கோணம் அமைத்து நின்றால்; அதன் அடிப்பகுதி சுவரிலிருந்து 4 m என்றால், மோயின் நீளம் எவ்வளவு?",
+    "options_en": ["4.62 m","6.93 m","8.49 m","8.00 m"],
+    "options_ta": ["4.62 m","6.93 m","8.49 m","8.00 m"],
+    "answer_en": "8.00 m",
+    "answer_ta": "8.00 m"
+  },
+  {
+    "question_en": "A car travels 150 km in 2 hours 20 minutes. Its average speed (km/h) is approximately:",
+    "question_ta": "ஒரு கார் 2 மணி 20 நிமிடங்களில் 150 km பயணித்தால் அதன் சராசரி வேகம் (km/h) சுமார் எவ்வளவு?",
+    "options_en": ["62.5 km/h","64.29 km/h","66.67 km/h","60.00 km/h"],
+    "options_ta": ["62.5 கிமீ/மணி","64.29 கிமீ/மணி","66.67 கிமீ/மணி","60.00 கிமீ/மணி"],
+    "answer_en": "64.29 km/h",
+    "answer_ta": "64.29 கிமீ/மணி"
+  },
+  {
+    "question_en": "A wave has frequency 256 Hz. Its period (in seconds) is:",
+    "question_ta": "ஒரு அலையைத் தாக்கவதின் அடிக்கடி 256 Hz என்றால் அதன் காலாண்டு (period) (வினாடிகளாக) எவ்வளவு?",
+    "options_en": ["0.00039 s","0.00391 s","0.0391 s","0.391 s"],
+    "options_ta": ["0.00039 s","0.00391 s","0.0391 s","0.391 s"],
+    "answer_en": "0.00391 s",
+    "answer_ta": "0.00391 s"
+  },
+  {
+    "question_en": "Two resistors 6 Ω and 3 Ω are connected in parallel. The equivalent resistance is:",
+    "question_ta": "6 Ω மற்றும் 3 Ω எதிர்ப்புகள் இணைப்பில் (parallel) இணைக்கப்பட்டிருக்கும்போது சமநிலை எதிர்ப்பு எவ்வளவு?",
+    "options_en": ["2 Ω","9 Ω","1.5 Ω","4.5 Ω"],
+    "options_ta": ["2 Ω","9 Ω","1.5 Ω","4.5 Ω"],
+    "answer_en": "2 Ω",
+    "answer_ta": "2 Ω"
+  },
+  {
+    "question_en": "A 100 W bulb is switched on for 5 hours. Energy consumed in joules is approximately:",
+    "question_ta": "100 W மின்விளக்கு 5 மணி நேரம் இயங்கினால் சாபிட்டல் (energy) ஜூல்களில் சுமார் எவ்வளவு?",
+    "options_en": ["180,000 J","1,800,000 J","18,000 J","36,000 J"],
+    "options_ta": ["180,000 J","1,800,000 J","18,000 J","36,000 J"],
+    "answer_en": "1,800,000 J",
+    "answer_ta": "1,800,000 J"
+  },
+  {
+    "question_en": "A thin convex lens has focal length 10 cm. If an object is placed at 30 cm, image distance is (use thin lens formula):",
+    "question_ta": "ஒரு நுண் உருப்படி (convex) லென்ஸின் கவுன் தூரம் 10 cm. பொருள் 30 cm இல் வைத்தால் படத்தின் தூரம் (thin lens சூத்திரம் பயன்படுத்துக) என்ன?",
+    "options_en": ["15 cm","20 cm","30 cm","5 cm"],
+    "options_ta": ["15 cm","20 cm","30 cm","5 cm"],
+    "answer_en": "15 cm",
+    "answer_ta": "15 cm"
+  },
+  {
+    "question_en": "A sound wave with wavelength 1.25 m travels at 340 m/s. Its frequency (Hz) is:",
+    "question_ta": "அலை நீளம் 1.25 m மற்றும் வேகம் 340 m/s என்ற சத்த அலையின் அதிர்வாய்ப்பு (frequency) எவ்வளவு?",
+    "options_en": ["272 Hz","256 Hz","300 Hz","200 Hz"],
+    "options_ta": ["272 Hz","256 Hz","300 Hz","200 Hz"],
+    "answer_en": "272 Hz",
+    "answer_ta": "272 Hz"
+  },
+  {
+    "question_en": "A solid block of volume 20,000 cm³ (0.02 m³) is fully submerged in water. The buoyant force (ρwater = 1000 kg/m³, g = 9.8 m/s²) is about:",
+    "question_ta": "20,000 cm³ (0.02 m³) ஐ ஒரு திட பொருள் முழுவதுமாக நீரில் மூழ்கும் போது தள்ளிப் பயன் (buoyant force) (ρ = 1000 kg/m³, g = 9.8) சுமார் எவ்வளவு?",
+    "options_en": ["196 N","1960 N","19.6 N","980 N"],
+    "options_ta": ["196 N","1960 N","19.6 N","980 N"],
+    "answer_en": "196 N",
+    "answer_ta": "196 N"
+  },
+  {
+    "question_en": "Power dissipated in a resistor: A 12 V battery across a 6 Ω resistor dissipates power (W) equal to:",
+    "question_ta": "ஒரு 12 V மின்கோடு 6 Ω எதிர்ப்பு மீது சேர்க்கப்பட்டால் எதிர்ப்பில் கொழுப்பாகும் சக்தி (W) எவ்வளவு?",
+    "options_en": ["2 W","12 W","24 W","36 W"],
+    "options_ta": ["2 W","12 W","24 W","36 W"],
+    "answer_en": "24 W",
+    "answer_ta": "24 W"
+  },
+  {
+    "question_en": "In a right triangle the two legs are 7 cm and 24 cm. The hypotenuse is:",
+    "question_ta": "ஒரு சமவழுக்க முக்கோணத்தில் (right triangle) இரண்டு பக்கங்கள் 7 cm மற்றும் 24 cm என்றால் ஹைபோட்டினியூஸ் எவ்வளவு?",
+    "options_en": ["25 cm","26 cm","24.5 cm","23 cm"],
+    "options_ta": ["25 cm","26 cm","24.5 cm","23 cm"],
+    "answer_en": "25 cm",
+    "answer_ta": "25 cm"
+  },
+  {
+    "question_en": "If a number increases by 20% and then decreases by 20%, the net change is:",
+    "question_ta": "ஒரு எண்ணை முதலில் 20% அதிகரித்து பிறகு 20% குறைத்தால் மொத்த மாற்றம் என்ன?",
+    "options_en": ["No change","4% increase","4% decrease","2% decrease"],
+    "options_ta": ["மாற்றமில்லை","4% அதிகரிப்பு","4% குறைவு","2% குறைவு"],
+    "answer_en": "4% decrease",
+    "answer_ta": "4% குறைவு"
+  },
+  {
+    "question_en": "Heat required to raise temperature of 0.5 kg iron (specific heat 450 J/kg·K) from 20°C to 100°C is:",
+    "question_ta": "0.5 kg இரும்பின் (iron) வெப்பநிலையை 20°C இருந்து 100°C வரை உயர்த்த தேவையான வெப்பம் (சூடானவர் 450 J/kg·K) எவ்வளவு?",
+    "options_en": ["9,000 J","18,000 J","36,000 J","45,000 J"],
+    "options_ta": ["9,000 J","18,000 J","36,000 J","45,000 J"],
+    "answer_en": "18,000 J",
+    "answer_ta": "18,000 J"
+  },
+  {
+    "question_en": "The balanced chemical equation for photosynthesis shows how many O₂ molecules are produced per glucose formed?",
+    "question_ta": "ஒளிச்சேர்ப்பின்وازن சமநிலை சமன்பாடு (balanced eqn) ஒன்றுக்கு ஒரு கிளுகோஸ் (glucose) உருவாகும்போது எத்தனை O₂ மூலக்கூறுகள் (molecules) வெளியேறும்?",
+    "options_en": ["1","2","6","3"],
+    "options_ta": ["1","2","6","3"],
+    "answer_en": "6",
+    "answer_ta": "6"
+  },
+  {
+    "question_en": "In flowering plants, 'double fertilization' results in the formation of:",
+    "question_ta": "பல்உதிகள் கொண்ட செடிகளில் (flowering plants) 'இரு முறைக் கரைப்பு' (double fertilization) எதை உருவாக்குகிறது?",
+    "options_en": ["Zygote only","Endosperm only","Zygote and endosperm","Pollen tube"],
+    "options_ta": ["ஜைகோட் மட்டும்","எண்டோஸ்பெர்மின் மட்டும்","ஜைகோட் மற்றும் எண்டோஸ்பெர்மின்","மூட்டு குழாய் (Pollen tube)"],
+    "answer_en": "Zygote and endosperm",
+    "answer_ta": "ஜைகோட் மற்றும் எண்டோஸ்பெர்மின்"
+  },
+  {
+    "question_en": "Which microorganism is the causative agent of tuberculosis?",
+    "question_ta": "தூய்மையான பிணி (tuberculosis) விளக்கும் உயிரினம் எது?",
+    "options_en": ["Streptococcus","Mycobacterium tuberculosis","Influenza virus","Plasmodium"],
+    "options_ta": ["ஸ்ட்ரெப்டோகொக்கஸ்","மைகோபேக்டீரியம் துபெர்குலோசிஸ்","இன்ஃப்ளூவென்சா வைரஸ்","பிளாஸ்மோடியம்"],
+    "answer_en": "Mycobacterium tuberculosis",
+    "answer_ta": "மைகோபேக்டீரியம் துபெர்குலோசிஸ்"
+  },
+  {
+    "question_en": "Roughly what percentage of energy is transferred from one trophic level to the next in a typical food chain?",
+    "question_ta": "ஒரு சாதாரண உணவு சங்கிலியில் (food chain) ஒரு trophic நிலையிலிருந்து அடுத்ததிற்கு சுமார் எவ்வளவு சதவீத சக்தி (energy) மாற்றம் ஆகும்?",
+    "options_en": ["50%","10%","30%","90%"],
+    "options_ta": ["50%","10%","30%","90%"],
+    "answer_en": "10%",
+    "answer_ta": "10%"
+  },
+  {
+    "question_en": "Three resistors 2 Ω, 3 Ω and 6 Ω are connected in series across 11 V. The circuit current (A) is:",
+    "question_ta": "2 Ω, 3 Ω மற்றும் 6 Ω என்ற மூன்று எதிர்ப்புகள் தொடர் (series) இணைவில் 11 V உடன் இணைக்கப்பட்டால் மின்சார ஓட்டம் (A) எவ்வளவு?",
+    "options_en": ["1 A","2 A","0.5 A","11 A"],
+    "options_ta": ["1 A","2 A","0.5 A","11 A"],
+    "answer_en": "1 A",
+    "answer_ta": "1 A"
+  },
+  {
+    "question_en": "A force of 50 N applied at 0.4 m from a pivot produces a moment (torque) of:",
+    "question_ta": "ஒரு நுழைவுப் பொய் (pivot) முனையில் 0.4 m தொலைவில் 50 N விசை நெய்தால் உருவாகும் மொமமென்ட் (moment) எவ்வளவு?",
+    "options_en": ["12.5 N·m","20 N·m","25 N·m","10 N·m"],
+    "options_ta": ["12.5 N·m","20 N·m","25 N·m","10 N·m"],
+    "answer_en": "20 N·m",
+    "answer_ta": "20 N·m"
+  },
+  {
+    "question_en": "Linear expansion: a steel rod 2.0 m long is heated by 30°C. If α = 1.2 × 10⁻⁵ °C⁻¹, the increase in length in mm is about:",
+    "question_ta": "ஒரு ஸ்டீல் ராட் நீளம் 2.0 m ஆக இருக்கும்; அதனை 30°C வரை சூடாக்கினால் α = 1.2 × 10⁻⁵ °C⁻¹ என்றால் நீள உயர்வு (mm) சுமார் எவ்வளவு?",
+    "options_en": ["0.072 mm","0.72 mm","7.2 mm","72 mm"],
+    "options_ta": ["0.072 mm","0.72 mm","7.2 mm","72 mm"],
+    "answer_en": "0.72 mm",
+    "answer_ta": "0.72 mm"
+  },
+  {
+    "question_en": "Pressure due to 10 cm column of mercury (ρHg = 13600 kg/m³) (use g = 9.8 m/s²) is approximately:",
+    "question_ta": "10 cm மார்க்கியரை (mercury) தூணின் அழுத்தம் (ρ = 13600 kg/m³) (g = 9.8) சுமார் எவ்வளவு?",
+    "options_en": ["1.33 × 10³ Pa","1.33 × 10⁴ Pa","1.33 × 10⁵ Pa","1.33 × 10⁶ Pa"],
+    "options_ta": ["1.33 × 10³ Pa","1.33 × 10⁴ Pa","1.33 × 10⁵ Pa","1.33 × 10⁶ Pa"],
+    "answer_en": "1.33 × 10⁴ Pa",
+    "answer_ta": "1.33 × 10⁴ Pa"
+  },
+  {
+    "question_en": "An object has mass 300 g and volume 100 cm³. Its density in g/cm³ is:",
+    "question_ta": "ஒரு பொருளின் எடை 300 g மற்றும் கொள்ளளவு 100 cm³ என்றால் அதன் அடர்த்தி (density) g/cm³ ஆகச் சொல்லுங்க?",
+    "options_en": ["0.33 g/cm³","1.5 g/cm³","3.0 g/cm³","30 g/cm³"],
+    "options_ta": ["0.33 g/cm³","1.5 g/cm³","3.0 g/cm³","30 g/cm³"],
+    "answer_en": "3.0 g/cm³",
+    "answer_ta": "3.0 g/cm³"
+  },
+  {
+    "question_en": "Complete combustion of methane: CH₄ + 2 O₂ → CO₂ + 2 H₂O. One mole of CH₄ produces how many moles of H₂O?",
+    "question_ta": "மீதேன் (methane) முழு எரிப்பு சமன்பாடு: CH₄ + 2 O₂ → CO₂ + 2 H₂O. ஒரு மால் CH₄ எத்தனை மால் H₂O உருவாக்கும்?",
+    "options_en": ["1 mole","2 moles","3 moles","4 moles"],
+    "options_ta": ["1 மால்","2 மால்","3 மால்","4 மால்"],
+    "answer_en": "2 moles",
+    "answer_ta": "2 மால்"
+  },
+  {
+    "question_en": "A hydraulic press has small piston area 0.01 m² and large piston area 0.50 m². A force of 100 N on small piston gives output force about:",
+    "question_ta": "ஒரு ஹைட்ராலிக் பிரெஸ்: சிறிய பிஸ்டன் பரப்பளவு 0.01 m², பெரிய பிஸ்டன் 0.50 m². 100 N விசை சிறிய பிஸ்டன் மீது வெளியிடினால் பெறும் பெரிய பிஸ்டன் விசை சுமார்?",
+    "options_en": ["500 N","50,000 N","50 N","5,000 N"],
+    "options_ta": ["500 N","50,000 N","50 N","5,000 N"],
+    "answer_en": "5,000 N",
+    "answer_ta": "5,000 N"
+  },
+  {
+    "question_en": "Which factor does NOT increase the rate of a chemical reaction significantly?",
+    "question_ta": "கீழ்கண்டவற்றில் எந்தது வேதியியல் இயக்கத்தின் வேகத்தை (rate) 크게 அதிகப்படுத்தாது?",
+    "options_en": ["Increase in temperature","Increase in concentration (for solutions)","Addition of catalyst","Decrease in surface area of solid reactant"],
+    "options_ta": ["வெப்பநிலையை உயர்த்துதல்","தீர்வுகளின் குழப்பத்தை உயர்த்துதல்","உரைசெய்தி சேர்க்க உதவும் கருவி (Catalyst) சேர்க்கை","திட പ്രതികாரியின் உட்மையானப் பகுதி (surface area) குறைக்கப்படுதல்"],
+    "answer_en": "Decrease in surface area of solid reactant",
+    "answer_ta": "திட எதிர்வினை பொருளின் மேற்பரப்பு பகுதி குறைவு"
+  },
+  {
+    "question_en": "A solution has [H⁺] = 1.0 × 10⁻³ mol/L. Its pH is:",
+    "question_ta": "ஒரு தீர்வில் [H⁺] = 1.0 × 10⁻³ mol/L என்றால் அதன் pH என்ன?",
+    "options_en": ["1","3","7","11"],
+    "options_ta": ["1","3","7","11"],
+    "answer_en": "3",
+    "answer_ta": "3"
+  },
+  {
+    "question_en": "A step-up transformer has 100 turns in primary and 500 turns in secondary. If primary voltage is 240 V, secondary voltage is:",
+    "question_ta": "ஒரு அலையிலான (step-up) டிரான்ஸ்பார்மரின் பிரதான நுணுக்கம் 100 திருகள் மற்றும் இரண்டாம் பக்கம் 500 திருகள். பிரதான மின்னழுத்தம் 240 V என்றால் இரண்டாம் பக்கம் மின்னழுத்தம் எவ்வளவு?",
+    "options_en": ["48 V","600 V","1200 V","2400 V"],
+    "options_ta": ["48 V","600 V","1200 V","2400 V"],
+    "answer_en": "1200 V",
+    "answer_ta": "1200 V"
+  },
+  {
+    "question_en": "Optical power of a lens with focal length 25 cm is (in diopters):",
+    "question_ta": "25 cm கவுன் தூரம் கொண்ட லென்ஸின் ஒளி சக்தி (optical power) டைப்டர் (diopter) யில் எவ்வளவு?",
+    "options_en": ["0.25 D","2 D","4 D","0.04 D"],
+    "options_ta": ["0.25 D","2 D","4 D","0.04 D"],
+    "answer_en": "4 D",
+    "answer_ta": "4 D"
+  },
+  {
+    "question_en": "A stretched string has tension 100 N and linear mass density 0.04 kg/m. Wave speed on the string is:",
+    "question_ta": "ஒரு நூல் மீது 100 N உடைய இழுத்து (tension) மற்றும் மாதிரித் தடிமனானால் (linear density) 0.04 kg/m என்றால் அதில் அலை வேகம் என்ன?",
+    "options_en": ["25 m/s","500 m/s","100 m/s","50 m/s"],
+    "options_ta": ["25 m/s","500 m/s","100 m/s","50 m/s"],
+    "answer_en": "50 m/s",
+    "answer_ta": "50 m/s"
+  },
+  {
+    "question_en": "A chemical reaction uses 2.0 g of H₂ gas (molar mass 2 g/mol). If it reacts completely to form water, mass of H₂O formed (g) is:",
+    "question_ta": "ஒரு வேதியியல் கோவியம் 2.0 g H₂ (மொலார் எடை 2 g/mol) பயன்படுத்தினால் அது முழுமையாக தண்ணீராக (H₂O) விளைவித்தால் உருவாகும் H₂O எடை(g) எவ்வளவு?",
+    "options_en": ["9 g","2 g","36 g","18 g"],
+    "options_ta": ["9 g","2 g","36 g","18 g"],
+    "answer_en": "18 g",
+    "answer_ta": "18 g"
+  },
+  {
+    "question_en": "Which hormone lowers blood glucose level by promoting uptake of glucose into cells?",
+    "question_ta": "உயிரணிகளில் (cells) கிளுக்கோஸ் uptake-ஐ ஊக்குவித்து இரத்த சர்க்கரை அளவை குறைக்கும் ஹார்மோன் எது?",
+    "options_en": ["Glucagon","Insulin","Adrenaline","Thyroxine"],
+    "options_ta": ["குளுககான் (Glucagon)","இன்சுலின் (Insulin)","அட்ரினலின் (Adrenaline)","தைய்ராக்சின் (Thyroxine)"],
+    "answer_en": "Insulin",
+    "answer_ta": "இன்சுலின் (Insulin)"
+  },
+  {
+    "question_en": "Light-dependent reactions of photosynthesis occur in which structure of chloroplast?",
+    "question_ta": "ஒளி சார்ந்த (light-dependent) ஒளிச்சேர்ப்பு செயற்பாடு க்ளோரோபிளாஸ்டின் (chloroplast) எந்த அமைப்பில் நடைபெறுகிறது?",
+    "options_en": ["Stroma","Thylakoid membranes","Nucleus","Mitochondria"],
+    "options_ta": ["ஸ்ட்ரோமா (Stroma)","தைலக்காயிட் ஓட்டைகள் (Thylakoid membranes)","மையக்கூறு","மைட்டோகொண்ட்ரியா"],
+    "answer_en": "Thylakoid membranes",
+    "answer_ta": "தயிலக்காயிட் ஓட்டைகள் (Thylakoid membranes)"
+  }
+]

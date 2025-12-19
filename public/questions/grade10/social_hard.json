@@ -1,0 +1,282 @@
+[
+  {
+    "question_en": "The Treaty of Versailles held Germany responsible for WWI under which article?",
+    "question_ta": "முதலாம் உலகப்போருக்கு ஜெர்மனி பொறுப்பாகக் கூறிய வெர்செய்ல்ஸ் உடன்படிக்கையின் பிரிவு எது?",
+    "options_en": ["231", "220", "245", "200"],
+    "options_ta": ["231", "220", "245", "200"],
+    "answer_en": "231",
+    "answer_ta": "231"
+  },
+  {
+    "question_en": "Who led the Bolsheviks during the Russian Revolution of 1917?",
+    "question_ta": "1917 ரஷ்யப் புரட்சியின் போது போல்ஷெவிக்குகளை வழிநடத்தியவர் யார்?",
+    "options_en": ["Trotsky", "Lenin", "Kerensky", "Stalin"],
+    "options_ta": ["ட்ராட்ஸ்கி", "லெனின்", "கெரென்ஸ்கி", "ஸ்டாலின்"],
+    "answer_en": "Lenin",
+    "answer_ta": "லெனின்"
+  },
+  {
+    "question_en": "Which pact symbolized the Nazi–Soviet cooperation in 1939?",
+    "question_ta": "1939 ஆம் ஆண்டு நாசி–சோவியத் ஒத்துழைப்பை குறித்த உடன்படிக்கை எது?",
+    "options_en": ["Warsaw Pact", "Non-Aggression Pact", "Munich Agreement", "Geneva Accord"],
+    "options_ta": ["வார்சா உடன்படிக்கை", "தாக்குதல் செய்யாத உடன்படிக்கை", "மியூனிக் உடன்பாடு", "ஜெனீவா ஒப்பந்தம்"],
+    "answer_en": "Non-Aggression Pact",
+    "answer_ta": "தாக்குதல் செய்யாத உடன்படிக்கை"
+  },
+  {
+    "question_en": "The Non-Cooperation Movement was withdrawn due to:",
+    "question_ta": "இணைபிரியா இயக்கம் எதனால் திரும்பப் பெறப்பட்டது?",
+    "options_en": ["Jallianwala Bagh tragedy", "Chauri Chaura incident", "Simon Commission", "Partition of Bengal"],
+    "options_ta": ["ஜாலியன்வாலா பாக் படுகொலை", "சௌரி சௌரா சம்பவம்", "சைமன் கமிஷன்", "வங்க பிரிவு"],
+    "answer_en": "Chauri Chaura incident",
+    "answer_ta": "சௌரி சௌரா சம்பவம்"
+  },
+  {
+    "question_en": "Who founded the Justice Party in Tamil Nadu?",
+    "question_ta": "தமிழகத்தில் ஜஸ்டிஸ் கட்சியை நிறுவியவர் யார்?",
+    "options_en": ["Periyar E.V.R.", "C.N. Annadurai", "T.M. Nair & P. Theagaraya Chetty", "K. Kamaraj"],
+    "options_ta": ["பெரியார் இ.வி.ஆர்.", "சி.என். அண்ணாதுரை", "டி.எம். நாயர் & பி. தியாகராயர்", "கே. காமராஜ்"],
+    "answer_en": "T.M. Nair & P. Theagaraya Chetty",
+    "answer_ta": "டி.எம். நாயர் & பி. தியாகராயர்"
+  },
+  {
+    "question_en": "Which Tamil scholar is known as 'Tamil Thatha'?",
+    "question_ta": "'தமிழ்தாத்தா' என்று அழைக்கப்படும் தமிழ் அறிஞர் யார்?",
+    "options_en": ["C.W. Damodaram Pillai", "U.V. Swaminatha Iyer", "Bharathidasan", "Maraimalai Adigal"],
+    "options_ta": ["சி.டபிள்யூ. தாமோதர பிள்ளை", "யு.வி. சுவாமிநாத ஐயர்", "பாரதிதாசன்", "மறைமலை அடிகள்"],
+    "answer_en": "U.V. Swaminatha Iyer",
+    "answer_ta": "யு.வி. சுவாமிநாத ஐயர்"
+  },
+  {
+    "question_en": "The Vedaranyam Salt Satyagraha was led by:",
+    "question_ta": "வேதாரண்யம் உப்பு சத்தியாகிரகத்தை வழிநடத்தியவர் யார்?",
+    "options_en": ["V.O. Chidambaram", "Rajaji", "Subramania Bharathi", "K. Kamaraj"],
+    "options_ta": ["வி.ஓ. சிதம்பரம்", "ராஜாஜி", "சுப்பிரமணிய பாரதி", "கே. காமராஜ்"],
+    "answer_en": "Rajaji",
+    "answer_ta": "ராஜாஜி"
+  },
+  {
+    "question_en": "The first Tamil book printed in 1578 at Goa was:",
+    "question_ta": "1578 இல் கோவாவில் அச்சிடப்பட்ட முதல் தமிழ் நூல் எது?",
+    "options_en": ["Thirukkural", "Thambiran Vanakkam", "Pathitrupathu", "Kalithogai"],
+    "options_ta": ["திருக்குறள்", "தம்பிரான் வணக்கம்", "பதிற்றுப்பத்து", "கலித்தொகை"],
+    "answer_en": "Thambiran Vanakkam",
+    "answer_ta": "தம்பிரான் வணக்கம்"
+  },
+  {
+    "question_en": "Which river forms the Srirangam Island?",
+    "question_ta": "ஸ்ரீரங்கம் தீவை உருவாக்கும் நதி எது?",
+    "options_en": ["Thamirabarani", "Vaigai", "Cauvery", "Palar"],
+    "options_ta": ["தாமிரபரணி", "வைகை", "காவிரி", "பாலார்"],
+    "answer_en": "Cauvery",
+    "answer_ta": "காவிரி"
+  },
+  {
+    "question_en": "The plateau between Nilgiris and Dharmapuri is called:",
+    "question_ta": "நீலகிரி மற்றும் தர்மபுரி இடையே உள்ள பீடபூமி எவ்வாறு அழைக்கப்படுகிறது?",
+    "options_en": ["Bharamahal Plateau", "Deccan Plateau", "Malwa Plateau", "Chotanagpur Plateau"],
+    "options_ta": ["பரமஹல் பீடபூமி", "தெக்கான் பீடபூமி", "மால்வா பீடபூமி", "சோட்டநாக்பூர் பீடபூமி"],
+    "answer_en": "Bharamahal Plateau",
+    "answer_ta": "பரமஹல் பீடபூமி"
+  },
+  {
+    "question_en": "The district with maximum mangrove cover in Tamil Nadu is:",
+    "question_ta": "தமிழகத்தில் அதிகம் மாங்கிரோவ் காடுகள் உள்ள மாவட்டம் எது?",
+    "options_en": ["Nagapattinam", "Ramanathapuram", "Cuddalore", "Theni"],
+    "options_ta": ["நாகப்பட்டினம்", "ராமநாதபுரம்", "கடலூர்", "தேனி"],
+    "answer_en": "Nagapattinam",
+    "answer_ta": "நாகப்பட்டினம்"
+  },
+  {
+    "question_en": "Retreating monsoon winds pick up moisture mainly from:",
+    "question_ta": "திரும்பிச் செல்லும் பருவமழை காற்று அதிக ஈரப்பதத்தை எதிலிருந்து எடுக்கிறது?",
+    "options_en": ["Arabian Sea", "Bay of Bengal", "Indian Ocean", "Andaman Sea"],
+    "options_ta": ["அரேபியக் கடல்", "வங்கக் கடல்", "இந்தியப் பெருங்கடல்", "அந்தமான் கடல்"],
+    "answer_en": "Bay of Bengal",
+    "answer_ta": "வங்கக் கடல்"
+  },
+  {
+    "question_en": "Which pass is not in the Western Ghats of Tamil Nadu?",
+    "question_ta": "தமிழகத்தின் மேற்கு தொடர்ச்சி மலையில் இல்லாத மலைவழி எது?",
+    "options_en": ["Palghat", "Shencottah", "Bhorghat", "Achankoil"],
+    "options_ta": ["பாலக்காடு", "செங்கோட்டை", "போர்காட்", "அச்சன்கோவில்"],
+    "answer_en": "Bhorghat",
+    "answer_ta": "போர்காட்"
+  },
+  {
+    "question_en": "Sathanur Dam is built across which river?",
+    "question_ta": "சத்தனூர் அணை எந்த நதிக்கு மேல் கட்டப்பட்டுள்ளது?",
+    "options_en": ["Palar", "Bhavani", "Vaigai", "Pennaiyar"],
+    "options_ta": ["பாலார்", "பவானி", "வைகை", "பென்னையாறு"],
+    "answer_en": "Pennaiyar",
+    "answer_ta": "பென்னையாறு"
+  },
+  {
+    "question_en": "The Nilgiri Biosphere Reserve is part of which larger eco-zone?",
+    "question_ta": "நீலகிரி உயிர்சூழல் காப்பகம் எந்த பெரிய சூழலியல் மண்டலத்தின் ஒரு பகுதியாகும்?",
+    "options_en": ["Indo-Malayan", "Palearctic", "Nearctic", "Australasian"],
+    "options_ta": ["இந்தோ-மலேயன்", "பேலியார்க்டிக்", "நியார்க்டிக்", "ஆஸ்திரேலிய"],
+    "answer_en": "Indo-Malayan",
+    "answer_ta": "இந்தோ-மலேயன்"
+  },
+  {
+    "question_en": "Which soil of Tamil Nadu was affected most by the 2004 tsunami?",
+    "question_ta": "2004 சுனாமியால் அதிகம் பாதிக்கப்பட்ட தமிழக மண் எது?",
+    "options_en": ["Black soil", "Laterite soil", "Saline soil", "Red soil"],
+    "options_ta": ["கரிமண்", "சுண்ணாம்பு மண்", "உப்புமண்", "சிவப்பு மண்"],
+    "answer_en": "Saline soil",
+    "answer_ta": "உப்புமண்"
+  },
+  {
+    "question_en": "Which part of the Indian Constitution deals with Fundamental Rights?",
+    "question_ta": "அடிப்படை உரிமைகளை கையாளும் இந்திய அரசியலமைப்பின் பகுதி எது?",
+    "options_en": ["Part II", "Part III", "Part IV", "Part V"],
+    "options_ta": ["பகுதி II", "பகுதி III", "பகுதி IV", "பகுதி V"],
+    "answer_en": "Part III",
+    "answer_ta": "பகுதி III"
+  },
+  {
+    "question_en": "The Rajya Sabha members are elected for a term of:",
+    "question_ta": "இராஜ்யசபா உறுப்பினர்கள் எத்தனை ஆண்டு காலத்திற்கு தேர்ந்தெடுக்கப்படுகிறார்கள்?",
+    "options_en": ["4 years", "5 years", "6 years", "Life-long"],
+    "options_ta": ["4 ஆண்டுகள்", "5 ஆண்டுகள்", "6 ஆண்டுகள்", "உயிர்க்காலம் முழுவதும்"],
+    "answer_en": "6 years",
+    "answer_ta": "6 ஆண்டுகள்"
+  },
+  {
+    "question_en": "Which Article empowers the Governor to reserve a Bill for the President’s consideration?",
+    "question_ta": "ஒரு மசோதாவை குடியரசுத் தலைவர் பரிசீலனைக்காக ஒதுக்க ஆளுநருக்கு அதிகாரம் அளிக்கும் பிரிவு எது?",
+    "options_en": ["Article 200", "Article 150", "Article 300", "Article 356"],
+    "options_ta": ["பிரிவு 200", "பிரிவு 150", "பிரிவு 300", "பிரிவு 356"],
+    "answer_en": "Article 200",
+    "answer_ta": "பிரிவு 200"
+  },
+  {
+    "question_en": "Panchayati Raj was first introduced in India in which state?",
+    "question_ta": "இந்தியாவில் முதன்முதலில் பஞ்சாயத்து ராஜ் எங்கு அறிமுகப்படுத்தப்பட்டது?",
+    "options_en": ["Kerala", "Tamil Nadu", "Rajasthan", "West Bengal"],
+    "options_ta": ["கேரளா", "தமிழ்நாடு", "ராஜஸ்தான்", "மேற்கு வங்காளம்"],
+    "answer_en": "Rajasthan",
+    "answer_ta": "ராஜஸ்தான்"
+  },
+  {
+    "question_en": "The guiding principle of India’s foreign policy is:",
+    "question_ta": "இந்தியாவின் வெளிநாட்டு கொள்கையின் வழிகாட்டும் கொள்கை எது?",
+    "options_en": ["Power balance", "Non-Alignment", "Expansionism", "Neutrality"],
+    "options_ta": ["அதிகார சமநிலை", "சார்பற்ற கொள்கை", "விரிவாக்கம்", "நடுநிலைமை"],
+    "answer_en": "Non-Alignment",
+    "answer_ta": "சார்பற்ற கொள்கை"
+  },
+  {
+    "question_en": "India’s 'Look East Policy' was initiated in the:",
+    "question_ta": "இந்தியாவின் 'கிழக்கு நோக்கு கொள்கை' எப்பொழுது தொடங்கப்பட்டது?",
+    "options_en": ["1970s", "1980s", "1990s", "2000s"],
+    "options_ta": ["1970கள்", "1980கள்", "1990கள்", "2000கள்"],
+    "answer_en": "1990s",
+    "answer_ta": "1990கள்"
+  },
+  {
+    "question_en": "Which country is India’s closest partner in BIMSTEC grouping?",
+    "question_ta": "BIMSTEC குழுவில் இந்தியாவின் மிக நெருங்கிய கூட்டாளி நாடு எது?",
+    "options_en": ["Japan", "Myanmar", "China", "Afghanistan"],
+    "options_ta": ["ஜப்பான்", "மியான்மார்", "சீனா", "ஆப்கானிஸ்தான்"],
+    "answer_en": "Myanmar",
+    "answer_ta": "மியான்மார்"
+  },
+  {
+    "question_en": "GDP is measured in:",
+    "question_ta": "மொத்த உள்நாட்டு உற்பத்தி (GDP) எதில் அளக்கப்படுகிறது?",
+    "options_en": ["Monetary terms", "Physical goods only", "Services only", "Production units"],
+    "options_ta": ["பண மதிப்பு", "உருவப் பொருட்கள் மட்டும்", "சேவைகள் மட்டும்", "உற்பத்தி அலகுகள்"],
+    "answer_en": "Monetary terms",
+    "answer_ta": "பண மதிப்பு"
+  },
+  {
+    "question_en": "The Dunkel Draft related to WTO was signed by India in:",
+    "question_ta": "WTO-வைச் சார்ந்த டங்கல் வரைவு இந்தியா எப்பொழுது கையெழுத்திட்டது?",
+    "options_en": ["1984", "1994", "2004", "1976"],
+    "options_ta": ["1984", "1994", "2004", "1976"],
+    "answer_en": "1994",
+    "answer_ta": "1994"
+  },
+  {
+    "question_en": "Food security involves availability, accessibility, and:",
+    "question_ta": "உணவுப் பாதுகாப்பில் கிடைப்பது, அணுகல் மற்றும் எது அடங்கும்?",
+    "options_en": ["Surplus", "Stability", "Quality", "Trade"],
+    "options_ta": ["மிகை", "நிலைத்தன்மை", "தரம்", "வர்த்தகம்"],
+    "answer_en": "Stability",
+    "answer_ta": "நிலைத்தன்மை"
+  },
+  {
+    "question_en": "The 'Green Revolution' in India mainly focused on:",
+    "question_ta": "இந்தியாவில் 'பசுமைப் புரட்சி' அதிகம் கவனம் செலுத்தியது எதில்?",
+    "options_en": ["Pulses", "Rice & Wheat", "Cash crops", "Fruits"],
+    "options_ta": ["பருப்பு வகைகள்", "அரிசி & கோதுமை", "பணப் பயிர்கள்", "பழங்கள்"],
+    "answer_en": "Rice & Wheat",
+    "answer_ta": "அரிசி & கோதுமை"
+  },
+  {
+    "question_en": "VAT was introduced in Tamil Nadu in which year?",
+    "question_ta": "தமிழகத்தில் VAT எந்த ஆண்டில் அறிமுகப்படுத்தப்பட்டது?",
+    "options_en": ["2002", "2007", "2010", "2015"],
+    "options_ta": ["2002", "2007", "2010", "2015"],
+    "answer_en": "2007",
+    "answer_ta": "2007"
+  },
+  {
+    "question_en": "Which city hosts the Madras Export Processing Zone (MEPZ)?",
+    "question_ta": "மதராஸ் ஏற்றுமதி செயலாக்க மண்டலம் (MEPZ) அமைந்துள்ள நகரம் எது?",
+    "options_en": ["Coimbatore", "Chennai", "Salem", "Madurai"],
+    "options_ta": ["கோயம்புத்தூர்", "சென்னை", "சேலம்", "மதுரை"],
+    "answer_en": "Chennai",
+    "answer_ta": "சென்னை"
+  },
+  {
+    "question_en": "In India, direct taxes are levied by:",
+    "question_ta": "இந்தியாவில் நேரடி வரிகளை வசூலிப்பது யார்?",
+    "options_en": ["State governments", "Union government", "Local bodies", "Both state & centre"],
+    "options_ta": ["மாநில அரசுகள்", "மத்திய அரசு", "உள்ளூராட்சி அமைப்புகள்", "மாநிலமும் மத்தியமும்"],
+    "answer_en": "Union government",
+    "answer_ta": "மத்திய அரசு"
+  },
+  {
+    "question_en": "Which crop dominates Tamil Nadu’s plantation agriculture?",
+    "question_ta": "தமிழகத்தின் தோட்டக்கலை வேளாண்மையில் அதிகம் பயிரிடப்படும் பயிர் எது?",
+    "options_en": ["Rubber", "Coffee", "Tea", "Cashew"],
+    "options_ta": ["ரப்பர்", "காபி", "தேயிலை", "முந்திரி"],
+    "answer_en": "Tea",
+    "answer_ta": "தேயிலை"
+  },
+  {
+    "question_en": "Which industry makes Coimbatore known as the 'Manchester of South India'?",
+    "question_ta": "கோயம்புத்தூரை 'தென்னிந்தியாவின் மான்செஸ்டர்' என்று அழைக்கச் செய்த தொழில் எது?",
+    "options_en": ["Steel", "Cotton textiles", "Automobiles", "Silk"],
+    "options_ta": ["இரும்பு", "பருத்தி நெய்தொழில்", "மோட்டார் வாகனங்கள்", "பட்டு"],
+    "answer_en": "Cotton textiles",
+    "answer_ta": "பருத்தி நெய்தொழில்"
+  },
+  {
+    "question_en": "The 'Textile Valley of Tamil Nadu' includes Coimbatore, Tiruppur, Karur, Erode and:",
+    "question_ta": "தமிழகத்தின் 'நூலிழை பள்ளத்தாக்கு' கோயம்புத்தூர், திருப்பூர், கரூர், ஈரோடு மற்றும் எந்த நகரத்தை உள்ளடக்கியது?",
+    "options_en": ["Madurai", "Salem", "Trichy", "Vellore"],
+    "options_ta": ["மதுரை", "சேலம்", "திருச்சி", "வேலூர்"],
+    "answer_en": "Salem",
+    "answer_ta": "சேலம்"
+  },
+  {
+    "question_en": "Which organization manages India’s foreign exchange reserves?",
+    "question_ta": "இந்தியாவின் வெளிநாட்டு செலாவணி கையிருப்பை நிர்வகிக்கும் நிறுவனம் எது?",
+    "options_en": ["Ministry of Finance", "RBI", "SEBI", "IMF"],
+    "options_ta": ["நிதி அமைச்சகம்", "இந்திய ரிசர்வ் வங்கி", "செபி", "ஐ.எம்.எப்"],
+    "answer_en": "RBI",
+    "answer_ta": "இந்திய ரிசர்வ் வங்கி"
+  },
+  {
+    "question_en": "The headquarters of WTO is located at:",
+    "question_ta": "WTO வின் தலைமையகம் எங்கு அமைந்துள்ளது?",
+    "options_en": ["Washington DC", "Geneva", "London", "Paris"],
+    "options_ta": ["வாஷிங்டன் டி.சி.", "ஜெனீவா", "லண்டன்", "பாரிஸ்"],
+    "answer_en": "Geneva",
+    "answer_ta": "ஜெனீவா"
+  }
+]

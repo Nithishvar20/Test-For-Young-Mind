@@ -1,0 +1,282 @@
+[
+  {
+    "question_en": "If A = [[2,1],[0,3]], then det(A) = ?",
+    "question_ta": "A = [[2,1],[0,3]] எனில், det(A) = ?",
+    "options_en": ["5", "6", "3", "2"],
+    "options_ta": ["5", "6", "3", "2"],
+    "answer_en": "6",
+    "answer_ta": "6"
+  },
+  {
+    "question_en": "If A and B are two matrices such that AB = BA, then A and B are said to be?",
+    "question_ta": "AB = BA எனில், A மற்றும் B என்ன என்று அழைக்கப்படுகின்றன?",
+    "options_en": ["Orthogonal", "Invertible", "Commutative", "Singular"],
+    "options_ta": ["ஆர்த்தோகனல்", "எதிர்படும்", "கம்யூட்டேட்டிவ்", "சிங்குலர்"],
+    "answer_en": "Commutative",
+    "answer_ta": "கம்யூட்டேட்டிவ்"
+  },
+  {
+    "question_en": "If f(x) = x² + 3x, then f′(x) = ?",
+    "question_ta": "f(x) = x² + 3x எனில், f′(x) = ?",
+    "options_en": ["2x + 3", "2x - 3", "x²", "3x²"],
+    "options_ta": ["2x + 3", "2x - 3", "x²", "3x²"],
+    "answer_en": "2x + 3",
+    "answer_ta": "2x + 3"
+  },
+  {
+    "question_en": "The derivative of cosx is?",
+    "question_ta": "cosx-ன் டெரிவேடிவ் என்ன?",
+    "options_en": ["sinx", "-sinx", "cosx", "tanx"],
+    "options_ta": ["sinx", "-sinx", "cosx", "tanx"],
+    "answer_en": "-sinx",
+    "answer_ta": "-sinx"
+  },
+  {
+    "question_en": "If y = log₁₀x, then dy/dx = ?",
+    "question_ta": "y = log₁₀x எனில், dy/dx = ?",
+    "options_en": ["1/x", "1/(x ln10)", "lnx", "10^x"],
+    "options_ta": ["1/x", "1/(x ln10)", "lnx", "10^x"],
+    "answer_en": "1/(x ln10)",
+    "answer_ta": "1/(x ln10)"
+  },
+  {
+    "question_en": "The slope of tangent to curve y = 3x² at x = 1 is?",
+    "question_ta": "y = 3x² வளைவில் x = 1-இல் தொடுவியல் சாய்வு எவ்வளவு?",
+    "options_en": ["3", "6", "9", "12"],
+    "options_ta": ["3", "6", "9", "12"],
+    "answer_en": "6",
+    "answer_ta": "6"
+  },
+  {
+    "question_en": "If f(x) = e^(2x), then f′(x) = ?",
+    "question_ta": "f(x) = e^(2x) எனில், f′(x) = ?",
+    "options_en": ["e^(2x)", "2e^(2x)", "x e^(2x)", "lnx"],
+    "options_ta": ["e^(2x)", "2e^(2x)", "x e^(2x)", "lnx"],
+    "answer_en": "2e^(2x)",
+    "answer_ta": "2e^(2x)"
+  },
+  {
+    "question_en": "∫ x² dx = ?",
+    "question_ta": "∫ x² dx = ?",
+    "options_en": ["x³/3 + C", "x²/2 + C", "2x + C", "3x² + C"],
+    "options_ta": ["x³/3 + C", "x²/2 + C", "2x + C", "3x² + C"],
+    "answer_en": "x³/3 + C",
+    "answer_ta": "x³/3 + C"
+  },
+  {
+    "question_en": "The integral of 1/x dx is?",
+    "question_ta": "1/x dx இன் இன்டிக்ரல் என்ன?",
+    "options_en": ["x + C", "lnx + C", "1/x + C", "e^x + C"],
+    "options_ta": ["x + C", "lnx + C", "1/x + C", "e^x + C"],
+    "answer_en": "lnx + C",
+    "answer_ta": "lnx + C"
+  },
+  {
+    "question_en": "The probability of getting a number divisible by 3 in a die roll is?",
+    "question_ta": "சதுரக்கல்லை வீசும்போது 3-ஆல் வகுபடும் எண் வருவதற்கான probability எவ்வளவு?",
+    "options_en": ["1/6", "1/3", "1/2", "2/3"],
+    "options_ta": ["1/6", "1/3", "1/2", "2/3"],
+    "answer_en": "1/3",
+    "answer_ta": "1/3"
+  },
+  {
+    "question_en": "The probability of getting at least one head in two coin tosses is?",
+    "question_ta": "இரண்டு நாணயங்களை சுழற்றும்போது குறைந்தபட்சம் ஒரு தலை வருவதற்கான probability என்ன?",
+    "options_en": ["1/4", "1/2", "3/4", "1"],
+    "options_ta": ["1/4", "1/2", "3/4", "1"],
+    "answer_en": "3/4",
+    "answer_ta": "3/4"
+  },
+  {
+    "question_en": "The mean of first 20 natural numbers is?",
+    "question_ta": "முதல் 20 இயற்கை எண்களின் சராசரி என்ன?",
+    "options_en": ["9.5", "10", "10.5", "11"],
+    "options_ta": ["9.5", "10", "10.5", "11"],
+    "answer_en": "10.5",
+    "answer_ta": "10.5"
+  },
+  {
+    "question_en": "The median of data 7, 9, 10, 12, 15 is?",
+    "question_ta": "7, 9, 10, 12, 15 தரவின் நடுநிலை மதிப்பு என்ன?",
+    "options_en": ["9", "10", "11", "12"],
+    "options_ta": ["9", "10", "11", "12"],
+    "answer_en": "10",
+    "answer_ta": "10"
+  },
+  {
+    "question_en": "If mode = 20, median = 22, then mean ≈ ? (using empirical relation)",
+    "question_ta": "மோடு = 20, நடுநிலை = 22 எனில், சராசரி ≈ ? (எம்பிரிக்கல் உறவைப் பயன்படுத்தி)",
+    "options_en": ["24", "21", "23", "25"],
+    "options_ta": ["24", "21", "23", "25"],
+    "answer_en": "24",
+    "answer_ta": "24"
+  },
+  {
+    "question_en": "Range is equal to?",
+    "question_ta": "ரேஞ்ச் என்பது எதற்கு சமமானது?",
+    "options_en": ["Highest - Lowest", "Mean - Median", "Variance - Mode", "Sum of data"],
+    "options_ta": ["உயர்ந்த - குறைந்த", "சராசரி - நடுநிலை", "வேரியன்ஸ் - மோடு", "தரவு கூட்டுத்தொகை"],
+    "answer_en": "Highest - Lowest",
+    "answer_ta": "உயர்ந்த - குறைந்த"
+  },
+  {
+    "question_en": "Standard deviation is always?",
+    "question_ta": "ஸ்டாண்டர்ட் டெவியேஷன் எப்போதும் எப்படியானது?",
+    "options_en": ["Positive", "Negative", "Zero or positive", "Random"],
+    "options_ta": ["நேர்மறை", "எதிர்மறை", "பூஜ்ஜியம் அல்லது நேர்மறை", "சீரற்ற"],
+    "answer_en": "Zero or positive",
+    "answer_ta": "பூஜ்ஜியம் அல்லது நேர்மறை"
+  },
+  {
+    "question_en": "Karl Pearson’s coefficient of correlation r = +1 means?",
+    "question_ta": "கார்ல் பியர்சன் இணைவு குணகம் r = +1 என்பதன் பொருள்?",
+    "options_en": ["Perfect positive correlation", "Perfect negative correlation", "No correlation", "Partial correlation"],
+    "options_ta": ["முழுமையான நேர்மறை இணைவு", "முழுமையான எதிர்மறை இணைவு", "இணைவு இல்லை", "பகுதி இணைவு"],
+    "answer_en": "Perfect positive correlation",
+    "answer_ta": "முழுமையான நேர்மறை இணைவு"
+  },
+  {
+    "question_en": "If regression line is X = a + bY, then b = ?",
+    "question_ta": "ரெக்ரெஷன் கோடு X = a + bY எனில், b = ?",
+    "options_en": ["Regression coefficient", "Mean", "Median", "Variance"],
+    "options_ta": ["ரெக்ரெஷன் குணகம்", "சராசரி", "நடுநிலை", "வேரியன்ஸ்"],
+    "answer_en": "Regression coefficient",
+    "answer_ta": "ரெக்ரெஷன் குணகம்"
+  },
+  {
+    "question_en": "If P(A) = 0.6, P(B) = 0.5 and A,B are independent, then P(A ∩ B) = ?",
+    "question_ta": "P(A) = 0.6, P(B) = 0.5 மற்றும் A,B சுயாதீனமானவை எனில், P(A ∩ B) = ?",
+    "options_en": ["0.1", "0.2", "0.3", "0.5"],
+    "options_ta": ["0.1", "0.2", "0.3", "0.5"],
+    "answer_en": "0.3",
+    "answer_ta": "0.3"
+  },
+  {
+    "question_en": "If P(A) = 0.7, then probability of not A is?",
+    "question_ta": "P(A) = 0.7 எனில், A நடக்காத probability எவ்வளவு?",
+    "options_en": ["0.3", "0.7", "1", "0"],
+    "options_ta": ["0.3", "0.7", "1", "0"],
+    "answer_en": "0.3",
+    "answer_ta": "0.3"
+  },
+  {
+    "question_en": "In a fair die, probability of getting prime number is?",
+    "question_ta": "ஒரு சதுரக்கல்லில், பகாத்தெண் வருவதற்கான probability எவ்வளவு?",
+    "options_en": ["1/6", "1/2", "2/3", "1/3"],
+    "options_ta": ["1/6", "1/2", "2/3", "1/3"],
+    "answer_en": "1/2",
+    "answer_ta": "1/2"
+  },
+  {
+    "question_en": "The feasible region in a Linear Programming Problem is always?",
+    "question_ta": "ஒரு லினியர் ப்ரோகிராம்மிங் பிரச்சனையில் சாத்தியமான பகுதி எப்போதும்?",
+    "options_en": ["Convex", "Concave", "Open", "Empty"],
+    "options_ta": ["வளைந்த", "உள்நீங்கிய", "திறந்த", "காலியான"],
+    "answer_en": "Convex",
+    "answer_ta": "வளைந்த"
+  },
+  {
+    "question_en": "If Σx = 120, n = 12, then mean = ?",
+    "question_ta": "Σx = 120, n = 12 எனில், சராசரி = ?",
+    "options_en": ["10", "12", "20", "15"],
+    "options_ta": ["10", "12", "20", "15"],
+    "answer_en": "10",
+    "answer_ta": "10"
+  },
+  {
+    "question_en": "If mean = 50, median = 48, then distribution is?",
+    "question_ta": "சராசரி = 50, நடுநிலை = 48 எனில், பகிர்வு எப்படியானது?",
+    "options_en": ["Positively skewed", "Negatively skewed", "Symmetrical", "Uniform"],
+    "options_ta": ["நேர்மறை சாய்வு", "எதிர்மறை சாய்வு", "சமச்சீர்", "ஒரே மாதிரி"],
+    "answer_en": "Positively skewed",
+    "answer_ta": "நேர்மறை சாய்வு"
+  },
+  {
+    "question_en": "If two regression lines intersect at (x̄, ȳ), this point represents?",
+    "question_ta": "இரண்டு ரெக்ரெஷன் கோடுகள் (x̄, ȳ) இல் சந்திக்கின்றன எனில், அது எதை குறிக்கும்?",
+    "options_en": ["Mode", "Median", "Mean", "Range"],
+    "options_ta": ["மோடு", "நடுநிலை", "சராசரி", "பரப்பு"],
+    "answer_en": "Mean",
+    "answer_ta": "சராசரி"
+  },
+  {
+    "question_en": "In statistics, Q1 refers to?",
+    "question_ta": "புள்ளியியலில், Q1 என்பதன் பொருள்?",
+    "options_en": ["First quartile", "Second quartile", "Third quartile", "Median"],
+    "options_ta": ["முதல் கால்பங்கு", "இரண்டாம் கால்பங்கு", "மூன்றாம் கால்பங்கு", "நடுநிலை"],
+    "answer_en": "First quartile",
+    "answer_ta": "முதல் கால்பங்கு"
+  },
+  {
+    "question_en": "The variance of 5, 5, 5, 5 is?",
+    "question_ta": "5, 5, 5, 5 இன் வேரியன்ஸ் எவ்வளவு?",
+    "options_en": ["5", "0", "1", "25"],
+    "options_ta": ["5", "0", "1", "25"],
+    "answer_en": "0",
+    "answer_ta": "0"
+  },
+  {
+    "question_en": "If probability of an impossible event is?",
+    "question_ta": "ஒரு சாத்தியமற்ற நிகழ்வின் probability எவ்வளவு?",
+    "options_en": ["1", "0", "0.5", "Undefined"],
+    "options_ta": ["1", "0", "0.5", "வரையறுக்கப்படாதது"],
+    "answer_en": "0",
+    "answer_ta": "0"
+  },
+  {
+    "question_en": "If regression equation is Y = 10 + 0.5X, then slope = ?",
+    "question_ta": "ரெக்ரெஷன் சமன்பாடு Y = 10 + 0.5X எனில், சாய்வு = ?",
+    "options_en": ["10", "0.5", "X", "Y"],
+    "options_ta": ["10", "0.5", "X", "Y"],
+    "answer_en": "0.5",
+    "answer_ta": "0.5"
+  },
+  {
+    "question_en": "If coefficient of correlation r = 0, it means?",
+    "question_ta": "இணைவு குணகம் r = 0 எனில், அது எதை குறிக்கும்?",
+    "options_en": ["Perfect positive", "Perfect negative", "No correlation", "Partial correlation"],
+    "options_ta": ["முழுமையான நேர்மறை", "முழுமையான எதிர்மறை", "இணைவு இல்லை", "பகுதி இணைவு"],
+    "answer_en": "No correlation",
+    "answer_ta": "இணைவு இல்லை"
+  },
+  {
+    "question_en": "The regression coefficients bxy and byx are related as?",
+    "question_ta": "ரெக்ரெஷன் குணகங்கள் bxy மற்றும் byx எவ்வாறு தொடர்புடையவை?",
+    "options_en": ["bxy × byx = r²", "bxy + byx = r", "bxy/byx = r²", "bxy = byx"],
+    "options_ta": ["bxy × byx = r²", "bxy + byx = r", "bxy/byx = r²", "bxy = byx"],
+    "answer_en": "bxy × byx = r²",
+    "answer_ta": "bxy × byx = r²"
+  },
+  {
+    "question_en": "In LPP, the objective function is?",
+    "question_ta": "LPP-இல், புறக்கோள் செயல்பாடு எதை குறிக்கும்?",
+    "options_en": ["Constraints", "Function to be maximized/minimized", "Feasible region", "Decision variables"],
+    "options_ta": ["கட்டுப்பாடுகள்", "அதிகபட்சம்/குறைந்தபட்சம் செய்யப்படும் செயல்பாடு", "சாத்தியமான பகுதி", "முடிவு மாறிகள்"],
+    "answer_en": "Function to be maximized/minimized",
+    "answer_ta": "அதிகபட்சம்/குறைந்தபட்சம் செய்யப்படும் செயல்பாடு"
+  },
+  {
+    "question_en": "In probability, exhaustive events mean?",
+    "question_ta": "சாத்தியத்தில், முழுமையான நிகழ்வுகள் என்பதன் பொருள்?",
+    "options_en": ["All possible outcomes", "No outcomes", "One outcome", "Equal outcomes"],
+    "options_ta": ["அனைத்து சாத்தியமான முடிவுகள்", "முடிவுகள் இல்லை", "ஒரு முடிவு", "சமமான முடிவுகள்"],
+    "answer_en": "All possible outcomes",
+    "answer_ta": "அனைத்து சாத்தியமான முடிவுகள்"
+  },
+  {
+    "question_en": "If mean = median = mode, distribution is?",
+    "question_ta": "சராசரி = நடுநிலை = மோடு எனில், பகிர்வு எப்படியானது?",
+    "options_en": ["Positively skewed", "Negatively skewed", "Normal distribution", "Uniform"],
+    "options_ta": ["நேர்மறை சாய்வு", "எதிர்மறை சாய்வு", "சாதாரண பகிர்வு", "ஒரே மாதிரி"],
+    "answer_en": "Normal distribution",
+    "answer_ta": "சாதாரண பகிர்வு"
+  },
+  {
+    "question_en": "If variance = 25, standard deviation = ?",
+    "question_ta": "வேரியன்ஸ் = 25 எனில், ஸ்டாண்டர்ட் டெவியேஷன் = ?",
+    "options_en": ["25", "5", "√25", "0"],
+    "options_ta": ["25", "5", "√25", "0"],
+    "answer_en": "5",
+    "answer_ta": "5"
+  }
+]

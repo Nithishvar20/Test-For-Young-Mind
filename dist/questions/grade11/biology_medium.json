@@ -1,0 +1,852 @@
+[
+  {
+    "question_en": "Which part of the cell is called powerhouse?",
+    "question_ta": "செல்லின் சக்தி நிலையம் எது?",
+    "options_en": [
+      "Ribosome",
+      "Chloroplast",
+      "Nucleus",
+      "Mitochondria"
+    ],
+    "options_ta": [
+      "ரைபோசோம்",
+      "குளோரோபிளாஸ்ட்",
+      "நியூக்ளியஸ்",
+      "மைட்டோகாண்ட்ரியா"
+    ],
+    "answer": "Mitochondria"
+  },
+  {
+    "question_en": "Which enzyme breaks down starch?",
+    "question_ta": "மாவை சிதைக்கும் என்சைம் எது?",
+    "options_en": [
+      "Lipase",
+      "Trypsin",
+      "Pepsin",
+      "Amylase"
+    ],
+    "options_ta": [
+      "லைபேஸ்",
+      "டிரிப்சின்",
+      "பெப்சின்",
+      "அமிலேஸ்"
+    ],
+    "answer": "Amylase"
+  },
+  {
+    "question_en": "Blood is a?",
+    "question_ta": "இரத்தம் எது?",
+    "options_en": [
+      "Epithelial tissue",
+      "Connective tissue",
+      "Nervous tissue",
+      "Muscular tissue"
+    ],
+    "options_ta": [
+      "மூலப்பகுதி திசு",
+      "இணைப்பு திசு",
+      "நரம்பு திசு",
+      "தசை திசு"
+    ],
+    "answer": "Connective tissue"
+  },
+  {
+    "question_en": "What is the contractile protein in muscles?",
+    "question_ta": "தசைகளில் உள்ள சுருங்கும் புரதம் எது?",
+    "options_en": [
+      "Keratin",
+      "Collagen",
+      "Elastin",
+      "Actin and Myosin"
+    ],
+    "options_ta": [
+      "கெரட்டின்",
+      "கொலாஜன்",
+      "எலாஸ்டின்",
+      "ஆக்டின் மற்றும் மையோசின்"
+    ],
+    "answer": "Actin and Myosin"
+  },
+  {
+    "question_en": "Who is the father of Genetics?",
+    "question_ta": "மரபணு அறிவியலின் தந்தை யார்?",
+    "options_en": [
+      "Crick",
+      "Charles Darwin",
+      "Watson",
+      "Gregor Mendel"
+    ],
+    "options_ta": [
+      "க்ரிக்",
+      "சார்லஸ் டார்வின்",
+      "வாட்சன்",
+      "கிரிகர் மெண்டல்"
+    ],
+    "answer": "Gregor Mendel"
+  },
+  {
+    "question_en": "Which part of the cell is called powerhouse?",
+    "question_ta": "செல்லின் சக்தி நிலையம் எது?",
+    "options_en": [
+      "Mitochondria",
+      "Ribosome",
+      "Chloroplast",
+      "Nucleus"
+    ],
+    "options_ta": [
+      "மைட்டோகாண்ட்ரியா",
+      "ரைபோசோம்",
+      "குளோரோபிளாஸ்ட்",
+      "நியூக்ளியஸ்"
+    ],
+    "answer": "Mitochondria"
+  },
+  {
+    "question_en": "Which enzyme breaks down starch?",
+    "question_ta": "மாவை சிதைக்கும் என்சைம் எது?",
+    "options_en": [
+      "Pepsin",
+      "Trypsin",
+      "Amylase",
+      "Lipase"
+    ],
+    "options_ta": [
+      "பெப்சின்",
+      "டிரிப்சின்",
+      "அமிலேஸ்",
+      "லைபேஸ்"
+    ],
+    "answer": "Amylase"
+  },
+  {
+    "question_en": "Blood is a?",
+    "question_ta": "இரத்தம் எது?",
+    "options_en": [
+      "Nervous tissue",
+      "Muscular tissue",
+      "Epithelial tissue",
+      "Connective tissue"
+    ],
+    "options_ta": [
+      "நரம்பு திசு",
+      "தசை திசு",
+      "மூலப்பகுதி திசு",
+      "இணைப்பு திசு"
+    ],
+    "answer": "Connective tissue"
+  },
+  {
+    "question_en": "What is the contractile protein in muscles?",
+    "question_ta": "தசைகளில் உள்ள சுருங்கும் புரதம் எது?",
+    "options_en": [
+      "Elastin",
+      "Actin and Myosin",
+      "Keratin",
+      "Collagen"
+    ],
+    "options_ta": [
+      "எலாஸ்டின்",
+      "ஆக்டின் மற்றும் மையோசின்",
+      "கெரட்டின்",
+      "கொலாஜன்"
+    ],
+    "answer": "Actin and Myosin"
+  },
+  {
+    "question_en": "Who is the father of Genetics?",
+    "question_ta": "மரபணு அறிவியலின் தந்தை யார்?",
+    "options_en": [
+      "Crick",
+      "Watson",
+      "Gregor Mendel",
+      "Charles Darwin"
+    ],
+    "options_ta": [
+      "க்ரிக்",
+      "வாட்சன்",
+      "கிரிகர் மெண்டல்",
+      "சார்லஸ் டார்வின்"
+    ],
+    "answer": "Gregor Mendel"
+  },
+  {
+    "question_en": "Which part of the cell is called powerhouse?",
+    "question_ta": "செல்லின் சக்தி நிலையம் எது?",
+    "options_en": [
+      "Ribosome",
+      "Mitochondria",
+      "Chloroplast",
+      "Nucleus"
+    ],
+    "options_ta": [
+      "ரைபோசோம்",
+      "மைட்டோகாண்ட்ரியா",
+      "குளோரோபிளாஸ்ட்",
+      "நியூக்ளியஸ்"
+    ],
+    "answer": "Mitochondria"
+  },
+  {
+    "question_en": "Which enzyme breaks down starch?",
+    "question_ta": "மாவை சிதைக்கும் என்சைம் எது?",
+    "options_en": [
+      "Pepsin",
+      "Lipase",
+      "Trypsin",
+      "Amylase"
+    ],
+    "options_ta": [
+      "பெப்சின்",
+      "லைபேஸ்",
+      "டிரிப்சின்",
+      "அமிலேஸ்"
+    ],
+    "answer": "Amylase"
+  },
+  {
+    "question_en": "Blood is a?",
+    "question_ta": "இரத்தம் எது?",
+    "options_en": [
+      "Muscular tissue",
+      "Epithelial tissue",
+      "Connective tissue",
+      "Nervous tissue"
+    ],
+    "options_ta": [
+      "தசை திசு",
+      "மூலப்பகுதி திசு",
+      "இணைப்பு திசு",
+      "நரம்பு திசு"
+    ],
+    "answer": "Connective tissue"
+  },
+  {
+    "question_en": "What is the contractile protein in muscles?",
+    "question_ta": "தசைகளில் உள்ள சுருங்கும் புரதம் எது?",
+    "options_en": [
+      "Keratin",
+      "Elastin",
+      "Actin and Myosin",
+      "Collagen"
+    ],
+    "options_ta": [
+      "கெரட்டின்",
+      "எலாஸ்டின்",
+      "ஆக்டின் மற்றும் மையோசின்",
+      "கொலாஜன்"
+    ],
+    "answer": "Actin and Myosin"
+  },
+  {
+    "question_en": "Who is the father of Genetics?",
+    "question_ta": "மரபணு அறிவியலின் தந்தை யார்?",
+    "options_en": [
+      "Charles Darwin",
+      "Gregor Mendel",
+      "Watson",
+      "Crick"
+    ],
+    "options_ta": [
+      "சார்லஸ் டார்வின்",
+      "கிரிகர் மெண்டல்",
+      "வாட்சன்",
+      "க்ரிக்"
+    ],
+    "answer": "Gregor Mendel"
+  },
+  {
+    "question_en": "Which part of the cell is called powerhouse?",
+    "question_ta": "செல்லின் சக்தி நிலையம் எது?",
+    "options_en": [
+      "Nucleus",
+      "Chloroplast",
+      "Mitochondria",
+      "Ribosome"
+    ],
+    "options_ta": [
+      "நியூக்ளியஸ்",
+      "குளோரோபிளாஸ்ட்",
+      "மைட்டோகாண்ட்ரியா",
+      "ரைபோசோம்"
+    ],
+    "answer": "Mitochondria"
+  },
+  {
+    "question_en": "Which enzyme breaks down starch?",
+    "question_ta": "மாவை சிதைக்கும் என்சைம் எது?",
+    "options_en": [
+      "Amylase",
+      "Lipase",
+      "Pepsin",
+      "Trypsin"
+    ],
+    "options_ta": [
+      "அமிலேஸ்",
+      "லைபேஸ்",
+      "பெப்சின்",
+      "டிரிப்சின்"
+    ],
+    "answer": "Amylase"
+  },
+  {
+    "question_en": "Blood is a?",
+    "question_ta": "இரத்தம் எது?",
+    "options_en": [
+      "Epithelial tissue",
+      "Muscular tissue",
+      "Connective tissue",
+      "Nervous tissue"
+    ],
+    "options_ta": [
+      "மூலப்பகுதி திசு",
+      "தசை திசு",
+      "இணைப்பு திசு",
+      "நரம்பு திசு"
+    ],
+    "answer": "Connective tissue"
+  },
+  {
+    "question_en": "What is the contractile protein in muscles?",
+    "question_ta": "தசைகளில் உள்ள சுருங்கும் புரதம் எது?",
+    "options_en": [
+      "Elastin",
+      "Actin and Myosin",
+      "Collagen",
+      "Keratin"
+    ],
+    "options_ta": [
+      "எலாஸ்டின்",
+      "ஆக்டின் மற்றும் மையோசின்",
+      "கொலாஜன்",
+      "கெரட்டின்"
+    ],
+    "answer": "Actin and Myosin"
+  },
+  {
+    "question_en": "Who is the father of Genetics?",
+    "question_ta": "மரபணு அறிவியலின் தந்தை யார்?",
+    "options_en": [
+      "Gregor Mendel",
+      "Crick",
+      "Watson",
+      "Charles Darwin"
+    ],
+    "options_ta": [
+      "கிரிகர் மெண்டல்",
+      "க்ரிக்",
+      "வாட்சன்",
+      "சார்லஸ் டார்வின்"
+    ],
+    "answer": "Gregor Mendel"
+  },
+  {
+    "question_en": "Which part of the cell is called powerhouse?",
+    "question_ta": "செல்லின் சக்தி நிலையம் எது?",
+    "options_en": [
+      "Chloroplast",
+      "Ribosome",
+      "Mitochondria",
+      "Nucleus"
+    ],
+    "options_ta": [
+      "குளோரோபிளாஸ்ட்",
+      "ரைபோசோம்",
+      "மைட்டோகாண்ட்ரியா",
+      "நியூக்ளியஸ்"
+    ],
+    "answer": "Mitochondria"
+  },
+  {
+    "question_en": "Which enzyme breaks down starch?",
+    "question_ta": "மாவை சிதைக்கும் என்சைம் எது?",
+    "options_en": [
+      "Amylase",
+      "Lipase",
+      "Pepsin",
+      "Trypsin"
+    ],
+    "options_ta": [
+      "அமிலேஸ்",
+      "லைபேஸ்",
+      "பெப்சின்",
+      "டிரிப்சின்"
+    ],
+    "answer": "Amylase"
+  },
+  {
+    "question_en": "Blood is a?",
+    "question_ta": "இரத்தம் எது?",
+    "options_en": [
+      "Muscular tissue",
+      "Nervous tissue",
+      "Epithelial tissue",
+      "Connective tissue"
+    ],
+    "options_ta": [
+      "தசை திசு",
+      "நரம்பு திசு",
+      "மூலப்பகுதி திசு",
+      "இணைப்பு திசு"
+    ],
+    "answer": "Connective tissue"
+  },
+  {
+    "question_en": "What is the contractile protein in muscles?",
+    "question_ta": "தசைகளில் உள்ள சுருங்கும் புரதம் எது?",
+    "options_en": [
+      "Actin and Myosin",
+      "Collagen",
+      "Elastin",
+      "Keratin"
+    ],
+    "options_ta": [
+      "ஆக்டின் மற்றும் மையோசின்",
+      "கொலாஜன்",
+      "எலாஸ்டின்",
+      "கெரட்டின்"
+    ],
+    "answer": "Actin and Myosin"
+  },
+  {
+    "question_en": "Who is the father of Genetics?",
+    "question_ta": "மரபணு அறிவியலின் தந்தை யார்?",
+    "options_en": [
+      "Crick",
+      "Watson",
+      "Charles Darwin",
+      "Gregor Mendel"
+    ],
+    "options_ta": [
+      "க்ரிக்",
+      "வாட்சன்",
+      "சார்லஸ் டார்வின்",
+      "கிரிகர் மெண்டல்"
+    ],
+    "answer": "Gregor Mendel"
+  },
+  {
+    "question_en": "Which part of the cell is called powerhouse?",
+    "question_ta": "செல்லின் சக்தி நிலையம் எது?",
+    "options_en": [
+      "Ribosome",
+      "Nucleus",
+      "Mitochondria",
+      "Chloroplast"
+    ],
+    "options_ta": [
+      "ரைபோசோம்",
+      "நியூக்ளியஸ்",
+      "மைட்டோகாண்ட்ரியா",
+      "குளோரோபிளாஸ்ட்"
+    ],
+    "answer": "Mitochondria"
+  },
+  {
+    "question_en": "Which enzyme breaks down starch?",
+    "question_ta": "மாவை சிதைக்கும் என்சைம் எது?",
+    "options_en": [
+      "Amylase",
+      "Lipase",
+      "Trypsin",
+      "Pepsin"
+    ],
+    "options_ta": [
+      "அமிலேஸ்",
+      "லைபேஸ்",
+      "டிரிப்சின்",
+      "பெப்சின்"
+    ],
+    "answer": "Amylase"
+  },
+  {
+    "question_en": "Blood is a?",
+    "question_ta": "இரத்தம் எது?",
+    "options_en": [
+      "Nervous tissue",
+      "Epithelial tissue",
+      "Connective tissue",
+      "Muscular tissue"
+    ],
+    "options_ta": [
+      "நரம்பு திசு",
+      "மூலப்பகுதி திசு",
+      "இணைப்பு திசு",
+      "தசை திசு"
+    ],
+    "answer": "Connective tissue"
+  },
+  {
+    "question_en": "What is the contractile protein in muscles?",
+    "question_ta": "தசைகளில் உள்ள சுருங்கும் புரதம் எது?",
+    "options_en": [
+      "Collagen",
+      "Elastin",
+      "Actin and Myosin",
+      "Keratin"
+    ],
+    "options_ta": [
+      "கொலாஜன்",
+      "எலாஸ்டின்",
+      "ஆக்டின் மற்றும் மையோசின்",
+      "கெரட்டின்"
+    ],
+    "answer": "Actin and Myosin"
+  },
+  {
+    "question_en": "Who is the father of Genetics?",
+    "question_ta": "மரபணு அறிவியலின் தந்தை யார்?",
+    "options_en": [
+      "Gregor Mendel",
+      "Watson",
+      "Charles Darwin",
+      "Crick"
+    ],
+    "options_ta": [
+      "கிரிகர் மெண்டல்",
+      "வாட்சன்",
+      "சார்லஸ் டார்வின்",
+      "க்ரிக்"
+    ],
+    "answer": "Gregor Mendel"
+  },
+  {
+    "question_en": "Which part of the cell is called powerhouse?",
+    "question_ta": "செல்லின் சக்தி நிலையம் எது?",
+    "options_en": [
+      "Nucleus",
+      "Chloroplast",
+      "Mitochondria",
+      "Ribosome"
+    ],
+    "options_ta": [
+      "நியூக்ளியஸ்",
+      "குளோரோபிளாஸ்ட்",
+      "மைட்டோகாண்ட்ரியா",
+      "ரைபோசோம்"
+    ],
+    "answer": "Mitochondria"
+  },
+  {
+    "question_en": "Which enzyme breaks down starch?",
+    "question_ta": "மாவை சிதைக்கும் என்சைம் எது?",
+    "options_en": [
+      "Trypsin",
+      "Lipase",
+      "Amylase",
+      "Pepsin"
+    ],
+    "options_ta": [
+      "டிரிப்சின்",
+      "லைபேஸ்",
+      "அமிலேஸ்",
+      "பெப்சின்"
+    ],
+    "answer": "Amylase"
+  },
+  {
+    "question_en": "Blood is a?",
+    "question_ta": "இரத்தம் எது?",
+    "options_en": [
+      "Muscular tissue",
+      "Nervous tissue",
+      "Epithelial tissue",
+      "Connective tissue"
+    ],
+    "options_ta": [
+      "தசை திசு",
+      "நரம்பு திசு",
+      "மூலப்பகுதி திசு",
+      "இணைப்பு திசு"
+    ],
+    "answer": "Connective tissue"
+  },
+  {
+    "question_en": "What is the contractile protein in muscles?",
+    "question_ta": "தசைகளில் உள்ள சுருங்கும் புரதம் எது?",
+    "options_en": [
+      "Collagen",
+      "Keratin",
+      "Elastin",
+      "Actin and Myosin"
+    ],
+    "options_ta": [
+      "கொலாஜன்",
+      "கெரட்டின்",
+      "எலாஸ்டின்",
+      "ஆக்டின் மற்றும் மையோசின்"
+    ],
+    "answer": "Actin and Myosin"
+  },
+  {
+    "question_en": "Who is the father of Genetics?",
+    "question_ta": "மரபணு அறிவியலின் தந்தை யார்?",
+    "options_en": [
+      "Crick",
+      "Watson",
+      "Gregor Mendel",
+      "Charles Darwin"
+    ],
+    "options_ta": [
+      "க்ரிக்",
+      "வாட்சன்",
+      "கிரிகர் மெண்டல்",
+      "சார்லஸ் டார்வின்"
+    ],
+    "answer": "Gregor Mendel"
+  },
+  {
+    "question_en": "Which part of the cell is called powerhouse?",
+    "question_ta": "செல்லின் சக்தி நிலையம் எது?",
+    "options_en": [
+      "Ribosome",
+      "Nucleus",
+      "Chloroplast",
+      "Mitochondria"
+    ],
+    "options_ta": [
+      "ரைபோசோம்",
+      "நியூக்ளியஸ்",
+      "குளோரோபிளாஸ்ட்",
+      "மைட்டோகாண்ட்ரியா"
+    ],
+    "answer": "Mitochondria"
+  },
+  {
+    "question_en": "Which enzyme breaks down starch?",
+    "question_ta": "மாவை சிதைக்கும் என்சைம் எது?",
+    "options_en": [
+      "Amylase",
+      "Pepsin",
+      "Trypsin",
+      "Lipase"
+    ],
+    "options_ta": [
+      "அமிலேஸ்",
+      "பெப்சின்",
+      "டிரிப்சின்",
+      "லைபேஸ்"
+    ],
+    "answer": "Amylase"
+  },
+  {
+    "question_en": "Blood is a?",
+    "question_ta": "இரத்தம் எது?",
+    "options_en": [
+      "Connective tissue",
+      "Nervous tissue",
+      "Epithelial tissue",
+      "Muscular tissue"
+    ],
+    "options_ta": [
+      "இணைப்பு திசு",
+      "நரம்பு திசு",
+      "மூலப்பகுதி திசு",
+      "தசை திசு"
+    ],
+    "answer": "Connective tissue"
+  },
+  {
+    "question_en": "What is the contractile protein in muscles?",
+    "question_ta": "தசைகளில் உள்ள சுருங்கும் புரதம் எது?",
+    "options_en": [
+      "Actin and Myosin",
+      "Keratin",
+      "Elastin",
+      "Collagen"
+    ],
+    "options_ta": [
+      "ஆக்டின் மற்றும் மையோசின்",
+      "கெரட்டின்",
+      "எலாஸ்டின்",
+      "கொலாஜன்"
+    ],
+    "answer": "Actin and Myosin"
+  },
+  {
+    "question_en": "Who is the father of Genetics?",
+    "question_ta": "மரபணு அறிவியலின் தந்தை யார்?",
+    "options_en": [
+      "Charles Darwin",
+      "Gregor Mendel",
+      "Watson",
+      "Crick"
+    ],
+    "options_ta": [
+      "சார்லஸ் டார்வின்",
+      "கிரிகர் மெண்டல்",
+      "வாட்சன்",
+      "க்ரிக்"
+    ],
+    "answer": "Gregor Mendel"
+  },
+  {
+    "question_en": "Which part of the cell is called powerhouse?",
+    "question_ta": "செல்லின் சக்தி நிலையம் எது?",
+    "options_en": [
+      "Nucleus",
+      "Ribosome",
+      "Mitochondria",
+      "Chloroplast"
+    ],
+    "options_ta": [
+      "நியூக்ளியஸ்",
+      "ரைபோசோம்",
+      "மைட்டோகாண்ட்ரியா",
+      "குளோரோபிளாஸ்ட்"
+    ],
+    "answer": "Mitochondria"
+  },
+  {
+    "question_en": "Which enzyme breaks down starch?",
+    "question_ta": "மாவை சிதைக்கும் என்சைம் எது?",
+    "options_en": [
+      "Lipase",
+      "Trypsin",
+      "Pepsin",
+      "Amylase"
+    ],
+    "options_ta": [
+      "லைபேஸ்",
+      "டிரிப்சின்",
+      "பெப்சின்",
+      "அமிலேஸ்"
+    ],
+    "answer": "Amylase"
+  },
+  {
+    "question_en": "Blood is a?",
+    "question_ta": "இரத்தம் எது?",
+    "options_en": [
+      "Epithelial tissue",
+      "Muscular tissue",
+      "Connective tissue",
+      "Nervous tissue"
+    ],
+    "options_ta": [
+      "மூலப்பகுதி திசு",
+      "தசை திசு",
+      "இணைப்பு திசு",
+      "நரம்பு திசு"
+    ],
+    "answer": "Connective tissue"
+  },
+  {
+    "question_en": "What is the contractile protein in muscles?",
+    "question_ta": "தசைகளில் உள்ள சுருங்கும் புரதம் எது?",
+    "options_en": [
+      "Actin and Myosin",
+      "Elastin",
+      "Keratin",
+      "Collagen"
+    ],
+    "options_ta": [
+      "ஆக்டின் மற்றும் மையோசின்",
+      "எலாஸ்டின்",
+      "கெரட்டின்",
+      "கொலாஜன்"
+    ],
+    "answer": "Actin and Myosin"
+  },
+  {
+    "question_en": "Who is the father of Genetics?",
+    "question_ta": "மரபணு அறிவியலின் தந்தை யார்?",
+    "options_en": [
+      "Charles Darwin",
+      "Gregor Mendel",
+      "Watson",
+      "Crick"
+    ],
+    "options_ta": [
+      "சார்லஸ் டார்வின்",
+      "கிரிகர் மெண்டல்",
+      "வாட்சன்",
+      "க்ரிக்"
+    ],
+    "answer": "Gregor Mendel"
+  },
+  {
+    "question_en": "Which part of the cell is called powerhouse?",
+    "question_ta": "செல்லின் சக்தி நிலையம் எது?",
+    "options_en": [
+      "Mitochondria",
+      "Chloroplast",
+      "Nucleus",
+      "Ribosome"
+    ],
+    "options_ta": [
+      "மைட்டோகாண்ட்ரியா",
+      "குளோரோபிளாஸ்ட்",
+      "நியூக்ளியஸ்",
+      "ரைபோசோம்"
+    ],
+    "answer": "Mitochondria"
+  },
+  {
+    "question_en": "Which enzyme breaks down starch?",
+    "question_ta": "மாவை சிதைக்கும் என்சைம் எது?",
+    "options_en": [
+      "Amylase",
+      "Lipase",
+      "Trypsin",
+      "Pepsin"
+    ],
+    "options_ta": [
+      "அமிலேஸ்",
+      "லைபேஸ்",
+      "டிரிப்சின்",
+      "பெப்சின்"
+    ],
+    "answer": "Amylase"
+  },
+  {
+    "question_en": "Blood is a?",
+    "question_ta": "இரத்தம் எது?",
+    "options_en": [
+      "Epithelial tissue",
+      "Nervous tissue",
+      "Muscular tissue",
+      "Connective tissue"
+    ],
+    "options_ta": [
+      "மூலப்பகுதி திசு",
+      "நரம்பு திசு",
+      "தசை திசு",
+      "இணைப்பு திசு"
+    ],
+    "answer": "Connective tissue"
+  },
+  {
+    "question_en": "What is the contractile protein in muscles?",
+    "question_ta": "தசைகளில் உள்ள சுருங்கும் புரதம் எது?",
+    "options_en": [
+      "Keratin",
+      "Actin and Myosin",
+      "Collagen",
+      "Elastin"
+    ],
+    "options_ta": [
+      "கெரட்டின்",
+      "ஆக்டின் மற்றும் மையோசின்",
+      "கொலாஜன்",
+      "எலாஸ்டின்"
+    ],
+    "answer": "Actin and Myosin"
+  },
+  {
+    "question_en": "Who is the father of Genetics?",
+    "question_ta": "மரபணு அறிவியலின் தந்தை யார்?",
+    "options_en": [
+      "Charles Darwin",
+      "Crick",
+      "Watson",
+      "Gregor Mendel"
+    ],
+    "options_ta": [
+      "சார்லஸ் டார்வின்",
+      "க்ரிக்",
+      "வாட்சன்",
+      "கிரிகர் மெண்டல்"
+    ],
+    "answer": "Gregor Mendel"
+  }
+]

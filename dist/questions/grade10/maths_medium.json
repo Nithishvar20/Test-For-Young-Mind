@@ -1,0 +1,652 @@
+[
+  {
+    "question_en": "",
+    "question_ta": "(a+b)^2 = ?",
+    "options_en": [
+      "a^2 + 2ab + b^2",
+      "a^2 + b^2",
+      "2a^2 + b^2",
+      "a^2 - 2ab + b^2"
+    ],
+    "options_ta": [],
+    "answer_en": "a^2 + 2ab + b^2",
+    "answer_ta": ""
+  },
+  {
+    "question_en": "",
+    "question_ta": "sin 90° = ?",
+    "options_en": [
+      "√3/2",
+      "1",
+      "0",
+      "1/2"
+    ],
+    "options_ta": [],
+    "answer_en": "1",
+    "answer_ta": ""
+  },
+  {
+    "question_en": "",
+    "question_ta": "ஒரு நாணயத்தை சுழற்றினால், தலை வரும் வாய்ப்பு எவ்வளவு?",
+    "options_en": [
+      "1/2",
+      "1/4",
+      "1/3",
+      "1"
+    ],
+    "options_ta": [],
+    "answer_en": "1/2",
+    "answer_ta": ""
+  },
+  {
+    "question_en": "",
+    "question_ta": "√144 = ?",
+    "options_en": [
+      "16",
+      "14",
+      "10",
+      "12"
+    ],
+    "options_ta": [],
+    "answer_en": "12",
+    "answer_ta": ""
+  },
+  {
+    "question_en": "",
+    "question_ta": "2x = 10 என்றால், x = ?",
+    "options_en": [
+      "5",
+      "20",
+      "10",
+      "2"
+    ],
+    "options_ta": [],
+    "answer_en": "5",
+    "answer_ta": ""
+  },
+  {
+    "question_en": "",
+    "question_ta": "(a+b)^2 = ?",
+    "options_en": [
+      "a^2 - 2ab + b^2",
+      "a^2 + b^2",
+      "a^2 + 2ab + b^2",
+      "2a^2 + b^2"
+    ],
+    "options_ta": [],
+    "answer_en": "a^2 + 2ab + b^2",
+    "answer_ta": ""
+  },
+  {
+    "question_en": "",
+    "question_ta": "sin 90° = ?",
+    "options_en": [
+      "1/2",
+      "1",
+      "√3/2",
+      "0"
+    ],
+    "options_ta": [],
+    "answer_en": "1",
+    "answer_ta": ""
+  },
+  {
+    "question_en": "",
+    "question_ta": "ஒரு நாணயத்தை சுழற்றினால், தலை வரும் வாய்ப்பு எவ்வளவு?",
+    "options_en": [
+      "1/3",
+      "1/2",
+      "1",
+      "1/4"
+    ],
+    "options_ta": [],
+    "answer_en": "1/2",
+    "answer_ta": ""
+  },
+  {
+    "question_en": "",
+    "question_ta": "√144 = ?",
+    "options_en": [
+      "12",
+      "10",
+      "14",
+      "16"
+    ],
+    "options_ta": [],
+    "answer_en": "12",
+    "answer_ta": ""
+  },
+  {
+    "question_en": "",
+    "question_ta": "2x = 10 என்றால், x = ?",
+    "options_en": [
+      "10",
+      "5",
+      "2",
+      "20"
+    ],
+    "options_ta": [],
+    "answer_en": "5",
+    "answer_ta": ""
+  },
+  {
+    "question_en": "",
+    "question_ta": "(a+b)^2 = ?",
+    "options_en": [
+      "2a^2 + b^2",
+      "a^2 - 2ab + b^2",
+      "a^2 + b^2",
+      "a^2 + 2ab + b^2"
+    ],
+    "options_ta": [],
+    "answer_en": "a^2 + 2ab + b^2",
+    "answer_ta": ""
+  },
+  {
+    "question_en": "",
+    "question_ta": "sin 90° = ?",
+    "options_en": [
+      "1/2",
+      "0",
+      "1",
+      "√3/2"
+    ],
+    "options_ta": [],
+    "answer_en": "1",
+    "answer_ta": ""
+  },
+  {
+    "question_en": "",
+    "question_ta": "ஒரு நாணயத்தை சுழற்றினால், தலை வரும் வாய்ப்பு எவ்வளவு?",
+    "options_en": [
+      "1",
+      "1/4",
+      "1/3",
+      "1/2"
+    ],
+    "options_ta": [],
+    "answer_en": "1/2",
+    "answer_ta": ""
+  },
+  {
+    "question_en": "",
+    "question_ta": "√144 = ?",
+    "options_en": [
+      "14",
+      "16",
+      "12",
+      "10"
+    ],
+    "options_ta": [],
+    "answer_en": "12",
+    "answer_ta": ""
+  },
+  {
+    "question_en": "",
+    "question_ta": "2x = 10 என்றால், x = ?",
+    "options_en": [
+      "20",
+      "5",
+      "10",
+      "2"
+    ],
+    "options_ta": [],
+    "answer_en": "5",
+    "answer_ta": ""
+  },
+  {
+    "question_en": "",
+    "question_ta": "(a+b)^2 = ?",
+    "options_en": [
+      "a^2 + b^2",
+      "a^2 + 2ab + b^2",
+      "2a^2 + b^2",
+      "a^2 - 2ab + b^2"
+    ],
+    "options_ta": [],
+    "answer_en": "a^2 + 2ab + b^2",
+    "answer_ta": ""
+  },
+  {
+    "question_en": "",
+    "question_ta": "sin 90° = ?",
+    "options_en": [
+      "1",
+      "√3/2",
+      "1/2",
+      "0"
+    ],
+    "options_ta": [],
+    "answer_en": "1",
+    "answer_ta": ""
+  },
+  {
+    "question_en": "",
+    "question_ta": "ஒரு நாணயத்தை சுழற்றினால், தலை வரும் வாய்ப்பு எவ்வளவு?",
+    "options_en": [
+      "1",
+      "1/4",
+      "1/3",
+      "1/2"
+    ],
+    "options_ta": [],
+    "answer_en": "1/2",
+    "answer_ta": ""
+  },
+  {
+    "question_en": "",
+    "question_ta": "√144 = ?",
+    "options_en": [
+      "14",
+      "12",
+      "10",
+      "16"
+    ],
+    "options_ta": [],
+    "answer_en": "12",
+    "answer_ta": ""
+  },
+  {
+    "question_en": "",
+    "question_ta": "2x = 10 என்றால், x = ?",
+    "options_en": [
+      "2",
+      "5",
+      "10",
+      "20"
+    ],
+    "options_ta": [],
+    "answer_en": "5",
+    "answer_ta": ""
+  },
+  {
+    "question_en": "",
+    "question_ta": "(a+b)^2 = ?",
+    "options_en": [
+      "a^2 + 2ab + b^2",
+      "a^2 - 2ab + b^2",
+      "a^2 + b^2",
+      "2a^2 + b^2"
+    ],
+    "options_ta": [],
+    "answer_en": "a^2 + 2ab + b^2",
+    "answer_ta": ""
+  },
+  {
+    "question_en": "",
+    "question_ta": "sin 90° = ?",
+    "options_en": [
+      "1",
+      "√3/2",
+      "0",
+      "1/2"
+    ],
+    "options_ta": [],
+    "answer_en": "1",
+    "answer_ta": ""
+  },
+  {
+    "question_en": "",
+    "question_ta": "ஒரு நாணயத்தை சுழற்றினால், தலை வரும் வாய்ப்பு எவ்வளவு?",
+    "options_en": [
+      "1",
+      "1/3",
+      "1/2",
+      "1/4"
+    ],
+    "options_ta": [],
+    "answer_en": "1/2",
+    "answer_ta": ""
+  },
+  {
+    "question_en": "",
+    "question_ta": "√144 = ?",
+    "options_en": [
+      "12",
+      "10",
+      "14",
+      "16"
+    ],
+    "options_ta": [],
+    "answer_en": "12",
+    "answer_ta": ""
+  },
+  {
+    "question_en": "",
+    "question_ta": "2x = 10 என்றால், x = ?",
+    "options_en": [
+      "5",
+      "10",
+      "20",
+      "2"
+    ],
+    "options_ta": [],
+    "answer_en": "5",
+    "answer_ta": ""
+  },
+  {
+    "question_en": "",
+    "question_ta": "(a+b)^2 = ?",
+    "options_en": [
+      "a^2 + b^2",
+      "a^2 + 2ab + b^2",
+      "a^2 - 2ab + b^2",
+      "2a^2 + b^2"
+    ],
+    "options_ta": [],
+    "answer_en": "a^2 + 2ab + b^2",
+    "answer_ta": ""
+  },
+  {
+    "question_en": "",
+    "question_ta": "sin 90° = ?",
+    "options_en": [
+      "1/2",
+      "1",
+      "√3/2",
+      "0"
+    ],
+    "options_ta": [],
+    "answer_en": "1",
+    "answer_ta": ""
+  },
+  {
+    "question_en": "",
+    "question_ta": "ஒரு நாணயத்தை சுழற்றினால், தலை வரும் வாய்ப்பு எவ்வளவு?",
+    "options_en": [
+      "1/3",
+      "1/4",
+      "1/2",
+      "1"
+    ],
+    "options_ta": [],
+    "answer_en": "1/2",
+    "answer_ta": ""
+  },
+  {
+    "question_en": "",
+    "question_ta": "√144 = ?",
+    "options_en": [
+      "10",
+      "12",
+      "14",
+      "16"
+    ],
+    "options_ta": [],
+    "answer_en": "12",
+    "answer_ta": ""
+  },
+  {
+    "question_en": "",
+    "question_ta": "2x = 10 என்றால், x = ?",
+    "options_en": [
+      "5",
+      "10",
+      "2",
+      "20"
+    ],
+    "options_ta": [],
+    "answer_en": "5",
+    "answer_ta": ""
+  },
+  {
+    "question_en": "",
+    "question_ta": "(a+b)^2 = ?",
+    "options_en": [
+      "2a^2 + b^2",
+      "a^2 + b^2",
+      "a^2 + 2ab + b^2",
+      "a^2 - 2ab + b^2"
+    ],
+    "options_ta": [],
+    "answer_en": "a^2 + 2ab + b^2",
+    "answer_ta": ""
+  },
+  {
+    "question_en": "",
+    "question_ta": "sin 90° = ?",
+    "options_en": [
+      "1/2",
+      "1",
+      "√3/2",
+      "0"
+    ],
+    "options_ta": [],
+    "answer_en": "1",
+    "answer_ta": ""
+  },
+  {
+    "question_en": "",
+    "question_ta": "ஒரு நாணயத்தை சுழற்றினால், தலை வரும் வாய்ப்பு எவ்வளவு?",
+    "options_en": [
+      "1/3",
+      "1/2",
+      "1",
+      "1/4"
+    ],
+    "options_ta": [],
+    "answer_en": "1/2",
+    "answer_ta": ""
+  },
+  {
+    "question_en": "",
+    "question_ta": "√144 = ?",
+    "options_en": [
+      "16",
+      "14",
+      "10",
+      "12"
+    ],
+    "options_ta": [],
+    "answer_en": "12",
+    "answer_ta": ""
+  },
+  {
+    "question_en": "",
+    "question_ta": "2x = 10 என்றால், x = ?",
+    "options_en": [
+      "20",
+      "5",
+      "10",
+      "2"
+    ],
+    "options_ta": [],
+    "answer_en": "5",
+    "answer_ta": ""
+  },
+  {
+    "question_en": "",
+    "question_ta": "(a+b)^2 = ?",
+    "options_en": [
+      "a^2 - 2ab + b^2",
+      "a^2 + b^2",
+      "2a^2 + b^2",
+      "a^2 + 2ab + b^2"
+    ],
+    "options_ta": [],
+    "answer_en": "a^2 + 2ab + b^2",
+    "answer_ta": ""
+  },
+  {
+    "question_en": "",
+    "question_ta": "sin 90° = ?",
+    "options_en": [
+      "1",
+      "0",
+      "√3/2",
+      "1/2"
+    ],
+    "options_ta": [],
+    "answer_en": "1",
+    "answer_ta": ""
+  },
+  {
+    "question_en": "",
+    "question_ta": "ஒரு நாணயத்தை சுழற்றினால், தலை வரும் வாய்ப்பு எவ்வளவு?",
+    "options_en": [
+      "1/2",
+      "1/3",
+      "1/4",
+      "1"
+    ],
+    "options_ta": [],
+    "answer_en": "1/2",
+    "answer_ta": ""
+  },
+  {
+    "question_en": "",
+    "question_ta": "√144 = ?",
+    "options_en": [
+      "12",
+      "16",
+      "10",
+      "14"
+    ],
+    "options_ta": [],
+    "answer_en": "12",
+    "answer_ta": ""
+  },
+  {
+    "question_en": "",
+    "question_ta": "2x = 10 என்றால், x = ?",
+    "options_en": [
+      "5",
+      "2",
+      "10",
+      "20"
+    ],
+    "options_ta": [],
+    "answer_en": "5",
+    "answer_ta": ""
+  },
+  {
+    "question_en": "",
+    "question_ta": "(a+b)^2 = ?",
+    "options_en": [
+      "a^2 + 2ab + b^2",
+      "2a^2 + b^2",
+      "a^2 + b^2",
+      "a^2 - 2ab + b^2"
+    ],
+    "options_ta": [],
+    "answer_en": "a^2 + 2ab + b^2",
+    "answer_ta": ""
+  },
+  {
+    "question_en": "",
+    "question_ta": "sin 90° = ?",
+    "options_en": [
+      "1",
+      "0",
+      "√3/2",
+      "1/2"
+    ],
+    "options_ta": [],
+    "answer_en": "1",
+    "answer_ta": ""
+  },
+  {
+    "question_en": "",
+    "question_ta": "ஒரு நாணயத்தை சுழற்றினால், தலை வரும் வாய்ப்பு எவ்வளவு?",
+    "options_en": [
+      "1/3",
+      "1",
+      "1/2",
+      "1/4"
+    ],
+    "options_ta": [],
+    "answer_en": "1/2",
+    "answer_ta": ""
+  },
+  {
+    "question_en": "",
+    "question_ta": "√144 = ?",
+    "options_en": [
+      "12",
+      "16",
+      "10",
+      "14"
+    ],
+    "options_ta": [],
+    "answer_en": "12",
+    "answer_ta": ""
+  },
+  {
+    "question_en": "",
+    "question_ta": "2x = 10 என்றால், x = ?",
+    "options_en": [
+      "5",
+      "10",
+      "20",
+      "2"
+    ],
+    "options_ta": [],
+    "answer_en": "5",
+    "answer_ta": ""
+  },
+  {
+    "question_en": "",
+    "question_ta": "(a+b)^2 = ?",
+    "options_en": [
+      "2a^2 + b^2",
+      "a^2 + 2ab + b^2",
+      "a^2 + b^2",
+      "a^2 - 2ab + b^2"
+    ],
+    "options_ta": [],
+    "answer_en": "a^2 + 2ab + b^2",
+    "answer_ta": ""
+  },
+  {
+    "question_en": "",
+    "question_ta": "sin 90° = ?",
+    "options_en": [
+      "0",
+      "1/2",
+      "1",
+      "√3/2"
+    ],
+    "options_ta": [],
+    "answer_en": "1",
+    "answer_ta": ""
+  },
+  {
+    "question_en": "",
+    "question_ta": "ஒரு நாணயத்தை சுழற்றினால், தலை வரும் வாய்ப்பு எவ்வளவு?",
+    "options_en": [
+      "1/4",
+      "1",
+      "1/2",
+      "1/3"
+    ],
+    "options_ta": [],
+    "answer_en": "1/2",
+    "answer_ta": ""
+  },
+  {
+    "question_en": "",
+    "question_ta": "√144 = ?",
+    "options_en": [
+      "16",
+      "10",
+      "14",
+      "12"
+    ],
+    "options_ta": [],
+    "answer_en": "12",
+    "answer_ta": ""
+  },
+  {
+    "question_en": "",
+    "question_ta": "2x = 10 என்றால், x = ?",
+    "options_en": [
+      "10",
+      "5",
+      "20",
+      "2"
+    ],
+    "options_ta": [],
+    "answer_en": "5",
+    "answer_ta": ""
+  }
+]

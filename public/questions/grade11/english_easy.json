@@ -1,0 +1,290 @@
+[
+  {
+    "question_en": "Who is called the father of English essays?",
+    "question_ta": "ஆங்கில கட்டுரைகளின் தந்தை என்று யாரை அழைக்கப்படுகிறது?",
+    "options_en": ["Francis Bacon", "William Shakespeare", "Milton", "Wordsworth"],
+    "options_ta": ["பிரான்சிஸ் பேக்கன்", "வில்லியம் ஷேக்ஸ்பியர்", "மில்டன்", "வேர்ட்ஸ்வொர்த்"],
+    "answer_en": "Francis Bacon",
+    "answer_ta": "பிரான்சிஸ் பேக்கன்"
+  },
+  {
+    "question_en": "Who wrote 'The Portrait of a Lady'?",
+    "question_ta": "'தி போர்ட்ரெய்ட் ஆஃப் எ லேடி' என்ற படைப்பை யார் எழுதியவர்?",
+    "options_en": ["Khushwant Singh", "R.K. Narayan", "Ruskin Bond", "Tagore"],
+    "options_ta": ["குஷ்வந்த் சிங்", "ஆர். கே. நாராயண்", "ரஸ்கின் பாண்ட்", "டாகூர்"],
+    "answer_en": "Khushwant Singh",
+    "answer_ta": "குஷ்வந்த் சிங்"
+  },
+  {
+    "question_en": "In which poem do we find the line 'A thing of beauty is a joy forever'?",
+    "question_ta": "'ஒரு அழகான பொருள் என்றென்றும் மகிழ்ச்சி' என்ற வரி எந்தக் கவிதையில் உள்ளது?",
+    "options_en": ["Daffodils", "A Thing of Beauty", "The Solitary Reaper", "Ode to Autumn"],
+    "options_ta": ["டாபோடில்ஸ்", "அ திங் ஆஃப் பியூட்டி", "தி சாலிட்டரி ரீப்பர்", "ஓட் டூ ஆட்டம்"],
+    "answer_en": "A Thing of Beauty",
+    "answer_ta": "அ திங் ஆஃப் பியூட்டி"
+  },
+  {
+    "question_en": "Who is the author of 'The Queen of Boxing'?",
+    "question_ta": "'தி க்வீன் ஆஃப் பாக்சிங்' என்ற படைப்பின் ஆசிரியர் யார்?",
+    "options_en": ["Mary Kom", "P.T. Usha", "Karnam Malleswari", "Sania Mirza"],
+    "options_ta": ["மேரி கோம்", "பி.டி. உஷா", "கர்ணம் மல்லேஸ்வரி", "சானியா மிர்சா"],
+    "answer_en": "Mary Kom",
+    "answer_ta": "மேரி கோம்"
+  },
+  {
+    "question_en": "Who wrote 'The Merchant of Venice'?",
+    "question_ta": "'தி மெர்சன்ட் ஆஃப் வெனிஸ்' யாரால் எழுதப்பட்டது?",
+    "options_en": ["Milton", "William Shakespeare", "Charles Dickens", "Keats"],
+    "options_ta": ["மில்டன்", "வில்லியம் ஷேக்ஸ்பியர்", "சார்ல்ஸ் டிக்கன்ஸ்", "கீட்ஸ்"],
+    "answer_en": "William Shakespeare",
+    "answer_ta": "வில்லியம் ஷேக்ஸ்பியர்"
+  },
+  {
+    "question_en": "Who is the author of 'The Mark of Vishnu'?",
+    "question_ta": "'தி மார்க் ஆஃப் விஷ்ணு' என்ற படைப்பின் ஆசிரியர் யார்?",
+    "options_en": ["Khushwant Singh", "R.K. Narayan", "Manohar Malgonkar", "Mulkh Raj Anand"],
+    "options_ta": ["குஷ்வந்த் சிங்", "ஆர். கே. நாராயண்", "மனோஹர் மல்கோன்கார்", "முல்க் ராஜ் ஆனந்த்"],
+    "answer_en": "Khushwant Singh",
+    "answer_ta": "குஷ்வந்த் சிங்"
+  },
+  {
+    "question_en": "Who is known as the 'Nightingale of India'?",
+    "question_ta": "இந்தியாவின் 'குயில்' என்று யாரை அழைக்கப்படுகிறது?",
+    "options_en": ["Sarojini Naidu", "Indira Gandhi", "M.S. Subbulakshmi", "Annie Besant"],
+    "options_ta": ["சரோஜினி நாயுடு", "இந்திரா காந்தி", "எம்.எஸ். சுப்புலட்சுமி", "அன்னி பெசன்ட்"],
+    "answer_en": "Sarojini Naidu",
+    "answer_ta": "சரோஜினி நாயுடு"
+  },
+  {
+    "question_en": "Who wrote 'The Flying Wonder'?",
+    "question_ta": "'தி ப்ளையிங் வண்டர்' யாரால் எழுதப்பட்டது?",
+    "options_en": ["Stephen Leacock", "R.K. Narayan", "Stephen Hawking", "Ruskin Bond"],
+    "options_ta": ["ஸ்டீபன் லீகாக்", "ஆர். கே. நாராயண்", "ஸ்டீபன் ஹாக்கிங்", "ரஸ்கின் பாண்ட்"],
+    "answer_en": "Stephen Leacock",
+    "answer_ta": "ஸ்டீபன் லீகாக்"
+  },
+  {
+    "question_en": "The poem 'No Men are Foreign' conveys the theme of?",
+    "question_ta": "'நோ மேன் ஆர் ஃபாரின்' என்ற கவிதை எதை எடுத்துரைக்கிறது?",
+    "options_en": ["Patriotism", "Universal brotherhood", "Nature", "Love"],
+    "options_ta": ["தேசிய உணர்வு", "உலக சகோதரத்துவம்", "இயற்கை", "காதல்"],
+    "answer_en": "Universal brotherhood",
+    "answer_ta": "உலக சகோதரத்துவம்"
+  },
+  {
+    "question_en": "Who is the poet of 'The Solitary Reaper'?",
+    "question_ta": "'தி சாலிட்டரி ரீப்பர்' கவிதையின் கவிஞர் யார்?",
+    "options_en": ["Wordsworth", "Shelley", "Keats", "Milton"],
+    "options_ta": ["வேர்ட்ஸ்வொர்த்", "ஷெல்லி", "கீட்ஸ்", "மில்டன்"],
+    "answer_en": "Wordsworth",
+    "answer_ta": "வேர்ட்ஸ்வொர்த்"
+  },
+  {
+    "question_en": "Who is the author of 'The First Patient'?",
+    "question_ta": "'தி ஃபர்ஸ்ட் பேஷண்ட்' என்ற படைப்பின் ஆசிரியர் யார்?",
+    "options_en": ["Shiv Khera", "R.K. Narayan", "C. Rajagopalachari", "Dr. Rajendra Prasad"],
+    "options_ta": ["சிவ் கேறா", "ஆர். கே. நாராயண்", "சி. ராஜகோபாலாச்சாரி", "டாக்டர். ராஜேந்திர பிரசாத்"],
+    "answer_en": "C. Rajagopalachari",
+    "answer_ta": "சி. ராஜகோபாலாச்சாரி"
+  },
+  {
+    "question_en": "Who is the author of 'The Piano'?",
+    "question_ta": "'தி பியானோ' என்ற கவிதையை எழுதியவர் யார்?",
+    "options_en": ["D.H. Lawrence", "Robert Frost", "Shelley", "Keats"],
+    "options_ta": ["டி.எச். லாரன்ஸ்", "ராபர்ட் ஃப்ராஸ்ட்", "ஷெல்லி", "கீட்ஸ்"],
+    "answer_en": "D.H. Lawrence",
+    "answer_ta": "டி.எச். லாரன்ஸ்"
+  },
+  {
+    "question_en": "The autobiography 'Wings of Fire' was written by?",
+    "question_ta": "'விங்ஸ் ஆஃப் ஃபயர்' என்ற சுயசரிதை யாரால் எழுதப்பட்டது?",
+    "options_en": ["Dr. A.P.J. Abdul Kalam", "Jawaharlal Nehru", "Mahatma Gandhi", "Vikram Sarabhai"],
+    "options_ta": ["டாக்டர் ஏ.பி.ஜே. அப்துல் கலாம்", "ஜவஹர்லால் நேரு", "மகாத்மா காந்தி", "விக்ரம் சாராபாய்"],
+    "answer_en": "Dr. A.P.J. Abdul Kalam",
+    "answer_ta": "டாக்டர் ஏ.பி.ஜே. அப்துல் கலாம்"
+  },
+  {
+    "question_en": "Who is the poet of 'Migrant Bird'?",
+    "question_ta": "'மைக்ரண்ட் பேர்ட்' என்ற கவிதையின் கவிஞர் யார்?",
+    "options_en": ["Mahadevi Varma", "Sarojini Naidu", "Kamala Das", "Rabindranath Tagore"],
+    "options_ta": ["மஹாதேவி வர்மா", "சரோஜினி நாயுடு", "கமலா தாஸ்", "ரபீந்திரநாத் டாகூர்"],
+    "answer_en": "Mahadevi Varma",
+    "answer_ta": "மஹாதேவி வர்மா"
+  },
+  {
+    "question_en": "Who wrote 'Two Gentlemen of Verona'?",
+    "question_ta": "'டூ ஜென்டில்மென் ஆஃப் வெரோனா' யார் எழுதியது?",
+    "options_en": ["A.J. Cronin", "Charles Dickens", "R.K. Narayan", "Ruskin Bond"],
+    "options_ta": ["ஏ.ஜே. க்ரோனின்", "சார்ல்ஸ் டிக்கன்ஸ்", "ஆர். கே. நாராயண்", "ரஸ்கின் பாண்ட்"],
+    "answer_en": "A.J. Cronin",
+    "answer_ta": "ஏ.ஜே. க்ரோனின்"
+  },
+  {
+    "question_en": "Who is the poet of 'Snake'?",
+    "question_ta": "'ஸ்நேக்' என்ற கவிதையின் கவிஞர் யார்?",
+    "options_en": ["D.H. Lawrence", "Keats", "Shelley", "Wordsworth"],
+    "options_ta": ["டி.எச். லாரன்ஸ்", "கீட்ஸ்", "ஷெல்லி", "வேர்ட்ஸ்வொர்த்"],
+    "answer_en": "D.H. Lawrence",
+    "answer_ta": "டி.எச். லாரன்ஸ்"
+  },
+  {
+    "question_en": "Which poem highlights the theme of equality of men?",
+    "question_ta": "ஆண்களின் சமத்துவத்தைக் காட்டும் கவிதை எது?",
+    "options_en": ["No Men are Foreign", "Daffodils", "The Solitary Reaper", "Snake"],
+    "options_ta": ["நோ மேன் ஆர் ஃபாரின்", "டாபோடில்ஸ்", "தி சாலிட்டரி ரீப்பர்", "ஸ்நேக்"],
+    "answer_en": "No Men are Foreign",
+    "answer_ta": "நோ மேன் ஆர் ஃபாரின்"
+  },
+  {
+    "question_en": "Who is the poet of 'Laugh and be Merry'?",
+    "question_ta": "'லாஃப் அண்ட் பி மெர்ரி' கவிதையின் கவிஞர் யார்?",
+    "options_en": ["John Masefield", "Wordsworth", "Robert Frost", "Tennyson"],
+    "options_ta": ["ஜான் மேஸ்ஃபீல்ட்", "வேர்ட்ஸ்வொர்த்", "ராபர்ட் ஃப்ராஸ்ட்", "டெனிசன்"],
+    "answer_en": "John Masefield",
+    "answer_ta": "ஜான் மேஸ்ஃபீல்ட்"
+  },
+  {
+    "question_en": "Who is the poet of 'Lines Written in Early Spring'?",
+    "question_ta": "'லைன்ஸ் விறிட்டன் இன் எர்லி ஸ்பிரிங்' கவிதையின் கவிஞர் யார்?",
+    "options_en": ["Wordsworth", "Keats", "Shelley", "Milton"],
+    "options_ta": ["வேர்ட்ஸ்வொர்த்", "கீட்ஸ்", "ஷெல்லி", "மில்டன்"],
+    "answer_en": "Wordsworth",
+    "answer_ta": "வேர்ட்ஸ்வொர்த்"
+  },
+  {
+    "question_en": "Who is the author of 'Sweat of Sweatshops'?",
+    "question_ta": "'ஸ்வெட் ஆஃப் ஸ்வெட் ஷாப்ஸ்' என்ற கட்டுரையின் ஆசிரியர் யார்?",
+    "options_en": ["Mulk Raj Anand", "Manohar Malgonkar", "Charles Dickens", "Anita Desai"],
+    "options_ta": ["முல்க் ராஜ் ஆனந்த்", "மனோஹர் மல்கோன்கார்", "சார்ல்ஸ் டிக்கன்ஸ்", "அனிதா தேசாய்"],
+    "answer_en": "Mulk Raj Anand",
+    "answer_ta": "முல்க் ராஜ் ஆனந்த்"
+  },
+  {
+    "question_en": "Who is the author of 'Of Studies'?",
+    "question_ta": "'ஆஃப் ஸ்டடீஸ்' என்ற கட்டுரையின் ஆசிரியர் யார்?",
+    "options_en": ["Francis Bacon", "Milton", "Tennyson", "Wordsworth"],
+    "options_ta": ["பிரான்சிஸ் பேக்கன்", "மில்டன்", "டெனிசன்", "வேர்ட்ஸ்வொர்த்"],
+    "answer_en": "Francis Bacon",
+    "answer_ta": "பிரான்சிஸ் பேக்கன்"
+  },
+  {
+    "question_en": "Who wrote 'The Necklace'?",
+    "question_ta": "'தி நெக்லஸ்' யாரால் எழுதப்பட்டது?",
+    "options_en": ["Guy de Maupassant", "Charles Dickens", "Tolstoy", "R.K. Narayan"],
+    "options_ta": ["கி டி மோப்பசான்", "சார்ல்ஸ் டிக்கன்ஸ்", "டால்ஸ்டாய்", "ஆர். கே. நாராயண்"],
+    "answer_en": "Guy de Maupassant",
+    "answer_ta": "கி டி மோப்பசான்"
+  },
+  {
+    "question_en": "Who is the poet of 'Earth'?",
+    "question_ta": "'அர்த்' என்ற கவிதையின் கவிஞர் யார்?",
+    "options_en": ["Khalil Gibran", "Tagore", "Sarojini Naidu", "Shelley"],
+    "options_ta": ["கலீல் ஜிப்ரான்", "டாகூர்", "சரோஜினி நாயுடு", "ஷெல்லி"],
+    "answer_en": "Khalil Gibran",
+    "answer_ta": "கலீல் ஜிப்ரான்"
+  },
+  {
+    "question_en": "Who is the author of 'A Shot in the Dark'?",
+    "question_ta": "'அ ஷாட் இன் த டார்க்' என்ற படைப்பின் ஆசிரியர் யார்?",
+    "options_en": ["Saki (H.H. Munro)", "R.K. Narayan", "Charles Dickens", "Oscar Wilde"],
+    "options_ta": ["சாகி (எச்.எச். முந்ரோ)", "ஆர். கே. நாராயண்", "சார்ல்ஸ் டிக்கன்ஸ்", "ஆஸ்கர் வைல்ட்"],
+    "answer_en": "Saki (H.H. Munro)",
+    "answer_ta": "சாகி (எச்.எச். முந்ரோ)"
+  },
+  {
+    "question_en": "Who is the poet of 'The Man He Killed'?",
+    "question_ta": "'தி மேன் ஹீ கில்ல்ட்' என்ற கவிதையின் கவிஞர் யார்?",
+    "options_en": ["Thomas Hardy", "Wordsworth", "Milton", "Keats"],
+    "options_ta": ["தாமஸ் ஹார்டி", "வேர்ட்ஸ்வொர்த்", "மில்டன்", "கீட்ஸ்"],
+    "answer_en": "Thomas Hardy",
+    "answer_ta": "தாமஸ் ஹார்டி"
+  },
+  {
+    "question_en": "Who wrote 'The Model Millionaire'?",
+    "question_ta": "'தி மாடல் மில்லியனேர்' யார் எழுதியது?",
+    "options_en": ["Oscar Wilde", "Charles Dickens", "R.K. Narayan", "Ruskin Bond"],
+    "options_ta": ["ஆஸ்கர் வைல்ட்", "சார்ல்ஸ் டிக்கன்ஸ்", "ஆர். கே. நாராயண்", "ரஸ்கின் பாண்ட்"],
+    "answer_en": "Oscar Wilde",
+    "answer_ta": "ஆஸ்கர் வைல்ட்"
+  },
+  {
+    "question_en": "Who is the poet of 'To the Land of Snow'?",
+    "question_ta": "'டு த லேண்ட் ஆஃப் ஸ்னோ' கவிதையின் கவிஞர் யார்?",
+    "options_en": ["Tagore", "Sarojini Naidu", "Keki N. Daruwalla", "Mahadevi Varma"],
+    "options_ta": ["டாகூர்", "சரோஜினி நாயுடு", "கேகி என். தருவாலா", "மஹாதேவி வர்மா"],
+    "answer_en": "Keki N. Daruwalla",
+    "answer_ta": "கேகி என். தருவாலா"
+  },
+  {
+    "question_en": "Who is the poet of 'Everest is Not the Only Peak'?",
+    "question_ta": "'எவரெஸ்ட் இஸ் நாட் த ஒன்லி பீக்' கவிதையின் கவிஞர் யார்?",
+    "options_en": ["Vallikkannan", "Tagore", "Robert Frost", "Shelley"],
+    "options_ta": ["வள்ளிக்கண்ணன்", "டாகூர்", "ராபர்ட் ஃப்ராஸ்ட்", "ஷெல்லி"],
+    "answer_en": "Vallikkannan",
+    "answer_ta": "வள்ளிக்கண்ணன்"
+  },
+  {
+    "question_en": "Who wrote 'The Open Window'?",
+    "question_ta": "'தி ஓபன் விண்டோ' யார் எழுதியது?",
+    "options_en": ["Saki", "Oscar Wilde", "Charles Dickens", "Ruskin Bond"],
+    "options_ta": ["சாகி", "ஆஸ்கர் வைல்ட்", "சார்ல்ஸ் டிக்கன்ஸ்", "ரஸ்கின் பாண்ட்"],
+    "answer_en": "Saki",
+    "answer_ta": "சாகி"
+  },
+  {
+    "question_en": "Who is the author of 'The Story of an Hour'?",
+    "question_ta": "'தி ஸ்டோரி ஆஃப் அன் آور்' என்ற சிறுகதையின் ஆசிரியர் யார்?",
+    "options_en": ["Kate Chopin", "Oscar Wilde", "R.K. Narayan", "Anita Desai"],
+    "options_ta": ["கேட் சோபின்", "ஆஸ்கர் வைல்ட்", "ஆர். கே. நாராயண்", "அனிதா தேசாய்"],
+    "answer_en": "Kate Chopin",
+    "answer_ta": "கேட் சோபின்"
+  },
+  {
+    "question_en": "Who wrote 'The Convocation Address'?",
+    "question_ta": "'தி கன்வொக்கேஷன் அட்ரஸ்' யார் எழுதியது?",
+    "options_en": ["Dr. A.P.J. Abdul Kalam", "Jawaharlal Nehru", "Mahatma Gandhi", "C. Rajagopalachari"],
+    "options_ta": ["டாக்டர் ஏ.பி.ஜே. அப்துல் கலாம்", "ஜவஹர்லால் நேரு", "மகாத்மா காந்தி", "சி. ராஜகோபாலாச்சாரி"],
+    "answer_en": "Dr. A.P.J. Abdul Kalam",
+    "answer_ta": "டாக்டர் ஏ.பி.ஜே. அப்துல் கலாம்"
+  },
+  {
+    "question_en": "Who is the poet of 'Mending Wall'?",
+    "question_ta": "'மெண்டிங் வால்' கவிதையின் கவிஞர் யார்?",
+    "options_en": ["Robert Frost", "Wordsworth", "Keats", "Shelley"],
+    "options_ta": ["ராபர்ட் ஃப்ராஸ்ட்", "வேர்ட்ஸ்வொர்த்", "கீட்ஸ்", "ஷெல்லி"],
+    "answer_en": "Robert Frost",
+    "answer_ta": "ராபர்ட் ஃப்ராஸ்ட்"
+  },
+  {
+    "question_en": "Who wrote 'The Lady or the Tiger'?",
+    "question_ta": "'தி லேடி ஆர் த டைகர்' யாரால் எழுதப்பட்டது?",
+    "options_en": ["Frank R. Stockton", "Oscar Wilde", "Guy de Maupassant", "Tolstoy"],
+    "options_ta": ["ஃபிராங்க் ஆர். ஸ்டாக்டன்", "ஆஸ்கர் வைல்ட்", "கி டி மோப்பசான்", "டால்ஸ்டாய்"],
+    "answer_en": "Frank R. Stockton",
+    "answer_ta": "ஃபிராங்க் ஆர். ஸ்டாக்டன்"
+  },
+  {
+    "question_en": "Who is the poet of 'Ode to Autumn'?",
+    "question_ta": "'ஓட் டூ ஆட்டம்' கவிதையின் கவிஞர் யார்?",
+    "options_en": ["Keats", "Wordsworth", "Shelley", "Milton"],
+    "options_ta": ["கீட்ஸ்", "வேர்ட்ஸ்வொர்த்", "ஷெல்லி", "மில்டன்"],
+    "answer_en": "Keats",
+    "answer_ta": "கீட்ஸ்"
+  },
+  {
+    "question_en": "Who is the poet of 'Stopping by Woods on a Snowy Evening'?",
+    "question_ta": "'ஸ்டாப்பிங் பை வுட்ஸ் ஆன் எ ஸ்னோயி ஈவ்னிங்' கவிதையின் கவிஞர் யார்?",
+    "options_en": ["Robert Frost", "Shelley", "Keats", "Milton"],
+    "options_ta": ["ராபர்ட் ஃப்ராஸ்ட்", "ஷெல்லி", "கீட்ஸ்", "மில்டன்"],
+    "answer_en": "Robert Frost",
+    "answer_ta": "ராபர்ட் ஃப்ராஸ்ட்"
+  },
+  {
+    "question_en": "Who wrote 'The Selfish Giant'?",
+    "question_ta": "'தி செல்ஃபிஷ் ஜெயண்ட்' யார் எழுதியது?",
+    "options_en": ["Oscar Wilde", "Charles Dickens", "R.K. Narayan", "Ruskin Bond"],
+    "options_ta": ["ஆஸ்கர் வைல்ட்", "சார்ல்ஸ் டிக்கன்ஸ்", "ஆர். கே. நாராயண்", "ரஸ்கின் பாண்ட்"],
+    "answer_en": "Oscar Wilde",
+    "answer_ta": "ஆஸ்கர் வைல்ட்"
+  }
+]

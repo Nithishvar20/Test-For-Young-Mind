@@ -1,0 +1,344 @@
+[
+  {
+    "question_en": "A capacitor charged to voltage V stores energy U. What is U?",
+    "question_ta": "ஒரு கேபாசிட்டர் V மின்னழுத்தத்தில் சார்ஜ் செய்யப்பட்டால் சேமிக்கப்படும் ஆற்றல் U என்ன?",
+    "options_en": [
+      "C V",
+      "1/2 V^2/C",
+      "1/2 C V^2",
+      "C V^2"
+    ],
+    "options_ta": [
+      "C V",
+      "1/2 V^2/C",
+      "1/2 C V^2",
+      "C V^2"
+    ],
+    "answer_en": "1/2 C V^2",
+    "answer_ta": "1/2 C V^2"
+  },
+  {
+    "question_en": "In a series circuit, how do resistances add?",
+    "question_ta": "சீரியல் சர்க்கிளில் எதிர்ப்புகள் எப்படி சேர்க்கப்படுகின்றன?",
+    "options_en": [
+      "R_total = max(R)",
+      "R_total = R1 + R2 + ...",
+      "R_total = R1*R2",
+      "1/R_total = 1/R1 + 1/R2 + ..."
+    ],
+    "options_ta": [
+      "R_total = max(R)",
+      "R_total = R1 + R2 + ...",
+      "R_total = R1*R2",
+      "1/R_total = 1/R1 + 1/R2 + ..."
+    ],
+    "answer_en": "R_total = R1 + R2 + ...",
+    "answer_ta": "R_total = R1 + R2 + ..."
+  },
+  {
+    "question_en": "Which phenomenon explains redshift of distant galaxies?",
+    "question_ta": "தூரகலங்கள் (galaxies) இன் சிவப்பு இடமாற்றத்தை (redshift) எது விளக்குகிறது?",
+    "options_en": [
+      "Doppler effect (expansion of universe)",
+      "Photoelectric effect",
+      "Compton effect",
+      "Cherenkov radiation"
+    ],
+    "options_ta": [
+      "டொப்ப்லர் விளைவு (ஐகிபரிஸன்)",
+      "போட்டோஎலெக்ட்ரிக்",
+      "காம்டன்",
+      "Cherenkov கதிர்வீடு"
+    ],
+    "answer_en": "Doppler effect (expansion of universe)",
+    "answer_ta": "டொப்ப்லர் விளைவு (ஐகிபரிஸன்)"
+  },
+  {
+    "question_en": "A proton and alpha particle have same kinetic energy. Which has larger de Broglie wavelength?",
+    "question_ta": "ஒரே இயக்க சக்தி கொண்ட புரோட்டோன் மற்றும் ஆல்பா துகளியில் யாருக்கு பெரிய டீ-ப்ரோய்லி அலைநீளம்?",
+    "options_en": [
+      "Alpha particle",
+      "Cannot say",
+      "Proton",
+      "Both same"
+    ],
+    "options_ta": [
+      "ஆல்பா துகளி",
+      "சொல்லமுடியாது",
+      "புரோட்டோன்",
+      "இரண்டும் சமம்"
+    ],
+    "answer_en": "Proton",
+    "answer_ta": "புரோட்டோன்"
+  },
+  {
+    "question_en": "Which condition produces resonance in series RLC circuit?",
+    "question_ta": "சீரியல் RLC சர்க்கிளில் எதிர்வினை (resonance) எப்போது நிகழ்கிறது?",
+    "options_en": [
+      "When R = 0",
+      "When frequency = 0",
+      "When XL = XC",
+      "Never"
+    ],
+    "options_ta": [
+      "R = 0",
+      "அதிர்வு = 0",
+      "XL = XC",
+      "எப்போதும் இல்லை"
+    ],
+    "answer_en": "When XL = XC",
+    "answer_ta": "XL = XC"
+  },
+  {
+    "question_en": "What is the relation between electric field E and potential V?",
+    "question_ta": "மின் புல E மற்றும் மின் மின் வோல்டேஜ் V இடையிலான உறவு எது?",
+    "options_en": [
+      "E = V^2",
+      "E = qV",
+      "E = -dV/dx",
+      "E = V/I"
+    ],
+    "options_ta": [
+      "E = V^2",
+      "E = qV",
+      "E = -dV/dx",
+      "E = V/I"
+    ],
+    "answer_en": "E = -dV/dx",
+    "answer_ta": "E = -dV/dx"
+  },
+  {
+    "question_en": "Which lens formula is correct?",
+    "question_ta": "எந்த லென்ஸ் சூத்திரம் சரியானது?",
+    "options_en": [
+      "f = u v",
+      "1/f = u - v",
+      "1/f = u + v",
+      "1/f = 1/v - 1/u"
+    ],
+    "options_ta": [
+      "f = u v",
+      "1/f = u - v",
+      "1/f = u + v",
+      "1/f = 1/v - 1/u"
+    ],
+    "answer_en": "1/f = 1/v - 1/u",
+    "answer_ta": "1/f = 1/v - 1/u"
+  },
+  {
+    "question_en": "Which phenomenon demonstrates wave nature of electrons?",
+    "question_ta": "எலக்ட்ரான்களின் அலை இயல்பு எதனால் காணப்படுகிறது?",
+    "options_en": [
+      "Electron diffraction",
+      "Pair production",
+      "Compton scattering",
+      "Photoelectric effect"
+    ],
+    "options_ta": [
+      "எலக்ட்ரான் விரிதல்",
+      "இணை உருவாக்கம்",
+      "காம்டன்",
+      "போட்டோஎலெக்ட்ரிக்"
+    ],
+    "answer_en": "Electron diffraction",
+    "answer_ta": "எலக்ட்ரான் விரிதல்"
+  },
+  {
+    "question_en": "What is the magnetic moment of a current loop proportional to?",
+    "question_ta": "மின் சுற்றின் காந்த மொமெண்ட் என்பதிற்கு என்ன தொடர்புடையது?",
+    "options_en": [
+      "Voltage",
+      "Mass",
+      "Current × Area",
+      "Resistance"
+    ],
+    "options_ta": [
+      "மின்வோல்ட்",
+      "பொருளின் எடை",
+      "மின் ஓட்டம் × பரப்பு",
+      "எதிர்ப்பு"
+    ],
+    "answer_en": "Current × Area",
+    "answer_ta": "மின் ஓட்டம் × பரப்பு"
+  },
+  {
+    "question_en": "In photoelectric effect, increasing frequency above threshold does what?",
+    "question_ta": "போட்டோஎலெக்ட்ரிக் விளைவில் தகுதியான அதிர்வேகத்தை மிஞ்சினால் என்ன நடைபெறும்?",
+    "options_en": [
+      "Increases kinetic energy of emitted electrons",
+      "No effect",
+      "Increases number of electrons",
+      "Changes work function"
+    ],
+    "options_ta": [
+      "வெளிப்புற எலக்ட்ரான்களின் இயக்க சக்தியை அதிகரிக்கும்",
+      "எதுவும் இல்லை",
+      "எலக்ட்ரான்களின் எண்ணிக்கையை அதிகரிக்கும்",
+      "வேலை செயல்பாட்டை மாற்றும்"
+    ],
+    "answer_en": "Increases kinetic energy of emitted electrons",
+    "answer_ta": "வெளிப்புற எலக்ட்ரான்களின் இயக்க சக்தியை அதிகரிக்கும்"
+  },
+  {
+    "question_en": "Which is the conjugate relation for lens magnification M?",
+    "question_ta": "லென்ஸின் உருவாக்கக்கூறு (magnification) M உடன் தொடர்பு என்ன?",
+    "options_en": [
+      "M = u/v",
+      "M = -v/u",
+      "M = fv",
+      "M = 1"
+    ],
+    "options_ta": [
+      "M = u/v",
+      "M = -v/u",
+      "M = fv",
+      "M = 1"
+    ],
+    "answer_en": "M = -v/u",
+    "answer_ta": "M = -v/u"
+  },
+  {
+    "question_en": "Which semiconductor has negative temperature coefficient of resistance?",
+    "question_ta": "எந்த செமிகண்டக்டர் வெப்பநிலைக்கு எதிர்மறை எதிர்ப்பு மாற்றம் காட்டுகிறது?",
+    "options_en": [
+      "Insulator",
+      "Intrinsic semiconductor",
+      "Superconductor",
+      "Metal"
+    ],
+    "options_ta": [
+      "இன்சுலேட்டர்",
+      "இன்ட்ரின்சிக் செமிகண்டக்டர்",
+      "சூப்பர்கொண்டக்டர்",
+      "மெட்டல்"
+    ],
+    "answer_en": "Intrinsic semiconductor",
+    "answer_ta": "இன்ட்ரின்சிக் செமிகண்டக்டர்"
+  },
+  {
+    "question_en": "Which property is a colligative property?",
+    "question_ta": "கொலிகேட்டிவ் பண்புகளில் ஒன்றை தேர்ந்தெடுக",
+    "options_en": [
+      "Color change",
+      "Boiling point elevation",
+      "Density change",
+      "Odour change"
+    ],
+    "options_ta": [
+      "வண்ண மாற்றம்",
+      "கதிகப்படுத்துதல்",
+      "அடர்த்தி மாற்றம்",
+      "வாசனை மாற்றம்"
+    ],
+    "answer_en": "Boiling point elevation",
+    "answer_ta": "கதிகப்படுத்துதல்"
+  },
+  {
+    "question_en": "Which law gives relation between pressure and volume at constant temperature?",
+    "question_ta": "நியத வெப்பநிலையில் பீசர் மற்றும் அளவு இடையிலான உறவை தரும் சட்டம்?",
+    "options_en": [
+      "Boyle's law",
+      "Charles's law",
+      "Avogadro's law",
+      "Gay-Lussac's law"
+    ],
+    "options_ta": [
+      "பாய்ல் சட்டம்",
+      "சார்ல்ஸ் சட்டம்",
+      "அவோகாட்ரோ சட்டம்",
+      "கே-லூசாக்"
+    ],
+    "answer_en": "Boyle's law",
+    "answer_ta": "பாய்ல் சட்டம்"
+  },
+  {
+    "question_en": "What is the main intermolecular force in water?",
+    "question_ta": "நீரில் முக்கிய இடைமூலம் பிணைப்பு எது?",
+    "options_en": [
+      "Ionic interactions",
+      "London dispersion",
+      "Hydrogen bonding",
+      "Dipole-dipole"
+    ],
+    "options_ta": [
+      "ஆயனிக் தொடர்புகள்",
+      "லண்டன் பிரசரிப்பு",
+      "ஹைட்ரஜன் பிணைப்பு",
+      "டிப்போல்-டிப்போல்"
+    ],
+    "answer_en": "Hydrogen bonding",
+    "answer_ta": "ஹைட்ரஜன் பிணைப்பு"
+  },
+  {
+    "question_en": "Which statement about catalysts is true?",
+    "question_ta": "கேடலிஸ்ட் பற்றி எந்த கூற்று உண்மை?",
+    "options_en": [
+      "Catalysts increase activation energy",
+      "Catalysts lower activation energy and are not consumed",
+      "Catalysts change equilibrium constant",
+      "Catalysts are reactants"
+    ],
+    "options_ta": [
+      "கேடலிஸ்ட் அதிகரிக்கும்",
+      "கேடலிஸ்ட் செயல்முறை ஆற்றலை குறைத்து பயன்படுத்தப்படுகிறது மற்றும் அது ஓர் நுகர்பு அல்ல",
+      "சமநிலை மாறும்",
+      "கேடலிஸ்ட் பிரதிகாரர்கள்"
+    ],
+    "answer_en": "Catalysts lower activation energy and are not consumed",
+    "answer_ta": "கேடலிஸ்ட் செயல்முறை ஆற்றலை குறைத்து பயன்படுத்தப்படுகிறது மற்றும் அது ஓர் நுகர்பு அல்ல"
+  },
+  {
+    "question_en": "What is the main product of complete combustion of hydrocarbon?",
+    "question_ta": "ஹைட்ரோகார்பன் முழுமையான எரிப்பின் பிரதான தயாரிப்பு எது?",
+    "options_en": [
+      "Nitrogen oxides",
+      "Carbon dioxide and water",
+      "Carbon monoxide and soot",
+      "Hydrogen and oxygen"
+    ],
+    "options_ta": [
+      "நைட்ரஜன் ஆக்ஸைடுகள்",
+      "கார்பன் டை ஆக்சைடு மற்றும் நீர்",
+      "கார்பன் மோனாக்சைடு மற்றும் சோட்",
+      "ஹைட்ரஜன் மற்றும் ஆக்சிஜன்"
+    ],
+    "answer_en": "Carbon dioxide and water",
+    "answer_ta": "கார்பன் டை ஆக்சைடு மற்றும் நீர்"
+  },
+  {
+    "question_en": "Which orbital has spherical shape?",
+    "question_ta": "எந்த ஆர்பிட்டல் உருண்ட வடிவை கொண்டுள்ளது?",
+    "options_en": [
+      "p-orbital",
+      "s-orbital",
+      "f-orbital",
+      "d-orbital"
+    ],
+    "options_ta": [
+      "p-ஆர்பிட்டல்",
+      "s-ஆர்பிட்டல்",
+      "f-ஆர்பிட்டல்",
+      "d-ஆர்பிட்டல்"
+    ],
+    "answer_en": "s-orbital",
+    "answer_ta": "s-ஆர்பிட்டல்"
+  },
+  {
+    "question_en": "Which effect is used in digital electronics to store charge?",
+    "question_ta": "டிஜிட்டல் மின்னணுவில் சார்ஜ் சேமிக்க எந்த விளைவு பயன்படுகிறது?",
+    "options_en": [
+      "Photoelectric effect",
+      "Hall effect",
+      "Capacitive effect (MOS capacitors)",
+      "Seebeck effect"
+    ],
+    "options_ta": [
+      "போட்டோஎலெக்ட்ரிக்",
+      "ஹால் விளைவு",
+      "கேபாசிட்டிவ் விளைவு",
+      "சீப்க் விளைவு"
+    ],
+    "answer_en": "Capacitive effect (MOS capacitors)",
+    "answer_ta": "கேபாசிட்டிவ் விளைவு"
+  }
+]

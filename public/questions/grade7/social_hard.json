@@ -1,0 +1,218 @@
+[
+  {
+    "question_en": "Which Indus Valley site has the Great Bath?",
+    "question_ta": "சிந்து சமவெளி நாகரிகத்தில் ‘பெரிய குளம்’ அமைந்த இடம் எது?",
+    "options_en": ["Mohenjo-Daro", "Harappa", "Lothal", "Kalibangan"],
+    "options_ta": ["மொகன்ஜோதாரோ", "ஹரப்பா", "லோதல்", "காலிபங்கன்"],
+    "answer_en": "Mohenjo-Daro",
+    "answer_ta": "மொகன்ஜோதாரோ"
+  },
+  {
+    "question_en": "Which Gupta ruler was called 'Napoleon of India'?",
+    "question_ta": "‘இந்தியாவின் நேப்போலியன்’ என்று அழைக்கப்பட்ட குப்த மன்னன் யார்?",
+    "options_en": ["Chandragupta I", "Samudragupta", "Chandragupta II", "Skandagupta"],
+    "options_ta": ["சந்திரகுப்தன் I", "சமுத்ரகுப்தன்", "சந்திரகுப்தன் II", "ஸ்கந்தகுப்தன்"],
+    "answer_en": "Samudragupta",
+    "answer_ta": "சமுத்ரகுப்தன்"
+  },
+  {
+    "question_en": "Which inscription tells about Ashoka’s Kalinga war?",
+    "question_ta": "அசோகனின் கலிங்கப் போரை விவரிக்கும் கல்வெட்டு எது?",
+    "options_en": ["Junagarh", "Rock Edict XIII", "Allahabad Pillar", "Mehrauli Inscription"],
+    "options_ta": ["ஜூனகட்க் கல்வெட்டு", "பாறைக் கல்வெட்டு XIII", "அல்லஹாபாத் தூண்", "மேஹ்ரௌலி கல்வெட்டு"],
+    "answer_en": "Rock Edict XIII",
+    "answer_ta": "பாறைக் கல்வெட்டு XIII"
+  },
+  {
+    "question_en": "Which Sangam text describes the life of farmers?",
+    "question_ta": "விவசாயிகளின் வாழ்க்கையை விவரிக்கும் சங்க இலக்கியம் எது?",
+    "options_en": ["Tolkappiyam", "Silappathikaram", "Thirukkural", "Purananuru"],
+    "options_ta": ["தொல்காப்பியம்", "சிலப்பதிகாரம்", "திருக்குறள்", "புறநானூறு"],
+    "answer_en": "Purananuru",
+    "answer_ta": "புறநானூறு"
+  },
+  {
+    "question_en": "Who introduced the Mansabdari system?",
+    "question_ta": "மன்சப்தாரி முறையை அறிமுகப்படுத்தியவர் யார்?",
+    "options_en": ["Akbar", "Aurangzeb", "Shah Jahan", "Babur"],
+    "options_ta": ["அக்பர்", "ஔரங்கசீப்", "ஷாஜகான்", "பாபர்"],
+    "answer_en": "Akbar",
+    "answer_ta": "அக்பர்"
+  },
+  {
+    "question_en": "Who wrote the book 'Indica' about India?",
+    "question_ta": "இந்தியாவைப் பற்றி ‘இந்திகா’ என்ற நூலை எழுதியவர் யார்?",
+    "options_en": ["Pliny", "Megasthenes", "Herodotus", "Faxian"],
+    "options_ta": ["பிளினி", "மேகஸ்தனீஸ்", "ஹெரோடோடஸ்", "பாசியான்"],
+    "answer_en": "Megasthenes",
+    "answer_ta": "மேகஸ்தனீஸ்"
+  },
+  {
+    "question_en": "Who was the first Pallava king?",
+    "question_ta": "முதல் பல்லவ மன்னன் யார்?",
+    "options_en": ["Mahendravarman I", "Narasimhavarman I", "Simhavishnu", "Nandivarman"],
+    "options_ta": ["மகேந்திரவர்மன் I", "நரசிம்மவர்மன் I", "சிம்ம விஷ்ணு", "நந்திவர்மன்"],
+    "answer_en": "Simhavishnu",
+    "answer_ta": "சிம்ம விஷ்ணு"
+  },
+  {
+    "question_en": "Who was the last Mughal emperor?",
+    "question_ta": "கடைசி முகலாய மன்னன் யார்?",
+    "options_en": ["Bahadur Shah II", "Shah Alam II", "Aurangzeb", "Akbar II"],
+    "options_ta": ["பஹாதூர் ஷா II", "ஷா ஆலம II", "ஔரங்கசீப்", "அக்பர் II"],
+    "answer_en": "Bahadur Shah II",
+    "answer_ta": "பஹாதூர் ஷா II"
+  },
+  {
+    "question_en": "Which dynasty built the Kailasanatha temple at Ellora?",
+    "question_ta": "எலோராக் கையில் கைலாசநாதர் கோவிலை கட்டிய வம்சம் எது?",
+    "options_en": ["Chalukya", "Rashtrakuta", "Pallava", "Chola"],
+    "options_ta": ["சாளுக்கியர்", "ராஷ்டிரகூடர்", "பல்லவர்", "சோழர்"],
+    "answer_en": "Rashtrakuta",
+    "answer_ta": "ராஷ்டிரகூடர்"
+  },
+  {
+    "question_en": "Who was the first Sultan of Delhi?",
+    "question_ta": "தில்லியின் முதல் சுல்தான் யார்?",
+    "options_en": ["Qutb-ud-din Aibak", "Iltutmish", "Balban", "Alauddin Khilji"],
+    "options_ta": ["குத்புத்தீன் ஐபக்", "இல்துத்மிஷ்", "பால்பன்", "அலாவுதீன் கில்ஜி"],
+    "answer_en": "Qutb-ud-din Aibak",
+    "answer_ta": "குத்புத்தீன் ஐபக்"
+  },
+  {
+    "question_en": "Which Indian leader was known as 'Lion of Punjab'?",
+    "question_ta": "‘பஞ்சாபின் சிங்கம்’ என்று அழைக்கப்பட்ட இந்தியத் தலைவர் யார்?",
+    "options_en": ["Bhagat Singh", "Lala Lajpat Rai", "Bal Gangadhar Tilak", "Gopal Krishna Gokhale"],
+    "options_ta": ["பகவத் சிங்", "லாலா லஜபத் ராய்", "பால் கங்காதர் திலக்", "கோபால் கிருஷ்ண கோகலே"],
+    "answer_en": "Lala Lajpat Rai",
+    "answer_ta": "லாலா லஜபத் ராய்"
+  },
+  {
+    "question_en": "Which was the capital of the Vijayanagara Empire?",
+    "question_ta": "விஜயநகர சாம்ராஜ்யத்தின் தலைநகரம் எது?",
+    "options_en": ["Madurai", "Hampi", "Warangal", "Kanchipuram"],
+    "options_ta": ["மதுரை", "ஹாம்பி", "வரங்கல்", "காஞ்சிபுரம்"],
+    "answer_en": "Hampi",
+    "answer_ta": "ஹாம்பி"
+  },
+  {
+    "question_en": "Who founded the Indian National Congress?",
+    "question_ta": "இந்திய தேசிய காங்கிரஸை நிறுவியவர் யார்?",
+    "options_en": ["Allan Octavian Hume", "Dadabhai Naoroji", "Gopal Krishna Gokhale", "Bal Gangadhar Tilak"],
+    "options_ta": ["ஆலன் ஆக்டோவியன் ஹியூம்", "தாதாபாய் நவுரோஜி", "கோபால் கிருஷ்ண கோகலே", "பால் கங்காதர் திலக்"],
+    "answer_en": "Allan Octavian Hume",
+    "answer_ta": "ஆலன் ஆக்டோவியன் ஹியூம்"
+  },
+  {
+    "question_en": "Which dynasty built the Qutub Minar?",
+    "question_ta": "குதுப் மினாரை கட்டிய வம்சம் எது?",
+    "options_en": ["Slave Dynasty", "Khilji Dynasty", "Tughlaq Dynasty", "Lodi Dynasty"],
+    "options_ta": ["அடிமை வம்சம்", "கில்ஜி வம்சம்", "துக்ளக் வம்சம்", "லோதி வம்சம்"],
+    "answer_en": "Slave Dynasty",
+    "answer_ta": "அடிமை வம்சம்"
+  },
+  {
+    "question_en": "Which Indian freedom fighter founded the 'Hindustan Socialist Republican Association'?",
+    "question_ta": "‘இந்துஸ்தான் சோசலிச குடியரசுக் கழகம்’ அமைப்பை நிறுவிய சுதந்திர போராட்ட வீரர் யார்?",
+    "options_en": ["Bhagat Singh", "Rajguru", "Sukhdev", "Chandrasekhar Azad"],
+    "options_ta": ["பகவத் சிங்", "ராஜ்குரு", "சுக்தேவ்", "சந்திரசேகர் ஆசாத்"],
+    "answer_en": "Bhagat Singh",
+    "answer_ta": "பகவத் சிங்"
+  },
+  {
+    "question_en": "Which revolt is called the 'First War of Indian Independence'?",
+    "question_ta": "‘இந்திய சுதந்திரத்தின் முதல் போராட்டம்’ என்று அழைக்கப்படும் கிளர்ச்சி எது?",
+    "options_en": ["1857 Revolt", "Chauri Chaura", "Quit India", "Non-Cooperation"],
+    "options_ta": ["1857 கிளர்ச்சி", "சௌரி சௌரா", "இந்தியாவை விட்டு வெளியேறு", "ஒத்துழையாமை"],
+    "answer_en": "1857 Revolt",
+    "answer_ta": "1857 கிளர்ச்சி"
+  },
+  {
+    "question_en": "Who was the first Indian woman to preside over the Congress session?",
+    "question_ta": "காங்கிரஸ் கூட்டத்தைக் கூட்டிய முதல் இந்திய பெண் யார்?",
+    "options_en": ["Annie Besant", "Sarojini Naidu", "Indira Gandhi", "Vijaya Lakshmi Pandit"],
+    "options_ta": ["அன்னி பெசண்ட்", "சரோஜினி நாயுடு", "இந்திரா காந்தி", "விஜயலட்சுமி பண்டிட்"],
+    "answer_en": "Annie Besant",
+    "answer_ta": "அன்னி பெசண்ட்"
+  },
+  {
+    "question_en": "Which Indian reformer founded the Arya Samaj?",
+    "question_ta": "ஆர்ய சமாஜை நிறுவிய இந்திய சீர்திருத்தவாதி யார்?",
+    "options_en": ["Raja Ram Mohan Roy", "Dayananda Saraswati", "Swami Vivekananda", "Ishwar Chandra Vidyasagar"],
+    "options_ta": ["ராஜா ராம் மோகன் ராய்", "தயானந்த சரஸ்வதி", "சுவாமி விவேகானந்தர்", "ஈஸ்வர் சந்திர வித்யாசாகர்"],
+    "answer_en": "Dayananda Saraswati",
+    "answer_ta": "தயானந்த சரஸ்வதி"
+  },
+  {
+    "question_en": "Which Indian leader was called 'Grand Old Man of India'?",
+    "question_ta": "‘இந்தியாவின் மூதாதையர்’ என்று அழைக்கப்பட்ட இந்தியத் தலைவர் யார்?",
+    "options_en": ["Dadabhai Naoroji", "Bal Gangadhar Tilak", "Mahatma Gandhi", "Gopal Krishna Gokhale"],
+    "options_ta": ["தாதாபாய் நவுரோஜி", "பால் கங்காதர் திலக்", "மகாத்மா காந்தி", "கோபால் கிருஷ்ண கோகலே"],
+    "answer_en": "Dadabhai Naoroji",
+    "answer_ta": "தாதாபாய் நவுரோஜி"
+  },
+  {
+    "question_en": "Who led the Salt March in 1930?",
+    "question_ta": "1930ல் உப்புச் சத்தியாகிரகத்தை வழிநடத்தியவர் யார்?",
+    "options_en": ["Subhas Chandra Bose", "Jawaharlal Nehru", "Mahatma Gandhi", "Sardar Patel"],
+    "options_ta": ["சுபாஷ் சந்திர போஸ்", "ஜவஹர்லால் நேரு", "மகாத்மா காந்தி", "சர்தார் பட்டேல்"],
+    "answer_en": "Mahatma Gandhi",
+    "answer_ta": "மகாத்மா காந்தி"
+  },
+  {
+    "question_en": "Which Tamil king defeated Alexander’s successor Seleucus?",
+    "question_ta": "அலெக்சாண்டரின் வாரிசான செல்யூகஸை தோற்கடித்த தமிழரசர் யார்?",
+    "options_en": ["Karikalan", "Chandragupta Maurya", "Rajaraja Chola", "Neduncheliyan"],
+    "options_ta": ["கரிகாலன்", "சந்திரகுப்த மௌரியர்", "இராஜராஜ சோழன்", "நெடுஞ்செழியன்"],
+    "answer_en": "Chandragupta Maurya",
+    "answer_ta": "சந்திரகுப்த மௌரியர்"
+  },
+  {
+    "question_en": "Which Vedic text is dedicated entirely to music?",
+    "question_ta": "முழுவதும் இசைக்காக அர்ப்பணிக்கப்பட்ட வேதம் எது?",
+    "options_en": ["Rig Veda", "Sama Veda", "Yajur Veda", "Atharva Veda"],
+    "options_ta": ["஋க் வேதம்", "சாம வேதம்", "யஜுர் வேதம்", "அதர்வ வேதம்"],
+    "answer_en": "Sama Veda",
+    "answer_ta": "சாம வேதம்"
+  },
+  {
+    "question_en": "Which Mughal emperor built the Peacock Throne?",
+    "question_ta": "முகலாய அரசர்களில் யார் மயிலாசனத்தை அமைத்தார்?",
+    "options_en": ["Akbar", "Aurangzeb", "Shah Jahan", "Humayun"],
+    "options_ta": ["அக்பர்", "ஔரங்கசீப்", "ஷாஜகான்", "ஹூமாயூன்"],
+    "answer_en": "Shah Jahan",
+    "answer_ta": "ஷாஜகான்"
+  },
+  {
+    "question_en": "Who composed the Tamil epic Silappathikaram?",
+    "question_ta": "தமிழ் காவியமான சிலப்பதிகாரத்தை இயற்றியவர் யார்?",
+    "options_en": ["Ilango Adigal", "Kambar", "Thiruvalluvar", "Sekkizhar"],
+    "options_ta": ["இளங்கோ அடிகள்", "கம்பர்", "திருவள்ளுவர்", "சேக்கிழார்"],
+    "answer_en": "Ilango Adigal",
+    "answer_ta": "இளங்கோ அடிகள்"
+  },
+  {
+    "question_en": "Who was the founder of the Chola dynasty?",
+    "question_ta": "சோழ வம்சத்தை நிறுவியவர் யார்?",
+    "options_en": ["Karikalan", "Rajaraja Chola", "Vijayalaya Chola", "Rajendra Chola"],
+    "options_ta": ["கரிகாலன்", "இராஜராஜ சோழன்", "விஜயாலய சோழன்", "இராஜேந்திர சோழன்"],
+    "answer_en": "Vijayalaya Chola",
+    "answer_ta": "விஜயாலய சோழன்"
+  },
+  {
+    "question_en": "Who established the Mauryan Empire?",
+    "question_ta": "மௌரிய சாம்ராஜ்யத்தை நிறுவியவர் யார்?",
+    "options_en": ["Ashoka", "Chandragupta Maurya", "Bindusara", "Bimbisara"],
+    "options_ta": ["அசோகராஜா", "சந்திரகுப்த மௌரியர்", "பிந்து சாரர்", "பிம்பிசாரர்"],
+    "answer_en": "Chandragupta Maurya",
+    "answer_ta": "சந்திரகுப்த மௌரியர்"
+  },
+  {
+    "question_en": "Which war ended the French power in India?",
+    "question_ta": "இந்தியாவில் பிரெஞ்சுக்காரர்களின் ஆட்சியை முடிவுக்குக் கொண்டுவந்த போர் எது?",
+    "options_en": ["Battle of Plassey", "Battle of Buxar", "Carnatic War III", "Battle of Panipat"],
+    "options_ta": ["பிளாசி போர்", "புக்சார் போர்", "மூன்றாம் கர்நாடகப் போர்", "பானிபட் போர்"],
+    "answer_en": "Carnatic War III",
+    "answer_ta": "மூன்றாம் கர்நாடகப் போர்"
+  }
+]

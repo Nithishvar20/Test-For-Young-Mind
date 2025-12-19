@@ -1,0 +1,251 @@
+[
+  {
+    "question_en": "Who introduced the concept of 'Welfare Economics'?",
+    "question_ta": "‘நலன் பொருளாதாரம்’ என்ற கருத்தை யார் அறிமுகப்படுத்தினார்?",
+    "options_en": ["Adam Smith", "Alfred Marshall", "A.C. Pigou", "Keynes"],
+    "options_ta": ["ஆடம் ஸ்மித்", "ஆல்பிரெட் மார்ஷல்", "ஏ.சி. பிகூ", "கெய்ன்ஸ்"],
+    "answer_en": "A.C. Pigou",
+    "answer_ta": "ஏ.சி. பிகூ"
+  },
+  {
+    "question_en": "Opportunity cost refers to?",
+    "question_ta": "வாய்ப்பு செலவு (Opportunity cost) எதைக் குறிக்கிறது?",
+    "options_en": ["Cost of raw materials", "Next best alternative forgone", "Total expenditure", "Labour cost"],
+    "options_ta": ["மூலப்பொருள் செலவு", "அடுத்த சிறந்த மாற்றீட்டை விட்டுவிடுதல்", "மொத்தச் செலவு", "தொழிலாளர் செலவு"],
+    "answer_en": "Next best alternative forgone",
+    "answer_ta": "அடுத்த சிறந்த மாற்றீட்டை விட்டுவிடுதல்"
+  },
+  {
+    "question_en": "Who introduced the concept of 'invisible hand'?",
+    "question_ta": "‘கணக்கில் கொள்ளப்படாத கை’ (Invisible hand) என்ற கருத்தை யார் அறிமுகப்படுத்தினார்?",
+    "options_en": ["Adam Smith", "Ricardo", "Keynes", "Pigou"],
+    "options_ta": ["ஆடம் ஸ்மித்", "ரிகார்டோ", "கெய்ன்ஸ்", "பிகூ"],
+    "answer_en": "Adam Smith",
+    "answer_ta": "ஆடம் ஸ்மித்"
+  },
+  {
+    "question_en": "Which method is used to measure National Income by adding value at each stage?",
+    "question_ta": "ஒவ்வொரு கட்டத்திலும் மதிப்பைக் கூட்டி தேசிய வருமானத்தை அளக்கும் முறை எது?",
+    "options_en": ["Income method", "Expenditure method", "Product method", "Value added method"],
+    "options_ta": ["வருமான முறை", "செலவு முறை", "தயாரிப்பு முறை", "மதிப்புக் கூட்டல் முறை"],
+    "answer_en": "Value added method",
+    "answer_ta": "மதிப்புக் கூட்டல் முறை"
+  },
+  {
+    "question_en": "Who introduced multiplier concept?",
+    "question_ta": "மடங்கல் (Multiplier) என்ற கருத்தை யார் அறிமுகப்படுத்தினார்?",
+    "options_en": ["Adam Smith", "Ricardo", "Keynes", "Pigou"],
+    "options_ta": ["ஆடம் ஸ்மித்", "ரிகார்டோ", "கெய்ன்ஸ்", "பிகூ"],
+    "answer_en": "Keynes",
+    "answer_ta": "கெய்ன்ஸ்"
+  },
+  {
+    "question_en": "Ceteris paribus means?",
+    "question_ta": "‘Ceteris paribus’ என்பதன் பொருள் என்ன?",
+    "options_en": ["Other things remaining constant", "Changing variables", "Only demand changes", "Only supply changes"],
+    "options_ta": ["மற்றவை மாறாமல் இருக்கும்", "மாறிலிகள் மாறுதல்", "தேவை மட்டும் மாறுதல்", "வழங்கல் மட்டும் மாறுதல்"],
+    "answer_en": "Other things remaining constant",
+    "answer_ta": "மற்றவை மாறாமல் இருக்கும்"
+  },
+  {
+    "question_en": "In India, who compiles the National Income data?",
+    "question_ta": "இந்தியாவில் தேசிய வருமானத் தரவுகளை தொகுப்பவர் யார்?",
+    "options_en": ["RBI", "SEBI", "CSO", "Finance Ministry"],
+    "options_ta": ["ஆர்பிஐ", "செபி", "சி.எஸ்.ஓ", "நிதி அமைச்சகம்"],
+    "answer_en": "CSO",
+    "answer_ta": "சி.எஸ்.ஓ"
+  },
+  {
+    "question_en": "Philips curve shows relation between?",
+    "question_ta": "பிலிப்ஸ் வளைவு (Philips curve) எதற்கிடையேயான உறவை காட்டுகிறது?",
+    "options_en": ["Inflation and unemployment", "Supply and demand", "Exports and imports", "Savings and investment"],
+    "options_ta": ["பணவீக்கம் மற்றும் வேலைவாய்ப்பின்மை", "வழங்கல் மற்றும் தேவை", "ஏற்றுமதி மற்றும் இறக்குமதி", "சேமிப்பு மற்றும் முதலீடு"],
+    "answer_en": "Inflation and unemployment",
+    "answer_ta": "பணவீக்கம் மற்றும் வேலைவாய்ப்பின்மை"
+  },
+  {
+    "question_en": "Who propounded the 'comparative cost theory'?",
+    "question_ta": "‘ஒப்பீட்டு செலவுக் கோட்பாடு’ (Comparative cost theory) யாரால் முன்வைக்கப்பட்டது?",
+    "options_en": ["Adam Smith", "David Ricardo", "Keynes", "Pigou"],
+    "options_ta": ["ஆடம் ஸ்மித்", "டேவிட் ரிகார்டோ", "கெய்ன்ஸ்", "பிகூ"],
+    "answer_en": "David Ricardo",
+    "answer_ta": "டேவிட் ரிகார்டோ"
+  },
+  {
+    "question_en": "Engel’s law relates to?",
+    "question_ta": "எங்கலின் சட்டம் எதனைப் பற்றியது?",
+    "options_en": ["Consumption and income", "Production and cost", "Demand and price", "Savings and tax"],
+    "options_ta": ["நுகர்வு மற்றும் வருமானம்", "உற்பத்தி மற்றும் செலவு", "தேவை மற்றும் விலை", "சேமிப்பு மற்றும் வரி"],
+    "answer_en": "Consumption and income",
+    "answer_ta": "நுகர்வு மற்றும் வருமானம்"
+  },
+
+  {
+    "question_en": "Who gave the definition of economics as 'science of wealth'?",
+    "question_ta": "‘செல்வ அறிவியல்’ என்று பொருளாதாரத்தை வரையறுத்தவர் யார்?",
+    "options_en": ["Adam Smith", "Robbins", "Keynes", "Marshall"],
+    "options_ta": ["ஆடம் ஸ்மித்", "ராபின்ஸ்", "கெய்ன்ஸ்", "மார்ஷல்"],
+    "answer_en": "Adam Smith",
+    "answer_ta": "ஆடம் ஸ்மித்"
+  },
+  {
+    "question_en": "National Income at constant price shows?",
+    "question_ta": "மாறாத விலையில் (Constant price) தேசிய வருமானம் எதை காட்டுகிறது?",
+    "options_en": ["Effect of inflation", "Real growth of economy", "Nominal value", "Foreign trade only"],
+    "options_ta": ["பணவீக்கத்தின் தாக்கம்", "பொருளாதாரத்தின் உண்மையான வளர்ச்சி", "பெயரளவு மதிப்பு", "வெளிநாட்டு வர்த்தகம் மட்டும்"],
+    "answer_en": "Real growth of economy",
+    "answer_ta": "பொருளாதாரத்தின் உண்மையான வளர்ச்சி"
+  },
+  {
+    "question_en": "Who prepared the first National Income estimates in India?",
+    "question_ta": "இந்தியாவில் முதல் தேசிய வருமான மதிப்பீடுகளை யார் தயாரித்தார்?",
+    "options_en": ["Dadabhai Naoroji", "RBI", "Planning Commission", "CSO"],
+    "options_ta": ["தாதாபாய் நவுரோஜி", "ஆர்பிஐ", "திட்ட ஆணையம்", "சி.எஸ்.ஓ"],
+    "answer_en": "Dadabhai Naoroji",
+    "answer_ta": "தாதாபாய் நவுரோஜி"
+  },
+  {
+    "question_en": "In Keynes theory, effective demand depends on?",
+    "question_ta": "கெய்ன்ஸ் கோட்பாட்டில், பயனுள்ள தேவை எதனை சார்ந்துள்ளது?",
+    "options_en": ["Savings and investment", "Consumption and investment", "Exports and imports", "Tax revenue"],
+    "options_ta": ["சேமிப்பு மற்றும் முதலீடு", "நுகர்வு மற்றும் முதலீடு", "ஏற்றுமதி மற்றும் இறக்குமதி", "வரி வருவாய்"],
+    "answer_en": "Consumption and investment",
+    "answer_ta": "நுகர்வு மற்றும் முதலீடு"
+  },
+  {
+    "question_en": "Marginal cost means?",
+    "question_ta": "அல்லிக்குச் செலவு (Marginal cost) என்பதன் பொருள்?",
+    "options_en": ["Cost of one extra unit produced", "Total cost", "Fixed cost", "Average cost"],
+    "options_ta": ["ஒரு கூடுதல் அலகு உற்பத்திசெய்யும் செலவு", "மொத்தச் செலவு", "நிலையான செலவு", "சராசரி செலவு"],
+    "answer_en": "Cost of one extra unit produced",
+    "answer_ta": "ஒரு கூடுதல் அலகு உற்பத்திசெய்யும் செலவு"
+  },
+  {
+    "question_en": "Who developed the concept of consumer surplus?",
+    "question_ta": "நுகர்வோர் அதிகப்படியானது (Consumer surplus) என்ற கருத்தை யார் உருவாக்கினார்?",
+    "options_en": ["Ricardo", "Marshall", "Keynes", "Pigou"],
+    "options_ta": ["ரிகார்டோ", "மார்ஷல்", "கெய்ன்ஸ்", "பிகூ"],
+    "answer_en": "Marshall",
+    "answer_ta": "மார்ஷல்"
+  },
+  {
+    "question_en": "Law of diminishing returns applies to?",
+    "question_ta": "குறைவடைந்த உற்பத்தியின் சட்டம் (Law of diminishing returns) எதற்கு பொருந்துகிறது?",
+    "options_en": ["Short run", "Long run", "Both", "None"],
+    "options_ta": ["குறுகிய காலம்", "நீண்ட காலம்", "இரண்டும்", "யாருக்கும் இல்லை"],
+    "answer_en": "Short run",
+    "answer_ta": "குறுகிய காலம்"
+  },
+  {
+    "question_en": "Giffen goods are an exception to?",
+    "question_ta": "கிபன் பொருட்கள் (Giffen goods) எதற்கான விதிக்கு விதிவிலக்கு?",
+    "options_en": ["Law of supply", "Law of demand", "Law of returns", "Law of production"],
+    "options_ta": ["வழங்கல் சட்டம்", "தேவையின் சட்டம்", "திரும்பும் சட்டம்", "உற்பத்தி சட்டம்"],
+    "answer_en": "Law of demand",
+    "answer_ta": "தேவையின் சட்டம்"
+  },
+  {
+    "question_en": "Deficit budget means?",
+    "question_ta": "பற்றாக்குறை பட்ஜெட் என்பதன் பொருள்?",
+    "options_en": ["Expenditure > Revenue", "Revenue > Expenditure", "Revenue = Expenditure", "No expenditure"],
+    "options_ta": ["செலவு > வருவாய்", "வருவாய் > செலவு", "வருவாய் = செலவு", "செலவு இல்லை"],
+    "answer_en": "Expenditure > Revenue",
+    "answer_ta": "செலவு > வருவாய்"
+  },
+  {
+    "question_en": "Which curve is known as cost curve?",
+    "question_ta": "எந்த வளைவு செலவுக் கோடு என்று அழைக்கப்படுகிறது?",
+    "options_en": ["Supply curve", "Demand curve", "Average cost curve", "Utility curve"],
+    "options_ta": ["வழங்கல் வளைவு", "தேவை வளைவு", "சராசரி செலவு வளைவு", "பயன் வளைவு"],
+    "answer_en": "Average cost curve",
+    "answer_ta": "சராசரி செலவு வளைவு"
+  },
+  {
+    "question_en": "Who is associated with 'General Theory of Employment, Interest and Money'?",
+    "question_ta": "‘Employment, Interest and Money’ என்ற பொதுக் கோட்பாட்டுடன் தொடர்புடையவர் யார்?",
+    "options_en": ["Marshall", "Pigou", "Keynes", "Ricardo"],
+    "options_ta": ["மார்ஷல்", "பிகூ", "கெய்ன்ஸ்", "ரிகார்டோ"],
+    "answer_en": "Keynes",
+    "answer_ta": "கெய்ன்ஸ்"
+  },
+  {
+    "question_en": "Phillips curve shows trade-off between?",
+    "question_ta": "பிலிப்ஸ் வளைவு எதற்கிடையே உள்ள பரிமாற்றத்தை காட்டுகிறது?",
+    "options_en": ["Growth and poverty", "Inflation and unemployment", "Exports and imports", "Demand and supply"],
+    "options_ta": ["வளர்ச்சி மற்றும் வறுமை", "பணவீக்கம் மற்றும் வேலைவாய்ப்பின்மை", "ஏற்றுமதி மற்றும் இறக்குமதி", "தேவை மற்றும் வழங்கல்"],
+    "answer_en": "Inflation and unemployment",
+    "answer_ta": "பணவீக்கம் மற்றும் வேலைவாய்ப்பின்மை"
+  },
+  {
+    "question_en": "Stagflation refers to?",
+    "question_ta": "ஸ்டாக்ஃபிளேஷன் என்பதன் பொருள்?",
+    "options_en": ["Inflation with growth", "Inflation with stagnation", "Only growth", "Only inflation"],
+    "options_ta": ["பணவீக்கம் உடன் வளர்ச்சி", "பணவீக்கம் உடன் நின்ற நிலை", "வளர்ச்சி மட்டும்", "பணவீக்கம் மட்டும்"],
+    "answer_en": "Inflation with stagnation",
+    "answer_ta": "பணவீக்கம் உடன் நின்ற நிலை"
+  },
+  {
+    "question_en": "Which is not included in GDP?",
+    "question_ta": "மொத்த உள்நாட்டு உற்பத்தியில் (GDP) சேராதது எது?",
+    "options_en": ["Exports", "Imports", "Intermediate goods", "Final goods"],
+    "options_ta": ["ஏற்றுமதி", "இறக்குமதி", "இடைநிலைப் பொருட்கள்", "இறுதி பொருட்கள்"],
+    "answer_en": "Intermediate goods",
+    "answer_ta": "இடைநிலைப் பொருட்கள்"
+  },
+  {
+    "question_en": "Which organisation prepares Human Development Index?",
+    "question_ta": "மனித மேம்பாட்டு குறியீட்டை தயாரிக்கும் நிறுவனம் எது?",
+    "options_en": ["UNDP", "World Bank", "IMF", "WTO"],
+    "options_ta": ["ஐ.நா மேம்பாட்டு திட்டம்", "உலக வங்கி", "சர்வதேச நாணய நிதியம்", "உலக வர்த்தக அமைப்பு"],
+    "answer_en": "UNDP",
+    "answer_ta": "ஐ.நா மேம்பாட்டு திட்டம்"
+  },
+  {
+    "question_en": "Plan holiday in India was during?",
+    "question_ta": "இந்தியாவில் திட்ட விடுமுறை (Plan holiday) எப்போது இருந்தது?",
+    "options_en": ["1966-69", "1970-75", "1950-55", "1980-85"],
+    "options_ta": ["1966-69", "1970-75", "1950-55", "1980-85"],
+    "answer_en": "1966-69",
+    "answer_ta": "1966-69"
+  },
+  {
+    "question_en": "Who coined the term 'Hindu rate of growth'?",
+    "question_ta": "‘ஹிந்து வளர்ச்சி விகிதம்’ என்ற சொல்லை யார் உருவாக்கினார்?",
+    "options_en": ["Raj Krishna", "Amartya Sen", "Manmohan Singh", "Montek Singh Ahluwalia"],
+    "options_ta": ["ராஜ் கிருஷ்ணா", "அமர்த்த்யா சென்", "மன்மோகன் சிங்", "மோன்டேக் சிங் அஹ்லுவாலியா"],
+    "answer_en": "Raj Krishna",
+    "answer_ta": "ராஜ் கிருஷ்ணா"
+  },
+  {
+    "question_en": "Green revolution is associated with?",
+    "question_ta": "பசுமைப் புரட்சி எதனைச் சார்ந்தது?",
+    "options_en": ["Agriculture", "Industry", "Banking", "Education"],
+    "options_ta": ["விவசாயம்", "தொழில்", "வங்கி", "கல்வி"],
+    "answer_en": "Agriculture",
+    "answer_ta": "விவசாயம்"
+  },
+  {
+    "question_en": "Golden Quadrilateral project is related to?",
+    "question_ta": "கோல்டன் குவாட்ரிலேட்டரல் திட்டம் எதனைச் சார்ந்தது?",
+    "options_en": ["Railways", "Roadways", "Airways", "Shipping"],
+    "options_ta": ["ரயில்வே", "சாலைப்பாதைகள்", "வான்வழி", "கப்பல் போக்குவரத்து"],
+    "answer_en": "Roadways",
+    "answer_ta": "சாலைப்பாதைகள்"
+  },
+  {
+    "question_en": "Inclusive growth means?",
+    "question_ta": "ஒப்புரவான வளர்ச்சி (Inclusive growth) என்பதன் பொருள்?",
+    "options_en": ["Growth for few", "Growth for all sections of society", "Growth only in industry", "Growth only in services"],
+    "options_ta": ["சிலருக்கான வளர்ச்சி", "சமூகத்தின் அனைத்து பிரிவுகளுக்குமான வளர்ச்சி", "தொழில் துறையில் மட்டும் வளர்ச்சி", "சேவைகளில் மட்டும் வளர்ச்சி"],
+    "answer_en": "Growth for all sections of society",
+    "answer_ta": "சமூகத்தின் அனைத்து பிரிவுகளுக்குமான வளர்ச்சி"
+  },
+  {
+    "question_en": "Who is called the father of Green Revolution in India?",
+    "question_ta": "இந்தியாவில் பசுமைப் புரட்சியின் தந்தை யார்?",
+    "options_en": ["M.S. Swaminathan", "Norman Borlaug", "Amartya Sen", "C. Subramaniam"],
+    "options_ta": ["எம்.எஸ். சுவாமிநாதன்", "நார்மன் போர்லாக்", "அமர்த்த்யா சென்", "சி. சுப்பிரமணியம்"],
+    "answer_en": "M.S. Swaminathan",
+    "answer_ta": "எம்.எஸ். சுவாமிநாதன்"
+  }
+]

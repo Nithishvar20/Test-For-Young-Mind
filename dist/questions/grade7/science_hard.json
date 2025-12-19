@@ -1,0 +1,250 @@
+[
+  {
+    "question_en": "Which part of the cell is responsible for energy production?",
+    "question_ta": "செல்லில் ஆற்றல் உற்பத்திக்கு பொறுப்பான பகுதி எது?",
+    "options_en": ["Nucleus", "Mitochondria", "Ribosome", "Chloroplast"],
+    "options_ta": ["அணுக்கரு", "மைட்டோகாண்ட்ரியா", "ரிபோசோம்", "குளோரோபிளாஸ்ட்"],
+    "answer_en": "Mitochondria",
+    "answer_ta": "மைட்டோகாண்ட்ரியா"
+  },
+  {
+    "question_en": "What is the function of xylem in plants?",
+    "question_ta": "தாவரங்களில் ஜைலம் செயல்பாடு எது?",
+    "options_en": ["Transport food", "Transport water", "Photosynthesis", "Respiration"],
+    "options_ta": ["உணவு எடுத்துச் செல்லுதல்", "தண்ணீர் எடுத்துச் செல்லுதல்", "ஒளிச்சேர்க்கை", "சுவாசம்"],
+    "answer_en": "Transport water",
+    "answer_ta": "தண்ணீர் எடுத்துச் செல்லுதல்"
+  },
+  {
+    "question_en": "Which law explains why a rocket moves upward?",
+    "question_ta": "ஒரு ராக்கெட் மேலே செல்கிறது என்பதை விளக்கும் விதி எது?",
+    "options_en": ["Newton's First Law", "Newton's Second Law", "Newton's Third Law", "Law of Gravitation"],
+    "options_ta": ["நியூட்டனின் முதல் விதி", "நியூட்டனின் இரண்டாம் விதி", "நியூட்டனின் மூன்றாம் விதி", "இயற்பிணைவு விதி"],
+    "answer_en": "Newton's Third Law",
+    "answer_ta": "நியூட்டனின் மூன்றாம் விதி"
+  },
+  {
+    "question_en": "Which vitamin deficiency causes night blindness?",
+    "question_ta": "இரவுக்குருட்டை ஏற்படுத்தும் வைட்டமின் குறைபாடு எது?",
+    "options_en": ["Vitamin D", "Vitamin A", "Vitamin C", "Vitamin K"],
+    "options_ta": ["வைட்டமின் D", "வைட்டமின் A", "வைட்டமின் C", "வைட்டமின் K"],
+    "answer_en": "Vitamin A",
+    "answer_ta": "வைட்டமின் A"
+  },
+  {
+    "question_en": "What is the SI unit of electric current?",
+    "question_ta": "மின்சார ஓட்டத்தின் எஸ்.ஐ. அலகு எது?",
+    "options_en": ["Ampere", "Volt", "Watt", "Ohm"],
+    "options_ta": ["ஆம்பியர்", "வோல்ட்", "வாட்", "ஓம்"],
+    "answer_en": "Ampere",
+    "answer_ta": "ஆம்பியர்"
+  },
+  {
+    "question_en": "Which gas is released during respiration in humans?",
+    "question_ta": "மனித சுவாசத்தின் போது வெளியிடப்படும் வாயு எது?",
+    "options_en": ["Oxygen", "Carbon dioxide", "Hydrogen", "Nitrogen"],
+    "options_ta": ["ஆக்சிஜன்", "கார்பன் டை ஆக்சைடு", "ஹைட்ரஜன்", "நைட்ரஜன்"],
+    "answer_en": "Carbon dioxide",
+    "answer_ta": "கார்பன் டை ஆக்சைடு"
+  },
+  {
+    "question_en": "Which type of mirror is used in solar cookers?",
+    "question_ta": "சூரிய அடுப்புகளில் எந்த வகை கண்ணாடி பயன்படுத்தப்படுகிறது?",
+    "options_en": ["Plane mirror", "Concave mirror", "Convex mirror", "Spherical mirror"],
+    "options_ta": ["தடிமான கண்ணாடி", "உள்தாழ்வான கண்ணாடி", "வளையோட்ட கண்ணாடி", "உருண்டை கண்ணாடி"],
+    "answer_en": "Concave mirror",
+    "answer_ta": "உள்தாழ்வான கண்ணாடி"
+  },
+  {
+    "question_en": "Which blood component helps in clotting?",
+    "question_ta": "இரத்தம் உறைவதற்கு உதவும் பகுதி எது?",
+    "options_en": ["RBC", "Platelets", "WBC", "Plasma"],
+    "options_ta": ["சிவப்பணுக்கள்", "தகடணுக்கள்", "வெள்ளையணுக்கள்", "பிளாஸ்மா"],
+    "answer_en": "Platelets",
+    "answer_ta": "தகடணுக்கள்"
+  },
+  {
+    "question_en": "Which metal is liquid at room temperature?",
+    "question_ta": "அறை வெப்பநிலையில் திரவமாக இருக்கும் உலோகம் எது?",
+    "options_en": ["Iron", "Mercury", "Copper", "Aluminium"],
+    "options_ta": ["இரும்பு", "பருத்தி (மெர்குரி)", "செம்பு", "அலுமினியம்"],
+    "answer_en": "Mercury",
+    "answer_ta": "பருத்தி (மெர்குரி)"
+  },
+  {
+    "question_en": "What is the chemical formula of table salt?",
+    "question_ta": "சமையல் உப்பின் வேதியியல் வாய்பாடு எது?",
+    "options_en": ["NaCl", "KCl", "HCl", "CaCl2"],
+    "options_ta": ["NaCl", "KCl", "HCl", "CaCl₂"],
+    "answer_en": "NaCl",
+    "answer_ta": "NaCl"
+  },
+  {
+    "question_en": "Which organ controls voluntary actions in humans?",
+    "question_ta": "மனிதர்களில் விருப்ப செயல்களை கட்டுப்படுத்தும் உறுப்பு எது?",
+    "options_en": ["Brain", "Spinal cord", "Liver", "Heart"],
+    "options_ta": ["மூளை", "முதுகுத்தண்டு", "கல்லீரல்", "இதயம்"],
+    "answer_en": "Brain",
+    "answer_ta": "மூளை"
+  },
+  {
+    "question_en": "Which gas is used in the process of photosynthesis?",
+    "question_ta": "ஒளிச்சேர்க்கையில் பயன்படுத்தப்படும் வாயு எது?",
+    "options_en": ["Oxygen", "Carbon dioxide", "Nitrogen", "Hydrogen"],
+    "options_ta": ["ஆக்சிஜன்", "கார்பன் டை ஆக்சைடு", "நைட்ரஜன்", "ஹைட்ரஜன்"],
+    "answer_en": "Carbon dioxide",
+    "answer_ta": "கார்பன் டை ஆக்சைடு"
+  },
+  {
+    "question_en": "Which element is used in making pencil lead?",
+    "question_ta": "பென்சில் மையத்தை செய்யப் பயன்படுத்தப்படும் தனிமம் எது?",
+    "options_en": ["Graphite", "Copper", "Iron", "Aluminium"],
+    "options_ta": ["கிராஃபைட்", "செம்பு", "இரும்பு", "அலுமினியம்"],
+    "answer_en": "Graphite",
+    "answer_ta": "கிராஃபைட்"
+  },
+  {
+    "question_en": "Which layer of the atmosphere contains ozone?",
+    "question_ta": "வாயுமண்டலத்தின் எந்த அடுக்கில் ஓசோன் உள்ளது?",
+    "options_en": ["Troposphere", "Stratosphere", "Mesosphere", "Thermosphere"],
+    "options_ta": ["டிரோப்போஸ்பியர்", "ஸ்ட்ராடோஸ்பியர்", "மெசோஸ்பியர்", "தெர்மோஸ்பியர்"],
+    "answer_en": "Stratosphere",
+    "answer_ta": "ஸ்ட்ராடோஸ்பியர்"
+  },
+  {
+    "question_en": "Which part of plant carries food?",
+    "question_ta": "தாவரத்தில் உணவை எடுத்துச் செல்லும் பகுதி எது?",
+    "options_en": ["Xylem", "Phloem", "Root", "Leaf"],
+    "options_ta": ["ஜைலம்", "புளோயம்", "வேர்", "இலை"],
+    "answer_en": "Phloem",
+    "answer_ta": "புளோயம்"
+  },
+  {
+    "question_en": "Which acid is found in the stomach?",
+    "question_ta": "வயிற்றில் காணப்படும் அமிலம் எது?",
+    "options_en": ["Nitric acid", "Hydrochloric acid", "Sulphuric acid", "Acetic acid"],
+    "options_ta": ["நைட்ரிக் அமிலம்", "ஹைட்ரோகுளோரிக் அமிலம்", "சல்ப்யூரிக் அமிலம்", "அசிட்டிக் அமிலம்"],
+    "answer_en": "Hydrochloric acid",
+    "answer_ta": "ஹைட்ரோகுளோரிக் அமிலம்"
+  },
+  {
+    "question_en": "Which phenomenon causes rainbow formation?",
+    "question_ta": "வானவில் உருவாகக் காரணமான நிகழ்வு எது?",
+    "options_en": ["Reflection", "Refraction and Dispersion", "Absorption", "Diffusion"],
+    "options_ta": ["பிரதிபலிப்பு", "விளிம்பியல் மற்றும் சிதறல்", "உறிஞ்சல்", "வியாபனம்"],
+    "answer_en": "Refraction and Dispersion",
+    "answer_ta": "விளிம்பியல் மற்றும் சிதறல்"
+  },
+  {
+    "question_en": "Which energy is obtained from running water?",
+    "question_ta": "ஓடும் நீரில் இருந்து பெறப்படும் ஆற்றல் எது?",
+    "options_en": ["Solar energy", "Thermal energy", "Hydroelectric energy", "Wind energy"],
+    "options_ta": ["சூரிய ஆற்றல்", "வெப்ப ஆற்றல்", "நீர்மின் ஆற்றல்", "காற்றாலை ஆற்றல்"],
+    "answer_en": "Hydroelectric energy",
+    "answer_ta": "நீர்மின் ஆற்றல்"
+  },
+  {
+    "question_en": "Which instrument measures atmospheric pressure?",
+    "question_ta": "வாயுமண்டல அழுத்தத்தை அளவிடும் கருவி எது?",
+    "options_en": ["Barometer", "Thermometer", "Hygrometer", "Voltmeter"],
+    "options_ta": ["வாயுமண்டலமானி", "வெப்பமானி", "ஈரப்பமானி", "வோல்ட்மீட்டர்"],
+    "answer_en": "Barometer",
+    "answer_ta": "வாயுமண்டலமானி"
+  },
+  {
+    "question_en": "Which is the smallest bone in the human body?",
+    "question_ta": "மனித உடலில் சிறிய எலும்பு எது?",
+    "options_en": ["Femur", "Stapes", "Tibia", "Ulna"],
+    "options_ta": ["ஃபீமர்", "ஸ்டேப்ஸ்", "டிபியா", "உல்னா"],
+    "answer_en": "Stapes",
+    "answer_ta": "ஸ்டேப்ஸ்"
+  },
+  {
+    "question_en": "Which planet has the largest number of moons?",
+    "question_ta": "அதிக சந்திரன்கள் கொண்ட கோள் எது?",
+    "options_en": ["Earth", "Mars", "Jupiter", "Venus"],
+    "options_ta": ["பூமி", "செவ்வாய்", "வியாழன்", "சுக்கிரன்"],
+    "answer_en": "Jupiter",
+    "answer_ta": "வியாழன்"
+  },
+  {
+    "question_en": "Which device converts chemical energy into electrical energy?",
+    "question_ta": "வேதியியல் ஆற்றலை மின்சார ஆற்றலாக மாற்றும் கருவி எது?",
+    "options_en": ["Transformer", "Battery", "Generator", "Motor"],
+    "options_ta": ["டிரான்ஸ்ஃபார்மர்", "மின்கலம்", "மின்சாரம் உற்பத்தியாளர்", "மோட்டார்"],
+    "answer_en": "Battery",
+    "answer_ta": "மின்கலம்"
+  },
+  {
+    "question_en": "Which gas is responsible for acid rain?",
+    "question_ta": "அமில மழைக்கு காரணமான வாயு எது?",
+    "options_en": ["Carbon monoxide", "Sulphur dioxide", "Hydrogen", "Oxygen"],
+    "options_ta": ["கார்பன் மோனாக்சைடு", "சல்பர் டை ஆக்சைடு", "ஹைட்ரஜன்", "ஆக்சிஜன்"],
+    "answer_en": "Sulphur dioxide",
+    "answer_ta": "சல்பர் டை ஆக்சைடு"
+  },
+  {
+    "question_en": "Which part of the eye controls the amount of light entering?",
+    "question_ta": "கண்ணில் புகும் ஒளியின் அளவை கட்டுப்படுத்தும் பகுதி எது?",
+    "options_en": ["Lens", "Iris", "Cornea", "Retina"],
+    "options_ta": ["கண்ணாடிக்கண்ணி", "கண்வட்டம்", "கார்னியா", "ரெட்டினா"],
+    "answer_en": "Iris",
+    "answer_ta": "கண்வட்டம்"
+  },
+  {
+    "question_en": "Which substance is used as a universal indicator?",
+    "question_ta": "உலகளாவிய குறிகாட்டியாக பயன்படுத்தப்படும் பொருள் எது?",
+    "options_en": ["Phenolphthalein", "Litmus", "Methyl orange", "Turmeric"],
+    "options_ta": ["ஃபீனால்ப்தலீன்", "லிட்மஸ்", "மெத்தில் ஆரஞ்சு", "மஞ்சள்"],
+    "answer_en": "Litmus",
+    "answer_ta": "லிட்மஸ்"
+  },
+  {
+    "question_en": "Which planet rotates from east to west?",
+    "question_ta": "கிழக்கு முதல் மேற்கு நோக்கி சுழலும் கோள் எது?",
+    "options_en": ["Earth", "Venus", "Jupiter", "Mars"],
+    "options_ta": ["பூமி", "சுக்கிரன்", "வியாழன்", "செவ்வாய்"],
+    "answer_en": "Venus",
+    "answer_ta": "சுக்கிரன்"
+  },
+  {
+    "question_en": "Which blood group is called the universal donor?",
+    "question_ta": "எந்த இரத்தக் குழு பொதுத்தானளிப்பவராக அழைக்கப்படுகிறது?",
+    "options_en": ["A", "AB", "B", "O"],
+    "options_ta": ["A", "AB", "B", "O"],
+    "answer_en": "O",
+    "answer_ta": "O"
+  },
+  {
+    "question_en": "Which part of the brain controls balance?",
+    "question_ta": "சமநிலையை கட்டுப்படுத்தும் மூளையின் பகுதி எது?",
+    "options_en": ["Cerebrum", "Cerebellum", "Medulla", "Spinal cord"],
+    "options_ta": ["செரிப்ரம்", "செரிபெல்லம்", "மெடுல்லா", "முதுகுத்தண்டு"],
+    "answer_en": "Cerebellum",
+    "answer_ta": "செரிபெல்லம்"
+  },
+  {
+    "question_en": "Which gas protects us from harmful UV rays?",
+    "question_ta": "ஆபத்தான அலைகற்றைகளை (UV) எதனால் பாதுகாக்கப்படுகிறோம்?",
+    "options_en": ["Ozone", "Oxygen", "Carbon dioxide", "Nitrogen"],
+    "options_ta": ["ஓசோன்", "ஆக்சிஜன்", "கார்பன் டை ஆக்சைடு", "நைட்ரஜன்"],
+    "answer_en": "Ozone",
+    "answer_ta": "ஓசோன்"
+  },
+  {
+    "question_en": "Which form of energy is stored in food?",
+    "question_ta": "உணவில் சேமிக்கப்பட்டுள்ள ஆற்றல் எது?",
+    "options_en": ["Kinetic energy", "Potential energy", "Chemical energy", "Heat energy"],
+    "options_ta": ["இயக்க ஆற்றல்", "நிலை ஆற்றல்", "வேதியியல் ஆற்றல்", "வெப்ப ஆற்றல்"],
+    "answer_en": "Chemical energy",
+    "answer_ta": "வேதியியல் ஆற்றல்"
+  },
+  {
+    "question_en": "Which planet has a day longer than its year?",
+    "question_ta": "ஒரு வருடத்தை விட ஒரு நாள் நீளமான கோள் எது?",
+    "options_en": ["Venus", "Jupiter", "Earth", "Mars"],
+    "options_ta": ["சுக்கிரன்", "வியாழன்", "பூமி", "செவ்வாய்"],
+    "answer_en": "Venus",
+    "answer_ta": "சுக்கிரன்"
+  }
+]

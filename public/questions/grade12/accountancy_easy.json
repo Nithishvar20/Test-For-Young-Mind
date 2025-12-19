@@ -1,0 +1,290 @@
+[
+  {
+    "question_en": "Accounting is often called the language of?",
+    "question_ta": "கணக்கியல் எதற்கான மொழி என அழைக்கப்படுகிறது?",
+    "options_en": ["Science", "Business", "Mathematics", "Economics"],
+    "options_ta": ["அறிவியல்", "வணிகம்", "கணிதம்", "பொருளாதாரம்"],
+    "answer_en": "Business",
+    "answer_ta": "வணிகம்"
+  },
+  {
+    "question_en": "Which is the primary objective of accounting?",
+    "question_ta": "கணக்கியலின் முதன்மை நோக்கம் எது?",
+    "options_en": ["To find profit or loss", "To prepare syllabus", "To pay tax", "To recruit staff"],
+    "options_ta": ["லாபம் அல்லது இழப்பை கண்டறிதல்", "பாடத்திட்டம் தயாரித்தல்", "வரி செலுத்துதல்", "பணியாளரை நியமித்தல்"],
+    "answer_en": "To find profit or loss",
+    "answer_ta": "லாபம் அல்லது இழப்பை கண்டறிதல்"
+  },
+  {
+    "question_en": "Which of the following is a real account?",
+    "question_ta": "பின்வருவனவற்றில் எது உண்மைக் கணக்கு?",
+    "options_en": ["Cash account", "Salaries account", "Commission account", "Rent account"],
+    "options_ta": ["பணக் கணக்கு", "சம்பளக் கணக்கு", "கமிஷன் கணக்கு", "வாடகைக் கணக்கு"],
+    "answer_en": "Cash account",
+    "answer_ta": "பணக் கணக்கு"
+  },
+  {
+    "question_en": "Debit what comes in and credit what goes out is the rule of?",
+    "question_ta": "“உள்வரும் பொருளை டெபிட் செய், வெளியேறும் பொருளை கிரெடிட் செய்” என்ற விதி எதற்கானது?",
+    "options_en": ["Personal account", "Nominal account", "Real account", "Cash account"],
+    "options_ta": ["தனிப்பட்ட கணக்கு", "பெயரளவு கணக்கு", "உண்மைக் கணக்கு", "பணக் கணக்கு"],
+    "answer_en": "Real account",
+    "answer_ta": "உண்மைக் கணக்கு"
+  },
+  {
+    "question_en": "Journal is also called?",
+    "question_ta": "ஜர்னல் (Journal) மற்றொரு பெயராக என்ன அழைக்கப்படுகிறது?",
+    "options_en": ["Original book of entry", "Final book", "Ledger", "Balance sheet"],
+    "options_ta": ["முதன்மை பதிவேடு", "இறுதி பதிவேடு", "லெட்ஜர்", "பாலன்ஸ் ஷீட்"],
+    "answer_en": "Original book of entry",
+    "answer_ta": "முதன்மை பதிவேடு"
+  },
+  {
+    "question_en": "Ledger is popularly known as?",
+    "question_ta": "லெட்ஜர் பொதுவாக எதனால் அழைக்கப்படுகிறது?",
+    "options_en": ["Book of accounts", "Book of original entry", "Cash book", "Journal"],
+    "options_ta": ["கணக்குப் புத்தகம்", "முதன்மை பதிவேடு", "பணப்புத்தகம்", "ஜர்னல்"],
+    "answer_en": "Book of accounts",
+    "answer_ta": "கணக்குப் புத்தகம்"
+  },
+  {
+    "question_en": "The balance of which account is never carried forward?",
+    "question_ta": "எந்தக் கணக்கின் இருப்புத் தொகை ஒருபோதும் எடுத்துச் செல்லப்படாது?",
+    "options_en": ["Real account", "Personal account", "Nominal account", "Bank account"],
+    "options_ta": ["உண்மைக் கணக்கு", "தனிப்பட்ட கணக்கு", "பெயரளவு கணக்கு", "வங்கி கணக்கு"],
+    "answer_en": "Nominal account",
+    "answer_ta": "பெயரளவு கணக்கு"
+  },
+  {
+    "question_en": "Trial balance is prepared to check?",
+    "question_ta": "டிரயல் பாலன்ஸ் எதைக் சரிபார்க்கத் தயாரிக்கப்படுகிறது?",
+    "options_en": ["Arithmetical accuracy", "Fraud", "Tax payment", "Bank balance"],
+    "options_ta": ["கணித துல்லியம்", "மோசடி", "வரி செலுத்துதல்", "வங்கி இருப்பு"],
+    "answer_en": "Arithmetical accuracy",
+    "answer_ta": "கணித துல்லியம்"
+  },
+  {
+    "question_en": "Which financial statement shows assets and liabilities?",
+    "question_ta": "எந்த நிதி அறிக்கை சொத்துகள் மற்றும் கடன்களை காட்டுகிறது?",
+    "options_en": ["Profit and loss account", "Trial balance", "Balance sheet", "Ledger"],
+    "options_ta": ["லாபம்-இழப்பு கணக்கு", "டிரயல் பாலன்ஸ்", "பாலன்ஸ் ஷீட்", "லெட்ஜர்"],
+    "answer_en": "Balance sheet",
+    "answer_ta": "பாலன்ஸ் ஷீட்"
+  },
+  {
+    "question_en": "Goodwill is classified as?",
+    "question_ta": "குட்வில் (Goodwill) எவ்வகைப் பொருளாக வகைப்படுத்தப்படுகிறது?",
+    "options_en": ["Tangible asset", "Intangible asset", "Liability", "Expense"],
+    "options_ta": ["உருவமுள்ள சொத்து", "உருவமற்ற சொத்து", "கடன்", "செலவு"],
+    "answer_en": "Intangible asset",
+    "answer_ta": "உருவமற்ற சொத்து"
+  },
+  {
+    "question_en": "Which of the following is a liability?",
+    "question_ta": "பின்வருவனவற்றில் எது கடன் (Liability)?",
+    "options_en": ["Furniture", "Cash", "Creditors", "Building"],
+    "options_ta": ["மரச்சாமான்கள்", "பணம்", "கடனாளிகள்", "கட்டிடம்"],
+    "answer_en": "Creditors",
+    "answer_ta": "கடனாளிகள்"
+  },
+  {
+    "question_en": "Outstanding salary is shown in balance sheet as?",
+    "question_ta": "செலுத்தப்படாத சம்பளம் (Outstanding salary) பாலன்ஸ் ஷீட்டில் எப்படிக் காட்டப்படும்?",
+    "options_en": ["Asset", "Liability", "Expense", "Income"],
+    "options_ta": ["சொத்து", "கடன்", "செலவு", "வருமானம்"],
+    "answer_en": "Liability",
+    "answer_ta": "கடன்"
+  },
+  {
+    "question_en": "Drawings reduce?",
+    "question_ta": "வரைவுகள் (Drawings) எதைக் குறைக்கும்?",
+    "options_en": ["Assets", "Capital", "Liabilities", "Expenses"],
+    "options_ta": ["சொத்துகள்", "மூலதனம்", "கடன்கள்", "செலவுகள்"],
+    "answer_en": "Capital",
+    "answer_ta": "மூலதனம்"
+  },
+  {
+    "question_en": "Bank overdraft is a?",
+    "question_ta": "வங்கி ஓவர்டிராஃப்ட் என்பது?",
+    "options_en": ["Asset", "Liability", "Expense", "Income"],
+    "options_ta": ["சொத்து", "கடன்", "செலவு", "வருமானம்"],
+    "answer_en": "Liability",
+    "answer_ta": "கடன்"
+  },
+  {
+    "question_en": "Wages is classified as?",
+    "question_ta": "வேலைக்கூலி (Wages) எவ்வகைப் பதிவாகும்?",
+    "options_en": ["Nominal account", "Real account", "Personal account", "Capital account"],
+    "options_ta": ["பெயரளவு கணக்கு", "உண்மைக் கணக்கு", "தனிப்பட்ட கணக்கு", "மூலதனக் கணக்கு"],
+    "answer_en": "Nominal account",
+    "answer_ta": "பெயரளவு கணக்கு"
+  },
+  {
+    "question_en": "In accounting, assets = liabilities + ?",
+    "question_ta": "கணக்கியலில், சொத்துகள் = கடன்கள் + ?",
+    "options_en": ["Drawings", "Capital", "Reserves", "Expenses"],
+    "options_ta": ["வரைவுகள்", "மூலதனம்", "காப்பு", "செலவுகள்"],
+    "answer_en": "Capital",
+    "answer_ta": "மூலதனம்"
+  },
+  {
+    "question_en": "Purchase book records?",
+    "question_ta": "கொள்முதல் புத்தகம் எதை பதிவு செய்கிறது?",
+    "options_en": ["Cash purchases", "Credit purchases of goods", "All purchases", "Fixed assets"],
+    "options_ta": ["பண கொள்முதல்", "பொருட்களின் கடன் கொள்முதல்", "அனைத்து கொள்முதல்கள்", "நிலையான சொத்துகள்"],
+    "answer_en": "Credit purchases of goods",
+    "answer_ta": "பொருட்களின் கடன் கொள்முதல்"
+  },
+  {
+    "question_en": "Sales book records?",
+    "question_ta": "விற்பனைப் புத்தகம் எதை பதிவு செய்கிறது?",
+    "options_en": ["Cash sales", "Credit sales of goods", "All sales", "Fixed assets sales"],
+    "options_ta": ["பண விற்பனை", "பொருட்களின் கடன் விற்பனை", "அனைத்து விற்பனைகள்", "நிலையான சொத்துகள் விற்பனை"],
+    "answer_en": "Credit sales of goods",
+    "answer_ta": "பொருட்களின் கடன் விற்பனை"
+  },
+  {
+    "question_en": "Cash book is a?",
+    "question_ta": "பணப்புத்தகம் என்பது?",
+    "options_en": ["Journal only", "Ledger only", "Both Journal and Ledger", "Balance sheet"],
+    "options_ta": ["ஜர்னல் மட்டும்", "லெட்ஜர் மட்டும்", "ஜர்னலும் லெட்ஜரும்", "பாலன்ஸ் ஷீட்"],
+    "answer_en": "Both Journal and Ledger",
+    "answer_ta": "ஜர்னலும் லெட்ஜரும்"
+  },
+  {
+    "question_en": "Discount allowed is a?",
+    "question_ta": "வாடிக்கையாளருக்குக் கொடுக்கப்படும் தள்ளுபடி (Discount allowed) எது?",
+    "options_en": ["Expense", "Income", "Asset", "Liability"],
+    "options_ta": ["செலவு", "வருமானம்", "சொத்து", "கடன்"],
+    "answer_en": "Expense",
+    "answer_ta": "செலவு"
+  },
+  {
+    "question_en": "Discount received is a?",
+    "question_ta": "வாடிக்கையாளரிடமிருந்து பெறப்படும் தள்ளுபடி (Discount received) எது?",
+    "options_en": ["Expense", "Income", "Asset", "Liability"],
+    "options_ta": ["செலவு", "வருமானம்", "சொத்து", "கடன்"],
+    "answer_en": "Income",
+    "answer_ta": "வருமானம்"
+  },
+  {
+    "question_en": "Which error is not disclosed by trial balance?",
+    "question_ta": "டிரயல் பாலன்ஸால் எது வெளிப்படுத்தப்படாது?",
+    "options_en": ["Error of omission", "Error of commission", "Error of principle", "All of these"],
+    "options_ta": ["விடுபட்ட பிழை", "செய்த பிழை", "கொள்கைப் பிழை", "இவை அனைத்தும்"],
+    "answer_en": "All of these",
+    "answer_ta": "இவை அனைத்தும்"
+  },
+  {
+    "question_en": "Carriage inward is shown in?",
+    "question_ta": "காரியேஜ் இன்போவர்ட் (Carriage inward) எங்கு காட்டப்படுகிறது?",
+    "options_en": ["Trading account debit side", "Trading account credit side", "Profit and loss account", "Balance sheet"],
+    "options_ta": ["ட்ரேடிங் அக்கவுண்ட் டெபிட் பக்கம்", "ட்ரேடிங் அக்கவுண்ட் கிரெடிட் பக்கம்", "லாப இழப்பு கணக்கு", "பாலன்ஸ் ஷீட்"],
+    "answer_en": "Trading account debit side",
+    "answer_ta": "ட்ரேடிங் அக்கவுண்ட் டெபிட் பக்கம்"
+  },
+  {
+    "question_en": "Depreciation is charged on?",
+    "question_ta": "அழுகை (Depreciation) எதற்கு விதிக்கப்படுகிறது?",
+    "options_en": ["Current assets", "Fixed assets", "Liabilities", "Capital"],
+    "options_ta": ["நடப்பு சொத்துகள்", "நிலையான சொத்துகள்", "கடன்கள்", "மூலதனம்"],
+    "answer_en": "Fixed assets",
+    "answer_ta": "நிலையான சொத்துகள்"
+  },
+  {
+    "question_en": "Capital + Liabilities = ?",
+    "question_ta": "மூலதனம் + கடன்கள் = ?",
+    "options_en": ["Expenses", "Assets", "Reserves", "Drawings"],
+    "options_ta": ["செலவுகள்", "சொத்துகள்", "காப்பு", "வரைவுகள்"],
+    "answer_en": "Assets",
+    "answer_ta": "சொத்துகள்"
+  },
+  {
+    "question_en": "Which of the following is an intangible asset?",
+    "question_ta": "பின்வருவனவற்றில் எது உருவமற்ற சொத்து?",
+    "options_en": ["Patent", "Building", "Machinery", "Furniture"],
+    "options_ta": ["பேட்டெண்ட்", "கட்டிடம்", "இயந்திரம்", "மரச்சாமான்கள்"],
+    "answer_en": "Patent",
+    "answer_ta": "பேட்டெண்ட்"
+  },
+  {
+    "question_en": "Reserve is created from?",
+    "question_ta": "ரிசர்வ் எதிலிருந்து உருவாக்கப்படுகிறது?",
+    "options_en": ["Capital", "Profit", "Liabilities", "Expenses"],
+    "options_ta": ["மூலதனம்", "லாபம்", "கடன்கள்", "செலவுகள்"],
+    "answer_en": "Profit",
+    "answer_ta": "லாபம்"
+  },
+  {
+    "question_en": "Which error affects the agreement of trial balance?",
+    "question_ta": "எந்த பிழை டிரயல் பாலன்ஸ் ஒத்திசைவில் பாதிக்கும்?",
+    "options_en": ["Error of casting", "Error of omission", "Error of principle", "Compensating error"],
+    "options_ta": ["காஸ்டிங் பிழை", "விடுபட்ட பிழை", "கொள்கைப் பிழை", "ஈடுசெய்யும் பிழை"],
+    "answer_en": "Error of casting",
+    "answer_ta": "காஸ்டிங் பிழை"
+  },
+  {
+    "question_en": "Profit and Loss account is a?",
+    "question_ta": "லாப-இழப்பு கணக்கு எது?",
+    "options_en": ["Real account", "Personal account", "Nominal account", "Asset account"],
+    "options_ta": ["உண்மைக் கணக்கு", "தனிப்பட்ட கணக்கு", "பெயரளவு கணக்கு", "சொத்து கணக்கு"],
+    "answer_en": "Nominal account",
+    "answer_ta": "பெயரளவு கணக்கு"
+  },
+  {
+    "question_en": "Bank account is a?",
+    "question_ta": "வங்கி கணக்கு எது?",
+    "options_en": ["Real account", "Personal account", "Nominal account", "Expense account"],
+    "options_ta": ["உண்மைக் கணக்கு", "தனிப்பட்ட கணக்கு", "பெயரளவு கணக்கு", "செலவுக் கணக்கு"],
+    "answer_en": "Personal account",
+    "answer_ta": "தனிப்பட்ட கணக்கு"
+  },
+  {
+    "question_en": "Outstanding rent is shown in balance sheet as?",
+    "question_ta": "செலுத்தப்படாத வாடகை (Outstanding rent) பாலன்ஸ் ஷீட்டில் எப்படிக் காட்டப்படும்?",
+    "options_en": ["Asset", "Liability", "Capital", "Expense"],
+    "options_ta": ["சொத்து", "கடன்", "மூலதனம்", "செலவு"],
+    "answer_en": "Liability",
+    "answer_ta": "கடன்"
+  },
+  {
+    "question_en": "Which book is used to record petty expenses?",
+    "question_ta": "சிறிய செலவுகளை பதிவு செய்யப் பயன்படும் புத்தகம் எது?",
+    "options_en": ["Petty cash book", "Ledger", "Journal", "Balance sheet"],
+    "options_ta": ["பெட்டி கேஷ் புக்", "லெட்ஜர்", "ஜர்னல்", "பாலன்ஸ் ஷீட்"],
+    "answer_en": "Petty cash book",
+    "answer_ta": "பெட்டி கேஷ் புக்"
+  },
+  {
+    "question_en": "Rent received is a?",
+    "question_ta": "பெறப்பட்ட வாடகை எது?",
+    "options_en": ["Expense", "Income", "Asset", "Liability"],
+    "options_ta": ["செலவு", "வருமானம்", "சொத்து", "கடன்"],
+    "answer_en": "Income",
+    "answer_ta": "வருமானம்"
+  },
+  {
+    "question_en": "Which statement is prepared at the end to know financial position?",
+    "question_ta": "நிதி நிலையை அறிய இறுதியில் எது தயாரிக்கப்படுகிறது?",
+    "options_en": ["Trial balance", "Ledger", "Balance sheet", "Cash book"],
+    "options_ta": ["டிரயல் பாலன்ஸ்", "லெட்ஜர்", "பாலன்ஸ் ஷீட்", "பணப்புத்தகம்"],
+    "answer_en": "Balance sheet",
+    "answer_ta": "பாலன்ஸ் ஷீட்"
+  },
+  {
+    "question_en": "Which account is prepared to find net profit or net loss?",
+    "question_ta": "நிகர லாபம் அல்லது நிகர இழப்பை அறிய எது தயாரிக்கப்படுகிறது?",
+    "options_en": ["Trading account", "Profit and loss account", "Balance sheet", "Journal"],
+    "options_ta": ["ட்ரேடிங் அக்கவுண்ட்", "லாப இழப்பு கணக்கு", "பாலன்ஸ் ஷீட்", "ஜர்னல்"],
+    "answer_en": "Profit and loss account",
+    "answer_ta": "லாப இழப்பு கணக்கு"
+  },
+  {
+    "question_en": "Goods withdrawn by the owner for personal use is called?",
+    "question_ta": "உரிமையாளர் தனிப்பட்ட பயன்பாட்டுக்காக எடுத்துச் செல்லும் பொருட்கள் எப்படிக் குறிப்பிடப்படுகின்றன?",
+    "options_en": ["Drawings", "Expenses", "Assets", "Reserves"],
+    "options_ta": ["வரைவுகள்", "செலவுகள்", "சொத்துகள்", "காப்பு"],
+    "answer_en": "Drawings",
+    "answer_ta": "வரைவுகள்"
+  }
+]

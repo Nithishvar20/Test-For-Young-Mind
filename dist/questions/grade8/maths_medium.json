@@ -1,0 +1,346 @@
+[
+  {
+    "question_en": "Simplify: 3/4 + 5/8",
+    "question_ta": "எளிமைப்படுத்துக: 3/4 + 5/8",
+    "options_en": ["7/8","11/8","13/8","1"],
+    "options_ta": ["7/8","11/8","13/8","1"],
+    "answer_en": "11/8",
+    "answer_ta": "11/8"
+  },
+  {
+    "question_en": "The average of 10, 20, 30, 40 is:",
+    "question_ta": "10, 20, 30, 40 இன் சராசரி என்ன?",
+    "options_en": ["20","25","30","35"],
+    "options_ta": ["20","25","30","35"],
+    "answer_en": "25",
+    "answer_ta": "25"
+  },
+  {
+    "question_en": "If a = 2 and b = 3, then value of (a² + b²) is:",
+    "question_ta": "a = 2 மற்றும் b = 3 என்றால் (a² + b²) இன் மதிப்பு என்ன?",
+    "options_en": ["12","13","14","15"],
+    "options_ta": ["12","13","14","15"],
+    "answer_en": "13",
+    "answer_ta": "13"
+  },
+  {
+    "question_en": "LCM of 12 and 18 is:",
+    "question_ta": "12 மற்றும் 18 இன் குறைந்த பொதுக்கூட்டல் (LCM) எது?",
+    "options_en": ["24","36","48","54"],
+    "options_ta": ["24","36","48","54"],
+    "answer_en": "36",
+    "answer_ta": "36"
+  },
+  {
+    "question_en": "HCF of 28 and 42 is:",
+    "question_ta": "28 மற்றும் 42 இன் பெரிய பொதுவாகுபாடு (HCF) எது?",
+    "options_en": ["7","14","21","28"],
+    "options_ta": ["7","14","21","28"],
+    "answer_en": "14",
+    "answer_ta": "14"
+  },
+  {
+    "question_en": "The perimeter of a triangle with sides 7 cm, 8 cm, 9 cm is:",
+    "question_ta": "பக்கங்கள் 7 cm, 8 cm, 9 cm உள்ள முக்கோணத்தின் சுற்றளவு என்ன?",
+    "options_en": ["22 cm","23 cm","24 cm","25 cm"],
+    "options_ta": ["22 செ.மீ","23 செ.மீ","24 செ.மீ","25 செ.மீ"],
+    "answer_en": "24 cm",
+    "answer_ta": "24 செ.மீ"
+  },
+  {
+    "question_en": "A train travels 60 km in 2 hours. What is its speed?",
+    "question_ta": "ஒரு ரயில் 2 மணிநேரத்தில் 60 கிமீ பயணிக்கிறதால் அதன் வேகம் என்ன?",
+    "options_en": ["20 km/h","25 km/h","30 km/h","40 km/h"],
+    "options_ta": ["20 கிமீ/மணி","25 கிமீ/மணி","30 கிமீ/மணி","40 கிமீ/மணி"],
+    "answer_en": "30 km/h",
+    "answer_ta": "30 கிமீ/மணி"
+  },
+  {
+    "question_en": "Area of rectangle with length 12 cm and breadth 5 cm is:",
+    "question_ta": "நீளம் 12 cm மற்றும் அகலம் 5 cm உள்ள செவ்வகத்தின் பரப்பளவு என்ன?",
+    "options_en": ["50 cm²","55 cm²","60 cm²","65 cm²"],
+    "options_ta": ["50 செ.மீ²","55 செ.மீ²","60 செ.மீ²","65 செ.மீ²"],
+    "answer_en": "60 cm²",
+    "answer_ta": "60 செ.மீ²"
+  },
+  {
+    "question_en": "Convert 3/4 into percentage:",
+    "question_ta": "3/4 ஐ சதவீதமாக மாற்றுக:",
+    "options_en": ["25%","50%","75%","100%"],
+    "options_ta": ["25%","50%","75%","100%"],
+    "answer_en": "75%",
+    "answer_ta": "75%"
+  },
+  {
+    "question_en": "The circumference of a circle of radius 7 cm is (π = 22/7):",
+    "question_ta": "ஆரம் 7 cm உள்ள வட்டத்தின் சுற்றளவு என்ன? (π = 22/7)",
+    "options_en": ["22 cm","44 cm","66 cm","77 cm"],
+    "options_ta": ["22 செ.மீ","44 செ.மீ","66 செ.மீ","77 செ.மீ"],
+    "answer_en": "44 cm",
+    "answer_ta": "44 செ.மீ"
+  },
+  {
+    "question_en": "The perimeter of a square is 40 cm. Its side is:",
+    "question_ta": "சுற்றளவு 40 cm கொண்ட சதுரத்தின் ஓர் பக்கம் எவ்வளவு?",
+    "options_en": ["8 cm","9 cm","10 cm","12 cm"],
+    "options_ta": ["8 செ.மீ","9 செ.மீ","10 செ.மீ","12 செ.மீ"],
+    "answer_en": "10 cm",
+    "answer_ta": "10 செ.மீ"
+  },
+  {
+    "question_en": "Find the simple interest for ₹5000 at 10% p.a. for 2 years.",
+    "question_ta": "₹5000க்கு வருடத்திற்கு 10% வட்டியில் 2 ஆண்டுக்கான எளிய வட்டி எவ்வளவு?",
+    "options_en": ["₹500","₹800","₹1000","₹1200"],
+    "options_ta": ["₹500","₹800","₹1000","₹1200"],
+    "answer_en": "₹1000",
+    "answer_ta": "₹1000"
+  },
+  {
+    "question_en": "If a die is rolled once, probability of getting an even number is:",
+    "question_ta": "ஒரு குறியீட்டுப் பொழுதில் (die) ஒரு முறை வீசப்படும் போது ஜோடி எண் வர வாய்ப்பு என்ன?",
+    "options_en": ["1/2","1/3","2/3","1/6"],
+    "options_ta": ["1/2","1/3","2/3","1/6"],
+    "answer_en": "1/2",
+    "answer_ta": "1/2"
+  },
+  {
+    "question_en": "Area of triangle with base 10 cm and height 6 cm is:",
+    "question_ta": "அடிப்படை 10 cm மற்றும் உயரம் 6 cm கொண்ட முக்கோணத்தின் பரப்பளவு என்ன?",
+    "options_en": ["20 cm²","25 cm²","30 cm²","35 cm²"],
+    "options_ta": ["20 ச.மீ²","25 ச.மீ²","30 ச.மீ²","35 ச.மீ²"],
+    "answer_en": "30 cm²",
+    "answer_ta": "30 ச.மீ²"
+  },
+  {
+    "question_en": "Square root of 144 is:",
+    "question_ta": "144 இன் சதுரவேர் (square root) எது?",
+    "options_en": ["10","11","12","13"],
+    "options_ta": ["10","11","12","13"],
+    "answer_en": "12",
+    "answer_ta": "12"
+  },
+  {
+    "question_en": "The volume of a cuboid with l=5 cm, b=4 cm, h=3 cm is:",
+    "question_ta": "நீளம்=5 cm, அகலம்=4 cm, உயரம்=3 cm கொண்ட உறை (cuboid) கொள்ளளவு என்ன?",
+    "options_en": ["60 cm³","65 cm³","70 cm³","75 cm³"],
+    "options_ta": ["60 செ.மீ³","65 செ.மீ³","70 செ.மீ³","75 செ.மீ³"],
+    "answer_en": "60 cm³",
+    "answer_ta": "60 செ.மீ³"
+  },
+  {
+    "question_en": "Perimeter of an equilateral triangle with side 9 cm is:",
+    "question_ta": "ஒரு சமமுக்கோணத்தின் (equilateral triangle) ஒரு பக்கம் 9 cm என்றால் அதன் சுற்றளவு என்ன?",
+    "options_en": ["18 cm","27 cm","36 cm","45 cm"],
+    "options_ta": ["18 செ.மீ","27 செ.மீ","36 செ.மீ","45 செ.மீ"],
+    "answer_en": "27 cm",
+    "answer_ta": "27 செ.மீ"
+  },
+  {
+    "question_en": "The mean of 5, 10, 15, 20, 25 is:",
+    "question_ta": "5, 10, 15, 20, 25 இன் சராசரி (mean) என்ன?",
+    "options_en": ["10","12","15","20"],
+    "options_ta": ["10","12","15","20"],
+    "answer_en": "15",
+    "answer_ta": "15"
+  },
+  {
+    "question_en": "Convert 0.25 into fraction:",
+    "question_ta": "0.25 ஐ பங்கு (fraction) ஆக மாற்றுக:",
+    "options_en": ["1/2","1/3","1/4","1/5"],
+    "options_ta": ["1/2","1/3","1/4","1/5"],
+    "answer_en": "1/4",
+    "answer_ta": "1/4"
+  },
+  {
+    "question_en": "Value of (x + 3)(x – 3) is:",
+    "question_ta": "(x + 3)(x – 3) இன் பொருள் என்ன?",
+    "options_en": ["x² – 9","x² + 9","x² – 6","x² + 6"],
+    "options_ta": ["x² – 9","x² + 9","x² – 6","x² + 6"],
+    "answer_en": "x² – 9",
+    "answer_ta": "x² – 9"
+  },
+  {
+    "question_en": "Solve: 5x = 25",
+    "question_ta": "5x = 25 ஐ தீர்க்கவும்:",
+    "options_en": ["x = 4","x = 5","x = 6","x = 7"],
+    "options_ta": ["x = 4","x = 5","x = 6","x = 7"],
+    "answer_en": "x = 5",
+    "answer_ta": "x = 5"
+  },
+  {
+    "question_en": "Circumference of a circle with diameter 14 cm (π = 22/7) is:",
+    "question_ta": "விட்டு (diameter) 14 cm கொண்ட வட்டத்தின் சுற்றளவு என்ன? (π = 22/7)",
+    "options_en": ["22 cm","28 cm","44 cm","66 cm"],
+    "options_ta": ["22 செ.மீ","28 செ.மீ","44 செ.மீ","66 செ.மீ"],
+    "answer_en": "44 cm",
+    "answer_ta": "44 செ.மீ"
+  },
+  {
+    "question_en": "Median of 3, 5, 7, 9, 11 is:",
+    "question_ta": "3, 5, 7, 9, 11 இன் நடுப்புள்ளி (median) என்ன?",
+    "options_en": ["5","7","9","11"],
+    "options_ta": ["5","7","9","11"],
+    "answer_en": "7",
+    "answer_ta": "7"
+  },
+  {
+    "question_en": "If 12 pencils cost ₹60, the cost of one pencil is:",
+    "question_ta": "12 பேன்சில்கள் ₹60 என்றால், ஒரு பேன்சிலின் விலை எவ்வளவு?",
+    "options_en": ["₹4","₹5","₹6","₹7"],
+    "options_ta": ["₹4","₹5","₹6","₹7"],
+    "answer_en": "₹5",
+    "answer_ta": "₹5"
+  },
+  {
+    "question_en": "Find the perimeter of a square with diagonal 14 cm. (Use √2 = 1.414)",
+    "question_ta": "விட்டம் (diagonal) 14 cm கொண்ட சதுரத்தின் சுற்றளவை காண்க. (√2 = 1.414)",
+    "options_en": ["30 cm","35 cm","40 cm","42 cm"],
+    "options_ta": ["30 செ.மீ","35 செ.மீ","40 செ.மீ","42 செ.மீ"],
+    "answer_en": "40 cm",
+    "answer_ta": "40 செ.மீ"
+  },
+  {
+    "question_en": "Value of 2³ × 2² is:",
+    "question_ta": "2³ × 2² இன் மதிப்பு என்ன?",
+    "options_en": ["2⁵","2⁶","32","64"],
+    "options_ta": ["2⁵","2⁶","32","64"],
+    "answer_en": "2⁵",
+    "answer_ta": "2⁵"
+  },
+  {
+    "question_en": "Which is the additive inverse of 12?",
+    "question_ta": "12 இன் கூட்டல் எதிரெண் (additive inverse) எது?",
+    "options_en": ["-12","0","1","12"],
+    "options_ta": ["-12","0","1","12"],
+    "answer_en": "-12",
+    "answer_ta": "-12"
+  },
+  {
+    "question_en": "A box contains 5 red and 3 blue balls. Probability of picking a blue ball is:",
+    "question_ta": "ஒரு பெட்டியில் 5 சிவப்பு மற்றும் 3 நீல பந்துகள் உள்ளன. ஒரு நீல பந்தை எடுப்பதற்கான வாய்ப்பு என்ன?",
+    "options_en": ["3/5","3/8","5/8","1/2"],
+    "options_ta": ["3/5","3/8","5/8","1/2"],
+    "answer_en": "3/8",
+    "answer_ta": "3/8"
+  },
+  {
+    "question_en": "The cube of 4 is:",
+    "question_ta": "4 இன் கன (cube) எது?",
+    "options_en": ["8","16","32","64"],
+    "options_ta": ["8","16","32","64"],
+    "answer_en": "64",
+    "answer_ta": "64"
+  },
+  {
+    "question_en": "Find the perimeter of a rectangle with length 15 cm and breadth 10 cm.",
+    "question_ta": "நீளம் 15 cm மற்றும் அகலம் 10 cm கொண்ட செவ்வகத்தின் சுற்றளவு என்ன?",
+    "options_en": ["40 cm","45 cm","50 cm","55 cm"],
+    "options_ta": ["40 செ.மீ","45 செ.மீ","50 செ.மீ","55 செ.மீ"],
+    "answer_en": "50 cm",
+    "answer_ta": "50 செ.மீ"
+  },
+  {
+    "question_en": "What is the value of √225?",
+    "question_ta": "√225 இன் மதிப்பு எது?",
+    "options_en": ["10","12","14","15"],
+    "options_ta": ["10","12","14","15"],
+    "answer_en": "15",
+    "answer_ta": "15"
+  },
+  {
+    "question_en": "Factorise: x² + 2x + 1",
+    "question_ta": "x² + 2x + 1 ஐ காரக்டராக்குக (factorise):",
+    "options_en": ["(x+1)(x+1)","(x+2)(x+2)","(x+1)(x-1)","x²+1"],
+    "options_ta": ["(x+1)(x+1)","(x+2)(x+2)","(x+1)(x-1)","x²+1"],
+    "answer_en": "(x+1)(x+1)",
+    "answer_ta": "(x+1)(x+1)"
+  },
+  {
+    "question_en": "Area of a circle with radius 14 cm (π = 22/7) is:",
+    "question_ta": "ஆரம் 14 cm கொண்ட வட்டத்தின் பரப்பளவு என்ன? (π = 22/7)",
+    "options_en": ["484 cm²","616 cm²","700 cm²","308 cm²"],
+    "options_ta": ["484 ச.மீ²","616 ச.மீ²","700 ச.மீ²","308 ச.மீ²"],
+    "answer_en": "616 cm²",
+    "answer_ta": "616 ச.மீ²"
+  },
+  {
+    "question_en": "Simple interest for ₹2000 at 12% p.a. for 3 years is:",
+    "question_ta": "₹2000க்கு வருடத்திற்கு 12% வட்டியில் 3 ஆண்டுகளுக்கான எளிய வட்டி எவ்வளவு?",
+    "options_en": ["₹600","₹700","₹720","₹800"],
+    "options_ta": ["₹600","₹700","₹720","₹800"],
+    "answer_en": "₹720",
+    "answer_ta": "₹720"
+  },
+  {
+    "question_en": "Which of these is a prime number?",
+    "question_ta": "இவற்றில் எது முதன்மை எண்?",
+    "options_en": ["21","23","25","27"],
+    "options_ta": ["21","23","25","27"],
+    "answer_en": "23",
+    "answer_ta": "23"
+  },
+  {
+    "question_en": "LCM of 9 and 12 is:",
+    "question_ta": "9 மற்றும் 12 இன் குறைந்த பொதுக்கூட்டல் (LCM) எது?",
+    "options_en": ["18","24","36","12"],
+    "options_ta": ["18","24","36","12"],
+    "answer_en": "36",
+    "answer_ta": "36"
+  },
+  {
+    "question_en": "If a = 4, evaluate 2a + 3:",
+    "question_ta": "a = 4 என்றால் 2a + 3 இன் மதிப்பு என்ன?",
+    "options_en": ["9","10","11","12"],
+    "options_ta": ["9","10","11","12"],
+    "answer_en": "11",
+    "answer_ta": "11"
+  },
+  {
+    "question_en": "What is the square of 18?",
+    "question_ta": "18 இன் சதுரம் எது?",
+    "options_en": ["324","342","356","380"],
+    "options_ta": ["324","342","356","380"],
+    "answer_en": "324",
+    "answer_ta": "324"
+  },
+  {
+    "question_en": "Area of a trapezium with parallel sides 8 cm and 12 cm and height 5 cm is:",
+    "question_ta": "சமநிலையுள்ள பக்கங்கள் 8 cm மற்றும் 12 cm மற்றும் உயரம் 5 cm கொண்ட டிரேப்பீசியத்தின் பரப்பளவு என்ன?",
+    "options_en": ["50 cm²","40 cm²","45 cm²","100 cm²"],
+    "options_ta": ["50 ச.மீ²","40 ச.மீ²","45 ச.மீ²","100 ச.மீ²"],
+    "answer_en": "50 cm²",
+    "answer_ta": "50 ச.மீ²"
+  },
+  {
+    "question_en": "Which option shows a Pythagorean triplet?",
+    "question_ta": "பின்வரும் எந்த தேர்வு பைதகோரஸ் முக்கோண எண்கள்?",
+    "options_en": ["6, 8, 10","5, 7, 9","4, 5, 6","9, 10, 12"],
+    "options_ta": ["6, 8, 10","5, 7, 9","4, 5, 6","9, 10, 12"],
+    "answer_en": "6, 8, 10",
+    "answer_ta": "6, 8, 10"
+  },
+  {
+    "question_en": "A shop gives 10% discount on ₹800. Discount amount is:",
+    "question_ta": "ஒரு கடை ₹800 இல் 10% தள்ளுபடி வழங்கினால் தள்ளுபடி தொகை எவ்வளவு?",
+    "options_en": ["₹70","₹75","₹80","₹90"],
+    "options_ta": ["₹70","₹75","₹80","₹90"],
+    "answer_en": "₹80",
+    "answer_ta": "₹80"
+  },
+  {
+    "question_en": "What is 15% of 240?",
+    "question_ta": "240 இன் 15% எவ்வளவு?",
+    "options_en": ["24","30","36","42"],
+    "options_ta": ["24","30","36","42"],
+    "answer_en": "36",
+    "answer_ta": "36"
+  },
+  {
+    "question_en": "If probability of rain tomorrow is 1/4, probability of no rain is:",
+    "question_ta": "நாளை மழை பெய்யும் வாய்ப்பு 1/4 என்றால் மழை பெய்யாத வாய்ப்பு என்ன?",
+    "options_en": ["1/2","1/3","3/4","2/3"],
+    "options_ta": ["1/2","1/3","3/4","2/3"],
+    "answer_en": "3/4",
+    "answer_ta": "3/4"
+  }
+]

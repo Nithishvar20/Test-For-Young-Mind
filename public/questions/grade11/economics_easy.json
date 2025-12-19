@@ -1,0 +1,282 @@
+[
+  {
+    "question_en": "Economics is the study of?",
+    "question_ta": "அரசியல் பொருளாதாரம் என்பது எதற்கான படிப்பாகும்?",
+    "options_en": ["Money only", "Choice under scarcity", "Business only", "Banking only"],
+    "options_ta": ["பணம் மட்டும்", "பற்றாக்குறையிலான தேர்வு", "வணிகம் மட்டும்", "வங்கி மட்டும்"],
+    "answer_en": "Choice under scarcity",
+    "answer_ta": "பற்றாக்குறையிலான தேர்வு"
+  },
+  {
+    "question_en": "Microeconomics deals with?",
+    "question_ta": "சிறுபொருளாதாரம் எதைக் கையாளுகிறது?",
+    "options_en": ["National income", "Individual units", "Inflation", "Unemployment"],
+    "options_ta": ["தேசிய வருமானம்", "தனிப்பட்ட அலகுகள்", "பணவீக்கம்", "வேலையின்மை"],
+    "answer_en": "Individual units",
+    "answer_ta": "தனிப்பட்ட அலகுகள்"
+  },
+  {
+    "question_en": "Which of the following is a macroeconomic concept?",
+    "question_ta": "கீழ்கண்டவற்றில் எது பெருபொருளாதாரக் கருத்தாகும்?",
+    "options_en": ["Demand of a person", "Supply of a firm", "National income", "Cost of a product"],
+    "options_ta": ["ஒரு நபரின் தேவை", "ஒரு நிறுவனத்தின் சப்ளை", "தேசிய வருமானம்", "ஒரு பொருளின் செலவு"],
+    "answer_en": "National income",
+    "answer_ta": "தேசிய வருமானம்"
+  },
+  {
+    "question_en": "Utility means?",
+    "question_ta": "பயன்பாடு என்பது?",
+    "options_en": ["Satisfaction from a good", "Price of a good", "Cost of a good", "Production of a good"],
+    "options_ta": ["ஒரு பொருளிலிருந்து கிடைக்கும் திருப்தி", "ஒரு பொருளின் விலை", "ஒரு பொருளின் செலவு", "ஒரு பொருளின் உற்பத்தி"],
+    "answer_en": "Satisfaction from a good",
+    "answer_ta": "ஒரு பொருளிலிருந்து கிடைக்கும் திருப்தி"
+  },
+  {
+    "question_en": "Law of demand shows relation between?",
+    "question_ta": "தேவையின் சட்டம் எந்த உறவை காட்டுகிறது?",
+    "options_en": ["Price and demand", "Supply and income", "Cost and profit", "Production and trade"],
+    "options_ta": ["விலை மற்றும் தேவை", "சப்ளை மற்றும் வருமானம்", "செலவு மற்றும் லாபம்", "உற்பத்தி மற்றும் வர்த்தகம்"],
+    "answer_en": "Price and demand",
+    "answer_ta": "விலை மற்றும் தேவை"
+  },
+  {
+    "question_en": "Who is called the father of Economics?",
+    "question_ta": "பொருளாதாரத்தின் தந்தை என அழைக்கப்படுபவர் யார்?",
+    "options_en": ["Karl Marx", "Adam Smith", "Marshall", "Keynes"],
+    "options_ta": ["கார்ல் மார்க்ஸ்", "ஆடம் ஸ்மித்", "மார்ஷல்", "கெய்ன்ஸ்"],
+    "answer_en": "Adam Smith",
+    "answer_ta": "ஆடம் ஸ்மித்"
+  },
+  {
+    "question_en": "Which curve slopes downward from left to right?",
+    "question_ta": "எந்த வளைவு இடது பக்கம் இருந்து வலப்பக்கம் வரை கீழே சாய்கிறது?",
+    "options_en": ["Supply curve", "Demand curve", "Cost curve", "Production curve"],
+    "options_ta": ["சப்ளை வளைவு", "டிமாண்ட் வளைவு", "செலவு வளைவு", "உற்பத்தி வளைவு"],
+    "answer_en": "Demand curve",
+    "answer_ta": "டிமாண்ட் வளைவு"
+  },
+  {
+    "question_en": "GDP stands for?",
+    "question_ta": "GDP என்பதன் விரிவான பெயர் என்ன?",
+    "options_en": ["Gross Domestic Product", "Gross Demand Price", "General Domestic Production", "Global Development Plan"],
+    "options_ta": ["மொத்த உள்நாட்டு உற்பத்தி", "மொத்த தேவைக் விலை", "பொது உள்நாட்டு உற்பத்தி", "உலகளாவிய வளர்ச்சி திட்டம்"],
+    "answer_en": "Gross Domestic Product",
+    "answer_ta": "மொத்த உள்நாட்டு உற்பத்தி"
+  },
+  {
+    "question_en": "Which is a factor of production?",
+    "question_ta": "உற்பத்தியின் காரணி எது?",
+    "options_en": ["Money", "Land", "Profit", "Utility"],
+    "options_ta": ["பணம்", "நிலம்", "லாபம்", "பயன்பாடு"],
+    "answer_en": "Land",
+    "answer_ta": "நிலம்"
+  },
+  {
+    "question_en": "Who introduced the concept of consumer surplus?",
+    "question_ta": "நுகர்வோர் அதிகப்படியானது என்ற கருத்தை யார் அறிமுகப்படுத்தினார்?",
+    "options_en": ["Marshall", "Smith", "Ricardo", "Keynes"],
+    "options_ta": ["மார்ஷல்", "ஸ்மித்", "ரிக்கார்டோ", "கெய்ன்ஸ்"],
+    "answer_en": "Marshall",
+    "answer_ta": "மார்ஷல்"
+  },
+  {
+    "question_en": "Which is an example of direct tax?",
+    "question_ta": "நேரடி வரியின் உதாரணம் எது?",
+    "options_en": ["Income tax", "GST", "Sales tax", "Customs duty"],
+    "options_ta": ["வருமானவரி", "ஜிஎஸ்டி", "விற்பனைவரி", "சுங்கவரி"],
+    "answer_en": "Income tax",
+    "answer_ta": "வருமானவரி"
+  },
+  {
+    "question_en": "Which is an example of indirect tax?",
+    "question_ta": "மறைமுக வரியின் உதாரணம் எது?",
+    "options_en": ["Property tax", "GST", "Income tax", "Wealth tax"],
+    "options_ta": ["சொத்துவரி", "ஜிஎஸ்டி", "வருமானவரி", "செல்வவரி"],
+    "answer_en": "GST",
+    "answer_ta": "ஜிஎஸ்டி"
+  },
+  {
+    "question_en": "Which type of unemployment is seasonal in nature?",
+    "question_ta": "எந்த வகையான வேலைவாய்ப்பின்மை பருவகாலத்துக்குரியது?",
+    "options_en": ["Frictional", "Seasonal", "Structural", "Cyclical"],
+    "options_ta": ["இடையூறு", "பருவகால", "வடிவமைப்பு", "சுழற்சி"],
+    "answer_en": "Seasonal",
+    "answer_ta": "பருவகால"
+  },
+  {
+    "question_en": "National income is a concept of?",
+    "question_ta": "தேசிய வருமானம் எந்தப் பிரிவின் கருத்தாகும்?",
+    "options_en": ["Microeconomics", "Macroeconomics", "Statistics", "Mathematics"],
+    "options_ta": ["சிறுபொருளாதாரம்", "பெருபொருளாதாரம்", "புள்ளியியல்", "கணிதம்"],
+    "answer_en": "Macroeconomics",
+    "answer_ta": "பெருபொருளாதாரம்"
+  },
+  {
+    "question_en": "Who gave the theory of comparative cost?",
+    "question_ta": "ஒப்பீட்டு செலவு கொள்கையை யார் வழங்கினார்?",
+    "options_en": ["Adam Smith", "David Ricardo", "Marshall", "Keynes"],
+    "options_ta": ["ஆடம் ஸ்மித்", "டேவிட் ரிக்கார்டோ", "மார்ஷல்", "கெய்ன்ஸ்"],
+    "answer_en": "David Ricardo",
+    "answer_ta": "டேவிட் ரிக்கார்டோ"
+  },
+  {
+    "question_en": "Which curve shows minimum cost of producing a given output?",
+    "question_ta": "கொடுக்கப்பட்ட உற்பத்திக்கான குறைந்த செலவை காட்டும் வளைவு எது?",
+    "options_en": ["Demand curve", "Supply curve", "Cost curve", "Indifference curve"],
+    "options_ta": ["டிமாண்ட் வளைவு", "சப்ளை வளைவு", "செலவு வளைவு", "அபேட்சை வளைவு"],
+    "answer_en": "Cost curve",
+    "answer_ta": "செலவு வளைவு"
+  },
+  {
+    "question_en": "The point where demand and supply curves intersect is called?",
+    "question_ta": "டிமாண்ட் மற்றும் சப்ளை வளைவுகள் சந்திக்கும் புள்ளி என்ன என்று அழைக்கப்படுகிறது?",
+    "options_en": ["Equilibrium point", "Break-even point", "Elastic point", "Production point"],
+    "options_ta": ["சமநிலை புள்ளி", "சமநிலை-இலாப புள்ளி", "நெகிழ்வு புள்ளி", "உற்பத்தி புள்ளி"],
+    "answer_en": "Equilibrium point",
+    "answer_ta": "சமநிலை புள்ளி"
+  },
+  {
+    "question_en": "Which type of market has only one seller?",
+    "question_ta": "ஒரே விற்பனையாளர் மட்டுமே இருக்கும் சந்தை எது?",
+    "options_en": ["Perfect competition", "Monopoly", "Oligopoly", "Monopolistic competition"],
+    "options_ta": ["சரியான போட்டி", "ஒற்றையாட்சி", "ஒலிகோபோலி", "ஒற்றையாட்சி போட்டி"],
+    "answer_en": "Monopoly",
+    "answer_ta": "ஒற்றையாட்சி"
+  },
+  {
+    "question_en": "Which type of market has many buyers and many sellers?",
+    "question_ta": "பல வாங்குபவர்கள் மற்றும் பல விற்பனையாளர்கள் இருக்கும் சந்தை எது?",
+    "options_en": ["Monopoly", "Perfect competition", "Oligopoly", "Duopoly"],
+    "options_ta": ["ஒற்றையாட்சி", "சரியான போட்டி", "ஒலிகோபோலி", "இரட்டை அாட்சி"],
+    "answer_en": "Perfect competition",
+    "answer_ta": "சரியான போட்டி"
+  },
+  {
+    "question_en": "Which is the reward for land as a factor of production?",
+    "question_ta": "உற்பத்தி காரணியாக நிலத்திற்கு கிடைக்கும் பலன் எது?",
+    "options_en": ["Rent", "Wages", "Profit", "Interest"],
+    "options_ta": ["வாடகை", "ஊதியம்", "லாபம்", "வட்டி"],
+    "answer_en": "Rent",
+    "answer_ta": "வாடகை"
+  },
+  {
+    "question_en": "Which is the reward for labour?",
+    "question_ta": "தொழிலுக்கு கிடைக்கும் பலன் எது?",
+    "options_en": ["Rent", "Wages", "Profit", "Interest"],
+    "options_ta": ["வாடகை", "ஊதியம்", "லாபம்", "வட்டி"],
+    "answer_en": "Wages",
+    "answer_ta": "ஊதியம்"
+  },
+  {
+    "question_en": "Which is the reward for capital?",
+    "question_ta": "மூலதனத்திற்கு கிடைக்கும் பலன் எது?",
+    "options_en": ["Profit", "Rent", "Wages", "Interest"],
+    "options_ta": ["லாபம்", "வாடகை", "ஊதியம்", "வட்டி"],
+    "answer_en": "Interest",
+    "answer_ta": "வட்டி"
+  },
+  {
+    "question_en": "Which is the reward for organisation/entrepreneur?",
+    "question_ta": "தொழில்முனைவோருக்குக் கிடைக்கும் பலன் எது?",
+    "options_en": ["Profit", "Wages", "Rent", "Interest"],
+    "options_ta": ["லாபம்", "ஊதியம்", "வாடகை", "வட்டி"],
+    "answer_en": "Profit",
+    "answer_ta": "லாபம்"
+  },
+  {
+    "question_en": "Which indicator measures inflation?",
+    "question_ta": "பணவீக்கத்தை அளக்கும் குறியீடு எது?",
+    "options_en": ["GDP", "CPI", "GNP", "NDP"],
+    "options_ta": ["மொத்த உள்நாட்டு உற்பத்தி", "நுகர்வோர் விலைச் சுட்டெண்", "மொத்த தேசிய உற்பத்தி", "நிகர உள்நாட்டு உற்பத்தி"],
+    "answer_en": "CPI",
+    "answer_ta": "நுகர்வோர் விலைச் சுட்டெண்"
+  },
+  {
+    "question_en": "Which curve represents equal satisfaction?",
+    "question_ta": "சம திருப்தியை பிரதிபலிக்கும் வளைவு எது?",
+    "options_en": ["Demand curve", "Supply curve", "Indifference curve", "Cost curve"],
+    "options_ta": ["டிமாண்ட் வளைவு", "சப்ளை வளைவு", "அபேட்சை வளைவு", "செலவு வளைவு"],
+    "answer_en": "Indifference curve",
+    "answer_ta": "அபேட்சை வளைவு"
+  },
+  {
+    "question_en": "Which cost is also called opportunity cost?",
+    "question_ta": "எந்த செலவு வாய்ப்பு செலவாகவும் அழைக்கப்படுகிறது?",
+    "options_en": ["Explicit cost", "Implicit cost", "Fixed cost", "Variable cost"],
+    "options_ta": ["வெளிப்படையான செலவு", "மறைமுக செலவு", "நிலையான செலவு", "மாறும் செலவு"],
+    "answer_en": "Implicit cost",
+    "answer_ta": "மறைமுக செலவு"
+  },
+  {
+    "question_en": "Which organisation publishes Human Development Report?",
+    "question_ta": "மனித வள அறிக்கையை வெளியிடும் நிறுவனம் எது?",
+    "options_en": ["World Bank", "UNDP", "IMF", "ILO"],
+    "options_ta": ["உலக வங்கி", "ஐ.நா. அபிவிருத்தி திட்டம் (UNDP)", "IMF", "ILO"],
+    "answer_en": "UNDP",
+    "answer_ta": "ஐ.நா. அபிவிருத்தி திட்டம் (UNDP)"
+  },
+  {
+    "question_en": "Which is not included in national income?",
+    "question_ta": "தேசிய வருமானத்தில் சேர்க்கப்படாதது எது?",
+    "options_en": ["Salaries of teachers", "Wages of workers", "Unpaid domestic work", "Profit of firms"],
+    "options_ta": ["ஆசிரியர்களின் ஊதியம்", "தொழிலாளர்களின் சம்பளம்", "ஊதியம் இல்லா வீட்டு வேலை", "நிறுவனங்களின் லாபம்"],
+    "answer_en": "Unpaid domestic work",
+    "answer_ta": "ஊதியம் இல்லா வீட்டு வேலை"
+  },
+  {
+    "question_en": "Which plan was based on Harrod-Domar model?",
+    "question_ta": "ஹாரோட்-டோமர் மாதிரியை அடிப்படையாகக் கொண்ட திட்டம் எது?",
+    "options_en": ["First Five-Year Plan", "Second Five-Year Plan", "Third Five-Year Plan", "Fourth Five-Year Plan"],
+    "options_ta": ["முதல் ஐந்தாண்டு திட்டம்", "இரண்டாவது ஐந்தாண்டு திட்டம்", "மூன்றாவது ஐந்தாண்டு திட்டம்", "நான்காவது ஐந்தாண்டு திட்டம்"],
+    "answer_en": "First Five-Year Plan",
+    "answer_ta": "முதல் ஐந்தாண்டு திட்டம்"
+  },
+  {
+    "question_en": "Which economist is associated with Keynesian theory?",
+    "question_ta": "கெய்ன்சியன் கோட்பாட்டுடன் தொடர்புடைய பொருளாதார நிபுணர் யார்?",
+    "options_en": ["Adam Smith", "Marshall", "Ricardo", "Keynes"],
+    "options_ta": ["ஆடம் ஸ்மித்", "மார்ஷல்", "ரிக்கார்டோ", "கெய்ன்ஸ்"],
+    "answer_en": "Keynes",
+    "answer_ta": "கெய்ன்ஸ்"
+  },
+  {
+    "question_en": "Which indicator measures literacy rate?",
+    "question_ta": "எந்த குறியீடு கல்வியறிவு விகிதத்தை அளக்கிறது?",
+    "options_en": ["CPI", "HDI", "GDP", "NDP"],
+    "options_ta": ["சிபிஐ", "மனித வள குறியீடு (HDI)", "மொத்த உள்நாட்டு உற்பத்தி", "நிகர உள்நாட்டு உற்பத்தி"],
+    "answer_en": "HDI",
+    "answer_ta": "மனித வள குறியீடு (HDI)"
+  },
+  {
+    "question_en": "Which is an example of renewable resource?",
+    "question_ta": "மீண்டும் பயன்படுத்தக்கூடிய வளத்தின் உதாரணம் எது?",
+    "options_en": ["Coal", "Petroleum", "Solar energy", "Natural gas"],
+    "options_ta": ["நிலக்கரி", "எரிபொருள்", "சூரிய ஆற்றல்", "இயற்கை எரிவாயு"],
+    "answer_en": "Solar energy",
+    "answer_ta": "சூரிய ஆற்றல்"
+  },
+  {
+    "question_en": "Which sector contributes maximum to India’s GDP now?",
+    "question_ta": "இந்தியாவின் மொத்த உள்நாட்டு உற்பத்திக்கு தற்போது அதிக பங்களிப்பு செய்யும் துறை எது?",
+    "options_en": ["Agriculture", "Industry", "Service sector", "Mining"],
+    "options_ta": ["விவசாயம்", "தொழில்", "சேவைத் துறை", "சுரங்கம்"],
+    "answer_en": "Service sector",
+    "answer_ta": "சேவைத் துறை"
+  },
+  {
+    "question_en": "Which is an example of invisible trade?",
+    "question_ta": "கண்ணுக்குத் தெரியாத வர்த்தகத்தின் உதாரணம் எது?",
+    "options_en": ["Export of textiles", "Import of machinery", "Tourism services", "Export of rice"],
+    "options_ta": ["நூல் ஏற்றுமதி", "இயந்திர இறக்குமதி", "சுற்றுலா சேவைகள்", "அரிசி ஏற்றுமதி"],
+    "answer_en": "Tourism services",
+    "answer_ta": "சுற்றுலா சேவைகள்"
+  },
+  {
+    "question_en": "Which sector is called the backbone of Indian economy?",
+    "question_ta": "இந்திய பொருளாதாரத்தின் முதுகெலும்பு என்று அழைக்கப்படும் துறை எது?",
+    "options_en": ["Agriculture", "Industry", "Service", "Banking"],
+    "options_ta": ["விவசாயம்", "தொழில்", "சேவை", "வங்கி"],
+    "answer_en": "Agriculture",
+    "answer_ta": "விவசாயம்"
+  }
+]

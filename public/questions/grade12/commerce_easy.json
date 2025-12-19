@@ -1,0 +1,298 @@
+[
+  {
+    "question_en": "Commerce is mainly concerned with?",
+    "question_ta": "வர்த்தகம் (Commerce) பெரும்பாலும் எதைக் குறிக்கிறது?",
+    "options_en": ["Production", "Distribution of goods and services", "Consumption", "Farming"],
+    "options_ta": ["உற்பத்தி", "பொருட்கள் மற்றும் சேவைகளின் விநியோகம்", "நுகர்வு", "விவசாயம்"],
+    "answer_en": "Distribution of goods and services",
+    "answer_ta": "பொருட்கள் மற்றும் சேவைகளின் விநியோகம்"
+  },
+  {
+    "question_en": "Who is called the father of economics?",
+    "question_ta": "பொருளாதாரத்தின் தந்தை என்று யாரை அழைக்கிறார்கள்?",
+    "options_en": ["Adam Smith", "Karl Marx", "Alfred Marshall", "J. M. Keynes"],
+    "options_ta": ["ஆடம் ஸ்மித்", "கார்ல் மார்க்ஸ்", "ஆல்பிரெட் மார்ஷல்", "ஜே. எம். கெய்ன்ஸ்"],
+    "answer_en": "Adam Smith",
+    "answer_ta": "ஆடம் ஸ்மித்"
+  },
+  {
+    "question_en": "Which is an auxiliary to trade?",
+    "question_ta": "வர்த்தகத்துக்குத் துணை (Auxiliary) எது?",
+    "options_en": ["Banking", "Mining", "Agriculture", "Fishing"],
+    "options_ta": ["வங்கி", "சுரங்கம்", "விவசாயம்", "மீன்பிடித்தொழில்"],
+    "answer_en": "Banking",
+    "answer_ta": "வங்கி"
+  },
+  {
+    "question_en": "The process of making goods available to consumers is?",
+    "question_ta": "பொருட்களை நுகர்வோருக்கு கொண்டு சேர்ப்பது எது?",
+    "options_en": ["Production", "Distribution", "Exchange", "Consumption"],
+    "options_ta": ["உற்பத்தி", "விநியோகம்", "மாற்றம்", "நுகர்வு"],
+    "answer_en": "Distribution",
+    "answer_ta": "விநியோகம்"
+  },
+  {
+    "question_en": "Which of the following is not a type of trade?",
+    "question_ta": "கீழ்கண்டவற்றில் எது வர்த்தகத்தின் வகையல்ல?",
+    "options_en": ["Home trade", "Foreign trade", "Auxiliary trade", "Wholesale trade"],
+    "options_ta": ["உள்நாட்டு வர்த்தகம்", "வெளிநாட்டு வர்த்தகம்", "வர்த்தகத்திற்குத் துணை", "மொத்த வர்த்தகம்"],
+    "answer_en": "Auxiliary trade",
+    "answer_ta": "வர்த்தகத்திற்குத் துணை"
+  },
+  {
+    "question_en": "Foreign trade is also known as?",
+    "question_ta": "வெளிநாட்டு வர்த்தகம் மேலும் எவ்வாறு அழைக்கப்படுகிறது?",
+    "options_en": ["Domestic trade", "International trade", "Retail trade", "Internal trade"],
+    "options_ta": ["உள்நாட்டு வர்த்தகம்", "சர்வதேச வர்த்தகம்", "சில்லரை வர்த்தகம்", "உள்ளூர் வர்த்தகம்"],
+    "answer_en": "International trade",
+    "answer_ta": "சர்வதேச வர்த்தகம்"
+  },
+  {
+    "question_en": "Warehousing removes the hindrance of?",
+    "question_ta": "கிடங்கீடு (Warehousing) எந்த தடையை நீக்குகிறது?",
+    "options_en": ["Time", "Place", "Risk", "Finance"],
+    "options_ta": ["நேரம்", "இடம்", "ஆபத்து", "நிதி"],
+    "answer_en": "Time",
+    "answer_ta": "நேரம்"
+  },
+  {
+    "question_en": "Insurance is a remedy for?",
+    "question_ta": "காப்பீடு (Insurance) எதற்கான பாதுகாப்பு?",
+    "options_en": ["Uncertainty", "Profit", "Time", "Space"],
+    "options_ta": ["நிச்சயமின்மை", "லாபம்", "நேரம்", "இடம்"],
+    "answer_en": "Uncertainty",
+    "answer_ta": "நிச்சயமின்மை"
+  },
+  {
+    "question_en": "Banking removes the hindrance of?",
+    "question_ta": "வங்கி எந்த தடையை நீக்குகிறது?",
+    "options_en": ["Place", "Finance", "Time", "Risk"],
+    "options_ta": ["இடம்", "நிதி", "நேரம்", "ஆபத்து"],
+    "answer_en": "Finance",
+    "answer_ta": "நிதி"
+  },
+  {
+    "question_en": "Retail trade means selling goods to?",
+    "question_ta": "சில்லரை வியாபாரம் என்பது யாருக்கு விற்பனை செய்வது?",
+    "options_en": ["Wholesalers", "Consumers", "Manufacturers", "Exporters"],
+    "options_ta": ["மொத்த வியாபாரிகள்", "நுகர்வோர்", "உற்பத்தியாளர்கள்", "ஏற்றுமதியாளர்கள்"],
+    "answer_en": "Consumers",
+    "answer_ta": "நுகர்வோர்"
+  },
+  {
+    "question_en": "Wholesale trade means selling goods to?",
+    "question_ta": "மொத்த வியாபாரம் என்பது யாருக்கு விற்பனை செய்வது?",
+    "options_en": ["Consumers", "Retailers", "Farmers", "Employees"],
+    "options_ta": ["நுகர்வோர்", "சில்லரை வியாபாரிகள்", "விவசாயிகள்", "ஊழியர்கள்"],
+    "answer_en": "Retailers",
+    "answer_ta": "சில்லரை வியாபாரிகள்"
+  },
+  {
+    "question_en": "Which of the following is an example of internal trade?",
+    "question_ta": "கீழ்கண்டவற்றில் எது உள்நாட்டு வர்த்தகத்தின் உதாரணம்?",
+    "options_en": ["Export", "Import", "Trade within country", "Foreign trade"],
+    "options_ta": ["ஏற்றுமதி", "இறக்குமதி", "நாட்டுக்குள் வர்த்தகம்", "வெளிநாட்டு வர்த்தகம்"],
+    "answer_en": "Trade within country",
+    "answer_ta": "நாட்டுக்குள் வர்த்தகம்"
+  },
+  {
+    "question_en": "Who is the middleman between producer and consumer?",
+    "question_ta": "உற்பத்தியாளர் மற்றும் நுகர்வோருக்கு இடையே உள்ள நடுவர் யார்?",
+    "options_en": ["Wholesaler", "Retailer", "Banker", "Government"],
+    "options_ta": ["மொத்த வியாபாரி", "சில்லரை வியாபாரி", "வங்கியாளர்", "அரசு"],
+    "answer_en": "Retailer",
+    "answer_ta": "சில்லரை வியாபாரி"
+  },
+  {
+    "question_en": "The hindrance of place is removed by?",
+    "question_ta": "இடத் தடையை நீக்குவது எது?",
+    "options_en": ["Banking", "Transport", "Insurance", "Warehousing"],
+    "options_ta": ["வங்கி", "போக்குவரத்து", "காப்பீடு", "கிடங்கீடு"],
+    "answer_en": "Transport",
+    "answer_ta": "போக்குவரத்து"
+  },
+  {
+    "question_en": "Sea transport is mainly classified into?",
+    "question_ta": "கடல் போக்குவரத்து எவ்வாறு வகைப்படுத்தப்படுகிறது?",
+    "options_en": ["Inland and foreign", "Coastal and foreign", "Road and rail", "Public and private"],
+    "options_ta": ["உள்ளூர் மற்றும் வெளிநாட்டு", "கரையோர மற்றும் வெளிநாட்டு", "சாலை மற்றும் ரயில்", "அரசு மற்றும் தனியார்"],
+    "answer_en": "Coastal and foreign",
+    "answer_ta": "கரையோர மற்றும் வெளிநாட்டு"
+  },
+  {
+    "question_en": "The cheapest mode of transport is?",
+    "question_ta": "மிகக் குறைந்த செலவிலான போக்குவரத்து முறை எது?",
+    "options_en": ["Airways", "Roadways", "Waterways", "Railways"],
+    "options_ta": ["விமானப்பாதை", "சாலை", "நீர்வழி", "ரயில்"],
+    "answer_en": "Waterways",
+    "answer_ta": "நீர்வழி"
+  },
+  {
+    "question_en": "Which one is a mode of e-commerce?",
+    "question_ta": "e-commerce இன் ஒரு முறை எது?",
+    "options_en": ["B2B", "B2C", "C2C", "All of these"],
+    "options_ta": ["B2B", "B2C", "C2C", "மேலே உள்ள அனைத்தும்"],
+    "answer_en": "All of these",
+    "answer_ta": "மேலே உள்ள அனைத்தும்"
+  },
+  {
+    "question_en": "Which of the following is an example of B2C e-commerce?",
+    "question_ta": "B2C e-commerce உதாரணம் எது?",
+    "options_en": ["Amazon", "Ola", "Uber", "All of these"],
+    "options_ta": ["அமேசான்", "ஓலா", "உபர்", "மேலே உள்ள அனைத்தும்"],
+    "answer_en": "All of these",
+    "answer_ta": "மேலே உள்ள அனைத்தும்"
+  },
+  {
+    "question_en": "Which transport is most suitable for perishable goods?",
+    "question_ta": "விரைவில் கெடும் பொருட்களுக்கு ஏற்ற போக்குவரத்து எது?",
+    "options_en": ["Air", "Rail", "Road", "Sea"],
+    "options_ta": ["விமானம்", "ரயில்", "சாலை", "கடல்"],
+    "answer_en": "Air",
+    "answer_ta": "விமானம்"
+  },
+  {
+    "question_en": "Which insurance covers loss by fire?",
+    "question_ta": "தீயால் ஏற்படும் இழப்பை எந்தக் காப்பீடு காப்பாற்றும்?",
+    "options_en": ["Life insurance", "Marine insurance", "Fire insurance", "Health insurance"],
+    "options_ta": ["உயிர் காப்பீடு", "கடல் காப்பீடு", "தீக் காப்பீடு", "சுகாதார காப்பீடு"],
+    "answer_en": "Fire insurance",
+    "answer_ta": "தீக் காப்பீடு"
+  },
+  {
+    "question_en": "Marine insurance covers?",
+    "question_ta": "கடல் காப்பீடு எதைக் காப்பாற்றும்?",
+    "options_en": ["Life", "Goods in sea transit", "Building", "Health"],
+    "options_ta": ["உயிர்", "கடல் போக்குவரத்தில் பொருட்கள்", "கட்டிடம்", "சுகாதாரம்"],
+    "answer_en": "Goods in sea transit",
+    "answer_ta": "கடல் போக்குவரத்தில் பொருட்கள்"
+  },
+  {
+    "question_en": "LIC stands for?",
+    "question_ta": "LIC என்பதன் விரிவாக்கம் என்ன?",
+    "options_en": ["Life Insurance Corporation", "Loan Insurance Company", "Limited Insurance Corporation", "Life Investment Company"],
+    "options_ta": ["லைஃப் இன்சூரன்ஸ் கார்ப்பரேஷன்", "லோன் இன்சூரன்ஸ் கம்பெனி", "லிமிட்டெட் இன்சூரன்ஸ் கார்ப்பரேஷன்", "லைஃப் இன்வெஸ்ட்மென்ட் கம்பெனி"],
+    "answer_en": "Life Insurance Corporation",
+    "answer_ta": "லைஃப் இன்சூரன்ஸ் கார்ப்பரேஷன்"
+  },
+  {
+    "question_en": "MSME stands for?",
+    "question_ta": "MSME என்பதன் விரிவாக்கம் என்ன?",
+    "options_en": ["Micro, Small and Medium Enterprises", "Medium Small Market Enterprises", "Micro Small Market Economy", "Micro Small Manufacturing Enterprises"],
+    "options_ta": ["மைக்ரோ, சிறு மற்றும் நடுத்தர நிறுவனங்கள்", "மிதமான சிறு சந்தை நிறுவனங்கள்", "மைக்ரோ சிறு சந்தை பொருளாதாரம்", "மைக்ரோ சிறு உற்பத்தி நிறுவனங்கள்"],
+    "answer_en": "Micro, Small and Medium Enterprises",
+    "answer_ta": "மைக்ரோ, சிறு மற்றும் நடுத்தர நிறுவனங்கள்"
+  },
+  {
+    "question_en": "Which is the apex bank of India?",
+    "question_ta": "இந்தியாவின் உச்ச வங்கி எது?",
+    "options_en": ["SBI", "RBI", "ICICI", "IDBI"],
+    "options_ta": ["எஸ்.பி.ஐ", "ஆர்பிஐ", "ஐ.சி.ஐ.சி.ஐ", "ஐ.டி.பி.ஐ"],
+    "answer_en": "RBI",
+    "answer_ta": "ஆர்பிஐ"
+  },
+  {
+    "question_en": "Headquarters of RBI is located at?",
+    "question_ta": "ஆர்பிஐ தலைமையகம் எங்கு அமைந்துள்ளது?",
+    "options_en": ["Delhi", "Kolkata", "Mumbai", "Chennai"],
+    "options_ta": ["தில்லி", "கொல்கத்தா", "மும்பை", "சென்னை"],
+    "answer_en": "Mumbai",
+    "answer_ta": "மும்பை"
+  },
+  {
+    "question_en": "Which bank is known as banker’s bank?",
+    "question_ta": "எந்த வங்கியை வங்கிகளின் வங்கி என்று அழைக்கப்படுகிறது?",
+    "options_en": ["SBI", "RBI", "ICICI", "HDFC"],
+    "options_ta": ["எஸ்.பி.ஐ", "ஆர்பிஐ", "ஐ.சி.ஐ.சி.ஐ", "எச்.டி.எஃப்சி"],
+    "answer_en": "RBI",
+    "answer_ta": "ஆர்பிஐ"
+  },
+  {
+    "question_en": "E-banking means?",
+    "question_ta": "E-banking என்பதன் பொருள் என்ன?",
+    "options_en": ["Electronic banking", "Easy banking", "Emergency banking", "European banking"],
+    "options_ta": ["மின்சார வங்கி", "எளிய வங்கி", "அவசர வங்கி", "ஐரோப்பிய வங்கி"],
+    "answer_en": "Electronic banking",
+    "answer_ta": "மின்சார வங்கி"
+  },
+  {
+    "question_en": "PAN card is issued by?",
+    "question_ta": "PAN அட்டை யாரால் வழங்கப்படுகிறது?",
+    "options_en": ["Income Tax Department", "RBI", "LIC", "SEBI"],
+    "options_ta": ["வருமான வரித்துறை", "ஆர்பிஐ", "எல்.ஐ.சி", "செபி"],
+    "answer_en": "Income Tax Department",
+    "answer_ta": "வருமான வரித்துறை"
+  },
+  {
+    "question_en": "SEBI regulates?",
+    "question_ta": "செபி (SEBI) எதை கட்டுப்படுத்துகிறது?",
+    "options_en": ["Insurance", "Stock Market", "Banking", "Foreign Trade"],
+    "options_ta": ["காப்பீடு", "பங்கு சந்தை", "வங்கி", "வெளிநாட்டு வர்த்தகம்"],
+    "answer_en": "Stock Market",
+    "answer_ta": "பங்கு சந்தை"
+  },
+  {
+    "question_en": "GST stands for?",
+    "question_ta": "GST என்பதன் விரிவாக்கம் என்ன?",
+    "options_en": ["General Sales Tax", "Goods and Services Tax", "Government Sales Tax", "Global Sales Tax"],
+    "options_ta": ["ஜெனரல் சேல்ஸ் டாக்ஸ்", "பொருட்கள் மற்றும் சேவைகள் வரி", "அரசு சேல்ஸ் டாக்ஸ்", "உலகளாவிய சேல்ஸ் டாக்ஸ்"],
+    "answer_en": "Goods and Services Tax",
+    "answer_ta": "பொருட்கள் மற்றும் சேவைகள் வரி"
+  },
+  {
+    "question_en": "Which one is an indirect tax?",
+    "question_ta": "கீழ்கண்டவற்றில் எது மறைமுக வரி?",
+    "options_en": ["Income tax", "Property tax", "GST", "Wealth tax"],
+    "options_ta": ["வருமானவரி", "சொத்துவரி", "ஜி.எஸ்.டி", "செல்வவரி"],
+    "answer_en": "GST",
+    "answer_ta": "ஜி.எஸ்.டி"
+  },
+  {
+    "question_en": "Who presents the Union Budget in India?",
+    "question_ta": "இந்தியாவில் ஒன்றிய பட்ஜெட்டை யார் சமர்ப்பிக்கிறார்?",
+    "options_en": ["Prime Minister", "Finance Minister", "President", "RBI Governor"],
+    "options_ta": ["பிரதமர்", "நிதி அமைச்சர்", "குடியரசுத் தலைவர்", "ஆர்பிஐ ஆளுநர்"],
+    "answer_en": "Finance Minister",
+    "answer_ta": "நிதி அமைச்சர்"
+  },
+  {
+    "question_en": "Headquarters of WTO is at?",
+    "question_ta": "உலக வர்த்தக அமைப்பின் தலைமையகம் எங்கு அமைந்துள்ளது?",
+    "options_en": ["New York", "Geneva", "Paris", "Delhi"],
+    "options_ta": ["நியூயார்க்", "ஜெனீவா", "பாரிஸ்", "தில்லி"],
+    "answer_en": "Geneva",
+    "answer_ta": "ஜெனீவா"
+  },
+  {
+    "question_en": "IMF stands for?",
+    "question_ta": "IMF என்பதன் விரிவாக்கம் என்ன?",
+    "options_en": ["Indian Monetary Fund", "International Monetary Fund", "Internal Money Fund", "International Market Fund"],
+    "options_ta": ["இந்திய நாணய நிதியம்", "சர்வதேச நாணய நிதியம்", "உள்நாட்டு பண நிதியம்", "சர்வதேச சந்தை நிதியம்"],
+    "answer_en": "International Monetary Fund",
+    "answer_ta": "சர்வதேச நாணய நிதியம்"
+  },
+  {
+    "question_en": "Which of the following is a trade barrier?",
+    "question_ta": "கீழ்கண்டவற்றில் எது வர்த்தகத் தடையாகும்?",
+    "options_en": ["Tariff", "Free trade", "Globalisation", "Liberalisation"],
+    "options_ta": ["சுங்கவரி", "சுதந்திர வர்த்தகம்", "உலகமயமாக்கல்", "இலவசம்"],
+    "answer_en": "Tariff",
+    "answer_ta": "சுங்கவரி"
+  },
+  {
+    "question_en": "Which is an example of warehousing?",
+    "question_ta": "கிடங்கீட்டின் ஒரு உதாரணம் எது?",
+    "options_en": ["Cold storage", "Shopping mall", "ATM", "Hospital"],
+    "options_ta": ["குளிர் கிடங்கு", "ஷாப்பிங் மால்", "ஏ.டி.எம்", "மருத்துவமனை"],
+    "answer_en": "Cold storage",
+    "answer_ta": "குளிர் கிடங்கு"
+  },
+  {
+    "question_en": "Which one is a commercial bank?",
+    "question_ta": "கீழ்கண்டவற்றில் எது வணிக வங்கி?",
+    "options_en": ["RBI", "SBI", "SEBI", "IRDAI"],
+    "options_ta": ["ஆர்பிஐ", "எஸ்.பி.ஐ", "செபி", "ஐ.ஆர்.டி.ஐ"],
+    "answer_en": "SBI",
+    "answer_ta": "எஸ்.பி.ஐ"
+  }
+]

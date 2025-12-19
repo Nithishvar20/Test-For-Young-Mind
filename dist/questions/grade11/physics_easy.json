@@ -1,0 +1,290 @@
+[
+  {
+    "question_en": "What is the SI unit of force?",
+    "question_ta": "விசையின் SI அலகு என்ன?",
+    "options_en": ["Joule", "Newton", "Watt", "Pascal"],
+    "options_ta": ["ஜூல்", "நியூட்டன்", "வாட்", "பாஸ்கல்"],
+    "answer_en": "Newton",
+    "answer_ta": "நியூட்டன்"
+  },
+  {
+    "question_en": "What is the speed of light in vacuum?",
+    "question_ta": "வெற்றிடத்தில் ஒளியின் வேகம் என்ன?",
+    "options_en": ["3 × 10^6 m/s", "3 × 10^8 m/s", "3 × 10^10 m/s", "3 × 10^5 km/s"],
+    "options_ta": ["3 × 10^6 மீ/விநா", "3 × 10^8 மீ/விநா", "3 × 10^10 மீ/விநா", "3 × 10^5 கிமீ/விநா"],
+    "answer_en": "3 × 10^8 m/s",
+    "answer_ta": "3 × 10^8 மீ/விநா"
+  },
+  {
+    "question_en": "What is the SI unit of energy?",
+    "question_ta": "ஆற்றலின் SI அலகு என்ன?",
+    "options_en": ["Newton", "Watt", "Joule", "Calorie"],
+    "options_ta": ["நியூட்டன்", "வாட்", "ஜூல்", "காலரி"],
+    "answer_en": "Joule",
+    "answer_ta": "ஜூல்"
+  },
+  {
+    "question_en": "Who is known as the Father of Modern Physics?",
+    "question_ta": "நவீன இயற்பியலின் தந்தை என்று அழைக்கப்படுபவர் யார்?",
+    "options_en": ["Newton", "Einstein", "Galileo", "Maxwell"],
+    "options_ta": ["நியூட்டன்", "ஆயின்ஸ்டீன்", "கலிலியோ", "மேக்ஸ்வெல்"],
+    "answer_en": "Albert Einstein",
+    "answer_ta": "ஆல்பர்ட் ஆயின்ஸ்டீன்"
+  },
+  {
+    "question_en": "Which instrument is used to measure electric current?",
+    "question_ta": "மின்நடையை அளவிட எந்த கருவி பயன்படுத்தப்படுகிறது?",
+    "options_en": ["Voltmeter", "Ammeter", "Ohmmeter", "Galvanometer"],
+    "options_ta": ["வோல்ட்மீட்டர்", "அமீட்டர்", "ஓம்மீட்டர்", "கல்வனோமீட்டர்"],
+    "answer_en": "Ammeter",
+    "answer_ta": "அமீட்டர்"
+  },
+  {
+    "question_en": "What is the unit of frequency?",
+    "question_ta": "அதிர்வெண் அலகு என்ன?",
+    "options_en": ["Hertz", "Watt", "Newton", "Tesla"],
+    "options_ta": ["ஹெர்ட்ஸ்", "வாட்", "நியூட்டன்", "டெஸ்லா"],
+    "answer_en": "Hertz",
+    "answer_ta": "ஹெர்ட்ஸ்"
+  },
+  {
+    "question_en": "Which law states that F = ma?",
+    "question_ta": "F = ma என்று கூறும் சட்டம் எது?",
+    "options_en": ["Newton’s First Law", "Newton’s Second Law", "Newton’s Third Law", "Law of Gravitation"],
+    "options_ta": ["நியூட்டனின் முதல் சட்டம்", "நியூட்டனின் இரண்டாம் சட்டம்", "நியூட்டனின் மூன்றாம் சட்டம்", "இரப்புச் சட்டம்"],
+    "answer_en": "Newton’s Second Law",
+    "answer_ta": "நியூட்டனின் இரண்டாம் சட்டம்"
+  },
+  {
+    "question_en": "What is the acceleration due to gravity on Earth?",
+    "question_ta": "பூமியில் ஈர்ப்பு துரிதம் என்ன?",
+    "options_en": ["8.8 m/s²", "9.8 m/s²", "10 m/s²", "9 m/s²"],
+    "options_ta": ["8.8 மீ/விநா²", "9.8 மீ/விநா²", "10 மீ/விநா²", "9 மீ/விநா²"],
+    "answer_en": "9.8 m/s²",
+    "answer_ta": "9.8 மீ/விநா²"
+  },
+  {
+    "question_en": "What is the SI unit of pressure?",
+    "question_ta": "அழுத்தத்தின் SI அலகு என்ன?",
+    "options_en": ["Joule", "Pascal", "Newton", "Watt"],
+    "options_ta": ["ஜூல்", "பாஸ்கல்", "நியூட்டன்", "வாட்"],
+    "answer_en": "Pascal",
+    "answer_ta": "பாஸ்கல்"
+  },
+  {
+    "question_en": "Which quantity is measured in ohms?",
+    "question_ta": "ஓம்களில் அளவிடப்படும் அளவு எது?",
+    "options_en": ["Resistance", "Current", "Voltage", "Power"],
+    "options_ta": ["எதிர்ப்பு", "மின்நடை", "மின்னழுத்தம்", "சக்தி"],
+    "answer_en": "Resistance",
+    "answer_ta": "எதிர்ப்பு"
+  },
+  {
+    "question_en": "Which mirror is used in vehicle headlights?",
+    "question_ta": "வாகன முன்னொளியில் எந்தக் கண்ணாடி பயன்படுத்தப்படுகிறது?",
+    "options_en": ["Concave mirror", "Convex mirror", "Plane mirror", "Spherical mirror"],
+    "options_ta": ["உள்ளவளைந்த கண்ணாடி", "வெளிவளைந்த கண்ணாடி", "சமவெளி கண்ணாடி", "கோள கண்ணாடி"],
+    "answer_en": "Concave mirror",
+    "answer_ta": "உள்ளவளைந்த கண்ணாடி"
+  },
+  {
+    "question_en": "What is the SI unit of electric charge?",
+    "question_ta": "மின்னேற்றத்தின் SI அலகு என்ன?",
+    "options_en": ["Volt", "Coulomb", "Ohm", "Ampere"],
+    "options_ta": ["வோல்ட்", "கூலோம்", "ஓம்", "அம்பியர்"],
+    "answer_en": "Coulomb",
+    "answer_ta": "கூலோம்"
+  },
+  {
+    "question_en": "Which law explains why we need to wear seat belts?",
+    "question_ta": "நாம் சீட் பெல்ட் அணிய வேண்டியது எது சட்டத்தால் விளக்கப்படுகிறது?",
+    "options_en": ["Newton’s First Law", "Newton’s Second Law", "Newton’s Third Law", "Law of Gravitation"],
+    "options_ta": ["நியூட்டனின் முதல் சட்டம்", "நியூட்டனின் இரண்டாம் சட்டம்", "நியூட்டனின் மூன்றாம் சட்டம்", "இரப்புச் சட்டம்"],
+    "answer_en": "Newton’s First Law",
+    "answer_ta": "நியூட்டனின் முதல் சட்டம்"
+  },
+  {
+    "question_en": "What is the unit of power?",
+    "question_ta": "சக்தியின் அலகு என்ன?",
+    "options_en": ["Joule", "Watt", "Volt", "Newton"],
+    "options_ta": ["ஜூல்", "வாட்", "வோல்ட்", "நியூட்டன்"],
+    "answer_en": "Watt",
+    "answer_ta": "வாட்"
+  },
+  {
+    "question_en": "What is the SI unit of work?",
+    "question_ta": "வேலையின் SI அலகு என்ன?",
+    "options_en": ["Newton", "Joule", "Watt", "Calorie"],
+    "options_ta": ["நியூட்டன்", "ஜூல்", "வாட்", "காலரி"],
+    "answer_en": "Joule",
+    "answer_ta": "ஜூல்"
+  },
+  {
+    "question_en": "What is the unit of electric potential difference?",
+    "question_ta": "மின்னழுத்த வித்தியாசத்தின் அலகு என்ன?",
+    "options_en": ["Volt", "Watt", "Coulomb", "Ohm"],
+    "options_ta": ["வோல்ட்", "வாட்", "கூலோம்", "ஓம்"],
+    "answer_en": "Volt",
+    "answer_ta": "வோல்ட்"
+  },
+  {
+    "question_en": "What is the SI unit of mass?",
+    "question_ta": "பருமனின் SI அலகு என்ன?",
+    "options_en": ["Gram", "Kilogram", "Newton", "Ton"],
+    "options_ta": ["கிராம்", "கிலோ கிராம்", "நியூட்டன்", "டன்"],
+    "answer_en": "Kilogram",
+    "answer_ta": "கிலோ கிராம்"
+  },
+  {
+    "question_en": "What is the SI unit of length?",
+    "question_ta": "நீளத்தின் SI அலகு என்ன?",
+    "options_en": ["Metre", "Centimetre", "Kilometre", "Millimetre"],
+    "options_ta": ["மீட்டர்", "செ.மீ", "கி.மீ", "மி.மீ"],
+    "answer_en": "Metre",
+    "answer_ta": "மீட்டர்"
+  },
+  {
+    "question_en": "Which device converts electrical energy into mechanical energy?",
+    "question_ta": "மின்சார ஆற்றலை இயந்திர ஆற்றலாக மாற்றும் கருவி எது?",
+    "options_en": ["Generator", "Motor", "Transformer", "Battery"],
+    "options_ta": ["ஜெனரேட்டர்", "மோட்டார்", "டிரான்ஸ்ஃபார்மர்", "பேட்டரி"],
+    "answer_en": "Motor",
+    "answer_ta": "மோட்டார்"
+  },
+  {
+    "question_en": "Which device converts mechanical energy into electrical energy?",
+    "question_ta": "இயந்திர ஆற்றலை மின்சார ஆற்றலாக மாற்றும் கருவி எது?",
+    "options_en": ["Motor", "Generator", "Battery", "Transformer"],
+    "options_ta": ["மோட்டார்", "ஜெனரேட்டர்", "பேட்டரி", "டிரான்ஸ்ஃபார்மர்"],
+    "answer_en": "Generator",
+    "answer_ta": "ஜெனரேட்டர்"
+  },
+  {
+    "question_en": "Which type of mirror is used as a rear view mirror in vehicles?",
+    "question_ta": "வாகனங்களில் பின்பார்வைக் கண்ணாடியாக எந்த வகை கண்ணாடி பயன்படுத்தப்படுகிறது?",
+    "options_en": ["Concave", "Convex", "Plane", "Spherical"],
+    "options_ta": ["உள்ளவளைந்த", "வெளிவளைந்த", "சமவெளி", "கோள"],
+    "answer_en": "Convex",
+    "answer_ta": "வெளிவளைந்த"
+  },
+  {
+    "question_en": "What is the unit of electric current?",
+    "question_ta": "மின்நடையின் அலகு என்ன?",
+    "options_en": ["Volt", "Ampere", "Coulomb", "Ohm"],
+    "options_ta": ["வோல்ட்", "அம்பியர்", "கூலோம்", "ஓம்"],
+    "answer_en": "Ampere",
+    "answer_ta": "அம்பியர்"
+  },
+  {
+    "question_en": "Which physical quantity is measured in Tesla?",
+    "question_ta": "டெஸ்லா என்ற அலகில் அளவிடப்படும் இயற்பியல் அளவு எது?",
+    "options_en": ["Magnetic field", "Force", "Energy", "Power"],
+    "options_ta": ["காந்தப் புலம்", "விசை", "ஆற்றல்", "சக்தி"],
+    "answer_en": "Magnetic field",
+    "answer_ta": "காந்தப் புலம்"
+  },
+  {
+    "question_en": "Which type of lens is used to correct myopia?",
+    "question_ta": "மையோப்பியாவை சரிசெய்ய எந்த வகை லென்ஸ் பயன்படுத்தப்படுகிறது?",
+    "options_en": ["Convex lens", "Concave lens", "Cylindrical lens", "Plano lens"],
+    "options_ta": ["வெளிவளைந்த லென்ஸ்", "உள்ளவளைந்த லென்ஸ்", "சிலிண்டிரிக்கல் லென்ஸ்", "சம லென்ஸ்"],
+    "answer_en": "Concave lens",
+    "answer_ta": "உள்ளவளைந்த லென்ஸ்"
+  },
+  {
+    "question_en": "What is the SI unit of velocity?",
+    "question_ta": "வேகத்தின் SI அலகு என்ன?",
+    "options_en": ["m/s", "m/s²", "km/h", "cm/s"],
+    "options_ta": ["மீ/விநா", "மீ/விநா²", "கி.மீ/மணி", "செ.மீ/விநா"],
+    "answer_en": "m/s",
+    "answer_ta": "மீ/விநா"
+  },
+  {
+    "question_en": "Which physical quantity is measured in Joule?",
+    "question_ta": "ஜூல் என்ற அலகில் அளவிடப்படும் அளவு எது?",
+    "options_en": ["Force", "Energy", "Pressure", "Power"],
+    "options_ta": ["விசை", "ஆற்றல்", "அழுத்தம்", "சக்தி"],
+    "answer_en": "Energy",
+    "answer_ta": "ஆற்றல்"
+  },
+  {
+    "question_en": "What is the SI unit of temperature?",
+    "question_ta": "வெப்பநிலையின் SI அலகு என்ன?",
+    "options_en": ["Celsius", "Kelvin", "Fahrenheit", "Joule"],
+    "options_ta": ["செல்சியஸ்", "கெல்வின்", "பாரன்ஹீட்", "ஜூல்"],
+    "answer_en": "Kelvin",
+    "answer_ta": "கெல்வின்"
+  },
+  {
+    "question_en": "Which lens is used to correct hypermetropia?",
+    "question_ta": "ஹைப்பர்மெட்ரோப்பியாவை சரிசெய்ய எந்த லென்ஸ் பயன்படுத்தப்படுகிறது?",
+    "options_en": ["Concave lens", "Convex lens", "Plano lens", "Cylindrical lens"],
+    "options_ta": ["உள்ளவளைந்த லென்ஸ்", "வெளிவளைந்த லென்ஸ்", "சம லென்ஸ்", "சிலிண்டிரிக்கல் லென்ஸ்"],
+    "answer_en": "Convex lens",
+    "answer_ta": "வெளிவளைந்த லென்ஸ்"
+  },
+  {
+    "question_en": "Which scientist proposed the theory of relativity?",
+    "question_ta": "சார்பியல் கோட்பாட்டை முன்வைத்த விஞ்ஞானி யார்?",
+    "options_en": ["Newton", "Einstein", "Galileo", "Kepler"],
+    "options_ta": ["நியூட்டன்", "ஆயின்ஸ்டீன்", "கலிலியோ", "கெப்லர்"],
+    "answer_en": "Einstein",
+    "answer_ta": "ஆயின்ஸ்டீன்"
+  },
+  {
+    "question_en": "What is the SI unit of time?",
+    "question_ta": "நேரத்தின் SI அலகு என்ன?",
+    "options_en": ["Minute", "Hour", "Second", "Millisecond"],
+    "options_ta": ["நிமிடம்", "மணி", "வினாடி", "மில்லி வினாடி"],
+    "answer_en": "Second",
+    "answer_ta": "வினாடி"
+  },
+  {
+    "question_en": "Which instrument measures atmospheric pressure?",
+    "question_ta": "வானழுத்தத்தை அளவிடும் கருவி எது?",
+    "options_en": ["Thermometer", "Barometer", "Voltmeter", "Hygrometer"],
+    "options_ta": ["வெப்பமானி", "பாரோமீட்டர்", "வோல்ட்மீட்டர்", "ஈரப்பதமானி"],
+    "answer_en": "Barometer",
+    "answer_ta": "பாரோமீட்டர்"
+  },
+  {
+    "question_en": "What is the SI unit of luminous intensity?",
+    "question_ta": "ஒளி தீவிரத்தின் SI அலகு என்ன?",
+    "options_en": ["Candela", "Lumen", "Lux", "Watt"],
+    "options_ta": ["காண்டேலா", "லூமன்", "லக்ஸ்", "வாட்"],
+    "answer_en": "Candela",
+    "answer_ta": "காண்டேலா"
+  },
+  {
+    "question_en": "Which mirror always forms a virtual, erect and diminished image?",
+    "question_ta": "எந்தக் கண்ணாடி எப்போதும் பாவனை, நேர் மற்றும் சிறிய உருவம் தரும்?",
+    "options_en": ["Plane mirror", "Concave mirror", "Convex mirror", "Spherical mirror"],
+    "options_ta": ["சமவெளி கண்ணாடி", "உள்ளவளைந்த கண்ணாடி", "வெளிவளைந்த கண்ணாடி", "கோள கண்ணாடி"],
+    "answer_en": "Convex mirror",
+    "answer_ta": "வெளிவளைந்த கண்ணாடி"
+  },
+  {
+    "question_en": "What is the SI unit of electric field?",
+    "question_ta": "மின்புலத்தின் SI அலகு என்ன?",
+    "options_en": ["N/C", "J/C", "W/C", "V/A"],
+    "options_ta": ["N/C", "J/C", "W/C", "V/A"],
+    "answer_en": "N/C",
+    "answer_ta": "N/C"
+  },
+  {
+    "question_en": "What is the SI unit of capacitance?",
+    "question_ta": "திறன் (Capacitance) SI அலகு என்ன?",
+    "options_en": ["Ohm", "Henry", "Farad", "Tesla"],
+    "options_ta": ["ஓம்", "ஹென்றி", "ஃபாரட்", "டெஸ்லா"],
+    "answer_en": "Farad",
+    "answer_ta": "ஃபாரட்"
+  },
+  {
+    "question_en": "What is the SI unit of inductance?",
+    "question_ta": "இண்டக்டன்ஸ் SI அலகு என்ன?",
+    "options_en": ["Farad", "Henry", "Tesla", "Ohm"],
+    "options_ta": ["ஃபாரட்", "ஹென்றி", "டெஸ்லா", "ஓம்"],
+    "answer_en": "Henry",
+    "answer_ta": "ஹென்றி"
+  }
+]

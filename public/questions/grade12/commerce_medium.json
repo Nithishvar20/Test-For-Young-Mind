@@ -1,0 +1,258 @@
+[
+  {
+    "question_en": "Which activity does not come under commerce?",
+    "question_ta": "வர்த்தகத்தில் சேராத செயல் எது?",
+    "options_en": ["Banking", "Warehousing", "Mining", "Insurance"],
+    "options_ta": ["வங்கி", "கிடங்கீடு", "சுரங்கம்", "காப்பீடு"],
+    "answer_en": "Mining",
+    "answer_ta": "சுரங்கம்"
+  },
+  {
+    "question_en": "Internal trade is classified into?",
+    "question_ta": "உள்நாட்டு வர்த்தகம் எவ்வாறு வகைப்படுத்தப்படுகிறது?",
+    "options_en": ["Home trade and foreign trade", "Wholesale and retail trade", "Import and export trade", "Coastal and foreign trade"],
+    "options_ta": ["உள்நாட்டு மற்றும் வெளிநாட்டு வர்த்தகம்", "மொத்த மற்றும் சில்லரை வர்த்தகம்", "இறக்குமதி மற்றும் ஏற்றுமதி", "கரையோர மற்றும் வெளிநாட்டு வர்த்தகம்"],
+    "answer_en": "Wholesale and retail trade",
+    "answer_ta": "மொத்த மற்றும் சில்லரை வர்த்தகம்"
+  },
+  {
+    "question_en": "Which trade connects producers and retailers?",
+    "question_ta": "உற்பத்தியாளர்களையும் சில்லரை வியாபாரிகளையும் இணைக்கும் வர்த்தகம் எது?",
+    "options_en": ["Foreign trade", "Wholesale trade", "Retail trade", "E-commerce"],
+    "options_ta": ["வெளிநாட்டு வர்த்தகம்", "மொத்த வர்த்தகம்", "சில்லரை வர்த்தகம்", "மின்னணு வர்த்தகம்"],
+    "answer_en": "Wholesale trade",
+    "answer_ta": "மொத்த வர்த்தகம்"
+  },
+  {
+    "question_en": "Which is not a function of a wholesaler?",
+    "question_ta": "மொத்த வியாபாரியின் செயல்களில் சேராதது எது?",
+    "options_en": ["Breaking bulk", "Financing retailers", "Selling directly to consumers", "Storage of goods"],
+    "options_ta": ["தொகுதியாக வாங்கி சிறிதாகப் பிரித்தல்", "சில்லரை வியாபாரிகளுக்கு நிதி வழங்கல்", "நுகர்வோருக்கு நேரடியாக விற்பனை செய்தல்", "பொருட்களை சேமித்தல்"],
+    "answer_en": "Selling directly to consumers",
+    "answer_ta": "நுகர்வோருக்கு நேரடியாக விற்பனை செய்தல்"
+  },
+  {
+    "question_en": "Who provides after-sales service to consumers?",
+    "question_ta": "நுகர்வோருக்கு விற்பனைக்குப் பிந்தைய சேவையை யார் வழங்குவார்கள்?",
+    "options_en": ["Wholesaler", "Retailer", "Transporter", "Banker"],
+    "options_ta": ["மொத்த வியாபாரி", "சில்லரை வியாபாரி", "போக்குவரத்தாளர்", "வங்கியாளர்"],
+    "answer_en": "Retailer",
+    "answer_ta": "சில்லரை வியாபாரி"
+  },
+  {
+    "question_en": "Which is a type of retailer?",
+    "question_ta": "சில்லரை வியாபாரியின் ஒரு வகை எது?",
+    "options_en": ["Itinerant trader", "Industrialist", "Producer", "Exporter"],
+    "options_ta": ["சுற்றித் திரியும் வியாபாரி", "தொழிலதிபர்", "உற்பத்தியாளர்", "ஏற்றுமதியாளர்"],
+    "answer_en": "Itinerant trader",
+    "answer_ta": "சுற்றித் திரியும் வியாபாரி"
+  },
+  {
+    "question_en": "Hawkers and pedlars come under?",
+    "question_ta": "ஹாக்கர்கள் மற்றும் பேட்லார்கள் எதற்குள் அடங்குவர்?",
+    "options_en": ["Fixed shop retailers", "Itinerant retailers", "Wholesalers", "Agents"],
+    "options_ta": ["நிலையான கடை சில்லரை வியாபாரிகள்", "சுற்றித் திரியும் சில்லரை வியாபாரிகள்", "மொத்த வியாபாரிகள்", "முகவர்கள்"],
+    "answer_en": "Itinerant retailers",
+    "answer_ta": "சுற்றித் திரியும் சில்லரை வியாபாரிகள்"
+  },
+  {
+    "question_en": "Which is a fixed shop small retailer?",
+    "question_ta": "நிலையான சிறு சில்லரை வியாபாரியின் ஒரு உதாரணம் எது?",
+    "options_en": ["General stores", "Departmental stores", "Chain stores", "Super markets"],
+    "options_ta": ["பொது கடைகள்", "துறை கடைகள்", "சங்கிலி கடைகள்", "சூப்பர் மார்க்கெட்"],
+    "answer_en": "General stores",
+    "answer_ta": "பொது கடைகள்"
+  },
+  {
+    "question_en": "Departmental stores provide?",
+    "question_ta": "துறை கடைகள் எதை வழங்குகின்றன?",
+    "options_en": ["Specialised products", "All types of goods under one roof", "Only groceries", "Only furniture"],
+    "options_ta": ["சிறப்பு பொருட்கள்", "அனைத்து வகை பொருட்கள் ஒரே இடத்தில்", "மளிகை பொருட்கள் மட்டும்", "அமர்த்துப் பொருட்கள் மட்டும்"],
+    "answer_en": "All types of goods under one roof",
+    "answer_ta": "அனைத்து வகை பொருட்கள் ஒரே இடத்தில்"
+  },
+  {
+    "question_en": "Chain stores are also called?",
+    "question_ta": "சங்கிலி கடைகள் மேலும் எவ்வாறு அழைக்கப்படுகின்றன?",
+    "options_en": ["Multiple shops", "Departmental shops", "General shops", "Private shops"],
+    "options_ta": ["பல கடைகள்", "துறை கடைகள்", "பொது கடைகள்", "தனியார் கடைகள்"],
+    "answer_en": "Multiple shops",
+    "answer_ta": "பல கடைகள்"
+  },
+  {
+    "question_en": "Super markets are generally located in?",
+    "question_ta": "சூப்பர் மார்க்கெட்டுகள் பொதுவாக எங்கு அமைக்கப்படுகின்றன?",
+    "options_en": ["Rural areas", "Urban areas", "Villages", "Remote areas"],
+    "options_ta": ["கிராமப்புறங்கள்", "நகர்ப்புறங்கள்", "கிராமங்கள்", "தொலைந்த இடங்கள்"],
+    "answer_en": "Urban areas",
+    "answer_ta": "நகர்ப்புறங்கள்"
+  },
+  {
+    "question_en": "Which is the modern type of retail trade?",
+    "question_ta": "சில்லரை வர்த்தகத்தின் நவீன வகை எது?",
+    "options_en": ["Departmental stores", "Chain stores", "Super markets", "All of these"],
+    "options_ta": ["துறை கடைகள்", "சங்கிலி கடைகள்", "சூப்பர் மார்க்கெட்", "மேலே உள்ள அனைத்தும்"],
+    "answer_en": "All of these",
+    "answer_ta": "மேலே உள்ள அனைத்தும்"
+  },
+  {
+    "question_en": "Which trade removes the hindrance of time?",
+    "question_ta": "நேரத் தடையை நீக்கும் வர்த்தகம் எது?",
+    "options_en": ["Warehousing", "Banking", "Insurance", "Transport"],
+    "options_ta": ["கிடங்கீடு", "வங்கி", "காப்பீடு", "போக்குவரத்து"],
+    "answer_en": "Warehousing",
+    "answer_ta": "கிடங்கீடு"
+  },
+  {
+    "question_en": "Insurance is based on the principle of?",
+    "question_ta": "காப்பீடு எந்தக் கொள்கையின் அடிப்படையில் உள்ளது?",
+    "options_en": ["Certainty", "Uncertainty", "Co-operation", "Mutuality"],
+    "options_ta": ["நிச்சயம்", "நிச்சயமின்மை", "கூட்டு முயற்சி", "பரஸ்பரம்"],
+    "answer_en": "Co-operation",
+    "answer_ta": "கூட்டு முயற்சி"
+  },
+  {
+    "question_en": "Which of the following is not a type of insurance?",
+    "question_ta": "கீழ்கண்டவற்றில் எது காப்பீட்டின் வகையல்ல?",
+    "options_en": ["Life insurance", "Marine insurance", "Property insurance", "Agriculture insurance"],
+    "options_ta": ["உயிர் காப்பீடு", "கடல் காப்பீடு", "சொத்து காப்பீடு", "விவசாய காப்பீடு"],
+    "answer_en": "Property insurance",
+    "answer_ta": "சொத்து காப்பீடு"
+  },
+  {
+    "question_en": "Which bank controls the supply of money in India?",
+    "question_ta": "இந்தியாவில் பண வழங்கலை கட்டுப்படுத்தும் வங்கி எது?",
+    "options_en": ["SBI", "RBI", "ICICI", "IDBI"],
+    "options_ta": ["எஸ்.பி.ஐ", "ஆர்பிஐ", "ஐ.சி.ஐ.சி.ஐ", "ஐ.டி.பி.ஐ"],
+    "answer_en": "RBI",
+    "answer_ta": "ஆர்பிஐ"
+  },
+  {
+    "question_en": "Which bank issues currency notes in India?",
+    "question_ta": "இந்தியாவில் நாணய நோட்டுகளை வெளியிடும் வங்கி எது?",
+    "options_en": ["SBI", "RBI", "ICICI", "NABARD"],
+    "options_ta": ["எஸ்.பி.ஐ", "ஆர்பிஐ", "ஐ.சி.ஐ.சி.ஐ", "நாபார்டு"],
+    "answer_en": "RBI",
+    "answer_ta": "ஆர்பிஐ"
+  },
+  {
+    "question_en": "The headquarters of SEBI is located at?",
+    "question_ta": "செபி (SEBI) தலைமையகம் எங்கு அமைந்துள்ளது?",
+    "options_en": ["Delhi", "Mumbai", "Kolkata", "Chennai"],
+    "options_ta": ["தில்லி", "மும்பை", "கொல்கத்தா", "சென்னை"],
+    "answer_en": "Mumbai",
+    "answer_ta": "மும்பை"
+  },
+  {
+    "question_en": "Which of the following is a capital market instrument?",
+    "question_ta": "கீழ்கண்டவற்றில் எது மூலதன சந்தை கருவி?",
+    "options_en": ["Treasury bill", "Equity shares", "Commercial paper", "Certificate of deposit"],
+    "options_ta": ["கருவூல பில்", "ஈக்விட்டி பங்குகள்", "வர்த்தகக் கடிதம்", "வைப்பு சான்றிதழ்"],
+    "answer_en": "Equity shares",
+    "answer_ta": "ஈக்விட்டி பங்குகள்"
+  },
+  {
+    "question_en": "Which tax is levied on income of individuals?",
+    "question_ta": "தனிநபர்களின் வருமானத்தில் விதிக்கப்படும் வரி எது?",
+    "options_en": ["Income tax", "GST", "Customs duty", "Excise duty"],
+    "options_ta": ["வருமானவரி", "ஜி.எஸ்.டி", "சுங்கவரி", "உற்பத்தி வரி"],
+    "answer_en": "Income tax",
+    "answer_ta": "வருமானவரி"
+  },
+  {
+    "question_en": "Customs duty is levied on?",
+    "question_ta": "சுங்கவரி எதற்கு விதிக்கப்படுகிறது?",
+    "options_en": ["Export and import goods", "Income of citizens", "Profits of companies", "Salaries"],
+    "options_ta": ["ஏற்றுமதி மற்றும் இறக்குமதி பொருட்கள்", "பொதுமக்களின் வருமானம்", "நிறுவனங்களின் லாபம்", "சம்பளங்கள்"],
+    "answer_en": "Export and import goods",
+    "answer_ta": "ஏற்றுமதி மற்றும் இறக்குமதி பொருட்கள்"
+  },
+  {
+    "question_en": "Excise duty is levied on?",
+    "question_ta": "உற்பத்தி வரி எதற்கு விதிக்கப்படுகிறது?",
+    "options_en": ["Imported goods", "Goods produced within the country", "Salaries", "Services"],
+    "options_ta": ["இறக்குமதி செய்யப்பட்ட பொருட்கள்", "நாட்டில் உற்பத்தி செய்யப்பட்ட பொருட்கள்", "சம்பளங்கள்", "சேவைகள்"],
+    "answer_en": "Goods produced within the country",
+    "answer_ta": "நாட்டில் உற்பத்தி செய்யப்பட்ட பொருட்கள்"
+  },
+  {
+    "question_en": "Which tax was replaced by GST?",
+    "question_ta": "ஜி.எஸ்.டி மூலம் மாற்றப்பட்ட வரி எது?",
+    "options_en": ["Sales tax", "Income tax", "Wealth tax", "Gift tax"],
+    "options_ta": ["விற்பனைவரி", "வருமானவரி", "செல்வவரி", "பரிசுவரி"],
+    "answer_en": "Sales tax",
+    "answer_ta": "விற்பனைவரி"
+  },
+  {
+    "question_en": "Union Budget is presented every year on?",
+    "question_ta": "ஒன்றிய பட்ஜெட் ஒவ்வொரு ஆண்டும் எந்த தேதியில் சமர்ப்பிக்கப்படுகிறது?",
+    "options_en": ["1st April", "1st March", "31st March", "15th August"],
+    "options_ta": ["ஏப்ரல் 1", "மார்ச் 1", "மார்ச் 31", "ஆகஸ்ட் 15"],
+    "answer_en": "1st February (since 2017)",
+    "answer_ta": "பிப்ரவரி 1 (2017 முதல்)"
+  },
+  {
+    "question_en": "Which organization publishes the World Development Report?",
+    "question_ta": "உலக வளர்ச்சி அறிக்கையை வெளியிடும் அமைப்பு எது?",
+    "options_en": ["IMF", "World Bank", "WTO", "UN"],
+    "options_ta": ["சர்வதேச நாணய நிதியம்", "உலக வங்கி", "உலக வர்த்தக அமைப்பு", "ஐ.நா"],
+    "answer_en": "World Bank",
+    "answer_ta": "உலக வங்கி"
+  },
+  {
+    "question_en": "Balance of trade means?",
+    "question_ta": "வர்த்தகச் சமநிலை என்பதன் பொருள் என்ன?",
+    "options_en": ["Difference between imports and exports", "Difference between investment and savings", "Difference between income and expenditure", "Difference between tax and subsidy"],
+    "options_ta": ["இறக்குமதி மற்றும் ஏற்றுமதி வித்தியாசம்", "முதலீடு மற்றும் சேமிப்பு வித்தியாசம்", "வருமானம் மற்றும் செலவு வித்தியாசம்", "வரி மற்றும் மானியம் வித்தியாசம்"],
+    "answer_en": "Difference between imports and exports",
+    "answer_ta": "இறக்குமதி மற்றும் ஏற்றுமதி வித்தியாசம்"
+  },
+  {
+    "question_en": "Which institution provides loans to member countries for balance of payment difficulties?",
+    "question_ta": "பணம் செலுத்தும் சிரமங்களுக்கு உறுப்புநாடுகளுக்கு கடன் வழங்கும் நிறுவனம் எது?",
+    "options_en": ["WTO", "World Bank", "IMF", "SEBI"],
+    "options_ta": ["உலக வர்த்தக அமைப்பு", "உலக வங்கி", "சர்வதேச நாணய நிதியம்", "செபி"],
+    "answer_en": "IMF",
+    "answer_ta": "சர்வதேச நாணய நிதியம்"
+  },
+  {
+    "question_en": "Globalisation means?",
+    "question_ta": "உலகமயமாக்கல் என்பதன் பொருள் என்ன?",
+    "options_en": ["Integration of domestic economy with world economy", "Closing borders", "Only foreign trade", "Only exports"],
+    "options_ta": ["உள்நாட்டு பொருளாதாரத்தை உலக பொருளாதாரத்துடன் ஒருங்கிணைத்தல்", "எல்லைகளை மூடுதல்", "வெளிநாட்டு வர்த்தகம் மட்டும்", "ஏற்றுமதி மட்டும்"],
+    "answer_en": "Integration of domestic economy with world economy",
+    "answer_ta": "உள்நாட்டு பொருளாதாரத்தை உலக பொருளாதாரத்துடன் ஒருங்கிணைத்தல்"
+  },
+  {
+    "question_en": "Liberalisation means?",
+    "question_ta": "இலட்சியமயமாக்கல் என்பதன் பொருள் என்ன?",
+    "options_en": ["Removing restrictions in economy", "Closing economy", "Increasing tariffs", "Banning imports"],
+    "options_ta": ["பொருளாதாரத்தில் கட்டுப்பாடுகளை நீக்குதல்", "பொருளாதாரத்தை மூடுதல்", "சுங்க வரிகளை அதிகரித்தல்", "இறக்குமதிகளை தடை செய்தல்"],
+    "answer_en": "Removing restrictions in economy",
+    "answer_ta": "பொருளாதாரத்தில் கட்டுப்பாடுகளை நீக்குதல்"
+  },
+  {
+    "question_en": "Privatisation refers to?",
+    "question_ta": "தனியார்மயமாக்கல் எதைக் குறிக்கிறது?",
+    "options_en": ["Transfer of ownership from public to private sector", "Closing private companies", "Establishing government companies", "Increasing subsidies"],
+    "options_ta": ["அரசுத்துறையிலிருந்து தனியார் துறைக்கு உரிமையை மாற்றுதல்", "தனியார் நிறுவனங்களை மூடுதல்", "அரசு நிறுவனங்களை அமைத்தல்", "மானியங்களை அதிகரித்தல்"],
+    "answer_en": "Transfer of ownership from public to private sector",
+    "answer_ta": "அரசுத்துறையிலிருந்து தனியார் துறைக்கு உரிமையை மாற்றுதல்"
+  },
+  {
+    "question_en": "Which country is India’s largest trading partner?",
+    "question_ta": "இந்தியாவின் மிகப்பெரிய வர்த்தகக் கூட்டாளர் நாடு எது?",
+    "options_en": ["USA", "China", "Japan", "UK"],
+    "options_ta": ["அமெரிக்கா", "சீனா", "ஜப்பான்", "இங்கிலாந்து"],
+    "answer_en": "USA",
+    "answer_ta": "அமெரிக்கா"
+  },
+  {
+    "question_en": "Which is a function of WTO?",
+    "question_ta": "உலக வர்த்தக அமைப்பின் (WTO) ஒரு செயல்பாடு எது?",
+    "options_en": ["To regulate world trade", "To give loans", "To issue currency", "To provide insurance"],
+    "options_ta": ["உலக வர்த்தகத்தை ஒழுங்குபடுத்துதல்", "கடன் வழங்குதல்", "நாணயத்தை வெளியிடுதல்", "காப்பீடு வழங்குதல்"],
+    "answer_en": "To regulate world trade",
+    "answer_ta": "உலக வர்த்தகத்தை ஒழுங்குபடுத்துதல்"
+  }
+]

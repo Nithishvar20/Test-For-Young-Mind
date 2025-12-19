@@ -1,0 +1,652 @@
+[
+  {
+    "question_en": "",
+    "question_ta": "2 + 3 = ?",
+    "options_en": [
+      "6",
+      "5",
+      "3",
+      "4"
+    ],
+    "options_ta": [],
+    "answer_en": "5",
+    "answer_ta": ""
+  },
+  {
+    "question_en": "",
+    "question_ta": "ஒரு சதுரத்திற்கு எத்தனை பக்கங்கள் உள்ளன?",
+    "options_en": [
+      "6",
+      "3",
+      "4",
+      "5"
+    ],
+    "options_ta": [],
+    "answer_en": "4",
+    "answer_ta": ""
+  },
+  {
+    "question_en": "",
+    "question_ta": "பை (π) மதிப்பு சுமார் எவ்வளவு?",
+    "options_en": [
+      "3.00",
+      "3.14",
+      "3.41",
+      "2.17"
+    ],
+    "options_ta": [],
+    "answer_en": "3.14",
+    "answer_ta": ""
+  },
+  {
+    "question_en": "",
+    "question_ta": "x = 2 என்றால், 3x + 1 = ?",
+    "options_en": [
+      "7",
+      "5",
+      "8",
+      "6"
+    ],
+    "options_ta": [],
+    "answer_en": "7",
+    "answer_ta": ""
+  },
+  {
+    "question_en": "",
+    "question_ta": "100 ÷ 10 = ?",
+    "options_en": [
+      "20",
+      "10",
+      "15",
+      "5"
+    ],
+    "options_ta": [],
+    "answer_en": "10",
+    "answer_ta": ""
+  },
+  {
+    "question_en": "",
+    "question_ta": "2 + 3 = ?",
+    "options_en": [
+      "6",
+      "5",
+      "3",
+      "4"
+    ],
+    "options_ta": [],
+    "answer_en": "5",
+    "answer_ta": ""
+  },
+  {
+    "question_en": "",
+    "question_ta": "ஒரு சதுரத்திற்கு எத்தனை பக்கங்கள் உள்ளன?",
+    "options_en": [
+      "6",
+      "5",
+      "3",
+      "4"
+    ],
+    "options_ta": [],
+    "answer_en": "4",
+    "answer_ta": ""
+  },
+  {
+    "question_en": "",
+    "question_ta": "பை (π) மதிப்பு சுமார் எவ்வளவு?",
+    "options_en": [
+      "3.41",
+      "3.00",
+      "3.14",
+      "2.17"
+    ],
+    "options_ta": [],
+    "answer_en": "3.14",
+    "answer_ta": ""
+  },
+  {
+    "question_en": "",
+    "question_ta": "x = 2 என்றால், 3x + 1 = ?",
+    "options_en": [
+      "5",
+      "8",
+      "6",
+      "7"
+    ],
+    "options_ta": [],
+    "answer_en": "7",
+    "answer_ta": ""
+  },
+  {
+    "question_en": "",
+    "question_ta": "100 ÷ 10 = ?",
+    "options_en": [
+      "20",
+      "10",
+      "5",
+      "15"
+    ],
+    "options_ta": [],
+    "answer_en": "10",
+    "answer_ta": ""
+  },
+  {
+    "question_en": "",
+    "question_ta": "2 + 3 = ?",
+    "options_en": [
+      "4",
+      "6",
+      "5",
+      "3"
+    ],
+    "options_ta": [],
+    "answer_en": "5",
+    "answer_ta": ""
+  },
+  {
+    "question_en": "",
+    "question_ta": "ஒரு சதுரத்திற்கு எத்தனை பக்கங்கள் உள்ளன?",
+    "options_en": [
+      "3",
+      "5",
+      "6",
+      "4"
+    ],
+    "options_ta": [],
+    "answer_en": "4",
+    "answer_ta": ""
+  },
+  {
+    "question_en": "",
+    "question_ta": "பை (π) மதிப்பு சுமார் எவ்வளவு?",
+    "options_en": [
+      "3.00",
+      "3.41",
+      "2.17",
+      "3.14"
+    ],
+    "options_ta": [],
+    "answer_en": "3.14",
+    "answer_ta": ""
+  },
+  {
+    "question_en": "",
+    "question_ta": "x = 2 என்றால், 3x + 1 = ?",
+    "options_en": [
+      "8",
+      "6",
+      "7",
+      "5"
+    ],
+    "options_ta": [],
+    "answer_en": "7",
+    "answer_ta": ""
+  },
+  {
+    "question_en": "",
+    "question_ta": "100 ÷ 10 = ?",
+    "options_en": [
+      "10",
+      "15",
+      "5",
+      "20"
+    ],
+    "options_ta": [],
+    "answer_en": "10",
+    "answer_ta": ""
+  },
+  {
+    "question_en": "",
+    "question_ta": "2 + 3 = ?",
+    "options_en": [
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "options_ta": [],
+    "answer_en": "5",
+    "answer_ta": ""
+  },
+  {
+    "question_en": "",
+    "question_ta": "ஒரு சதுரத்திற்கு எத்தனை பக்கங்கள் உள்ளன?",
+    "options_en": [
+      "6",
+      "3",
+      "4",
+      "5"
+    ],
+    "options_ta": [],
+    "answer_en": "4",
+    "answer_ta": ""
+  },
+  {
+    "question_en": "",
+    "question_ta": "பை (π) மதிப்பு சுமார் எவ்வளவு?",
+    "options_en": [
+      "3.14",
+      "3.41",
+      "2.17",
+      "3.00"
+    ],
+    "options_ta": [],
+    "answer_en": "3.14",
+    "answer_ta": ""
+  },
+  {
+    "question_en": "",
+    "question_ta": "x = 2 என்றால், 3x + 1 = ?",
+    "options_en": [
+      "7",
+      "5",
+      "8",
+      "6"
+    ],
+    "options_ta": [],
+    "answer_en": "7",
+    "answer_ta": ""
+  },
+  {
+    "question_en": "",
+    "question_ta": "100 ÷ 10 = ?",
+    "options_en": [
+      "10",
+      "20",
+      "5",
+      "15"
+    ],
+    "options_ta": [],
+    "answer_en": "10",
+    "answer_ta": ""
+  },
+  {
+    "question_en": "",
+    "question_ta": "2 + 3 = ?",
+    "options_en": [
+      "4",
+      "5",
+      "6",
+      "3"
+    ],
+    "options_ta": [],
+    "answer_en": "5",
+    "answer_ta": ""
+  },
+  {
+    "question_en": "",
+    "question_ta": "ஒரு சதுரத்திற்கு எத்தனை பக்கங்கள் உள்ளன?",
+    "options_en": [
+      "6",
+      "5",
+      "3",
+      "4"
+    ],
+    "options_ta": [],
+    "answer_en": "4",
+    "answer_ta": ""
+  },
+  {
+    "question_en": "",
+    "question_ta": "பை (π) மதிப்பு சுமார் எவ்வளவு?",
+    "options_en": [
+      "2.17",
+      "3.00",
+      "3.41",
+      "3.14"
+    ],
+    "options_ta": [],
+    "answer_en": "3.14",
+    "answer_ta": ""
+  },
+  {
+    "question_en": "",
+    "question_ta": "x = 2 என்றால், 3x + 1 = ?",
+    "options_en": [
+      "7",
+      "5",
+      "6",
+      "8"
+    ],
+    "options_ta": [],
+    "answer_en": "7",
+    "answer_ta": ""
+  },
+  {
+    "question_en": "",
+    "question_ta": "100 ÷ 10 = ?",
+    "options_en": [
+      "20",
+      "5",
+      "10",
+      "15"
+    ],
+    "options_ta": [],
+    "answer_en": "10",
+    "answer_ta": ""
+  },
+  {
+    "question_en": "",
+    "question_ta": "2 + 3 = ?",
+    "options_en": [
+      "4",
+      "6",
+      "5",
+      "3"
+    ],
+    "options_ta": [],
+    "answer_en": "5",
+    "answer_ta": ""
+  },
+  {
+    "question_en": "",
+    "question_ta": "ஒரு சதுரத்திற்கு எத்தனை பக்கங்கள் உள்ளன?",
+    "options_en": [
+      "6",
+      "3",
+      "4",
+      "5"
+    ],
+    "options_ta": [],
+    "answer_en": "4",
+    "answer_ta": ""
+  },
+  {
+    "question_en": "",
+    "question_ta": "பை (π) மதிப்பு சுமார் எவ்வளவு?",
+    "options_en": [
+      "3.14",
+      "3.00",
+      "3.41",
+      "2.17"
+    ],
+    "options_ta": [],
+    "answer_en": "3.14",
+    "answer_ta": ""
+  },
+  {
+    "question_en": "",
+    "question_ta": "x = 2 என்றால், 3x + 1 = ?",
+    "options_en": [
+      "5",
+      "6",
+      "8",
+      "7"
+    ],
+    "options_ta": [],
+    "answer_en": "7",
+    "answer_ta": ""
+  },
+  {
+    "question_en": "",
+    "question_ta": "100 ÷ 10 = ?",
+    "options_en": [
+      "20",
+      "10",
+      "5",
+      "15"
+    ],
+    "options_ta": [],
+    "answer_en": "10",
+    "answer_ta": ""
+  },
+  {
+    "question_en": "",
+    "question_ta": "2 + 3 = ?",
+    "options_en": [
+      "4",
+      "3",
+      "5",
+      "6"
+    ],
+    "options_ta": [],
+    "answer_en": "5",
+    "answer_ta": ""
+  },
+  {
+    "question_en": "",
+    "question_ta": "ஒரு சதுரத்திற்கு எத்தனை பக்கங்கள் உள்ளன?",
+    "options_en": [
+      "5",
+      "6",
+      "4",
+      "3"
+    ],
+    "options_ta": [],
+    "answer_en": "4",
+    "answer_ta": ""
+  },
+  {
+    "question_en": "",
+    "question_ta": "பை (π) மதிப்பு சுமார் எவ்வளவு?",
+    "options_en": [
+      "2.17",
+      "3.00",
+      "3.41",
+      "3.14"
+    ],
+    "options_ta": [],
+    "answer_en": "3.14",
+    "answer_ta": ""
+  },
+  {
+    "question_en": "",
+    "question_ta": "x = 2 என்றால், 3x + 1 = ?",
+    "options_en": [
+      "5",
+      "8",
+      "7",
+      "6"
+    ],
+    "options_ta": [],
+    "answer_en": "7",
+    "answer_ta": ""
+  },
+  {
+    "question_en": "",
+    "question_ta": "100 ÷ 10 = ?",
+    "options_en": [
+      "20",
+      "5",
+      "10",
+      "15"
+    ],
+    "options_ta": [],
+    "answer_en": "10",
+    "answer_ta": ""
+  },
+  {
+    "question_en": "",
+    "question_ta": "2 + 3 = ?",
+    "options_en": [
+      "4",
+      "3",
+      "5",
+      "6"
+    ],
+    "options_ta": [],
+    "answer_en": "5",
+    "answer_ta": ""
+  },
+  {
+    "question_en": "",
+    "question_ta": "ஒரு சதுரத்திற்கு எத்தனை பக்கங்கள் உள்ளன?",
+    "options_en": [
+      "6",
+      "4",
+      "5",
+      "3"
+    ],
+    "options_ta": [],
+    "answer_en": "4",
+    "answer_ta": ""
+  },
+  {
+    "question_en": "",
+    "question_ta": "பை (π) மதிப்பு சுமார் எவ்வளவு?",
+    "options_en": [
+      "3.14",
+      "3.41",
+      "2.17",
+      "3.00"
+    ],
+    "options_ta": [],
+    "answer_en": "3.14",
+    "answer_ta": ""
+  },
+  {
+    "question_en": "",
+    "question_ta": "x = 2 என்றால், 3x + 1 = ?",
+    "options_en": [
+      "5",
+      "8",
+      "6",
+      "7"
+    ],
+    "options_ta": [],
+    "answer_en": "7",
+    "answer_ta": ""
+  },
+  {
+    "question_en": "",
+    "question_ta": "100 ÷ 10 = ?",
+    "options_en": [
+      "20",
+      "5",
+      "10",
+      "15"
+    ],
+    "options_ta": [],
+    "answer_en": "10",
+    "answer_ta": ""
+  },
+  {
+    "question_en": "",
+    "question_ta": "2 + 3 = ?",
+    "options_en": [
+      "6",
+      "5",
+      "4",
+      "3"
+    ],
+    "options_ta": [],
+    "answer_en": "5",
+    "answer_ta": ""
+  },
+  {
+    "question_en": "",
+    "question_ta": "ஒரு சதுரத்திற்கு எத்தனை பக்கங்கள் உள்ளன?",
+    "options_en": [
+      "3",
+      "6",
+      "5",
+      "4"
+    ],
+    "options_ta": [],
+    "answer_en": "4",
+    "answer_ta": ""
+  },
+  {
+    "question_en": "",
+    "question_ta": "பை (π) மதிப்பு சுமார் எவ்வளவு?",
+    "options_en": [
+      "3.14",
+      "3.00",
+      "3.41",
+      "2.17"
+    ],
+    "options_ta": [],
+    "answer_en": "3.14",
+    "answer_ta": ""
+  },
+  {
+    "question_en": "",
+    "question_ta": "x = 2 என்றால், 3x + 1 = ?",
+    "options_en": [
+      "5",
+      "7",
+      "8",
+      "6"
+    ],
+    "options_ta": [],
+    "answer_en": "7",
+    "answer_ta": ""
+  },
+  {
+    "question_en": "",
+    "question_ta": "100 ÷ 10 = ?",
+    "options_en": [
+      "15",
+      "10",
+      "20",
+      "5"
+    ],
+    "options_ta": [],
+    "answer_en": "10",
+    "answer_ta": ""
+  },
+  {
+    "question_en": "",
+    "question_ta": "2 + 3 = ?",
+    "options_en": [
+      "6",
+      "4",
+      "3",
+      "5"
+    ],
+    "options_ta": [],
+    "answer_en": "5",
+    "answer_ta": ""
+  },
+  {
+    "question_en": "",
+    "question_ta": "ஒரு சதுரத்திற்கு எத்தனை பக்கங்கள் உள்ளன?",
+    "options_en": [
+      "6",
+      "3",
+      "5",
+      "4"
+    ],
+    "options_ta": [],
+    "answer_en": "4",
+    "answer_ta": ""
+  },
+  {
+    "question_en": "",
+    "question_ta": "பை (π) மதிப்பு சுமார் எவ்வளவு?",
+    "options_en": [
+      "3.41",
+      "2.17",
+      "3.00",
+      "3.14"
+    ],
+    "options_ta": [],
+    "answer_en": "3.14",
+    "answer_ta": ""
+  },
+  {
+    "question_en": "",
+    "question_ta": "x = 2 என்றால், 3x + 1 = ?",
+    "options_en": [
+      "5",
+      "8",
+      "6",
+      "7"
+    ],
+    "options_ta": [],
+    "answer_en": "7",
+    "answer_ta": ""
+  },
+  {
+    "question_en": "",
+    "question_ta": "100 ÷ 10 = ?",
+    "options_en": [
+      "15",
+      "10",
+      "5",
+      "20"
+    ],
+    "options_ta": [],
+    "answer_en": "10",
+    "answer_ta": ""
+  }
+]

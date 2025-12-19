@@ -1,0 +1,902 @@
+[
+  {
+    "question_en": "What is the place value of 5 in 7053?",
+    "question_ta": "7053 இல் 5 என்பதற்கான இட மதிப்பு எது?",
+    "options_en": [
+      "500",
+      "5000",
+      "5",
+      "50"
+    ],
+    "options_ta": [
+      "500",
+      "5000",
+      "5",
+      "50"
+    ],
+    "answer_en": "50",
+    "answer_ta": "50"
+  },
+  {
+    "question_en": "Successor of 999 is?",
+    "question_ta": "999 இன் அடுத்த எண் எது?",
+    "options_en": [
+      "999",
+      "1000",
+      "998",
+      "1001"
+    ],
+    "options_ta": [
+      "999",
+      "1000",
+      "998",
+      "1001"
+    ],
+    "answer_en": "1000",
+    "answer_ta": "1000"
+  },
+  {
+    "question_en": "What is 7 + 8 ?",
+    "question_ta": "7 + 8 = ?",
+    "options_en": [
+      "14",
+      "16",
+      "15",
+      "13"
+    ],
+    "options_ta": [
+      "14",
+      "16",
+      "15",
+      "13"
+    ],
+    "answer_en": "15",
+    "answer_ta": "15"
+  },
+  {
+    "question_en": "Which is a prime number?",
+    "question_ta": "தடையற்ற எண் எந்தது?",
+    "options_en": [
+      "9",
+      "7",
+      "4",
+      "6"
+    ],
+    "options_ta": [
+      "9",
+      "7",
+      "4",
+      "6"
+    ],
+    "answer_en": "7",
+    "answer_ta": "7"
+  },
+  {
+    "question_en": "Which fraction is equivalent to 1/2?",
+    "question_ta": "1/2 உடன் சமமான பங்கு எது?",
+    "options_en": [
+      "2/4",
+      "3/4",
+      "1/4",
+      "1/3"
+    ],
+    "options_ta": [
+      "2/4",
+      "3/4",
+      "1/4",
+      "1/3"
+    ],
+    "answer_en": "2/4",
+    "answer_ta": "2/4"
+  },
+  {
+    "question_en": "What is 10 tens equal to?",
+    "question_ta": "10 தசகங்கள் = ?",
+    "options_en": [
+      "1000",
+      "10",
+      "100",
+      "1"
+    ],
+    "options_ta": [
+      "1000",
+      "10",
+      "100",
+      "1"
+    ],
+    "answer_en": "100",
+    "answer_ta": "100"
+  },
+  {
+    "question_en": "Which digit is in tens place in 4,562?",
+    "question_ta": "4,562 இல் தசகத்திடம் உள்ள இலக்கம் எது?",
+    "options_en": [
+      "2",
+      "5",
+      "4",
+      "6"
+    ],
+    "options_ta": [
+      "2",
+      "5",
+      "4",
+      "6"
+    ],
+    "answer_en": "6",
+    "answer_ta": "6"
+  },
+  {
+    "question_en": "What is 9 × 0 ?",
+    "question_ta": "9 × 0 = ?",
+    "options_en": [
+      "1",
+      "0",
+      "-9",
+      "9"
+    ],
+    "options_ta": [
+      "1",
+      "0",
+      "-9",
+      "9"
+    ],
+    "answer_en": "0",
+    "answer_ta": "0"
+  },
+  {
+    "question_en": "Which is an even number?",
+    "question_ta": "எது ஒரு ஜோடி எண்?",
+    "options_en": [
+      "9",
+      "20",
+      "11",
+      "13"
+    ],
+    "options_ta": [
+      "9",
+      "20",
+      "11",
+      "13"
+    ],
+    "answer_en": "20",
+    "answer_ta": "20"
+  },
+  {
+    "question_en": "1/4 as a decimal is?",
+    "question_ta": "1/4 ஐ தசமமாக எழுதுக?",
+    "options_en": [
+      "0.4",
+      "0.25",
+      "0.125",
+      "0.5"
+    ],
+    "options_ta": [
+      "0.4",
+      "0.25",
+      "0.125",
+      "0.5"
+    ],
+    "answer_en": "0.25",
+    "answer_ta": "0.25"
+  },
+  {
+    "question_en": "What is the sum of digits of 123?",
+    "question_ta": "123 இன் இலக்கங்கள் கூட்டம் என்ன?",
+    "options_en": [
+      "5",
+      "6",
+      "7",
+      "4"
+    ],
+    "options_ta": [
+      "5",
+      "6",
+      "7",
+      "4"
+    ],
+    "answer_en": "6",
+    "answer_ta": "6"
+  },
+  {
+    "question_en": "What is 15 − 7 ?",
+    "question_ta": "15 − 7 = ?",
+    "options_en": [
+      "6",
+      "9",
+      "7",
+      "8"
+    ],
+    "options_ta": [
+      "6",
+      "9",
+      "7",
+      "8"
+    ],
+    "answer_en": "8",
+    "answer_ta": "8"
+  },
+  {
+    "question_en": "Which shape has 3 sides?",
+    "question_ta": "எந்த உருவத்தில் 3 படிகளை உள்ளன?",
+    "options_en": [
+      "Square",
+      "Circle",
+      "Triangle",
+      "Rectangle"
+    ],
+    "options_ta": [
+      "சதுரம்",
+      "வட்டம்",
+      "முக்கோணம்",
+      "செவ்வகம்"
+    ],
+    "answer_en": "Triangle",
+    "answer_ta": "முக்கோணம்"
+  },
+  {
+    "question_en": "What is half of 50?",
+    "question_ta": "50 இன் பாதி எவையாகும்?",
+    "options_en": [
+      "20",
+      "25",
+      "30",
+      "15"
+    ],
+    "options_ta": [
+      "20",
+      "25",
+      "30",
+      "15"
+    ],
+    "answer_en": "25",
+    "answer_ta": "25"
+  },
+  {
+    "question_en": "What comes next: 2,4,6,8, ... ?",
+    "question_ta": "2,4,6,8,... அடுத்து என்ன வரும்?",
+    "options_en": [
+      "11",
+      "10",
+      "9",
+      "12"
+    ],
+    "options_ta": [
+      "11",
+      "10",
+      "9",
+      "12"
+    ],
+    "answer_en": "10",
+    "answer_ta": "10"
+  },
+  {
+    "question_en": "Which is a unit fraction?",
+    "question_ta": "யாருடைய பகுதி p எது?",
+    "options_en": [
+      "2/3",
+      "5/6",
+      "1/5",
+      "3/4"
+    ],
+    "options_ta": [
+      "2/3",
+      "5/6",
+      "1/5",
+      "3/4"
+    ],
+    "answer_en": "1/5",
+    "answer_ta": "1/5"
+  },
+  {
+    "question_en": "Convert 100 cm into metres.",
+    "question_ta": "100 cm ஐ மீட்டர் ஆக மாற்றுக.",
+    "options_en": [
+      "10 m",
+      "1 m",
+      "0.1 m",
+      "100 m"
+    ],
+    "options_ta": [
+      "10 m",
+      "1 m",
+      "0.1 m",
+      "100 m"
+    ],
+    "answer_en": "1 m",
+    "answer_ta": "1 m"
+  },
+  {
+    "question_en": "Which number is neither prime nor composite?",
+    "question_ta": "எது prime அல்ல composite அல்ல?",
+    "options_en": [
+      "2",
+      "4",
+      "1",
+      "3"
+    ],
+    "options_ta": [
+      "2",
+      "4",
+      "1",
+      "3"
+    ],
+    "answer_en": "1",
+    "answer_ta": "1"
+  },
+  {
+    "question_en": "What is the perimeter of a square with side 4 cm?",
+    "question_ta": "பக்கம் 4 cm கொண்ட சதுரத்தின் சுற்றளவு?",
+    "options_en": [
+      "4 cm",
+      "12 cm",
+      "16 cm",
+      "8 cm"
+    ],
+    "options_ta": [
+      "4 cm",
+      "12 cm",
+      "16 cm",
+      "8 cm"
+    ],
+    "answer_en": "16 cm",
+    "answer_ta": "16 cm"
+  },
+  {
+    "question_en": "What is 1 dozen?",
+    "question_ta": "1 டஜன் என்றால்?",
+    "options_en": [
+      "14",
+      "11",
+      "12",
+      "10"
+    ],
+    "options_ta": [
+      "14",
+      "11",
+      "12",
+      "10"
+    ],
+    "answer_en": "12",
+    "answer_ta": "12"
+  },
+  {
+    "question_en": "Which is greater: 3/4 or 2/3?",
+    "question_ta": "3/4 மற்றும் 2/3 இவற்றில் எது பெரியது?",
+    "options_en": [
+      "Equal",
+      "Cannot say",
+      "2/3",
+      "3/4"
+    ],
+    "options_ta": [
+      "Equal",
+      "Cannot say",
+      "2/3",
+      "3/4"
+    ],
+    "answer_en": "3/4",
+    "answer_ta": "3/4"
+  },
+  {
+    "question_en": "The number of seconds in a minute is?",
+    "question_ta": "ஒரு நிமிடத்தில் இருக்கக்கூடிய இரண்டாம் எண்டுகள் எவ்வளவு?",
+    "options_en": [
+      "120",
+      "50",
+      "60",
+      "100"
+    ],
+    "options_ta": [
+      "120",
+      "50",
+      "60",
+      "100"
+    ],
+    "answer_en": "60",
+    "answer_ta": "60"
+  },
+  {
+    "question_en": "Which symbol shows 'less than'?",
+    "question_ta": "'குறைவாக' என்பதை காட்டும் குறியீடு எது?",
+    "options_en": [
+      "=",
+      ">",
+      "!=",
+      "<"
+    ],
+    "options_ta": [
+      "=",
+      ">",
+      "!=",
+      "<"
+    ],
+    "answer_en": "<",
+    "answer_ta": "<"
+  },
+  {
+    "question_en": "What is 6 × 7 ?",
+    "question_ta": "6 × 7 = ?",
+    "options_en": [
+      "48",
+      "42",
+      "40",
+      "36"
+    ],
+    "options_ta": [
+      "48",
+      "42",
+      "40",
+      "36"
+    ],
+    "answer_en": "42",
+    "answer_ta": "42"
+  },
+  {
+    "question_en": "Which is a multiple of 5?",
+    "question_ta": "5 இன் ஒரு பலன் எது?",
+    "options_en": [
+      "28",
+      "33",
+      "25",
+      "21"
+    ],
+    "options_ta": [
+      "28",
+      "33",
+      "25",
+      "21"
+    ],
+    "answer_en": "25",
+    "answer_ta": "25"
+  },
+  {
+    "question_en": "What is 1000 grams in kilograms?",
+    "question_ta": "1000 கிராம் = ? கிலோ",
+    "options_en": [
+      "10 kg",
+      "0.1 kg",
+      "100 kg",
+      "1 kg"
+    ],
+    "options_ta": [
+      "10 kg",
+      "0.1 kg",
+      "100 kg",
+      "1 kg"
+    ],
+    "answer_en": "1 kg",
+    "answer_ta": "1 kg"
+  },
+  {
+    "question_en": "Which angle is 90 degrees?",
+    "question_ta": "90° कोण எது?",
+    "options_en": [
+      "Obtuse",
+      "Acute",
+      "Straight",
+      "Right"
+    ],
+    "options_ta": [
+      "Obtuse",
+      "Acute",
+      "Straight",
+      "Right"
+    ],
+    "answer_en": "Right",
+    "answer_ta": "Right"
+  },
+  {
+    "question_en": "What is 2/3 of 21?",
+    "question_ta": "21 இன் 2/3 = ?",
+    "options_en": [
+      "15",
+      "12",
+      "13",
+      "14"
+    ],
+    "options_ta": [
+      "15",
+      "12",
+      "13",
+      "14"
+    ],
+    "answer_en": "14",
+    "answer_ta": "14"
+  },
+  {
+    "question_en": "Which is the smallest 3-digit number?",
+    "question_ta": "சிறியது 3 இலக்க எண் எது?",
+    "options_en": [
+      "99",
+      "100",
+      "101",
+      "90"
+    ],
+    "options_ta": [
+      "99",
+      "100",
+      "101",
+      "90"
+    ],
+    "answer_en": "100",
+    "answer_ta": "100"
+  },
+  {
+    "question_en": "What is the value of digit 8 in 8,456 (place value)?",
+    "question_ta": "8,456 இல் 8 இன் இட மதிப்பு?",
+    "options_en": [
+      "8000",
+      "8",
+      "800",
+      "80"
+    ],
+    "options_ta": [
+      "8000",
+      "8",
+      "800",
+      "80"
+    ],
+    "answer_en": "8000",
+    "answer_ta": "8000"
+  },
+  {
+    "question_en": "Which is an obtuse angle?",
+    "question_ta": "எதுObtuse கோணம்?",
+    "options_en": [
+      "90°",
+      "120°",
+      "30°",
+      "60°"
+    ],
+    "options_ta": [
+      "90°",
+      "120°",
+      "30°",
+      "60°"
+    ],
+    "answer_en": "120°",
+    "answer_ta": "120°"
+  },
+  {
+    "question_en": "What is 5 × 5 ?",
+    "question_ta": "5 × 5 = ?",
+    "options_en": [
+      "15",
+      "20",
+      "30",
+      "25"
+    ],
+    "options_ta": [
+      "15",
+      "20",
+      "30",
+      "25"
+    ],
+    "answer_en": "25",
+    "answer_ta": "25"
+  },
+  {
+    "question_en": "Which fraction shows three quarters?",
+    "question_ta": "மூன்று பங்கு நான்கில் எந்தது?",
+    "options_en": [
+      "3/4",
+      "2/3",
+      "1/4",
+      "4/3"
+    ],
+    "options_ta": [
+      "3/4",
+      "2/3",
+      "1/4",
+      "4/3"
+    ],
+    "answer_en": "3/4",
+    "answer_ta": "3/4"
+  },
+  {
+    "question_en": "What is 100 − 45 ?",
+    "question_ta": "100 − 45 = ?",
+    "options_en": [
+      "65",
+      "35",
+      "45",
+      "55"
+    ],
+    "options_ta": [
+      "65",
+      "35",
+      "45",
+      "55"
+    ],
+    "answer_en": "55",
+    "answer_ta": "55"
+  },
+  {
+    "question_en": "Which shape has no corners?",
+    "question_ta": "எந்த உருவத்துக்கு மூலைகள் இல்லை?",
+    "options_en": [
+      "Triangle",
+      "Circle",
+      "Square",
+      "Rectangle"
+    ],
+    "options_ta": [
+      "Triangle",
+      "Circle",
+      "Square",
+      "Rectangle"
+    ],
+    "answer_en": "Circle",
+    "answer_ta": "Circle"
+  },
+  {
+    "question_en": "If today is Monday, what is the day after tomorrow?",
+    "question_ta": "இன்று திங்கடன்று என்றால், நாளை பிறகு எந்த நாள்?",
+    "options_en": [
+      "Tuesday",
+      "Wednesday",
+      "Friday",
+      "Thursday"
+    ],
+    "options_ta": [
+      "Tuesday",
+      "Wednesday",
+      "Friday",
+      "Thursday"
+    ],
+    "answer_en": "Wednesday",
+    "answer_ta": "Wednesday"
+  },
+  {
+    "question_en": "What is 3 × 4 + 5 ?",
+    "question_ta": "3 × 4 + 5 = ?",
+    "options_en": [
+      "27",
+      "17",
+      "20",
+      "12"
+    ],
+    "options_ta": [
+      "27",
+      "17",
+      "20",
+      "12"
+    ],
+    "answer_en": "17",
+    "answer_ta": "17"
+  },
+  {
+    "question_en": "Which is 1/10 as decimal?",
+    "question_ta": "1/10 = ?",
+    "options_en": [
+      "0.1",
+      "1.0",
+      "0.001",
+      "0.01"
+    ],
+    "options_ta": [
+      "0.1",
+      "1.0",
+      "0.001",
+      "0.01"
+    ],
+    "answer_en": "0.1",
+    "answer_ta": "0.1"
+  },
+  {
+    "question_en": "How many sides does a rectangle have?",
+    "question_ta": "ஒரு சதுரவகுதிக்குத் திருப்பினை இடையில் எத்தனை பக்கங்கள் உள்ளன?",
+    "options_en": [
+      "6",
+      "4",
+      "5",
+      "3"
+    ],
+    "options_ta": [
+      "6",
+      "4",
+      "5",
+      "3"
+    ],
+    "answer_en": "4",
+    "answer_ta": "4"
+  },
+  {
+    "question_en": "Which of these is a perfect number (example from book)?",
+    "question_ta": "புத்தகத்தில் உள்ள உதாரணப்படி எந்தது perfect எண்ணாகும்?",
+    "options_en": [
+      "6",
+      "8",
+      "10",
+      "12"
+    ],
+    "options_ta": [
+      "6",
+      "8",
+      "10",
+      "12"
+    ],
+    "answer_en": "6",
+    "answer_ta": "6"
+  },
+  {
+    "question_en": "What is 4² ?",
+    "question_ta": "4² = ?",
+    "options_en": [
+      "8",
+      "16",
+      "14",
+      "12"
+    ],
+    "options_ta": [
+      "8",
+      "16",
+      "14",
+      "12"
+    ],
+    "answer_en": "16",
+    "answer_ta": "16"
+  },
+  {
+    "question_en": "What is 49 + 49?",
+    "question_ta": "49 + 49 = ?",
+    "options_en": [
+      "98",
+      "50",
+      "49",
+      "147"
+    ],
+    "options_ta": [
+      "98",
+      "50",
+      "49",
+      "147"
+    ],
+    "answer_en": "98",
+    "answer_ta": "98"
+  },
+  {
+    "question_en": "What is 22 + 22?",
+    "question_ta": "22 + 22 = ?",
+    "options_en": [
+      "22",
+      "23",
+      "66",
+      "44"
+    ],
+    "options_ta": [
+      "22",
+      "23",
+      "66",
+      "44"
+    ],
+    "answer_en": "44",
+    "answer_ta": "44"
+  },
+  {
+    "question_en": "What is 15 + 15?",
+    "question_ta": "15 + 15 = ?",
+    "options_en": [
+      "30",
+      "16",
+      "15",
+      "45"
+    ],
+    "options_ta": [
+      "30",
+      "16",
+      "15",
+      "45"
+    ],
+    "answer_en": "30",
+    "answer_ta": "30"
+  },
+  {
+    "question_en": "What is 9 + 9?",
+    "question_ta": "9 + 9 = ?",
+    "options_en": [
+      "27",
+      "18",
+      "9",
+      "10"
+    ],
+    "options_ta": [
+      "27",
+      "18",
+      "9",
+      "10"
+    ],
+    "answer_en": "18",
+    "answer_ta": "18"
+  },
+  {
+    "question_en": "What is 16 + 16?",
+    "question_ta": "16 + 16 = ?",
+    "options_en": [
+      "16",
+      "32",
+      "48",
+      "17"
+    ],
+    "options_ta": [
+      "16",
+      "32",
+      "48",
+      "17"
+    ],
+    "answer_en": "32",
+    "answer_ta": "32"
+  },
+  {
+    "question_en": "What is 10 + 10?",
+    "question_ta": "10 + 10 = ?",
+    "options_en": [
+      "11",
+      "20",
+      "30",
+      "10"
+    ],
+    "options_ta": [
+      "11",
+      "20",
+      "30",
+      "10"
+    ],
+    "answer_en": "20",
+    "answer_ta": "20"
+  },
+  {
+    "question_en": "What is 5 + 5?",
+    "question_ta": "5 + 5 = ?",
+    "options_en": [
+      "6",
+      "15",
+      "5",
+      "10"
+    ],
+    "options_ta": [
+      "6",
+      "15",
+      "5",
+      "10"
+    ],
+    "answer_en": "10",
+    "answer_ta": "10"
+  },
+  {
+    "question_en": "What is 37 + 37?",
+    "question_ta": "37 + 37 = ?",
+    "options_en": [
+      "37",
+      "111",
+      "74",
+      "38"
+    ],
+    "options_ta": [
+      "37",
+      "111",
+      "74",
+      "38"
+    ],
+    "answer_en": "74",
+    "answer_ta": "74"
+  },
+  {
+    "question_en": "What is 43 + 43?",
+    "question_ta": "43 + 43 = ?",
+    "options_en": [
+      "43",
+      "129",
+      "44",
+      "86"
+    ],
+    "options_ta": [
+      "43",
+      "129",
+      "44",
+      "86"
+    ],
+    "answer_en": "86",
+    "answer_ta": "86"
+  }
+]

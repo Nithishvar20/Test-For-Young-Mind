@@ -1,0 +1,250 @@
+[
+  {
+    "question_en": "Which gas is essential for burning?",
+    "question_ta": "எரிய அவசியமான வாயு எது?",
+    "options_en": ["Oxygen", "Carbon dioxide", "Nitrogen", "Hydrogen"],
+    "options_ta": ["ஆக்சிஜன்", "கார்பன் டை ஆக்சைடு", "நைட்ரஜன்", "ஹைட்ரஜன்"],
+    "answer_en": "Oxygen",
+    "answer_ta": "ஆக்சிஜன்"
+  },
+  {
+    "question_en": "Which part of plant absorbs water?",
+    "question_ta": "தாவரத்தின் எந்த பகுதி தண்ணீரை உறிஞ்சுகிறது?",
+    "options_en": ["Stem", "Leaf", "Root", "Flower"],
+    "options_ta": ["தண்டு", "இலை", "வேர்", "மலர்"],
+    "answer_en": "Root",
+    "answer_ta": "வேர்"
+  },
+  {
+    "question_en": "Which is the heaviest internal organ in humans?",
+    "question_ta": "மனித உடலில் மிகப்பெரிய உள் உறுப்பு எது?",
+    "options_en": ["Brain", "Heart", "Liver", "Lung"],
+    "options_ta": ["மூளை", "இதயம்", "கல்லீரல்", "நுரையீரல்"],
+    "answer_en": "Liver",
+    "answer_ta": "கல்லீரல்"
+  },
+  {
+    "question_en": "Which type of lens is used to correct short sight?",
+    "question_ta": "குறுகிய பார்வையை சரி செய்ய எந்த வகை லென்ஸ் பயன்படுத்தப்படுகிறது?",
+    "options_en": ["Convex lens", "Concave lens", "Plane lens", "Cylindrical lens"],
+    "options_ta": ["வளையோட்ட லென்ஸ்", "உள்தாழ்வான லென்ஸ்", "தடிமான லென்ஸ்", "உருளை லென்ஸ்"],
+    "answer_en": "Concave lens",
+    "answer_ta": "உள்தாழ்வான லென்ஸ்"
+  },
+  {
+    "question_en": "Which disease is caused by mosquito bite?",
+    "question_ta": "கொசு கடியால் ஏற்படும் நோய் எது?",
+    "options_en": ["Malaria", "Tuberculosis", "Typhoid", "Smallpox"],
+    "options_ta": ["குடைவெளி காய்ச்சல் (மலேரியா)", "காசநோய்", "டைஃபாய்டு", "சின்னம்மை"],
+    "answer_en": "Malaria",
+    "answer_ta": "மலேரியா"
+  },
+  {
+    "question_en": "What is measured using a thermometer?",
+    "question_ta": "வெப்பமானி மூலம் எதை அளவிடுகிறோம்?",
+    "options_en": ["Length", "Weight", "Temperature", "Time"],
+    "options_ta": ["நீளம்", "எடை", "வெப்பநிலை", "நேரம்"],
+    "answer_en": "Temperature",
+    "answer_ta": "வெப்பநிலை"
+  },
+  {
+    "question_en": "Which part of blood carries oxygen?",
+    "question_ta": "இரத்தத்தில் ஆக்சிஜனை எடுத்துச் செல்லும் பகுதி எது?",
+    "options_en": ["RBC", "Plasma", "WBC", "Platelets"],
+    "options_ta": ["சிவப்பணுக்கள்", "பிளாஸ்மா", "வெள்ளையணுக்கள்", "தகடணுக்கள்"],
+    "answer_en": "RBC",
+    "answer_ta": "சிவப்பணுக்கள்"
+  },
+  {
+    "question_en": "Which planet is called Earth’s twin?",
+    "question_ta": "பூமியின் இணை என அழைக்கப்படும் கோள் எது?",
+    "options_en": ["Venus", "Mars", "Jupiter", "Mercury"],
+    "options_ta": ["சுக்கிரன்", "செவ்வாய்", "வியாழன்", "புதன்"],
+    "answer_en": "Venus",
+    "answer_ta": "சுக்கிரன்"
+  },
+  {
+    "question_en": "Which is the hardest natural substance?",
+    "question_ta": "இயற்கையில் மிகக் கடினமான பொருள் எது?",
+    "options_en": ["Iron", "Diamond", "Coal", "Granite"],
+    "options_ta": ["இரும்பு", "வஜ்ரம்", "நரிக்கட்டி", "கிரானைட்"],
+    "answer_en": "Diamond",
+    "answer_ta": "வஜ்ரம்"
+  },
+  {
+    "question_en": "What is the normal human body temperature?",
+    "question_ta": "மனித உடலின் சாதாரண வெப்பநிலை எவ்வளவு?",
+    "options_en": ["37°C", "34°C", "30°C", "40°C"],
+    "options_ta": ["37°C", "34°C", "30°C", "40°C"],
+    "answer_en": "37°C",
+    "answer_ta": "37°C"
+  },
+  {
+    "question_en": "Which organ purifies blood?",
+    "question_ta": "இரத்தத்தை சுத்திகரிக்கும் உறுப்பு எது?",
+    "options_en": ["Lungs", "Kidney", "Liver", "Heart"],
+    "options_ta": ["நுரையீரல்", "சிறுநீரகம்", "கல்லீரல்", "இதயம்"],
+    "answer_en": "Kidney",
+    "answer_ta": "சிறுநீரகம்"
+  },
+  {
+    "question_en": "Which planet is farthest from the Sun?",
+    "question_ta": "சூரியனிலிருந்து மிகத் தொலைவில் உள்ள கோள் எது?",
+    "options_en": ["Earth", "Neptune", "Mars", "Saturn"],
+    "options_ta": ["பூமி", "நெப்டியூன்", "செவ்வாய்", "சனி"],
+    "answer_en": "Neptune",
+    "answer_ta": "நெப்டியூன்"
+  },
+  {
+    "question_en": "Which part of the ear helps in balance?",
+    "question_ta": "சமநிலைக்கு உதவும் காது பகுதி எது?",
+    "options_en": ["Cochlea", "Eardrum", "Semicircular canals", "Pinna"],
+    "options_ta": ["கோக்ளியா", "காதின் படலம்", "அரையசை கால்வாய்", "புறக்காது"],
+    "answer_en": "Semicircular canals",
+    "answer_ta": "அரையசை கால்வாய்"
+  },
+  {
+    "question_en": "What is the SI unit of force?",
+    "question_ta": "சக்தியின் எஸ்.ஐ அலகு எது?",
+    "options_en": ["Newton", "Joule", "Pascal", "Watt"],
+    "options_ta": ["நியூட்டன்", "ஜூல்", "பாஸ்கல்", "வாட்"],
+    "answer_en": "Newton",
+    "answer_ta": "நியூட்டன்"
+  },
+  {
+    "question_en": "Which is known as blue planet?",
+    "question_ta": "நீலக் கோள் என அழைக்கப்படுவது எது?",
+    "options_en": ["Venus", "Earth", "Mars", "Saturn"],
+    "options_ta": ["சுக்கிரன்", "பூமி", "செவ்வாய்", "சனி"],
+    "answer_en": "Earth",
+    "answer_ta": "பூமி"
+  },
+  {
+    "question_en": "Which device converts sound into electrical signals?",
+    "question_ta": "ஒலியை மின்சார அலைகளாக மாற்றும் கருவி எது?",
+    "options_en": ["Speaker", "Microphone", "Amplifier", "Camera"],
+    "options_ta": ["ஸ்பீக்கர்", "மைக்ரோஃபோன்", "அம்ப்ளிபையர்", "கேமரா"],
+    "answer_en": "Microphone",
+    "answer_ta": "மைக்ரோஃபோன்"
+  },
+  {
+    "question_en": "Which energy is obtained from the Sun?",
+    "question_ta": "சூரியனில் இருந்து பெறப்படும் ஆற்றல் எது?",
+    "options_en": ["Solar energy", "Thermal energy", "Wind energy", "Hydro energy"],
+    "options_ta": ["சூரிய ஆற்றல்", "வெப்ப ஆற்றல்", "காற்று ஆற்றல்", "நீர்மின் ஆற்றல்"],
+    "answer_en": "Solar energy",
+    "answer_ta": "சூரிய ஆற்றல்"
+  },
+  {
+    "question_en": "Which planet is known as the morning star?",
+    "question_ta": "காலை நட்சத்திரம் என அழைக்கப்படும் கோள் எது?",
+    "options_en": ["Mercury", "Venus", "Mars", "Saturn"],
+    "options_ta": ["புதன்", "சுக்கிரன்", "செவ்வாய்", "சனி"],
+    "answer_en": "Venus",
+    "answer_ta": "சுக்கிரன்"
+  },
+  {
+    "question_en": "Which organ pumps blood throughout the body?",
+    "question_ta": "உடல் முழுவதும் இரத்தத்தை பாய்ச்சும் உறுப்பு எது?",
+    "options_en": ["Brain", "Lungs", "Heart", "Kidney"],
+    "options_ta": ["மூளை", "நுரையீரல்", "இதயம்", "சிறுநீரகம்"],
+    "answer_en": "Heart",
+    "answer_ta": "இதயம்"
+  },
+  {
+    "question_en": "Which part of the plant is mainly responsible for photosynthesis?",
+    "question_ta": "ஒளிச்சேர்க்கைக்கு முதன்மையாக பொறுப்பான தாவர பகுதி எது?",
+    "options_en": ["Stem", "Root", "Leaf", "Flower"],
+    "options_ta": ["தண்டு", "வேர்", "இலை", "மலர்"],
+    "answer_en": "Leaf",
+    "answer_ta": "இலை"
+  },
+  {
+    "question_en": "Which gas is used in fire extinguishers?",
+    "question_ta": "தீ அணைப்பான்களில் எந்த வாயு பயன்படுத்தப்படுகிறது?",
+    "options_en": ["Oxygen", "Carbon dioxide", "Nitrogen", "Hydrogen"],
+    "options_ta": ["ஆக்சிஜன்", "கார்பன் டை ஆக்சைடு", "நைட்ரஜன்", "ஹைட்ரஜன்"],
+    "answer_en": "Carbon dioxide",
+    "answer_ta": "கார்பன் டை ஆக்சைடு"
+  },
+  {
+    "question_en": "Which part of the brain controls breathing?",
+    "question_ta": "சுவாசத்தை கட்டுப்படுத்தும் மூளையின் பகுதி எது?",
+    "options_en": ["Cerebellum", "Cerebrum", "Medulla", "Pons"],
+    "options_ta": ["செரிபெல்லம்", "செரிப்ரம்", "மெடுல்லா", "பான்ஸ்"],
+    "answer_en": "Medulla",
+    "answer_ta": "மெடுல்லா"
+  },
+  {
+    "question_en": "Which planet has the largest rings?",
+    "question_ta": "மிகப்பெரிய வளையங்களை கொண்டிருக்கும் கோள் எது?",
+    "options_en": ["Jupiter", "Saturn", "Neptune", "Uranus"],
+    "options_ta": ["வியாழன்", "சனி", "நெப்டியூன்", "உரேனஸ்"],
+    "answer_en": "Saturn",
+    "answer_ta": "சனி"
+  },
+  {
+    "question_en": "Which organ stores bile juice?",
+    "question_ta": "பித்த சாற்றை சேமிக்கும் உறுப்பு எது?",
+    "options_en": ["Liver", "Stomach", "Gallbladder", "Pancreas"],
+    "options_ta": ["கல்லீரல்", "வயிறு", "பித்தப்பை", "கீழ்வயிறு சுரப்பி"],
+    "answer_en": "Gallbladder",
+    "answer_ta": "பித்தப்பை"
+  },
+  {
+    "question_en": "Which blood group is called the universal recipient?",
+    "question_ta": "எந்த இரத்தக் குழு பொதுவான பெறுநர் என்று அழைக்கப்படுகிறது?",
+    "options_en": ["O", "B", "AB", "A"],
+    "options_ta": ["O", "B", "AB", "A"],
+    "answer_en": "AB",
+    "answer_ta": "AB"
+  },
+  {
+    "question_en": "Which gas is used in balloons?",
+    "question_ta": "பலூன்களில் பயன்படுத்தப்படும் வாயு எது?",
+    "options_en": ["Oxygen", "Carbon dioxide", "Hydrogen", "Helium"],
+    "options_ta": ["ஆக்சிஜன்", "கார்பன் டை ஆக்சைடு", "ஹைட்ரஜன்", "ஹீலியம்"],
+    "answer_en": "Helium",
+    "answer_ta": "ஹீலியம்"
+  },
+  {
+    "question_en": "Which is the fastest bird?",
+    "question_ta": "மிக வேகமான பறவை எது?",
+    "options_en": ["Parrot", "Crow", "Peregrine Falcon", "Eagle"],
+    "options_ta": ["கிளி", "காகம்", "பெரிக்ரைன் ஃபால்கன்", "கருடன்"],
+    "answer_en": "Peregrine Falcon",
+    "answer_ta": "பெரிக்ரைன் ஃபால்கன்"
+  },
+  {
+    "question_en": "Which gas is responsible for global warming?",
+    "question_ta": "உலக வெப்பமயமாதலுக்குக் காரணமான வாயு எது?",
+    "options_en": ["Oxygen", "Carbon dioxide", "Nitrogen", "Hydrogen"],
+    "options_ta": ["ஆக்சிஜன்", "கார்பன் டை ஆக்சைடு", "நைட்ரஜன்", "ஹைட்ரஜன்"],
+    "answer_en": "Carbon dioxide",
+    "answer_ta": "கார்பன் டை ஆக்சைடு"
+  },
+  {
+    "question_en": "Which element is required for strong bones?",
+    "question_ta": "எலும்புகள் வலுவாக இருக்க வேண்டிய தனிமம் எது?",
+    "options_en": ["Iron", "Calcium", "Potassium", "Magnesium"],
+    "options_ta": ["இரும்பு", "கால்சியம்", "பொட்டாசியம்", "மக்னீசியம்"],
+    "answer_en": "Calcium",
+    "answer_ta": "கால்சியம்"
+  },
+  {
+    "question_en": "Which gas is used for respiration in plants and animals?",
+    "question_ta": "தாவரங்கள் மற்றும் விலங்குகளின் சுவாசத்திற்கு தேவையான வாயு எது?",
+    "options_en": ["Nitrogen", "Oxygen", "Carbon dioxide", "Helium"],
+    "options_ta": ["நைட்ரஜன்", "ஆக்சிஜன்", "கார்பன் டை ஆக்சைடு", "ஹீலியம்"],
+    "answer_en": "Oxygen",
+    "answer_ta": "ஆக்சிஜன்"
+  },
+  {
+    "question_en": "Which organ secretes insulin?",
+    "question_ta": "இன்சுலின் சுரக்கும் உறுப்பு எது?",
+    "options_en": ["Liver", "Pancreas", "Kidney", "Stomach"],
+    "options_ta": ["கல்லீரல்", "கீழ்வயிறு சுரப்பி", "சிறுநீரகம்", "வயிறு"],
+    "answer_en": "Pancreas",
+    "answer_ta": "கீழ்வயிறு சுரப்பி"
+  }
+]

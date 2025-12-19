@@ -1,0 +1,902 @@
+[
+  {
+    "question_en": "Find the LCM of 7 and 14.",
+    "question_ta": "7 மற்றும் 14 இன் LCM எது?",
+    "options_en": [
+      "13",
+      "98",
+      "15",
+      "14"
+    ],
+    "options_ta": [
+      "13",
+      "98",
+      "15",
+      "14"
+    ],
+    "answer_en": "14",
+    "answer_ta": "14"
+  },
+  {
+    "question_en": "Find the LCM of 10 and 15.",
+    "question_ta": "10 மற்றும் 15 இன் LCM எது?",
+    "options_en": [
+      "150",
+      "30",
+      "31",
+      "29"
+    ],
+    "options_ta": [
+      "150",
+      "30",
+      "31",
+      "29"
+    ],
+    "answer_en": "30",
+    "answer_ta": "30"
+  },
+  {
+    "question_en": "Find the LCM of 13 and 7.",
+    "question_ta": "13 மற்றும் 7 இன் LCM எது?",
+    "options_en": [
+      "91",
+      "91",
+      "90",
+      "92"
+    ],
+    "options_ta": [
+      "91",
+      "91",
+      "90",
+      "92"
+    ],
+    "answer_en": "91",
+    "answer_ta": "91"
+  },
+  {
+    "question_en": "Find the LCM of 5 and 6.",
+    "question_ta": "5 மற்றும் 6 இன் LCM எது?",
+    "options_en": [
+      "29",
+      "30",
+      "31",
+      "30"
+    ],
+    "options_ta": [
+      "29",
+      "30",
+      "31",
+      "30"
+    ],
+    "answer_en": "30",
+    "answer_ta": "30"
+  },
+  {
+    "question_en": "Find the LCM of 5 and 14.",
+    "question_ta": "5 மற்றும் 14 இன் LCM எது?",
+    "options_en": [
+      "70",
+      "70",
+      "71",
+      "69"
+    ],
+    "options_ta": [
+      "70",
+      "70",
+      "71",
+      "69"
+    ],
+    "answer_en": "70",
+    "answer_ta": "70"
+  },
+  {
+    "question_en": "Find the LCM of 12 and 8.",
+    "question_ta": "12 மற்றும் 8 இன் LCM எது?",
+    "options_en": [
+      "25",
+      "96",
+      "23",
+      "24"
+    ],
+    "options_ta": [
+      "25",
+      "96",
+      "23",
+      "24"
+    ],
+    "answer_en": "24",
+    "answer_ta": "24"
+  },
+  {
+    "question_en": "Find the LCM of 12 and 14.",
+    "question_ta": "12 மற்றும் 14 இன் LCM எது?",
+    "options_en": [
+      "84",
+      "85",
+      "83",
+      "168"
+    ],
+    "options_ta": [
+      "84",
+      "85",
+      "83",
+      "168"
+    ],
+    "answer_en": "84",
+    "answer_ta": "84"
+  },
+  {
+    "question_en": "Find the LCM of 6 and 7.",
+    "question_ta": "6 மற்றும் 7 இன் LCM எது?",
+    "options_en": [
+      "41",
+      "42",
+      "43",
+      "42"
+    ],
+    "options_ta": [
+      "41",
+      "42",
+      "43",
+      "42"
+    ],
+    "answer_en": "42",
+    "answer_ta": "42"
+  },
+  {
+    "question_en": "Find the LCM of 13 and 15.",
+    "question_ta": "13 மற்றும் 15 இன் LCM எது?",
+    "options_en": [
+      "195",
+      "194",
+      "195",
+      "196"
+    ],
+    "options_ta": [
+      "195",
+      "194",
+      "195",
+      "196"
+    ],
+    "answer_en": "195",
+    "answer_ta": "195"
+  },
+  {
+    "question_en": "Find the LCM of 12 and 12.",
+    "question_ta": "12 மற்றும் 12 இன் LCM எது?",
+    "options_en": [
+      "144",
+      "11",
+      "13",
+      "12"
+    ],
+    "options_ta": [
+      "144",
+      "11",
+      "13",
+      "12"
+    ],
+    "answer_en": "12",
+    "answer_ta": "12"
+  },
+  {
+    "question_en": "Find the LCM of 5 and 15.",
+    "question_ta": "5 மற்றும் 15 இன் LCM எது?",
+    "options_en": [
+      "16",
+      "14",
+      "15",
+      "75"
+    ],
+    "options_ta": [
+      "16",
+      "14",
+      "15",
+      "75"
+    ],
+    "answer_en": "15",
+    "answer_ta": "15"
+  },
+  {
+    "question_en": "Find the LCM of 8 and 13.",
+    "question_ta": "8 மற்றும் 13 இன் LCM எது?",
+    "options_en": [
+      "105",
+      "103",
+      "104",
+      "104"
+    ],
+    "options_ta": [
+      "105",
+      "103",
+      "104",
+      "104"
+    ],
+    "answer_en": "104",
+    "answer_ta": "104"
+  },
+  {
+    "question_en": "Find the LCM of 12 and 11.",
+    "question_ta": "12 மற்றும் 11 இன் LCM எது?",
+    "options_en": [
+      "132",
+      "133",
+      "131",
+      "132"
+    ],
+    "options_ta": [
+      "132",
+      "133",
+      "131",
+      "132"
+    ],
+    "answer_en": "132",
+    "answer_ta": "132"
+  },
+  {
+    "question_en": "Find the LCM of 15 and 13.",
+    "question_ta": "15 மற்றும் 13 இன் LCM எது?",
+    "options_en": [
+      "196",
+      "195",
+      "194",
+      "195"
+    ],
+    "options_ta": [
+      "196",
+      "195",
+      "194",
+      "195"
+    ],
+    "answer_en": "195",
+    "answer_ta": "195"
+  },
+  {
+    "question_en": "Find the LCM of 13 and 11.",
+    "question_ta": "13 மற்றும் 11 இன் LCM எது?",
+    "options_en": [
+      "144",
+      "143",
+      "142",
+      "143"
+    ],
+    "options_ta": [
+      "144",
+      "143",
+      "142",
+      "143"
+    ],
+    "answer_en": "143",
+    "answer_ta": "143"
+  },
+  {
+    "question_en": "Find the LCM of 10 and 12.",
+    "question_ta": "10 மற்றும் 12 இன் LCM எது?",
+    "options_en": [
+      "59",
+      "61",
+      "60",
+      "120"
+    ],
+    "options_ta": [
+      "59",
+      "61",
+      "60",
+      "120"
+    ],
+    "answer_en": "60",
+    "answer_ta": "60"
+  },
+  {
+    "question_en": "Find the LCM of 14 and 11.",
+    "question_ta": "14 மற்றும் 11 இன் LCM எது?",
+    "options_en": [
+      "154",
+      "153",
+      "155",
+      "154"
+    ],
+    "options_ta": [
+      "154",
+      "153",
+      "155",
+      "154"
+    ],
+    "answer_en": "154",
+    "answer_ta": "154"
+  },
+  {
+    "question_en": "Find the LCM of 12 and 11.",
+    "question_ta": "12 மற்றும் 11 இன் LCM எது?",
+    "options_en": [
+      "133",
+      "131",
+      "132",
+      "132"
+    ],
+    "options_ta": [
+      "133",
+      "131",
+      "132",
+      "132"
+    ],
+    "answer_en": "132",
+    "answer_ta": "132"
+  },
+  {
+    "question_en": "Find the LCM of 6 and 11.",
+    "question_ta": "6 மற்றும் 11 இன் LCM எது?",
+    "options_en": [
+      "67",
+      "66",
+      "65",
+      "66"
+    ],
+    "options_ta": [
+      "67",
+      "66",
+      "65",
+      "66"
+    ],
+    "answer_en": "66",
+    "answer_ta": "66"
+  },
+  {
+    "question_en": "Find the LCM of 11 and 15.",
+    "question_ta": "11 மற்றும் 15 இன் LCM எது?",
+    "options_en": [
+      "164",
+      "165",
+      "166",
+      "165"
+    ],
+    "options_ta": [
+      "164",
+      "165",
+      "166",
+      "165"
+    ],
+    "answer_en": "165",
+    "answer_ta": "165"
+  },
+  {
+    "question_en": "Find the LCM of 15 and 9.",
+    "question_ta": "15 மற்றும் 9 இன் LCM எது?",
+    "options_en": [
+      "135",
+      "45",
+      "44",
+      "46"
+    ],
+    "options_ta": [
+      "135",
+      "45",
+      "44",
+      "46"
+    ],
+    "answer_en": "45",
+    "answer_ta": "45"
+  },
+  {
+    "question_en": "Find the LCM of 12 and 7.",
+    "question_ta": "12 மற்றும் 7 இன் LCM எது?",
+    "options_en": [
+      "84",
+      "84",
+      "85",
+      "83"
+    ],
+    "options_ta": [
+      "84",
+      "84",
+      "85",
+      "83"
+    ],
+    "answer_en": "84",
+    "answer_ta": "84"
+  },
+  {
+    "question_en": "Find the LCM of 13 and 13.",
+    "question_ta": "13 மற்றும் 13 இன் LCM எது?",
+    "options_en": [
+      "13",
+      "169",
+      "14",
+      "12"
+    ],
+    "options_ta": [
+      "13",
+      "169",
+      "14",
+      "12"
+    ],
+    "answer_en": "13",
+    "answer_ta": "13"
+  },
+  {
+    "question_en": "Find the LCM of 15 and 5.",
+    "question_ta": "15 மற்றும் 5 இன் LCM எது?",
+    "options_en": [
+      "75",
+      "16",
+      "14",
+      "15"
+    ],
+    "options_ta": [
+      "75",
+      "16",
+      "14",
+      "15"
+    ],
+    "answer_en": "15",
+    "answer_ta": "15"
+  },
+  {
+    "question_en": "Find the LCM of 11 and 12.",
+    "question_ta": "11 மற்றும் 12 இன் LCM எது?",
+    "options_en": [
+      "132",
+      "132",
+      "131",
+      "133"
+    ],
+    "options_ta": [
+      "132",
+      "132",
+      "131",
+      "133"
+    ],
+    "answer_en": "132",
+    "answer_ta": "132"
+  },
+  {
+    "question_en": "Find the LCM of 9 and 7.",
+    "question_ta": "9 மற்றும் 7 இன் LCM எது?",
+    "options_en": [
+      "63",
+      "62",
+      "64",
+      "63"
+    ],
+    "options_ta": [
+      "63",
+      "62",
+      "64",
+      "63"
+    ],
+    "answer_en": "63",
+    "answer_ta": "63"
+  },
+  {
+    "question_en": "Find the LCM of 10 and 14.",
+    "question_ta": "10 மற்றும் 14 இன் LCM எது?",
+    "options_en": [
+      "70",
+      "69",
+      "71",
+      "140"
+    ],
+    "options_ta": [
+      "70",
+      "69",
+      "71",
+      "140"
+    ],
+    "answer_en": "70",
+    "answer_ta": "70"
+  },
+  {
+    "question_en": "Find the LCM of 7 and 13.",
+    "question_ta": "7 மற்றும் 13 இன் LCM எது?",
+    "options_en": [
+      "91",
+      "92",
+      "91",
+      "90"
+    ],
+    "options_ta": [
+      "91",
+      "92",
+      "91",
+      "90"
+    ],
+    "answer_en": "91",
+    "answer_ta": "91"
+  },
+  {
+    "question_en": "Find the LCM of 7 and 5.",
+    "question_ta": "7 மற்றும் 5 இன் LCM எது?",
+    "options_en": [
+      "34",
+      "35",
+      "35",
+      "36"
+    ],
+    "options_ta": [
+      "34",
+      "35",
+      "35",
+      "36"
+    ],
+    "answer_en": "35",
+    "answer_ta": "35"
+  },
+  {
+    "question_en": "Find the LCM of 11 and 13.",
+    "question_ta": "11 மற்றும் 13 இன் LCM எது?",
+    "options_en": [
+      "143",
+      "144",
+      "142",
+      "143"
+    ],
+    "options_ta": [
+      "143",
+      "144",
+      "142",
+      "143"
+    ],
+    "answer_en": "143",
+    "answer_ta": "143"
+  },
+  {
+    "question_en": "Find the LCM of 10 and 8.",
+    "question_ta": "10 மற்றும் 8 இன் LCM எது?",
+    "options_en": [
+      "39",
+      "41",
+      "40",
+      "80"
+    ],
+    "options_ta": [
+      "39",
+      "41",
+      "40",
+      "80"
+    ],
+    "answer_en": "40",
+    "answer_ta": "40"
+  },
+  {
+    "question_en": "Find the LCM of 12 and 7.",
+    "question_ta": "12 மற்றும் 7 இன் LCM எது?",
+    "options_en": [
+      "85",
+      "84",
+      "84",
+      "83"
+    ],
+    "options_ta": [
+      "85",
+      "84",
+      "84",
+      "83"
+    ],
+    "answer_en": "84",
+    "answer_ta": "84"
+  },
+  {
+    "question_en": "Find the LCM of 8 and 11.",
+    "question_ta": "8 மற்றும் 11 இன் LCM எது?",
+    "options_en": [
+      "89",
+      "88",
+      "88",
+      "87"
+    ],
+    "options_ta": [
+      "89",
+      "88",
+      "88",
+      "87"
+    ],
+    "answer_en": "88",
+    "answer_ta": "88"
+  },
+  {
+    "question_en": "Find the LCM of 8 and 11.",
+    "question_ta": "8 மற்றும் 11 இன் LCM எது?",
+    "options_en": [
+      "87",
+      "88",
+      "88",
+      "89"
+    ],
+    "options_ta": [
+      "87",
+      "88",
+      "88",
+      "89"
+    ],
+    "answer_en": "88",
+    "answer_ta": "88"
+  },
+  {
+    "question_en": "Find the LCM of 11 and 13.",
+    "question_ta": "11 மற்றும் 13 இன் LCM எது?",
+    "options_en": [
+      "144",
+      "142",
+      "143",
+      "143"
+    ],
+    "options_ta": [
+      "144",
+      "142",
+      "143",
+      "143"
+    ],
+    "answer_en": "143",
+    "answer_ta": "143"
+  },
+  {
+    "question_en": "Find the LCM of 7 and 12.",
+    "question_ta": "7 மற்றும் 12 இன் LCM எது?",
+    "options_en": [
+      "83",
+      "85",
+      "84",
+      "84"
+    ],
+    "options_ta": [
+      "83",
+      "85",
+      "84",
+      "84"
+    ],
+    "answer_en": "84",
+    "answer_ta": "84"
+  },
+  {
+    "question_en": "Find the LCM of 9 and 14.",
+    "question_ta": "9 மற்றும் 14 இன் LCM எது?",
+    "options_en": [
+      "127",
+      "125",
+      "126",
+      "126"
+    ],
+    "options_ta": [
+      "127",
+      "125",
+      "126",
+      "126"
+    ],
+    "answer_en": "126",
+    "answer_ta": "126"
+  },
+  {
+    "question_en": "Find the LCM of 9 and 11.",
+    "question_ta": "9 மற்றும் 11 இன் LCM எது?",
+    "options_en": [
+      "99",
+      "100",
+      "98",
+      "99"
+    ],
+    "options_ta": [
+      "99",
+      "100",
+      "98",
+      "99"
+    ],
+    "answer_en": "99",
+    "answer_ta": "99"
+  },
+  {
+    "question_en": "Find the LCM of 5 and 12.",
+    "question_ta": "5 மற்றும் 12 இன் LCM எது?",
+    "options_en": [
+      "60",
+      "61",
+      "59",
+      "60"
+    ],
+    "options_ta": [
+      "60",
+      "61",
+      "59",
+      "60"
+    ],
+    "answer_en": "60",
+    "answer_ta": "60"
+  },
+  {
+    "question_en": "Find the LCM of 14 and 15.",
+    "question_ta": "14 மற்றும் 15 இன் LCM எது?",
+    "options_en": [
+      "211",
+      "209",
+      "210",
+      "210"
+    ],
+    "options_ta": [
+      "211",
+      "209",
+      "210",
+      "210"
+    ],
+    "answer_en": "210",
+    "answer_ta": "210"
+  },
+  {
+    "question_en": "Find the LCM of 6 and 9.",
+    "question_ta": "6 மற்றும் 9 இன் LCM எது?",
+    "options_en": [
+      "18",
+      "19",
+      "17",
+      "54"
+    ],
+    "options_ta": [
+      "18",
+      "19",
+      "17",
+      "54"
+    ],
+    "answer_en": "18",
+    "answer_ta": "18"
+  },
+  {
+    "question_en": "Find the LCM of 7 and 12.",
+    "question_ta": "7 மற்றும் 12 இன் LCM எது?",
+    "options_en": [
+      "83",
+      "84",
+      "85",
+      "84"
+    ],
+    "options_ta": [
+      "83",
+      "84",
+      "85",
+      "84"
+    ],
+    "answer_en": "84",
+    "answer_ta": "84"
+  },
+  {
+    "question_en": "Find the LCM of 5 and 9.",
+    "question_ta": "5 மற்றும் 9 இன் LCM எது?",
+    "options_en": [
+      "46",
+      "44",
+      "45",
+      "45"
+    ],
+    "options_ta": [
+      "46",
+      "44",
+      "45",
+      "45"
+    ],
+    "answer_en": "45",
+    "answer_ta": "45"
+  },
+  {
+    "question_en": "Find the LCM of 15 and 9.",
+    "question_ta": "15 மற்றும் 9 இன் LCM எது?",
+    "options_en": [
+      "46",
+      "135",
+      "45",
+      "44"
+    ],
+    "options_ta": [
+      "46",
+      "135",
+      "45",
+      "44"
+    ],
+    "answer_en": "45",
+    "answer_ta": "45"
+  },
+  {
+    "question_en": "Find the LCM of 12 and 11.",
+    "question_ta": "12 மற்றும் 11 இன் LCM எது?",
+    "options_en": [
+      "132",
+      "133",
+      "132",
+      "131"
+    ],
+    "options_ta": [
+      "132",
+      "133",
+      "132",
+      "131"
+    ],
+    "answer_en": "132",
+    "answer_ta": "132"
+  },
+  {
+    "question_en": "Find the LCM of 7 and 13.",
+    "question_ta": "7 மற்றும் 13 இன் LCM எது?",
+    "options_en": [
+      "91",
+      "90",
+      "92",
+      "91"
+    ],
+    "options_ta": [
+      "91",
+      "90",
+      "92",
+      "91"
+    ],
+    "answer_en": "91",
+    "answer_ta": "91"
+  },
+  {
+    "question_en": "Find the LCM of 9 and 8.",
+    "question_ta": "9 மற்றும் 8 இன் LCM எது?",
+    "options_en": [
+      "71",
+      "72",
+      "73",
+      "72"
+    ],
+    "options_ta": [
+      "71",
+      "72",
+      "73",
+      "72"
+    ],
+    "answer_en": "72",
+    "answer_ta": "72"
+  },
+  {
+    "question_en": "Find the LCM of 13 and 9.",
+    "question_ta": "13 மற்றும் 9 இன் LCM எது?",
+    "options_en": [
+      "116",
+      "117",
+      "118",
+      "117"
+    ],
+    "options_ta": [
+      "116",
+      "117",
+      "118",
+      "117"
+    ],
+    "answer_en": "117",
+    "answer_ta": "117"
+  },
+  {
+    "question_en": "Find the LCM of 15 and 15.",
+    "question_ta": "15 மற்றும் 15 இன் LCM எது?",
+    "options_en": [
+      "15",
+      "225",
+      "16",
+      "14"
+    ],
+    "options_ta": [
+      "15",
+      "225",
+      "16",
+      "14"
+    ],
+    "answer_en": "15",
+    "answer_ta": "15"
+  },
+  {
+    "question_en": "Find the LCM of 9 and 5.",
+    "question_ta": "9 மற்றும் 5 இன் LCM எது?",
+    "options_en": [
+      "45",
+      "46",
+      "45",
+      "44"
+    ],
+    "options_ta": [
+      "45",
+      "46",
+      "45",
+      "44"
+    ],
+    "answer_en": "45",
+    "answer_ta": "45"
+  }
+]

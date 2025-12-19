@@ -1,0 +1,346 @@
+[
+  {
+    "question_en": "Who wrote 'Paradise Lost'?",
+    "question_ta": "‘பாரடிஸ் லாஸ்ட்’ நூலை எழுதியவர் யார்?",
+    "options_en": ["William Blake", "John Milton", "Wordsworth", "Shakespeare"],
+    "options_ta": ["வில்லியம் பிளேக்", "ஜான் மில்டன்", "வர்ட்ஸ்வொர்த்", "ஷேக்ஸ்பியர்"],
+    "answer_en": "John Milton",
+    "answer_ta": "ஜான் மில்டன்"
+  },
+  {
+    "question_en": "Which is the deepest ocean in the world?",
+    "question_ta": "உலகின் ஆழமான பெருங்கடல் எது?",
+    "options_en": ["Pacific Ocean", "Indian Ocean", "Atlantic Ocean", "Arctic Ocean"],
+    "options_ta": ["பசிபிக் பெருங்கடல்", "இந்திய பெருங்கடல்", "அட்லாண்டிக் பெருங்கடல்", "ஆர்க்டிக் பெருங்கடல்"],
+    "answer_en": "Pacific Ocean",
+    "answer_ta": "பசிபிக் பெருங்கடல்"
+  },
+  {
+    "question_en": "Who is the author of 'The Merchant of Venice'?",
+    "question_ta": "‘தி மெர்சன்ட் ஆஃப் வெனிஸ்’ நாடகத்தை எழுதியவர் யார்?",
+    "options_en": ["Milton", "Shakespeare", "Dryden", "Dickens"],
+    "options_ta": ["மில்டன்", "ஷேக்ஸ்பியர்", "டிரைடன்", "டிக்கன்ஸ்"],
+    "answer_en": "Shakespeare",
+    "answer_ta": "ஷேக்ஸ்பியர்"
+  },
+  {
+    "question_en": "What is the chemical formula of water?",
+    "question_ta": "தண்ணீரின் வேதியியல் வாய்பாடு என்ன?",
+    "options_en": ["H2O", "CO2", "O2", "NaCl"],
+    "options_ta": ["H₂O", "CO₂", "O₂", "NaCl"],
+    "answer_en": "H2O",
+    "answer_ta": "H₂O"
+  },
+  {
+    "question_en": "Who discovered the theory of relativity?",
+    "question_ta": "சார்பு கோட்பாட்டை கண்டுபிடித்தவர் யார்?",
+    "options_en": ["Isaac Newton", "Albert Einstein", "Galileo", "Maxwell"],
+    "options_ta": ["ஐசக் நியூட்டன்", "ஆல்பர்ட் ஐன்ஸ்டீன்", "கலிலியோ", "மேக்ஸ்வெல்"],
+    "answer_en": "Albert Einstein",
+    "answer_ta": "ஆல்பர்ட் ஐன்ஸ்டீன்"
+  },
+  {
+    "question_en": "Which is the largest planet in the Solar System?",
+    "question_ta": "சூரியக் குடும்பத்தில் மிகப்பெரிய கோள் எது?",
+    "options_en": ["Saturn", "Jupiter", "Neptune", "Uranus"],
+    "options_ta": ["சனி", "வியாழன்", "நெப்டியூன்", "யுரேனஸ்"],
+    "answer_en": "Jupiter",
+    "answer_ta": "வியாழன்"
+  },
+  {
+    "question_en": "Who is the author of 'A Tale of Two Cities'?",
+    "question_ta": "‘ஏ டேல் ஆஃப் டூ சிட்டீஸ்’ நூலை எழுதியவர் யார்?",
+    "options_en": ["Charles Dickens", "George Eliot", "Mark Twain", "Jane Austen"],
+    "options_ta": ["சார்லஸ் டிக்கன்ஸ்", "ஜார்ஜ் எலியட்", "மார்க் ட்வைன்", "ஜேன் ஆஸ்டின்"],
+    "answer_en": "Charles Dickens",
+    "answer_ta": "சார்லஸ் டிக்கன்ஸ்"
+  },
+  {
+    "question_en": "Which country is known as the Land of Midnight Sun?",
+    "question_ta": "‘நள்ளிரவு சூரியன்’ நாடு என்று அழைக்கப்படும் நாடு எது?",
+    "options_en": ["Norway", "Sweden", "Finland", "Denmark"],
+    "options_ta": ["நார்வே", "ஸ்வீடன்", "பின்லாந்து", "டென்மார்க்"],
+    "answer_en": "Norway",
+    "answer_ta": "நார்வே"
+  },
+  {
+    "question_en": "Who is the author of 'Pride and Prejudice'?",
+    "question_ta": "‘பிரைட் அண்ட் பிரெஜுடிஸ்’ நூலை எழுதியவர் யார்?",
+    "options_en": ["Charlotte Bronte", "Jane Austen", "Emily Bronte", "George Eliot"],
+    "options_ta": ["ஷார்லட் ப்ரோன்டே", "ஜேன் ஆஸ்டின்", "எமிலி ப்ரோன்டே", "ஜார்ஜ் எலியட்"],
+    "answer_en": "Jane Austen",
+    "answer_ta": "ஜேன் ஆஸ்டின்"
+  },
+  {
+    "question_en": "Which is the smallest bone in the human body?",
+    "question_ta": "மனித உடலில் மிகச் சிறிய எலும்பு எது?",
+    "options_en": ["Stapes", "Femur", "Radius", "Tibia"],
+    "options_ta": ["ஸ்டேப்ஸ்", "ஃபீமர்", "ரேடியஸ்", "டிபியா"],
+    "answer_en": "Stapes",
+    "answer_ta": "ஸ்டேப்ஸ்"
+  },
+  {
+    "question_en": "Who proposed the law of planetary motion?",
+    "question_ta": "கிரகங்களின் இயக்கச் சட்டத்தை முன்வைத்தவர் யார்?",
+    "options_en": ["Kepler", "Newton", "Einstein", "Galileo"],
+    "options_ta": ["கேப்லர்", "நியூட்டன்", "ஐன்ஸ்டீன்", "கலிலியோ"],
+    "answer_en": "Kepler",
+    "answer_ta": "கேப்லர்"
+  },
+  {
+    "question_en": "Which metal is liquid at room temperature?",
+    "question_ta": "அறை வெப்ப நிலையில் திரவமாக உள்ள உலோகம் எது?",
+    "options_en": ["Mercury", "Iron", "Silver", "Copper"],
+    "options_ta": ["பாதரசம்", "இரும்பு", "வெள்ளி", "செம்பு"],
+    "answer_en": "Mercury",
+    "answer_ta": "பாதரசம்"
+  },
+  {
+    "question_en": "Who invented the World Wide Web?",
+    "question_ta": "வேர்ல்டு வைட் வெப் (WWW) யாரால் கண்டுபிடிக்கப்பட்டது?",
+    "options_en": ["Tim Berners-Lee", "Bill Gates", "Steve Jobs", "Alan Turing"],
+    "options_ta": ["டிம் பெர்னர்ஸ்-லீ", "பில் கேட்ஸ்", "ஸ்டீவ் ஜாப்ஸ்", "அலன் டூரிங்"],
+    "answer_en": "Tim Berners-Lee",
+    "answer_ta": "டிம் பெர்னர்ஸ்-லீ"
+  },
+  {
+    "question_en": "Which is the largest internal organ in the human body?",
+    "question_ta": "மனித உடலின் மிகப்பெரிய உள் உறுப்பு எது?",
+    "options_en": ["Liver", "Heart", "Kidney", "Lungs"],
+    "options_ta": ["கல்லீரல்", "இதயம்", "சிறுநீரகம்", "நுரையீரல்"],
+    "answer_en": "Liver",
+    "answer_ta": "கல்லீரல்"
+  },
+  {
+    "question_en": "Which Shakespeare play features the characters Rosencrantz and Guildenstern?",
+    "question_ta": "ரோசன்க்ரான்ட்ஸ் மற்றும் கில்டன்ஸ்டெர்ன் பாத்திரங்கள் இடம்பெறும் ஷேக்ஸ்பியர் நாடகம் எது?",
+    "options_en": ["Hamlet", "Macbeth", "Othello", "King Lear"],
+    "options_ta": ["ஹாம்லெட்", "மக்பெத்", "ஓதெல்லோ", "கிங் லியர்"],
+    "answer_en": "Hamlet",
+    "answer_ta": "ஹாம்லெட்"
+  },
+  {
+    "question_en": "What is the hardest naturally occurring mineral?",
+    "question_ta": "இயற்கையாக உருவாகும் மிகக் கடினமான கனிமம் எது?",
+    "options_en": ["Diamond", "Quartz", "Topaz", "Sapphire"],
+    "options_ta": ["வைரம்", "குவார்ட்ஸ்", "டோபாஸ்", "சப்பையர்"],
+    "answer_en": "Diamond",
+    "answer_ta": "வைரம்"
+  },
+  {
+    "question_en": "Who was the first man to step on the Moon?",
+    "question_ta": "சந்திரனில் காலடி வைத்த முதல் மனிதர் யார்?",
+    "options_en": ["Buzz Aldrin", "Neil Armstrong", "Yuri Gagarin", "Michael Collins"],
+    "options_ta": ["பஸ் ஆல்ட்ரின்", "நீல் ஆம்ஸ்ட்ராங்", "யூரி ககரின்", "மைக்கேல் கொலின்ஸ்"],
+    "answer_en": "Neil Armstrong",
+    "answer_ta": "நீல் ஆம்ஸ்ட்ராங்"
+  },
+  {
+    "question_en": "Which is the heaviest naturally occurring element?",
+    "question_ta": "இயற்கையாக உருவாகும் மிக கனமான மூலப்பொருள் எது?",
+    "options_en": ["Uranium", "Osmium", "Lead", "Gold"],
+    "options_ta": ["யுரேனியம்", "ஆஸ்மியம்", "சீயம்", "தங்கம்"],
+    "answer_en": "Uranium",
+    "answer_ta": "யுரேனியம்"
+  },
+  {
+    "question_en": "Who gave the theory of evolution by natural selection?",
+    "question_ta": "இயற்கைத் தேர்வின் மூலம் பரிணாமக் கோட்பாட்டை முன்வைத்தவர் யார்?",
+    "options_en": ["Darwin", "Lamarck", "Wallace", "Mendel"],
+    "options_ta": ["டார்வின்", "லாமார்க்", "வாலஸ்", "மெண்டல்"],
+    "answer_en": "Darwin",
+    "answer_ta": "டார்வின்"
+  },
+  {
+    "question_en": "Which scientist is called the father of modern physics?",
+    "question_ta": "நவீன இயற்பியலின் தந்தை என்று அழைக்கப்படுபவர் யார்?",
+    "options_en": ["Einstein", "Newton", "Galileo", "Max Planck"],
+    "options_ta": ["ஐன்ஸ்டீன்", "நியூட்டன்", "கலிலியோ", "மேக்ஸ் பிளாங்க்"],
+    "answer_en": "Galileo",
+    "answer_ta": "கலிலியோ"
+  },
+  {
+    "question_en": "Which Shakespeare play has the line 'All the world’s a stage'?",
+    "question_ta": "‘முழு உலகமும் ஒரு மேடை’ என்ற வரி இடம்பெறும் ஷேக்ஸ்பியர் நாடகம் எது?",
+    "options_en": ["Hamlet", "As You Like It", "Macbeth", "Othello"],
+    "options_ta": ["ஹாம்லெட்", "அஸ் யூ லைக் இட்", "மக்பெத்", "ஓதெல்லோ"],
+    "answer_en": "As You Like It",
+    "answer_ta": "அஸ் யூ லைக் இட்"
+  },
+  {
+    "question_en": "Which country first used paper money?",
+    "question_ta": "காகித நாணயத்தை முதலில் பயன்படுத்திய நாடு எது?",
+    "options_en": ["India", "China", "Egypt", "Greece"],
+    "options_ta": ["இந்தியா", "சீனா", "எகிப்து", "கிரீஸ்"],
+    "answer_en": "China",
+    "answer_ta": "சீனா"
+  },
+  {
+    "question_en": "Which metal is most abundant in Earth’s crust?",
+    "question_ta": "பூமியின் மேற்புறத்தில் அதிகம் காணப்படும் உலோகம் எது?",
+    "options_en": ["Aluminium", "Iron", "Copper", "Magnesium"],
+    "options_ta": ["அலுமினியம்", "இரும்பு", "செம்பு", "மக்னீசியம்"],
+    "answer_en": "Aluminium",
+    "answer_ta": "அலுமினியம்"
+  },
+  {
+    "question_en": "Who discovered penicillin?",
+    "question_ta": "பெனிசிலின் கண்டுபிடித்தவர் யார்?",
+    "options_en": ["Alexander Fleming", "Louis Pasteur", "Robert Koch", "Edward Jenner"],
+    "options_ta": ["அலெக்ஸாண்டர் பிளெமிங்", "லூயிஸ் பாஸ்டியர்", "ராபர்ட் கோச்", "எட்வர்ட் ஜென்னர்"],
+    "answer_en": "Alexander Fleming",
+    "answer_ta": "அலெக்ஸாண்டர் பிளெமிங்"
+  },
+  {
+    "question_en": "Which gas is commonly known as laughing gas?",
+    "question_ta": "சிரிப்பூட்டும் வாயு என்று அழைக்கப்படும் வாயு எது?",
+    "options_en": ["Nitrous Oxide", "Carbon Monoxide", "Oxygen", "Hydrogen"],
+    "options_ta": ["நைட்ரஸ் ஆக்சைடு", "கார்பன் மொனாக்சைடு", "ஆக்சிஜன்", "ஹைட்ரஜன்"],
+    "answer_en": "Nitrous Oxide",
+    "answer_ta": "நைட்ரஸ் ஆக்சைடு"
+  },
+  {
+    "question_en": "Which is the largest bone in the human body?",
+    "question_ta": "மனித உடலில் மிகப்பெரிய எலும்பு எது?",
+    "options_en": ["Femur", "Humerus", "Tibia", "Fibula"],
+    "options_ta": ["ஃபீமர்", "ஹ்யூமரஸ்", "டிபியா", "ஃபிபுலா"],
+    "answer_en": "Femur",
+    "answer_ta": "ஃபீமர்"
+  },
+  {
+    "question_en": "Who is called the Iron Man of India?",
+    "question_ta": "‘இந்தியாவின் இரும்பு மனிதர்’ என்று அழைக்கப்படுபவர் யார்?",
+    "options_en": ["Jawaharlal Nehru", "Sardar Vallabhbhai Patel", "B. R. Ambedkar", "Rajaji"],
+    "options_ta": ["ஜவஹர்லால் நேரு", "சர்தார் வல்லபாய் பட்டேல்", "அம்பேத்கர்", "ராஜாஜி"],
+    "answer_en": "Sardar Vallabhbhai Patel",
+    "answer_ta": "சர்தார் வல்லபாய் பட்டேல்"
+  },
+  {
+    "question_en": "Which scientist proposed the three laws of motion?",
+    "question_ta": "இயக்கத்தின் மூன்று சட்டங்களை முன்வைத்த விஞ்ஞானி யார்?",
+    "options_en": ["Einstein", "Newton", "Galileo", "Darwin"],
+    "options_ta": ["ஐன்ஸ்டீன்", "நியூட்டன்", "கலிலியோ", "டார்வின்"],
+    "answer_en": "Newton",
+    "answer_ta": "நியூட்டன்"
+  },
+  {
+    "question_en": "Which gas forms the majority of Earth's atmosphere?",
+    "question_ta": "பூமியின் வளிமண்டலத்தில் அதிகமாக காணப்படும் வாயு எது?",
+    "options_en": ["Oxygen", "Nitrogen", "Carbon dioxide", "Helium"],
+    "options_ta": ["ஆக்சிஜன்", "நைட்ரஜன்", "கார்பன் டை ஆக்சைடு", "ஹீலியம்"],
+    "answer_en": "Nitrogen",
+    "answer_ta": "நைட்ரஜன்"
+  },
+  {
+    "question_en": "Who is the author of 'The Tempest'?",
+    "question_ta": "‘தி டெம்பெஸ்ட்’ நாடகத்தை எழுதியவர் யார்?",
+    "options_en": ["Shakespeare", "Marlowe", "Milton", "Dryden"],
+    "options_ta": ["ஷேக்ஸ்பியர்", "மார்லோ", "மில்டன்", "டிரைடன்"],
+    "answer_en": "Shakespeare",
+    "answer_ta": "ஷேக்ஸ்பியர்"
+  },
+  {
+    "question_en": "Which blood cells help in clotting?",
+    "question_ta": "இரத்தக் கட்டியாக்கத்தில் உதவும் இரத்த அணுக்கள் எது?",
+    "options_en": ["RBC", "WBC", "Platelets", "Plasma"],
+    "options_ta": ["சிவப்பணுக்கள்", "வெள்ளையணுக்கள்", "தகட்டணுக்கள்", "பிளாஸ்மா"],
+    "answer_en": "Platelets",
+    "answer_ta": "தகட்டணுக்கள்"
+  },
+  {
+    "question_en": "Which is the fastest planet to orbit the Sun?",
+    "question_ta": "சூரியனைச் சுற்றி மிக வேகமாக சுழலும் கோள் எது?",
+    "options_en": ["Mercury", "Venus", "Earth", "Mars"],
+    "options_ta": ["புதன்", "சுக்கிரன்", "பூமி", "செவ்வாய்"],
+    "answer_en": "Mercury",
+    "answer_ta": "புதன்"
+  },
+  {
+    "question_en": "Who is known as the Father of Genetics?",
+    "question_ta": "‘மரபியலின் தந்தை’ என்று அழைக்கப்படுபவர் யார்?",
+    "options_en": ["Gregor Mendel", "Darwin", "Watson", "Crick"],
+    "options_ta": ["கிரெகர் மெண்டல்", "டார்வின்", "வாட்சன்", "க்ரிக்"],
+    "answer_en": "Gregor Mendel",
+    "answer_ta": "கிரெகர் மெண்டல்"
+  },
+  {
+    "question_en": "Which planet is known as the Ice Giant?",
+    "question_ta": "‘பனிக் கோள்’ என்று அழைக்கப்படும் கிரகம் எது?",
+    "options_en": ["Uranus", "Saturn", "Neptune", "Jupiter"],
+    "options_ta": ["யுரேனஸ்", "சனி", "நெப்டியூன்", "வியாழன்"],
+    "answer_en": "Neptune",
+    "answer_ta": "நெப்டியூன்"
+  },
+  {
+    "question_en": "Which country discovered zero?",
+    "question_ta": "‘பூஜ்யம்’ கண்டுபிடித்த நாடு எது?",
+    "options_en": ["India", "Greece", "China", "Egypt"],
+    "options_ta": ["இந்தியா", "கிரீஸ்", "சீனா", "எகிப்து"],
+    "answer_en": "India",
+    "answer_ta": "இந்தியா"
+  },
+  {
+    "question_en": "Who is called the Father of Computers?",
+    "question_ta": "‘கணினியின் தந்தை’ என்று அழைக்கப்படுபவர் யார்?",
+    "options_en": ["Charles Babbage", "Alan Turing", "Bill Gates", "Steve Jobs"],
+    "options_ta": ["சார்லஸ் பேப்பேஜ்", "அலன் டூரிங்", "பில் கேட்ஸ்", "ஸ்டீவ் ஜாப்ஸ்"],
+    "answer_en": "Charles Babbage",
+    "answer_ta": "சார்லஸ் பேப்பேஜ்"
+  },
+  {
+    "question_en": "Which is the hottest planet in the Solar System?",
+    "question_ta": "சூரியக் குடும்பத்தில் அதிக வெப்பமுள்ள கோள் எது?",
+    "options_en": ["Mercury", "Venus", "Mars", "Jupiter"],
+    "options_ta": ["புதன்", "சுக்கிரன்", "செவ்வாய்", "வியாழன்"],
+    "answer_en": "Venus",
+    "answer_ta": "சுக்கிரன்"
+  },
+  {
+    "question_en": "Which layer of Earth contains the ozone layer?",
+    "question_ta": "பூமியின் எந்த அடுக்கில் ஓசோன் படலம் உள்ளது?",
+    "options_en": ["Troposphere", "Stratosphere", "Mesosphere", "Exosphere"],
+    "options_ta": ["டிரோபோஸ்பியர்", "ஸ்ட்ராடோஸ்பியர்", "மேசோஸ்பியர்", "எக்ஸோஸ்பியர்"],
+    "answer_en": "Stratosphere",
+    "answer_ta": "ஸ்ட்ராடோஸ்பியர்"
+  },
+  {
+    "question_en": "Who invented logarithms?",
+    "question_ta": "லோகாரிதம் கண்டுபிடித்தவர் யார்?",
+    "options_en": ["John Napier", "Newton", "Descartes", "Euler"],
+    "options_ta": ["ஜான் நேப்பியர்", "நியூட்டன்", "டெஸ்கார்ட்ஸ்", "ஓய்லர்"],
+    "answer_en": "John Napier",
+    "answer_ta": "ஜான் நேப்பியர்"
+  },
+  {
+    "question_en": "Which is the rarest blood group?",
+    "question_ta": "மிக அபூர்வமான இரத்த வகை எது?",
+    "options_en": ["O-", "AB-", "B+", "A+"],
+    "options_ta": ["O-", "AB-", "B+", "A+"],
+    "answer_en": "AB-",
+    "answer_ta": "AB-"
+  },
+  {
+    "question_en": "Which Indian mathematician invented the value of Pi?",
+    "question_ta": "பை மதிப்பை கண்டறிந்த இந்தியக் கணிதவியலாளர் யார்?",
+    "options_en": ["Aryabhata", "Brahmagupta", "Ramanujan", "Bhaskara"],
+    "options_ta": ["ஆர்யபட்டர்", "பிரக்மகுப்தர்", "ராமானுஜன்", "பாஸ்கரர்"],
+    "answer_en": "Aryabhata",
+    "answer_ta": "ஆர்யபட்டர்"
+  },
+  {
+    "question_en": "Which scientist is known for the laws of heredity?",
+    "question_ta": "மரபியல் சட்டங்களுக்கு பெயர்பெற்ற விஞ்ஞானி யார்?",
+    "options_en": ["Mendel", "Darwin", "Watson", "Crick"],
+    "options_ta": ["மெண்டல்", "டார்வின்", "வாட்சன்", "க்ரிக்"],
+    "answer_en": "Mendel",
+    "answer_ta": "மெண்டல்"
+  },
+  {
+    "question_en": "Which Indian was the first to receive the Nobel Prize?",
+    "question_ta": "இந்தியாவில் முதல் நோபல் பரிசு பெற்றவர் யார்?",
+    "options_en": ["Rabindranath Tagore", "C. V. Raman", "Amartya Sen", "Kailash Satyarthi"],
+    "options_ta": ["ரபீந்திரநாத் தாகூர்", "சி.வி. ராமன்", "அமர்த்யா சென்", "கைலாஷ் சத்யார்த்தி"],
+    "answer_en": "Rabindranath Tagore",
+    "answer_ta": "ரபீந்திரநாத் தாகூர்"
+  }
+]

@@ -1,0 +1,250 @@
+[
+  {
+    "question_en": "Which accounting principle states that anticipated losses are recorded but anticipated profits are not?",
+    "question_ta": "எதிர்பார்க்கப்படும் இழப்புகளை பதிவு செய்ய வேண்டும் ஆனால் எதிர்பார்க்கப்படும் லாபங்களை பதிவு செய்யக்கூடாது என்று கூறும் கணக்கியல் கொள்கை எது?",
+    "options_en": ["Conservatism Principle", "Matching Principle", "Cost Principle", "Consistency Principle"],
+    "options_ta": ["பாதுகாப்பு கொள்கை", "பொருந்தும் கொள்கை", "செலவு கொள்கை", "முறையான கொள்கை"],
+    "answer_en": "Conservatism Principle",
+    "answer_ta": "பாதுகாப்பு கொள்கை"
+  },
+  {
+    "question_en": "Which error is rectified by passing a Suspense account entry?",
+    "question_ta": "எந்த பிழை சந்தேகக் கணக்கின் வழியாகச் சரிசெய்யப்படும்?",
+    "options_en": ["One-sided error", "Two-sided error", "Principle error", "Error of omission"],
+    "options_ta": ["ஒருபக்கப் பிழை", "இருபக்கப் பிழை", "கொள்கைப் பிழை", "விடுபட்ட பிழை"],
+    "answer_en": "One-sided error",
+    "answer_ta": "ஒருபக்கப் பிழை"
+  },
+  {
+    "question_en": "Which adjustment is made for prepaid expenses at the end of the year?",
+    "question_ta": "ஆண்டின் இறுதியில் முன்கூட்டிய செலவுகளுக்கான சரிசெய்தல் எது?",
+    "options_en": ["Deducted from related expense", "Added to capital", "Shown as liability", "Added to income"],
+    "options_ta": ["சம்பந்தப்பட்ட செலவிலிருந்து கழிக்கப்படும்", "மூலதனத்தில் சேர்க்கப்படும்", "கடனாகக் காட்டப்படும்", "வருவாயில் சேர்க்கப்படும்"],
+    "answer_en": "Deducted from related expense",
+    "answer_ta": "சம்பந்தப்பட்ட செலவிலிருந்து கழிக்கப்படும்"
+  },
+  {
+    "question_en": "Closing stock is shown in which part of final accounts?",
+    "question_ta": "முடிவு சரக்கு இறுதி கணக்குகளில் எந்தப் பகுதியில் காட்டப்படும்?",
+    "options_en": ["Trading A/c and Balance Sheet", "Profit & Loss A/c only", "Cash Book", "Capital A/c"],
+    "options_ta": ["வணிகக் கணக்கும் இறுதிச்சீட்டும்", "லாப நஷ்டக் கணக்கில் மட்டும்", "பணப் புத்தகம்", "மூலதனக் கணக்கு"],
+    "answer_en": "Trading A/c and Balance Sheet",
+    "answer_ta": "வணிகக் கணக்கும் இறுதிச்சீட்டும்"
+  },
+  {
+    "question_en": "Which ratio indicates the liquidity position of a business?",
+    "question_ta": "ஒரு வணிகத்தின் திரவ நிலையை காட்டும் விகிதம் எது?",
+    "options_en": ["Current Ratio", "Debt-Equity Ratio", "Net Profit Ratio", "Operating Ratio"],
+    "options_ta": ["நடப்பு விகிதம்", "கடன்-மூலதன விகிதம்", "நிகர லாப விகிதம்", "இயக்கு விகிதம்"],
+    "answer_en": "Current Ratio",
+    "answer_ta": "நடப்பு விகிதம்"
+  },
+  {
+    "question_en": "If closing stock is Rs. 20,000 but wrongly taken as Rs. 2,000, the effect is?",
+    "question_ta": "முடிவு சரக்கு ₹20,000 ஆக இருக்கும்போது தவறாக ₹2,000 ஆக எடுத்துக் கொண்டால் விளைவு என்ன?",
+    "options_en": ["Gross profit understated", "Gross profit overstated", "No effect", "Capital overstated"],
+    "options_ta": ["மொத்த லாபம் குறைவாகக் காட்டப்படும்", "மொத்த லாபம் அதிகமாகக் காட்டப்படும்", "எந்த விளைவும் இல்லை", "மூலதனம் அதிகமாகக் காட்டப்படும்"],
+    "answer_en": "Gross profit understated",
+    "answer_ta": "மொத்த லாபம் குறைவாகக் காட்டப்படும்"
+  },
+  {
+    "question_en": "Which of the following will not appear in a Balance Sheet?",
+    "question_ta": "பின்வருவனவற்றில் எது இறுதிச்சீட்டில் தோன்றாது?",
+    "options_en": ["Outstanding expenses", "Capital", "Gross profit", "Debtors"],
+    "options_ta": ["செலுத்தப்படாத செலவுகள்", "மூலதனம்", "மொத்த லாபம்", "பெறுபவர்கள்"],
+    "answer_en": "Gross profit",
+    "answer_ta": "மொத்த லாபம்"
+  },
+  {
+    "question_en": "Which software is classified as open-source accounting software?",
+    "question_ta": "எந்த மென்பொருள் திறந்த மூல (open-source) கணக்கியல் மென்பொருளாக வகைப்படுத்தப்படுகிறது?",
+    "options_en": ["GNUCash", "Tally", "SAP", "Oracle Financials"],
+    "options_ta": ["GNUCash", "டாலி", "SAP", "Oracle நிதி"],
+    "answer_en": "GNUCash",
+    "answer_ta": "GNUCash"
+  },
+  {
+    "question_en": "Depreciation arises mainly due to?",
+    "question_ta": "மருதிகை (Depreciation) முக்கியமாக எதனால் ஏற்படுகிறது?",
+    "options_en": ["Wear and tear, passage of time", "Increase in value", "Goodwill", "Cash balance"],
+    "options_ta": ["அழுகலும் காலப்போக்கும்", "மதிப்பு அதிகரித்தல்", "நற்பெயர்", "பண இருப்பு"],
+    "answer_en": "Wear and tear, passage of time",
+    "answer_ta": "அழுகலும் காலப்போக்கும்"
+  },
+  {
+    "question_en": "Which account is affected when bad debts are recovered?",
+    "question_ta": "தவறான பாக்கிகள் மீட்டெடுக்கப்பட்டால் எந்தக் கணக்கு பாதிக்கப்படும்?",
+    "options_en": ["Bad Debts Recovered A/c", "Debtors A/c", "Cash A/c", "Capital A/c"],
+    "options_ta": ["மீட்டெடுத்த தவறான பாக்கிகள் கணக்கு", "பெறுபவர் கணக்கு", "பணக் கணக்கு", "மூலதனக் கணக்கு"],
+    "answer_en": "Bad Debts Recovered A/c",
+    "answer_ta": "மீட்டெடுத்த தவறான பாக்கிகள் கணக்கு"
+  },
+  {
+    "question_en": "Which error affects the agreement of trial balance?",
+    "question_ta": "சோதனை சமநிலையின் பொருத்தத்தை பாதிக்கும் பிழை எது?",
+    "options_en": ["Error of partial omission", "Error of principle", "Compensating error", "Error of complete omission"],
+    "options_ta": ["பகுதி விடுபட்ட பிழை", "கொள்கைப் பிழை", "இணைப்பு பிழை", "முழு விடுபட்ட பிழை"],
+    "answer_en": "Error of partial omission",
+    "answer_ta": "பகுதி விடுபட்ட பிழை"
+  },
+  {
+    "question_en": "If purchase returns are wrongly posted to sales account, it is an error of?",
+    "question_ta": "கொள்முதல் திருப்புகள் தவறாக விற்பனை கணக்கில் பதிவு செய்யப்பட்டால் அது எந்த வகை பிழை?",
+    "options_en": ["Error of omission", "Error of commission", "Error of principle", "Compensating error"],
+    "options_ta": ["விடுபட்ட பிழை", "செயற்பாட்டு பிழை", "கொள்கைப் பிழை", "இணைப்பு பிழை"],
+    "answer_en": "Error of principle",
+    "answer_ta": "கொள்கைப் பிழை"
+  },
+  {
+    "question_en": "Which method of providing depreciation results in equal charge every year?",
+    "question_ta": "ஒவ்வொரு ஆண்டும் சமமான மருதிகை (Depreciation) விதிக்கப்படும் முறை எது?",
+    "options_en": ["Straight line method", "Diminishing balance method", "Annuity method", "Sinking fund method"],
+    "options_ta": ["நேர்கோட்டு முறை", "குறைந்து வரும் இருப்பு முறை", "ஆண்டு தவணை முறை", "அமிழ்த்தும் நிதி முறை"],
+    "answer_en": "Straight line method",
+    "answer_ta": "நேர்கோட்டு முறை"
+  },
+  {
+    "question_en": "Which account is credited when provision for doubtful debts is created?",
+    "question_ta": "சந்தேகப் பாக்கிகளுக்கான ஒதுக்கீடு உருவாக்கப்படும் போது எந்தக் கணக்கில் கடன் செய்யப்படும்?",
+    "options_en": ["Provision for Doubtful Debts A/c", "Debtors A/c", "Cash A/c", "Capital A/c"],
+    "options_ta": ["சந்தேகப் பாக்கிகள் ஒதுக்கீடு கணக்கு", "பெறுபவர் கணக்கு", "பணக் கணக்கு", "மூலதனக் கணக்கு"],
+    "answer_en": "Provision for Doubtful Debts A/c",
+    "answer_ta": "சந்தேகப் பாக்கிகள் ஒதுக்கீடு கணக்கு"
+  },
+  {
+    "question_en": "Which account will be debited when interest on capital is allowed?",
+    "question_ta": "மூலதனத்திற்கு வட்டி அனுமதிக்கப்படும் போது எந்தக் கணக்கில் பற்று செய்யப்படும்?",
+    "options_en": ["Interest on Capital A/c", "Capital A/c", "Cash A/c", "Profit & Loss A/c"],
+    "options_ta": ["மூலதன வட்டி கணக்கு", "மூலதனக் கணக்கு", "பணக் கணக்கு", "லாப நஷ்டக் கணக்கு"],
+    "answer_en": "Profit & Loss A/c",
+    "answer_ta": "லாப நஷ்டக் கணக்கு"
+  },
+  {
+    "question_en": "Which item is shown as a current liability?",
+    "question_ta": "நடப்பு கடனாகக் காட்டப்படும் உருப்படி எது?",
+    "options_en": ["Bills payable", "Land", "Goodwill", "Machinery"],
+    "options_ta": ["செலுத்தவேண்டிய பில்", "நிலம்", "நற்பெயர்", "இயந்திரம்"],
+    "answer_en": "Bills payable",
+    "answer_ta": "செலுத்தவேண்டிய பில்"
+  },
+  {
+    "question_en": "Which account is adjusted for interest on drawings?",
+    "question_ta": "பின்வாங்கலுக்கு (Drawings) வட்டி விதிக்கப்பட்டால் எந்தக் கணக்கில் சரிசெய்யப்படும்?",
+    "options_en": ["Capital A/c", "Drawings A/c", "Cash A/c", "Profit & Loss A/c"],
+    "options_ta": ["மூலதனக் கணக்கு", "பின்வாங்கல் கணக்கு", "பணக் கணக்கு", "லாப நஷ்டக் கணக்கு"],
+    "answer_en": "Capital A/c",
+    "answer_ta": "மூலதனக் கணக்கு"
+  },
+  {
+    "question_en": "Which method of depreciation charges more in the earlier years?",
+    "question_ta": "மருதிகை விதிக்கும் எந்த முறையில் ஆரம்ப ஆண்டுகளில் அதிகமாகக் கட்டணம் விதிக்கப்படும்?",
+    "options_en": ["Diminishing balance method", "Straight line method", "Sinking fund method", "Annuity method"],
+    "options_ta": ["குறைந்து வரும் இருப்பு முறை", "நேர்கோட்டு முறை", "அமிழ்த்தும் நிதி முறை", "ஆண்டு தவணை முறை"],
+    "answer_en": "Diminishing balance method",
+    "answer_ta": "குறைந்து வரும் இருப்பு முறை"
+  },
+  {
+    "question_en": "When bad debts are recovered, they are shown in which account?",
+    "question_ta": "தவறான பாக்கிகள் மீட்டெடுக்கப்பட்டால் அவை எந்தக் கணக்கில் காட்டப்படும்?",
+    "options_en": ["Profit & Loss A/c", "Trading A/c", "Cash A/c", "Balance Sheet"],
+    "options_ta": ["லாப நஷ்டக் கணக்கு", "வணிகக் கணக்கு", "பணக் கணக்கு", "இறுதிச்சீட்டு"],
+    "answer_en": "Profit & Loss A/c",
+    "answer_ta": "லாப நஷ்டக் கணக்கு"
+  },
+  {
+    "question_en": "Which account is adjusted when outstanding salaries are recorded?",
+    "question_ta": "செலுத்தப்படாத சம்பளம் பதிவு செய்யப்படும் போது எந்தக் கணக்கில் சரிசெய்யப்படும்?",
+    "options_en": ["Salary A/c", "Outstanding Salary A/c", "Cash A/c", "Capital A/c"],
+    "options_ta": ["சம்பளக் கணக்கு", "செலுத்தப்படாத சம்பளக் கணக்கு", "பணக் கணக்கு", "மூலதனக் கணக்கு"],
+    "answer_en": "Outstanding Salary A/c",
+    "answer_ta": "செலுத்தப்படாத சம்பளக் கணக்கு"
+  },
+  {
+    "question_en": "Which ratio indicates long-term solvency of a business?",
+    "question_ta": "ஒரு வணிகத்தின் நீண்டகால செலுத்துத் திறனை காட்டும் விகிதம் எது?",
+    "options_en": ["Debt-Equity Ratio", "Current Ratio", "Quick Ratio", "Gross Profit Ratio"],
+    "options_ta": ["கடன்-மூலதன விகிதம்", "நடப்பு விகிதம்", "விரைவு விகிதம்", "மொத்த லாப விகிதம்"],
+    "answer_en": "Debt-Equity Ratio",
+    "answer_ta": "கடன்-மூலதன விகிதம்"
+  },
+  {
+    "question_en": "When closing stock is given inside trial balance, it is shown in?",
+    "question_ta": "முடிவு சரக்கு சோதனை சமநிலையில் கொடுக்கப்பட்டால் அது எங்கு காட்டப்படும்?",
+    "options_en": ["Trading A/c only", "Balance Sheet only", "Both", "None"],
+    "options_ta": ["வணிகக் கணக்கில் மட்டும்", "இறுதிச்சீட்டில் மட்டும்", "இரண்டிலும்", "யாருமில்லை"],
+    "answer_en": "Trading A/c only",
+    "answer_ta": "வணிகக் கணக்கில் மட்டும்"
+  },
+  {
+    "question_en": "Which account is created for replacement of assets?",
+    "question_ta": "சொத்துகளை மாற்றுவதற்கான நிதி உருவாக்கப்படும் கணக்கு எது?",
+    "options_en": ["Sinking Fund A/c", "Reserve Fund A/c", "Provision A/c", "General Reserve A/c"],
+    "options_ta": ["அமிழ்த்தும் நிதி கணக்கு", "ஒதுக்கீடு நிதி கணக்கு", "ஒதுக்கீடு கணக்கு", "பொது ஒதுக்கீடு கணக்கு"],
+    "answer_en": "Sinking Fund A/c",
+    "answer_ta": "அமிழ்த்தும் நிதி கணக்கு"
+  },
+  {
+    "question_en": "In computerized accounting, which component ensures accuracy of data?",
+    "question_ta": "கணினி கணக்கியலில், தரவு துல்லியத்தைக் உறுதி செய்வது எது?",
+    "options_en": ["Validation rules", "Printer", "Scanner", "Keyboard"],
+    "options_ta": ["செல்லுபடியாக்க விதிகள்", "அச்சுப்பொறி", "ஸ்கேனர்", "விசைப்பலகை"],
+    "answer_en": "Validation rules",
+    "answer_ta": "செல்லுபடியாக்க விதிகள்"
+  },
+  {
+    "question_en": "Which error is not revealed by trial balance?",
+    "question_ta": "சோதனை சமநிலை காட்டாத பிழை எது?",
+    "options_en": ["Error of omission", "Error of posting", "Error of totaling", "Error of balancing"],
+    "options_ta": ["விடுபட்ட பிழை", "பதிவுப் பிழை", "கூட்டுத்தொகை பிழை", "இருப்பு பிழை"],
+    "answer_en": "Error of omission",
+    "answer_ta": "விடுபட்ட பிழை"
+  },
+  {
+    "question_en": "Which is not a limitation of computerized accounting?",
+    "question_ta": "கணினி கணக்கியலின் வரம்பல்லாதது எது?",
+    "options_en": ["System failure risk", "Cost of installation", "Accuracy of calculation", "Hacking risk"],
+    "options_ta": ["கணினி செயலிழப்பு ஆபத்து", "நிறுவல் செலவு", "கணக்கீட்டு துல்லியம்", "ஹாக்கிங் ஆபத்து"],
+    "answer_en": "Accuracy of calculation",
+    "answer_ta": "கணக்கீட்டு துல்லியம்"
+  },
+  {
+    "question_en": "Which financial statement shows assets and liabilities?",
+    "question_ta": "சொத்துகளையும் கடன்களையும் காட்டும் நிதி அறிக்கை எது?",
+    "options_en": ["Balance Sheet", "Profit & Loss A/c", "Trading A/c", "Cash Flow Statement"],
+    "options_ta": ["இறுதிச்சீட்டு", "லாப நஷ்டக் கணக்கு", "வணிகக் கணக்கு", "பண ஓட்ட அறிக்கை"],
+    "answer_en": "Balance Sheet",
+    "answer_ta": "இறுதிச்சீட்டு"
+  },
+  {
+    "question_en": "When depreciation is undercharged, profit is?",
+    "question_ta": "மருதிகை குறைவாகக் கட்டணம் விதிக்கப்பட்டால் லாபம் எப்படி காட்டப்படும்?",
+    "options_en": ["Overstated", "Understated", "Unchanged", "Nil"],
+    "options_ta": ["அதிகமாகக் காட்டப்படும்", "குறைவாகக் காட்டப்படும்", "மாறாது", "பூஜ்ஜியம்"],
+    "answer_en": "Overstated",
+    "answer_ta": "அதிகமாகக் காட்டப்படும்"
+  },
+  {
+    "question_en": "Which is an example of contingent liability?",
+    "question_ta": "நிபந்தனைக்குட்பட்ட கடனின் உதாரணம் எது?",
+    "options_en": ["Bills discounted", "Outstanding rent", "Bank overdraft", "Debtors"],
+    "options_ta": ["தள்ளுபடி செய்யப்பட்ட பில்கள்", "செலுத்தப்படாத வாடகை", "வங்கிக் கடன்", "பெறுபவர்கள்"],
+    "answer_en": "Bills discounted",
+    "answer_ta": "தள்ளுபடி செய்யப்பட்ட பில்கள்"
+  },
+  {
+    "question_en": "Which is used to test liquidity position more strictly than current ratio?",
+    "question_ta": "நடப்பு விகிதத்தைவிட கடுமையாக திரவ நிலையைச் சோதிக்க எது பயன்படுத்தப்படும்?",
+    "options_en": ["Quick ratio", "Debt-equity ratio", "Gross profit ratio", "Operating ratio"],
+    "options_ta": ["விரைவு விகிதம்", "கடன்-மூலதன விகிதம்", "மொத்த லாப விகிதம்", "இயக்கு விகிதம்"],
+    "answer_en": "Quick ratio",
+    "answer_ta": "விரைவு விகிதம்"
+  },
+  {
+    "question_en": "Which accounting assumption assumes business will continue indefinitely?",
+    "question_ta": "வணிகம் நிரந்தரமாகத் தொடரும் என்று கருதும் கணக்கியல் கருதுகோள் எது?",
+    "options_en": ["Going Concern Assumption", "Accrual Assumption", "Money Measurement Assumption", "Entity Assumption"],
+    "options_ta": ["நிலைத்த தொடர்ச்சி கருதுகோள்", "வரவு செலவுக் கருதுகோள்", "பண அளவீட்டுக் கருதுகோள்", "அலகு கருதுகோள்"],
+    "answer_en": "Going Concern Assumption",
+    "answer_ta": "நிலைத்த தொடர்ச்சி கருதுகோள்"
+  }
+]

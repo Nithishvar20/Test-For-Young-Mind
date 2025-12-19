@@ -1,0 +1,262 @@
+[
+  {
+    "question_en": "If A = [[1,2],[3,4]], then det(A) = ?",
+    "question_ta": "A = [[1,2],[3,4]] எனில், det(A) = ?",
+    "options_en": ["-2", "2", "5", "7"],
+    "options_ta": ["-2", "2", "5", "7"],
+    "answer_en": "-2",
+    "answer_ta": "-2"
+  },
+  {
+    "question_en": "If two matrices A and B are conformable for multiplication, then order of AB is?",
+    "question_ta": "A மற்றும் B என்ற இரண்டு மேட்ரிக்ஸ்கள் பெருக்கத்திற்குப் பொருத்தமானவை எனில், AB-ன் அளவு என்ன?",
+    "options_en": ["rows of A × cols of B", "cols of A × rows of B", "rows of A × rows of B", "cols of A × cols of B"],
+    "options_ta": ["A-வின் வரிகள் × B-வின் நெடுகள்", "A-வின் நெடுகள் × B-வின் வரிகள்", "A-வின் வரிகள் × B-வின் வரிகள்", "A-வின் நெடுகள் × B-வின் நெடுகள்"],
+    "answer_en": "rows of A × cols of B",
+    "answer_ta": "A-வின் வரிகள் × B-வின் நெடுகள்"
+  },
+  {
+    "question_en": "The inverse of a matrix exists only if?",
+    "question_ta": "ஒரு மேட்ரிக்ஸ்க்கு எதிர் (inverse) இருக்கும் நிபந்தனை என்ன?",
+    "options_en": ["It is singular", "It is square and non-singular", "It is diagonal", "It is triangular"],
+    "options_ta": ["இது சிங்குலர்", "இது சதுரம் மற்றும் non-singular", "இது கோணல்", "இது முக்கோணல்"],
+    "answer_en": "It is square and non-singular",
+    "answer_ta": "இது சதுரம் மற்றும் non-singular"
+  },
+  {
+    "question_en": "If f(x) = x³, then f′(x) = ?",
+    "question_ta": "f(x) = x³ எனில், f′(x) = ?",
+    "options_en": ["3x²", "2x", "x²", "x³"],
+    "options_ta": ["3x²", "2x", "x²", "x³"],
+    "answer_en": "3x²",
+    "answer_ta": "3x²"
+  },
+  {
+    "question_en": "The derivative of sinx is?",
+    "question_ta": "sinx-ன் டெரிவேடிவ் என்ன?",
+    "options_en": ["cosx", "-cosx", "-sinx", "tanx"],
+    "options_ta": ["cosx", "-cosx", "-sinx", "tanx"],
+    "answer_en": "cosx",
+    "answer_ta": "cosx"
+  },
+  {
+    "question_en": "If y = e^x, then dy/dx = ?",
+    "question_ta": "y = e^x எனில், dy/dx = ?",
+    "options_en": ["e^x", "x e^x", "lnx", "1/x"],
+    "options_ta": ["e^x", "x e^x", "lnx", "1/x"],
+    "answer_en": "e^x",
+    "answer_ta": "e^x"
+  },
+  {
+    "question_en": "The slope of tangent to curve y = x² at x = 2 is?",
+    "question_ta": "y = x² வளைவில் x = 2-இல் தொடுவியல் சாய்வு எவ்வளவு?",
+    "options_en": ["2", "4", "8", "16"],
+    "options_ta": ["2", "4", "8", "16"],
+    "answer_en": "4",
+    "answer_ta": "4"
+  },
+  {
+    "question_en": "If f(x) = ln(x), then f′(x) = ?",
+    "question_ta": "f(x) = ln(x) எனில், f′(x) = ?",
+    "options_en": ["1/x", "x", "lnx", "e^x"],
+    "options_ta": ["1/x", "x", "lnx", "e^x"],
+    "answer_en": "1/x",
+    "answer_ta": "1/x"
+  },
+  {
+    "question_en": "∫ x dx = ?",
+    "question_ta": "∫ x dx = ?",
+    "options_en": ["x²/2 + C", "x² + C", "lnx + C", "e^x + C"],
+    "options_ta": ["x²/2 + C", "x² + C", "lnx + C", "e^x + C"],
+    "answer_en": "x²/2 + C",
+    "answer_ta": "x²/2 + C"
+  },
+  {
+    "question_en": "The integral of cosx dx is?",
+    "question_ta": "cosx dx இன் இன்டிக்ரல் என்ன?",
+    "options_en": ["sinx + C", "-sinx + C", "cosx + C", "-cosx + C"],
+    "options_ta": ["sinx + C", "-sinx + C", "cosx + C", "-cosx + C"],
+    "answer_en": "sinx + C",
+    "answer_ta": "sinx + C"
+  },
+  {
+    "question_en": "The probability of getting a head in a fair coin toss is?",
+    "question_ta": "நேர்மையான நாணய சுழற்சியில் தலை வருவதற்கான probability எவ்வளவு?",
+    "options_en": ["1", "1/2", "1/3", "0"],
+    "options_ta": ["1", "1/2", "1/3", "0"],
+    "answer_en": "1/2",
+    "answer_ta": "1/2"
+  },
+  {
+    "question_en": "If a die is thrown once, probability of getting even number is?",
+    "question_ta": "ஒரு சதுரக்கல்லை ஒருமுறை வீசினால், ஜோட எண் வருவதற்கான probability எவ்வளவு?",
+    "options_en": ["1/6", "1/2", "2/3", "5/6"],
+    "options_ta": ["1/6", "1/2", "2/3", "5/6"],
+    "answer_en": "1/2",
+    "answer_ta": "1/2"
+  },
+  {
+    "question_en": "The mean of first 10 natural numbers is?",
+    "question_ta": "முதல் 10 இயற்கை எண்களின் சராசரி என்ன?",
+    "options_en": ["5", "5.5", "6", "4.5"],
+    "options_ta": ["5", "5.5", "6", "4.5"],
+    "answer_en": "5.5",
+    "answer_ta": "5.5"
+  },
+  {
+    "question_en": "The median of 1,2,3,4,5,6 is?",
+    "question_ta": "1,2,3,4,5,6 இன் நடுநிலை மதிப்பு என்ன?",
+    "options_en": ["3", "3.5", "4", "5"],
+    "options_ta": ["3", "3.5", "4", "5"],
+    "answer_en": "3.5",
+    "answer_ta": "3.5"
+  },
+  {
+    "question_en": "Mode is the value which?",
+    "question_ta": "மோடு என்பது எத்தகைய மதிப்பு?",
+    "options_en": ["Occurs once", "Occurs maximum times", "Average value", "Middle value"],
+    "options_ta": ["ஒருமுறை வரும்", "அதிகமாக வரும்", "சராசரி மதிப்பு", "நடுவிலுள்ள மதிப்பு"],
+    "answer_en": "Occurs maximum times",
+    "answer_ta": "அதிகமாக வரும்"
+  },
+  {
+    "question_en": "Variance is the measure of?",
+    "question_ta": "வேரியன்ஸ் எந்த அளவுக்கான அளவீடு?",
+    "options_en": ["Central tendency", "Dispersion", "Correlation", "Probability"],
+    "options_ta": ["மையச் சாய்வு", "சிதறல்", "இணைவு", "சாத்தியம்"],
+    "answer_en": "Dispersion",
+    "answer_ta": "சிதறல்"
+  },
+  {
+    "question_en": "If mean = 20 and standard deviation = 0, then data values are?",
+    "question_ta": "சராசரி = 20 மற்றும் ஸ்டாண்டர்ட் டெவியேஷன் = 0 எனில், தரவு மதிப்புகள் எப்படி இருக்கும்?",
+    "options_en": ["All different", "All same = 20", "All zero", "Random"],
+    "options_ta": ["அனைத்தும் வேறுபட்டவை", "அனைத்தும் ஒரே = 20", "அனைத்தும் பூஜ்ஜியம்", "சீரற்றவை"],
+    "answer_en": "All same = 20",
+    "answer_ta": "அனைத்தும் ஒரே = 20"
+  },
+  {
+    "question_en": "Karl Pearson’s coefficient of correlation lies between?",
+    "question_ta": "கார்ல் பியர்சன் இணைவு குணகம் எந்த வரம்புக்குள் இருக்கும்?",
+    "options_en": ["0 to 1", "-1 to 1", "0 to ∞", "-∞ to +∞"],
+    "options_ta": ["0 முதல் 1 வரை", "-1 முதல் 1 வரை", "0 முதல் ∞ வரை", "-∞ முதல் +∞ வரை"],
+    "answer_en": "-1 to 1",
+    "answer_ta": "-1 முதல் 1 வரை"
+  },
+  {
+    "question_en": "If regression line is Y = a + bX, then b is?",
+    "question_ta": "ரெக்ரெஷன் கோடு Y = a + bX எனில், b எதை குறிக்கும்?",
+    "options_en": ["Intercept", "Slope", "Mean", "Median"],
+    "options_ta": ["முறுக்கு", "சாய்வு", "சராசரி", "நடுநிலை"],
+    "answer_en": "Slope",
+    "answer_ta": "சாய்வு"
+  },
+
+  {
+    "question_en": "In a linear programming problem, the set of all feasible solutions is called?",
+    "question_ta": "ஒரு லினியர் ப்ரோகிராம்மிங் பிரச்சனையில், அனைத்து சாத்தியமான தீர்வுகளின் தொகுதி எவ்வாறு அழைக்கப்படுகிறது?",
+    "options_en": ["Feasible region", "Objective function", "Constraints", "Solution line"],
+    "options_ta": ["சாத்தியமான பகுதி", "புறக்கோள் செயல்பாடு", "கட்டுப்பாடுகள்", "தீர்வு கோடு"],
+    "answer_en": "Feasible region",
+    "answer_ta": "சாத்தியமான பகுதி"
+  },
+
+  {
+    "question_en": "In probability, mutually exclusive events mean?",
+    "question_ta": "சாத்தியத்தில், பரஸ்பரம் பிரத்தியேகமான நிகழ்வுகள் என்பதன் பொருள்?",
+    "options_en": ["Can occur together", "Cannot occur together", "Always occur", "Never occur"],
+    "options_ta": ["ஒரே நேரத்தில் நடக்கும்", "ஒரே நேரத்தில் நடக்காது", "எப்போதும் நடக்கும்", "எப்போதும் நடக்காது"],
+    "answer_en": "Cannot occur together",
+    "answer_ta": "ஒரே நேரத்தில் நடக்காது"
+  },
+
+  {
+    "question_en": "If A and B are independent events, then P(A∩B) = ?",
+    "question_ta": "A மற்றும் B சுயாதீன நிகழ்வுகள் எனில், P(A∩B) = ?",
+    "options_en": ["P(A) + P(B)", "P(A) × P(B)", "P(A)/P(B)", "P(A) - P(B)"],
+    "options_ta": ["P(A) + P(B)", "P(A) × P(B)", "P(A)/P(B)", "P(A) - P(B)"],
+    "answer_en": "P(A) × P(B)",
+    "answer_ta": "P(A) × P(B)"
+  },
+
+  {
+    "question_en": "If Σx = 50 and n = 10, then mean = ?",
+    "question_ta": "Σx = 50 மற்றும் n = 10 எனில், சராசரி = ?",
+    "options_en": ["5", "10", "50", "500"],
+    "options_ta": ["5", "10", "50", "500"],
+    "answer_en": "5",
+    "answer_ta": "5"
+  },
+
+  {
+    "question_en": "Which measure is least affected by extreme values?",
+    "question_ta": "எந்த அளவீடு அதிகமான மதிப்புகளால் குறைவாக பாதிக்கப்படும்?",
+    "options_en": ["Mean", "Median", "Mode", "Variance"],
+    "options_ta": ["சராசரி", "நடுநிலை", "மோடு", "வேரியன்ஸ்"],
+    "answer_en": "Median",
+    "answer_ta": "நடுநிலை"
+  },
+
+  {
+    "question_en": "If events A and B are exhaustive, then P(A ∪ B) = ?",
+    "question_ta": "நிகழ்வுகள் A மற்றும் B முழுமையானவை எனில், P(A ∪ B) = ?",
+    "options_en": ["0", "1", "P(A)+P(B)", "P(A)P(B)"],
+    "options_ta": ["0", "1", "P(A)+P(B)", "P(A)P(B)"],
+    "answer_en": "1",
+    "answer_ta": "1"
+  },
+
+  {
+    "question_en": "If two regression lines intersect at (x̄, ȳ), then (x̄, ȳ) represents?",
+    "question_ta": "இரு ரெக்ரெஷன் கோடுகள் (x̄, ȳ) இல் சந்திக்கின்றன எனில், (x̄, ȳ) எதை குறிக்கும்?",
+    "options_en": ["Median of x,y", "Mean of x,y", "Mode of x,y", "Variance of x,y"],
+    "options_ta": ["x,y இன் நடுநிலை", "x,y இன் சராசரி", "x,y இன் மோடு", "x,y இன் வேரியன்ஸ்"],
+    "answer_en": "Mean of x,y",
+    "answer_ta": "x,y இன் சராசரி"
+  },
+
+  {
+    "question_en": "If mean = 60 and median = 50, then distribution is?",
+    "question_ta": "சராசரி = 60 மற்றும் நடுநிலை = 50 எனில், பகிர்வு எப்படியானது?",
+    "options_en": ["Positively skewed", "Negatively skewed", "Symmetrical", "Uniform"],
+    "options_ta": ["நேர்மறை சாய்வு", "எதிர்மறை சாய்வு", "சமச்சீர்", "ஒரே மாதிரி"],
+    "answer_en": "Positively skewed",
+    "answer_ta": "நேர்மறை சாய்வு"
+  },
+
+  {
+    "question_en": "In a feasible region, if two constraints are parallel, solution is?",
+    "question_ta": "சாத்தியமான பகுதியில் இரண்டு கட்டுப்பாடுகள் சமாந்தரமாக இருந்தால், தீர்வு எப்படியானது?",
+    "options_en": ["Unique", "Infinite", "No solution", "Random"],
+    "options_ta": ["தனித்த", "முடிவில்லாத", "தீர்வு இல்லை", "சீரற்ற"],
+    "answer_en": "No solution",
+    "answer_ta": "தீர்வு இல்லை"
+  },
+
+  {
+    "question_en": "Standard deviation is square root of?",
+    "question_ta": "ஸ்டாண்டர்ட் டெவியேஷன் எதன் சதுர வேர்?",
+    "options_en": ["Mean", "Variance", "Median", "Range"],
+    "options_ta": ["சராசரி", "வேரியன்ஸ்", "நடுநிலை", "பரப்பு"],
+    "answer_en": "Variance",
+    "answer_ta": "வேரியன்ஸ்"
+  },
+
+  {
+    "question_en": "If probability of event A = 0, then A is?",
+    "question_ta": "நிகழ்வு A-வின் probability = 0 எனில், A எப்படியானது?",
+    "options_en": ["Certain", "Impossible", "Sure event", "Mutual event"],
+    "options_ta": ["உறுதியானது", "சாத்தியமற்றது", "நிச்சயம் நிகழ்வு", "பரஸ்பர நிகழ்வு"],
+    "answer_en": "Impossible",
+    "answer_ta": "சாத்தியமற்றது"
+  },
+
+  {
+    "question_en": "If P(A) = 0.4 and P(B) = 0.5, A and B independent, then P(A∩B) = ?",
+    "question_ta": "P(A) = 0.4 மற்றும் P(B) = 0.5, A மற்றும் B சுயாதீனமாக இருந்தால், P(A∩B) = ?",
+    "options_en": ["0.2", "0.1", "0.9", "0.5"],
+    "options_ta": ["0.2", "0.1", "0.9", "0.5"],
+    "answer_en": "0.2",
+    "answer_ta": "0.2"
+  }
+]

@@ -1,0 +1,274 @@
+[
+  {
+    "question_en": "What is the SI unit of length?",
+    "question_ta": "நீளத்தின் SI அலகு எது?",
+    "options_en": ["Centimeter","Meter","Kilometre","Millimetre"],
+    "options_ta": ["சென்டிமீட்டர்","மீட்டர்","கிலோமீட்டர்","மில்லிமீட்டர்"],
+    "answer_en": "Meter",
+    "answer_ta": "மீட்டர்"
+  },
+  {
+    "question_en": "Which instrument is used to measure mass?",
+    "question_ta": "எடையை அளவிட எந்த கருவி பயன்படுத்தப்படுகிறது?",
+    "options_en": ["Thermometer","Measuring tape","Beam balance","Stopwatch"],
+    "options_ta": ["வெப்பமாபி","அளவைக் கயிறு","மீதி திடநிலை அளவுகோல் (பீம் பாலன்ஸ்)","தொடக்கக் கடிகாரம்"],
+    "answer_en": "Beam balance",
+    "answer_ta": "மீதி திடநிலை அளவுகோல் (பீம் பாலன்ஸ்)"
+  },
+  {
+    "question_en": "Which unit is commonly used for temperature in everyday life?",
+    "question_ta": "அன்றாட வாழ்க்கையில் வெப்பநிலையை அளவிட எந்த அலகு பொதுவாக பயன்படுத்தப்படுகிறது?",
+    "options_en": ["Celsius (°C)","Kelvin (K)","Fahrenheit (°F)","Pascal (Pa)"],
+    "options_ta": ["செல்சியஸ் (°C)","கெல்வின் (K)","பாரன்ஹீட் (°F)","பாஸ்கல் (Pa)"],
+    "answer_en": "Celsius (°C)",
+    "answer_ta": "செல்சியஸ் (°C)"
+  },
+  {
+    "question_en": "Force is measured in which unit?",
+    "question_ta": "பகவிக்கப்படும் விசை (force) எந்த அலகில் அளக்கப்படுகிறது?",
+    "options_en": ["Joule","Newton","Pascal","Watt"],
+    "options_ta": ["ஜூல்","நியூட்டன்","பாஸ்கல்","வாட்"],
+    "answer_en": "Newton",
+    "answer_ta": "நியூட்டன்"
+  },
+  {
+    "question_en": "Friction acts in which direction relative to motion?",
+    "question_ta": "சரிவு (friction) இயக்கத்தின் தொடர் எந்த திசையில் செயல்படுகிறது?",
+    "options_en": ["Same as motion","Opposite to motion","Perpendicular to motion","No particular direction"],
+    "options_ta": ["இயக்கத்தோடு ஒன்றேயான திசை","இயக்கத்திற்கு எதிர்மறை திசை","இயக்கத்திற்கு செங்குத்தான திசை","குறிப்பிட்ட திசை கிடையாது"],
+    "answer_en": "Opposite to motion",
+    "answer_ta": "இயக்கத்திற்கு எதிர்மறை திசை"
+  },
+  {
+    "question_en": "What is the SI unit of pressure?",
+    "question_ta": "அழுத்தத்தின் (pressure) SI அலகு என்ன?",
+    "options_en": ["Newton","Pascal","Joule","Newton metre"],
+    "options_ta": ["நியூட்டன்","பாஸ்கல்","ஜூல்","நியூட்டன் மீட்டர்"],
+    "answer_en": "Pascal",
+    "answer_ta": "பாஸ்கல்"
+  },
+  {
+    "question_en": "Sound travels fastest in which medium?",
+    "question_ta": "ஒலி எந்த ஊடகத்தில் (medium) மிகவும் வேகமாகப் செல்கிறது?",
+    "options_en": ["Air","Vacuum","Liquid","Solid"],
+    "options_ta": ["காற்று","வயுகாலி (வெற்றிடம்)","திரவம்","திட பொருள்"],
+    "answer_en": "Solid",
+    "answer_ta": "திட பொருள்"
+  },
+  {
+    "question_en": "Why is a sharp shadow formed behind an object when light falls on it?",
+    "question_ta": "ஒரு பொருளுக்கு மீது ஒளியடைந்தால் அதன் பின்னால் கூர்மையான நிழல் ஏன் உருவாகிறது?",
+    "options_en": ["Because light bends","Because light travels in straight lines","Because light gets absorbed","Because light diffuses"],
+    "options_ta": ["ஓசை (light) சுழல்கிறது என்பதால்","ஒளி நேர்க் கோடுகளில் பயணித்துவருவதால்","ஒளி உறிஞ்சப்படுகிறது என்பதால்","ஒளி பரவுகிறது என்பதால்"],
+    "answer_en": "Because light travels in straight lines",
+    "answer_ta": "ஒளி நேர்க் கோடுகளில் பயணித்துவருவதால்"
+  },
+  {
+    "question_en": "A plane mirror forms an image that is:",
+    "question_ta": "ஒரு சமவெளி அவள் சாளரம் (plane mirror) உருவாக்கும் படம் எப்படி இருக்கும்?",
+    "options_en": ["Real and inverted","Virtual and same size","Real and magnified","Virtual and reduced"],
+    "options_ta": ["உண்மையான மற்றும் தலைமுறை (inverted)","பிரத்யயமான மற்றும் அதே அளவு","உண்மையான மற்றும் பெரிதானது","பிரத்யயமான மற்றும் குறைந்தது"],
+    "answer_en": "Virtual and same size",
+    "answer_ta": "பிரத்யயமான மற்றும் அதே அளவு"
+  },
+  {
+    "question_en": "Refraction of light means:",
+    "question_ta": "ஒளியின் மடிப்பு (refraction) என்பதன் பொருள் என்ன?",
+    "options_en": ["Bouncing back of light","Bending of light when it passes from one medium to another","Spreading of white light into colours","Absorption of light"],
+    "options_ta": ["ஒளி மீண்டும் துள்ளுதல்","ஒளி ஒரு ஊடகத்திலிருந்து மற்றொரு ஊடகத்திற்கு செல்லும்போது மடிப்பது","வெள்ளை ஒளி நிறங்களாகப் பிரிதல்","ஒளி உறிஞ்சுதல்"],
+    "answer_en": "Bending of light when it passes from one medium to another",
+    "answer_ta": "ஒளி ஒரு ஊடகத்திலிருந்து மற்றொரு ஊடகத்திற்கு செல்லும்போது மடிப்பது"
+  },
+  {
+    "question_en": "Which state of matter has a definite shape and definite volume?",
+    "question_ta": "எந்த உடைமை (state of matter) கடந்த வெளி வடிவமும் (definite shape) மற்றும் மாறாத பரப்பளவும் (definite volume) கொண்டது?",
+    "options_en": ["Solid","Liquid","Gas","Plasma"],
+    "options_ta": ["திடம் (Solid)","திரவம் (Liquid)","வாயு (Gas)","பிளாஸ்மா (Plasma)"],
+    "answer_en": "Solid",
+    "answer_ta": "திடம் (Solid)"
+  },
+  {
+    "question_en": "The change of a solid to liquid is called:",
+    "question_ta": "ஒரு திட பொருள் திரவமாக (solid → liquid) மாறுவது என்ன அழைக்கப்படுகிறது?",
+    "options_en": ["Freezing","Evaporation","Melting","Sublimation"],
+    "options_ta": ["உறிதல் (Freezing)","வெதிக்கல் (Evaporation)","ககரவு (Melting)","உரைமாற்றம் (Sublimation)"],
+    "answer_en": "Melting",
+    "answer_ta": "ககரவு (Melting)"
+  },
+  {
+    "question_en": "Which of the following is an example of a physical change?",
+    "question_ta": "பின்வருவனில் எது ஒரு இயற்பியல் மாற்றம் (physical change) ஆகும்?",
+    "options_en": ["Rusting of iron","Burning of paper","Melting of ice","Cooking of egg"],
+    "options_ta": ["இரும்பு ஜலச்சதம் (Rusting)","காகிதம் எரிதல்","பனியை உருகுதல்","முட்டையை சுட்டல்"],
+    "answer_en": "Melting of ice",
+    "answer_ta": "பனியை உருகுதல்"
+  },
+  {
+    "question_en": "Which is an example of a chemical change?",
+    "question_ta": "எது ஒரு வேதியல் மாற்றத்தின் (chemical change) உதாரணம்?",
+    "options_en": ["Tearing paper","Dissolving salt in water","Burning wood","Melting butter"],
+    "options_ta": ["காகிதம் உடைத்தல்","உப்பு நீரில் கரையச்சல்","மரம் எரிதல்","வெண்ணையை உருகுதல்"],
+    "answer_en": "Burning wood",
+    "answer_ta": "மரம் எரிதல்"
+  },
+  {
+    "question_en": "Which microorganism is commonly used to ferment dough and make bread?",
+    "question_ta": "மாவையும் (dough) உறைந்துபொருட்டு ரொட்டிகள் செய்ய எந்த ஊசலை (microorganism) பொதுவாக பயன்படுத்துகிறார்கள்?",
+    "options_en": ["Bacteria","Virus","Yeast","Algae"],
+    "options_ta": ["பாக்டீரியா","வொழு (Virus)","ஏஸ்ட் (Yeast)","பச்சைகண்டு (Algae)"],
+    "answer_en": "Yeast",
+    "answer_ta": "ஏஸ்ட் (Yeast)"
+  },
+  {
+    "question_en": "Bacteria are generally:",
+    "question_ta": "பாக்டீரியா பொதுவாக எப்படிகளாக இருக்கும்?",
+    "options_en": ["Unicellular","Multicellular","Both multicellular and unicellular","Non-living"],
+    "options_ta": ["ஒரே செல்லால் (Unicellular)","பல செல்லால் (Multicellular)","இருமையும்","சுயமாக உயிரினமல்ல"],
+    "answer_en": "Unicellular",
+    "answer_ta": "ஒரே செல்லால் (Unicellular)"
+  },
+  {
+    "question_en": "Which bacteria are used in making curd (yoghurt)?",
+    "question_ta": "தயிர் (curd) உருவாக்குவதற்கு எந்த பாக்டீரியா பயன்படுத்தப்படுகின்றன?",
+    "options_en": ["Lactobacillus","E. coli","Streptococcus pneumoniae","Salmonella"],
+    "options_ta": ["லாக்டோபாசிலஸ் (Lactobacillus)","ஈ.கோலாய் (E. coli)","ஸ்ட்ரெப்டோகொக்கஸ் நியூமோனியா","சால்மொனெல்லா"],
+    "answer_en": "Lactobacillus",
+    "answer_ta": "லாக்டோபாசிலஸ் (Lactobacillus)"
+  },
+  {
+    "question_en": "Photosynthesis mainly takes place in which part of the plant cell?",
+    "question_ta": "ஒளிச்சேர்ப்பு (Photosynthesis) பெரும்பாலும் செடியின் எந்த பகுதியிலே நிகழ்கிறது?",
+    "options_en": ["Mitochondria","Chloroplasts","Nucleus","Vacuole"],
+    "options_ta": ["மைட்டோகோன்ட்ரியா","குளோரோபிளாஸ்ட்","மையக்கூறு (Nucleus)","வாகியூல்"],
+    "answer_en": "Chloroplasts",
+    "answer_ta": "குளோரோபிளாஸ்ட்"
+  },
+  {
+    "question_en": "Plants take in which gas and release which gas during photosynthesis?",
+    "question_ta": "ஒளிச்சேர்ப்பின் போது செடிகள் எந்த வாயுவை எடுத்துக் கொண்டு எந்த வாயுவை வெளியே விடுகின்றன?",
+    "options_en": ["Take O₂, release CO₂","Take CO₂, release O₂","Take N₂, release O₂","Take O₂, release N₂"],
+    "options_ta": ["O₂ எடுத்துக் கொண்டு CO₂ வெளியிடும்","CO₂ எடுத்துக் கொண்டு O₂ வெளியிடும்","N₂ எடுத்துக் கொண்டு O₂ வெளியிடும்","O₂ எடுத்துக் கொண்டு N₂ வெளியிடும்"],
+    "answer_en": "Take CO₂, release O₂",
+    "answer_ta": "CO₂ எடுத்துக் கொண்டு O₂ வெளியிடும்"
+  },
+  {
+    "question_en": "Which tissue transports water from roots to leaves in a plant?",
+    "question_ta": "மூலத்திலிருந்து இலைகளுக்கு தண்ணீரை கொண்டு செல்லும் திசு (tissue) எது?",
+    "options_en": ["Phloem","Xylem","Epidermis","Pith"],
+    "options_ta": ["ப்ளோயம் (Phloem)","சைலிம் (Xylem)","மெழுகு (Epidermis)","பித்தம் (Pith)"],
+    "answer_en": "Xylem",
+    "answer_ta": "சைலிம் (Xylem)"
+  },
+  {
+    "question_en": "Seeds develop from which part of the flower?",
+    "question_ta": "பூக்களின் எந்தப் பகுதி விதைகளை (seeds) உருவாக்குகிறது?",
+    "options_en": ["Petal","Stamen","Ovule","Sepal"],
+    "options_ta": ["இலை (Petal)","தாணி (Stamen)","மூக்கு (Ovule)","பருப்பு (Sepal)"],
+    "answer_en": "Ovule",
+    "answer_ta": "மூக்கு (Ovule)"
+  },
+  {
+    "question_en": "Which enzyme in saliva begins the digestion of starch?",
+    "question_ta": "இலையில் (saliva) இரத்துச்சத்து (starch) உண்ணிதலை தொடங்கும் இன்சைம் எது?",
+    "options_en": ["Pepsin","Lipase","Amylase","Trypsin"],
+    "options_ta": ["பெப்சின் (Pepsin)","லிபேஸ் (Lipase)","அமிலேஸ் (Amylase)","டிரைப்சின் (Trypsin)"],
+    "answer_en": "Amylase",
+    "answer_ta": "அமிலேஸ் (Amylase)"
+  },
+  {
+    "question_en": "Which organ filters blood and produces urine?",
+    "question_ta": "எந்த அவயவம் இரத்தத்தை வடிகட்டி சிறுநீரை (urine) உருவாக்குகிறது?",
+    "options_en": ["Liver","Heart","Kidney","Lungs"],
+    "options_ta": ["கல்லீரல் (Liver)","இதயம் (Heart)","கிட்னி (Kidney)","உயிர்நிலை (Lungs)"],
+    "answer_en": "Kidney",
+    "answer_ta": "கிட்னி (Kidney)"
+  },
+  {
+    "question_en": "Vaccination helps the body to produce:",
+    "question_ta": "வயசீட்டு (Vaccination) உங்கள் உடலை என்ன உருவாக்க உதவுகிறது?",
+    "options_en": ["Red blood cells","Antibodies","Platelets","Insulin"],
+    "options_ta": ["இரத்த செறிவுகள் (Red blood cells)","நீட்டிகள் (Antibodies)","தகடுகள் (Platelets)","இன்சுலின்"],
+    "answer_en": "Antibodies",
+    "answer_ta": "நீட்டிகள் (Antibodies)"
+  },
+  {
+    "question_en": "Which of the following is a simple machine?",
+    "question_ta": "பின்வருவனில் எது ஒரு எளிய இயந்திரம் (simple machine)?",
+    "options_en": ["Pulley","Generator","Motor","Bulb"],
+    "options_ta": ["கயிறு (Pulley)","உற்பத்தியாளர் (Generator)","மோட்டார்","மின்விளக்கு (Bulb)"],
+    "answer_en": "Pulley",
+    "answer_ta": "கயிறு (Pulley)"
+  },
+  {
+    "question_en": "Electric bulb converts electrical energy into which types of energy?",
+    "question_ta": "மின்விளக்கு மின்சார சக்தியை எந்த வகை சக்திகளாக மாற்றுகிறது?",
+    "options_en": ["Chemical and sound","Light and heat","Kinetic and potential","Nuclear and magnetic"],
+    "options_ta": ["வேதியியல் மற்றும் ஒலி","ஒளி மற்றும் வெப்பம்","கிணெடிக் மற்றும் நிலையான","மூதுவியல் மற்றும் маг்னெடிக்"],
+    "answer_en": "Light and heat",
+    "answer_ta": "ஒளி மற்றும் வெப்பம்"
+  },
+  {
+    "question_en": "Which energy source is renewable?",
+    "question_ta": "பின்வருவனில் எந்த சக்தி வளம் புதுப்பிக்கக்கூடியது (renewable)?",
+    "options_en": ["Coal","Petroleum","Solar energy","Natural gas"],
+    "options_ta": ["கோல் (Coal)","பெட்ரோலியம்","சூரிய சக்தி","இயற்கை எரிவாயு"],
+    "answer_en": "Solar energy",
+    "answer_ta": "சூரிய சக்தி"
+  },
+  {
+    "question_en": "Which of the following is a greenhouse gas contributing to global warming?",
+    "question_ta": "புல்லாய்வு (global warming) வளர்க்கும் பசுமைக் கண்ணி வாயுவாக (greenhouse gas) எது?",
+    "options_en": ["Oxygen","Nitrogen","Carbon dioxide","Helium"],
+    "options_ta": ["ஆக்சிஜன்","நைட்ரஜன்","கார்பன் டைஆக்சைடு","ஹீலியம்"],
+    "answer_en": "Carbon dioxide",
+    "answer_ta": "கார்பன் டைஆக்சைடு"
+  },
+  {
+    "question_en": "Which of the following mixtures can be separated using filtration?",
+    "question_ta": "பின்வரும் கலவைகளில் எதை வடிகட்டி (filtration) பிரிக்க முடியும்?",
+    "options_en": ["Salt dissolved in water","Sugar dissolved in water","Sand mixed with water","Alcohol mixed with water"],
+    "options_ta": ["உப்பு நீரில் கரைத்தது","சர்க்கரை நீரில் கரைத்தது","மணல் நீரில் கலந்து கொண்டது","அல்கஹால் நீரில் கலந்து கொண்டது"],
+    "answer_en": "Sand mixed with water",
+    "answer_ta": "மணல் நீரில் கலந்து கொண்டது"
+  },
+  {
+    "question_en": "What is the pH of pure water?",
+    "question_ta": "பூரண நீரின் (pure water) pH என்ன?",
+    "options_en": ["7","1","14","0"],
+    "options_ta": ["7","1","14","0"],
+    "answer_en": "7",
+    "answer_ta": "7"
+  },
+  {
+    "question_en": "Which gas is essential for combustion?",
+    "question_ta": "எந்த வாயு சிலனைக்கான (combustion) அடிப்படை தேவையாகும்?",
+    "options_en": ["Hydrogen","Carbon dioxide","Oxygen","Nitrogen"],
+    "options_ta": ["ஹைட்ரஜன்","கார்பன் டைஆக்சைடு","ஆக்சிஜன்","நைட்ரஜன்"],
+    "answer_en": "Oxygen",
+    "answer_ta": "ஆக்சிஜன்"
+  },
+  {
+    "question_en": "Which material is a good electrical insulator?",
+    "question_ta": "பின்வருவனில் எது மின்சாரத்திற்கு சிறந்த மின்கட்டணம் (insulator)?",
+    "options_en": ["Copper","Aluminium","Rubber","Iron"],
+    "options_ta": ["செம்பு (Copper)","அலுமினியம்","ரப்பர் (Rubber)","இரும்பு"],
+    "answer_en": "Rubber",
+    "answer_ta": "ரப்பர் (Rubber)"
+  },
+  {
+    "question_en": "The unit of electric current is:",
+    "question_ta": "மின்சாரக் கரப்பு (electric current) அலகு என்ன?",
+    "options_en": ["Volt","Ampere","Ohm","Watt"],
+    "options_ta": ["வோல்ட்","அம்பியர் (Ampere)","ஓம்","வாட்"],
+    "answer_en": "Ampere",
+    "answer_ta": "அம்பியர் (Ampere)"
+  },
+  {
+    "question_en": "Which agent mainly causes soil erosion?",
+    "question_ta": "மண்ணின் அழுகலை (soil erosion) பெரும்பாலும் எந்தஓர் காரணி ஏற்படுத்துகிறது?",
+    "options_en": ["Wind and water","Plants","Animals","Rock formation"],
+    "options_ta": ["காற்று மற்றும் நீர்","மரம்/செடிகள்","விலங்குகள்","கரம் உருவாக்கம்"],
+    "answer_en": "Wind and water",
+    "answer_ta": "காற்று மற்றும் நீர்"
+  }
+]

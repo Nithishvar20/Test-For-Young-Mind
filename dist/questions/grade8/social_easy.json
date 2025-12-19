@@ -1,0 +1,282 @@
+[
+  {
+    "question_en": "What is the capital city of Tamil Nadu?",
+    "question_ta": "தமிழ்நாட்டின் தலைநகரம் எது?",
+    "options_en": ["Chennai","Madurai","Coimbatore","Tiruchirappalli"],
+    "options_ta": ["சென்னை","மதுரை","கோயம்புத்தூர்","திருச்சிராப்பள்ளி"],
+    "answer_en": "Chennai",
+    "answer_ta": "சென்னை"
+  },
+  {
+    "question_en": "Who was the first President of India?",
+    "question_ta": "இந்தியாவின் முதல் ஜனாதிபதியானவர் யார்?",
+    "options_en": ["Jawaharlal Nehru","Dr. Rajendra Prasad","S. Radhakrishnan","Zakir Husain"],
+    "options_ta": ["ஜவஹர்லால் நேரு","டாக்டர் ராஜேந்திர பிரசாத்","சி. ராதாகிருஷ்ணன்","சாகிர் ஹுசேன்"],
+    "answer_en": "Dr. Rajendra Prasad",
+    "answer_ta": "டாக்டர் ராஜேந்திர பிரசாத்"
+  },
+  {
+    "question_en": "Which is the longest river in India (commonly taught in school curriculum)?",
+    "question_ta": "பள்ளிக்கேற்ப வழங்கப்படும் அடிப்படைக் கல்வியில் இந்தியாவின் நீளமான நதி எது?",
+    "options_en": ["Brahmaputra","Narmada","Ganga","Godavari"],
+    "options_ta": ["பிரகம்புத்திரா","நர்மதா","கங்கை","கோதாவரி"],
+    "answer_en": "Ganga",
+    "answer_ta": "கங்கை"
+  },
+  {
+    "question_en": "What is the currency of India?",
+    "question_ta": "இந்தியாவின் நாணயம் என்ன?",
+    "options_en": ["Dollar","Pound","Yen","Indian Rupee"],
+    "options_ta": ["டாலர்","பவுண்டு","யென்","ரூபாய்"],
+    "answer_en": "Indian Rupee",
+    "answer_ta": "ரூபாய்"
+  },
+  {
+    "question_en": "On which date is Indian Independence Day celebrated?",
+    "question_ta": "இந்தியாவின் சுதந்திர தினம் எந்த திகதி கொண்டாடப்படுகிறது?",
+    "options_en": ["15 August","26 January","2 October","30 January"],
+    "options_ta": ["15 ஆகஸ்ட்","26 ஜனவரி","2 அக்டோபர்","30 ஜனவரி"],
+    "answer_en": "15 August",
+    "answer_ta": "15 ஆகஸ்ட்"
+  },
+  {
+    "question_en": "In which year was the Constitution of India adopted by the Constituent Assembly?",
+    "question_ta": "இந்திய அரசமைப்பு எந்த ஆண்டு அரசமைப்புக் கூட்டத்தால் ஒப்புக்கொள்ளப்பட்டது?",
+    "options_en": ["1950","1949","1947","1952"],
+    "options_ta": ["1950","1949","1947","1952"],
+    "answer_en": "1949",
+    "answer_ta": "1949"
+  },
+  {
+    "question_en": "Who composed the National Anthem of India?",
+    "question_ta": "இந்திய தேசியபாடலை (National Anthem) யார் உருவாக்கினார்?",
+    "options_en": ["Bankim Chandra Chatterjee","Rabindranath Tagore","Subramania Bharati","Kavi Narsinh Mehta"],
+    "options_ta": ["பாங்கிம் சந்திர சதர்ஜி","ராகீந்த்ரநாத் தாகூர்","சுப்ரமணிய பாரதி","கவிஜி நர்சிந்த் மேதா"],
+    "answer_en": "Rabindranath Tagore",
+    "answer_ta": "ராகீந்த்ரநாத் தாகூர்"
+  },
+  {
+    "question_en": "Where is the headquarters of the United Nations located?",
+    "question_ta": "ஐக்கிய நாடுகள் நிறுவத்தின் (UN) தலைமையகம் எங்கு உள்ளது?",
+    "options_en": ["Geneva","Vienna","Paris","New York"],
+    "options_ta": ["ஜெனீவா","வியன்னா","பாரிஸ்","நியூயார்க்"],
+    "answer_en": "New York",
+    "answer_ta": "நியூயார்க்"
+  },
+  {
+    "question_en": "India is located on which continent?",
+    "question_ta": "இந்தியா எந்த கண்டத்தில் அமைந்துள்ளது?",
+    "options_en": ["Asia","Africa","Europe","Australia"],
+    "options_ta": ["ஆசியா","ஆப்பிரிக்கா","ஈரோப்","ஆஸ்திரேலியா"],
+    "answer_en": "Asia",
+    "answer_ta": "ஆசியா"
+  },
+  {
+    "question_en": "The study of weather and atmosphere is called:",
+    "question_ta": "வானிலை மற்றும் வாயுவியல் பற்றிய ஆய்வு எப்படிக் குறிப்பிடப்படுகிறது?",
+    "options_en": ["Geology","Meteorology","Hydrology","Ecology"],
+    "options_ta": ["புவியியல் (Geology)","வானிலையியல் (Meteorology)","நீரியியல் (Hydrology)","சுற்றுச்சூழல் அறிவியல் (Ecology)"],
+    "answer_en": "Meteorology",
+    "answer_ta": "வானிலையியல் (Meteorology)"
+  },
+  {
+    "question_en": "Which planet is the largest in our solar system?",
+    "question_ta": "எமது சூலார் மண்டலத்தில் (solar system) எந்த பொருள் (planet) பெரியது?",
+    "options_en": ["Earth","Mars","Jupiter","Venus"],
+    "options_ta": ["பூமி","செவ்வாய்","மங்கலம் (Jupiter)","வெள்ளி"],
+    "answer_en": "Jupiter",
+    "answer_ta": "மங்கலம் (Jupiter)"
+  },
+  {
+    "question_en": "What does GDP stand for?",
+    "question_ta": "GDP என்றால் என்ன?",
+    "options_en": ["Gross Domestic Product","Gross Domestic Price","General Domestic Product","Government Domestic Product"],
+    "options_ta": ["மொத்த உள்நாட்டு உற்பத்தி","மொத்த உள்நாட்டு விலை","பொது உள்நாட்டு உற்பத்தி","அரசு உள்நாட்டு உற்பத்தி"],
+    "answer_en": "Gross Domestic Product",
+    "answer_ta": "மொத்த உள்நாட்டு உற்பத்தி"
+  },
+  {
+    "question_en": "Which crop is commonly called the staple food crop of Tamil Nadu?",
+    "question_ta": "தமிழ்நாட்டில் பொதுவாக எந்த பயிர் அங்கீகாரம் பெற்ற அத்தியாவசிய உணவு பயிராக அழைக்கப்படுகிறது?",
+    "options_en": ["Wheat","Rice (Paddy)","Maize","Sugarcane"],
+    "options_ta": ["கோதுமை","அரிசி (நெல்)","சோளம்","கரும்பு"],
+    "answer_en": "Rice (Paddy)",
+    "answer_ta": "அரிசி (நெல்)"
+  },
+  {
+    "question_en": "The process by which plants make their own food is called:",
+    "question_ta": "செடிகள் தங்கள் உணவை தாங்களே தயாரிக்கும் செயல்முறை என்ன என்று அழைக்கப்படுகிறது?",
+    "options_en": ["Respiration","Photosynthesis","Transpiration","Digestion"],
+    "options_ta": ["சுவாசம்","ஒளிச்சேர்ப்பு (Photosynthesis)","மாற்றுப்புகை (Transpiration)","உணவாசனம் (Digestion)"],
+    "answer_en": "Photosynthesis",
+    "answer_ta": "ஒளிச்சேர்ப்பு (Photosynthesis)"
+  },
+  {
+    "question_en": "Who is the head of the State Government in an Indian state?",
+    "question_ta": "ஒரு இந்திய மாநில அரசின் நிர்வாகத் தலைவர் யார்?",
+    "options_en": ["Governor","Chief Minister","President","Speaker"],
+    "options_ta": [" மாநில ஆளுநர்","முதல்வர் (Chief Minister)","ஜனாதிபதி","சபை தலைவர் (Speaker)"],
+    "answer_en": "Chief Minister",
+    "answer_ta": "முதல்வர் (Chief Minister)"
+  },
+  {
+    "question_en": "Which body of water lies to the east of India?",
+    "question_ta": "இந்தியாவின் கிழக்கில் எது அமைந்துள்ளது?",
+    "options_en": ["Arabian Sea","Bay of Bengal","Indian Ocean","Laccadive Sea"],
+    "options_ta": ["அரபிக்கடல்","கரைப்பகுதி (Bay of Bengal)","இந்தியப் பெருங்கடல்","லக்ஷதீப் கடல்"],
+    "answer_en": "Bay of Bengal",
+    "answer_ta": "கரைப்பகுதி (Bay of Bengal)"
+  },
+  {
+    "question_en": "Which leader launched the 'Quit India' movement in 1942?",
+    "question_ta": "1942 இல் 'க்விட் இந்தியா' இயக்கத்தை யார் தொடங்கின?",
+    "options_en": ["Jawaharlal Nehru","Subhas Chandra Bose","Mahatma Gandhi","Sardar Patel"],
+    "options_ta": ["ஜவஹர்லால் நேரு","சுபாஸ் சந்திர போஸ்","மகாத்மா காந்தி","சரதார் பட்டேல்"],
+    "answer_en": "Mahatma Gandhi",
+    "answer_ta": "மஹாத்மா காந்தி"
+  },
+  {
+    "question_en": "Which instrument is commonly used to measure rainfall?",
+    "question_ta": "மழை அளவை அளவிட பொதுவாக எந்த கருவி பயன்படுத்தப்படுகிறது?",
+    "options_en": ["Anemometer","Rain gauge","Barometer","Hygrometer"],
+    "options_ta": ["காற்று வேகம் அளவீடு கருவி (Anemometer)","மழை அளவுகோல் (Rain gauge)","பாரோமீட்டர்","ஈரப்பத அளவுகோல் (Hygrometer)"],
+    "answer_en": "Rain gauge",
+    "answer_ta": "மழை அளவுகோல் (Rain gauge)"
+  },
+  {
+    "question_en": "Which occupation is the main source of livelihood for most rural people in India?",
+    "question_ta": "இந்திய கிராமப்புற மக்களுக்கு பெரும்பாலானவர்களின் முக்கிய வாழ்வாதாரம் என்ன?",
+    "options_en": ["Industry","Service","Agriculture","Tourism"],
+    "options_ta": ["தொழில்","சேவை","விவசாயம்","பயணத் துறை"],
+    "answer_en": "Agriculture",
+    "answer_ta": "விவசாயம்"
+  },
+  {
+    "question_en": "The Indian legal system is largely based on which tradition of law?",
+    "question_ta": "இந்திய சட்ட முறை பெரும்பாலும் எந்த சட்ட மரபுத்தொகைக்கு அடிப்படையாக கொண்டுள்ளது?",
+    "options_en": ["Islamic Law","Customary Law","Common Law (British)","Roman Law"],
+    "options_ta": ["இஸ்லாமிய சட்டம்","சம்ப்ரதாய சட்டம்","பிரிட்டிஷ் பொதுச் சட்டம் (Common Law)","ரோமன் சட்டம்"],
+    "answer_en": "Common Law (British)",
+    "answer_ta": "பிரிட்டிஷ் பொதுச் சட்டம் (Common Law)"
+  },
+  {
+    "question_en": "What is the capital city of India?",
+    "question_ta": "இந்தியாவின் தலைநகரம் எது?",
+    "options_en": ["Kolkata","Mumbai","New Delhi","Bengaluru"],
+    "options_ta": ["கோல்கத்தா","மும்பை","நவ் டெல்லி","பெங்களுரு"],
+    "answer_en": "New Delhi",
+    "answer_ta": "நவ் டெல்லி"
+  },
+  {
+    "question_en": "What is the term for movement of people from villages to towns?",
+    "question_ta": "கிராமத்திலிருந்து நகரங்களுக்கு மக்கள் நகர்வை எப்படிக் குறிப்பிடுகிறார்கள்?",
+    "options_en": ["Immigration","Urbanisation","Emigration","Colonisation"],
+    "options_ta": ["இம்மிகேஷன்","நகர்மயமாக்தல் (Urbanisation)","கூறிமிகை (Emigration)","செல்லுப்பார்வை (Colonisation)"],
+    "answer_en": "Urbanisation",
+    "answer_ta": "நகர் மயமாதல் (Urbanisation)"
+  },
+  {
+    "question_en": "Who among the following was a leader of the Indian Non-Cooperation Movement?",
+    "question_ta": "பின்வருவோரில் யார் இந்தியா ட் நகர்வு (Non-Cooperation Movement) தலைவராக இருந்தார்?",
+    "options_en": ["Raja Ram Mohan Roy","Bal Gangadhar Tilak","Mahatma Gandhi","Dr. B. R. Ambedkar"],
+    "options_ta": ["ராஜா ராம் மோகன் ராய்","பால் சங்கதர் திலக்","மஹாத்மா காந்தி","டாக்டர் பி.ஆர். அம்பேத்கர்"],
+    "answer_en": "Mahatma Gandhi",
+    "answer_ta": "மஹாத்மா காந்தி"
+  },
+  {
+    "question_en": "Which date is celebrated as Republic Day in India?",
+    "question_ta": "இந்தியாவில் குடியரசு தினம் எது?",
+    "options_en": ["15 August","26 January","2 October","14 November"],
+    "options_ta": ["15 ஆகஸ்ட்","26 ஜனவரி","2 அக்டோபர்","14 நவம்பர்"],
+    "answer_en": "26 January",
+    "answer_ta": "26 ஜனவரி"
+  },
+  {
+    "question_en": "What is the main function of the legislature in a democracy?",
+    "question_ta": "ประชาธิปไตยத்தில் சட்டமன்றத்தின் (legislature) முக்கிய செயல்பாடு என்ன?",
+    "options_en": ["To enforce laws","To interpret laws","To make laws","To judge laws"],
+    "options_ta": ["சட்டங்களை அமல்படுத்த","சட்டங்களை விளக்க","சட்டங்களை உருவாக்க","சட்டங்களைத் தீர்மானிக்க"],
+    "answer_en": "To make laws",
+    "answer_ta": "சட்டங்களை உருவாக்க"
+  },
+  {
+    "question_en": "Which river is sometimes called the 'Dakshina Ganga' (Ganga of the South)?",
+    "question_ta": "தெற்கு கங்கைகுறித்த ('டக்ஷிணா கங்கை') என்று அழைக்கப்படக்கூடிய நதி எது?",
+    "options_en": ["Krishna","Godavari","Cauvery","Narmada"],
+    "options_ta": ["கிருஷ்ணா","கோதாவரி","காவிரி","நர்மதா"],
+    "answer_en": "Godavari",
+    "answer_ta": "கோதாவரி"
+  },
+  {
+    "question_en": "Which is the smallest state in India by area?",
+    "question_ta": "பகுதியின்படி இந்தியாவின் மிகச் சிறிய மாநிலம் எது?",
+    "options_en": ["Sikkim","Goa","Tripura","Manipur"],
+    "options_ta": ["சிக்கிம்","கோவா","திரிபுரா","மனிப்பூர்"],
+    "answer_en": "Goa",
+    "answer_ta": "கோவா"
+  },
+  {
+    "question_en": "Which instrument is used to detect and record earthquakes?",
+    "question_ta": "நிலநடுக்கங்களை கண்டறிந்து பதிவு செய்ய எந்த கருவி பயன்படுகிறது?",
+    "options_en": ["Barometer","Seismograph","Thermometer","Anemometer"],
+    "options_ta": ["பாரோமீட்டர்","சைஸ்மோகிராஃப் (Seismograph)","வெப்பமாபி","அனிமோமீட்டர்"],
+    "answer_en": "Seismograph",
+    "answer_ta": "சைஸ்மோகிராஃப் (Seismograph)"
+  },
+  {
+    "question_en": "Which movement in India promoted the use of indigenous goods (Swadeshi)?",
+    "question_ta": "இந்தியாவில் கிளைசன்ன உதவிய (Swadeshi) இயக்கம் என்ன செய்கின்றது?",
+    "options_en": ["Non-Cooperation Movement","Quit India Movement","Swadeshi Movement","Civil Disobedience Movement"],
+    "options_ta": ["Non-Cooperation இயக்கம்","Quit India இயக்கம்","சுவதேசி இயக்கம்","சிவில் எதிர்ப்பு இயக்கம்"],
+    "answer_en": "Swadeshi Movement",
+    "answer_ta": "சுவதேசி இயக்கம்"
+  },
+  {
+    "question_en": "Approximately how long does Earth take to complete one rotation on its axis?",
+    "question_ta": "பூமி தனது தாழ்தளத்தில் ஒரு முழு சுழற்சி செய்ய சுமார் எவ்வளவு நேரம் எடுத்துக்கொள்கிறது?",
+    "options_en": ["12 hours","24 hours","365 days","30 days"],
+    "options_ta": ["12 மணி","24 மணி","365 நாட்கள்","30 நாட்கள்"],
+    "answer_en": "24 hours",
+    "answer_ta": "24 மணி"
+  },
+  {
+    "question_en": "Who is known as the principal architect or 'Father of the Indian Constitution'?",
+    "question_ta": "இந்திய அரசமைப்பின் தலைமை உருவாக்குனர் அல்லது 'இந்திய அரசமைப்பின் தந்தை' யார் என்று அழைக்கப்படுகிறார்?",
+    "options_en": ["Jawaharlal Nehru","Dr. B. R. Ambedkar","Sardar Patel","Dr. Rajendra Prasad"],
+    "options_ta": ["ஜவஹர்லால் நேரு","டாக்டர் பி.ஆர். அம்பேத்கர்","சரதார் பட்டேல்","டாக்டர் ராஜேந்திர பிரசாத்"],
+    "answer_en": "Dr. B. R. Ambedkar",
+    "answer_ta": "டாக்டர் பி.ஆர். அம்பேத்கர்"
+  },
+  {
+    "question_en": "Which policy word describes 'non-violence' in many Indian freedom movements?",
+    "question_ta": "பல இந்திய சுதந்திர இயக்கங்களில் 'அഹிம்ஸா' என்றால் என்ன?",
+    "options_en": ["Satyagraha","Ahimsa","Swaraj","Non-cooperation"],
+    "options_ta": ["சत्यாகிரஹா","அஹிம்ஸா","ஸ்வராஜ்","நான்-ஒத்துழைப்பு"],
+    "answer_en": "Ahimsa",
+    "answer_ta": "அஹிம்ஸா"
+  },
+  {
+    "question_en": "Which organ of government is responsible for implementing laws and running administration?",
+    "question_ta": "சட்டங்களை நடைமுறைப்படுத்தி நிர்வாகத்தைச் செல்ல வைக்கும் அரசாங்க உறுப்பினர்பு எது?",
+    "options_en": ["Legislature","Judiciary","Executive","Electoral Commission"],
+    "options_ta": ["சட்டமன்றம் (Legislature)","நீதிமன்றம் (Judiciary)","நிர்வாகம் (Executive)","மதிப்பீடு ஆணையம்"],
+    "answer_en": "Executive",
+    "answer_ta": "நிர்வாகம் (Executive)"
+  },
+  {
+    "question_en": "Which major mountain range lies in northern India?",
+    "question_ta": "வட இந்தியாவில் பிரமுகமான 哪 पर्वத் தொடர் எது?",
+    "options_en": ["Western Ghats","Aravali","Himalayas","Vindhyas"],
+    "options_ta": ["மேற்கு தொடர்ச்சி மலைகள் (Western Ghats)","அரவலி","ஹிமாலயம்","விந்த்யா"],
+    "answer_en": "Himalayas",
+    "answer_ta": "ஹிமாலயம்"
+  },
+  {
+    "question_en": "Who chaired the drafting committee of the Indian Constitution?",
+    "question_ta": "இந்திய அரசமைப்பு வடிவமைப்பு குழுவை (drafting committee) யார் முன்வைத்தார்?",
+    "options_en": ["Jawaharlal Nehru","Dr. B. R. Ambedkar","Dr. Rajendra Prasad","Sardar Patel"],
+    "options_ta": ["ஜவஹர்லால் நேரு","டாக்டர் பி.ஆர். அம்பேத்கர்","டாக்டர் ராஜேந்திர பிரசாத்","சரதார் பட்டேல்"],
+    "answer_en": "Dr. B. R. Ambedkar",
+    "answer_ta": "டாக்டர் பி.ஆர். அம்பேத்கர்"
+  }
+]

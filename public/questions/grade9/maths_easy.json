@@ -1,0 +1,259 @@
+[
+  {
+    "question_en": "Which of the following is a null (empty) set?",
+    "question_ta": "அடுத்தவற்றில் எது வெறுமை (null) தொகுப்பு?",
+    "options_en": ["{∅, {∅}}", "{ }", "{1}", "{0}"],
+    "options_ta": ["{∅, {∅}}", "{ }", "{1}", "{0}"],
+    "answer_en": "{ }",
+    "answer_ta": "{ }"
+  },
+  {
+    "question_en": "If n(A) = 3, how many subsets does A have?",
+    "question_ta": "n(A) = 3 என்றால் A யின் subset கள் எத்தனை?",
+    "options_en": ["6", "8", "3", "9"],
+    "options_ta": ["6", "8", "3", "9"],
+    "answer_en": "8",
+    "answer_ta": "8"
+  },
+  {
+    "question_en": "Which number is irrational?",
+    "question_ta": "எது இயல்பான (irrational) எண்?",
+    "options_en": ["4", "√2", "0.75", "9/3"],
+    "options_ta": ["4", "√2", "0.75", "9/3"],
+    "answer_en": "√2",
+    "answer_ta": "√2"
+  },
+  {
+    "question_en": "The zero of polynomial p(x)=x-5 is",
+    "question_ta": "p(x)=x-5 என்ற பவுலினத்தின் zero எது?",
+    "options_en": ["−5", "0", "5", "1"],
+    "options_ta": ["−5", "0", "5", "1"],
+    "answer_en": "5",
+    "answer_ta": "5"
+  },
+  {
+    "question_en": "If two sides and the included angle of a triangle are 3, 4 and 90°, area equals",
+    "question_ta": "ஒரு முக்கோணத்தின் இரண்டு பக்கங்கள் 3,4 மற்றும் இடையில் கோணம் 90° என்றால் பரப்பு என்ன?",
+    "options_en": ["6", "12", "5", "7"],
+    "options_ta": ["6", "12", "5", "7"],
+    "answer_en": "6",
+    "answer_ta": "6"
+  },
+  {
+    "question_en": "Distance between (0,0) and (3,4) is",
+    "question_ta": "(0,0) மற்றும் (3,4) இடையிலான தூரம் எவ்வளவு?",
+    "options_en": ["5", "25", "4", "7"],
+    "options_ta": ["5", "25", "4", "7"],
+    "answer_en": "5",
+    "answer_ta": "5"
+  },
+  {
+    "question_en": "If median of {2,5,8} is",
+    "question_ta": "{2,5,8} என்ற தரவரிசையில் median எது?",
+    "options_en": ["8", "2", "5", "15"],
+    "options_ta": ["8", "2", "5", "15"],
+    "answer_en": "5",
+    "answer_ta": "5"
+  },
+  {
+    "question_en": "A rectangle with equal diagonals is a:",
+    "question_ta": "சமமான ஓரக்கள் கொண்ட அகோரம் என்பது:",
+    "options_en": ["Rhombus", "Rectangle", "Trapezium", "Kite"],
+    "options_ta": ["ரம்பஸ்", "நுறைமுகம்", "துருப்பிணை", "கைட்"],
+    "answer_en": "Rectangle",
+    "answer_ta": "நுறைமுகம்"
+  },
+  {
+    "question_en": "2 + 3 × 4 equals",
+    "question_ta": "2 + 3 × 4 = ?",
+    "options_en": ["14", "24", "10", "20"],
+    "options_ta": ["14", "24", "10", "20"],
+    "answer_en": "14",
+    "answer_ta": "14"
+  },
+  {
+    "question_en": "If A={1,2} then P(A) has how many elements?",
+    "question_ta": "A={1,2} என்றால் P(A) யில் நிறைவுகள் எத்தனை?",
+    "options_en": ["2", "1", "4", "3"],
+    "options_ta": ["2", "1", "4", "3"],
+    "answer_en": "4",
+    "answer_ta": "4"
+  },
+  {
+    "question_en": "The perimeter of an equilateral triangle of side 6 is",
+    "question_ta": "பக்கம் 6 கொண்ட சமமுக்கோணத்தின் சுற்றளவு?",
+    "options_en": ["18", "36", "12", "6"],
+    "options_ta": ["18", "36", "12", "6"],
+    "answer_en": "18",
+    "answer_ta": "18"
+  },
+  {
+    "question_en": "Product of roots of ax^2+bx+c=0 equals",
+    "question_ta": "ax^2+bx+c=0 என்ற சமனிலையின் வேர்களின் பெருக்கம் = ?",
+    "options_en": ["c/a", "−c/a", "b/a", "−b/a"],
+    "options_ta": ["c/a", "−c/a", "b/a", "−b/a"],
+    "answer_en": "c/a",
+    "answer_ta": "c/a"
+  },
+  {
+    "question_en": "If a number is divisible by 9, sum of digits is divisible by",
+    "question_ta": "ஒரு எண் 9ஆல் வகுபடினால், இலக்கங்களின் கூட்டம் எதனால் வகுபடும்?",
+    "options_en": ["3", "9", "11", "7"],
+    "options_ta": ["3", "9", "11", "7"],
+    "answer_en": "9",
+    "answer_ta": "9"
+  },
+  {
+    "question_en": "In a right triangle, the side opposite 90° is called",
+    "question_ta": "ஒரு நிழல்சுட்டு முக்கோணத்தில் 90° எதிர் பக்கம் என்ன?",
+    "options_en": ["Median", "Hypotenuse", "Height", "Base"],
+    "options_ta": ["நடுத்தரம்", "மிகை", "உயரம்", "அடித்தளம்"],
+    "answer_en": "Hypotenuse",
+    "answer_ta": "மிகை"
+  },
+  {
+    "question_en": "If P(E)=0.2, then P(E') equals",
+    "question_ta": "P(E)=0.2 என்றால் P(E') = ?",
+    "options_en": ["0.8", "0.5", "0.2", "1.2"],
+    "options_ta": ["0.8", "0.5", "0.2", "1.2"],
+    "answer_en": "0.8",
+    "answer_ta": "0.8"
+  },
+  {
+    "question_en": "Rationalize denominator of 1/√3 gives",
+    "question_ta": "1/√3 என்றிலிருந்து பிரிவை நோக்கி rationalize செய்தால்?",
+    "options_en": ["√3/3", "3/√3", "1/3", "√3"],
+    "options_ta": ["√3/3", "3/√3", "1/3", "√3"],
+    "answer_en": "√3/3",
+    "answer_ta": "√3/3"
+  },
+  
+  {
+    "question_en": "If angle A in triangle is 90° and B is 30°, then C is",
+    "question_ta": "முக்கோணத்தில் A=90°, B=30° என்றால் C = ?",
+    "options_en": ["60°", "90°", "45°", "30°"],
+    "options_ta": ["60°", "90°", "45°", "30°"],
+    "answer_en": "60°",
+    "answer_ta": "60°"
+  },
+  {
+    "question_en": "The median of 5,7,9,11,13 is",
+    "question_ta": "5,7,9,11,13 இன் மைய மதிப்பு (median)?",
+    "options_en": ["13", "11", "9", "7"],
+    "options_ta": ["13", "11", "9", "7"],
+    "answer_en": "9",
+    "answer_ta": "9"
+  },
+  {
+    "question_en": "If A∪B = A and B⊆A, then A∩B equals",
+    "question_ta": "A∪B = A மற்றும் B⊆A என்றால் A∩B = ?",
+    "options_en": ["A", "B", "∅", "U"],
+    "options_ta": ["A", "B", "∅", "U"],
+    "answer_en": "B",
+    "answer_ta": "B"
+  },
+  {
+    "question_en": "The area of a square of side 5 is",
+    "question_ta": "பக்கம் 5 கொண்ட சதுரத்தின் பரப்பு?",
+    "options_en": ["20", "25", "5", "10"],
+    "options_ta": ["20", "25", "5", "10"],
+    "answer_en": "25",
+    "answer_ta": "25"
+  },
+  {
+    "question_en": "If two numbers are in ratio 2:3 and sum 25, the larger is",
+    "question_ta": "2:3 என்றான விகிதத்தில் எண்கள் இருப்பில் கூட்டம் 25 என்றால் பெரிய எண்?",
+    "options_en": ["9", "10", "15", "5"],
+    "options_ta": ["9", "10", "15", "5"],
+    "answer_en": "15",
+    "answer_ta": "15"
+  },
+  {
+    "question_en": "Complement of {1,2} in universal set {1,2,3} is",
+    "question_ta": "அனைத்துச் தொகுப்பு {1,2,3} இல் {1,2} இன் complementary எது?",
+    "options_en": ["{}", "{3}", "{1}", "{1,2,3}"],
+    "options_ta": ["{}", "{3}", "{1}", "{1,2,3}"],
+    "answer_en": "{3}",
+    "answer_ta": "{3}"
+  },
+  {
+    "question_en": "If x=3 is a root of (x−3)(x+2)=0, then another root is",
+    "question_ta": "x=3 என்பது (x−3)(x+2)=0 இன் ஒரு வேராக இருந்தால் மற்றொரு வேர்?",
+    "options_en": ["−2", "2", "3", "−3"],
+    "options_ta": ["−2", "2", "3", "−3"],
+    "answer_en": "−2",
+    "answer_ta": "−2"
+  },
+  {
+    "question_en": "Number of prime numbers less than 10 is",
+    "question_ta": "10-க்குக் குறைவான பிரதான எண்கள் எத்தனை?",
+    "options_en": ["4", "6", "3", "5"],
+    "options_ta": ["4", "6", "3", "5"],
+    "answer_en": "4",
+    "answer_ta": "4"
+  },
+  {
+    "question_en": "If a dice rolled, probability of getting odd number is",
+    "question_ta": "ஒரு சதுரச் சதுரம் எறிவதினால் ஒற்றை எண் வர வாய்ப்பு?",
+    "options_en": ["2", "1/6", "2/3", "1/2"],
+    "options_ta": ["2", "1/6", "2/3", "1/2"],
+    "answer_en": "1/2",
+    "answer_ta": "1/2"
+  },
+  {
+    "question_en": "If x+y=10 and x−y=2, x equals",
+    "question_ta": "x+y=10 மற்றும் x−y=2 என்றால் x = ?",
+    "options_en": ["4", "8", "6", "2"],
+    "options_ta": ["4", "8", "6", "2"],
+    "answer_en": "6",
+    "answer_ta": "6"
+  },
+  {
+    "question_en": "Simplify: (a+b)^2 expands to",
+    "question_ta": "(a+b)^2 = ? என விரிவாக்கம் செய்யவும்",
+    "options_en": ["a^2+ab+b^2", "2a^2+2b^2", "a^2+2ab+b^2", "a^2+b^2"],
+    "options_ta": ["a^2+ab+b^2", "2a^2+2b^2", "a^2+2ab+b^2", "a^2+b^2"],
+    "answer_en": "a^2+2ab+b^2",
+    "answer_ta": "a^2+2ab+b^2"
+  },
+  {
+    "question_en": "If a cube has side 3, its volume is",
+    "question_ta": "ஒரு குட்டி (cube) பக்கம் 3 என்றால் இதன் அளவு (volume)?",
+    "options_en": ["27", "81", "9", "18"],
+    "options_ta": ["27", "81", "9", "18"],
+    "answer_en": "27",
+    "answer_ta": "27"
+  },
+  {
+    "question_en": "If mean of 3 numbers is 6, their sum is",
+    "question_ta": "3 எண்களின் சராசரி 6 என்றால் அவைகளின் கூட்டம்?",
+    "options_en": ["6", "16", "9", "18"],
+    "options_ta": ["6", "16", "9", "18"],
+    "answer_en": "18",
+    "answer_ta": "18"
+  },
+  {
+    "question_en": "If sin30° equals",
+    "question_ta": "sin30° = ?",
+    "options_en": ["1", "0", "1/2", "√3/2"],
+    "options_ta": ["1", "0", "1/2", "√3/2"],
+    "answer_en": "1/2",
+    "answer_ta": "1/2"
+  },
+  {
+    "question_en": "The midpoint of (2,4) and (4,8) is",
+    "question_ta": "(2,4) மற்றும் (4,8) இன் மத்திப் புள்ளி (midpoint)?",
+    "options_en": ["(6,12)", "(3,6)", "(2,8)", "(4,4)"],
+    "options_ta": ["(6,12)", "(3,6)", "(2,8)", "(4,4)"],
+    "answer_en": "(3,6)",
+    "answer_ta": "(3,6)"
+  },
+  {
+    "question_en": "If n(A)=0, then A is",
+    "question_ta": "n(A)=0 என்றால் A என்பது?",
+    "options_en": ["Empty set", "Universal set", "Singleton", "Infinite set"],
+    "options_ta": ["வெறுமை தொகுப்பு", "பொருந்தும் உட்பட அனைத்து தொகுப்பும்", "ஒரே உறுப்பாளர் கொண்ட தொகுப்பு", "முடிவுக்கு கொண்டு வராத தொகுப்பு"],
+    "answer_en": "Empty set",
+    "answer_ta": "வெறுமை தொகுப்பு"
+  }
+]

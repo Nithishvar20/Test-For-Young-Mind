@@ -1,0 +1,266 @@
+[
+  {
+    "question_en": "Goodwill is valued when?",
+    "question_ta": "குட்வில் எப்போது மதிப்பிடப்படுகிறது?",
+    "options_en": ["At dissolution", "At admission/retirement/death of partner", "Every year", "Never valued"],
+    "options_ta": ["கலைக்கும் போது", "பங்குதாரர் சேரும்/விலகும்/இறக்கும் போது", "ஒவ்வோர் ஆண்டும்", "ஒருபோதும் மதிப்பிடப்படாது"],
+    "answer_en": "At admission/retirement/death of partner",
+    "answer_ta": "பங்குதாரர் சேரும்/விலகும்/இறக்கும் போது"
+  },
+  {
+    "question_en": "Which method of goodwill valuation uses average profit?",
+    "question_ta": "சராசரி லாபத்தை பயன்படுத்தும் குட்வில் மதிப்பீட்டு முறை எது?",
+    "options_en": ["Super profit method", "Average profit method", "Capitalization method", "Revaluation method"],
+    "options_ta": ["சூப்பர் லாப முறை", "சராசரி லாப முறை", "மூலதனமயமாக்கும் முறை", "மீள் மதிப்பீட்டு முறை"],
+    "answer_en": "Average profit method",
+    "answer_ta": "சராசரி லாப முறை"
+  },
+  {
+    "question_en": "When a partner retires, his share of goodwill is adjusted through?",
+    "question_ta": "ஒரு பங்குதாரர் ஓய்வு பெறும்போது, அவரது குட்வில் பங்கு எப்படிச் சரிசெய்யப்படுகிறது?",
+    "options_en": ["Profit and loss account", "Revaluation account", "Gaining ratio of partners", "Capital account only"],
+    "options_ta": ["லாப-இழப்பு கணக்கு", "மீள் மதிப்பீட்டு கணக்கு", "இலாபம் பெறும் விகிதம்", "மூலதனக் கணக்கு மட்டும்"],
+    "answer_en": "Gaining ratio of partners",
+    "answer_ta": "இலாபம் பெறும் விகிதம்"
+  },
+  {
+    "question_en": "In partnership, profit sharing ratio is mentioned in?",
+    "question_ta": "பங்காளித்துவத்தில் லாப விகிதம் எதில் குறிப்பிடப்படுகிறது?",
+    "options_en": ["Partnership deed", "Balance sheet", "Cash book", "Journal"],
+    "options_ta": ["பங்காளித்துவ உடன்படிக்கை", "பாலன்ஸ் ஷீட்", "பணப்புத்தகம்", "ஜர்னல்"],
+    "answer_en": "Partnership deed",
+    "answer_ta": "பங்காளித்துவ உடன்படிக்கை"
+  },
+  {
+    "question_en": "Revaluation account is prepared at?",
+    "question_ta": "மீள் மதிப்பீட்டு கணக்கு எப்போது தயாரிக்கப்படுகிறது?",
+    "options_en": ["Dissolution of firm", "Admission/retirement of partner", "Every year", "When goodwill is valued"],
+    "options_ta": ["நிறுவனம் கலைக்கும் போது", "பங்குதாரர் சேரும்/விலகும் போது", "ஒவ்வோர் ஆண்டும்", "குட்வில் மதிப்பிடும் போது"],
+    "answer_en": "Admission/retirement of partner",
+    "answer_ta": "பங்குதாரர் சேரும்/விலகும் போது"
+  },
+  {
+    "question_en": "Debenture holders are?",
+    "question_ta": "டெபெஞ்சர் வைத்திருப்போர் யார்?",
+    "options_en": ["Owners", "Creditors", "Debtors", "Partners"],
+    "options_ta": ["உரிமையாளர்கள்", "கடனாளிகள்", "கடன்பட்டவர்கள்", "பங்குதாரர்கள்"],
+    "answer_en": "Creditors",
+    "answer_ta": "கடனாளிகள்"
+  },
+  {
+    "question_en": "Premium on issue of shares is shown under?",
+    "question_ta": "பங்குகளை பிரீமியமாக வெளியிட்டால் அது எங்கு காட்டப்படும்?",
+    "options_en": ["Assets", "Reserves and surplus", "Liabilities", "Expenses"],
+    "options_ta": ["சொத்துகள்", "காப்புகள் மற்றும் அதிகப்படிகள்", "கடன்கள்", "செலவுகள்"],
+    "answer_en": "Reserves and surplus",
+    "answer_ta": "காப்புகள் மற்றும் அதிகப்படிகள்"
+  },
+  {
+    "question_en": "Calls in arrears represent?",
+    "question_ta": "காலில் நிலுவை (Calls in arrears) எதை குறிக்கிறது?",
+    "options_en": ["Unpaid amount by shareholders", "Extra profit", "Liability of company", "Reserve"],
+    "options_ta": ["பங்குதாரர்கள் செலுத்தாத தொகை", "கூடுதல் லாபம்", "நிறுவனத்தின் கடன்", "காப்பு"],
+    "answer_en": "Unpaid amount by shareholders",
+    "answer_ta": "பங்குதாரர்கள் செலுத்தாத தொகை"
+  },
+  {
+    "question_en": "Profit prior to incorporation is treated as?",
+    "question_ta": "இணைவதற்கு முன் ஏற்பட்ட லாபம் எப்படிச் சிகிச்சை பெறுகிறது?",
+    "options_en": ["Revenue profit", "Capital profit", "Loss", "Reserve"],
+    "options_ta": ["வருமான லாபம்", "மூலதன லாபம்", "இழப்பு", "காப்பு"],
+    "answer_en": "Capital profit",
+    "answer_ta": "மூலதன லாபம்"
+  },
+  {
+    "question_en": "Which account is prepared at dissolution of partnership?",
+    "question_ta": "பங்காளித்துவத்தை கலைக்கும் போது எது தயாரிக்கப்படுகிறது?",
+    "options_en": ["Revaluation account", "Realisation account", "Capital account", "Profit and loss account"],
+    "options_ta": ["மீள் மதிப்பீட்டு கணக்கு", "ரியலிசேஷன் கணக்கு", "மூலதனக் கணக்கு", "லாப-இழப்பு கணக்கு"],
+    "answer_en": "Realisation account",
+    "answer_ta": "ரியலிசேஷன் கணக்கு"
+  },
+  {
+    "question_en": "Share forfeiture occurs when?",
+    "question_ta": "பங்குகள் பறிமுதல் எப்போது நடக்கும்?",
+    "options_en": ["Shareholder fails to pay calls", "Company dissolves", "Excess profit", "Dividend declared"],
+    "options_ta": ["பங்குதாரர் கால் பணம் செலுத்தாத போது", "நிறுவனம் கலைக்கும் போது", "அதிக லாபம்", "டிவிடெண்ட் அறிவித்த போது"],
+    "answer_en": "Shareholder fails to pay calls",
+    "answer_ta": "பங்குதாரர் கால் பணம் செலுத்தாத போது"
+  },
+  {
+    "question_en": "Which account shows profit on revaluation of assets?",
+    "question_ta": "சொத்துகளின் மீள் மதிப்பீட்டு லாபத்தை எந்தக் கணக்கு காட்டுகிறது?",
+    "options_en": ["Capital account", "Revaluation account", "Profit and loss account", "Reserve account"],
+    "options_ta": ["மூலதனக் கணக்கு", "மீள் மதிப்பீட்டு கணக்கு", "லாப-இழப்பு கணக்கு", "காப்புக் கணக்கு"],
+    "answer_en": "Revaluation account",
+    "answer_ta": "மீள் மதிப்பீட்டு கணக்கு"
+  },
+  {
+    "question_en": "Interest on capital is transferred to?",
+    "question_ta": "மூலதன வட்டி எதற்குக் கொண்டு செல்லப்படுகிறது?",
+    "options_en": ["Profit and loss account", "Trading account", "Partners’ capital/current account", "Balance sheet"],
+    "options_ta": ["லாப-இழப்பு கணக்கு", "ட்ரேடிங் அக்கவுண்ட்", "பங்குதாரர்களின் மூலதனம்/நடப்பு கணக்கு", "பாலன்ஸ் ஷீட்"],
+    "answer_en": "Partners’ capital/current account",
+    "answer_ta": "பங்குதாரர்களின் மூலதனம்/நடப்பு கணக்கு"
+  },
+  {
+    "question_en": "Which account is created when goodwill is raised?",
+    "question_ta": "குட்வில் உருவாக்கப்படும் போது எந்தக் கணக்கு உருவாக்கப்படுகிறது?",
+    "options_en": ["Goodwill account", "Profit and loss account", "Capital account", "Cash account"],
+    "options_ta": ["குட்வில் கணக்கு", "லாப-இழப்பு கணக்கு", "மூலதனக் கணக்கு", "பணக் கணக்கு"],
+    "answer_en": "Goodwill account",
+    "answer_ta": "குட்வில் கணக்கு"
+  },
+  {
+    "question_en": "Which section of balance sheet shows share capital?",
+    "question_ta": "பாலன்ஸ் ஷீட்டின் எந்தப் பிரிவில் பங்கு மூலதனம் காட்டப்படுகிறது?",
+    "options_en": ["Liabilities", "Assets", "Reserves", "Expenses"],
+    "options_ta": ["கடன்கள்", "சொத்துகள்", "காப்புகள்", "செலவுகள்"],
+    "answer_en": "Liabilities",
+    "answer_ta": "கடன்கள்"
+  },
+  {
+    "question_en": "When debentures are issued at discount, the loss is written off over?",
+    "question_ta": "டெபெஞ்சர்கள் தள்ளுபடியில் வெளியிடப்பட்டால், இழப்பு எவ்வாறு எழுதித் தள்ளப்படுகிறது?",
+    "options_en": ["1 year", "2 years", "Over the life of debentures", "Never written off"],
+    "options_ta": ["1 ஆண்டு", "2 ஆண்டுகள்", "டெபெஞ்சர்களின் ஆயுட்காலத்தில்", "ஒருபோதும் எழுதித் தள்ளப்படாது"],
+    "answer_en": "Over the life of debentures",
+    "answer_ta": "டெபெஞ்சர்களின் ஆயுட்காலத்தில்"
+  },
+  {
+    "question_en": "Liquidator prepares which account at dissolution of company?",
+    "question_ta": "நிறுவனம் கலைக்கும் போது லிக்விடேட்டர் எந்தக் கணக்கைத் தயாரிக்கிறார்?",
+    "options_en": ["Cash account", "Liquidator’s account", "Realisation account", "Profit and loss account"],
+    "options_ta": ["பணக் கணக்கு", "லிக்விடேட்டர் கணக்கு", "ரியலிசேஷன் கணக்கு", "லாப-இழப்பு கணக்கு"],
+    "answer_en": "Liquidator’s account",
+    "answer_ta": "லிக்விடேட்டர் கணக்கு"
+  },
+  {
+    "question_en": "Which ratio is used for sacrificing and gaining of partners?",
+    "question_ta": "பங்குதாரர்களின் தியாகம் மற்றும் இலாபம் கண்டறிய எது பயன்படுத்தப்படுகிறது?",
+    "options_en": ["Old ratio", "New ratio", "Sacrificing/gaining ratio", "Equal ratio"],
+    "options_ta": ["பழைய விகிதம்", "புதிய விகிதம்", "தியாகம்/இலாப விகிதம்", "சம விகிதம்"],
+    "answer_en": "Sacrificing/gaining ratio",
+    "answer_ta": "தியாகம்/இலாப விகிதம்"
+  },
+  {
+    "question_en": "Reserve accumulated out of revenue profits is?",
+    "question_ta": "வருமான லாபங்களில் இருந்து உருவாக்கப்பட்ட காப்பு எது?",
+    "options_en": ["Capital reserve", "Revenue reserve", "General reserve", "Secret reserve"],
+    "options_ta": ["மூலதனக் காப்பு", "வருமானக் காப்பு", "பொது காப்பு", "ரகசிய காப்பு"],
+    "answer_en": "Revenue reserve",
+    "answer_ta": "வருமானக் காப்பு"
+  },
+  {
+    "question_en": "Share premium is shown under which head in balance sheet?",
+    "question_ta": "பங்கு பிரீமியம் பாலன்ஸ் ஷீட்டில் எந்தத் தலைப்பில் காட்டப்படும்?",
+    "options_en": ["Reserves and surplus", "Share capital", "Liabilities", "Current assets"],
+    "options_ta": ["காப்புகள் மற்றும் அதிகப்படிகள்", "பங்கு மூலதனம்", "கடன்கள்", "நடப்பு சொத்துகள்"],
+    "answer_en": "Reserves and surplus",
+    "answer_ta": "காப்புகள் மற்றும் அதிகப்படிகள்"
+  },
+  {
+    "question_en": "Loss on issue of debentures is shown as?",
+    "question_ta": "டெபெஞ்சர் வெளியீட்டின் இழப்பு எப்படிக் காட்டப்படுகிறது?",
+    "options_en": ["Current liability", "Fictitious asset", "Revenue loss", "Reserve"],
+    "options_ta": ["நடப்பு கடன்", "போலி சொத்து", "வருமான இழப்பு", "காப்பு"],
+    "answer_en": "Fictitious asset",
+    "answer_ta": "போலி சொத்து"
+  },
+  {
+    "question_en": "Profit on reissue of forfeited shares is transferred to?",
+    "question_ta": "பறிமுதல் செய்யப்பட்ட பங்குகளை மீண்டும் வெளியிடும் போது வரும் லாபம் எதற்குக் கொண்டு செல்லப்படுகிறது?",
+    "options_en": ["Capital reserve", "Profit and loss account", "General reserve", "Revenue reserve"],
+    "options_ta": ["மூலதனக் காப்பு", "லாப-இழப்பு கணக்கு", "பொது காப்பு", "வருமானக் காப்பு"],
+    "answer_en": "Capital reserve",
+    "answer_ta": "மூலதனக் காப்பு"
+  },
+  {
+    "question_en": "If a firm is dissolved, which account shows settlement of assets and liabilities?",
+    "question_ta": "ஒரு நிறுவனம் கலைக்கப்பட்டால், சொத்துகள் மற்றும் கடன்களின் தீர்வை எந்தக் கணக்கு காட்டுகிறது?",
+    "options_en": ["Realisation account", "Revaluation account", "Profit and loss account", "Capital account"],
+    "options_ta": ["ரியலிசேஷன் கணக்கு", "மீள் மதிப்பீட்டு கணக்கு", "லாப-இழப்பு கணக்கு", "மூலதனக் கணக்கு"],
+    "answer_en": "Realisation account",
+    "answer_ta": "ரியலிசேஷன் கணக்கு"
+  },
+  {
+    "question_en": "Which account is prepared when shares are issued at discount?",
+    "question_ta": "பங்குகள் தள்ளுபடியில் வெளியிடப்படும் போது எந்தக் கணக்கு தயாரிக்கப்படுகிறது?",
+    "options_en": ["Discount on issue of shares account", "Share forfeiture account", "Capital reserve account", "Calls in arrears account"],
+    "options_ta": ["பங்கு தள்ளுபடி கணக்கு", "பங்கு பறிமுதல் கணக்கு", "மூலதனக் காப்பு கணக்கு", "காலில் நிலுவை கணக்கு"],
+    "answer_en": "Discount on issue of shares account",
+    "answer_ta": "பங்கு தள்ளுபடி கணக்கு"
+  },
+  {
+    "question_en": "In case of dissolution, partner’s private property is applied first to?",
+    "question_ta": "கலைப்பு நேரத்தில், பங்குதாரரின் தனிப்பட்ட சொத்து முதலில் எதற்கு பயன்படுத்தப்படும்?",
+    "options_en": ["Firm’s liabilities", "Personal liabilities", "Partner’s capital", "Goodwill"],
+    "options_ta": ["நிறுவனக் கடன்கள்", "தனிப்பட்ட கடன்கள்", "பங்குதாரரின் மூலதனம்", "குட்வில்"],
+    "answer_en": "Personal liabilities",
+    "answer_ta": "தனிப்பட்ட கடன்கள்"
+  },
+  {
+    "question_en": "When debentures are redeemed at premium, the premium is debited to?",
+    "question_ta": "டெபெஞ்சர்கள் பிரீமியமாக மீட்டெடுக்கப்படும் போது, பிரீமியம் எதற்கு டெபிட் செய்யப்படுகிறது?",
+    "options_en": ["Profit and loss account", "Securities premium account", "Capital reserve", "Revenue reserve"],
+    "options_ta": ["லாப-இழப்பு கணக்கு", "பாதுகாப்பு பிரீமியம் கணக்கு", "மூலதனக் காப்பு", "வருமானக் காப்பு"],
+    "answer_en": "Profit and loss account",
+    "answer_ta": "லாப-இழப்பு கணக்கு"
+  },
+  {
+    "question_en": "Partnership deed not in writing means profits are shared?",
+    "question_ta": "பங்காளித்துவ உடன்படிக்கை எழுதப்படவில்லை என்றால், லாபம் எப்படிப் பகிரப்படும்?",
+    "options_en": ["Equally", "In capital ratio", "Only to senior partner", "Only to managing partner"],
+    "options_ta": ["சமமாக", "மூலதன விகிதத்தில்", "மூத்த பங்குதாரருக்கு மட்டும்", "மேலாளர் பங்குதாரருக்கு மட்டும்"],
+    "answer_en": "Equally",
+    "answer_ta": "சமமாக"
+  },
+  {
+    "question_en": "Revaluation account balance is transferred to?",
+    "question_ta": "மீள் மதிப்பீட்டு கணக்கின் இருப்பு எதற்குக் கொண்டு செல்லப்படுகிறது?",
+    "options_en": ["Profit and loss account", "Partners’ capital account", "Reserve account", "Goodwill account"],
+    "options_ta": ["லாப-இழப்பு கணக்கு", "பங்குதாரர்களின் மூலதனக் கணக்கு", "காப்புக் கணக்கு", "குட்வில் கணக்கு"],
+    "answer_en": "Partners’ capital account",
+    "answer_ta": "பங்குதாரர்களின் மூலதனக் கணக்கு"
+  },
+  {
+    "question_en": "Which account is debited for goodwill brought in cash by new partner?",
+    "question_ta": "புதிய பங்குதாரர் பணமாகக் கொண்டு வரும் குட்விலுக்கு எந்தக் கணக்கு டெபிட் செய்யப்படும்?",
+    "options_en": ["Goodwill account", "Cash account", "Capital account", "Profit and loss account"],
+    "options_ta": ["குட்வில் கணக்கு", "பணக் கணக்கு", "மூலதனக் கணக்கு", "லாப-இழப்பு கணக்கு"],
+    "answer_en": "Cash account",
+    "answer_ta": "பணக் கணக்கு"
+  },
+  {
+    "question_en": "If company issues bonus shares, it is paid out of?",
+    "question_ta": "ஒரு நிறுவனம் போனஸ் பங்குகளை வழங்கினால், அது எதிலிருந்து செலுத்தப்படுகிறது?",
+    "options_en": ["Capital reserve", "Securities premium", "Free reserves", "All of these"],
+    "options_ta": ["மூலதனக் காப்பு", "பாதுகாப்பு பிரீமியம்", "இலவச காப்புகள்", "இவை அனைத்தும்"],
+    "answer_en": "All of these",
+    "answer_ta": "இவை அனைத்தும்"
+  },
+  {
+    "question_en": "Unclaimed dividend is shown in balance sheet as?",
+    "question_ta": "பறிமுதல் செய்யப்படாத டிவிடெண்ட் பாலன்ஸ் ஷீட்டில் எப்படிக் காட்டப்படுகிறது?",
+    "options_en": ["Current asset", "Current liability", "Reserve", "Income"],
+    "options_ta": ["நடப்பு சொத்து", "நடப்பு கடன்", "காப்பு", "வருமானம்"],
+    "answer_en": "Current liability",
+    "answer_ta": "நடப்பு கடன்"
+  },
+  {
+    "question_en": "At dissolution, partner’s loan to firm is?",
+    "question_ta": "கலைப்பு நேரத்தில், பங்குதாரர் நிறுவனத்திற்குக் கொடுத்த கடன் எப்படிச் சிகிச்சை பெறுகிறது?",
+    "options_en": ["Treated as outside liability", "Transferred to capital account", "Written off", "Ignored"],
+    "options_ta": ["வெளிப்புறக் கடனாகக் கருதப்படும்", "மூலதனக் கணக்கிற்கு மாற்றப்படும்", "எழுதித் தள்ளப்படும்", "புறக்கணிக்கப்படும்"],
+    "answer_en": "Treated as outside liability",
+    "answer_ta": "வெளிப்புறக் கடனாகக் கருதப்படும்"
+  },
+  {
+    "question_en": "Which account is prepared to ascertain surplus at the time of dissolution of a company?",
+    "question_ta": "நிறுவனம் கலைக்கும் போது மீதியை அறிய எது தயாரிக்கப்படுகிறது?",
+    "options_en": ["Liquidator’s final statement of account", "Realisation account", "Profit and loss account", "Reserve account"],
+    "options_ta": ["லிக்விடேட்டரின் இறுதி அறிக்கை", "ரியலிசேஷன் கணக்கு", "லாப-இழப்பு கணக்கு", "காப்புக் கணக்கு"],
+    "answer_en": "Liquidator’s final statement of account",
+    "answer_ta": "லிக்விடேட்டரின் இறுதி அறிக்கை"
+  }
+]

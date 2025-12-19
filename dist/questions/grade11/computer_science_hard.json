@@ -1,0 +1,560 @@
+[
+  {
+    "question_en": "Which of the following is used as a destructor function in Python?",
+    "question_ta": "Python-இல் destructor function ஆக எது பயன்படுத்தப்படுகிறது?",
+    "options_en": [
+      "__del__()",
+      "__delete__()",
+      "__init__()",
+      "__destroy__()"
+    ],
+    "options_ta": [
+      "__del__()",
+      "__delete__()",
+      "__init__()",
+      "__destroy__()"
+    ],
+    "answer_en": "__del__()",
+    "answer_ta": "__del__()"
+  },
+  {
+    "question_en": "Which of the following is the private class variable prefix in Python?",
+    "question_ta": "Python-இல் தனியுரிமை வகுப்பு மாறி முன்னொட்டு எது?",
+    "options_en": [
+      "**",
+      "##",
+      "__",
+      "&&"
+    ],
+    "options_ta": [
+      "**",
+      "##",
+      "__",
+      "&&"
+    ],
+    "answer_en": "__",
+    "answer_ta": "__"
+  },
+  {
+    "question_en": "Which feature of OOP allows one class to acquire properties of another?",
+    "question_ta": "OOP இல் ஒரு வகுப்பு மற்றொரு வகுப்பு பண்புகளை பெற உதவும் அம்சம் எது?",
+    "options_en": [
+      "Polymorphism",
+      "Abstraction",
+      "Encapsulation",
+      "Inheritance"
+    ],
+    "options_ta": [
+      "பன்முகத்தன்மை (Polymorphism)",
+      "மேலோட்டம் (Abstraction)",
+      "சுருங்கியமைவு (Encapsulation)",
+      "பாரம்பரியம் (Inheritance)"
+    ],
+    "answer_en": "Inheritance",
+    "answer_ta": "பாரம்பரியம் (Inheritance)"
+  },
+  {
+    "question_en": "Who proposed the relational database model?",
+    "question_ta": "Relational Database மாதிரியை யார் முன்மொழிந்தார்?",
+    "options_en": [
+      "Charles Babbage",
+      "Chris Date",
+      "Edgar Frank Codd",
+      "Hugh Darween"
+    ],
+    "options_ta": [
+      "சார்லஸ் பாபேஜ்",
+      "கிறிஸ் டேட்",
+      "எட்கர் பிராங்க் காட்",
+      "ஹ்யூ டார்வீன்"
+    ],
+    "answer_en": "Edgar Frank Codd",
+    "answer_ta": "எட்கர் பிராங்க் காட்"
+  },
+  {
+    "question_en": "Which of the following normal forms is based on functional dependency?",
+    "question_ta": "Functional Dependency அடிப்படையில் உள்ள Normal Form எது?",
+    "options_en": [
+      "BCNF",
+      "3NF",
+      "1NF",
+      "2NF"
+    ],
+    "options_ta": [
+      "பாய்ஸ்-காட் சாதாரண வடிவம் (BCNF)",
+      "மூன்றாம் சாதாரண வடிவம் (3NF)",
+      "முதல் சாதாரண வடிவம் (1NF)",
+      "இரண்டாம் சாதாரண வடிவம் (2NF)"
+    ],
+    "answer_en": "2NF",
+    "answer_ta": "இரண்டாம் சாதாரண வடிவம் (2NF)"
+  },
+  {
+    "question_en": "Which of the following is used for removing redundancy in relational databases?",
+    "question_ta": "Relational Database-இல் மீள்வை (redundancy) நீக்க எது பயன்படுகிறது?",
+    "options_en": [
+      "Optimization",
+      "Denormalization",
+      "Normalization",
+      "Simplification"
+    ],
+    "options_ta": [
+      "ஆப்டிமைசேஷன் (Optimization)",
+      "சாதாரணமற்றாக்கல் (Denormalization)",
+      "சாதாரணப்படுத்தல் (Normalization)",
+      "எளிமைப்படுத்தல் (Simplification)"
+    ],
+    "answer_en": "Normalization",
+    "answer_ta": "சாதாரணப்படுத்தல் (Normalization)"
+  },
+  {
+    "question_en": "Which SQL command is used to remove a relation (table)?",
+    "question_ta": "ஒரு அட்டவணையை நீக்க எந்த SQL கட்டளை பயன்படுத்தப்படுகிறது?",
+    "options_en": [
+      "REMOVE",
+      "DELETE",
+      "CLEAR",
+      "DROP"
+    ],
+    "options_ta": [
+      "REMOVE",
+      "DELETE",
+      "CLEAR",
+      "DROP"
+    ],
+    "answer_en": "DROP",
+    "answer_ta": "DROP"
+  },
+  {
+    "question_en": "Which SQL keyword is used to prevent duplicate values?",
+    "question_ta": "SQL-இல் நகல் மதிப்புகளைத் தடுக்க எந்த keyword பயன்படுத்தப்படுகிறது?",
+    "options_en": [
+      "ONLY",
+      "PRIMARY",
+      "DISTINCT",
+      "UNIQUE"
+    ],
+    "options_ta": [
+      "ONLY",
+      "PRIMARY",
+      "DISTINCT",
+      "UNIQUE"
+    ],
+    "answer_en": "DISTINCT",
+    "answer_ta": "DISTINCT"
+  },
+  {
+    "question_en": "Which of the following describes the 'average case' of an algorithm?",
+    "question_ta": "ஒரு ஆல்கோரிதத்தின் 'சராசரி நிலையை' எது விவரிக்கிறது?",
+    "options_en": [
+      "Big O",
+      "Big S",
+      "Big Ω",
+      "Big θ"
+    ],
+    "options_ta": [
+      "பிக் O (Big O)",
+      "பிக் S",
+      "பிக் ஓமேகா (Big Ω)",
+      "பிக் தீட்டா (Big θ)"
+    ],
+    "answer_en": "Big θ",
+    "answer_ta": "பிக் தீட்டா (Big θ)"
+  },
+  {
+    "question_en": "Which of the following best describes dynamic programming?",
+    "question_ta": "கீழ்க்கண்டவற்றில் எது dynamic programming-ஐ சிறப்பாக விவரிக்கிறது?",
+    "options_en": [
+      "Divide and Conquer",
+      "Backtracking",
+      "Overlapping Subproblems + Optimal Substructure",
+      "Greedy approach"
+    ],
+    "options_ta": [
+      "பிரித்து வெல்லுதல் (Divide and Conquer)",
+      "பின்தொடர்தல் (Backtracking)",
+      "மீளும் துணை பிரச்சினைகள் + சரியான உள்கட்டமைப்பு",
+      "Greedy அணுகுமுறை"
+    ],
+    "answer_en": "Overlapping Subproblems + Optimal Substructure",
+    "answer_ta": "மீளும் துணை பிரச்சினைகள் + சரியான உள்கட்டமைப்பு"
+  },
+  {
+    "question_en": "Which SQL command is used to change an existing table structure?",
+    "question_ta": "இருக்கும் அட்டவணை அமைப்பை மாற்ற எந்த SQL கட்டளை பயன்படுத்தப்படுகிறது?",
+    "options_en": [
+      "MODIFY",
+      "CHANGE",
+      "ALTER",
+      "UPDATE"
+    ],
+    "options_ta": [
+      "MODIFY",
+      "CHANGE",
+      "ALTER",
+      "UPDATE"
+    ],
+    "answer_en": "ALTER",
+    "answer_ta": "ALTER"
+  },
+  {
+    "question_en": "Which SQL constraint uniquely identifies each record in a table?",
+    "question_ta": "ஒரு அட்டவணையில் ஒவ்வொரு பதிவையும் தனித்துவமாக அடையாளப்படுத்தும் SQL கட்டுப்பாடு எது?",
+    "options_en": [
+      "FOREIGN KEY",
+      "PRIMARY KEY",
+      "NOT NULL",
+      "UNIQUE"
+    ],
+    "options_ta": [
+      "FOREIGN KEY",
+      "PRIMARY KEY",
+      "NOT NULL",
+      "UNIQUE"
+    ],
+    "answer_en": "PRIMARY KEY",
+    "answer_ta": "PRIMARY KEY"
+  },
+  {
+    "question_en": "Which SQL clause is used to filter records?",
+    "question_ta": "SQL-இல் பதிவுகளை வடிகட்ட எந்த clause பயன்படுத்தப்படுகிறது?",
+    "options_en": [
+      "HAVING",
+      "WHERE",
+      "ORDER BY",
+      "FROM"
+    ],
+    "options_ta": [
+      "HAVING",
+      "WHERE",
+      "ORDER BY",
+      "FROM"
+    ],
+    "answer_en": "WHERE",
+    "answer_ta": "WHERE"
+  },
+  {
+    "question_en": "Which SQL keyword is used to sort the result-set?",
+    "question_ta": "SQL-இல் முடிவுகளை வரிசைப்படுத்த எந்த keyword பயன்படுத்தப்படுகிறது?",
+    "options_en": [
+      "SORT BY",
+      "RANK BY",
+      "GROUP BY",
+      "ORDER BY"
+    ],
+    "options_ta": [
+      "SORT BY",
+      "RANK BY",
+      "GROUP BY",
+      "ORDER BY"
+    ],
+    "answer_en": "ORDER BY",
+    "answer_ta": "ORDER BY"
+  },
+  {
+    "question_en": "Which of the following is used to combine rows from two or more tables?",
+    "question_ta": "இரண்டு அல்லது அதற்கு மேற்பட்ட அட்டவணைகளின் வரிசைகளை இணைக்க எது பயன்படுத்தப்படுகிறது?",
+    "options_en": [
+      "LINK",
+      "APPEND",
+      "JOIN",
+      "MERGE"
+    ],
+    "options_ta": [
+      "LINK",
+      "APPEND",
+      "JOIN",
+      "MERGE"
+    ],
+    "answer_en": "JOIN",
+    "answer_ta": "JOIN"
+  },
+  {
+    "question_en": "Which of the following SQL keywords is used to group rows?",
+    "question_ta": "SQL-இல் வரிசைகளை குழுவாகக் கொள்ள எந்த keyword பயன்படுத்தப்படுகிறது?",
+    "options_en": [
+      "ORDER BY",
+      "HAVING",
+      "GROUP BY",
+      "SORT"
+    ],
+    "options_ta": [
+      "ORDER BY",
+      "HAVING",
+      "GROUP BY",
+      "SORT"
+    ],
+    "answer_en": "GROUP BY",
+    "answer_ta": "GROUP BY"
+  },
+  {
+    "question_en": "Which of the following keywords is used with GROUP BY to filter groups?",
+    "question_ta": "GROUP BY-க்கு இணைந்து குழுக்களை வடிகட்ட எந்த keyword பயன்படுத்தப்படுகிறது?",
+    "options_en": [
+      "HAVING",
+      "FILTER",
+      "ORDER",
+      "WHERE"
+    ],
+    "options_ta": [
+      "HAVING",
+      "FILTER",
+      "ORDER",
+      "WHERE"
+    ],
+    "answer_en": "HAVING",
+    "answer_ta": "HAVING"
+  },
+  {
+    "question_en": "Which OOP feature is related to restricting access to variables and methods?",
+    "question_ta": "மாறிகள் மற்றும் முறைகளின் அணุกலை கட்டுப்படுத்தும் OOP அம்சம் எது?",
+    "options_en": [
+      "Inheritance",
+      "Polymorphism",
+      "Encapsulation",
+      "Abstraction"
+    ],
+    "options_ta": [
+      "பாரம்பரியம் (Inheritance)",
+      "பன்முகத்தன்மை (Polymorphism)",
+      "சுருங்கியமைவு (Encapsulation)",
+      "மேலோட்டம் (Abstraction)"
+    ],
+    "answer_en": "Encapsulation",
+    "answer_ta": "சுருங்கியமைவு (Encapsulation)"
+  },
+  {
+    "question_en": "Which of the following modules provides access to system-specific parameters and functions?",
+    "question_ta": "கணினி சார்ந்த அளவுருக்கள் மற்றும் function-களுக்கான அணுகலை வழங்கும் Python module எது?",
+    "options_en": [
+      "os",
+      "getopt",
+      "csv",
+      "sys"
+    ],
+    "options_ta": [
+      "os",
+      "getopt",
+      "csv",
+      "sys"
+    ],
+    "answer_en": "sys",
+    "answer_ta": "sys"
+  },
+  {
+    "question_en": "Which of the following modules provides interaction with the operating system?",
+    "question_ta": "இயங்கு முறைமையுடன் தொடர்பு கொள்ள உதவும் Python module எது?",
+    "options_en": [
+      "sys",
+      "os",
+      "math",
+      "random"
+    ],
+    "options_ta": [
+      "sys",
+      "os",
+      "math",
+      "random"
+    ],
+    "answer_en": "os",
+    "answer_ta": "os"
+  },
+  {
+    "question_en": "Which is the key feature of object-oriented programming?",
+    "question_ta": "Object Oriented Programming-இன் முக்கிய அம்சம் எது?",
+    "options_en": [
+      "Classes and Objects",
+      "Iteration",
+      "Recursion",
+      "Pointers"
+    ],
+    "options_ta": [
+      "வகுப்புகள் மற்றும் பொருட்கள் (Classes and Objects)",
+      "மீள்கூறல் (Iteration)",
+      "மீளுருவாக்கம் (Recursion)",
+      "சுட்டிகள் (Pointers)"
+    ],
+    "answer_en": "Classes and Objects",
+    "answer_ta": "வகுப்புகள் மற்றும் பொருட்கள் (Classes and Objects)"
+  },
+  {
+    "question_en": "Which algorithm paradigm uses backtracking?",
+    "question_ta": "எந்த ஆல்கோரிதம் பின் தொடர்ந்து தேடும் முறையைப் பயன்படுத்துகிறது?",
+    "options_en": [
+      "Divide and Conquer",
+      "Greedy",
+      "Constraint Satisfaction",
+      "Dynamic Programming"
+    ],
+    "options_ta": [
+      "Divide and Conquer",
+      "Greedy",
+      "Constraint Satisfaction",
+      "Dynamic Programming"
+    ],
+    "answer_en": "Constraint Satisfaction",
+    "answer_ta": "Constraint Satisfaction"
+  },
+  {
+    "question_en": "Which module is used for reading and writing comma-separated files?",
+    "question_ta": "Comma-ஆல் பிரிக்கப்பட்ட கோப்புகளை படிக்கவும் எழுதவும் எந்த module பயன்படுகிறது?",
+    "options_en": [
+      "sys",
+      "os",
+      "file",
+      "csv"
+    ],
+    "options_ta": [
+      "sys",
+      "os",
+      "file",
+      "csv"
+    ],
+    "answer_en": "csv",
+    "answer_ta": "csv"
+  },
+  {
+    "question_en": "Which Python keyword is used to handle exceptions?",
+    "question_ta": "Python-இல் தவறுகளை (exceptions) கையாள எந்த keyword பயன்படுத்தப்படுகிறது?",
+    "options_en": [
+      "throw",
+      "try",
+      "catch",
+      "except"
+    ],
+    "options_ta": [
+      "throw",
+      "try",
+      "catch",
+      "except"
+    ],
+    "answer_en": "try",
+    "answer_ta": "try"
+  },
+  {
+    "question_en": "Which keyword in Python is used with try to handle exceptions?",
+    "question_ta": "Python-இல் try-க்கு இணைந்து exceptions கையாள எந்த keyword பயன்படுத்தப்படுகிறது?",
+    "options_en": [
+      "throw",
+      "finally",
+      "except",
+      "catch"
+    ],
+    "options_ta": [
+      "throw",
+      "finally",
+      "except",
+      "catch"
+    ],
+    "answer_en": "except",
+    "answer_ta": "except"
+  },
+  {
+    "question_en": "Which SQL function returns the total number of rows in a table?",
+    "question_ta": "ஒரு அட்டவணையில் உள்ள மொத்த வரிசைகளின் எண்ணிக்கையைத் தரும் SQL function எது?",
+    "options_en": [
+      "TOTAL()",
+      "COUNT()",
+      "SUM()",
+      "MAX()"
+    ],
+    "options_ta": [
+      "TOTAL()",
+      "COUNT()",
+      "SUM()",
+      "MAX()"
+    ],
+    "answer_en": "COUNT()",
+    "answer_ta": "COUNT()"
+  },
+  {
+    "question_en": "Which SQL function is used to return the largest value in a column?",
+    "question_ta": "ஒரு நெடுவரிசையில் மிகப்பெரிய மதிப்பைத் தரும் SQL function எது?",
+    "options_en": [
+      "TOP()",
+      "MAX()",
+      "MIN()",
+      "LARGE()"
+    ],
+    "options_ta": [
+      "TOP()",
+      "MAX()",
+      "MIN()",
+      "LARGE()"
+    ],
+    "answer_en": "MAX()",
+    "answer_ta": "MAX()"
+  },
+  {
+    "question_en": "Which SQL function is used to return the smallest value in a column?",
+    "question_ta": "ஒரு நெடுவரிசையில் மிகச்சிறிய மதிப்பைத் தரும் SQL function எது?",
+    "options_en": [
+      "LOW()",
+      "BOTTOM()",
+      "MAX()",
+      "MIN()"
+    ],
+    "options_ta": [
+      "LOW()",
+      "BOTTOM()",
+      "MAX()",
+      "MIN()"
+    ],
+    "answer_en": "MIN()",
+    "answer_ta": "MIN()"
+  },
+  {
+    "question_en": "Which SQL function returns the sum of all values in a numeric column?",
+    "question_ta": "ஒரு எண் நெடுவரிசையில் உள்ள மதிப்புகளின் மொத்தத்தைத் தரும் SQL function எது?",
+    "options_en": [
+      "SUM()",
+      "COUNT()",
+      "TOTAL()",
+      "ADD()"
+    ],
+    "options_ta": [
+      "SUM()",
+      "COUNT()",
+      "TOTAL()",
+      "ADD()"
+    ],
+    "answer_en": "SUM()",
+    "answer_ta": "SUM()"
+  },
+  {
+    "question_en": "Which Python keyword is used to define a class?",
+    "question_ta": "Python-இல் ஒரு class வரையறுக்க எந்த keyword பயன்படுத்தப்படுகிறது?",
+    "options_en": [
+      "def",
+      "function",
+      "class",
+      "object"
+    ],
+    "options_ta": [
+      "def",
+      "function",
+      "class",
+      "object"
+    ],
+    "answer_en": "class",
+    "answer_ta": "class"
+  },
+  {
+    "question_en": "Which OOP feature allows one name to be used in many forms?",
+    "question_ta": "ஒரே பெயர் பல வடிவங்களில் பயன்படுத்தப்படும் OOP அம்சம் எது?",
+    "options_en": [
+      "Inheritance",
+      "Polymorphism",
+      "Encapsulation",
+      "Abstraction"
+    ],
+    "options_ta": [
+      "பாரம்பரியம் (Inheritance)",
+      "பன்முகத்தன்மை (Polymorphism)",
+      "சுருங்கியமைவு (Encapsulation)",
+      "மேலோட்டம் (Abstraction)"
+    ],
+    "answer_en": "Polymorphism",
+    "answer_ta": "பன்முகத்தன்மை (Polymorphism)"
+  }
+]

@@ -1,0 +1,339 @@
+[
+  {
+    "question_en": "How did the young seagull’s parents try to overcome his fear of flying?",
+    "question_ta": "இளம் கடற்பறவையின் பறக்கும் பயத்தை அதன் பெற்றோர் எவ்வாறு நீக்க முயன்றனர்?",
+    "options_en": ["They punished him", "They encouraged and threatened him", "They fed him more", "They ignored him completely"],
+    "options_ta": ["அவர்கள் தண்டித்தனர்", "அவர்கள் ஊக்குவித்து மிரட்டினர்", "அவர்கள் அவனுக்கு அதிகமாக உணவளித்தனர்", "அவர்கள் அவனை முற்றிலும் புறக்கணித்தனர்"],
+    "answer_en": "They encouraged and threatened him",
+    "answer_ta": "அவர்கள் ஊக்குவித்து மிரட்டினர்"
+  },
+  {
+    "question_en": "What did Prospero use his magical powers for on the island?",
+    "question_ta": "தீவில் ப்ராஸ்பெரோ தனது மந்திர சக்திகளை எதற்காகப் பயன்படுத்தினார்?",
+    "options_en": ["To control spirits", "To build a palace", "To punish Miranda", "To attack ships"],
+    "options_ta": ["ஆன்மாக்களை கட்டுப்படுத்த", "ஒரு அரண்மனை கட்ட", "மிராண்டாவை தண்டிக்க", "கப்பல்களைத் தாக்க"],
+    "answer_en": "To control spirits",
+    "answer_ta": "ஆன்மாக்களை கட்டுப்படுத்த"
+  },
+  {
+    "question_en": "What lesson does the story 'His First Flight' primarily teach?",
+    "question_ta": "'ஹிஸ் ஃபர்ஸ்ட் ஃப்ளைட்' கதை முதன்மையாக எதை கற்பிக்கிறது?",
+    "options_en": ["Self-confidence is key to success", "Parents always punish children", "Hunger is stronger than fear", "Life is uncertain"],
+    "options_ta": ["தன்னம்பிக்கையே வெற்றிக்கான சாவி", "பெற்றோர் எப்போதும் குழந்தைகளை தண்டிப்பார்கள்", "பசி பயத்தை விட வலிமையானது", "வாழ்க்கை உறுதியற்றது"],
+    "answer_en": "Self-confidence is key to success",
+    "answer_ta": "தன்னம்பிக்கையே வெற்றிக்கான சாவி"
+  },
+  {
+    "question_en": "Why did Prospero forgive his enemies in 'The Tempest'?",
+    "question_ta": "'தி டெம்பெஸ்ட்'ல் ப்ராஸ்பெரோ தனது பகைவர்களை ஏன் மன்னித்தார்?",
+    "options_en": ["Because he feared them", "Because he wanted peace", "Because he lost his powers", "Because Miranda forced him"],
+    "options_ta": ["அவர்களை அவர் பயந்ததால்", "அவர் அமைதியை விரும்பியதால்", "அவர் தனது சக்திகளை இழந்ததால்", "மிராண்டா அவரை வற்புறுத்தியதால்"],
+    "answer_en": "Because he wanted peace",
+    "answer_ta": "அவர் அமைதியை விரும்பியதால்"
+  },
+  {
+    "question_en": "In 'Life', what does the poet advise us to do with each moment?",
+    "question_ta": "'லைஃப்' கவிதையில் ஒவ்வொரு தருணத்தையும் எவ்வாறு பயன்படுத்த வேண்டும் என்று கவிஞர் அறிவுறுத்துகிறார்?",
+    "options_en": ["Waste it", "Use it for the quest", "Forget it", "Fear it"],
+    "options_ta": ["அதை வீணடிக்கவும்", "அதை தேடலுக்குப் பயன்படுத்தவும்", "அதை மறந்துவிடவும்", "அதை பயப்படவும்"],
+    "answer_en": "Use it for the quest",
+    "answer_ta": "அதை தேடலுக்குப் பயன்படுத்தவும்"
+  },
+  {
+    "question_en": "What was the reaction of Miranda when she saw Ferdinand?",
+    "question_ta": "மிராண்டா ஃபெர்டினாண்டை பார்த்தபோது அவளது எதிர்வினை என்ன?",
+    "options_en": ["She disliked him", "She thought he was divine", "She ignored him", "She feared him"],
+    "options_ta": ["அவள் அவனை விரும்பவில்லை", "அவள் அவனை தெய்வீகமாக நினைத்தாள்", "அவள் அவனை புறக்கணித்தாள்", "அவள் அவனை பயந்தாள்"],
+    "answer_en": "She thought he was divine",
+    "answer_ta": "அவள் அவனை தெய்வீகமாக நினைத்தாள்"
+  },
+  {
+    "question_en": "How did Ariel help Prospero?",
+    "question_ta": "ஏரியல் ப்ராஸ்பெரோவுக்கு எப்படி உதவினான்?",
+    "options_en": ["By creating storms", "By bringing wood", "By teaching Miranda", "By scaring Gonzalo"],
+    "options_ta": ["புயல்களை உருவாக்கி", "மரங்களை கொண்டு வந்து", "மிராண்டாவை கற்பித்து", "கொன்சாலோவை பயமுறுத்தி"],
+    "answer_en": "By creating storms",
+    "answer_ta": "புயல்களை உருவாக்கி"
+  },
+  {
+    "question_en": "What happened to the ship in 'The Tempest'?",
+    "question_ta": "'தி டெம்பெஸ்ட்'ல் கப்பலுக்கு என்ன நடந்தது?",
+    "options_en": ["It was burnt", "It was sunk", "It was damaged by storm", "It was stolen"],
+    "options_ta": ["அது எரிந்தது", "அது மூழ்கியது", "அது புயலில் சேதமடைந்தது", "அது திருடப்பட்டது"],
+    "answer_en": "It was damaged by storm",
+    "answer_ta": "அது புயலில் சேதமடைந்தது"
+  },
+  {
+    "question_en": "What quality of the young seagull is highlighted in the story?",
+    "question_ta": "கதையில் இளம் கடற்பறவையின் எந்த குணம் சிறப்பிக்கப்படுகிறது?",
+    "options_en": ["His fear", "His laziness", "His pride", "His courage"],
+    "options_ta": ["அவனது பயம்", "அவனது சோம்பேறித்தனம்", "அவனது அகந்தை", "அவனது தைரியம்"],
+    "answer_en": "His fear",
+    "answer_ta": "அவனது பயம்"
+  },
+  {
+    "question_en": "What did the poet in 'Life' say about the past?",
+    "question_ta": "'லைஃப்' கவிதையில் கடந்த காலத்தைப் பற்றி கவிஞர் என்ன சொல்கிறார்?",
+    "options_en": ["It should be remembered", "It should be mourned", "It should be forgotten", "It should be celebrated"],
+    "options_ta": ["அதை நினைவில் வைத்திருக்க வேண்டும்", "அதற்காக துயரப்பட வேண்டும்", "அதை மறந்துவிட வேண்டும்", "அதை கொண்டாட வேண்டும்"],
+    "answer_en": "It should be forgotten",
+    "answer_ta": "அதை மறந்துவிட வேண்டும்"
+  },
+  {
+    "question_en": "Why did the seagull scream when his mother approached with food?",
+    "question_ta": "அவனது தாய் உணவுடன் அணுகியபோது கடற்பறவை ஏன் கத்தினது?",
+    "options_en": ["He was afraid", "He was hungry", "He was angry", "He was sleepy"],
+    "options_ta": ["அவன் பயந்தான்", "அவன் பசியுடன் இருந்தான்", "அவன் கோபமாக இருந்தான்", "அவன் தூங்கிக்கொண்டிருந்தான்"],
+    "answer_en": "He was hungry",
+    "answer_ta": "அவன் பசியுடன் இருந்தான்"
+  },
+  {
+    "question_en": "Why was Prospero banished from Milan?",
+    "question_ta": "ப்ராஸ்பெரோ மிலானிலிருந்து ஏன் வெளியேற்றப்பட்டார்?",
+    "options_en": ["Because he was cruel", "Because his brother betrayed him", "Because Miranda opposed him", "Because he was weak"],
+    "options_ta": ["அவர் கொடூரமானவர் என்பதால்", "அவரது சகோதரர் அவரை துரோகம் செய்ததால்", "மிராண்டா அவரை எதிர்த்ததால்", "அவர் பலவீனமாக இருந்ததால்"],
+    "answer_en": "Because his brother betrayed him",
+    "answer_ta": "அவரது சகோதரர் அவரை துரோகம் செய்ததால்"
+  },
+  {
+    "question_en": "What advice does the poet give about the future in 'Life'?",
+    "question_ta": "'லைஃப்' கவிதையில் எதிர்காலத்தைப் பற்றி கவிஞர் என்ன அறிவுறுத்துகிறார்?",
+    "options_en": ["Fear it", "Dream about it", "Do not fear it", "Forget it"],
+    "options_ta": ["அதை பயப்படவும்", "அதைப் பற்றி கனவு காணவும்", "அதை பயப்படாதீர்கள்", "அதை மறந்துவிடவும்"],
+    "answer_en": "Do not fear it",
+    "answer_ta": "அதை பயப்படாதீர்கள்"
+  },
+  {
+    "question_en": "What role did Gonzalo play in Prospero’s life?",
+    "question_ta": "ப்ராஸ்பெரோவின் வாழ்க்கையில் கொன்சாலோ எந்த பங்கு வகித்தார்?",
+    "options_en": ["He betrayed Prospero", "He helped Prospero secretly", "He banished Prospero", "He fought Prospero"],
+    "options_ta": ["அவர் ப்ராஸ்பெரோவை துரோகம் செய்தார்", "அவர் ப்ராஸ்பெரோவுக்கு ரகசியமாக உதவினார்", "அவர் ப்ராஸ்பெரோவை வெளியேற்றினார்", "அவர் ப்ராஸ்பெரோவுடன் சண்டையிட்டார்"],
+    "answer_en": "He helped Prospero secretly",
+    "answer_ta": "அவர் ப்ராஸ்பெரோவுக்கு ரகசியமாக உதவினார்"
+  },
+  {
+    "question_en": "What was the young seagull’s greatest challenge?",
+    "question_ta": "இளம் கடற்பறவையின் மிகப்பெரிய சவால் என்ன?",
+    "options_en": ["Finding food", "Flying for the first time", "Escaping predators", "Swimming"],
+    "options_ta": ["உணவைத் தேடுவது", "முதல் முறையாக பறப்பது", "வேட்டையாடுபவர்களிடமிருந்து தப்பிக்கிறது", "நீந்துவது"],
+    "answer_en": "Flying for the first time",
+    "answer_ta": "முதல் முறையாக பறப்பது"
+  },
+  {
+    "question_en": "Why did Ariel want freedom?",
+    "question_ta": "ஏரியல் ஏன் சுதந்திரத்தை விரும்பினான்?",
+    "options_en": ["Because he hated Prospero", "Because he wanted rest", "Because he was bound to serve Prospero", "Because he loved Miranda"],
+    "options_ta": ["அவன் ப்ராஸ்பெரோவை வெறுத்ததால்", "அவன் ஓய்வை விரும்பியதால்", "அவன் ப்ராஸ்பெரோவுக்கு பணியாற்ற வேண்டியிருந்ததால்", "அவன் மிராண்டாவை நேசித்ததால்"],
+    "answer_en": "Because he was bound to serve Prospero",
+    "answer_ta": "அவன் ப்ராஸ்பெரோவுக்கு பணியாற்ற வேண்டியிருந்ததால்"
+  },
+  {
+    "question_en": "What lesson do we learn from Prospero forgiving his brother?",
+    "question_ta": "தன் சகோதரரை மன்னித்த ப்ராஸ்பெரோவிடமிருந்து நாம் எதை கற்றுக்கொள்கிறோம்?",
+    "options_en": ["Revenge is important", "Forgiveness brings peace", "Power is supreme", "Fear is strength"],
+    "options_ta": ["பழிவாங்குவது முக்கியம்", "மன்னிப்பு அமைதியை தருகிறது", "அதிகாரம் உச்சம்", "பயம் தான் வலிமை"],
+    "answer_en": "Forgiveness brings peace",
+    "answer_ta": "மன்னிப்பு அமைதியை தருகிறது"
+  },
+  {
+    "question_en": "What did the young seagull feel when he started flying?",
+    "question_ta": "பறக்கத் தொடங்கியபோது இளம் கடற்பறவை என்ன உணர்ந்தது?",
+    "options_en": ["Fear", "Joy and confidence", "Sadness", "Confusion"],
+    "options_ta": ["பயம்", "மகிழ்ச்சி மற்றும் தன்னம்பிக்கை", "துக்கம்", "குழப்பம்"],
+    "answer_en": "Joy and confidence",
+    "answer_ta": "மகிழ்ச்சி மற்றும் தன்னம்பிக்கை"
+  },
+  {
+    "question_en": "Why was Ariel grateful to Prospero?",
+    "question_ta": "ஏரியல் ப்ராஸ்பெரோவுக்கு நன்றி சொல்லக் காரணம் என்ன?",
+    "options_en": ["He taught him magic", "He gave him food", "He freed him from Sycorax’s spell", "He gave him land"],
+    "options_ta": ["அவர் அவனை மந்திரம் கற்றுக் கொடுத்தார்", "அவர் அவனுக்கு உணவு கொடுத்தார்", "அவர் சைகோரக்ஸின் மாயத்திலிருந்து அவனை விடுவித்தார்", "அவர் அவனுக்கு நிலம் கொடுத்தார்"],
+    "answer_en": "He freed him from Sycorax’s spell",
+    "answer_ta": "அவர் சைகோரக்ஸின் மாயத்திலிருந்து அவனை விடுவித்தார்"
+  },
+  {
+    "question_en": "What does the poet mean by 'quest' in 'Life'?",
+    "question_ta": "'லைஃப்' கவிதையில் 'குவெஸ்ட்' என்று கவிஞர் கூறுவது என்ன?",
+    "options_en": ["Search for knowledge and truth", "Search for money", "Search for love", "Search for power"],
+    "options_ta": ["அறிவு மற்றும் உண்மையை தேடுதல்", "பணத்தை தேடுதல்", "அன்பை தேடுதல்", "அதிகாரத்தை தேடுதல்"],
+    "answer_en": "Search for knowledge and truth",
+    "answer_ta": "அறிவு மற்றும் உண்மையை தேடுதல்"
+  },
+  {
+    "question_en": "What did Prospero do at the end of the play?",
+    "question_ta": "நாடகத்தின் இறுதியில் ப்ராஸ்பெரோ என்ன செய்தார்?",
+    "options_en": ["He left the island", "He punished Miranda", "He built a castle", "He continued magic"],
+    "options_ta": ["அவர் தீவை விட்டு சென்றார்", "அவர் மிராண்டாவை தண்டித்தார்", "அவர் ஒரு அரண்மனை கட்டினார்", "அவர் மந்திரத்தைத் தொடர்ந்தார்"],
+    "answer_en": "He left the island",
+    "answer_ta": "அவர் தீவை விட்டு சென்றார்"
+  },
+  {
+    "question_en": "Why did Miranda pity Ferdinand in The Tempest?",
+    "question_ta": "தி டெம்பெஸ்டில் மிராண்டா ஃபெர்டினாண்டுக்கு ஏன் இரக்கம் கொண்டாள்?",
+    "options_en": ["He was poor", "He carried logs for Prospero", "He was injured", "He was lonely"],
+    "options_ta": ["அவர் ஏழை", "அவர் ப்ராஸ்பெரோவுக்காக மரக்கட்டைகள் சுமந்தார்", "அவர் காயமடைந்தார்", "அவர் தனிமையில் இருந்தார்"],
+    "answer_en": "He carried logs for Prospero",
+    "answer_ta": "அவர் ப்ராஸ்பெரோவுக்காக மரக்கட்டைகள் சுமந்தார்"
+  },
+  {
+    "question_en": "What did the young seagull feel when his wings spread wide?",
+    "question_ta": "சிறகுகளை விரித்தபோது இளம் கடற்பறவை என்ன உணர்ந்தது?",
+    "options_en": ["Fear", "Confidence", "Pain", "Sleepiness"],
+    "options_ta": ["பயம்", "தன்னம்பிக்கை", "வலி", "தூக்கம்"],
+    "answer_en": "Confidence",
+    "answer_ta": "தன்னம்பிக்கை"
+  },
+  {
+    "question_en": "What does the poet of 'Life' say about wasting time?",
+    "question_ta": "'லைஃப்' கவிதையின் கவிஞர் நேரத்தை வீணடிப்பது பற்றி என்ன சொல்கிறார்?",
+    "options_en": ["It should be wasted happily", "It should never be wasted", "It is not important", "It can be recovered"],
+    "options_ta": ["அதை மகிழ்ச்சியுடன் வீணடிக்க வேண்டும்", "அதை ஒருபோதும் வீணடிக்கக்கூடாது", "அது முக்கியமல்ல", "அதை மீண்டும் பெற முடியும்"],
+    "answer_en": "It should never be wasted",
+    "answer_ta": "அதை ஒருபோதும் வீணடிக்கக்கூடாது"
+  },
+  {
+    "question_en": "Who was Sycorax in The Tempest?",
+    "question_ta": "தி டெம்பெஸ்டில் சைகோரக்ஸ் யார்?",
+    "options_en": ["A witch", "A spirit", "A queen", "A sailor"],
+    "options_ta": ["ஒரு சூனியக்காரி", "ஒரு ஆன்மா", "ஒரு ராணி", "ஒரு கடற்படை வீரன்"],
+    "answer_en": "A witch",
+    "answer_ta": "ஒரு சூனியக்காரி"
+  },
+  {
+    "question_en": "What did the young seagull’s first flight symbolize?",
+    "question_ta": "இளம் கடற்பறவையின் முதல் பறப்பு எதை குறிக்கிறது?",
+    "options_en": ["Victory over fear", "Loss of family", "Pain of hunger", "Failure"],
+    "options_ta": ["பயத்தை வெல்வது", "குடும்பத்தை இழப்பது", "பசியின் வலி", "தோல்வி"],
+    "answer_en": "Victory over fear",
+    "answer_ta": "பயத்தை வெல்வது"
+  },
+  {
+    "question_en": "Why did Prospero create the storm in The Tempest?",
+    "question_ta": "தி டெம்பெஸ்டில் ப்ராஸ்பெரோ ஏன் புயலை உருவாக்கினார்?",
+    "options_en": ["To destroy the ship", "To bring his enemies to the island", "To test Ariel", "To punish Miranda"],
+    "options_ta": ["கப்பலை அழிக்க", "அவரது பகைவர்களை தீவிற்கு கொண்டு வர", "ஏரியலை சோதிக்க", "மிராண்டாவை தண்டிக்க"],
+    "answer_en": "To bring his enemies to the island",
+    "answer_ta": "அவரது பகைவர்களை தீவிற்கு கொண்டு வர"
+  },
+  {
+    "question_en": "What does the crown symbolize in 'Life'?",
+    "question_ta": "'லைஃப்' கவிதையில் கிரீடம் எதை குறிக்கிறது?",
+    "options_en": ["Power", "Fame", "Achievement", "Wealth"],
+    "options_ta": ["அதிகாரம்", "புகழ்", "சாதனை", "செல்வம்"],
+    "answer_en": "Achievement",
+    "answer_ta": "சாதனை"
+  },
+  {
+    "question_en": "How did the seagull’s family react when he finally flew?",
+    "question_ta": "அவன் இறுதியாக பறந்தபோது கடற்பறவையின் குடும்பம் எப்படி எதிர்வினை தெரிவித்தது?",
+    "options_en": ["They scolded him", "They encouraged him", "They laughed at him", "They ignored him"],
+    "options_ta": ["அவர்கள் அவனை திட்டினர்", "அவர்கள் அவனை ஊக்குவித்தனர்", "அவர்கள் அவனை கிண்டலிட்டனர்", "அவர்கள் அவனை புறக்கணித்தனர்"],
+    "answer_en": "They encouraged him",
+    "answer_ta": "அவர்கள் அவனை ஊக்குவித்தனர்"
+  },
+  {
+    "question_en": "What did Prospero value more than revenge?",
+    "question_ta": "ப்ராஸ்பெரோ பழிவாங்குவதைக் காட்டிலும் எதை மதித்தார்?",
+    "options_en": ["Peace and forgiveness", "Power", "Wealth", "Fame"],
+    "options_ta": ["அமைதி மற்றும் மன்னிப்பு", "அதிகாரம்", "செல்வம்", "புகழ்"],
+    "answer_en": "Peace and forgiveness",
+    "answer_ta": "அமைதி மற்றும் மன்னிப்பு"
+  },
+  {
+    "question_en": "What advice does 'Life' give about the present?",
+    "question_ta": "'லைஃப்' கவிதையில் நிகழ்காலத்தைப் பற்றி என்ன அறிவுறுத்துகிறது?",
+    "options_en": ["Live it fully", "Ignore it", "Fear it", "Waste it"],
+    "options_ta": ["அதை முழுமையாக வாழுங்கள்", "அதை புறக்கணியுங்கள்", "அதை பயப்படுங்கள்", "அதை வீணடியுங்கள்"],
+    "answer_en": "Live it fully",
+    "answer_ta": "அதை முழுமையாக வாழுங்கள்"
+  },
+  {
+    "question_en": "Who narrated 'The Tempest' for students?",
+    "question_ta": "மாணவர்களுக்காக 'தி டெம்பெஸ்ட்' யார் விளக்கினார்?",
+    "options_en": ["Charles Lamb", "William Shakespeare", "Henry Van Dyke", "Robert Frost"],
+    "options_ta": ["சார்லஸ் லாம்", "வில்லியம் ஷேக்ஸ்பியர்", "ஹென்றி வான் டைக்", "ராபர்ட் ஃப்ராஸ்ட்"],
+    "answer_en": "Charles Lamb",
+    "answer_ta": "சார்லஸ் லாம்"
+  },
+  {
+    "question_en": "What did Ariel expect as a reward from Prospero?",
+    "question_ta": "ப்ராஸ்பெரோவிடம் இருந்து ஏரியல் எந்த வெகுமதியை எதிர்பார்த்தான்?",
+    "options_en": ["Money", "Freedom", "Food", "A palace"],
+    "options_ta": ["பணம்", "சுதந்திரம்", "உணவு", "ஒரு அரண்மனை"],
+    "answer_en": "Freedom",
+    "answer_ta": "சுதந்திரம்"
+  },
+  {
+    "question_en": "What does the poet in 'Life' say about fear?",
+    "question_ta": "'லைஃப்' கவிதையில் பயத்தைப் பற்றி கவிஞர் என்ன சொல்கிறார்?",
+    "options_en": ["It must be faced bravely", "It should control life", "It must be avoided", "It should be feared always"],
+    "options_ta": ["அதை தைரியமாக எதிர்கொள்ள வேண்டும்", "அது வாழ்க்கையை கட்டுப்படுத்த வேண்டும்", "அதை தவிர்க்க வேண்டும்", "அதை எப்போதும் பயப்பட வேண்டும்"],
+    "answer_en": "It must be faced bravely",
+    "answer_ta": "அதை தைரியமாக எதிர்கொள்ள வேண்டும்"
+  },
+  {
+    "question_en": "What did Ferdinand and Miranda represent in The Tempest?",
+    "question_ta": "தி டெம்பெஸ்டில் ஃபெர்டினாண்ட் மற்றும் மிராண்டா எதை பிரதிநிதித்துவப்படுத்தினர்?",
+    "options_en": ["Hatred", "Love and new beginnings", "Revenge", "Power"],
+    "options_ta": ["வெறுப்பு", "அன்பு மற்றும் புதிய தொடக்கங்கள்", "பழிவாங்குதல்", "அதிகாரம்"],
+    "answer_en": "Love and new beginnings",
+    "answer_ta": "அன்பு மற்றும் புதிய தொடக்கங்கள்"
+  },
+  {
+    "question_en": "What forced the young seagull to take off finally?",
+    "question_ta": "இறுதியாக பறக்க இளம் கடற்பறவை எதனால் கட்டாயப்படுத்தப்பட்டது?",
+    "options_en": ["Mother’s scolding", "Hunger and food temptation", "Father’s push", "Sibling’s encouragement"],
+    "options_ta": ["தாயின் திட்டுதல்", "பசி மற்றும் உணவு கவர்ச்சி", "தந்தையின் தள்ளுதல்", "சகோதரரின் ஊக்குவிப்பு"],
+    "answer_en": "Hunger and food temptation",
+    "answer_ta": "பசி மற்றும் உணவு கவர்ச்சி"
+  },
+  {
+    "question_en": "What decision did Prospero make at the end of the play?",
+    "question_ta": "நாடகத்தின் இறுதியில் ப்ராஸ்பெரோ எந்த முடிவை எடுத்தார்?",
+    "options_en": ["To give up magic", "To punish Ariel", "To build a kingdom", "To stay on the island"],
+    "options_ta": ["மந்திரத்தை விட்டுவிட", "ஏரியலை தண்டிக்க", "ஒரு இராச்சியம் அமைக்க", "தீவில் தங்க"],
+    "answer_en": "To give up magic",
+    "answer_ta": "மந்திரத்தை விட்டுவிட"
+  },
+  {
+    "question_en": "What does the poem 'Life' mainly encourage?",
+    "question_ta": "'லைஃப்' கவிதை முதன்மையாக எதை ஊக்குவிக்கிறது?",
+    "options_en": ["Fear", "Courage and optimism", "Sadness", "Anger"],
+    "options_ta": ["பயம்", "தைரியம் மற்றும் நம்பிக்கை", "துக்கம்", "கோபம்"],
+    "answer_en": "Courage and optimism",
+    "answer_ta": "தைரியம் மற்றும் நம்பிக்கை"
+  },
+  {
+    "question_en": "What made Prospero powerful on the island?",
+    "question_ta": "தீவில் ப்ராஸ்பெரோவுக்கு வலிமையை அளித்தது என்ன?",
+    "options_en": ["His wealth", "His books and magic", "His sword", "His army"],
+    "options_ta": ["அவரது செல்வம்", "அவரது புத்தகங்கள் மற்றும் மந்திரம்", "அவரது வாள்", "அவரது படை"],
+    "answer_en": "His books and magic",
+    "answer_ta": "அவரது புத்தகங்கள் மற்றும் மந்திரம்"
+  },
+  {
+    "question_en": "What did the young seagull realize after flying?",
+    "question_ta": "பறந்தபின் இளம் கடற்பறவை என்ன உணர்ந்தது?",
+    "options_en": ["Flying was dangerous", "Flying was natural and easy", "Flying was impossible", "Flying was painful"],
+    "options_ta": ["பறப்பது ஆபத்தானது", "பறப்பது இயல்பானதும் எளிதானதும்", "பறப்பது முடியாதது", "பறப்பது வலிமையானது"],
+    "answer_en": "Flying was natural and easy",
+    "answer_ta": "பறப்பது இயல்பானதும் எளிதானதும்"
+  },
+  {
+    "question_en": "What does the poet want us to carry till the end in 'Life'?",
+    "question_ta": "'லைஃப்' கவிதையில் கவிஞர் இறுதி வரை எதை வைத்திருக்க விரும்புகிறார்?",
+    "options_en": ["Money", "Courage of the quest", "Regret", "Fear"],
+    "options_ta": ["பணம்", "தேடலின் தைரியம்", "வருத்தம்", "பயம்"],
+    "answer_en": "Courage of the quest",
+    "answer_ta": "தேடலின் தைரியம்"
+  },
+  {
+    "question_en": "What moral lesson does 'The Tempest' teach?",
+    "question_ta": "'தி டெம்பெஸ்ட்' எந்த நெறிமுறையை கற்பிக்கிறது?",
+    "options_en": ["Revenge is best", "Forgiveness is noble", "Power is supreme", "Greed is good"],
+    "options_ta": ["பழிவாங்குவது சிறந்தது", "மன்னிப்பது உயர்ந்தது", "அதிகாரம் உச்சம்", "பேராசை நல்லது"],
+    "answer_en": "Forgiveness is noble",
+    "answer_ta": "மன்னிப்பது உயர்ந்தது"
+  }
+]
+

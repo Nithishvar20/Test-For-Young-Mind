@@ -1,0 +1,307 @@
+[
+  {
+    "question_en": "The smallest particle of an element that retains its properties is",
+    "question_ta": "ஒரு தனிமத்தின் பண்புகளை தக்க வைத்திருக்கும் மிகச் சிறிய துகள் எது?",
+    "options_en": ["Atom", "Molecule", "Proton", "Electron"],
+    "options_ta": ["அணு", "மூலக்கூறு", "புரோட்டான்", "எலக்ட்ரான்"],
+    "answer_en": "Atom",
+    "answer_ta": "அணு"
+  },
+  {
+    "question_en": "The chemical symbol for Sodium is",
+    "question_ta": "சோடியத்தின் வேதியியல் குறியீடு எது?",
+    "options_en": ["S", "So", "Na", "Sn"],
+    "options_ta": ["S", "So", "Na", "Sn"],
+    "answer_en": "Na",
+    "answer_ta": "Na"
+  },
+  {
+    "question_en": "The number of protons in the nucleus is called",
+    "question_ta": "மையத்தில் உள்ள புரோட்டான்களின் எண்ணிக்கை எப்படிக் குறிப்பிடப்படுகிறது?",
+    "options_en": ["Mass number", "Atomic number", "Valency", "Molecular weight"],
+    "options_ta": ["திணிவெண்", "அணு எண்", "வேலன்சி", "மூலக்கூறு எடை"],
+    "answer_en": "Atomic number",
+    "answer_ta": "அணு எண்"
+  },
+  {
+    "question_en": "H2O is the chemical formula of",
+    "question_ta": "H₂O எந்தப் பொருளின் வேதியியல் வாய்பாடு?",
+    "options_en": ["Water", "Hydrogen peroxide", "Oxygen", "Hydrogen gas"],
+    "options_ta": ["தண்ணீர்", "ஹைட்ரஜன் பெராக்சைடு", "ஆக்சிஜன்", "ஹைட்ரஜன் வாயு"],
+    "answer_en": "Water",
+    "answer_ta": "தண்ணீர்"
+  },
+  {
+    "question_en": "The gas used in respiration is",
+    "question_ta": "சுவாசத்திற்கு பயன்படுத்தப்படும் வாயு எது?",
+    "options_en": ["Carbon dioxide", "Nitrogen", "Oxygen", "Hydrogen"],
+    "options_ta": ["கார்பன் டைஆக்சைடு", "நைட்ரஜன்", "ஆக்சிஜன்", "ஹைட்ரஜன்"],
+    "answer_en": "Oxygen",
+    "answer_ta": "ஆக்சிஜன்"
+  },
+  {
+    "question_en": "The chemical symbol for Iron is",
+    "question_ta": "இரும்பின் வேதியியல் குறியீடு எது?",
+    "options_en": ["I", "Fe", "In", "Ir"],
+    "options_ta": ["I", "Fe", "In", "Ir"],
+    "answer_en": "Fe",
+    "answer_ta": "Fe"
+  },
+  {
+    "question_en": "The nucleus of an atom contains",
+    "question_ta": "ஒரு அணுவின் மையம் (nucleus) எதை கொண்டுள்ளது?",
+    "options_en": ["Electrons only", "Protons and neutrons", "Protons and electrons", "Neutrons and electrons"],
+    "options_ta": ["எலக்ட்ரான்கள் மட்டும்", "புரோட்டான்கள் மற்றும் நியூட்ரான்கள்", "புரோட்டான்கள் மற்றும் எலக்ட்ரான்கள்", "நியூட்ரான்கள் மற்றும் எலக்ட்ரான்கள்"],
+    "answer_en": "Protons and neutrons",
+    "answer_ta": "புரோட்டான்கள் மற்றும் நியூட்ரான்கள்"
+  },
+  {
+    "question_en": "The SI unit of amount of substance is",
+    "question_ta": "பொருளின் அளவுக்கான எஸ்.ஐ அலகு எது?",
+    "options_en": ["Kilogram", "Mole", "Gram", "Liter"],
+    "options_ta": ["கிலோகிராம்", "மோல்", "கிராம்", "லிட்டர்"],
+    "answer_en": "Mole",
+    "answer_ta": "மோல்"
+  },
+  {
+    "question_en": "The substance formed after a chemical reaction is called",
+    "question_ta": "வேதியியல் வினையின் பின் உருவாகும் பொருளை என்ன என்று அழைக்கப்படுகிறது?",
+    "options_en": ["Reactant", "Product", "Catalyst", "Mixture"],
+    "options_ta": ["வினையூக்கி", "விளைவு (புராடக்ட்)", "துரிதப்படுத்தி", "கலவை"],
+    "answer_en": "Product",
+    "answer_ta": "விளைவு (புராடக்ட்)"
+  },
+  {
+    "question_en": "Which of the following is a noble gas?",
+    "question_ta": "பின்வருவனவற்றில் எது ஒரு நொபிள் வாயு?",
+    "options_en": ["Oxygen", "Nitrogen", "Helium", "Chlorine"],
+    "options_ta": ["ஆக்சிஜன்", "நைட்ரஜன்", "ஹீலியம்", "குளோரைன்"],
+    "answer_en": "Helium",
+    "answer_ta": "ஹீலியம்"
+  },
+  {
+    "question_en": "Which indicator turns blue in basic solution?",
+    "question_ta": "அடிப்பான (basic) திசுரையில் எது நீலமாக மாறும்?",
+    "options_en": ["Methyl orange", "Phenolphthalein", "Litmus", "Starch indicator"],
+    "options_ta": ["மிதைல் ஆரஞ்சு", "பெனால்ஃப்தலீன்", "லிட்மஸ்", "ஸ்டார்ச் குறிகாட்டி"],
+    "answer_en": "Litmus",
+    "answer_ta": "லிட்மஸ்"
+  },
+  {
+    "question_en": "Which gas is released when an acid reacts with a metal?",
+    "question_ta": "அமிலம் ஒரு உலோகத்துடன் வினைபுரிந்தால் வெளியேறும் வாயு எது?",
+    "options_en": ["Oxygen", "Hydrogen", "Carbon dioxide", "Nitrogen"],
+    "options_ta": ["ஆக்சிஜன்", "ஹைட்ரஜன்", "கார்பன் டைஆக்சைடு", "நைட்ரஜன்"],
+    "answer_en": "Hydrogen",
+    "answer_ta": "ஹைட்ரஜன்"
+  },
+  {
+    "question_en": "The pH of pure water at 25°C is approximately",
+    "question_ta": "25°C இல் தூய நீரின் pH மதிப்பு சுமார் எவ்வளவு?",
+    "options_en": ["0", "14", "4", "7"],
+    "options_ta": ["0", "14", "4", "7"],
+    "answer_en": "7",
+    "answer_ta": "7"
+  },
+  {
+    "question_en": "What is the formula of common salt?",
+    "question_ta": "பொதுவான உப்பின் வேதியியல் வாய்பாடு எது?",
+    "options_en": ["Na2CO3", "KOH", "CO2", "NaCl"],
+    "options_ta": ["Na2CO3", "KOH", "CO2", "NaCl"],
+    "answer_en": "NaCl",
+    "answer_ta": "NaCl"
+  },
+  {
+    "question_en": "Which process separates a soluble solid from solution by evaporation?",
+    "question_ta": "கரையக்கூடிய திடுவை தீர்விலிருந்து ஆவியாக்கம் மூலம் பிரிக்கும் செயல்முறை எது?",
+    "options_en": ["Filtration", "Crystallisation", "Decantation", "Distillation"],
+    "options_ta": ["சுற்றறிதல்", "அறுக்கல் (Crystallisation)", "அவிழ்தல்", "அசலம் (Distillation)"],
+    "answer_en": "Crystallisation",
+    "answer_ta": "அறுக்கல் (Crystallisation)"
+  },
+  {
+    "question_en": "Which metal is obtained by electrolytic reduction of molten ore?",
+    "question_ta": "உருகிய கனிமத்தின் மின்விளைவு குறைப்பால் பெறப்படும் உலோகம் எது?",
+    "options_en": ["Iron", "Zinc", "Aluminium", "Copper"],
+    "options_ta": ["இரும்பு", "சிங்க்", "அலுமினியம்", "தாமிரம்"],
+    "answer_en": "Aluminium",
+    "answer_ta": "அலுமினியம்"
+  },
+  {
+    "question_en": "Which of these is a covalent compound?",
+    "question_ta": "பின்வருவனவற்றில் எது ஓரிணை (covalent) சேர்மம்?",
+    "options_en": ["NaCl", "KBr", "CO2", "MgO"],
+    "options_ta": ["NaCl", "KBr", "CO2", "MgO"],
+    "answer_en": "CO2",
+    "answer_ta": "CO2"
+  },
+  {
+    "question_en": "Which technique separates immiscible liquids?",
+    "question_ta": "ஒன்றுடன் ஒன்று கலக்காத திரவங்களை பிரிப்பது எது?",
+    "options_en": ["Evaporation", "Separating funnel", "Filtration", "Chromatography"],
+    "options_ta": ["ஆவியாக்கம்", "பிரித்தெடுக்கும் கிண்ணம்", "சுற்றறிதல்", "குரோமாடோக்ராஃபி"],
+    "answer_en": "Separating funnel",
+    "answer_ta": "பிரித்தெடுக்கும் கிண்ணம்"
+  },
+  {
+    "question_en": "Which of the following is an alloy?",
+    "question_ta": "பின்வருவனவற்றில் எது ஒரு கலப்பொருள் (alloy)?",
+    "options_en": ["Sugar", "Water", "Brass", "Mud"],
+    "options_ta": ["சர்க்கரை", "தண்ணீர்", "பிராஸ்", "மண்"],
+    "answer_en": "Brass",
+    "answer_ta": "பிராஸ்"
+  },
+  {
+    "question_en": "Which compound is commonly called baking soda?",
+    "question_ta": "பேக்கிங் சோடா என்று அழைக்கப்படும் சேர்மம் எது?",
+    "options_en": ["Na2CO3", "NaCl", "NaHCO3", "KNO3"],
+    "options_ta": ["Na2CO3", "NaCl", "NaHCO3", "KNO3"],
+    "answer_en": "NaHCO3",
+    "answer_ta": "NaHCO3"
+  },
+  {
+    "question_en": "Hydrochloric acid turns blue litmus into",
+    "question_ta": "ஹைட்ரோகுளோரிக் அமிலம் நீல லிட்மஸை எதற்கு மாற்றும்?",
+    "options_en": ["Green", "Red", "Blue", "No change"],
+    "options_ta": ["பச்சை", "சிவப்பு", "நீலம்", "மாற்றமில்லை"],
+    "answer_en": "Red",
+    "answer_ta": "சிவப்பு"
+  },
+  {
+    "question_en": "Which gas turns lime water milky?",
+    "question_ta": "எந்த வாயு சுண்ணாம்பு நீரை பால் போன்றதாக மாற்றும்?",
+    "options_en": ["Oxygen", "Hydrogen", "Nitrogen", "Carbon dioxide"],
+    "options_ta": ["ஆக்சிஜன்", "ஹைட்ரஜன்", "நைட்ரஜன்", "கார்பன் டைஆக்சைடு"],
+    "answer_en": "Carbon dioxide",
+    "answer_ta": "கார்பன் டைஆக்சைடு"
+  },
+  {
+    "question_en": "Which strong acid is commonly used in labs?",
+    "question_ta": "ஆய்வகங்களில் பொதுவாகப் பயன்படுத்தப்படும் வலுவான அமிலம் எது?",
+    "options_en": ["Carbonic acid", "Acetic acid", "Hydrochloric acid (HCl)", "Oxalic acid"],
+    "options_ta": ["கார்பானிக் அமிலம்", "அசிட்டிக் அமிலம்", "ஹைட்ரோகுளோரிக் அமிலம் (HCl)", "ஆக்ஸலிக் அமிலம்"],
+    "answer_en": "Hydrochloric acid (HCl)",
+    "answer_ta": "ஹைட்ரோகுளோரிக் அமிலம் (HCl)"
+  },
+  {
+    "question_en": "Which process is used to obtain pure water from seawater?",
+    "question_ta": "கடல் நீரிலிருந்து தூய நீரைப் பெற எந்த செயல்முறை பயன்படுத்தப்படும்?",
+    "options_en": ["Filtration", "Chromatography", "Electroplating", "Desalination"],
+    "options_ta": ["சுற்றறிதல்", "குரோமாடோக்ராஃபி", "மின்இணைப்பு", "உப்பு அகற்றம் (Desalination)"],
+    "answer_en": "Desalination",
+    "answer_ta": "உப்பு அகற்றம் (Desalination)"
+  },
+  {
+    "question_en": "Which ion makes a solution basic?",
+    "question_ta": "ஒரு தீர்வை அடிப்பானதாக ஆக்குவதற்குக் காரணமான அயன் எது?",
+    "options_en": ["Na⁺", "H⁺", "OH⁻", "Cl⁻"],
+    "options_ta": ["Na⁺", "H⁺", "OH⁻", "Cl⁻"],
+    "answer_en": "OH⁻",
+    "answer_ta": "OH⁻"
+  },
+  {
+    "question_en": "Which of these substances is used as a catalyst in decomposition of hydrogen peroxide?",
+    "question_ta": "ஹைட்ரஜன் பெராக்சைடு சிதைவில் துரிதப்படுத்தியாகப் பயன்படும் பொருள் எது?",
+    "options_en": ["Manganese dioxide (MnO2)", "Iron filings", "Copper sulphate", "Zinc oxide"],
+    "options_ta": ["மாங்கனீஸ் டைஆக்சைடு (MnO2)", "இரும்பு துகள்கள்", "தாமிர சல்பேட்டு", "சிங்க் ஆக்சைடு"],
+    "answer_en": "Manganese dioxide (MnO2)",
+    "answer_ta": "மாங்கனீஸ் டைஆக்சைடு (MnO2)"
+  },
+  {
+    "question_en": "Which is the lightest element?",
+    "question_ta": "மிகக் குறைந்த எடையுடைய தனிமம் எது?",
+    "options_en": ["Hydrogen", "Helium", "Lithium", "Oxygen"],
+    "options_ta": ["ஹைட்ரஜன்", "ஹீலியம்", "லித்தியம்", "ஆக்சிஜன்"],
+    "answer_en": "Hydrogen",
+    "answer_ta": "ஹைட்ரஜன்"
+  },
+  {
+    "question_en": "Which of the following is not a mixture?",
+    "question_ta": "பின்வருவனவற்றில் எது கலவை அல்ல?",
+    "options_en": ["Air", "Soil", "Water", "Milk"],
+    "options_ta": ["காற்று", "மண்", "தண்ணீர்", "பால்"],
+    "answer_en": "Water",
+    "answer_ta": "தண்ணீர்"
+  },
+  {
+    "question_en": "Which of the following is used in the preparation of soap?",
+    "question_ta": "சோப்பை தயாரிக்க பின்வருவனவற்றில் எது பயன்படுத்தப்படுகிறது?",
+    "options_en": ["NaOH", "NaCl", "HCl", "KCl"],
+    "options_ta": ["NaOH", "NaCl", "HCl", "KCl"],
+    "answer_en": "NaOH",
+    "answer_ta": "NaOH"
+  },
+  {
+    "question_en": "Which gas is used to fill balloons because it is lighter than air?",
+    "question_ta": "காற்றை விட எடை குறைவானதால் பலூன்களை நிரப்பப் பயன்படும் வாயு எது?",
+    "options_en": ["Oxygen", "Carbon dioxide", "Hydrogen", "Helium"],
+    "options_ta": ["ஆக்சிஜன்", "கார்பன் டைஆக்சைடு", "ஹைட்ரஜன்", "ஹீலியம்"],
+    "answer_en": "Helium",
+    "answer_ta": "ஹீலியம்"
+  },
+  {
+    "question_en": "Which element is used in making pencils?",
+    "question_ta": "பென்சில் தயாரிக்கப் பயன்படும் தனிமம் எது?",
+    "options_en": ["Carbon (graphite)", "Lead metal", "Zinc", "Tin"],
+    "options_ta": ["கார்பன் (கிராஃபைட்)", "லெட் உலோகம்", "சிங்க்", "இயம்"],
+    "answer_en": "Carbon (graphite)",
+    "answer_ta": "கார்பன் (கிராஃபைட்)"
+  },
+  {
+    "question_en": "Which is the chemical formula of quick lime?",
+    "question_ta": "சுண்ணாம்பின் (quick lime) வேதியியல் வாய்பாடு எது?",
+    "options_en": ["CaO", "CaCO3", "Ca(OH)2", "CaSO4"],
+    "options_ta": ["CaO", "CaCO3", "Ca(OH)2", "CaSO4"],
+    "answer_en": "CaO",
+    "answer_ta": "CaO"
+  },
+  {
+    "question_en": "Which compound is commonly known as washing soda?",
+    "question_ta": "வாசிங்சோடா என்று அழைக்கப்படும் சேர்மம் எது?",
+    "options_en": ["Na2CO3", "NaHCO3", "K2CO3", "NaCl"],
+    "options_ta": ["Na2CO3", "NaHCO3", "K2CO3", "NaCl"],
+    "answer_en": "Na2CO3",
+    "answer_ta": "Na2CO3"
+  },
+  {
+    "question_en": "Which metal is liquid at room temperature?",
+    "question_ta": "அறை வெப்பநிலையில் திரவமாக இருக்கும் உலோகம் எது?",
+    "options_en": ["Mercury", "Sodium", "Potassium", "Aluminium"],
+    "options_ta": ["பாரா", "சோடியம்", "பொட்டாசியம்", "அலுமினியம்"],
+    "answer_en": "Mercury",
+    "answer_ta": "பாரா"
+  },
+  {
+    "question_en": "Which gas is called laughing gas?",
+    "question_ta": "சிரிப்பு வாயு என்று அழைக்கப்படும் வாயு எது?",
+    "options_en": ["CO2", "N2", "N2O", "O3"],
+    "options_ta": ["CO2", "N2", "N2O", "O3"],
+    "answer_en": "N2O",
+    "answer_ta": "N2O"
+  },
+  {
+    "question_en": "Which element is essential for respiration in humans?",
+    "question_ta": "மனிதர்களின் சுவாசத்திற்கு அத்தியாவசியமான தனிமம் எது?",
+    "options_en": ["Hydrogen", "Oxygen", "Nitrogen", "Carbon"],
+    "options_ta": ["ஹைட்ரஜன்", "ஆக்சிஜன்", "நைட்ரஜன்", "கார்பன்"],
+    "answer_en": "Oxygen",
+    "answer_ta": "ஆக்சிஜன்"
+  },
+  {
+    "question_en": "Which of the following metals is the best conductor of electricity?",
+    "question_ta": "பின்வரும் உலோகங்களில் எது சிறந்த மின்கடத்தி?",
+    "options_en": ["Silver", "Iron", "Copper", "Aluminium"],
+    "options_ta": ["வெள்ளி", "இரும்பு", "தாமிரம்", "அலுமினியம்"],
+    "answer_en": "Silver",
+    "answer_ta": "வெள்ளி"
+  },
+  {
+    "question_en": "Which of the following is an exothermic process?",
+    "question_ta": "பின்வருவனவற்றில் எது வெப்பவெளியீட்டு (exothermic) செயல்முறை?",
+    "options_en": ["Melting of ice", "Evaporation of water", "Combustion of fuel", "Dissolving salt in water"],
+    "options_ta": ["பனிக்கட்டி உருகுதல்", "தண்ணீர் ஆவியாக்கம்", "எரிபொருள் எரிப்பு", "உப்பை நீரில் கரைத்தல்"],
+    "answer_en": "Combustion of fuel",
+    "answer_ta": "எரிபொருள் எரிப்பு"
+  }
+]
+

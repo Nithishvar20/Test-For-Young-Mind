@@ -1,0 +1,362 @@
+[
+  {
+    "question_en": "Who wrote 'Oliver Twist'?",
+    "question_ta": "‘ஒலிவர் ட்விஸ்ட்’ நூலை எழுதியவர் யார்?",
+    "options_en": ["William Wordsworth", "Charles Dickens", "Rudyard Kipling", "Mark Twain"],
+    "options_ta": ["வில்லியம் வர்ட்ஸ்வொர்த்", "சார்லஸ் டிக்கன்ஸ்", "ருட்யார்டு கிப்லிங்", "மார்க் ட்வைன்"],
+    "answer_en": "Charles Dickens",
+    "answer_ta": "சார்லஸ் டிக்கன்ஸ்"
+  },
+  {
+    "question_en": "Which planet is called the Morning Star?",
+    "question_ta": "காலை நட்சத்திரம் என்று அழைக்கப்படும் கோள் எது?",
+    "options_en": ["Mars", "Venus", "Mercury", "Jupiter"],
+    "options_ta": ["செவ்வாய்", "சுக்கிரன்", "புதன்", "வியாழன்"],
+    "answer_en": "Venus",
+    "answer_ta": "சுக்கிரன்"
+  },
+  {
+    "question_en": "Who invented the telephone?",
+    "question_ta": "தொலைபேசியை கண்டுபிடித்தவர் யார்?",
+    "options_en": ["Alexander Graham Bell", "Thomas Edison", "James Watt", "Albert Einstein"],
+    "options_ta": ["அலெக்ஸாண்டர் கிராம் பெல்", "தாமஸ் எடிசன்", "ஜேம்ஸ் வாட்", "ஆல்பர்ட் ஐன்ஸ்டீன்"],
+    "answer_en": "Alexander Graham Bell",
+    "answer_ta": "அலெக்ஸாண்டர் கிராம் பெல்"
+  },
+  {
+    "question_en": "Which gas is essential for fire to burn?",
+    "question_ta": "தீ எரிய முக்கியமான வாயு எது?",
+    "options_en": ["Oxygen", "Carbon dioxide", "Nitrogen", "Hydrogen"],
+    "options_ta": ["ஆக்சிஜன்", "கார்பன் டை ஆக்சைடு", "நைட்ரஜன்", "ஹைட்ரஜன்"],
+    "answer_en": "Oxygen",
+    "answer_ta": "ஆக்சிஜன்"
+  },
+  {
+    "question_en": "Who is known as the 'Father of India'?",
+    "question_ta": "‘இந்தியாவின் தந்தை’ என்று அழைக்கப்படுபவர் யார்?",
+    "options_en": ["Subhas Chandra Bose", "Mahatma Gandhi", "Jawaharlal Nehru", "B. R. Ambedkar"],
+    "options_ta": ["சுபாஷ் சந்திர போஸ்", "மகாத்மா காந்தி", "ஜவஹர்லால் நேரு", "பி.ஆர். அம்பேத்கர்"],
+    "answer_en": "Mahatma Gandhi",
+    "answer_ta": "மகாத்மா காந்தி"
+  },
+  {
+    "question_en": "Which element is represented by 'O' in the periodic table?",
+    "question_ta": "அட்டவணையில் 'O' என குறிக்கப்படும் மூலப்பொருள் எது?",
+    "options_en": ["Oxygen", "Osmium", "Oxide", "Organium"],
+    "options_ta": ["ஆக்சிஜன்", "ஆஸ்மியம்", "ஆக்சைடு", "ஆர்கேனியம்"],
+    "answer_en": "Oxygen",
+    "answer_ta": "ஆக்சிஜன்"
+  },
+  {
+    "question_en": "Which is the hardest natural substance on Earth?",
+    "question_ta": "பூமியில் உள்ள மிகக் கடினமான இயற்கை பொருள் எது?",
+    "options_en": ["Diamond", "Gold", "Iron", "Quartz"],
+    "options_ta": ["வைரம்", "தங்கம்", "இரும்பு", "குவார்ட்ஸ்"],
+    "answer_en": "Diamond",
+    "answer_ta": "வைரம்"
+  },
+  {
+    "question_en": "Who discovered gravity?",
+    "question_ta": "ஈர்ப்பு விசையை கண்டுபிடித்தவர் யார்?",
+    "options_en": ["Isaac Newton", "Galileo", "Einstein", "Kepler"],
+    "options_ta": ["ஐசக் நியூட்டன்", "கலிலியோ", "ஐன்ஸ்டீன்", "கேப்லர்"],
+    "answer_en": "Isaac Newton",
+    "answer_ta": "ஐசக் நியூட்டன்"
+  },
+  {
+    "question_en": "Which is the national game of Japan?",
+    "question_ta": "ஜப்பானின் தேசிய விளையாட்டு எது?",
+    "options_en": ["Sumo Wrestling", "Karate", "Baseball", "Judo"],
+    "options_ta": ["சுமோ மல்யுத்தம்", "கராத்தே", "பேஸ்பால்", "ஜூடோ"],
+    "answer_en": "Sumo Wrestling",
+    "answer_ta": "சுமோ மல்யுத்தம்"
+  },
+  {
+    "question_en": "Which planet has the largest rings?",
+    "question_ta": "பெரிய வளையங்களை கொண்டுள்ள கிரகம் எது?",
+    "options_en": ["Uranus", "Jupiter", "Saturn", "Neptune"],
+    "options_ta": ["யுரேனஸ்", "வியாழன்", "சனி", "நெப்டியூன்"],
+    "answer_en": "Saturn",
+    "answer_ta": "சனி"
+  },
+  {
+    "question_en": "Who painted the Mona Lisa?",
+    "question_ta": "‘மோனா லிசா’ ஓவியத்தை வரைய்ந்தவர் யார்?",
+    "options_en": ["Leonardo da Vinci", "Pablo Picasso", "Vincent Van Gogh", "Michelangelo"],
+    "options_ta": ["லியோனார்டோ டா வின்சி", "பாப்லோ பிக்காசோ", "வின்சென்ட் வான் கோக்", "மைக்கேலேஞ்சலோ"],
+    "answer_en": "Leonardo da Vinci",
+    "answer_ta": "லியோனார்டோ டா வின்சி"
+  },
+  {
+    "question_en": "Which is the capital city of Australia?",
+    "question_ta": "ஆஸ்திரேலியாவின் தலைநகரம் எது?",
+    "options_en": ["Sydney", "Melbourne", "Canberra", "Perth"],
+    "options_ta": ["சிட்னி", "மெல்போர்ன்", "கான்பெரா", "பெர்த்"],
+    "answer_en": "Canberra",
+    "answer_ta": "கான்பெரா"
+  },
+  {
+    "question_en": "Which country is called the Land of the Rising Sun?",
+    "question_ta": "‘சூரிய உதய நாடு’ என்று அழைக்கப்படும் நாடு எது?",
+    "options_en": ["China", "Japan", "Korea", "Thailand"],
+    "options_ta": ["சீனா", "ஜப்பான்", "கொரியா", "தாய்லாந்து"],
+    "answer_en": "Japan",
+    "answer_ta": "ஜப்பான்"
+  },
+  {
+    "question_en": "Which is the largest desert in the world?",
+    "question_ta": "உலகின் மிகப்பெரிய பாலைவனம் எது?",
+    "options_en": ["Sahara", "Thar", "Kalahari", "Gobi"],
+    "options_ta": ["சஹாரா", "தார்", "கலஹாரி", "கோபி"],
+    "answer_en": "Sahara",
+    "answer_ta": "சஹாரா"
+  },
+  {
+    "question_en": "Who invented the light bulb?",
+    "question_ta": "மின்விளக்கை கண்டுபிடித்தவர் யார்?",
+    "options_en": ["Thomas Edison", "Nikola Tesla", "Alexander Fleming", "James Watt"],
+    "options_ta": ["தாமஸ் எடிசன்", "நிக்கோலா டெஸ்லா", "அலெக்ஸாண்டர் பிளெமிங்", "ஜேம்ஸ் வாட்"],
+    "answer_en": "Thomas Edison",
+    "answer_ta": "தாமஸ் எடிசன்"
+  },
+  {
+    "question_en": "Which country gifted the Statue of Liberty to the USA?",
+    "question_ta": "அமெரிக்காவுக்கு சுதந்திரச் சிலையை வழங்கிய நாடு எது?",
+    "options_en": ["France", "England", "Italy", "Germany"],
+    "options_ta": ["பிரான்ஸ்", "இங்கிலாந்து", "இத்தாலி", "ஜெர்மனி"],
+    "answer_en": "France",
+    "answer_ta": "பிரான்ஸ்"
+  },
+  {
+    "question_en": "Which instrument is used to measure temperature?",
+    "question_ta": "வெப்பநிலையை அளக்கும் கருவி எது?",
+    "options_en": ["Barometer", "Thermometer", "Hygrometer", "Speedometer"],
+    "options_ta": ["பாரோமீட்டர்", "தெர்மோமீட்டர்", "ஹைக்ரோமீட்டர்", "ஸ்பீடோமீட்டர்"],
+    "answer_en": "Thermometer",
+    "answer_ta": "தெர்மோமீட்டர்"
+  },
+  {
+    "question_en": "Which planet is known as the Blue Planet?",
+    "question_ta": "‘நீல கோள்’ என்று அழைக்கப்படும் கிரகம் எது?",
+    "options_en": ["Earth", "Neptune", "Uranus", "Venus"],
+    "options_ta": ["பூமி", "நெப்டியூன்", "யுரேனஸ்", "சுக்கிரன்"],
+    "answer_en": "Earth",
+    "answer_ta": "பூமி"
+  },
+  {
+    "question_en": "Which vitamin is produced by sunlight?",
+    "question_ta": "சூரிய ஒளி மூலம் உருவாகும் வைட்டமின் எது?",
+    "options_en": ["Vitamin A", "Vitamin D", "Vitamin C", "Vitamin B"],
+    "options_ta": ["வைட்டமின் A", "வைட்டமின் D", "வைட்டமின் C", "வைட்டமின் B"],
+    "answer_en": "Vitamin D",
+    "answer_ta": "வைட்டமின் D"
+  },
+  {
+    "question_en": "Who discovered America?",
+    "question_ta": "அமெரிக்காவை கண்டுபிடித்தவர் யார்?",
+    "options_en": ["Columbus", "Vasco da Gama", "Magellan", "Marco Polo"],
+    "options_ta": ["கொலம்பஸ்", "வாஸ்கோ ட காமா", "மகெலன்", "மார்கோ போலோ"],
+    "answer_en": "Columbus",
+    "answer_ta": "கொலம்பஸ்"
+  },
+  {
+    "question_en": "Which is the largest island in the world?",
+    "question_ta": "உலகின் மிகப்பெரிய தீவு எது?",
+    "options_en": ["Greenland", "Australia", "Iceland", "Madagascar"],
+    "options_ta": ["கிரீன்லாந்து", "ஆஸ்திரேலியா", "ஐஸ்லாந்து", "மடகாஸ்கர்"],
+    "answer_en": "Greenland",
+    "answer_ta": "கிரீன்லாந்து"
+  },
+  {
+    "question_en": "Which country invented paper?",
+    "question_ta": "காகிதத்தை கண்டுபிடித்த நாடு எது?",
+    "options_en": ["India", "China", "Egypt", "Greece"],
+    "options_ta": ["இந்தியா", "சீனா", "எகிப்து", "கிரீஸ்"],
+    "answer_en": "China",
+    "answer_ta": "சீனா"
+  },
+  {
+    "question_en": "Which planet is farthest from the Sun?",
+    "question_ta": "சூரியனிலிருந்து மிகவும் தொலைவில் உள்ள கிரகம் எது?",
+    "options_en": ["Neptune", "Uranus", "Saturn", "Pluto"],
+    "options_ta": ["நெப்டியூன்", "யுரேனஸ்", "சனி", "புளுடோ"],
+    "answer_en": "Neptune",
+    "answer_ta": "நெப்டியூன்"
+  },
+  {
+    "question_en": "Who is known as the Nightingale of India?",
+    "question_ta": "‘இந்தியாவின் குயில்’ என்று அழைக்கப்படுபவர் யார்?",
+    "options_en": ["Lata Mangeshkar", "Sarojini Naidu", "Indira Gandhi", "Annie Besant"],
+    "options_ta": ["லதா மங்கேஷ்கர்", "சரோஜினி நாயுடு", "இந்திரா காந்தி", "அன்னி பெசன்ட்"],
+    "answer_en": "Sarojini Naidu",
+    "answer_ta": "சரோஜினி நாயுடு"
+  },
+  {
+    "question_en": "Which ocean is named after a country?",
+    "question_ta": "ஒரு நாட்டின் பெயரில் அழைக்கப்படும் பெருங்கடல் எது?",
+    "options_en": ["Atlantic Ocean", "Indian Ocean", "Arctic Ocean", "Pacific Ocean"],
+    "options_ta": ["அட்லாண்டிக்", "இந்திய", "ஆர்க்டிக்", "பசிபிக்"],
+    "answer_en": "Indian Ocean",
+    "answer_ta": "இந்திய"
+  },
+  {
+    "question_en": "Who invented the printing press?",
+    "question_ta": "அச்சுக் கருவியை கண்டுபிடித்தவர் யார்?",
+    "options_en": ["Johannes Gutenberg", "Alexander Fleming", "Galileo", "Newton"],
+    "options_ta": ["ஜோஹான்ஸ் குடன்பெர்க்", "அலெக்ஸாண்டர் பிளெமிங்", "கலிலியோ", "நியூட்டன்"],
+    "answer_en": "Johannes Gutenberg",
+    "answer_ta": "ஜோஹான்ஸ் குடன்பெர்க்"
+  },
+  {
+    "question_en": "Which is the capital of France?",
+    "question_ta": "பிரான்சின் தலைநகரம் எது?",
+    "options_en": ["London", "Paris", "Berlin", "Rome"],
+    "options_ta": ["லண்டன்", "பாரிஸ்", "பெர்லின்", "ரோம்"],
+    "answer_en": "Paris",
+    "answer_ta": "பாரிஸ்"
+  },
+  {
+    "question_en": "Who invented the aeroplane?",
+    "question_ta": "விமானத்தை கண்டுபிடித்தவர் யார்?",
+    "options_en": ["Wright Brothers", "Edison", "Newton", "Tesla"],
+    "options_ta": ["ரைட் சகோதரர்கள்", "எடிசன்", "நியூட்டன்", "டெஸ்லா"],
+    "answer_en": "Wright Brothers",
+    "answer_ta": "ரைட் சகோதரர்கள்"
+  },
+  {
+    "question_en": "Which gas do humans exhale?",
+    "question_ta": "மனிதர்கள் வெளியேற்றும் வாயு எது?",
+    "options_en": ["Oxygen", "Nitrogen", "Carbon dioxide", "Hydrogen"],
+    "options_ta": ["ஆக்சிஜன்", "நைட்ரஜன்", "கார்பன் டை ஆக்சைடு", "ஹைட்ரஜன்"],
+    "answer_en": "Carbon dioxide",
+    "answer_ta": "கார்பன் டை ஆக்சைடு"
+  },
+  {
+    "question_en": "Which is the currency of Japan?",
+    "question_ta": "ஜப்பானின் நாணயம் எது?",
+    "options_en": ["Won", "Yen", "Dollar", "Euro"],
+    "options_ta": ["வோன்", "யென்", "டாலர்", "யூரோ"],
+    "answer_en": "Yen",
+    "answer_ta": "யென்"
+  },
+  {
+    "question_en": "Who is the author of 'Harry Potter'?",
+    "question_ta": "‘ஹாரி பாட்டர்’ நூலின் ஆசிரியர் யார்?",
+    "options_en": ["J. K. Rowling", "Charles Dickens", "Mark Twain", "Shakespeare"],
+    "options_ta": ["ஜே. கே. ரோலிங்க்", "சார்லஸ் டிக்கன்ஸ்", "மார்க் ட்வைன்", "ஷேக்ஸ்பியர்"],
+    "answer_en": "J. K. Rowling",
+    "answer_ta": "ஜே. கே. ரோலிங்க்"
+  },
+  {
+    "question_en": "Which country is famous for the Great Wall?",
+    "question_ta": "பெரிய சுவர் என்று அழைக்கப்படும் நினைவுச்சின்னத்திற்காக பிரபலமான நாடு எது?",
+    "options_en": ["India", "China", "Egypt", "Japan"],
+    "options_ta": ["இந்தியா", "சீனா", "எகிப்து", "ஜப்பான்"],
+    "answer_en": "China",
+    "answer_ta": "சீனா"
+  },
+  {
+    "question_en": "Which instrument is used to measure air pressure?",
+    "question_ta": "காற்றழுத்தத்தை அளக்கும் கருவி எது?",
+    "options_en": ["Thermometer", "Barometer", "Hygrometer", "Altimeter"],
+    "options_ta": ["தெர்மோமீட்டர்", "பாரோமீட்டர்", "ஹைக்ரோமீட்டர்", "ஆல்டிமீட்டர்"],
+    "answer_en": "Barometer",
+    "answer_ta": "பாரோமீட்டர்"
+  },
+  {
+    "question_en": "Which blood group is known as the universal donor?",
+    "question_ta": "பொது தானம் செய்யக்கூடிய இரத்த வகை எது?",
+    "options_en": ["A", "B", "O", "AB"],
+    "options_ta": ["A", "B", "O", "AB"],
+    "answer_en": "O",
+    "answer_ta": "O"
+  },
+  {
+    "question_en": "Which country is known as the Land of Kangaroos?",
+    "question_ta": "கங்காரூக்களின் நாடு என்று அழைக்கப்படும் நாடு எது?",
+    "options_en": ["India", "Australia", "New Zealand", "South Africa"],
+    "options_ta": ["இந்தியா", "ஆஸ்திரேலியா", "நியூசிலாந்து", "தென்னாப்பிரிக்கா"],
+    "answer_en": "Australia",
+    "answer_ta": "ஆஸ்திரேலியா"
+  },
+  {
+    "question_en": "Who discovered the vaccine for smallpox?",
+    "question_ta": "சின்னம்மைக்கு தடுப்பூசியை கண்டுபிடித்தவர் யார்?",
+    "options_en": ["Edward Jenner", "Louis Pasteur", "Alexander Fleming", "Robert Koch"],
+    "options_ta": ["எட்வர்ட் ஜென்னர்", "லூயிஸ் பாஸ்டியர்", "அலெக்ஸாண்டர் பிளெமிங்", "ராபர்ட் கோச்"],
+    "answer_en": "Edward Jenner",
+    "answer_ta": "எட்வர்ட் ஜென்னர்"
+  },
+  {
+    "question_en": "Which city is called the 'City of Joy'?",
+    "question_ta": "‘சந்தோஷ நகரம்’ என்று அழைக்கப்படும் நகரம் எது?",
+    "options_en": ["Delhi", "Mumbai", "Kolkata", "Chennai"],
+    "options_ta": ["தில்லி", "மும்பை", "கொல்கத்தா", "சென்னை"],
+    "answer_en": "Kolkata",
+    "answer_ta": "கொல்கத்தா"
+  },
+  {
+    "question_en": "Which is the largest gland in the human body?",
+    "question_ta": "மனித உடலில் மிகப்பெரிய சுரப்பி எது?",
+    "options_en": ["Liver", "Pancreas", "Thyroid", "Kidney"],
+    "options_ta": ["கல்லீரல்", "அகப்பை", "தைரோய்டு", "சிறுநீரகம்"],
+    "answer_en": "Liver",
+    "answer_ta": "கல்லீரல்"
+  },
+  {
+    "question_en": "Who wrote 'Romeo and Juliet'?",
+    "question_ta": "‘ரோமியோ மற்றும் ஜூலியட்’ நாடகத்தை எழுதியவர் யார்?",
+    "options_en": ["Shakespeare", "Charles Dickens", "Milton", "Wordsworth"],
+    "options_ta": ["ஷேக்ஸ்பியர்", "சார்லஸ் டிக்கன்ஸ்", "மில்டன்", "வர்ட்ஸ்வொர்த்"],
+    "answer_en": "Shakespeare",
+    "answer_ta": "ஷேக்ஸ்பியர்"
+  },
+  {
+    "question_en": "Which gas is used by plants during photosynthesis?",
+    "question_ta": "ஒளிச்சேர்க்கையில் தாவரங்கள் பயன்படுத்தும் வாயு எது?",
+    "options_en": ["Oxygen", "Carbon dioxide", "Nitrogen", "Hydrogen"],
+    "options_ta": ["ஆக்சிஜன்", "கார்பன் டை ஆக்சைடு", "நைட்ரஜன்", "ஹைட்ரஜன்"],
+    "answer_en": "Carbon dioxide",
+    "answer_ta": "கார்பன் டை ஆக்சைடு"
+  },
+  {
+    "question_en": "Which organ purifies blood in the human body?",
+    "question_ta": "மனித உடலில் இரத்தத்தை சுத்திகரிக்கும் உறுப்பு எது?",
+    "options_en": ["Heart", "Kidney", "Liver", "Lungs"],
+    "options_ta": ["இதயம்", "சிறுநீரகம்", "கல்லீரல்", "நுரையீரல்"],
+    "answer_en": "Kidney",
+    "answer_ta": "சிறுநீரகம்"
+  },
+  {
+    "question_en": "Which city is known as the Silicon Valley of India?",
+    "question_ta": "இந்தியாவின் சிலிக்கான் பள்ளத்தாக்கு என்று அழைக்கப்படும் நகரம் எது?",
+    "options_en": ["Chennai", "Hyderabad", "Bengaluru", "Pune"],
+    "options_ta": ["சென்னை", "ஹைதராபாத்", "பெங்களூரு", "பூனே"],
+    "answer_en": "Bengaluru",
+    "answer_ta": "பெங்களூரு"
+  },
+  {
+    "question_en": "Which part of the plant makes food?",
+    "question_ta": "தாவரத்தின் எந்த பகுதி உணவு தயாரிக்கிறது?",
+    "options_en": ["Root", "Stem", "Leaf", "Flower"],
+    "options_ta": ["வேர்", "தண்டு", "இலை", "மலர்"],
+    "answer_en": "Leaf",
+    "answer_ta": "இலை"
+  },
+  {
+    "question_en": "Which planet is known as the Gas Giant?",
+    "question_ta": "‘வாயு மாபெரும்’ என்று அழைக்கப்படும் கிரகம் எது?",
+    "options_en": ["Jupiter", "Mars", "Earth", "Venus"],
+    "options_ta": ["வியாழன்", "செவ்வாய்", "பூமி", "சுக்கிரன்"],
+    "answer_en": "Jupiter",
+    "answer_ta": "வியாழன்"
+  },
+  {
+    "question_en": "Who is known as the Missile Man of India?",
+    "question_ta": "‘இந்தியாவின் ஏவுகணை மனிதர்’ என்று அழைக்கப்படுபவர் யார்?",
+    "options_en": ["A. P. J. Abdul Kalam", "C. V. Raman", "Vikram Sarabhai", "Homi Bhabha"],
+    "options_ta": ["அப்துல் கலாம்", "சி.வி. ராமன்", "விக்ரம் சாரண்பாய்", "ஹோமி பாபா"],
+    "answer_en": "A. P. J. Abdul Kalam",
+    "answer_ta": "அப்துல் கலாம்"
+  }
+]

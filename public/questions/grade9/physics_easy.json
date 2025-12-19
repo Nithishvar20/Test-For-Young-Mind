@@ -1,0 +1,290 @@
+[
+  {
+    "question_en": "The SI unit of force is",
+    "question_ta": "வலுவின் எஸ்.ஐ அலகு எது?",
+    "options_en": ["Newton", "Joule", "Watt", "Pascal"],
+    "options_ta": ["நியூட்டன்", "ஜூல்", "வாட்", "பாஸ்கல்"],
+    "answer_en": "Newton",
+    "answer_ta": "நியூட்டன்"
+  },
+  {
+    "question_en": "Which of the following is a scalar quantity?",
+    "question_ta": "பின்வருவனவற்றில் எது ஸ்கேலர் அளவாகும்?",
+    "options_en": ["Velocity", "Speed", "Displacement", "Force"],
+    "options_ta": ["வேகமும் திசையும்", "வேகம", "நிலையாற்றம்/பிசை மாற்றம்", "விசை"],
+    "answer_en": "Speed",
+    "answer_ta": "வேகம"
+  },
+  {
+    "question_en": "The instrument used to measure electric current is",
+    "question_ta": "மின் ஓட்டத்தை அளவிடப் பயன்படுத்தும் கருவி எது?",
+    "options_en": ["Voltmeter", "Ammeter", "Ohmmeter", "Galvanometer"],
+    "options_ta": ["வோல்ட்மீட்டர்", "அமீட்டர்", "ஓம்மீட்டர்", "கவால்ஷனோமீட்டர்"],
+    "answer_en": "Ammeter",
+    "answer_ta": "அமீட்டர்"
+  },
+  {
+    "question_en": "Which law explains the force on a current-carrying conductor in a magnetic field?",
+    "question_ta": "காந்தப்புலத்தில் மின்சாரோட்டம் தோற்றுக் கொண்ட கடத்தியில் ஏற்படும் விசையை விளக்கும் விதி/வழிமுறை எது?",
+    "options_en": ["Ohm’s Law", "Newton’s Law", "Fleming’s Left Hand Rule", "Coulomb’s Law"],
+    "options_ta": ["ஓமின் விதி", "நியூட்டனின் விதி", "ஃப்ளெமிங் இடது கை விதி", "கூலம்பின் விதி"],
+    "answer_en": "Fleming’s Left Hand Rule",
+    "answer_ta": "ஃப்ளெமிங் இடது கை விதி"
+  },
+  {
+    "question_en": "Sound waves cannot travel through",
+    "question_ta": "ஒலி அலைகள் எந்த இடத்தை கடக்க முடியாது?",
+    "options_en": ["Vacuum", "Liquids", "Gases", "Solids"],
+    "options_ta": ["வெற்றிடம் / வைக்கோள்", "திரவங்கள்", "வாயுக்கள்", "திட பொருட்கள்"],
+    "answer_en": "Vacuum",
+    "answer_ta": "வெற்றிடம் / வைக்கோள்"
+  },
+  {
+    "question_en": "The SI unit of pressure is",
+    "question_ta": "அழுத்தத்தின் எஸ்.ஐ அலகு எது?",
+    "options_en": ["Pascal", "Newton", "Joule", "Watt"],
+    "options_ta": ["பாஸ்கல்", "நியூட்டன்", "ஜூல்", "வாட்"],
+    "answer_en": "Pascal",
+    "answer_ta": "பாஸ்கல்"
+  },
+  {
+    "question_en": "The speed of light in air is approximately",
+    "question_ta": "காற்றில் ஒளியின் வேகம் சுமார் எவ்வளவு?",
+    "options_en": ["3 × 10^8 m/s", "3 × 10^6 m/s", "3 × 10^4 m/s", "3 × 10^10 m/s"],
+    "options_ta": ["3 × 10^8 மி/விநா", "3 × 10^6 மி/விநா", "3 × 10^4 மி/விநா", "3 × 10^10 மி/விநா"],
+    "answer_en": "3 × 10^8 m/s",
+    "answer_ta": "3 × 10^8 மி/விநா"
+  },
+  {
+    "question_en": "The boiling point of water in Celsius is",
+    "question_ta": "தண்ணீரின் குதிப்பு (boiling) வெப்பநிலை செல்‍சியஸில் எவ்வளவு?",
+    "options_en": ["100°C", "0°C", "50°C", "212°C"],
+    "options_ta": ["100°C", "0°C", "50°C", "212°F"],
+    "answer_en": "100°C",
+    "answer_ta": "100°C"
+  },
+  {
+    "question_en": "Which instrument is used to measure atmospheric pressure?",
+    "question_ta": "வளிமண்டல அழுத்தத்தை அளவிடும் கருவி எது?",
+    "options_en": ["Thermometer", "Barometer", "Hygrometer", "Manometer"],
+    "options_ta": ["தர்மோமீட்டர்", "பேரோமீட்டர்", "ஆபாரிமீட்டர்", "மனோமீட்டர்"],
+    "answer_en": "Barometer",
+    "answer_ta": "பேரோமீட்டர்"
+  },
+  {
+    "question_en": "The unit of frequency is",
+    "question_ta": "அதிர்வெண் அலகு என்ன?",
+    "options_en": ["Hertz", "Pascal", "Watt", "Newton"],
+    "options_ta": ["ஹெர்ட்ஸ்", "பாஸ்கல்", "வாட்", "நியூட்டன்"],
+    "answer_en": "Hertz",
+    "answer_ta": "ஹெர்ட்ஸ்"
+  },
+  {
+    "question_en": "Which energy is possessed by a body due to its motion?",
+    "question_ta": "ஒரு பொருள் அதன் இயக்கத்தால் எந்த வகை ஆற்றலைக் கொண்டிருக்கும்?",
+    "options_en": ["Kinetic energy", "Potential energy", "Heat energy", "Electrical energy"],
+    "options_ta": ["கைனட்டிக் ஆற்றல்", "முயற்ற ஆற்றல்", "வெப்ப ஆற்றல்", "மின்னியல் ஆற்றல்"],
+    "answer_en": "Kinetic energy",
+    "answer_ta": "கைனட்டிக் ஆற்றல்"
+  },
+  {
+    "question_en": "The distance-time graph of a body at rest is",
+    "question_ta": "அமைதியாக இருக்கும் பொருளின் தூர-நேர வரைபடம் எப்படியாக இருக்கும்?",
+    "options_en": ["Straight line parallel to time axis", "Curve", "Straight line through origin", "Zigzag line"],
+    "options_ta": ["நேர அச்சிற்கு சமமாய் செல்லும் நேரியல் வரி", "வளைவு", "ஆரம்பத்தை தாண்டும் நேரியல் வரி", "சுழற்சி கோடு"],
+    "answer_en": "Straight line parallel to time axis",
+    "answer_ta": "நேர அச்சிற்கு சமமாய் செல்லும் நேரியல் வரி"
+  },
+  {
+    "question_en": "The unit of power is",
+    "question_ta": "சக்தியின் அலகு எது?",
+    "options_en": ["Watt", "Joule", "Newton", "Pascal"],
+    "options_ta": ["வாட்", "ஜூல்", "நியூட்டன்", "பாஸ்கல்"],
+    "answer_en": "Watt",
+    "answer_ta": "வாட்"
+  },
+  {
+    "question_en": "The echo of sound is heard after at least",
+    "question_ta": "ஒலியின் எதிரொலி குறைந்தது எவ்வளவு நேரத்திற்கு பிறகு கேட்கப்படும்?",
+    "options_en": ["0.1s", "0.2s", "0.5s", "1s"],
+    "options_ta": ["0.1 s", "0.2 s", "0.5 s", "1 s"],
+    "answer_en": "0.1s",
+    "answer_ta": "0.1 s"
+  },
+  {
+    "question_en": "The phenomenon of bending of light through a prism is called",
+    "question_ta": "பிரிசம் வழியாக ஒளி வளைவு (bending) நிகழ்வு எவ்வாறு அழைக்கப்படுகிறது?",
+    "options_en": ["Reflection", "Refraction", "Dispersion", "Diffraction"],
+    "options_ta": ["பிரதிபலிப்பு", "விலகல் / சாய்வு", "சிதறல்", "விலிச்சல்"],
+    "answer_en": "Dispersion",
+    "answer_ta": "சிதறல்"
+  },
+  {
+    "question_en": "Which type of mirror is used in car headlights?",
+    "question_ta": "கார் ஹெட்லைட்டுகளில் எந்த வகை கண்ணாடி பயன்படுத்தப்படுகிறது?",
+    "options_en": ["Concave mirror", "Convex mirror", "Plane mirror", "Parabolic mirror"],
+    "options_ta": ["உடைந்த கண்ணாடி", "வளைந்த கண்ணாடி", "சமத்தளம் கண்ணாடி", "பேரபாலிக் கண்ணாடி"],
+    "answer_en": "Concave mirror",
+    "answer_ta": "உடைந்த கண்ணாடி"
+  },
+  {
+    "question_en": "Least count of a vernier caliper is",
+    "question_ta": "வெர்னியர் காலிபரின் 'least count' என்பது எப்போது கிடைக்கிறது?",
+    "options_en": ["Sum of one main scale division and one vernier division", "Difference between one main scale division and one vernier division", "Product of main and vernier division", "Zero"],
+    "options_ta": ["ஒரு முக்கிய அளவுக் பகுதியும் ஒரு வெர்னியர் பகுதியும் சேர்க்கை", "ஒரு முக்கிய அளவுக் பகுதி மற்றும் ஒரு வெர்னியர் பகுதியின் வேறுபாடு", "முக்கிய மற்றும் வெர்னியர் பகுதியின் பெருக்கல்", "பூஜ்ஜியம்"],
+    "answer_en": "Difference between one main scale division and one vernier division",
+    "answer_ta": "ஒரு முக்கிய அளவுக் பகுதி மற்றும் ஒரு வெர்னியர் பகுதியின் வேறுபாடு"
+  },
+  {
+    "question_en": "The SI unit of density is",
+    "question_ta": "அடர்த்தியின் எஸ்.ஐ அலகு எது?",
+    "options_en": ["kg", "m/s", "kg m^-3", "N"],
+    "options_ta": ["கிலோகிராம்", "மீ/விநா", "கிலோ/மீ³", "நியூட்டன்"],
+    "answer_en": "kg m^-3",
+    "answer_ta": "கிலோ/மீ³"
+  },
+  {
+    "question_en": "Which instrument is used to measure temperature?",
+    "question_ta": "வெப்பநிலையை அளவிட எந்த கருவி பயன்படுகிறது?",
+    "options_en": ["Barometer", "Hydrometer", "Ammeter", "Thermometer"],
+    "options_ta": ["பேரோமீட்டர்", "ஹைட்ரோமீட்டர்", "அமீட்டர்", "தர்மோமீட்டர்"],
+    "answer_en": "Thermometer",
+    "answer_ta": "தர்மோமீட்டர்"
+  },
+  {
+    "question_en": "The SI unit of work is",
+    "question_ta": "வேலையின் (work) எஸ்.ஐ அலகு எது?",
+    "options_en": ["Joule", "Newton", "Watt", "Pascal"],
+    "options_ta": ["ஜூல்", "நியூட்டன்", "வாட்", "பாஸ்கல்"],
+    "answer_en": "Joule",
+    "answer_ta": "ஜூல்"
+  },
+  {
+    "question_en": "Ohm's law states that for a conductor at constant temperature,",
+    "question_ta": "ஒரு கடத்தி நிலையான வெப்பநிலையில் இருக்கும்போது ஓமின் சட்டம் என்ன சொல்கிறது?",
+    "options_en": ["Current is proportional to square of voltage", "Voltage is directly proportional to current", "Voltage is inversely proportional to current", "Resistance decreases with voltage"],
+    "options_ta": ["மின்வேகம் மின்னழுத்தத்தின் சதவிகிதத்திற்கு சார்பு ஆகும்", "மின்னழுத்தம் மின்சாரத்திற்கு நேரடியாக சார்பு ஆகும்", "மின்னழுத்தம் மின்சாரத்திற்கு எதிர்மறையாக இருக்கும்", "எதிர்ப்பு மின்னழுத்தத்துடன் குறையும்"],
+    "answer_en": "Voltage is directly proportional to current",
+    "answer_ta": "மின்னழுத்தம் மின்சாரத்திற்கு நேரடியாக சார்பு ஆகும்"
+  },
+  {
+    "question_en": "In a series circuit the current through each component is",
+    "question_ta": "ஒரு தொடர் (series) சுற்றில் ஒவ்வொரு கூறிலும் செல்லும் மின் ஓட்டம் எப்படி இருக்கும்?",
+    "options_en": ["Different in each component", "Zero in each component", "Same through all components", "Doubled across components"],
+    "options_ta": ["ஒவ்வொரிலும் வேறுபாடாக இருக்கும்", "ஒவ்வொரிலும் பூஜ்ஜியம்", "அனைத்து கூறுகளிலும் ஒரே மாதிரி இருக்கும்", "கூறுகளில் இரட்டிப்பாக இருக்கும்"],
+    "answer_en": "Same through all components",
+    "answer_ta": "அனைத்து கூறுகளிலும் ஒரே மாதிரி இருக்கும்"
+  },
+  {
+    "question_en": "Magnetic field lines emerge from which pole of a magnet?",
+    "question_ta": "காந்தக் களக் கோடுகள் (magnetic field lines) எந்த துருவத்திலிருந்து வெளியே வருகின்றன?",
+    "options_en": ["South pole", "Both poles", "Center of magnet", "North pole"],
+    "options_ta": ["தெற்கு துருவம்", "இரு துருவங்களிலும்", "காந்தத்தின் மையம்", "வடக்கு துருவம்"],
+    "answer_en": "North pole",
+    "answer_ta": "வடக்கு துருவம்"
+  },
+  {
+    "question_en": "The speed of sound in air mainly depends on",
+    "question_ta": "காற்றில் ஒலியின் வேகம் முதன்மையாக எதற்கு சார்ந்தது?",
+    "options_en": ["Temperature", "Colour of medium", "Pressure only", "Type of sound source"],
+    "options_ta": ["வெப்பநிலை", "மாதிரியின் நிறம்", "மட்டுமே அழுத்தம்", "ஒலியின் மூலத்தின் வகை"],
+    "answer_en": "Temperature",
+    "answer_ta": "வெப்பநிலை"
+  },
+  {
+    "question_en": "A concave mirror forms a real and inverted image when the object is placed",
+    "question_ta": "ஒரு உடைந்த (concave) கண்ணாடி உண்மையான மற்றும் தலைகீழான படத்தை உருவாக்கும் போது பொருள் எங்கு வைக்கப்படுகிறது?",
+    "options_en": ["At focus", "Between pole and focus", "Beyond centre of curvature", "At infinity"],
+    "options_ta": ["நேர் முனையில்", "துருவும் முனையும் மத்தியில்", "வளைவு மையத்தைத் தாண்டி", "அனந்தத்தில்"],
+    "answer_en": "Beyond centre of curvature",
+    "answer_ta": "வளைவு மையத்தைத் தாண்டி"
+  },
+  {
+    "question_en": "Which modes of heat transfer require a material medium?",
+    "question_ta": "வெப்ப பரிமாற்றத்தின் எந்த முறை/முறைகள் ஒரு பொருள் மாத்திரையை தேவைப்படுத்துகின்றன?",
+    "options_en": ["Conduction only", "Convection only", "Radiation only", "Both conduction and convection"],
+    "options_ta": ["மட்டுமே முன்னேற்றம்", "மட்டுமே பரிதாபம்", "மட்டுமே கதிர்வீச்சு", "முன்னேற்றமும் பரிதாபமும் இரண்டும்"],
+    "answer_en": "Both conduction and convection",
+    "answer_ta": "முன்னேற்றமும் பரிதாபமும் இரண்டும்"
+  },
+  {
+    "question_en": "The SI unit of electric charge is",
+    "question_ta": "மின்சாரக் கட்டணத்தின் (electric charge) எஸ்.ஐ அலகு எது?",
+    "options_en": ["Ampere", "Coulomb", "Volt", "Ohm"],
+    "options_ta": ["அம்பியர்", "கூலம்ப்", "வோல்ட்", "ஓம்"],
+    "answer_en": "Coulomb",
+    "answer_ta": "கூலம்ப்"
+  },
+  {
+    "question_en": "Resistance of a wire increases when",
+    "question_ta": "ஒரு மின்ன் மாதிரி (wire) எதிர்ப்பு (resistance) எப்போது அதிகரும்?",
+    "options_en": ["Cross-sectional area increases", "Length decreases", "Length increases", "Material conductivity increases"],
+    "options_ta": ["குறுகுணப் பகுதி அதிகரித்தால்", "நீளம் குறையும்போது", "நீளம் அதிகரிக்கும் போது", "பொருளின் வெற்றிச் சால்பு அதிகரித்தால்"],
+    "answer_en": "Length increases",
+    "answer_ta": "நீளம் அதிகரிக்கும் போது"
+  },
+  {
+    "question_en": "A magnifying glass is made of which type of lens?",
+    "question_ta": "ஒரு பெரிதாக்கக் கண்ணாடி (magnifying glass) எந்த வகை லென்ஸால் செய்யப்படுகிறது?",
+    "options_en": ["Concave lens", "Plano-concave lens", "Convex lens", "Concave mirror"],
+    "options_ta": ["உடைந்த லென்ஸ்", "பிளானோ-உடைந்த லென்ஸ்", "வளைந்த லென்ஸ்", "உடைந்த கண்ணாடி"],
+    "answer_en": "Convex lens",
+    "answer_ta": "வளைந்த லென்ஸ்"
+  },
+  {
+    "question_en": "The SI unit of electric potential (potential difference) is",
+    "question_ta": "மின்னழுத்த வித்தியாசத்துக்கான எஸ்.ஐ அலகு எது?",
+    "options_en": ["Ohm", "Volt", "Joule", "Watt"],
+    "options_ta": ["ஓம்", "வோல்ட்", "ஜூல்", "வாட்"],
+    "answer_en": "Volt",
+    "answer_ta": "வோல்ட்"
+  },
+  {
+    "question_en": "A device that converts alternating current (AC) to direct current (DC) is called",
+    "question_ta": "மாறும் மின்சாரத்தை (AC) நேர்மறை மின்சாரமாக (DC) மாற்றும் சாதனம் என்ன என அழைக்கப்படுகிறது?",
+    "options_en": ["Transformer", "Generator", "Rectifier", "Electric motor"],
+    "options_ta": ["மாற்றி", "ஜெனரேட்டர்", "ரெக்டிஃபையர்", "மின்மோட்டார்"],
+    "answer_en": "Rectifier",
+    "answer_ta": "ரெக்டிஃபையர்"
+  },
+  {
+    "question_en": "Which of the following is a vector quantity?",
+    "question_ta": "பின்வருவனவற்றில் எது வெக்டர் அளவாகும்?",
+    "options_en": ["Mass", "Speed", "Energy", "Displacement"],
+    "options_ta": ["மாஸ்", "வேகம்", "ஆற்றல்", "நிலையாற்றம்/பிசை மாற்றம்"],
+    "answer_en": "Displacement",
+    "answer_ta": "நிலையாற்றம்/பிசை மாற்றம்"
+  },
+  {
+    "question_en": "Which law states F = ma?",
+    "question_ta": "F = ma என்ற சமன்பாட்டை எந்த விதி சொல்கிறது?",
+    "options_en": ["Newton's First Law", "Hooke's Law", "Newton's Second Law", "Newton's Third Law"],
+    "options_ta": ["நியூட்டனின் முதல் விதி", "ஹூக்கின் விதி", "நியூட்டனின் இரண்டாம் விதி", "நியூட்டனின் மூன்றாம் விதி"],
+    "answer_en": "Newton's Second Law",
+    "answer_ta": "நியூட்டனின் இரண்டாம் விதி"
+  },
+  {
+    "question_en": "A buoyant (upthrust) force on a body submerged in fluid acts in which direction?",
+    "question_ta": "திரவத்தில் மூழ்கிய பொருளில் உள்ள உப்த்ரஸ்ட் (buoyant/upthrust) விசை எந்த திசை நோக்காக செயல்படும்?",
+    "options_en": ["Downward", "Upward", "Sideways", "No direction"],
+    "options_ta": ["கீழ்", "மேல்", "பக்கமாக", "திசையில்லாது"],
+    "answer_en": "Upward",
+    "answer_ta": "மேல்"
+  },
+  {
+    "question_en": "Who formulated Kepler's laws of planetary motion?",
+    "question_ta": "கேப்லரின் கோள்களின் இயக்க விதிமுறைகளை யார் முன்மொழிந்தார்?",
+    "options_en": ["Isaac Newton", "Nicolaus Copernicus", "Johannes Kepler", "Galileo Galilei"],
+    "options_ta": ["ஐசக் நியூட்டன்", "நிக்கோலாவுஸ் கோபர்னிகஸ்", "யோஹான்ஸ் கேப்லர்", "கலிலியோ கலிலெயி"],
+    "answer_en": "Johannes Kepler",
+    "answer_ta": "யோஹான்ஸ் கேப்லர்"
+  },
+  {
+    "question_en": "The quantity that measures how hot or cold a body is called",
+    "question_ta": "ஒரு உடலின் வெப்பம்/குளிர்ச்சி அளவை எந்த மொழியில் அழைப்பது?",
+    "options_en": ["Heat", "Energy", "Work", "Temperature"],
+    "options_ta": ["வெப்பம்", "ஆற்றல்", "வேலை", "வெப்பநிலை"],
+    "answer_en": "Temperature",
+    "answer_ta": "வெப்பநிலை"
+  }
+]

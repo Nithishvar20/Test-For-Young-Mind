@@ -1,0 +1,258 @@
+[
+  {
+    "question_en": "Who was the king of France during the French Revolution?",
+    "question_ta": "பிரஞ்சு புரட்சியின் போது பிரான்ஸ் நாட்டின் மன்னர் யார்?",
+    "options_en": ["Louis XIV", "Louis XV", "Louis XVI", "Napoleon"],
+    "options_ta": ["லூயி XIV", "லூயி XV", "லூயி XVI", "நெப்போலியன்"],
+    "answer_en": "Louis XVI",
+    "answer_ta": "லூயி XVI"
+  },
+  {
+    "question_en": "In which year did the Russian Revolution take place?",
+    "question_ta": "ரஷ்யப் புரட்சி எந்த ஆண்டு நடைபெற்றது?",
+    "options_en": ["1914", "1917", "1920", "1939"],
+    "options_ta": ["1914", "1917", "1920", "1939"],
+    "answer_en": "1917",
+    "answer_ta": "1917"
+  },
+  {
+    "question_en": "Which country was the first to industrialize?",
+    "question_ta": "முதலில் தொழில்மயமாக்கப்பட்ட நாடு எது?",
+    "options_en": ["France", "Germany", "Britain", "USA"],
+    "options_ta": ["பிரான்ஸ்", "ஜெர்மனி", "பிரிட்டன்", "அமெரிக்கா"],
+    "answer_en": "Britain",
+    "answer_ta": "பிரிட்டன்"
+  },
+  {
+    "question_en": "Who is known as the Father of Indian Constitution?",
+    "question_ta": "இந்திய அரசியலமைப்பின் தந்தை யார்?",
+    "options_en": ["Jawaharlal Nehru", "B.R. Ambedkar", "Mahatma Gandhi", "Rajendra Prasad"],
+    "options_ta": ["ஜவஹர்லால் நேரு", "பி.ஆர்.அம்பேத்கர்", "மகாத்மா காந்தி", "ராஜேந்திர பிரசாத்"],
+    "answer_en": "B.R. Ambedkar",
+    "answer_ta": "பி.ஆர்.அம்பேத்கர்"
+  },
+  {
+    "question_en": "Which layer of the Earth contains tectonic plates?",
+    "question_ta": "புவியின் எந்த அடுக்கு தகடு இயக்கங்களை கொண்டுள்ளது?",
+    "options_en": ["Core", "Mantle", "Crust", "Inner core"],
+    "options_ta": ["மையம்", "மாண்டில்", "புறத் தோல்", "உள் மையம்"],
+    "answer_en": "Crust",
+    "answer_ta": "புறத் தோல்"
+  },
+  {
+    "question_en": "Which is the largest ocean in the world?",
+    "question_ta": "உலகின் மிகப்பெரிய பெருங்கடல் எது?",
+    "options_en": ["Atlantic Ocean", "Indian Ocean", "Arctic Ocean", "Pacific Ocean"],
+    "options_ta": ["அட்லாண்டிக்", "இந்தியப் பெருங்கடல்", "ஆர்க்டிக்", "பசிபிக்"],
+    "answer_en": "Pacific Ocean",
+    "answer_ta": "பசிபிக்"
+  },
+  {
+    "question_en": "Which revolution is associated with Karl Marx?",
+    "question_ta": "கார்ல் மார்க்ஸ் எந்தப் புரட்சியுடன் தொடர்புடையவர்?",
+    "options_en": ["Industrial Revolution", "Russian Revolution", "French Revolution", "Communist Revolution"],
+    "options_ta": ["தொழில்துறைப் புரட்சி", "ரஷ்யப் புரட்சி", "பிரஞ்சுப் புரட்சி", "கம்யூனிசப் புரட்சி"],
+    "answer_en": "Communist Revolution",
+    "answer_ta": "கம்யூனிசப் புரட்சி"
+  },
+  {
+    "question_en": "Which Indian state is known as the ‘Rice Bowl of India’?",
+    "question_ta": "‘இந்தியாவின் அரிசிக் களஞ்சியம்’ என்று அழைக்கப்படும் மாநிலம் எது?",
+    "options_en": ["Punjab", "Andhra Pradesh", "Tamil Nadu", "Kerala"],
+    "options_ta": ["பஞ்சாப்", "ஆந்திரப் பிரதேசம்", "தமிழ்நாடு", "கேரளா"],
+    "answer_en": "Andhra Pradesh",
+    "answer_ta": "ஆந்திரப் பிரதேசம்"
+  },
+  {
+    "question_en": "Which gas is mainly responsible for global warming?",
+    "question_ta": "உலக வெப்பமயமாதலுக்கு முக்கிய காரண வாயு எது?",
+    "options_en": ["Oxygen", "Carbon dioxide", "Nitrogen", "Hydrogen"],
+    "options_ta": ["ஆக்சிஜன்", "கார்பன் டையாக்சைடு", "நைட்ரஜன்", "ஹைட்ரஜன்"],
+    "answer_en": "Carbon dioxide",
+    "answer_ta": "கார்பன் டையாக்சைடு"
+  },
+  {
+    "question_en": "Who founded the Indian National Congress?",
+    "question_ta": "இந்திய தேசிய காங்கிரஸை நிறுவியவர் யார்?",
+    "options_en": ["M.G. Ranade", "Dadabhai Naoroji", "A.O. Hume", "Gopal Krishna Gokhale"],
+    "options_ta": ["எம்.ஜி. ரணடே", "தாதாபாய் நவரோஜி", "ஏ.ஓ. ஹ்யூம்", "கோபால் கிருஷ்ண கோகலே"],
+    "answer_en": "A.O. Hume",
+    "answer_ta": "ஏ.ஓ. ஹ்யூம்"
+  },
+  {
+    "question_en": "Which is the longest river in the world?",
+    "question_ta": "உலகின் நீளமான நதி எது?",
+    "options_en": ["Amazon", "Nile", "Yangtze", "Mississippi"],
+    "options_ta": ["அமேசான்", "நைல்", "யாங்சீ", "மிசிசிபி"],
+    "answer_en": "Nile",
+    "answer_ta": "நைல்"
+  },
+  {
+    "question_en": "Which year did India adopt its Constitution?",
+    "question_ta": "இந்திய அரசியலமைப்பு எந்த ஆண்டு அமலுக்கு வந்தது?",
+    "options_en": ["1947", "1949", "1950", "1952"],
+    "options_ta": ["1947", "1949", "1950", "1952"],
+    "answer_en": "1950",
+    "answer_ta": "1950"
+  },
+  {
+    "question_en": "Who was the first President of India?",
+    "question_ta": "இந்தியாவின் முதல் குடியரசுத் தலைவர் யார்?",
+    "options_en": ["Dr. Rajendra Prasad", "Dr. S. Radhakrishnan", "B.R. Ambedkar", "Mahatma Gandhi"],
+    "options_ta": ["டாக்டர் ராஜேந்திர பிரசாத்", "டாக்டர் எஸ். ராதாகிருஷ்ணன்", "பி.ஆர்.அம்பேத்கர்", "மகாத்மா காந்தி"],
+    "answer_en": "Dr. Rajendra Prasad",
+    "answer_ta": "டாக்டர் ராஜேந்திர பிரசாத்"
+  },
+  {
+    "question_en": "Which is the smallest continent in the world?",
+    "question_ta": "உலகின் மிகச் சிறிய கண்டம் எது?",
+    "options_en": ["Europe", "Australia", "South America", "Antarctica"],
+    "options_ta": ["யூரோப்", "ஆஸ்திரேலியா", "தென் அமெரிக்கா", "அண்டார்டிகா"],
+    "answer_en": "Australia",
+    "answer_ta": "ஆஸ்திரேலியா"
+  },
+  {
+    "question_en": "Which revolution introduced machines in textile industry?",
+    "question_ta": "நூல் தொழிலில் இயந்திரங்களை அறிமுகப்படுத்திய புரட்சி எது?",
+    "options_en": ["French Revolution", "Industrial Revolution", "Russian Revolution", "Agricultural Revolution"],
+    "options_ta": ["பிரஞ்சுப் புரட்சி", "தொழில்துறைப் புரட்சி", "ரஷ்யப் புரட்சி", "விவசாயப் புரட்சி"],
+    "answer_en": "Industrial Revolution",
+    "answer_ta": "தொழில்துறைப் புரட்சி"
+  },
+  {
+    "question_en": "Which mountain range separates Europe and Asia?",
+    "question_ta": "ஐரோப்பாவையும் ஆசியாவையும் பிரிக்கும் மலைத்தொடர் எது?",
+    "options_en": ["Andes", "Rockies", "Ural", "Alps"],
+    "options_ta": ["ஆண்டிஸ்", "ராகீஸ்", "யூரல்", "ஆல்ப்ஸ்"],
+    "answer_en": "Ural",
+    "answer_ta": "யூரல்"
+  },
+  {
+    "question_en": "Which was the first country to use the atomic bomb?",
+    "question_ta": "அணு குண்டை முதலில் பயன்படுத்திய நாடு எது?",
+    "options_en": ["Germany", "Japan", "USA", "Russia"],
+    "options_ta": ["ஜெர்மனி", "ஜப்பான்", "அமெரிக்கா", "ரஷ்யா"],
+    "answer_en": "USA",
+    "answer_ta": "அமெரிக்கா"
+  },
+  {
+    "question_en": "Which organ of the United Nations is called the ‘World Parliament’?",
+    "question_ta": "ஐக்கிய நாடுகளின் ‘உலக நாடாளுமன்றம்’ என்று அழைக்கப்படும் அமைப்பு எது?",
+    "options_en": ["Security Council", "General Assembly", "UNESCO", "WHO"],
+    "options_ta": ["பாதுகாப்பு கவுன்சில்", "பொதுச் சபை", "யுனெஸ்கோ", "உலக சுகாதார நிறுவனம்"],
+    "answer_en": "General Assembly",
+    "answer_ta": "பொதுச் சபை"
+  },
+  {
+    "question_en": "Which is called the ‘backbone of Indian economy’?",
+    "question_ta": "‘இந்திய பொருளாதாரத்தின் முதுகெலும்பு’ என்று அழைக்கப்படுவது எது?",
+    "options_en": ["Agriculture", "Industry", "Trade", "Banking"],
+    "options_ta": ["விவசாயம்", "தொழில்", "வாணிபம்", "வங்கி"],
+    "answer_en": "Agriculture",
+    "answer_ta": "விவசாயம்"
+  },
+  {
+    "question_en": "What is the currency of Japan?",
+    "question_ta": "ஜப்பானின் நாணயம் எது?",
+    "options_en": ["Won", "Yen", "Dollar", "Peso"],
+    "options_ta": ["வான்", "யென்", "டாலர்", "பெசோ"],
+    "answer_en": "Yen",
+    "answer_ta": "யென்"
+  },
+  {
+    "question_en": "Which Indian leader is called the ‘Iron Man of India’?",
+    "question_ta": "‘இந்தியாவின் இரும்பு மனிதர்’ என்று அழைக்கப்படும் தலைவர் யார்?",
+    "options_en": ["Mahatma Gandhi", "Subhash Chandra Bose", "Sardar Vallabhbhai Patel", "Jawaharlal Nehru"],
+    "options_ta": ["மகாத்மா காந்தி", "சுபாஷ் சந்திரபோஸ்", "சர்தார் வல்லபாய் பட்டேல்", "ஜவஹர்லால் நேரு"],
+    "answer_en": "Sardar Vallabhbhai Patel",
+    "answer_ta": "சர்தார் வல்லபாய் பட்டேல்"
+  },
+  {
+    "question_en": "Which is the coldest place in India?",
+    "question_ta": "இந்தியாவின் மிகக் குளிரான இடம் எது?",
+    "options_en": ["Shimla", "Leh", "Drass", "Srinagar"],
+    "options_ta": ["ஷிம்லா", "லே", "ட்ராஸ்", "ஸ்ரீநகர்"],
+    "answer_en": "Drass",
+    "answer_ta": "ட்ராஸ்"
+  },
+  {
+    "question_en": "Which desert is located in Rajasthan?",
+    "question_ta": "ராஜஸ்தானில் அமைந்துள்ள பாலைவனம் எது?",
+    "options_en": ["Sahara", "Gobi", "Thar", "Kalahari"],
+    "options_ta": ["சஹாரா", "கோபி", "தார்", "கலாஹாரி"],
+    "answer_en": "Thar",
+    "answer_ta": "தார்"
+  },
+  {
+    "question_en": "Which organ of government interprets the Constitution?",
+    "question_ta": "அரசின் எந்த அமைப்பு அரசியலமைப்பை விளக்குகிறது?",
+    "options_en": ["Executive", "Legislature", "Judiciary", "President"],
+    "options_ta": ["நிர்வாகம்", "சட்டமன்றம்", "நீதித்துறை", "குடியரசுத் தலைவர்"],
+    "answer_en": "Judiciary",
+    "answer_ta": "நீதித்துறை"
+  },
+  {
+    "question_en": "Which soil is most suitable for cotton cultivation?",
+    "question_ta": "பருத்தி சாகுபடிக்கு மிகவும் ஏற்ற மண் எது?",
+    "options_en": ["Alluvial soil", "Black soil", "Red soil", "Laterite soil"],
+    "options_ta": ["ஆற்றங்கரைக் கரிமண்", "கருப்பு மண்", "சிவப்பு மண்", "லேட்டரைட் மண்"],
+    "answer_en": "Black soil",
+    "answer_ta": "கருப்பு மண்"
+  },
+  {
+    "question_en": "Where is the headquarters of UNESCO located?",
+    "question_ta": "யுனெஸ்கோவின் தலைமையகம் எங்கு உள்ளது?",
+    "options_en": ["New York", "Geneva", "Paris", "London"],
+    "options_ta": ["நியூயார்க்", "ஜெனீவா", "பாரிஸ்", "லண்டன்"],
+    "answer_en": "Paris",
+    "answer_ta": "பாரிஸ்"
+  },
+  {
+    "question_en": "Which movement was launched by Gandhiji in 1942?",
+    "question_ta": "1942 ஆம் ஆண்டு காந்திஜி எந்த இயக்கத்தை தொடங்கினார்?",
+    "options_en": ["Non-Cooperation Movement", "Civil Disobedience Movement", "Quit India Movement", "Salt Satyagraha"],
+    "options_ta": ["ஒத்துழையாமை இயக்கம்", "சட்ட மீறல் இயக்கம்", "இந்தியா விட்டு வெளியேறு இயக்கம்", "உப்பு சத்தியகிரகம்"],
+    "answer_en": "Quit India Movement",
+    "answer_ta": "இந்தியா விட்டு வெளியேறு இயக்கம்"
+  },
+  {
+    "question_en": "Which Indian leader is associated with ‘Green Revolution’?",
+    "question_ta": "‘பசுமைப் புரட்சி’யுடன் தொடர்புடைய இந்திய தலைவர் யார்?",
+    "options_en": ["M.S. Swaminathan", "V.K. Krishna Menon", "Lal Bahadur Shastri", "Indira Gandhi"],
+    "options_ta": ["எம்.எஸ். சுவாமிநாதன்", "வி.கே. கிருஷ்ண மேனன்", "லால் பகதூர் சாஸ்திரி", "இந்திரா காந்தி"],
+    "answer_en": "M.S. Swaminathan",
+    "answer_ta": "எம்.எஸ். சுவாமிநாதன்"
+  },
+  {
+    "question_en": "Which gas is known as ‘Ozone Depleting Gas’?",
+    "question_ta": "‘ஓசோன் அழிக்கும் வாயு’ என்று அழைக்கப்படுவது எது?",
+    "options_en": ["CO2", "CFC", "Methane", "Nitrous oxide"],
+    "options_ta": ["CO2", "CFC", "மீத்தேன்", "நைட்ரஸ் ஆக்சைடு"],
+    "answer_en": "CFC",
+    "answer_ta": "CFC"
+  },
+  {
+    "question_en": "Which island group belongs to India in the Arabian Sea?",
+    "question_ta": "அரேபியக் கடலில் இந்தியாவுக்குச் சொந்தமான தீவுக்கூட்டம் எது?",
+    "options_en": ["Andaman & Nicobar", "Lakshadweep", "Maldives", "Sri Lanka"],
+    "options_ta": ["அந்தமான் & நிகோபார்", "லட்சத்தீவு", "மாலத்தீவு", "இலங்கை"],
+    "answer_en": "Lakshadweep",
+    "answer_ta": "லட்சத்தீவு"
+  },
+  {
+    "question_en": "Which document begins with the words ‘We the People of India’?",
+    "question_ta": "‘இந்திய மக்களாம் நாம்’ என்ற வார்த்தைகளால் தொடங்கும் ஆவணம் எது?",
+    "options_en": ["Fundamental Rights", "Preamble", "Directive Principles", "Schedules"],
+    "options_ta": ["அடிப்படை உரிமைகள்", "முன்னுரை", "கல்வி நோக்கங்கள்", "அட்டவணைகள்"],
+    "answer_en": "Preamble",
+    "answer_ta": "முன்னுரை"
+  },
+  {
+    "question_en": "Which Indian state has the highest literacy rate?",
+    "question_ta": "இந்தியாவில் அதிக கல்வியறிவு கொண்ட மாநிலம் எது?",
+    "options_en": ["Kerala", "Tamil Nadu", "Maharashtra", "Punjab"],
+    "options_ta": ["கேரளா", "தமிழ்நாடு", "மகாராஷ்டிரா", "பஞ்சாப்"],
+    "answer_en": "Kerala",
+    "answer_ta": "கேரளா"
+  }
+]

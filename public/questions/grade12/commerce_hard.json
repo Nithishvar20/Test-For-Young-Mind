@@ -1,0 +1,266 @@
+[
+  {
+    "question_en": "Which is the main objective of WTO?",
+    "question_ta": "உலக வர்த்தக அமைப்பின் (WTO) முக்கிய நோக்கம் எது?",
+    "options_en": ["Promote free trade", "Control inflation", "Provide employment", "Fix exchange rates"],
+    "options_ta": ["சுதந்திர வர்த்தகத்தை ஊக்குவித்தல்", "பணவீக்கத்தை கட்டுப்படுத்தல்", "வேலைவாய்ப்பை வழங்குதல்", "நாணய மாற்று விகிதங்களை நிர்ணயித்தல்"],
+    "answer_en": "Promote free trade",
+    "answer_ta": "சுதந்திர வர்த்தகத்தை ஊக்குவித்தல்"
+  },
+  {
+    "question_en": "Which is not a function of IMF?",
+    "question_ta": "சர்வதேச நாணய நிதியத்தின் (IMF) செயல்களில் சேராதது எது?",
+    "options_en": ["Providing loans to member countries", "Issuing world currency", "Monitoring exchange rates", "Maintaining global financial stability"],
+    "options_ta": ["உறுப்புநாடுகளுக்கு கடன் வழங்குதல்", "உலக நாணயத்தை வெளியிடுதல்", "நாணய மாற்று விகிதங்களை கண்காணித்தல்", "உலக நிதி நிலைத்தன்மையை பராமரித்தல்"],
+    "answer_en": "Issuing world currency",
+    "answer_ta": "உலக நாணயத்தை வெளியிடுதல்"
+  },
+  {
+    "question_en": "Which principle of insurance says that the insured should not make profit out of insurance?",
+    "question_ta": "காப்பீட்டின் எந்தக் கொள்கை, காப்பீட்டாளரால் லாபம் பெறக் கூடாது என்று கூறுகிறது?",
+    "options_en": ["Indemnity", "Contribution", "Subrogation", "Utmost good faith"],
+    "options_ta": ["ஈடு கொடுக்கும் கொள்கை", "பங்களிப்பு", "பதிலீடு", "அதிக நன்மை நம்பிக்கை"],
+    "answer_en": "Indemnity",
+    "answer_ta": "ஈடு கொடுக்கும் கொள்கை"
+  },
+  {
+    "question_en": "Subrogation in insurance means?",
+    "question_ta": "காப்பீட்டில் Subrogation என்பதன் பொருள் என்ன?",
+    "options_en": ["Sharing losses", "Transfer of rights to insurer after compensation", "Maximum faith", "Contribution by insurers"],
+    "options_ta": ["இழப்புகளைப் பகிர்வு", "ஈடு வழங்கிய பிறகு உரிமைகளை காப்பீட்டாளருக்கு மாற்றுதல்", "அதிக நன்மை நம்பிக்கை", "காப்பீட்டாளர்களின் பங்களிப்பு"],
+    "answer_en": "Transfer of rights to insurer after compensation",
+    "answer_ta": "ஈடு வழங்கிய பிறகு உரிமைகளை காப்பீட்டாளருக்கு மாற்றுதல்"
+  },
+  {
+    "question_en": "Which is the first life insurance company in India?",
+    "question_ta": "இந்தியாவின் முதல் உயிர் காப்பீட்டு நிறுவனம் எது?",
+    "options_en": ["LIC", "HDFC Life", "Bombay Mutual Life Assurance Society", "ICICI Prudential"],
+    "options_ta": ["எல்.ஐ.சி", "எச்.டி.எஃப்சி லைஃப்", "பாம்பே மியூச்சுவல் லைஃப் அஷ்யூரன்ஸ் சொசைட்டி", "ஐ.சி.ஐ.சி.ஐ புரூடென்ஷியல்"],
+    "answer_en": "Bombay Mutual Life Assurance Society",
+    "answer_ta": "பாம்பே மியூச்சுவல் லைஃப் அஷ்யூரன்ஸ் சொசைட்டி"
+  },
+  {
+    "question_en": "Which document is issued by exporter to importer after shipment?",
+    "question_ta": "கப்பல் அனுப்பிய பிறகு ஏற்றுமதியாளர், இறக்குமதியாளருக்கு வழங்கும் ஆவணம் எது?",
+    "options_en": ["Bill of exchange", "Bill of lading", "Invoice", "Letter of credit"],
+    "options_ta": ["பில் ஆஃப் எக்சேஞ்ச்", "பில் ஆஃப் லேடிங்", "இன்வாய்ஸ்", "கடன் கடிதம்"],
+    "answer_en": "Bill of lading",
+    "answer_ta": "பில் ஆஃப் லேடிங்"
+  },
+  {
+    "question_en": "Letter of credit is issued by?",
+    "question_ta": "கடன் கடிதம் (Letter of credit) யாரால் வழங்கப்படுகிறது?",
+    "options_en": ["Importer’s bank", "Exporter", "Government", "WTO"],
+    "options_ta": ["இறக்குமதியாளரின் வங்கி", "ஏற்றுமதியாளர்", "அரசு", "உலக வர்த்தக அமைப்பு"],
+    "answer_en": "Importer’s bank",
+    "answer_ta": "இறக்குமதியாளரின் வங்கி"
+  },
+  {
+    "question_en": "Which is not a feature of partnership?",
+    "question_ta": "கூட்டாண்மையின் பண்புகளில் சேராதது எது?",
+    "options_en": ["Mutual agency", "Limited liability", "Sharing of profits", "Agreement"],
+    "options_ta": ["பரஸ்பர முகவர் தன்மை", "வரையறுக்கப்பட்ட பொறுப்பு", "லாபப் பகிர்வு", "ஒப்பந்தம்"],
+    "answer_en": "Limited liability",
+    "answer_ta": "வரையறுக்கப்பட்ட பொறுப்பு"
+  },
+  {
+    "question_en": "Which is not a feature of a joint stock company?",
+    "question_ta": "கூட்டு பங்கு நிறுவனத்தின் பண்புகளில் சேராதது எது?",
+    "options_en": ["Separate legal entity", "Perpetual succession", "Unlimited liability", "Transferability of shares"],
+    "options_ta": ["தனித்துவமான சட்ட உரிமை", "நிலையான தொடர்ச்சி", "வரையற்ற பொறுப்பு", "பங்குகளை மாற்றும் சாத்தியம்"],
+    "answer_en": "Unlimited liability",
+    "answer_ta": "வரையற்ற பொறுப்பு"
+  },
+  {
+    "question_en": "Who regulates stock exchanges in India?",
+    "question_ta": "இந்தியாவில் பங்கு சந்தைகளை கட்டுப்படுத்துபவர் யார்?",
+    "options_en": ["RBI", "SEBI", "Finance Ministry", "IRDAI"],
+    "options_ta": ["ஆர்பிஐ", "செபி", "நிதி அமைச்சகம்", "ஐ.ஆர்.டி.ஐ"],
+    "answer_en": "SEBI",
+    "answer_ta": "செபி"
+  },
+  {
+    "question_en": "Which type of company can issue prospectus?",
+    "question_ta": "எந்த வகை நிறுவனம் ப்ராஸ்பெக்டஸ் (Prospectus) வெளியிட முடியும்?",
+    "options_en": ["Private company", "Public company", "Government company", "Partnership firm"],
+    "options_ta": ["தனியார் நிறுவனம்", "பொது நிறுவனம்", "அரசு நிறுவனம்", "கூட்டாண்மை நிறுவனம்"],
+    "answer_en": "Public company",
+    "answer_ta": "பொது நிறுவனம்"
+  },
+  {
+    "question_en": "Minimum number of members required to start a public company?",
+    "question_ta": "ஒரு பொது நிறுவனத்தை தொடங்க குறைந்தபட்ச உறுப்பினர்கள் எத்தனை தேவை?",
+    "options_en": ["2", "3", "5", "7"],
+    "options_ta": ["2", "3", "5", "7"],
+    "answer_en": "7",
+    "answer_ta": "7"
+  },
+  {
+    "question_en": "In which year was SEBI established?",
+    "question_ta": "செபி (SEBI) எந்த ஆண்டில் நிறுவப்பட்டது?",
+    "options_en": ["1988", "1991", "1992", "1999"],
+    "options_ta": ["1988", "1991", "1992", "1999"],
+    "answer_en": "1988",
+    "answer_ta": "1988"
+  },
+  {
+    "question_en": "Who issues government securities in India?",
+    "question_ta": "இந்தியாவில் அரசு பத்திரங்களை யார் வெளியிடுகின்றனர்?",
+    "options_en": ["RBI", "SEBI", "Finance Ministry", "State Bank of India"],
+    "options_ta": ["ஆர்பிஐ", "செபி", "நிதி அமைச்சகம்", "இந்திய மாநில வங்கி"],
+    "answer_en": "RBI",
+    "answer_ta": "ஆர்பிஐ"
+  },
+  {
+    "question_en": "Which is not a money market instrument?",
+    "question_ta": "கீழ்கண்டவற்றில் எது பண சந்தை கருவி அல்ல?",
+    "options_en": ["Treasury bill", "Commercial paper", "Equity share", "Certificate of deposit"],
+    "options_ta": ["கருவூல பில்", "வர்த்தகக் கடிதம்", "ஈக்விட்டி பங்கு", "வைப்பு சான்றிதழ்"],
+    "answer_en": "Equity share",
+    "answer_ta": "ஈக்விட்டி பங்கு"
+  },
+  {
+    "question_en": "Who appoints the Governor of RBI?",
+    "question_ta": "ஆர்பிஐ ஆளுநரை யார் நியமிக்கிறார்கள்?",
+    "options_en": ["Finance Minister", "Prime Minister", "President of India", "Parliament"],
+    "options_ta": ["நிதி அமைச்சர்", "பிரதமர்", "இந்திய குடியரசுத் தலைவர்", "பாராளுமன்றம்"],
+    "answer_en": "President of India",
+    "answer_ta": "இந்திய குடியரசுத் தலைவர்"
+  },
+  {
+    "question_en": "Which tax is progressive in nature?",
+    "question_ta": "எந்த வரி முன்னேற்றமான (Progressive) தன்மை உடையது?",
+    "options_en": ["Income tax", "GST", "Customs duty", "Excise duty"],
+    "options_ta": ["வருமானவரி", "ஜி.எஸ்.டி", "சுங்கவரி", "உற்பத்தி வரி"],
+    "answer_en": "Income tax",
+    "answer_ta": "வருமானவரி"
+  },
+  {
+    "question_en": "Zero based budgeting was first introduced in?",
+    "question_ta": "சூன்ய அடிப்படையிலான பட்ஜெட் முதலில் எங்கு அறிமுகப்படுத்தப்பட்டது?",
+    "options_en": ["India", "USA", "UK", "Japan"],
+    "options_ta": ["இந்தியா", "அமெரிக்கா", "இங்கிலாந்து", "ஜப்பான்"],
+    "answer_en": "USA",
+    "answer_ta": "அமெரிக்கா"
+  },
+  {
+    "question_en": "Which committee recommended GST in India?",
+    "question_ta": "இந்தியாவில் ஜி.எஸ்.டி பரிந்துரைத்த குழு எது?",
+    "options_en": ["Kelkar committee", "Chellaiah committee", "Vajpayee committee", "Shah committee"],
+    "options_ta": ["கெல்கார் குழு", "செல்லையா குழு", "வாஜ்பாய் குழு", "ஷா குழு"],
+    "answer_en": "Kelkar committee",
+    "answer_ta": "கெல்கார் குழு"
+  },
+  {
+    "question_en": "Which is the largest stock exchange in India?",
+    "question_ta": "இந்தியாவின் மிகப்பெரிய பங்கு சந்தை எது?",
+    "options_en": ["BSE", "NSE", "MCX", "NSDL"],
+    "options_ta": ["பி.எஸ்.இ", "என்.எஸ்.இ", "எம்.சி.எக்ஸ்", "என்.எஸ்.டி.எல்"],
+    "answer_en": "NSE",
+    "answer_ta": "என்.எஸ்.இ"
+  },
+  {
+    "question_en": "Headquarters of World Bank is situated at?",
+    "question_ta": "உலக வங்கியின் தலைமையகம் எங்கு அமைந்துள்ளது?",
+    "options_en": ["New York", "Geneva", "Washington D.C.", "London"],
+    "options_ta": ["நியூயார்க்", "ஜெனீவா", "வாஷிங்டன் டி.சி.", "லண்டன்"],
+    "answer_en": "Washington D.C.",
+    "answer_ta": "வாஷிங்டன் டி.சி."
+  },
+  {
+    "question_en": "Headquarters of IMF is at?",
+    "question_ta": "சர்வதேச நாணய நிதியத்தின் தலைமையகம் எங்கு உள்ளது?",
+    "options_en": ["New York", "Washington D.C.", "Paris", "London"],
+    "options_ta": ["நியூயார்க்", "வாஷிங்டன் டி.சி.", "பாரிஸ்", "லண்டன்"],
+    "answer_en": "Washington D.C.",
+    "answer_ta": "வாஷிங்டன் டி.சி."
+  },
+  {
+    "question_en": "Which is not a component of balance of payments?",
+    "question_ta": "பணம் செலுத்தும் சமநிலையின் கூறுகளில் சேராதது எது?",
+    "options_en": ["Current account", "Capital account", "Financial account", "Budget account"],
+    "options_ta": ["நடப்பு கணக்கு", "மூலதன கணக்கு", "நிதி கணக்கு", "பட்ஜெட் கணக்கு"],
+    "answer_en": "Budget account",
+    "answer_ta": "பட்ஜெட் கணக்கு"
+  },
+  {
+    "question_en": "India adopted LPG policy in which year?",
+    "question_ta": "இந்தியா எல்.பி.ஜி (Liberalisation, Privatisation, Globalisation) கொள்கையை எந்த ஆண்டில் ஏற்றுக்கொண்டது?",
+    "options_en": ["1985", "1991", "1995", "2000"],
+    "options_ta": ["1985", "1991", "1995", "2000"],
+    "answer_en": "1991",
+    "answer_ta": "1991"
+  },
+  {
+    "question_en": "Which tax is levied by local bodies?",
+    "question_ta": "உள்ளூர் நிர்வாக அமைப்புகள் விதிக்கும் வரி எது?",
+    "options_en": ["Income tax", "Wealth tax", "Property tax", "Excise duty"],
+    "options_ta": ["வருமானவரி", "செல்வவரி", "சொத்துவரி", "உற்பத்தி வரி"],
+    "answer_en": "Property tax",
+    "answer_ta": "சொத்துவரி"
+  },
+  {
+    "question_en": "Which is an example of direct tax?",
+    "question_ta": "நேரடி வரியின் ஒரு உதாரணம் எது?",
+    "options_en": ["GST", "Customs duty", "Income tax", "Excise duty"],
+    "options_ta": ["ஜி.எஸ்.டி", "சுங்கவரி", "வருமானவரி", "உற்பத்தி வரி"],
+    "answer_en": "Income tax",
+    "answer_ta": "வருமானவரி"
+  },
+  {
+    "question_en": "Which country is the headquarters of WTO located in?",
+    "question_ta": "உலக வர்த்தக அமைப்பின் தலைமையகம் எந்த நாட்டில் உள்ளது?",
+    "options_en": ["USA", "Switzerland", "France", "India"],
+    "options_ta": ["அமெரிக்கா", "சுவிட்சர்லாந்து", "பிரான்ஸ்", "இந்தியா"],
+    "answer_en": "Switzerland",
+    "answer_ta": "சுவிட்சர்லாந்து"
+  },
+  {
+    "question_en": "Which is the oldest stock exchange in Asia?",
+    "question_ta": "ஆசியாவின் மிகப் பழமையான பங்கு சந்தை எது?",
+    "options_en": ["NSE", "BSE", "HKEX", "TSE"],
+    "options_ta": ["என்.எஸ்.இ", "பி.எஸ்.இ", "எச்.கே.இ.எக்ஸ்", "டி.எஸ்.இ"],
+    "answer_en": "BSE",
+    "answer_ta": "பி.எஸ்.இ"
+  },
+  {
+    "question_en": "Which year was GST implemented in India?",
+    "question_ta": "இந்தியாவில் ஜி.எஸ்.டி எந்த ஆண்டில் நடைமுறைப்படுத்தப்பட்டது?",
+    "options_en": ["2015", "2016", "2017", "2018"],
+    "options_ta": ["2015", "2016", "2017", "2018"],
+    "answer_en": "2017",
+    "answer_ta": "2017"
+  },
+  {
+    "question_en": "Which is the apex institution of cooperative banks in India?",
+    "question_ta": "இந்தியாவில் கூட்டுறவு வங்கிகளின் உச்ச நிறுவனம் எது?",
+    "options_en": ["RBI", "NABARD", "SEBI", "SBI"],
+    "options_ta": ["ஆர்பிஐ", "நாபார்டு", "செபி", "எஸ்.பி.ஐ"],
+    "answer_en": "NABARD",
+    "answer_ta": "நாபார்டு"
+  },
+  {
+    "question_en": "Which five year plan introduced LPG reforms?",
+    "question_ta": "எந்த ஐந்தாண்டு திட்டத்தில் எல்.பி.ஜி சீர்திருத்தங்கள் அறிமுகப்படுத்தப்பட்டன?",
+    "options_en": ["7th Plan", "8th Plan", "9th Plan", "10th Plan"],
+    "options_ta": ["7வது திட்டம்", "8வது திட்டம்", "9வது திட்டம்", "10வது திட்டம்"],
+    "answer_en": "8th Plan",
+    "answer_ta": "8வது திட்டம்"
+  },
+  {
+    "question_en": "Who prepares the Union Budget in India?",
+    "question_ta": "இந்தியாவில் ஒன்றிய பட்ஜெட்டை யார் தயாரிக்கிறார்கள்?",
+    "options_en": ["Finance Minister", "President", "Prime Minister", "RBI Governor"],
+    "options_ta": ["நிதி அமைச்சர்", "குடியரசுத் தலைவர்", "பிரதமர்", "ஆர்பிஐ ஆளுநர்"],
+    "answer_en": "Finance Minister",
+    "answer_ta": "நிதி அமைச்சர்"
+  },
+  {
+    "question_en": "Which organisation controls foreign exchange in India?",
+    "question_ta": "இந்தியாவில் வெளிநாட்டு நாணயத்தை கட்டுப்படுத்தும் நிறுவனம் எது?",
+    "options_en": ["RBI", "SEBI", "IRDAI", "SBI"],
+    "options_ta": ["ஆர்பிஐ", "செபி", "ஐ.ஆர்.டி.ஐ", "எஸ்.பி.ஐ"],
+    "answer_en": "RBI",
+    "answer_ta": "ஆர்பிஐ"
+  }
+]

@@ -1,0 +1,233 @@
+[
+  {
+    "question_en": "In the reaction 2H₂ + O₂ → 2H₂O, how many moles of water are produced from 4 moles of H₂?",
+    "question_ta": "2H₂ + O₂ → 2H₂O என்ற வினையில் 4 கோள்களின் H₂ இருந்து எத்தனை கோள்களை H₂O உருவாகும்?",
+    "options_en": ["2 moles", "4 moles", "1 mole", "8 moles"],
+    "options_ta": ["2 கோள்", "4 கோள்", "1 கோள்", "8 கோள்"],
+    "answer_en": "4 moles",
+    "answer_ta": "4 கோள்"
+  },
+  {
+    "question_en": "Which of these reactions is an example of a displacement reaction?",
+    "question_ta": "இவற்றில் எது இடமாற்று வினையின் ஒரு உதாரணம்?",
+    "options_en": ["Zn + CuSO₄ → ZnSO₄ + Cu", "H₂ + Cl₂ → 2HCl", "2H₂O → 2H₂ + O₂", "NaOH + HCl → NaCl + H₂O"],
+    "options_ta": ["Zn + CuSO₄ → ZnSO₄ + Cu", "H₂ + Cl₂ → 2HCl", "2H₂O → 2H₂ + O₂", "NaOH + HCl → NaCl + H₂O"],
+    "answer_en": "Zn + CuSO₄ → ZnSO₄ + Cu",
+    "answer_ta": "Zn + CuSO₄ → ZnSO₄ + Cu"
+  },
+  {
+    "question_en": "What is the oxidation state of sulfur in H₂SO₄?",
+    "question_ta": "H₂SO₄ இன் சல்பர் அணுக்கருவின் அகசன காலம் என்ன?",
+    "options_ta": ["+6", "+4", "-2", "+2"],
+    "answer_en": "+6",
+    "answer_ta": "+6"
+  },
+  {
+    "question_en": "Which compound is an example of a saturated hydrocarbon (alkane)?",
+    "question_ta": "பூரண ஹைட்ரோகர்பன் (அல்கேன்) இன் ஒரு எடுத்துக்காட்டு எது?",
+    "options_en": ["Ethene (C₂H₄)", "Ethyne (C₂H₂)", "Ethane (C₂H₆)", "Benzene (C₆H₆)"],
+    "options_ta": ["ஈத்தீன் (C₂H₄)", "ஈதின் (C₂H₂)", "ஈத்தேன் (C₂H₆)", "பென்சின் (C₆H₆)"],
+    "answer_en": "Ethane (C₂H₆)",
+    "answer_ta": "ஈத்தேன் (C₂H₆)"
+  },
+  {
+    "question_en": "Which salt is formed when an acid reacts with a metal?",
+    "question_ta": "ஒரு அமிலம் ஒரு உலோகம் உடன் வினையாற்றினால் எந்த உப்பு உருவாகும்?",
+    "options_en": ["Salt and water", "Salt and hydrogen gas", "Salt and oxygen", "Salt and carbon dioxide"],
+    "options_ta": ["உப்பு மற்றும் தண்ணீர்", "உப்பு மற்றும் ஹைட்ரஜன் வாயு", "உப்பு மற்றும் ஆக்சிஜன்", "உப்பு மற்றும் கார்பன் டை ஆக்சைடு"],
+    "answer_en": "Salt and hydrogen gas",
+    "answer_ta": "உப்பு மற்றும் ஹைட்ரஜன் வாயு"
+  },
+  {
+    "question_en": "Which of the following increases the rate of a reaction by providing an alternative pathway?",
+    "question_ta": "வீதியை வேகப்படுத்த ஒரு மாற்று பாதையை வழங்குவதன் மூலம் எந்த ஒன்று வேகத்தை அதிகரிக்கும்?",
+    "options_en": ["Catalyst", "Inhibitor", "Reactant concentration decrease", "Lower temperature"],
+    "options_ta": ["கேட்டலிஸ்ட்", "தடுப்பான்", "சேர்மம் அளவு குறைவு", "குறைந்த வெப்பநிலை"],
+    "answer_en": "Catalyst",
+    "answer_ta": "கேட்டலிஸ்ட்"
+  },
+  {
+    "question_en": "Which bond angle is present in a water molecule (approx)?",
+    "question_ta": "நீரின் அணுவில் (சுமார்) எத்தனை டிகிரி இணை போகும்?",
+    "options_en": ["104.5°", "90°", "120°", "180°"],
+    "options_ta": ["104.5°", "90°", "120°", "180°"],
+    "answer_en": "104.5°",
+    "answer_ta": "104.5°"
+  },
+  {
+    "question_en": "What is the product when ethene undergoes addition of hydrogen (hydrogenation)?",
+    "question_ta": "ஈத்தீனுக்கு ஹைட்ரஜன் சேர்த்தால் (ஹைட்ரஜனேஷன்) என்ன தயாராகும்?",
+    "options_en": ["Ethane", "Ethanol", "Ethyne", "Acetylene"],
+    "options_ta": ["ஈத்தேன்", "ஈத்தானால்", "ஈதின்", "அசிட்டிலின்"],
+    "answer_en": "Ethane",
+    "answer_ta": "ஈத்தேன்"
+  },
+  {
+    "question_en": "Which acid is present in vinegar?",
+    "question_ta": "வினிகரில் (சீரகச் சாறு) எது உள்ளம்?",
+    "options_en": ["Acetic acid", "Citric acid", "Hydrochloric acid", "Sulphuric acid"],
+    "options_ta": ["அசெடிக் அமிலம்", "சிட்ரிக் அமிலம்", "ஹைட்ரோகிளோரிக் அமிலம்", "சல்ப்யூரிக் அமிலம்"],
+    "answer_en": "Acetic acid",
+    "answer_ta": "அசெடிக் அமிலம்"
+  },
+  {
+    "question_en": "Which is the correct IUPAC name for CH₃–CH₂–OH?",
+    "question_ta": "CH₃–CH₂–OH இன் சரியான IUPAC பெயர் எது?",
+    "options_en": ["Ethanol", "Methanol", "Ethyne", "Ethanoic acid"],
+    "options_ta": ["ஈத்தானால்", "மேதனாள்", "ஈதின்", "ஈத்தானோயிக் அமிலம்"],
+    "answer_en": "Ethanol",
+    "answer_ta": "ஈத்தானால்"
+  },
+  {
+    "question_en": "Which of these salts is formed by reaction of ammonia with hydrogen chloride gas?",
+    "question_ta": "அமோனியா மற்றும் ஹைட்ரஜன் கிளோடைடு வாயுவின் வினையில் உருவாகும் உப்பு எது?",
+    "options_en": ["Ammonium chloride (NH₄Cl)", "Sodium chloride", "Ammonium nitrate", "Ammonium sulfate"],
+    "options_ta": ["அமோனியம் கிளோரைடு (NH₄Cl)", "சோடியம் கிளோரைடு", "அமோனியம் நைட்ரேட்", "அமோனியம் சல்பேட்"],
+    "answer_en": "Ammonium chloride (NH₄Cl)",
+    "answer_ta": "அமோனியம் கிளோரைடு (NH₄Cl)"
+  },
+  {
+    "question_en": "Which salt is obtained by reaction of hydrochloric acid with sodium hydroxide?",
+    "question_ta": "ஹைட்ரோக்ளோரிக் அமிலத்தையும் சோடியம் ஹைட்ராக்சைடை ஒன்றாகச் சேர்த்தால் எது கிடைக்கும்?",
+    "options_en": ["Sodium chloride", "Sodium sulfate", "Sodium carbonate", "Sodium nitrate"],
+    "options_ta": ["சோடியம் குளோரைடு", "சோடியம் சல்பேட்", "சோடியம் கார்போனேட்", "சோடியம் நைட்ரேட்"],
+    "answer_en": "Sodium chloride",
+    "answer_ta": "சோடியம் குளோரைடு"
+  },
+  {
+    "question_en": "Which of the following describes an amphoteric oxide?",
+    "question_ta": "அம்பாட்டெரிக் ஆக்சைடு என்னவென்றால் எதைக் குறிப்பிடுகிறது?",
+    "options_en": ["Reacts with both acids and bases", "Reacts only with acids", "Reacts only with bases", "Is inert to both"],
+    "options_ta": ["அமிலங்களுடனும் அடிப்படைகளுடனும் இரண்டிற்குமானும் வினையாற்றுகிறது", "மட்டும் அமிலங்களுடன் மட்டுமே வினையாற்றுகிறது", "மட்டும் அடிப்படைகளுடன் மட்டுமே வினையாற்றுகிறது", "இரண்டிற்குமானும் அமைதியாக உள்ளது"],
+    "answer_en": "Reacts with both acids and bases",
+    "answer_ta": "அமிலங்களுடனும் அடிப்படைகளுடனும் இரண்டிற்குமானும் வினையாற்றுகிறது"
+  },
+  {
+    "question_en": "What is the product of complete combustion of a hydrocarbon?",
+    "question_ta": "ஒரு ஹைட்ரோகர்பன் முழுமையாக எரிந்தால் எது தயாராகும்?",
+    "options_en": ["Carbon dioxide and water", "Carbon monoxide and water", "Soot and hydrogen", "Oxygen and water"],
+    "options_ta": ["கார்பன் டை ஆக்சைடு மற்றும் தண்ணீர்", "கார்பன் மோனோக்சைடு மற்றும் தண்ணீர்", "சிட்டும் ஹைட்ரஜன்", "ஆக்சிஜன் மற்றும் தண்ணீர்"],
+    "answer_en": "Carbon dioxide and water",
+    "answer_ta": "கார்பன் டை ஆக்சைடு மற்றும் தண்ணீர்"
+  },
+  {
+    "question_en": "Which reagent is used to test for the presence of reducing sugars?",
+    "question_ta": "குறைந்த எரிவாயு (ரீட்யூசிங்) சர்க்கரைகள் இருக்கிறதா என்பதை சோதிக்க எந்த திரவம் பயன்படுத்தப்படுகிறது?",
+    "options_en": ["Benedict's solution", "Iodine solution", "Litmus", "Silver nitrate"],
+    "options_ta": ["பெனெடிக்ட் உபாயம்", "ஐயோடைன் محلول", "லிட்மஸ்", "வெள்ளி நைடைட்"],
+    "answer_en": "Benedict's solution",
+    "answer_ta": "பெனெடிக்ட் உபாயம்"
+  },
+  {
+    "question_en": "Which metal is extracted by electrolysis from its molten chloride?",
+    "question_ta": "எந்த உலோகம் அதன் உருகிய கிளோரைடை மின் விசையில் எடுக்கப்படுகிறது?",
+    "options_en": ["Sodium", "Iron", "Calcium", "Aluminium"],
+    "options_ta": ["சோடியம்", "இரும்பு", "கால்சியம்", "அலுமினியம்"],
+    "answer_en": "Sodium",
+    "answer_ta": "சோடியம்"
+  },
+  {
+    "question_en": "Which gas is liberated when concentrated sulphuric acid is added to sugar?",
+    "question_ta": "ஜீவரசம் (சக்கரை) மீது செருகிய கணக்கில் சல்ப்யூரிக் அமிலம் சேர்த்தால் எந்த வாயு வெளியேறும்?",
+    "options_en": ["Carbon dioxide", "Sulphur dioxide", "Water vapour", "No gas, black carbon forms"],
+    "options_ta": ["கார்பன் டை ஆக்சைடு", "சல்பர் டை ஆக்சைடு", "வெப்ப நீர் வாயு", "வாயும் இல்லை; கருப்பு கார்பன் உருவாகும்"],
+    "answer_en": "No gas, black carbon forms",
+    "answer_ta": "வாயும் இல்லை; கருப்பு கார்பன் உருவாகும்"
+  },
+  {
+    "question_en": "Which element is present in all organic compounds?",
+    "question_ta": "அனைத்து நுண்ணூடாக கொண்ட சேர்மங்களில் எந்த மூலதனம் உள்ளது?",
+    "options_en": ["Oxygen", "Nitrogen", "Carbon", "Sulphur"],
+    "options_ta": ["ஆக்சிஜன்", "நைட்ரஜன்", "கார்பன்", "சல்பர்"],
+    "answer_en": "Carbon",
+    "answer_ta": "கார்பன்"
+  },
+  {
+    "question_en": "Which of these is an endothermic process?",
+    "question_ta": "இவற்றில் எந்தது உள்நோக்கம் (என்டோதெர்மிக்) செயல்வழி?",
+    "options_en": ["Dissolution of ammonium nitrate in water", "Combustion of methane", "Neutralization of HCl and NaOH", "Freezing of water"],
+    "options_ta": ["அமோனியம் நைட்ட்ரேட் நீரில் கரையுதல்", "மீதேன் எரிம்பு", "HCl மற்றும் NaOH நியூட்ரலைசேஷன்", "தண்ணீர் உறைவு"],
+    "answer_en": "Dissolution of ammonium nitrate in water",
+    "answer_ta": "அமோனியம் நைட்ட்ரேட் நீரில் கரையுதல்"
+  },
+  {
+    "question_en": "Which compound is commonly used as a bleaching agent?",
+    "question_ta": "பொதுவாக பிளீச்சிங் கருவியாக எது பயன்படுத்தப்படுகிறது?",
+    "options_en": ["Sodium chloride", "Sodium hypochlorite", "Sodium carbonate", "Sodium bicarbonate"],
+    "options_ta": ["சோடியம் குளோரைடு", "சோடியம் ஹைபோகுளோரைட்", "சோடியம் கார்போனேட்", "சோடியம் பைகார்போனேட்"],
+    "answer_en": "Sodium hypochlorite",
+    "answer_ta": "சோடியம் ஹைபோகுளோரைட்"
+  },
+  {
+    "question_en": "Which of the following is a reducing agent?",
+    "question_ta": "கீழ்நிலையாகும் எது ஒரு குறைத்தல் முகமைப்பான்?",
+    "options_en": ["Potassium permanganate (KMnO₄)", "Hydrogen gas", "Nitric acid", "Dichromate ions"],
+    "options_ta": ["பொட்டாசியம் பெர்மங்கனேட் (KMnO₄)", "ஹைட்ரஜன் வாயு", "நைட்ரிக் அமிலம்", "டைக்ரோமேட் அயன்கள்"],
+    "answer_en": "Hydrogen gas",
+    "answer_ta": "ஹைட்ரஜன் வாயு"
+  },
+  {
+    "question_en": "Which of these oxides is acidic in nature?",
+    "question_ta": "இவற்றில் எது அசிடிக் (அமில) ஆக்சைடு?",
+    "options_en": ["SO₂", "Na₂O", "CaO", "MgO"],
+    "options_ta": ["SO₂", "Na₂O", "CaO", "MgO"],
+    "answer_en": "SO₂",
+    "answer_ta": "SO₂"
+  },
+  {
+    "question_en": "What is the general formula of alkenes?",
+    "question_ta": "அல்கீன்களின் பொதுவான சூத்திரம் என்ன?",
+    "options_en": ["CₙH₂ₙ", "CₙH₂ₙ₊₂", "CₙH₂ₙ₋₂", "CₙHₙ"],
+    "options_ta": ["CₙH₂ₙ", "CₙH₂ₙ₊₂", "CₙH₂ₙ₋₂", "CₙHₙ"],
+    "answer_en": "CₙH₂ₙ",
+    "answer_ta": "CₙH₂ₙ"
+  },
+  {
+    "question_en": "Which method is used for preventing rusting of iron by coating with zinc?",
+    "question_ta": "இரும்பை தங்கமுவதன் மூலம் காத்துக் கொள்ளும் முறை எது (சிங்கை பூசுதல்)?",
+    "options_en": ["Galvanization", "Anodization", "Electroplating with copper", "Passivation"],
+    "options_ta": ["கால்வனைசேஷன்", "அனோடைசேஷன்", "செம்பு மின்னொட்டம்", "பாஸிவேஷன்"],
+    "answer_en": "Galvanization",
+    "answer_ta": "கால்வனைசேஷன்"
+  },
+  {
+    "question_en": "Which of these compounds is an aromatic hydrocarbon?",
+    "question_ta": "இவற்றில் எது அரோமாட்டிக் ஹைட்ரோகர்பன்?",
+    "options_en": ["Butane", "Benzene", "Ethane", "Propane"],
+    "options_ta": ["புடேன்", "பென்ஸின்", "ஈத்தேன்", "புரோபேன்"],
+    "answer_en": "Benzene",
+    "answer_ta": "பென்ஸின்"
+  },
+  {
+    "question_en": "What happens to the boiling point of water when salt is added?",
+    "question_ta": "உப்பை சேர்த்தால் தண்ணீரின் கொதிக்கும் அகலம் எப்படி மாறும்?",
+    "options_en": ["Boiling point decreases", "Boiling point increases", "No change", "Boiling stops"],
+    "options_ta": ["கோதும் புள்ளி குறையும்", "கோதும் புள்ளி அதிகரிக்கும்", "மாற்றமில்லை", "கோதுமம் தடைப்படுகிறது"],
+    "answer_en": "Boiling point increases",
+    "answer_ta": "கோதும் புள்ளி அதிகரிக்கும்"
+  },
+  {
+    "question_en": "Which of these is used in making safety matches?",
+    "question_ta": "பாதுகாப்பு மிச்சற்றுகளை (சேக்ஸ்கள்) தயாரிப்பதில் எது பயன்படுகிறது?",
+    "options_en": ["Red phosphorus", "White phosphorus", "Potassium chlorate", "Sulphuric acid"],
+    "options_ta": ["சிவப்பு போஸ்பரஸ்", "சிற்று போஸ்பரஸ்", "பொட்டாசியம் குளோரைட்", "சல்ப்யூரிக் அமிலம்"],
+    "answer_en": "Red phosphorus",
+    "answer_ta": "சிவப்பு போஸ்பரஸ்"
+  },
+  {
+    "question_en": "Which reagent is used to test for presence of proteins?",
+    "question_ta": "சிற்பவியல் (ப்ரோடீன்) இருப்பதை சோதிக்க எந்த திரவம் பயன்படுத்தப்படுகிறது?",
+    "options_en": ["Biuret reagent", "Iodine solution", "Benedict's solution", "Phenolphthalein"],
+    "options_ta": ["பயூரெட் ரீஆஜென்ட்", "ஐயோடைன் محلول", "பெனெடிக்ட் உபாயம்", "பெனால்ஃப்தாலீன்"],
+    "answer_en": "Biuret reagent",
+    "answer_ta": "பயூரெட் ரீஆஜென்ட்"
+  },
+  {
+    "question_en": "Which process involves removal of salt from seawater by heating and condensation?",
+    "question_ta": "கடல் நீரை உப்பின்றி செய்ய வெப்பித்தல் மற்றும் சுரத்தலால் செய்யப்படும் செயல்முறை எது?",
+    "options_en": ["Desalination (distillation)", "Electrolysis", "Filtration", "Chromatography"],
+    "options_ta": ["சோடியம் நீக்குதல் (இலறுதல்)", "மின்கவலை", "சிறப்பு", "க்ரோமானோக்ராஃபி"],
+    "answer_en": "Desalination (distillation)",
+    "answer_ta": "சோடியம் நீக்குதல் (இலறுதல்)"
+  }
+]

@@ -1,0 +1,218 @@
+[
+  {
+    "question_en": "What is the smallest unit of an element that retains its chemical properties?",
+    "question_ta": "ஒரு தன்மையின் வேதியியல் தன்மைகளை தக்கவைத்துச் செல்லும் அதிநுணுக்கிய அலகு எது?",
+    "options_en": ["Molecule", "Atom", "Ion", "Compound"],
+    "options_ta": ["அணு", "மூலக்கூறு", "आயன்", "செழுமை"],
+    "answer_en": "Atom",
+    "answer_ta": "மூலக்கூறு"
+  },
+  {
+    "question_en": "Which of these is a chemical change?",
+    "question_ta": "இவற்றில் எது வேதியியல் மாற்றமாகும்?",
+    "options_en": ["Melting of ice", "Rusting of iron", "Dissolving sugar in water", "Boiling of water"],
+    "options_ta": ["பனியை கரைத்தல்", "இரும்பு மண்ணிற் கொழிந்து போகுதல்", "சர்க்கரை நீரில் கரைப்பது", "தண்ணீரை வேகவைத்து அழித்தல்"],
+    "answer_en": "Rusting of iron",
+    "answer_ta": "இரும்பு மண்ணிற் கொழிந்து போகுதல்"
+  },
+  {
+    "question_en": "A balanced chemical equation obeys which law?",
+    "question_ta": "சமநிலை வேதியியல் சமன்பாடு எந்த விதியை பின்பலிக்கிறது?",
+    "options_en": ["Law of Constant Proportions", "Law of Definite Proportions", "Law of Conservation of Mass", "Gay-Lussac's Law"],
+    "options_ta": ["நிலையான விகித விதி", "கணிக்கப்பட்ட விகித விதி", "பொருட்களின் பரிமாண நிலைத்தன்மை விதி", "கே-லூசாக் விதி"],
+    "answer_en": "Law of Conservation of Mass",
+    "answer_ta": "பொருட்களின் பரிமாண நிலைத்தன்மை விதி"
+  },
+  {
+    "question_en": "Which is an example of a physical change?",
+    "question_ta": "எது ஒரு உடலியல் (ஃபிஸிக்கல்) மாற்றத்தின் உதாரணம்?",
+    "options_en": ["Evaporation of water", "Burning of paper", "Vinegar reacting with baking soda", "Iron rusting"],
+    "options_ta": ["தண்ணீரின் ஆவியாக்கம்", "காகிதம் எரிதல்", "சாம்பார் பொடிக்கு நாசாயம் எதிரொலி", "இரும்பு மண்ணிற் கொழிந்து போகுதல்"],
+    "answer_en": "Evaporation of water",
+    "answer_ta": "தண்ணீரின் ஆவியாக்கம்"
+  },
+  {
+    "question_en": "Which indicator turns red in acidic solution?",
+    "question_ta": "அமிலத் திரவத்தில் சிவப்பாக மாறுவது எந்த குறியீட்டாளர்?",
+    "options_en": ["Blue litmus", "Phenolphthalein", "Methyl orange", "Universal indicator (neutral)"],
+    "options_ta": ["புளூ லிட்மஸ்", "பெனால்ஃப்தாலீன்", "மெதிற்கல் ஆரஞ்சு", "பன்முகக் குறியீட்டாளர் (நியூட்ரல்)"],
+    "answer_en": "Methyl orange",
+    "answer_ta": "மெதிற்கல் ஆரஞ்சு"
+  },
+  {
+    "question_en": "pH 7 corresponds to:",
+    "question_ta": "pH 7 என்பது எந்தவையாகும்?",
+    "options_en": ["Strong acid", "Neutral", "Strong base", "Weak acid"],
+    "options_ta": ["மிக அமிலம்", "நியூட்ரல்", "மிக அடிப்படை", "பலவீன அமிலம்"],
+    "answer_en": "Neutral",
+    "answer_ta": "நியூட்ரல்"
+  },
+  {
+    "question_en": "Which gas is produced when an acid reacts with a carbonate?",
+    "question_ta": "ஒரு அமிலம் கார்பोனேட்டுடன் வினையன்று செய்தால் எது உற்பத்தி ஆகும்?",
+    "options_en": ["Hydrogen", "Oxygen", "Carbon dioxide", "Nitrogen"],
+    "options_ta": ["ஹைட்ரஜன்", "ஆக்சிஜன்", "கார்பன் டை ஆக்சைடு", "நைட்ரஜன்"],
+    "answer_en": "Carbon dioxide",
+    "answer_ta": "கார்பன் டை ஆக்சைடு"
+  },
+  {
+    "question_en": "Which of the following is a metal?",
+    "question_ta": "கீழ்காணும் எது ஒரு உலோகம்?",
+    "options_en": ["Sulphur", "Chlorine", "Sodium", "Phosphorus"],
+    "options_ta": ["கறுக்கு", "குளோரைன்", "சோடியம்", "பாஸ்பரஸ்"],
+    "answer_en": "Sodium",
+    "answer_ta": "சோடியம்"
+  },
+  {
+    "question_en": "An ionic bond is formed by:",
+    "question_ta": "ஒரு அயனிக் இணைப்பு எவ்வாறு உருவாகிறது?",
+    "options_en": ["Sharing of electrons", "Transfer of electrons", "Sharing of protons", "Transfer of neutrons"],
+    "options_ta": ["மினிடைகள் பகிர்வு", "மினிடைகள் மாற்றம்", "புரோட்டான்கள் பகிர்வு", "நியூட்ரான்கள் மாற்றம்"],
+    "answer_en": "Transfer of electrons",
+    "answer_ta": "மினிடைகள் மாற்றம்"
+  },
+  {
+    "question_en": "Which common salt is formed by neutralization of HCl with NaOH?",
+    "question_ta": "HCl ஐ NaOH உடன் நியூட்ரலைஸ் செய்தால் எந்த சாதாரண உப்பு உருவாகும்?",
+    "options_en": ["KCl", "NaCl", "CaCl2", "MgCl2"],
+    "options_ta": ["KCl", "NaCl", "CaCl2", "MgCl2"],
+    "answer_en": "NaCl",
+    "answer_ta": "NaCl"
+  },
+  {
+    "question_en": "Which of these is an acid?",
+    "question_ta": "இவற்றில் எது ஒரு அமிலம்?",
+    "options_en": ["Sodium hydroxide", "Hydrochloric acid", "Calcium carbonate", "Sodium chloride"],
+    "options_ta": ["சோடியம் ஹைட்ராக்சைடு", "ஹைட்ரோகர்லிக் அமிலம்", "கால்சியம் கார்போனேட்", "சோடியம் குளோரைடு"],
+    "answer_en": "Hydrochloric acid",
+    "answer_ta": "ஹைட்ரோகர்லிக் அமிலம்"
+  },
+  {
+    "question_en": "What is the common name for NaHCO₃?",
+    "question_ta": "NaHCO₃ இன் சாதாரண பெயர் என்ன?",
+    "options_en": ["Baking soda", "Bleaching powder", "Washing soda", "Lime"],
+    "options_ta": ["மிட்டென் சோடா", "பிளீச்சிங் பொடி", "வாஷிங் சோடா", "நீண்டு"],
+    "answer_en": "Baking soda",
+    "answer_ta": "மிட்டென் சோடா"
+  },
+  {
+    "question_en": "Which metal reacts vigorously with water to produce hydrogen?",
+    "question_ta": "எந்த உலோகம் தண்ணீருடன் தீவிரமாக எதிர்வினை செய்து ஹைட்ரஜன் உண்டாக்குகிறது?",
+    "options_en": ["Copper", "Sodium", "Aluminium", "Gold"],
+    "options_ta": ["செம்பு", "சோடியம்", "அலுமினியம்", "மூலிகை பொன்"],
+    "answer_en": "Sodium",
+    "answer_ta": "சோடியம்"
+  },
+  {
+    "question_en": "Which of these is a molecular (covalent) compound?",
+    "question_ta": "இவற்றில் எது மூலக்கூறு (கோவலென்ட்) சேர்மம்?",
+    "options_en": ["Sodium chloride", "Magnesium oxide", "Carbon dioxide", "Calcium chloride"],
+    "options_ta": ["சோடியம் குளோரைடு", "மக்னீசியம் ஆக்சைடு", "கார்பன் டை ஆக்சைடு", "கால்சியம் குளோரைடு"],
+    "answer_en": "Carbon dioxide",
+    "answer_ta": "கார்பன் டை ஆக்சைடு"
+  },
+  {
+    "question_en": "Which of these is used as a fuel in nuclear reactors?",
+    "question_ta": "அணு உலைகளில் எது எரிபொருளாக பயன்படுத்தப்படுகிறது?",
+    "options_en": ["Coal", "Uranium", "Petrol", "Methane"],
+    "options_ta": ["நிலக்கரி", "யுரேனியம்", "பெட்ரோல்", "மீதேன்"],
+    "answer_en": "Uranium",
+    "answer_ta": "யுரேனியம்"
+  },
+  {
+    "question_en": "Which reagent is commonly used to test for the presence of starch?",
+    "question_ta": "ஸ்டார்ச் இருப்பதை சோதிக்க பொதுவாக பயன்படுத்தப்படும் பெயிண்ட் எது?",
+    "options_en": ["Benedict's reagent", "Iodine solution", "Litmus solution", "Phenolphthalein"],
+    "options_ta": ["பெனெடிக்ட் திரவம்", "ஐயோடைன் محلول", "லிட்மஸ் محلول", "பெனால்ஃப்தாலீன்"],
+    "answer_en": "Iodine solution",
+    "answer_ta": "ஐயோடைன் محلول"
+  },
+  {
+    "question_en": "Which salt is commonly called 'washing soda'?",
+    "question_ta": "இங்கே எது பொதுவாக 'வாஷிங் சோடா' என்று அழைக்கப்படுகிறது?",
+    "options_en": ["Sodium carbonate", "Sodium bicarbonate", "Sodium chloride", "Sodium sulphate"],
+    "options_ta": ["சோடியம் கார்போனேட்", "சோடியம் பைகார் போனேட்", "சோடியம் குளோரைடு", "சோடியம் சல்பேட்"],
+    "answer_en": "Sodium carbonate",
+    "answer_ta": "சோடியம் கார்போனேட்"
+  },
+  {
+    "question_en": "Which of the following is a halogen?",
+    "question_ta": "கீழ்கணவுகளுள் எது ஹாலஜன்?",
+    "options_en": ["Oxygen", "Chlorine", "Hydrogen", "Nitrogen"],
+    "options_ta": ["ஆக்சிஜன்", "குளோரைன்", "ஹைட்ரஜன்", "நைட்ரஜன்"],
+    "answer_en": "Chlorine",
+    "answer_ta": "குளோரைன்"
+  },
+  {
+    "question_en": "Which process separates components of crude oil by heating?",
+    "question_ta": "மாவு எண்ணெயின் கூறுகளை வெப்பம் மூலம் பிரிப்பதைக் கையாளும் செயல்முறை எது?",
+    "options_en": ["Distillation", "Filtration", "Evaporation", "Chromatography"],
+    "options_ta": ["இலறுதல்", "சிறப்பு", "ஆவியாக்கம்", "க்ரோமானோக்ராஃபி"],
+    "answer_en": "Distillation",
+    "answer_ta": "இலறுதல்"
+  },
+  {
+    "question_en": "Which compound is the main component of natural gas?",
+    "question_ta": "இயற்கை எரிவாயுவின் முக்கிய கூறு எது?",
+    "options_en": ["Ethane", "Methane", "Butane", "Propane"],
+    "options_ta": ["ஈதேன்", "மீதேன்", "பூட்டேன்", "புரோபேன்"],
+    "answer_en": "Methane",
+    "answer_ta": "மீதேன்"
+  },
+  {
+    "question_en": "Which gas is essential for combustion?",
+    "question_ta": "எரிப்பிற்கு அவசியமான வாயு எது?",
+    "options_en": ["Hydrogen", "Oxygen", "Nitrogen", "Carbon dioxide"],
+    "options_ta": ["ஹைட்ரஜன்", "ஆக்சிஜன்", "நைட்ரஜன்", "கார்பன் டை ஆக்சைடு"],
+    "answer_en": "Oxygen",
+    "answer_ta": "ஆக்சிஜன்"
+  },
+  {
+    "question_en": "What is the valency of oxygen in most compounds?",
+    "question_ta": "பொதுவாக ஆக்சிஜனின் வாலன்சி என்ன?",
+    "options_en": ["1", "2", "3", "4"],
+    "options_ta": ["1", "2", "3", "4"],
+    "answer_en": "2",
+    "answer_ta": "2"
+  },
+  {
+    "question_en": "Which ion gives blue colour to flame test in many salts?",
+    "question_ta": "பல உப்புகளில் எல் எரிபடுதல் சோதனையில் நீல நிறம் தரும் அயன் எது?",
+    "options_en": ["Sodium ion", "Potassium ion", "Copper ion", "Calcium ion"],
+    "options_ta": ["சோடியம் அயன்", "பொட்டாசியம் அயன்", "காப்பர் அயன்", "கால்சியம் அயன்"],
+    "answer_en": "Copper ion",
+    "answer_ta": "காப்பர் அயன்"
+  },
+  {
+    "question_en": "Which is the most reactive metal among these?",
+    "question_ta": "இவற்றில் மிகச் செயற்பாட்டுள்ள உலோகம் எது?",
+    "options_en": ["Gold", "Sodium", "Calcium", "Iron"],
+    "options_ta": ["பொன்", "சோடியம்", "கால்சியம்", "இரும்பு"],
+    "answer_en": "Sodium",
+    "answer_ta": "சோடியம்"
+  },
+  {
+    "question_en": "Which of these is used as an antacid?",
+    "question_ta": "இவற்றில் எது வழக்கமாக இடமாற்றி (அண்டாஸிட்) ஆக பயன்படுத்தப்படுகிறது?",
+    "options_en": ["Hydrochloric acid", "Sodium bicarbonate", "Sulphuric acid", "Sodium hydroxide"],
+    "options_ta": ["ஹைட்ரோகர்லிக் அமிலம்", "சோடியம் பைகார்போனேட்", "சல்பூரிக் அமிலம்", "சோடியம் ஹைட்ராக்சைடு"],
+    "answer_en": "Sodium bicarbonate",
+    "answer_ta": "சோடியம் பைகார்போனேட்"
+  },
+  {
+    "question_en": "Which common laboratory gas is produced by electrolysis of water?",
+    "question_ta": "நீரின் மின்கவலை மூலம் தயாரிக்கப்படும் பொதுவான ஆய்வறை வாயு எது?",
+    "options_en": ["Chlorine", "Hydrogen", "Oxygen", "Nitrogen"],
+    "options_ta": ["குளோரைன்", "ஹைட்ரஜன்", "ஆக்சிஜன்", "நைட்ரஜன்"],
+    "answer_en": "Hydrogen",
+    "answer_ta": "ஹைட்ரஜன்"
+  },
+  {
+    "question_en": "Which product forms when ethanol burns completely in air?",
+    "question_ta": "எதனால் ஈதானால் (எத்தனால்) முழுவதுமாக எரிந்தால் எது உற்பத்தி ஆகும்?",
+    "options_en": ["Carbon monoxide and water", "Carbon dioxide and water", "Hydrogen and oxygen", "Methane and water"],
+    "options_ta": ["கார்பன் மோனோக்சைடு மற்றும் தண்ணீர்", "கார்பன் டை ஆக்சைடு மற்றும் தண்ணீர்", "ஹைட்ரஜன் மற்றும் ஆக்சிஜன்", "மீதேன் மற்றும் தண்ணீர்"],
+    "answer_en": "Carbon dioxide and water",
+    "answer_ta": "கார்பன் டை ஆக்சைடு மற்றும் தண்ணீர்"
+  }
+]

@@ -1,0 +1,902 @@
+[
+  {
+    "question_en": "Select correct form: 'If I ___ you, I would apologize.'",
+    "question_ta": "சரியான வடிவம்: 'If I ___ you, I would apologize.'",
+    "options_en": [
+      "was",
+      "were",
+      "be",
+      "am"
+    ],
+    "options_ta": [
+      "இருந்தது",
+      "இருந்தால்",
+      "இருங்கள்",
+      "ஆம்"
+    ],
+    "answer_en": "were",
+    "answer_ta": "were"
+  },
+  {
+    "question_en": "Choose correct plural: 'analysis'",
+    "question_ta": "இறுங்கியது 'analysis' என்பதற்கான பன்மை?",
+    "options_en": [
+      "analysi",
+      "analysiss",
+      "analyses",
+      "analysises"
+    ],
+    "options_ta": [
+      "analysi",
+      "analysiss",
+      "analyses",
+      "analysises"
+    ],
+    "answer_en": "analyses",
+    "answer_ta": "analyses"
+  },
+  {
+    "question_en": "Which word best replaces 'hilarious'?",
+    "question_ta": "'hilarious' என்பதற்கான சிறந்த மாற்று சொல் எது?",
+    "options_en": [
+      "funny",
+      "boring",
+      "angry",
+      "sad"
+    ],
+    "options_ta": [
+      "சிரிக்கத்தக்க",
+      "விறுவதில்லாத",
+      "கோபமான",
+      "துன்பமான"
+    ],
+    "answer_en": "funny",
+    "answer_ta": "சிரிப்பூட்டும்"
+  },
+  {
+    "question_en": "Choose correct question tag: 'They are coming, ___?'",
+    "question_ta": "சரியான கேள்வி குறிக்கோள்: 'They are coming, ___?'",
+    "options_en": [
+      "won't they",
+      "don't they",
+      "isn't it",
+      "aren't they"
+    ],
+    "options_ta": [
+      "வரமாட்டார்கள்",
+      "அவர்கள் செய்வதா",
+      "இல்லை",
+      "அவர்கள் வருகிறார்களா"
+    ],
+    "answer_en": "aren't they",
+    "answer_ta": "aren't they"
+  },
+  {
+    "question_en": "Choose the correct reported speech: 'He said, \"I am ready.\"'",
+    "question_ta": "உரையாடலைப் பதிவுசெய்ய: 'He said, \"I am ready.\"'",
+    "options_en": [
+      "He said that he was ready.",
+      "He said that he is ready.",
+      "He said that I am ready.",
+      "He said that he had be ready."
+    ],
+    "options_ta": [
+      "அவர் சொன்னார் அவர் தயார் என்று",
+      "பிழை",
+      "பிழை",
+      "பிழை"
+    ],
+    "answer_en": "He said that he was ready.",
+    "answer_ta": "He said that he was ready."
+  },
+  {
+    "question_en": "Choose correct plural: 'analysis'",
+    "question_ta": "இறுங்கியது 'analysis' என்பதற்கான பன்மை?",
+    "options_en": [
+      "analyses",
+      "analysi",
+      "analysiss",
+      "analysises"
+    ],
+    "options_ta": [
+      "analyses",
+      "analysi",
+      "analysiss",
+      "analysises"
+    ],
+    "answer_en": "analyses",
+    "answer_ta": "analyses"
+  },
+  {
+    "question_en": "In the story, why did Don Quixote choose Sancho Panza as his squire?",
+    "question_ta": "கதையில், டான் க்விக்க்ஸோட் தனது ஸ்குயர் ஆக சாஞ்சோ பான்சாவை ஏன் தேர்ந்தெடுக்கிறார்?",
+    "options_en": [
+      "To punish him",
+      "Random choice",
+      "Because he is rich",
+      "Trust and companionship"
+    ],
+    "options_ta": [
+      "அவரை தண்டிக்க",
+      "சீரற்ற தேர்வு",
+      "அவர் செல்வந்தர் என்பதால்",
+      "நம்பிக்கை மற்றும் தோழமை"
+    ],
+    "answer_en": "Trust and companionship",
+    "answer_ta": "நம்பிக்கை மற்றும் தோழமை"
+  },
+  {
+    "question_en": "Pick the correct conjunction: 'I will go ___ it rains.'",
+    "question_ta": "சரியான இணைப்பு: 'I will go ___ it rains.'",
+    "options_en": [
+      "if",
+      "unless",
+      "so",
+      "because"
+    ],
+    "options_ta": [
+      "என்று",
+      "முதல்",
+      "ஆகவே",
+      "ஏனெனில்"
+    ],
+    "answer_en": "unless",
+    "answer_ta": "unless"
+  },
+  {
+    "question_en": "Identify the passive form: 'The police arrested the thief.'",
+    "question_ta": "இதன் passive வடிவம் அடையாளம்: 'The police arrested the thief.'",
+    "options_en": [
+      "The police were arrested by the thief.",
+      "The thief arrested the police.",
+      "The thief was arrested by the police.",
+      "Arrested the thief by police."
+    ],
+    "options_ta": [
+      "பிழை",
+      "பிழை",
+      "காவல் அதிகாரிகள் திருடன் கைது செய்தனர் என்று மாற்று",
+      "பிழை"
+    ],
+    "answer_en": "The thief was arrested by the police.",
+    "answer_ta": "The thief was arrested by the police."
+  },
+  {
+    "question_en": "Select correct tense: 'By 2025, she ___ her degree.'",
+    "question_ta": "சரியான காலம் தேர்வு: 'By 2025, she ___ her degree.'",
+    "options_en": [
+      "has completed",
+      "will complete",
+      "completed",
+      "will have completed"
+    ],
+    "options_ta": [
+      "முடித்துவிட்டாள்",
+      "முடிப்பாள்",
+      "முடித்தாள்",
+      "முடித்திருப்பாள்"
+    ],
+    "answer_en": "will have completed",
+    "answer_ta": "will have completed"
+  },
+  {
+    "question_en": "Select correct form: 'If I ___ you, I would apologize.'",
+    "question_ta": "சரியான வடிவம்: 'If I ___ you, I would apologize.'",
+    "options_en": [
+      "were",
+      "was",
+      "am",
+      "be"
+    ],
+    "options_ta": [
+      "இருந்தால்",
+      "இருந்தது",
+      "ஆம்",
+      "இருங்கள்"
+    ],
+    "answer_en": "were",
+    "answer_ta": "were"
+  },
+  {
+    "question_en": "Pick the correct conjunction: 'I will go ___ it rains.'",
+    "question_ta": "சரியான இணைப்பு: 'I will go ___ it rains.'",
+    "options_en": [
+      "if",
+      "unless",
+      "so",
+      "because"
+    ],
+    "options_ta": [
+      "என்று",
+      "முதல்",
+      "ஆகவே",
+      "ஏனெனில்"
+    ],
+    "answer_en": "unless",
+    "answer_ta": "unless"
+  },
+  {
+    "question_en": "Which word best replaces 'hilarious'?",
+    "question_ta": "'hilarious' என்பதற்கான சிறந்த மாற்று சொல் எது?",
+    "options_en": [
+      "sad",
+      "funny",
+      "angry",
+      "boring"
+    ],
+    "options_ta": [
+      "துன்பமான",
+      "சிரிக்கத்தக்க",
+      "கோபமான",
+      "விறுவதில்லாத"
+    ],
+    "answer_en": "funny",
+    "answer_ta": "சிரிப்பூட்டும்"
+  },
+  {
+    "question_en": "Pick the correct conjunction: 'I will go ___ it rains.'",
+    "question_ta": "சரியான இணைப்பு: 'I will go ___ it rains.'",
+    "options_en": [
+      "if",
+      "because",
+      "unless",
+      "so"
+    ],
+    "options_ta": [
+      "என்று",
+      "ஏனெனில்",
+      "முதல்",
+      "ஆகவே"
+    ],
+    "answer_en": "unless",
+    "answer_ta": "unless"
+  },
+  {
+    "question_en": "In the story, why did Don Quixote choose Sancho Panza as his squire?",
+    "question_ta": "கதையில், டான் க்விக்க்ஸோட் தனது ஸ்குயர் ஆக சாஞ்சோ பான்சாவை ஏன் தேர்ந்தெடுக்கிறார்?",
+    "options_en": [
+      "To punish him",
+      "Random choice",
+      "Because he is rich",
+      "Trust and companionship"
+    ],
+    "options_ta": [
+      "அவரை தண்டிக்க",
+      "சீரற்ற தேர்வு",
+      "அவர் செல்வந்தர் என்பதால்",
+      "நம்பிக்கை மற்றும் தோழமை"
+    ],
+    "answer_en": "Trust and companionship",
+    "answer_ta": "நம்பிக்கை மற்றும் தோழமை"
+  },
+  {
+    "question_en": "Choose correct question tag: 'They are coming, ___?'",
+    "question_ta": "சரியான கேள்வி குறிக்கோள்: 'They are coming, ___?'",
+    "options_en": [
+      "won't they",
+      "aren't they",
+      "isn't it",
+      "don't they"
+    ],
+    "options_ta": [
+      "வரமாட்டார்கள்",
+      "அவர்கள் வருகிறார்களா",
+      "இல்லை",
+      "அவர்கள் செய்வதா"
+    ],
+    "answer_en": "aren't they",
+    "answer_ta": "aren't they"
+  },
+  {
+    "question_en": "Select correct form: 'If I ___ you, I would apologize.'",
+    "question_ta": "சரியான வடிவம்: 'If I ___ you, I would apologize.'",
+    "options_en": [
+      "am",
+      "be",
+      "were",
+      "was"
+    ],
+    "options_ta": [
+      "ஆம்",
+      "இருங்கள்",
+      "இருந்தால்",
+      "இருந்தது"
+    ],
+    "answer_en": "were",
+    "answer_ta": "were"
+  },
+  {
+    "question_en": "Choose correct plural: 'analysis'",
+    "question_ta": "இறுங்கியது 'analysis' என்பதற்கான பன்மை?",
+    "options_en": [
+      "analysises",
+      "analysiss",
+      "analysi",
+      "analyses"
+    ],
+    "options_ta": [
+      "analysises",
+      "analysiss",
+      "analysi",
+      "analyses"
+    ],
+    "answer_en": "analyses",
+    "answer_ta": "analyses"
+  },
+  {
+    "question_en": "Choose the correct reported speech: 'He said, \"I am ready.\"'",
+    "question_ta": "உரையாடலைப் பதிவுசெய்ய: 'He said, \"I am ready.\"'",
+    "options_en": [
+      "He said that I am ready.",
+      "He said that he is ready.",
+      "He said that he had be ready.",
+      "He said that he was ready."
+    ],
+    "options_ta": [
+      "பிழை",
+      "பிழை",
+      "பிழை",
+      "அவர் சொன்னார் அவர் தயார் என்று"
+    ],
+    "answer_en": "He said that he was ready.",
+    "answer_ta": "He said that he was ready."
+  },
+  {
+    "question_en": "Choose correct plural: 'analysis'",
+    "question_ta": "இறுங்கியது 'analysis' என்பதற்கான பன்மை?",
+    "options_en": [
+      "analysises",
+      "analysiss",
+      "analyses",
+      "analysi"
+    ],
+    "options_ta": [
+      "analysises",
+      "analysiss",
+      "analyses",
+      "analysi"
+    ],
+    "answer_en": "analyses",
+    "answer_ta": "analyses"
+  },
+  {
+    "question_en": "In the story, why did Don Quixote choose Sancho Panza as his squire?",
+    "question_ta": "கதையில், டான் க்விக்க்ஸோட் தனது ஸ்குயர் ஆக சாஞ்சோ பான்சாவை ஏன் தேர்ந்தெடுக்கிறார்?",
+    "options_en": [
+      "Random choice",
+      "Because he is rich",
+      "Trust and companionship",
+      "To punish him"
+    ],
+    "options_ta": [
+      "சீரற்ற தேர்வு",
+      "அவர் செல்வந்தர் என்பதால்",
+      "நம்பிக்கை மற்றும் தோழமை",
+      "அவரை தண்டிக்க"
+    ],
+    "answer_en": "Trust and companionship",
+    "answer_ta": "நம்பிக்கை மற்றும் தோழமை"
+  },
+  {
+    "question_en": "Choose correct plural: 'analysis'",
+    "question_ta": "இறுங்கியது 'analysis' என்பதற்கான பன்மை?",
+    "options_en": [
+      "analysises",
+      "analysi",
+      "analysiss",
+      "analyses"
+    ],
+    "options_ta": [
+      "analysises",
+      "analysi",
+      "analysiss",
+      "analyses"
+    ],
+    "answer_en": "analyses",
+    "answer_ta": "analyses"
+  },
+  {
+    "question_en": "Select correct form: 'If I ___ you, I would apologize.'",
+    "question_ta": "சரியான வடிவம்: 'If I ___ you, I would apologize.'",
+    "options_en": [
+      "were",
+      "am",
+      "be",
+      "was"
+    ],
+    "options_ta": [
+      "இருந்தால்",
+      "ஆம்",
+      "இருங்கள்",
+      "இருந்தது"
+    ],
+    "answer_en": "were",
+    "answer_ta": "were"
+  },
+  {
+    "question_en": "Select correct tense: 'By 2025, she ___ her degree.'",
+    "question_ta": "சரியான காலம் தேர்வு: 'By 2025, she ___ her degree.'",
+    "options_en": [
+      "will have completed",
+      "completed",
+      "will complete",
+      "has completed"
+    ],
+    "options_ta": [
+      "முடித்திருப்பாள்",
+      "முடித்தாள்",
+      "முடிப்பாள்",
+      "முடித்துவிட்டாள்"
+    ],
+    "answer_en": "will have completed",
+    "answer_ta": "will have completed"
+  },
+  {
+    "question_en": "Identify the passive form: 'The police arrested the thief.'",
+    "question_ta": "இதன் passive வடிவம் அடையாளம்: 'The police arrested the thief.'",
+    "options_en": [
+      "The thief was arrested by the police.",
+      "Arrested the thief by police.",
+      "The police were arrested by the thief.",
+      "The thief arrested the police."
+    ],
+    "options_ta": [
+      "காவல் அதிகாரிகள் திருடன் கைது செய்தனர் என்று மாற்று",
+      "பிழை",
+      "பிழை",
+      "பிழை"
+    ],
+    "answer_en": "The thief was arrested by the police.",
+    "answer_ta": "The thief was arrested by the police."
+  },
+  {
+    "question_en": "Choose correct plural: 'analysis'",
+    "question_ta": "இறுங்கியது 'analysis' என்பதற்கான பன்மை?",
+    "options_en": [
+      "analysises",
+      "analyses",
+      "analysi",
+      "analysiss"
+    ],
+    "options_ta": [
+      "analysises",
+      "analyses",
+      "analysi",
+      "analysiss"
+    ],
+    "answer_en": "analyses",
+    "answer_ta": "analyses"
+  },
+  {
+    "question_en": "Choose the correct reported speech: 'He said, \"I am ready.\"'",
+    "question_ta": "உரையாடலைப் பதிவுசெய்ய: 'He said, \"I am ready.\"'",
+    "options_en": [
+      "He said that I am ready.",
+      "He said that he had be ready.",
+      "He said that he is ready.",
+      "He said that he was ready."
+    ],
+    "options_ta": [
+      "பிழை",
+      "பிழை",
+      "பிழை",
+      "அவர் சொன்னார் அவர் தயார் என்று"
+    ],
+    "answer_en": "He said that he was ready.",
+    "answer_ta": "He said that he was ready."
+  },
+  {
+    "question_en": "Choose correct plural: 'analysis'",
+    "question_ta": "இறுங்கியது 'analysis' என்பதற்கான பன்மை?",
+    "options_en": [
+      "analysiss",
+      "analyses",
+      "analysi",
+      "analysises"
+    ],
+    "options_ta": [
+      "analysiss",
+      "analyses",
+      "analysi",
+      "analysises"
+    ],
+    "answer_en": "analyses",
+    "answer_ta": "analyses"
+  },
+  {
+    "question_en": "Which word best replaces 'hilarious'?",
+    "question_ta": "'hilarious' என்பதற்கான சிறந்த மாற்று சொல் எது?",
+    "options_en": [
+      "boring",
+      "funny",
+      "sad",
+      "angry"
+    ],
+    "options_ta": [
+      "விறுவதில்லாத",
+      "சிரிக்கத்தக்க",
+      "துன்பமான",
+      "கோபமான"
+    ],
+    "answer_en": "funny",
+    "answer_ta": "சிரிப்பூட்டும்"
+  },
+  {
+    "question_en": "Pick the correct conjunction: 'I will go ___ it rains.'",
+    "question_ta": "சரியான இணைப்பு: 'I will go ___ it rains.'",
+    "options_en": [
+      "because",
+      "if",
+      "so",
+      "unless"
+    ],
+    "options_ta": [
+      "ஏனெனில்",
+      "என்று",
+      "ஆகவே",
+      "முதல்"
+    ],
+    "answer_en": "unless",
+    "answer_ta": "unless"
+  },
+  {
+    "question_en": "Choose the correct reported speech: 'He said, \"I am ready.\"'",
+    "question_ta": "உரையாடலைப் பதிவுசெய்ய: 'He said, \"I am ready.\"'",
+    "options_en": [
+      "He said that he had be ready.",
+      "He said that he is ready.",
+      "He said that I am ready.",
+      "He said that he was ready."
+    ],
+    "options_ta": [
+      "பிழை",
+      "பிழை",
+      "பிழை",
+      "அவர் சொன்னார் அவர் தயார் என்று"
+    ],
+    "answer_en": "He said that he was ready.",
+    "answer_ta": "He said that he was ready."
+  },
+  {
+    "question_en": "Choose correct plural: 'analysis'",
+    "question_ta": "இறுங்கியது 'analysis' என்பதற்கான பன்மை?",
+    "options_en": [
+      "analysi",
+      "analyses",
+      "analysiss",
+      "analysises"
+    ],
+    "options_ta": [
+      "analysi",
+      "analyses",
+      "analysiss",
+      "analysises"
+    ],
+    "answer_en": "analyses",
+    "answer_ta": "analyses"
+  },
+  {
+    "question_en": "In the story, why did Don Quixote choose Sancho Panza as his squire?",
+    "question_ta": "கதையில், டான் க்விக்க்ஸோட் தனது ஸ்குயர் ஆக சாஞ்சோ பான்சாவை ஏன் தேர்ந்தெடுக்கிறார்?",
+    "options_en": [
+      "Random choice",
+      "Trust and companionship",
+      "Because he is rich",
+      "To punish him"
+    ],
+    "options_ta": [
+      "சீரற்ற தேர்வு",
+      "நம்பிக்கை மற்றும் தோழமை",
+      "அவர் செல்வந்தர் என்பதால்",
+      "அவரை தண்டிக்க"
+    ],
+    "answer_en": "Trust and companionship",
+    "answer_ta": "நம்பிக்கை மற்றும் தோழமை"
+  },
+  {
+    "question_en": "Choose correct question tag: 'They are coming, ___?'",
+    "question_ta": "சரியான கேள்வி குறிக்கோள்: 'They are coming, ___?'",
+    "options_en": [
+      "aren't they",
+      "don't they",
+      "won't they",
+      "isn't it"
+    ],
+    "options_ta": [
+      "அவர்கள் வருகிறார்களா",
+      "அவர்கள் செய்வதா",
+      "வரமாட்டார்கள்",
+      "இல்லை"
+    ],
+    "answer_en": "aren't they",
+    "answer_ta": "aren't they"
+  },
+  {
+    "question_en": "Which word best replaces 'hilarious'?",
+    "question_ta": "'hilarious' என்பதற்கான சிறந்த மாற்று சொல் எது?",
+    "options_en": [
+      "boring",
+      "sad",
+      "funny",
+      "angry"
+    ],
+    "options_ta": [
+      "விறுவதில்லாத",
+      "துன்பமான",
+      "சிரிக்கத்தக்க",
+      "கோபமான"
+    ],
+    "answer_en": "funny",
+    "answer_ta": "சிரிப்பூட்டும்"
+  },
+  {
+    "question_en": "Choose correct plural: 'analysis'",
+    "question_ta": "இறுங்கியது 'analysis' என்பதற்கான பன்மை?",
+    "options_en": [
+      "analysiss",
+      "analysi",
+      "analysises",
+      "analyses"
+    ],
+    "options_ta": [
+      "analysiss",
+      "analysi",
+      "analysises",
+      "analyses"
+    ],
+    "answer_en": "analyses",
+    "answer_ta": "analyses"
+  },
+  {
+    "question_en": "Identify the passive form: 'The police arrested the thief.'",
+    "question_ta": "இதன் passive வடிவம் அடையாளம்: 'The police arrested the thief.'",
+    "options_en": [
+      "Arrested the thief by police.",
+      "The thief was arrested by the police.",
+      "The police were arrested by the thief.",
+      "The thief arrested the police."
+    ],
+    "options_ta": [
+      "பிழை",
+      "காவல் அதிகாரிகள் திருடன் கைது செய்தனர் என்று மாற்று",
+      "பிழை",
+      "பிழை"
+    ],
+    "answer_en": "The thief was arrested by the police.",
+    "answer_ta": "The thief was arrested by the police."
+  },
+  {
+    "question_en": "Pick the correct conjunction: 'I will go ___ it rains.'",
+    "question_ta": "சரியான இணைப்பு: 'I will go ___ it rains.'",
+    "options_en": [
+      "unless",
+      "if",
+      "so",
+      "because"
+    ],
+    "options_ta": [
+      "முதல்",
+      "என்று",
+      "ஆகவே",
+      "ஏனெனில்"
+    ],
+    "answer_en": "unless",
+    "answer_ta": "unless"
+  },
+  {
+    "question_en": "Identify the passive form: 'The police arrested the thief.'",
+    "question_ta": "இதன் passive வடிவம் அடையாளம்: 'The police arrested the thief.'",
+    "options_en": [
+      "The police were arrested by the thief.",
+      "The thief was arrested by the police.",
+      "The thief arrested the police.",
+      "Arrested the thief by police."
+    ],
+    "options_ta": [
+      "பிழை",
+      "காவல் அதிகாரிகள் திருடன் கைது செய்தனர் என்று மாற்று",
+      "பிழை",
+      "பிழை"
+    ],
+    "answer_en": "The thief was arrested by the police.",
+    "answer_ta": "The thief was arrested by the police."
+  },
+  {
+    "question_en": "Choose correct question tag: 'They are coming, ___?'",
+    "question_ta": "சரியான கேள்வி குறிக்கோள்: 'They are coming, ___?'",
+    "options_en": [
+      "isn't it",
+      "aren't they",
+      "don't they",
+      "won't they"
+    ],
+    "options_ta": [
+      "இல்லை",
+      "அவர்கள் வருகிறார்களா",
+      "அவர்கள் செய்வதா",
+      "வரமாட்டார்கள்"
+    ],
+    "answer_en": "aren't they",
+    "answer_ta": "aren't they"
+  },
+  {
+    "question_en": "Select correct form: 'If I ___ you, I would apologize.'",
+    "question_ta": "சரியான வடிவம்: 'If I ___ you, I would apologize.'",
+    "options_en": [
+      "be",
+      "was",
+      "were",
+      "am"
+    ],
+    "options_ta": [
+      "இருங்கள்",
+      "இருந்தது",
+      "இருந்தால்",
+      "ஆம்"
+    ],
+    "answer_en": "were",
+    "answer_ta": "were"
+  },
+  {
+    "question_en": "Pick the correct conjunction: 'I will go ___ it rains.'",
+    "question_ta": "சரியான இணைப்பு: 'I will go ___ it rains.'",
+    "options_en": [
+      "because",
+      "unless",
+      "if",
+      "so"
+    ],
+    "options_ta": [
+      "ஏனெனில்",
+      "முதல்",
+      "என்று",
+      "ஆகவே"
+    ],
+    "answer_en": "unless",
+    "answer_ta": "unless"
+  },
+  {
+    "question_en": "Select correct form: 'If I ___ you, I would apologize.'",
+    "question_ta": "சரியான வடிவம்: 'If I ___ you, I would apologize.'",
+    "options_en": [
+      "were",
+      "am",
+      "was",
+      "be"
+    ],
+    "options_ta": [
+      "இருந்தால்",
+      "ஆம்",
+      "இருந்தது",
+      "இருங்கள்"
+    ],
+    "answer_en": "were",
+    "answer_ta": "were"
+  },
+  {
+    "question_en": "Select correct tense: 'By 2025, she ___ her degree.'",
+    "question_ta": "சரியான காலம் தேர்வு: 'By 2025, she ___ her degree.'",
+    "options_en": [
+      "will have completed",
+      "has completed",
+      "will complete",
+      "completed"
+    ],
+    "options_ta": [
+      "முடித்திருப்பாள்",
+      "முடித்துவிட்டாள்",
+      "முடிப்பாள்",
+      "முடித்தாள்"
+    ],
+    "answer_en": "will have completed",
+    "answer_ta": "will have completed"
+  },
+  {
+    "question_en": "Which word best replaces 'hilarious'?",
+    "question_ta": "'hilarious' என்பதற்கான சிறந்த மாற்று சொல் எது?",
+    "options_en": [
+      "funny",
+      "boring",
+      "angry",
+      "sad"
+    ],
+    "options_ta": [
+      "சிரிக்கத்தக்க",
+      "விறுவதில்லாத",
+      "கோபமான",
+      "துன்பமான"
+    ],
+    "answer_en": "funny",
+    "answer_ta": "சிரிப்பூட்டும்"
+  },
+  {
+    "question_en": "Choose correct question tag: 'They are coming, ___?'",
+    "question_ta": "சரியான கேள்வி குறிக்கோள்: 'They are coming, ___?'",
+    "options_en": [
+      "won't they",
+      "don't they",
+      "isn't it",
+      "aren't they"
+    ],
+    "options_ta": [
+      "வரமாட்டார்கள்",
+      "அவர்கள் செய்வதா",
+      "இல்லை",
+      "அவர்கள் வருகிறார்களா"
+    ],
+    "answer_en": "aren't they",
+    "answer_ta": "aren't they"
+  },
+  {
+    "question_en": "Which word best replaces 'hilarious'?",
+    "question_ta": "'hilarious' என்பதற்கான சிறந்த மாற்று சொல் எது?",
+    "options_en": [
+      "sad",
+      "angry",
+      "funny",
+      "boring"
+    ],
+    "options_ta": [
+      "துன்பமான",
+      "கோபமான",
+      "சிரிக்கத்தக்க",
+      "விறுவதில்லாத"
+    ],
+    "answer_en": "funny",
+    "answer_ta": "சிரிப்பூட்டும்"
+  },
+  {
+    "question_en": "Choose correct question tag: 'They are coming, ___?'",
+    "question_ta": "சரியான கேள்வி குறிக்கோள்: 'They are coming, ___?'",
+    "options_en": [
+      "aren't they",
+      "don't they",
+      "won't they",
+      "isn't it"
+    ],
+    "options_ta": [
+      "அவர்கள் வருகிறார்களா",
+      "அவர்கள் செய்வதா",
+      "வரமாட்டார்கள்",
+      "இல்லை"
+    ],
+    "answer_en": "aren't they",
+    "answer_ta": "aren't they"
+  },
+  {
+    "question_en": "Identify the passive form: 'The police arrested the thief.'",
+    "question_ta": "இதன் passive வடிவம் அடையாளம்: 'The police arrested the thief.'",
+    "options_en": [
+      "The police were arrested by the thief.",
+      "Arrested the thief by police.",
+      "The thief was arrested by the police.",
+      "The thief arrested the police."
+    ],
+    "options_ta": [
+      "பிழை",
+      "பிழை",
+      "காவல் அதிகாரிகள் திருடன் கைது செய்தனர் என்று மாற்று",
+      "பிழை"
+    ],
+    "answer_en": "The thief was arrested by the police.",
+    "answer_ta": "The thief was arrested by the police."
+  },
+  {
+    "question_en": "Pick the correct conjunction: 'I will go ___ it rains.'",
+    "question_ta": "சரியான இணைப்பு: 'I will go ___ it rains.'",
+    "options_en": [
+      "because",
+      "unless",
+      "if",
+      "so"
+    ],
+    "options_ta": [
+      "ஏனெனில்",
+      "முதல்",
+      "என்று",
+      "ஆகவே"
+    ],
+    "answer_en": "unless",
+    "answer_ta": "unless"
+  }
+]

@@ -1,0 +1,355 @@
+[
+  {
+    "question_en": "Who is the author of 'The Jungle Book'?",
+    "question_ta": "‘ஜங்கிள் புக்’ நூலின் ஆசிரியர் யார்?",
+    "options_en": ["Rudyard Kipling", "William Blake", "Charles Dickens", "Mark Twain"],
+    "options_ta": ["ருட்யார்டு கிப்லிங்", "வில்லியம் பிளேக்", "சார்லஸ் டிக்கன்ஸ்", "மார்க் ட்வைன்"],
+    "answer_en": "Rudyard Kipling",
+    "answer_ta": "ருட்யார்டு கிப்லிங்"
+  },
+  {
+    "question_en": "Which animal is called the 'King of the Jungle'?",
+    "question_ta": "காட்டின் அரசன் என்று அழைக்கப்படும் விலங்கு எது?",
+    "options_en": ["Tiger", "Elephant", "Lion", "Bear"],
+    "options_ta": ["புலி", "யானை", "சிங்கம்", "கரடி"],
+    "answer_en": "Lion",
+    "answer_ta": "சிங்கம்"
+  },
+  {
+    "question_en": "Which season comes after summer?",
+    "question_ta": "வெயில்காலத்திற்கு பிறகு வரும் பருவம் எது?",
+    "options_en": ["Winter", "Monsoon", "Spring", "Autumn"],
+    "options_ta": ["பனி காலம்", "மழைக்காலம்", "வசந்தம்", "இலையுதிர்"],
+    "answer_en": "Monsoon",
+    "answer_ta": "மழைக்காலம்"
+  },
+  {
+    "question_en": "What is the national bird of India?",
+    "question_ta": "இந்தியாவின் தேசியப் பறவை எது?",
+    "options_en": ["Sparrow", "Crow", "Peacock", "Parrot"],
+    "options_ta": ["சிட்டுக்குருவி", "காகம்", "மயில்", "கிளி"],
+    "answer_en": "Peacock",
+    "answer_ta": "மயில்"
+  },
+  {
+    "question_en": "What is the plural of 'child'?",
+    "question_ta": "‘Child’ என்ற சொல்லின் பன்மை என்ன?",
+    "options_en": ["Childs", "Children", "Childes", "Childer"],
+    "options_ta": ["சைல்ட்ஸ்", "சில்ட்ரன்", "சைல்டெஸ்", "சில்டர்"],
+    "answer_en": "Children",
+    "answer_ta": "சில்ட்ரன்"
+  },
+  {
+    "question_en": "Which sense organ helps us to see?",
+    "question_ta": "நாம் காண உதவும் உணர்வுறுப்பு எது?",
+    "options_en": ["Nose", "Eyes", "Ears", "Skin"],
+    "options_ta": ["மூக்கு", "கண்கள்", "காதுகள்", "தோல்"],
+    "answer_en": "Eyes",
+    "answer_ta": "கண்கள்"
+  },
+  {
+    "question_en": "Which planet is known as the Red Planet?",
+    "question_ta": "‘சிவப்பு கோள்’ என்று அழைக்கப்படும் கிரகம் எது?",
+    "options_en": ["Venus", "Mars", "Jupiter", "Mercury"],
+    "options_ta": ["சுக்கிரன்", "செவ்வாய்", "வியாழன்", "புதன்"],
+    "answer_en": "Mars",
+    "answer_ta": "செவ்வாய்"
+  },
+  {
+    "question_en": "Which is the fastest land animal?",
+    "question_ta": "பூமியில் வேகமாக ஓடும் விலங்கு எது?",
+    "options_en": ["Horse", "Cheetah", "Leopard", "Tiger"],
+    "options_ta": ["குதிரை", "சீட்டா", "சிறுத்தை", "புலி"],
+    "answer_en": "Cheetah",
+    "answer_ta": "சீட்டா"
+  },
+  {
+    "question_en": "What is the opposite of 'hot'?",
+    "question_ta": "‘Hot’ என்பதற்கான எதிர்சொல் எது?",
+    "options_en": ["Warm", "Cool", "Cold", "Hotter"],
+    "options_ta": ["சூடு", "குளிர்ச்சி", "குளிர்", "மேலும் சூடு"],
+    "answer_en": "Cold",
+    "answer_ta": "குளிர்"
+  },
+  {
+    "question_en": "Which gas do humans inhale to live?",
+    "question_ta": "மனிதர்கள் வாழ சுவாசிக்கும் வாயு எது?",
+    "options_en": ["Carbon dioxide", "Oxygen", "Nitrogen", "Hydrogen"],
+    "options_ta": ["கார்பன் டை ஆக்சைடு", "ஆக்சிஜன்", "நைட்ரஜன்", "ஹைட்ரஜன்"],
+    "answer_en": "Oxygen",
+    "answer_ta": "ஆக்சிஜன்"
+  },
+  {
+    "question_en": "What is the largest mammal in the world?",
+    "question_ta": "உலகின் மிகப் பெரிய பாலூட்டி எது?",
+    "options_en": ["Elephant", "Blue Whale", "Giraffe", "Rhino"],
+    "options_ta": ["யானை", "நீலத் திமிங்கலம்", "ஒட்டகச்சிவிங்கி", "காண்டாமிருகம்"],
+    "answer_en": "Blue Whale",
+    "answer_ta": "நீலத் திமிங்கலம்"
+  },
+  {
+    "question_en": "What is the national flower of India?",
+    "question_ta": "இந்தியாவின் தேசிய மலர் எது?",
+    "options_en": ["Rose", "Sunflower", "Lotus", "Lily"],
+    "options_ta": ["ரோஜா", "சூரியகாந்தி", "தாமரை", "அல்லி"],
+    "answer_en": "Lotus",
+    "answer_ta": "தாமரை"
+  },
+  {
+    "question_en": "Which day comes after Friday?",
+    "question_ta": "வெள்ளிக்கிழமைக்கு அடுத்த நாள் எது?",
+    "options_en": ["Sunday", "Saturday", "Monday", "Thursday"],
+    "options_ta": ["ஞாயிறு", "சனி", "திங்கள்", "வியாழன்"],
+    "answer_en": "Saturday",
+    "answer_ta": "சனி"
+  },
+  {
+    "question_en": "Which festival is known as the festival of lights?",
+    "question_ta": "‘Festival of Lights’ எனப்படும் பண்டிகை எது?",
+    "options_en": ["Holi", "Diwali", "Pongal", "Christmas"],
+    "options_ta": ["ஹோலி", "தீபாவளி", "பொங்கல்", "கிறிஸ்துமஸ்"],
+    "answer_en": "Diwali",
+    "answer_ta": "தீபாவளி"
+  },
+  {
+    "question_en": "What is the capital of India?",
+    "question_ta": "இந்தியாவின் தலைநகரம் எது?",
+    "options_en": ["Mumbai", "Delhi", "Kolkata", "Chennai"],
+    "options_ta": ["மும்பை", "தில்லி", "கொல்கத்தா", "சென்னை"],
+    "answer_en": "Delhi",
+    "answer_ta": "தில்லி"
+  },
+  {
+    "question_en": "How many colors are there in a rainbow?",
+    "question_ta": "வானவில் எத்தனை நிறங்களைக் கொண்டுள்ளது?",
+    "options_en": ["5", "6", "7", "8"],
+    "options_ta": ["ஐந்து", "ஆறு", "ஏழு", "எட்டு"],
+    "answer_en": "7",
+    "answer_ta": "ஏழு"
+  },
+  {
+    "question_en": "Which shape has three sides?",
+    "question_ta": "மூன்று பக்கங்களைக் கொண்ட உருவம் எது?",
+    "options_en": ["Square", "Triangle", "Circle", "Rectangle"],
+    "options_ta": ["சதுரம்", "முக்கோணம்", "வட்டம்", "நீளச்சதுரம்"],
+    "answer_en": "Triangle",
+    "answer_ta": "முக்கோணம்"
+  },
+  {
+    "question_en": "What is the currency of India?",
+    "question_ta": "இந்தியாவின் நாணயம் எது?",
+    "options_en": ["Dollar", "Rupee", "Euro", "Pound"],
+    "options_ta": ["டாலர்", "ரூபாய்", "யூரோ", "பவுண்ட்"],
+    "answer_en": "Rupee",
+    "answer_ta": "ரூபாய்"
+  },
+  {
+    "question_en": "Which organ pumps blood in the body?",
+    "question_ta": "உடலில் இரத்தத்தைச் சுழற்றும் உறுப்பு எது?",
+    "options_en": ["Brain", "Lungs", "Heart", "Liver"],
+    "options_ta": ["மூளை", "நுரையீரல்", "இதயம்", "கல்லீரல்"],
+    "answer_en": "Heart",
+    "answer_ta": "இதயம்"
+  },
+  {
+    "question_en": "Which festival is celebrated on December 25?",
+    "question_ta": "டிசம்பர் 25 அன்று கொண்டாடப்படும் பண்டிகை எது?",
+    "options_en": ["Christmas", "Pongal", "Eid", "New Year"],
+    "options_ta": ["கிறிஸ்துமஸ்", "பொங்கல்", "ஈதுல்", "புத்தாண்டு"],
+    "answer_en": "Christmas",
+    "answer_ta": "கிறிஸ்துமஸ்"
+  },
+  {
+    "question_en": "Which is the smallest planet in the Solar System?",
+    "question_ta": "சூரியக் குடும்பத்தில் மிகச் சிறிய கோள் எது?",
+    "options_en": ["Mars", "Mercury", "Venus", "Earth"],
+    "options_ta": ["செவ்வாய்", "புதன்", "சுக்கிரன்", "பூமி"],
+    "answer_en": "Mercury",
+    "answer_ta": "புதன்"
+  },
+  {
+    "question_en": "Which is the longest river in India?",
+    "question_ta": "இந்தியாவின் நீளமான நதி எது?",
+    "options_en": ["Yamuna", "Ganga", "Godavari", "Narmada"],
+    "options_ta": ["யமுனா", "கங்கை", "கோதாவரி", "நர்மதா"],
+    "answer_en": "Ganga",
+    "answer_ta": "கங்கை"
+  },
+  {
+    "question_en": "Which is the tallest mountain in the world?",
+    "question_ta": "உலகின் உயரமான மலை எது?",
+    "options_en": ["Mount Everest", "K2", "Kangchenjunga", "Nanda Devi"],
+    "options_ta": ["எவரெஸ்ட் மலை", "கே2", "காஞ்செஞ்சுங்கா", "நந்தாதேவி"],
+    "answer_en": "Mount Everest",
+    "answer_ta": "எவரெஸ்ட் மலை"
+  },
+  {
+    "question_en": "Which is the national animal of India?",
+    "question_ta": "இந்தியாவின் தேசிய விலங்கு எது?",
+    "options_en": ["Lion", "Tiger", "Elephant", "Leopard"],
+    "options_ta": ["சிங்கம்", "புலி", "யானை", "சிறுத்தை"],
+    "answer_en": "Tiger",
+    "answer_ta": "புலி"
+  },
+  {
+    "question_en": "Which is the fastest bird?",
+    "question_ta": "வேகமாக பறக்கும் பறவை எது?",
+    "options_en": ["Sparrow", "Falcon", "Parrot", "Crow"],
+    "options_ta": ["சிட்டுக்குருவி", "பெரிகிரைன் ஃபால்கன்", "கிளி", "காகம்"],
+    "answer_en": "Falcon",
+    "answer_ta": "பெரிகிரைன் ஃபால்கன்"
+  },
+  {
+    "question_en": "Which is the largest continent?",
+    "question_ta": "உலகின் மிகப் பெரிய கண்டம் எது?",
+    "options_en": ["Africa", "Asia", "Europe", "Australia"],
+    "options_ta": ["ஆப்ரிக்கா", "ஆசியா", "ஐரோப்பா", "ஆஸ்திரேலியா"],
+    "answer_en": "Asia",
+    "answer_ta": "ஆசியா"
+  },
+  {
+    "question_en": "Which organ helps us to breathe?",
+    "question_ta": "நாம் சுவாசிக்க உதவும் உறுப்பு எது?",
+    "options_en": ["Heart", "Lungs", "Brain", "Kidney"],
+    "options_ta": ["இதயம்", "நுரையீரல்", "மூளை", "சிறுநீரகம்"],
+    "answer_en": "Lungs",
+    "answer_ta": "நுரையீரல்"
+  },
+  {
+    "question_en": "Which is the largest ocean in the world?",
+    "question_ta": "உலகின் மிகப் பெரிய பெருங்கடல் எது?",
+    "options_en": ["Atlantic Ocean", "Pacific Ocean", "Indian Ocean", "Arctic Ocean"],
+    "options_ta": ["அட்லாண்டிக்", "பசிபிக்", "இந்திய", "ஆர்க்டிக்"],
+    "answer_en": "Pacific Ocean",
+    "answer_ta": "பசிபிக்"
+  },
+  {
+    "question_en": "Which shape has four equal sides?",
+    "question_ta": "நான்கு சமமான பக்கங்களைக் கொண்ட உருவம் எது?",
+    "options_en": ["Square", "Rectangle", "Triangle", "Circle"],
+    "options_ta": ["சதுரம்", "நீளச்சதுரம்", "முக்கோணம்", "வட்டம்"],
+    "answer_en": "Square",
+    "answer_ta": "சதுரம்"
+  },
+  {
+    "question_en": "Which is the smallest state in India?",
+    "question_ta": "இந்தியாவின் மிகச் சிறிய மாநிலம் எது?",
+    "options_en": ["Goa", "Sikkim", "Tripura", "Nagaland"],
+    "options_ta": ["கோவா", "சிக்கிம்", "திரிபுரா", "நாகாலாந்து"],
+    "answer_en": "Goa",
+    "answer_ta": "கோவா"
+  },
+  {
+    "question_en": "Which festival is called the harvest festival of Tamil Nadu?",
+    "question_ta": "தமிழகத்தின் அறுவடைத் திருநாள் என்று அழைக்கப்படும் பண்டிகை எது?",
+    "options_en": ["Pongal", "Diwali", "Christmas", "Holi"],
+    "options_ta": ["பொங்கல்", "தீபாவளி", "கிறிஸ்துமஸ்", "ஹோலி"],
+    "answer_en": "Pongal",
+    "answer_ta": "பொங்கல்"
+  },
+  {
+    "question_en": "Which is the national fruit of India?",
+    "question_ta": "இந்தியாவின் தேசிய பழம் எது?",
+    "options_en": ["Banana", "Mango", "Apple", "Orange"],
+    "options_ta": ["வாழைப்பழம்", "மாம்பழம்", "ஆப்பிள்", "ஆரஞ்சு"],
+    "answer_en": "Mango",
+    "answer_ta": "மாம்பழம்"
+  },
+  {
+    "question_en": "Which bird can mimic human speech?",
+    "question_ta": "மனித குரலைப் பின்பற்றும் பறவை எது?",
+    "options_en": ["Crow", "Parrot", "Eagle", "Sparrow"],
+    "options_ta": ["காகம்", "கிளி", "கழுகு", "சிட்டுக்குருவி"],
+    "answer_en": "Parrot",
+    "answer_ta": "கிளி"
+  },
+  {
+    "question_en": "What is the opposite of 'day'?",
+    "question_ta": "‘Day’ என்பதற்கான எதிர்சொல் எது?",
+    "options_en": ["Morning", "Evening", "Night", "Dawn"],
+    "options_ta": ["காலை", "மாலை", "இரவு", "விடியல்"],
+    "answer_en": "Night",
+    "answer_ta": "இரவு"
+  },
+  {
+    "question_en": "Which animal gives us milk?",
+    "question_ta": "எந்த விலங்கு பாலை அளிக்கிறது?",
+    "options_en": ["Cow", "Horse", "Sheep", "Goat"],
+    "options_ta": ["மாடு", "குதிரை", "செம்மறியாடு", "ஆடு"],
+    "answer_en": "Cow",
+    "answer_ta": "மாடு"
+  },
+  {
+    "question_en": "Which is the national tree of India?",
+    "question_ta": "இந்தியாவின் தேசிய மரம் எது?",
+    "options_en": ["Neem", "Banyan", "Mango", "Peepal"],
+    "options_ta": ["வேம்பு", "ஆலமரம்", "மாமரம்", "அரசமரம்"],
+    "answer_en": "Banyan",
+    "answer_ta": "ஆலமரம்"
+  },
+  {
+    "question_en": "Which is the nearest star to Earth?",
+    "question_ta": "பூமிக்கு அருகிலுள்ள நட்சத்திரம் எது?",
+    "options_en": ["Sun", "Moon", "Polestar", "Venus"],
+    "options_ta": ["சூரியன்", "சந்திரன்", "துருவநட்சத்திரம்", "சுக்கிரன்"],
+    "answer_en": "Sun",
+    "answer_ta": "சூரியன்"
+  },
+  {
+    "question_en": "Which organ helps us to smell?",
+    "question_ta": "நம் உடலில் மணத்தை உணர உதவும் உறுப்பு எது?",
+    "options_en": ["Nose", "Ear", "Skin", "Eyes"],
+    "options_ta": ["மூக்கு", "காது", "தோல்", "கண்"],
+    "answer_en": "Nose",
+    "answer_ta": "மூக்கு"
+  },
+  {
+    "question_en": "Which festival marks the birth of Jesus Christ?",
+    "question_ta": "ஏசு கிறிஸ்துவின் பிறப்பைக் குறிக்கும் பண்டிகை எது?",
+    "options_en": ["Diwali", "Christmas", "Pongal", "Eid"],
+    "options_ta": ["தீபாவளி", "கிறிஸ்துமஸ்", "பொங்கல்", "ஈது"],
+    "answer_en": "Christmas",
+    "answer_ta": "கிறிஸ்துமஸ்"
+  },
+  {
+    "question_en": "Which bird is the national bird of the USA?",
+    "question_ta": "அமெரிக்காவின் தேசிய பறவை எது?",
+    "options_en": ["Bald Eagle", "Crow", "Parrot", "Peacock"],
+    "options_ta": ["பால்ட் ஈகிள்", "காகம்", "கிளி", "மயில்"],
+    "answer_en": "Bald Eagle",
+    "answer_ta": "பால்ட் ஈகிள்"
+  },
+  {
+    "question_en": "Which is the coldest place on Earth?",
+    "question_ta": "பூமியின் மிகக் குளிரான இடம் எது?",
+    "options_en": ["Greenland", "Siberia", "Antarctica", "Arctic"],
+    "options_ta": ["கிரீன்லாந்து", "சைபீரியா", "அண்டார்டிகா", "ஆர்க்டிக்"],
+    "answer_en": "Antarctica",
+    "answer_ta": "அண்டார்டிகா"
+  },
+  {
+    "question_en": "Which gas do plants release during photosynthesis?",
+    "question_ta": "ஒளிச்சேர்க்கைச் செயல்பாட்டின் போது தாவரங்கள் வெளியிடும் வாயு எது?",
+    "options_en": ["Oxygen", "Carbon dioxide", "Nitrogen", "Methane"],
+    "options_ta": ["ஆக்சிஜன்", "கார்பன் டை ஆக்சைடு", "நைட்ரஜன்", "மீத்தேன்"],
+    "answer_en": "Oxygen",
+    "answer_ta": "ஆக்சிஜன்"
+  },
+  {
+    "question_en": "Which is the national sport of India (recognized informally)?",
+    "question_ta": "இந்தியாவின் தேசிய விளையாட்டு (அனுசரணையில்லாமல்) எது?",
+    "options_en": ["Cricket", "Football", "Hockey", "Kabaddi"],
+    "options_ta": ["கிரிக்கெட்", "கால்பந்து", "ஹாக்கி", "கபடி"],
+    "answer_en": "Hockey",
+    "answer_ta": "ஹாக்கி"
+  },
+  {
+    "question_en": "Which is the capital of Tamil Nadu?",
+    "question_ta": "தமிழகத்தின் தலைநகரம் எது?",
+    "options_en": ["Coimbatore", "Chennai", "Madurai", "Trichy"],
+    "options_ta": ["கோயம்புத்தூர்", "சென்னை", "மதுரை", "திருச்சி"],
+    "answer_en": "Chennai",
+    "answer_ta": "சென்னை"
+  }
+]
+

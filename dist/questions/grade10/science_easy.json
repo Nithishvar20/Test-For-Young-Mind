@@ -1,0 +1,758 @@
+[
+  {
+    "question_en": "Which process describes programmed cell death important for development?",
+    "question_ta": "வளர்ச்சிக்கும் முக்கியமான திட்டமிடப்பட்ட செல்நீக்கம் எந்தது?",
+    "options_en": [
+      "Necrosis",
+      "Autophagy",
+      "Apoptosis",
+      "Pyroptosis"
+    ],
+    "options_ta": [
+      "Necrosis",
+      "Autophagy",
+      "Apoptosis",
+      "Pyroptosis"
+    ],
+    "answer_en": "Apoptosis",
+    "answer_ta": "Apoptosis"
+  },
+  {
+    "question_en": "Which enzyme unwinds DNA during replication?",
+    "question_ta": "நகலெடுக்கும் போது DNA-வை திறக்கும் என்சைம் எது?",
+    "options_en": [
+      "Ligase",
+      "Helicase",
+      "Primase",
+      "DNA polymerase"
+    ],
+    "options_ta": [
+      "லைகேஸ்",
+      "ஹெலிகேஸ்",
+      "பிரைமேஸ்",
+      "DNA பாலிமரேஸ்"
+    ],
+    "answer_en": "Helicase",
+    "answer_ta": "ஹெலிகேஸ்"
+  },
+  {
+    "question_en": "Which model explains selective permeability of membranes with proteins?",
+    "question_ta": "புரதங்களுடன் மட்டுப்படுத்தப்பட்ட திறனைக் காட்டும் செல் ஓடையின் மாதிரி எது?",
+    "options_en": [
+      "Static mosaic model",
+      "Fluid mosaic model",
+      "Lock and key model",
+      "Induced fit model"
+    ],
+    "options_ta": [
+      "Static mosaic மாதிரி",
+      "Fluid mosaic மாதிரி",
+      "Lock-and-key மாதிரி",
+      "Induced fit மாதிரி"
+    ],
+    "answer_en": "Fluid mosaic model",
+    "answer_ta": "Fluid mosaic மாதிரி"
+  },
+  {
+    "question_en": "Which pathway yields the most ATP per glucose molecule?",
+    "question_ta": "ஒரு குளுக்கோசிற்கு அதிகமான ATP உற்பத்தி செய்யும் பாதை எது?",
+    "options_en": [
+      "Glycolysis",
+      "Fermentation",
+      "Pentose phosphate pathway",
+      "Aerobic respiration (TCA + oxidative phosphorylation)"
+    ],
+    "options_ta": [
+      "Glycolysis",
+      "Fermentation",
+      "PPP",
+      "ஏரோபிக் சுவாசம் (TCA + oxidative phosphorylation)"
+    ],
+    "answer_en": "Aerobic respiration (TCA + oxidative phosphorylation)",
+    "answer_ta": "ஏரோபிக் சுவாசம் (TCA + oxidative phosphorylation)"
+  },
+  {
+    "question_en": "Which technique separates DNA fragments by size using electric field?",
+    "question_ta": "மின்த் துறையில் அடிப்படையாக DNA துண்டுகளை அளவு மூலம் பிரிக்கும் நுட்பம் எது?",
+    "options_en": [
+      "Centrifugation",
+      "Gel electrophoresis",
+      "Chromatography",
+      "Mass spectrometry"
+    ],
+    "options_ta": [
+      "சென்ட்ரிப்யுகேஷன்",
+      "ஜெல் எலக்ட்ரோஃபோரிசிஸ்",
+      "க்ரோமடோகிராஃபி",
+      "மாஸ் ஸ்பெக்ட்ரோமெட்ரி"
+    ],
+    "answer_en": "Gel electrophoresis",
+    "answer_ta": "ஜெல் எலக்ட்ரோஃபோரிசிஸ்"
+  },
+  {
+    "question_en": "Which immune response is rapid on re-exposure to same pathogen?",
+    "question_ta": "அதே பாதஜெனை மீண்டும் எதிர்கொள்ளும் போது வேகமாக ஏற்படும் எதிர்ப்பு பதில் எது?",
+    "options_en": [
+      "Innate immunity",
+      "Primary immune response",
+      "Secondary (memory) response",
+      "Complement activation"
+    ],
+    "options_ta": [
+      "Innate immunity",
+      "Primary response",
+      "Secondary (memory) response",
+      "Complement activation"
+    ],
+    "answer_en": "Secondary (memory) immune response",
+    "answer_ta": "Secondary (memory) immune response"
+  },
+  {
+    "question_en": "Which RNA conveys genetic code from DNA to ribosome?",
+    "question_ta": "DNA-இலிருந்து ரைபோசோத்திற்கு மரபணு குறியீட்டை கொண்டு செல்லும் RNA எது?",
+    "options_en": [
+      "rRNA",
+      "tRNA",
+      "mRNA",
+      "snRNA"
+    ],
+    "options_ta": [
+      "rRNA",
+      "tRNA",
+      "mRNA",
+      "snRNA"
+    ],
+    "answer_en": "mRNA",
+    "answer_ta": "mRNA"
+  },
+  {
+    "question_en": "Which plant hormone promotes cell elongation and phototropism?",
+    "question_ta": "செல் நீளவும் ஒளிச்சாயலுக்கும் உதவும் செடியின் ஹார்மோன் எது?",
+    "options_en": [
+      "Cytokinin",
+      "Abscisic acid",
+      "Auxin (IAA)",
+      "Gibberellin"
+    ],
+    "options_ta": [
+      "சைடோகைன்",
+      "அப்ஸிசிக் அமிலம்",
+      "ஆக்ஸின் (IAA)",
+      "கிபெரெலின்"
+    ],
+    "answer_en": "Auxin (IAA)",
+    "answer_ta": "ஆக்ஸின் (IAA)"
+  },
+  {
+    "question_en": "Which genetic cross yields 3:1 ratio in F2 for single trait?",
+    "question_ta": "ஒரு தன்மைக்கு F2ல் 3:1 விகிதத்தை தரும் மரபுக் குறுக்கு எது?",
+    "options_en": [
+      "Dihybrid cross",
+      "Back cross",
+      "Monohybrid cross (Aa × Aa)",
+      "Test cross"
+    ],
+    "options_ta": [
+      "Dihybrid cross",
+      "Back cross",
+      "Monohybrid cross (Aa × Aa)",
+      "Test cross"
+    ],
+    "answer_en": "Monohybrid cross (Aa × Aa)",
+    "answer_ta": "Monohybrid cross (Aa × Aa)"
+  },
+  {
+    "question_en": "Which repair uses homologous template for double-strand breaks?",
+    "question_ta": "இரட்டை ஸ்ட்ராண்ட் உடைப்பு சரிசெய்ய homologous மாதிரியைப் பயன்படுத்தும் முறை எது?",
+    "options_en": [
+      "NHEJ (non-homologous end joining)",
+      "Mismatch repair",
+      "Homologous recombination",
+      "Base excision repair"
+    ],
+    "options_ta": [
+      "NHEJ",
+      "Mismatch repair",
+      "Homologous recombination",
+      "Base excision repair"
+    ],
+    "answer_en": "Homologous recombination",
+    "answer_ta": "Homologous recombination"
+  },
+  {
+    "question_en": "Which organelle synthesizes lipids and detoxifies chemicals?",
+    "question_ta": "லிபிட் உற்பத்தியும் டாக்ஸின் நீக்கியும் செய்யும் உள் உறுப்பு எது?",
+    "options_en": [
+      "Rough ER",
+      "Smooth ER",
+      "Golgi",
+      "Lysosome"
+    ],
+    "options_ta": [
+      "Rough ER",
+      "Smooth ER",
+      "கோல்ஜி",
+      "லைசோசோம்"
+    ],
+    "answer_en": "Smooth ER",
+    "answer_ta": "Smooth ER"
+  },
+  {
+    "question_en": "How do action potentials propagate along myelinated axons?",
+    "question_ta": "மைலினேட்டட் அக்சான்களில் action potentials எப்படிப் பரவுகின்றன?",
+    "options_en": [
+      "Passive spread only",
+      "Saltatory conduction between nodes of Ranvier",
+      "Direct chemical diffusion",
+      "Gap junctions"
+    ],
+    "options_ta": [
+      "பாசிவ் பரவல் மட்டுமே",
+      "Ranvier நோடுகள் இடையே Saltatory conduction",
+      "நேரடி வேதியல் பரவல்",
+      "Gap junctions"
+    ],
+    "answer_en": "Saltatory conduction between nodes of Ranvier",
+    "answer_ta": "Ranvier நோடுகளுக்கிடையே Saltatory conduction"
+  },
+  {
+    "question_en": "Which interaction benefits one species and harms the other?",
+    "question_ta": "ஒரு இனத்திற்கு நன்மையும் மற்றொன்றுக்கு தீங்கும் தொடர்பு எது?",
+    "options_en": [
+      "Mutualism",
+      "Commensalism",
+      "Parasitism",
+      "Neutralism"
+    ],
+    "options_ta": [
+      "Mutualism",
+      "Commensalism",
+      "Parasitism",
+      "Neutralism"
+    ],
+    "answer_en": "Parasitism",
+    "answer_ta": "Parasitism"
+  },
+  {
+    "question_en": "Which reproductive isolation is due to different mating times?",
+    "question_ta": "விதிவிதமான நேரங்களில் ஜோடிகள் இருப்பதால் ஏற்படும் தனிச்செய்தி எது?",
+    "options_en": [
+      "Behavioral isolation",
+      "Temporal isolation",
+      "Mechanical isolation",
+      "Gametic isolation"
+    ],
+    "options_ta": [
+      "Behavioral isolation",
+      "Temporal isolation",
+      "Mechanical isolation",
+      "Gametic isolation"
+    ],
+    "answer_en": "Temporal isolation",
+    "answer_ta": "Temporal isolation"
+  },
+  {
+    "question_en": "Which PCR step allows primers to bind to single-stranded DNA?",
+    "question_ta": "ஒருங்கிணைந்த DNA-க்கு primers இணைகின்ற படி PCR யில் எந்த படி நடக்கும்?",
+    "options_en": [
+      "Denaturation",
+      "Extension",
+      "Annealing",
+      "Electrophoresis"
+    ],
+    "options_ta": [
+      "Denaturation",
+      "Extension",
+      "Annealing",
+      "Electrophoresis"
+    ],
+    "answer_en": "Annealing",
+    "answer_ta": "Annealing"
+  },
+  {
+    "question_en": "Which antibody region provides antigen-binding specificity?",
+    "question_ta": "அன்டிஜன்-பைன்டிங் தனிச்சிறப்பை தரும் பகுதி எது?",
+    "options_en": [
+      "Fc constant region",
+      "Variable regions (VH & VL)",
+      "Hinge only",
+      "Glycosylation sites"
+    ],
+    "options_ta": [
+      "Fc constant பகுதி",
+      "Variable பகுதிகள் (VH & VL)",
+      "Hinge பகுதி",
+      "Glycosylation தளங்கள்"
+    ],
+    "answer_en": "Variable regions (VH & VL)",
+    "answer_ta": "Variable பகுதிகள் (VH & VL)"
+  },
+  {
+    "question_en": "Which evolutionary force increases frequency of beneficial alleles?",
+    "question_ta": "நன்மையான allele-களின் சராசரியை அதிகரிக்கும் பரிமாற்ற சக்தி எது?",
+    "options_en": [
+      "Genetic drift",
+      "Gene flow",
+      "Bottleneck effect",
+      "Natural selection"
+    ],
+    "options_ta": [
+      "Genetic drift",
+      "Gene flow",
+      "Bottleneck effect",
+      "Natural selection"
+    ],
+    "answer_en": "Natural selection",
+    "answer_ta": "Natural selection"
+  },
+  {
+    "question_en": "Which organelle has its own DNA and does oxidative metabolism?",
+    "question_ta": "தனது DNA உண்டு மற்றும் ஆக்சிடேட்டிவ் மெட்டபாலிசத்தை செய்கிறது அலகு எது?",
+    "options_en": [
+      "Chloroplast",
+      "Mitochondrion",
+      "Nucleus",
+      "Peroxisome"
+    ],
+    "options_ta": [
+      "குளோரோபிளாஸ்ட்",
+      "மைட்டோகாண்ட்ரியா",
+      "நியூக்கியஸ்",
+      "பெராக்ஸிசோம்"
+    ],
+    "answer_en": "Mitochondrion",
+    "answer_ta": "மைட்டோகாண்ட்ரியா"
+  },
+  {
+    "question_en": "Which cell-cycle checkpoint verifies DNA replication before mitosis?",
+    "question_ta": "மைடோசிஸ் முன் DNA நகலெடுப்பை சரிபார்க்கும் செக் பாயிண்ட் எது?",
+    "options_en": [
+      "G1 checkpoint",
+      "S checkpoint",
+      "G2 checkpoint",
+      "M checkpoint"
+    ],
+    "options_ta": [
+      "G1 checkpoint",
+      "S checkpoint",
+      "G2 checkpoint",
+      "M checkpoint"
+    ],
+    "answer_en": "G2 checkpoint",
+    "answer_ta": "G2 checkpoint"
+  },
+  {
+    "question_en": "Which blood–brain barrier feature restricts molecule passage?",
+    "question_ta": "Blood–brain barrier இன் எந்த பண்பு மூலக்கூறுகளின் கடத்தலை தடுக்கும்?",
+    "options_en": [
+      "Fenestrated capillaries",
+      "Tight junctions between endothelial cells",
+      "Loose extracellular matrix",
+      "High protein permeability"
+    ],
+    "options_ta": [
+      "Fenestrated capillaries",
+      "Endothelial சர்க்கிள்களின் tight junctions",
+      "இலகு ECM",
+      "புரதங்களுக்கு அதிக permeability"
+    ],
+    "answer_en": "Tight junctions between endothelial cells",
+    "answer_ta": "Endothelial சர்க்கிள்களின் tight junctions"
+  },
+  {
+    "question_en": "Which genome-editing tool allows targeted DNA changes (example)?",
+    "question_ta": "இலக்கு DNA மாற்றங்களுக்கு உதவும் ஜீன் திருத்த கருவி எது?",
+    "options_en": [
+      "Sanger sequencing",
+      "CRISPR-Cas9",
+      "RNAi",
+      "Western blot"
+    ],
+    "options_ta": [
+      "Sanger sequencing",
+      "CRISPR-Cas9",
+      "RNAi",
+      "Western blot"
+    ],
+    "answer_en": "CRISPR-Cas9",
+    "answer_ta": "CRISPR-Cas9"
+  },
+  {
+    "question_en": "Which gut microbes help digestion and vitamin production?",
+    "question_ta": "குடல் நட்டுப்பை (microbiota) ஜீரணத்திலும் வைட்டமின் உற்பத்திலும் உதவும் வகை எது?",
+    "options_en": [
+      "Pathogens",
+      "Probiotics / gut microbiota",
+      "Parasites",
+      "Commensals only"
+    ],
+    "options_ta": [
+      "Pathogens",
+      "Probiotics / gut microbiota",
+      "Parasites",
+      "Commensals only"
+    ],
+    "answer_en": "Probiotics / gut microbiota",
+    "answer_ta": "Probiotics / gut microbiota"
+  },
+  {
+    "question_en": "Which succession starts on soil already containing seeds after disturbance?",
+    "question_ta": "தொகை வழங்கிய பிறகு விதைகள் மிதக்கும் மண்ணிலிருந்து துவங்கும் மாற்றம் எது?",
+    "options_en": [
+      "Primary succession",
+      "Secondary succession",
+      "Climax community formation",
+      "Eutrophication"
+    ],
+    "options_ta": [
+      "Primary succession",
+      "Secondary succession",
+      "Climax community",
+      "Eutrophication"
+    ],
+    "answer_en": "Secondary succession",
+    "answer_ta": "Secondary succession"
+  },
+  {
+    "question_en": "Which viral cycle integrates viral DNA into host genome?",
+    "question_ta": "வைரஸ் DNA-வை ஆளுநரின் genome-இல் இணைக்கும் வட்டாரம் எது?",
+    "options_en": [
+      "Lytic cycle",
+      "Lysogenic cycle (prophage integration)",
+      "Budding",
+      "Persistent infection without integration"
+    ],
+    "options_ta": [
+      "Lytic cycle",
+      "Lysogenic cycle (prophage integration)",
+      "Budding",
+      "Persistent infection without integration"
+    ],
+    "answer_en": "Lysogenic cycle (prophage integration)",
+    "answer_ta": "Lysogenic cycle (prophage integration)"
+  },
+  {
+    "question_en": "High-altitude acclimatization causes which blood change?",
+    "question_ta": "உயர்ந்த இடங்களில் உடல்நிலை ஏற்றம் ஏற்படும் போது எது அதிகரிக்கும்?",
+    "options_en": [
+      "Decrease in RBC count",
+      "Decrease in ventilation",
+      "Increase in hemoglobin & RBC production",
+      "Decrease in 2,3-BPG"
+    ],
+    "options_ta": [
+      "RBC குறைவு",
+      "மூச்சுத்திறன் குறைவு",
+      "ஹீமோகுளோபின் & RBC உற்பத்தி அதிகம்",
+      "2,3-BPG குறைவு"
+    ],
+    "answer_en": "Increase in hemoglobin & RBC production",
+    "answer_ta": "ஹீமோகுளோபின் & RBC உற்பத்தி அதிகம்"
+  },
+  {
+    "question_en": "Which protein secondary structures are stabilized by backbone H-bonds?",
+    "question_ta": "புரத இரண்டாம் கட்டமைப்புகள் backbone H-பிணைகளால் நிலைத்திருப்பதா?",
+    "options_en": [
+      "Polysaccharide helices",
+      "Alpha-helix & beta-sheet",
+      "Lipid bilayer",
+      "DNA double helix"
+    ],
+    "options_ta": [
+      "பாலிசக்கரை ஹீலிக்ஸ்",
+      "Alpha-helix & beta-sheet",
+      "லிபிட் இரட்டை அடுக்கு",
+      "DNA இரட்டை ஹீலிக்ஸ்"
+    ],
+    "answer_en": "Alpha-helix & beta-sheet",
+    "answer_ta": "Alpha-helix & beta-sheet"
+  },
+  {
+    "question_en": "Which pathway generates NADPH for biosynthesis?",
+    "question_ta": "உயிர் சிந்தனைக்கு NADPH உருவாக்கும் பாதை எது?",
+    "options_en": [
+      "Glycolysis",
+      "Pentose phosphate pathway (PPP)",
+      "Citric acid cycle",
+      "Electron transport chain"
+    ],
+    "options_ta": [
+      "Glycolysis",
+      "PPP",
+      "Citric acid cycle",
+      "Electron transport chain"
+    ],
+    "answer_en": "Pentose phosphate pathway (PPP)",
+    "answer_ta": "Pentose phosphate pathway (PPP)"
+  },
+  {
+    "question_en": "Which method quantifies gene expression from mRNA as cDNA copies?",
+    "question_ta": "mRNA இருந்து cDNA பிரதிகளை அளந்து ஜீன் வெளிப்பாட்டை அளக்கும் நுட்பம் எது?",
+    "options_en": [
+      "Western blot",
+      "Flow cytometry",
+      "qRT-PCR (quantitative RT-PCR)",
+      "DNA sequencing"
+    ],
+    "options_ta": [
+      "Western blot",
+      "Flow cytometry",
+      "qRT-PCR",
+      "DNA sequencing"
+    ],
+    "answer_en": "qRT-PCR (quantitative RT-PCR)",
+    "answer_ta": "qRT-PCR (quantitative RT-PCR)"
+  },
+  {
+    "question_en": "Which organisms can live with or without oxygen?",
+    "question_ta": "ஆக்சிஜன் உடன் அல்லது இல்லாமல் வாழக்கூடிய உயிரினங்கள் எவை?",
+    "options_en": [
+      "Obligate aerobes",
+      "Obligate anaerobes",
+      "Facultative anaerobes",
+      "Microaerophiles"
+    ],
+    "options_ta": [
+      "Obligate aerobes",
+      "Obligate anaerobes",
+      "Facultative anaerobes",
+      "Microaerophiles"
+    ],
+    "answer_en": "Facultative anaerobes",
+    "answer_ta": "Facultative anaerobes"
+  },
+  {
+    "question_en": "Which intestinal feature increases absorptive surface area?",
+    "question_ta": "சிறு குடலில் உட்கொள்ளும் மேற்பரப்பை அதிகரிக்கும் அமைப்பு எது?",
+    "options_en": [
+      "Crypts of Lieberkuhn only",
+      "Goblet cells",
+      "Microvilli (brush border) on enterocytes",
+      "Cilia"
+    ],
+    "options_ta": [
+      "Lieberkuhn குழிகள்",
+      "Goblet செல்கள்",
+      "Enterocyte-களின் microvilli",
+      "Cilia"
+    ],
+    "answer_en": "Microvilli (brush border) on enterocytes",
+    "answer_ta": "Enterocyte-களின் microvilli"
+  },
+  {
+    "question_en": "Which enzyme complex synthesizes ATP using proton gradient?",
+    "question_ta": "புரோட்டான் அழுத்த வித்தியாசத்தைப் பயன்படுத்தி ATP உற்பத்தி செய்யும் என்சைம் தொகுதி எது?",
+    "options_en": [
+      "Cytochrome c oxidase",
+      "Succinate dehydrogenase",
+      "ATP synthase (FoF1)",
+      "Pyruvate dehydrogenase"
+    ],
+    "options_ta": [
+      "Cytochrome c oxidase",
+      "Succinate dehydrogenase",
+      "ATP synthase (FoF1)",
+      "Pyruvate dehydrogenase"
+    ],
+    "answer_en": "ATP synthase (FoF1)",
+    "answer_ta": "ATP synthase (FoF1)"
+  },
+  {
+    "question_en": "Which hallmark of cancer describes limitless replicative potential?",
+    "question_ta": "நீர்க்கால தன்மை கொண்ட செல்கள் எனப்படும் கேன்சர் அடையாளம் எது?",
+    "options_en": [
+      "Angiogenesis",
+      "Metastasis",
+      "Sustaining proliferative signaling (immortality)",
+      "Evasion of immune destruction"
+    ],
+    "options_ta": [
+      "Angiogenesis",
+      "Metastasis",
+      "பிரிவு தொடரும் (immortality)",
+      "நீக்கிய பாதுகாப்பு தவிர்ப்பு"
+    ],
+    "answer_en": "Sustaining proliferative signaling (immortality)",
+    "answer_ta": "பிரிவு தொடரும் (immortality)"
+  },
+  {
+    "question_en": "Which cells present antigen to T cells via MHC?",
+    "question_ta": "MHC மூலம் antigen-ஐ T செல்களுக்கு வழங்கும் செல்கள் யாவை?",
+    "options_en": [
+      "Red blood cells",
+      "Antigen-presenting cells (dendritic cells, macrophages)",
+      "Platelets",
+      "Neurons"
+    ],
+    "options_ta": [
+      "சிவப்பு இரத்த அணுக்கள்",
+      "APCகள் (dendritic, macrophages)",
+      "பிளேட்லெட்ஸ்",
+      "நியூரான்கள்"
+    ],
+    "answer_en": "Antigen-presenting cells (dendritic cells, macrophages)",
+    "answer_ta": "APCகள் (dendritic, macrophages)"
+  },
+  {
+    "question_en": "Which mechanism increases frequency of beneficial alleles over time?",
+    "question_ta": "காலப்போக்கில் நன்மையான allele கள் அதிகரிக்க காரணமான இயந்திரம் எது?",
+    "options_en": [
+      "Genetic drift",
+      "Gene flow",
+      "Natural selection",
+      "Founder effect"
+    ],
+    "options_ta": [
+      "Genetic drift",
+      "Gene flow",
+      "Natural selection",
+      "Founder effect"
+    ],
+    "answer_en": "Natural selection",
+    "answer_ta": "Natural selection"
+  },
+  {
+    "question_en": "Which technique is used to sequence DNA by chain termination?",
+    "question_ta": "சங்கிலி நிறுத்த முறை மூலம் DNA-ஐ வரிசைபடுத்த எந்த நுட்பம் பயன்படுத்தப்படுகிறது?",
+    "options_en": [
+      "CRISPR",
+      "Sanger sequencing",
+      "qRT-PCR",
+      "Mass spectrometry"
+    ],
+    "options_ta": [
+      "CRISPR",
+      "Sanger sequencing",
+      "qRT-PCR",
+      "மாஸ் ஸ்பெக்ட்ரோமெட்ரி"
+    ],
+    "answer_en": "Sanger sequencing",
+    "answer_ta": "Sanger sequencing"
+  },
+  {
+    "question_en": "Which lipid-derived molecules are important signaling molecules (inflammation)?",
+    "question_ta": "விளத்தலுக்கான சிக்னலிங் பொருட்களாக வேலைபடும் லிபிட் சார்ந்த மூலக்கூறுகள் எவை?",
+    "options_en": [
+      "Amino acids",
+      "Prostaglandins and leukotrienes",
+      "Steroids only",
+      "Monosaccharides"
+    ],
+    "options_ta": [
+      "அமினோ அமிலங்கள்",
+      "Prostaglandins & leukotrienes",
+      "Steroids மட்டும்",
+      "மோனோசகரைடுகள்"
+    ],
+    "answer_en": "Prostaglandins and leukotrienes",
+    "answer_ta": "Prostaglandins and leukotrienes"
+  },
+  {
+    "question_en": "Which process causes genetic variation by exchanging homologous chromosome segments?",
+    "question_ta": "ஒத்ததிரு கார்ட்டின் பகுதியை பரிமாறும்போது ஜெனெடிக் மாறுபாடு ஏற்படுவது எந்த செயல்முறை?",
+    "options_en": [
+      "Independent assortment only",
+      "Crossing over (recombination)",
+      "Mutation only",
+      "Mitosis"
+    ],
+    "options_ta": [
+      "Independent assortment",
+      "Crossing over",
+      "மியூடேஷன்",
+      "மைட்டோசிஸ்"
+    ],
+    "answer_en": "Crossing over (recombination)",
+    "answer_ta": "Crossing over (recombination)"
+  },
+  {
+    "question_en": "Which receptor type detects extracellular signals and initiates intracellular cascade?",
+    "question_ta": "புறச் சிக்னல்களை உணர்ந்து செல்குழுமக் காசுடன் தொடங்கும் உணரி வகை எது?",
+    "options_en": [
+      "Ion channel receptor",
+      "G-protein coupled receptor (GPCR)",
+      "Nuclear receptor",
+      "Receptor tyrosine kinase"
+    ],
+    "options_ta": [
+      "Ion channel receptor",
+      "G-protein coupled receptor (GPCR)",
+      "Nuclear receptor",
+      "Receptor tyrosine kinase"
+    ],
+    "answer_en": "G-protein coupled receptor (GPCR)",
+    "answer_ta": "G-protein coupled receptor (GPCR)"
+  },
+  {
+    "question_en": "Which DNA mutation changes single base and may change one amino acid?",
+    "question_ta": "ஒரே அடிப்படையை மாற்றி ஒரே அமினோ அமிலத்தை மாற்றக்கூடிய மரபணு மாற்றம் எது?",
+    "options_en": [
+      "Deletion of whole gene",
+      "Frameshift mutation",
+      "Point mutation (missense)",
+      "Chromosomal inversion"
+    ],
+    "options_ta": [
+      "முழு ஜீன் நீக்கம்",
+      "Frameshift mutation",
+      "Point mutation (missense)",
+      "Chromosomal inversion"
+    ],
+    "answer_en": "Point mutation (missense)",
+    "answer_ta": "Point mutation (missense)"
+  },
+  {
+    "question_en": "Which transport moves large particles into cells via vesicles?",
+    "question_ta": "பெரிய துகள்களை வெசிக்கிள்களால் செல்களுக்குள் கொண்டு செல்லும் போக்குவழி எது?",
+    "options_en": [
+      "Endocytosis (phagocytosis)",
+      "Diffusion",
+      "Osmosis",
+      "Active transport via pumps"
+    ],
+    "options_ta": [
+      "Endocytosis (phagocytosis)",
+      "பகிர்வு",
+      "ஓஸ்மோசிஸ்",
+      "செயல்பாட்டு போக்குவரத்து"
+    ],
+    "answer_en": "Endocytosis (phagocytosis)",
+    "answer_ta": "Endocytosis (phagocytosis)"
+  },
+  {
+    "question_en": "Which signaling molecule type crosses membrane to bind intracellular receptor (steroid hormones)?",
+    "question_ta": "மெம்ப்ரேன் கடந்து உள்ளக ரிசெப்டருடன் இணைக்கும் (ஸ்டீராய்ட் ஹார்மோன்கள் போன்ற) சிக்னல் வகை எது?",
+    "options_en": [
+      "Peptide hormones",
+      "Steroid hormones (lipophilic)",
+      "Catecholamines (water-soluble)",
+      "Cytokines"
+    ],
+    "options_ta": [
+      "பீப்டைட் ஹார்மோன்கள்",
+      "ஸ்டீராய்ட் ஹார்மோன்கள் (lipophilic)",
+      "கேதோலமின் (தண்ணீர் கரையுனர்)",
+      "சைடோகைன்கள்"
+    ],
+    "answer_en": "Steroid hormones (lipophilic)",
+    "answer_ta": "ஸ்டீராய்ட் ஹார்மோன்கள் (lipophilic)"
+  },
+  {
+    "question_en": "Which enzyme links Okazaki fragments on lagging DNA strand?",
+    "question_ta": "விலகிய DNA நெடுங்கிளையில் Okazaki துண்டுகளை இணைக்கும் என்சைம் எது?",
+    "options_en": [
+      "Primase",
+      "Topoisomerase",
+      "DNA ligase",
+      "Helicase"
+    ],
+    "options_ta": [
+      "பிரைமேஸ்",
+      "டோபொஇசோமரேஜ்",
+      "DNA லிகேஸ்",
+      "ஹெலிகேஸ்"
+    ],
+    "answer_en": "DNA ligase",
+    "answer_ta": "DNA லிகேஸ்"
+  }
+]

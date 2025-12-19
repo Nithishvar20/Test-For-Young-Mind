@@ -1,0 +1,275 @@
+[
+  {
+    "question_en": "Which scientist is called the Father of Genetics?",
+    "question_ta": "மரபியலின் தந்தை என்று அழைக்கப்படுபவர் யார்?",
+    "options_en": ["Darwin", "Mendel", "Lamarck", "Watson"],
+    "options_ta": ["டார்வின்", "மென்டல்", "லமார்க்", "வாட்சன்"],
+    "answer_en": "Mendel",
+    "answer_ta": "மென்டல்"
+  },
+  {
+    "question_en": "Which organelle produces ATP through cellular respiration?",
+    "question_ta": "செல் சுவாசத்தின் மூலம் ATP உற்பத்தி செய்யும் உறுப்பு எது?",
+    "options_en": ["Ribosome", "Mitochondria", "Nucleus", "Chloroplast"],
+    "options_ta": ["ரைபோசோம்", "மைட்டோகாண்ட்ரியா", "மையம்", "குளோரோபிளாஸ்ட்"],
+    "answer_en": "Mitochondria",
+    "answer_ta": "மைட்டோகாண்ட்ரியா"
+  },
+  {
+    "question_en": "Which blood vessel carries oxygenated blood from lungs to heart?",
+    "question_ta": "நுரையீரலிலிருந்து இதயத்திற்குச் சுத்திகரிக்கப்பட்ட இரத்தத்தை எடுத்துச் செல்லும் இரத்தக் குழாய் எது?",
+    "options_en": ["Pulmonary vein", "Pulmonary artery", "Aorta", "Vena cava"],
+    "options_ta": ["நுரையீரல் சிரை", "நுரையீரல் தமனி", "ஆர்டா", "வீனா காவா"],
+    "answer_en": "Pulmonary vein",
+    "answer_ta": "நுரையீரல் சிரை"
+  },
+  {
+    "question_en": "Which type of respiration releases more energy?",
+    "question_ta": "அதிக ஆற்றலை வெளியிடும் சுவாச வகை எது?",
+    "options_en": ["Anaerobic respiration", "Fermentation", "Aerobic respiration", "Diffusion"],
+    "options_ta": ["ஆக்சிஜன் இன்றி சுவாசம்", "காளான் வினை", "ஆக்சிஜன் உடன் சுவாசம்", "பரவல்"],
+    "answer_en": "Aerobic respiration",
+    "answer_ta": "ஆக்சிஜன் உடன் சுவாசம்"
+  },
+  {
+    "question_en": "Which law of inheritance states that alleles segregate during gamete formation?",
+    "question_ta": "இனப்பெருக்கக் கருவி உருவாகும்போது அலீல்கள் பிரிவதைக் கூறும் மரபியல் சட்டம் எது?",
+    "options_en": ["Law of dominance", "Law of segregation", "Law of independent assortment", "Mutation theory"],
+    "options_ta": ["மேலோங்கும் சட்டம்", "பிரிப்பு சட்டம்", "சுதந்திர அணி சட்டம்", "மியூட்டேஷன் கோட்பாடு"],
+    "answer_en": "Law of segregation",
+    "answer_ta": "பிரிப்பு சட்டம்"
+  },
+  {
+    "question_en": "Which part of nephron is responsible for filtration?",
+    "question_ta": "நெப்ரானில் வடிகட்டலுக்கு பொறுப்பான பகுதி எது?",
+    "options_en": ["Bowman’s capsule", "Loop of Henle", "Collecting duct", "Distal tubule"],
+    "options_ta": ["போமனின் காப்சூல்", "ஹென்லே வளையம்", "சேகரிப்பு குழாய்", "தொலைவுப் குழாய்"],
+    "answer_en": "Bowman’s capsule",
+    "answer_ta": "போமனின் காப்சூல்"
+  },
+  {
+    "question_en": "Which hormone regulates blood sugar?",
+    "question_ta": "இரத்த சர்க்கரையை கட்டுப்படுத்தும் ஹார்மோன் எது?",
+    "options_en": ["Insulin", "Thyroxine", "Adrenaline", "Glucagon"],
+    "options_ta": ["இன்சுலின்", "தைரோக்சின்", "அட்ரினலின்", "குளூககான்"],
+    "answer_en": "Insulin",
+    "answer_ta": "இன்சுலின்"
+  },
+  {
+    "question_en": "Which pigment protects human skin from UV rays?",
+    "question_ta": "UV கதிர்களிலிருந்து மனித சருமத்தைப் பாதுகாக்கும் கறை எது?",
+    "options_en": ["Keratin", "Haemoglobin", "Melanin", "Carotene"],
+    "options_ta": ["கெரட்டின்", "ஹீமோகுளோபின்", "மெலனின்", "கரோட்டின்"],
+    "answer_en": "Melanin",
+    "answer_ta": "மெலனின்"
+  },
+  {
+    "question_en": "Which process converts glucose to pyruvate?",
+    "question_ta": "கிளுக்கோஸை பைருவேட்டாக மாற்றும் செயல்முறை எது?",
+    "options_en": ["Krebs cycle", "Glycolysis", "Fermentation", "Electron transport chain"],
+    "options_ta": ["கிரெப்ஸ் சுழற்சி", "கிளைகோலிசிஸ்", "காளான் வினை", "எலக்ட்ரான் போக்குவரத்து சங்கிலி"],
+    "answer_en": "Glycolysis",
+    "answer_ta": "கிளைகோலிசிஸ்"
+  },
+  {
+    "question_en": "Which chamber of the heart pumps blood to the lungs?",
+    "question_ta": "இதயத்தின் எந்த அறை நுரையீரலுக்குச் சுழற்சி செய்கிறது?",
+    "options_en": ["Left atrium", "Right ventricle", "Left ventricle", "Right atrium"],
+    "options_ta": ["இடது ஆட்ரியம்", "வலது வென்ட்ரிக்கிள்", "இடது வென்ட்ரிக்கிள்", "வலது ஆட்ரியம்"],
+    "answer_en": "Right ventricle",
+    "answer_ta": "வலது வென்ட்ரிக்கிள்"
+  },
+  {
+    "question_en": "Which scientist proposed the theory of natural selection?",
+    "question_ta": "இயற்கைத் தேர்வு கோட்பாட்டை முன்வைத்த அறிவியலாளர் யார்?",
+    "options_en": ["Lamarck", "Darwin", "Mendel", "Wallace"],
+    "options_ta": ["லமார்க்", "டார்வின்", "மென்டல்", "வாலஸ்"],
+    "answer_en": "Darwin",
+    "answer_ta": "டார்வின்"
+  },
+  {
+    "question_en": "Which type of circulation carries blood from digestive organs to the liver?",
+    "question_ta": "செரிமான உறுப்புகளிலிருந்து கல்லீரலுக்கு இரத்தத்தை எடுத்துச் செல்லும் சுழற்சி எது?",
+    "options_en": ["Systemic circulation", "Portal circulation", "Pulmonary circulation", "Coronary circulation"],
+    "options_ta": ["உடல் சுழற்சி", "போர்டல் சுழற்சி", "நுரையீரல் சுழற்சி", "இதய சுழற்சி"],
+    "answer_en": "Portal circulation",
+    "answer_ta": "போர்டல் சுழற்சி"
+  },
+  {
+    "question_en": "Which part of the brain controls involuntary actions like heartbeat?",
+    "question_ta": "இதயத் துடிப்பு போன்ற கட்டுப்படுத்த முடியாத செயல்களை மூளையின் எந்த பகுதி கட்டுப்படுத்துகிறது?",
+    "options_en": ["Cerebellum", "Medulla oblongata", "Cerebrum", "Hypothalamus"],
+    "options_ta": ["செரிபெல்லம்", "மெடுல்லா ஒப்லாங்கட்டா", "செரிப்ரம்", "ஹைப்போத்தாலமஸ்"],
+    "answer_en": "Medulla oblongata",
+    "answer_ta": "மெடுல்லா ஒப்லாங்கட்டா"
+  },
+  {
+    "question_en": "Which genetic disorder is caused by an extra chromosome 21?",
+    "question_ta": "கூடுதல் 21வது குறுக்குவிசை காரணமாக ஏற்படும் மரபணு நோய் எது?",
+    "options_en": ["Turner syndrome", "Down syndrome", "Klinefelter syndrome", "Sickle cell anemia"],
+    "options_ta": ["டர்னர் சிண்ட்ரோம்", "டவுன் சிண்ட்ரோம்", "க்லைன்ஃபெல்டர் சிண்ட்ரோம்", "சிக்கிள் செல் அனீமியா"],
+    "answer_en": "Down syndrome",
+    "answer_ta": "டவுன் சிண்ட்ரோம்"
+  },
+  {
+    "question_en": "Which law of inheritance explains independent assortment?",
+    "question_ta": "சுதந்திர அணி அடுக்கத்தை விளக்கும் மரபியல் சட்டம் எது?",
+    "options_en": ["Law of dominance", "Law of segregation", "Law of independent assortment", "Mutation theory"],
+    "options_ta": ["மேலோங்கும் சட்டம்", "பிரிப்பு சட்டம்", "சுதந்திர அணி சட்டம்", "மியூட்டேஷன் கோட்பாடு"],
+    "answer_en": "Law of independent assortment",
+    "answer_ta": "சுதந்திர அணி சட்டம்"
+  },
+  {
+    "question_en": "Which part of the plant is responsible for opening and closing stomata?",
+    "question_ta": "தாவரத்தில் வாயுக்களின் திறப்பு மற்றும் மூடுதலுக்கு பொறுப்பான பகுதி எது?",
+    "options_en": ["Guard cells", "Xylem", "Phloem", "Root hairs"],
+    "options_ta": ["காவலர் அணுக்கள்", "ஜைலம்", "ப்ளோயம்", "வேர் முடிகள்"],
+    "answer_en": "Guard cells",
+    "answer_ta": "காவலர் அணுக்கள்"
+  },
+  {
+    "question_en": "Which organ secretes bile juice?",
+    "question_ta": "பித்தச்சாறு சுரக்கும் உறுப்பு எது?",
+    "options_en": ["Kidney", "Gall bladder", "Liver", "Pancreas"],
+    "options_ta": ["சிறுநீரகம்", "பித்தப்பை", "கல்லீரல்", "அகப்பை"],
+    "answer_en": "Liver",
+    "answer_ta": "கல்லீரல்"
+  },
+  {
+    "question_en": "Which pigment captures light energy in photosynthesis?",
+    "question_ta": "ஒளிச்சேர்க்கையில் ஒளி ஆற்றலைப் பிடிக்கும் கறை எது?",
+    "options_en": ["Chlorophyll", "Haemoglobin", "Melanin", "Carotene"],
+    "options_ta": ["குளோரோபில்", "ஹீமோகுளோபின்", "மெலனின்", "கரோட்டின்"],
+    "answer_en": "Chlorophyll",
+    "answer_ta": "குளோரோபில்"
+  },
+  {
+    "question_en": "Which organ in the human body purifies blood?",
+    "question_ta": "மனித உடலில் இரத்தத்தை சுத்திகரிக்கும் உறுப்பு எது?",
+    "options_en": ["Kidney", "Heart", "Liver", "Lungs"],
+    "options_ta": ["சிறுநீரகம்", "இதயம்", "கல்லீரல்", "நுரையீரல்"],
+    "answer_en": "Kidney",
+    "answer_ta": "சிறுநீரகம்"
+  },
+  {
+    "question_en": "Which part of the human brain regulates hunger and thirst?",
+    "question_ta": "மனித மூளையின் எந்த பகுதி பசி மற்றும் தாகத்தை கட்டுப்படுத்துகிறது?",
+    "options_en": ["Medulla", "Cerebrum", "Cerebellum", "Hypothalamus"],
+    "options_ta": ["மெடுல்லா", "செரிப்ரம்", "செரிபெல்லம்", "ஹைப்போத்தாலமஸ்"],
+    "answer_en": "Hypothalamus",
+    "answer_ta": "ஹைப்போத்தாலமஸ்"
+  },
+  {
+    "question_en": "Which structure carries genetic information in a cell?",
+    "question_ta": "அணுவில் மரபியல் தகவலைக் கொண்டிருக்கும் அமைப்பு எது?",
+    "options_en": ["Chromosome", "Mitochondria", "Ribosome", "Cytoplasm"],
+    "options_ta": ["குரோமோசோம்", "மைட்டோகாண்ட்ரியா", "ரைபோசோம்", "சைட்டோபிளாஸம்"],
+    "answer_en": "Chromosome",
+    "answer_ta": "குரோமோசோம்"
+  },
+  {
+    "question_en": "Which organ is called the master gland?",
+    "question_ta": "எந்த சுரப்பி 'மாஸ்டர் சுரப்பி' என்று அழைக்கப்படுகிறது?",
+    "options_en": ["Pituitary gland", "Adrenal gland", "Thyroid gland", "Pancreas"],
+    "options_ta": ["பிட்யூட்டரி சுரப்பி", "அட்ரினல் சுரப்பி", "தைராய்டு சுரப்பி", "அகப்பை"],
+    "answer_en": "Pituitary gland",
+    "answer_ta": "பிட்யூட்டரி சுரப்பி"
+  },
+  {
+    "question_en": "Which organelle is responsible for protein synthesis?",
+    "question_ta": "புரத உற்பத்திக்குப் பொறுப்பான உறுப்பு எது?",
+    "options_en": ["Nucleus", "Ribosome", "Mitochondria", "Lysosome"],
+    "options_ta": ["மையம்", "ரைபோசோம்", "மைட்டோகாண்ட்ரியா", "லைசோசோம்"],
+    "answer_en": "Ribosome",
+    "answer_ta": "ரைபோசோம்"
+  },
+  {
+    "question_en": "Which part of the heart prevents backflow of blood?",
+    "question_ta": "இதயத்தில் இரத்தத்தின் பின்போக்கைத் தடுக்கும்து எது?",
+    "options_en": ["Atrium", "Valves", "Ventricle", "Septum"],
+    "options_ta": ["ஆட்ரியம்", "வால்வுகள்", "வென்ட்ரிக்கிள்", "செப்டம்"],
+    "answer_en": "Valves",
+    "answer_ta": "வால்வுகள்"
+  },
+  {
+    "question_en": "Which blood cells help in clotting?",
+    "question_ta": "இரத்தம் உறைவதற்கு உதவும் அணுக்கள் எவை?",
+    "options_en": ["Platelets", "WBC", "RBC", "Plasma"],
+    "options_ta": ["இரத்த தகடுகள்", "வெள்ளை அணுக்கள்", "சிவப்பணுக்கள்", "பிளாஸ்மா"],
+    "answer_en": "Platelets",
+    "answer_ta": "இரத்த தகடுகள்"
+  },
+  {
+    "question_en": "Which blood group is universal recipient?",
+    "question_ta": "எந்த இரத்தக் குழுவை பொதுப் பெறுபவர் என்று அழைக்கப்படுகிறது?",
+    "options_en": ["O", "B", "AB", "A"],
+    "options_ta": ["O", "B", "AB", "A"],
+    "answer_en": "AB",
+    "answer_ta": "AB"
+  },
+  {
+    "question_en": "Which enzyme in saliva digests starch?",
+    "question_ta": "உமிழ்நீரில் மாவைச் செரிக்கும் எஞ்சைம் எது?",
+    "options_en": ["Lipase", "Amylase", "Pepsin", "Trypsin"],
+    "options_ta": ["லைபேஸ்", "அமிலேஸ்", "பெப்சின்", "டிரிப்சின்"],
+    "answer_en": "Amylase",
+    "answer_ta": "அமிலேஸ்"
+  },
+  {
+    "question_en": "Which organ in fish helps in breathing?",
+    "question_ta": "மீன்களில் சுவாசத்திற்கு உதவும் உறுப்பு எது?",
+    "options_en": ["Skin", "Lungs", "Gills", "Air bladder"],
+    "options_ta": ["சருமம்", "நுரையீரல்", "கில்ஸ்", "காற்று பை"],
+    "answer_en": "Gills",
+    "answer_ta": "கில்ஸ்"
+  },
+  {
+    "question_en": "Which pigment gives red colour to blood?",
+    "question_ta": "இரத்தத்திற்கு சிவப்பு நிறம் தரும் கறை எது?",
+    "options_en": ["Keratin", "Chlorophyll", "Haemoglobin", "Melanin"],
+    "options_ta": ["கெரட்டின்", "குளோரோபில்", "ஹீமோகுளோபின்", "மெலனின்"],
+    "answer_en": "Haemoglobin",
+    "answer_ta": "ஹீமோகுளோபின்"
+  },
+  {
+    "question_en": "Which structure connects the fetus to the placenta?",
+    "question_ta": "கருவை பிளாசென்டாவுடன் இணைக்கும் அமைப்பு எது?",
+    "options_en": ["Umbilical cord", "Amniotic sac", "Cervix", "Fallopian tube"],
+    "options_ta": ["கயிற்றுக்கொடி", "அம்னியோட்டிக் பை", "செர்விக்ஸ்", "பலோப்பியன் குழாய்"],
+    "answer_en": "Umbilical cord",
+    "answer_ta": "கயிற்றுக்கொடி"
+  },
+  {
+    "question_en": "Which part of the neuron receives impulses?",
+    "question_ta": "நியூரானில் மின்துடிப்புகளைப் பெறும் பகுதி எது?",
+    "options_en": ["Axon", "Synapse", "Dendrite", "Myelin sheath"],
+    "options_ta": ["ஆக்சான்", "சைனாப்ஸ்", "டெண்ட்ரைட்", "மைலின் உறை"],
+    "answer_en": "Dendrite",
+    "answer_ta": "டெண்ட்ரைட்"
+  },
+  {
+    "question_en": "Which gland produces adrenaline?",
+    "question_ta": "அட்ரினலின் சுரக்கும் சுரப்பி எது?",
+    "options_en": ["Pancreas", "Adrenal gland", "Pituitary gland", "Thyroid gland"],
+    "options_ta": ["அகப்பை", "அட்ரினல் சுரப்பி", "பிட்யூட்டரி சுரப்பி", "தைராய்டு சுரப்பி"],
+    "answer_en": "Adrenal gland",
+    "answer_ta": "அட்ரினல் சுரப்பி"
+  },
+  {
+    "question_en": "Which vitamin deficiency causes rickets?",
+    "question_ta": "எந்த வைட்டமின் குறைபாடு ரிக்கெட்ஸ் நோயை ஏற்படுத்தும்?",
+    "options_en": ["Vitamin A", "Vitamin D", "Vitamin C", "Vitamin K"],
+    "options_ta": ["வைட்டமின் A", "வைட்டமின் D", "வைட்டமின் C", "வைட்டமின் K"],
+    "answer_en": "Vitamin D",
+    "answer_ta": "வைட்டமின் D"
+  },
+  {
+    "question_en": "Which system in humans controls voluntary actions?",
+    "question_ta": "மனிதர்களில் சுய விருப்ப செயல்களை கட்டுப்படுத்தும் அமைப்பு எது?",
+    "options_en": ["Respiratory system", "Nervous system", "Digestive system", "Excretory system"],
+    "options_ta": ["சுவாச அமைப்பு", "நரம்பியல் அமைப்பு", "செரிமான அமைப்பு", "விலக்கு அமைப்பு"],
+    "answer_en": "Nervous system",
+    "answer_ta": "நரம்பியல் அமைப்பு"
+  }
+]
+

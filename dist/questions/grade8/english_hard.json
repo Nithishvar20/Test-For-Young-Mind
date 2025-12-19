@@ -1,0 +1,293 @@
+[
+  {
+    "question_en": "Why did Ramayya and his wife keep the diamond nose-stud instead of handing it over?",
+    "question_ta": "ராமையா மற்றும் அவரது மனைவி வைர மூக்கணியை ஒப்படைக்காமல் வைத்துக் கொண்டதற்கு காரணம் என்ன?",
+    "options_en": [
+      "They were afraid of public disgrace if the police confiscated it.",
+      "They wanted to sell it.",
+      "They believed it was a gift from the birds.",
+      "They thought it was worthless."
+    ],
+    "options_ta": [
+      "போலீசார் பறிமுதல் செய்தால் மக்கள் அவமதிப்பார்கள் என்று அவர்கள் பயந்தனர்.",
+      "அதை விற்க விரும்பினர்.",
+      "அது பறவைகளின் பரிசு என்று நம்பினர்.",
+      "அது மதிப்பற்றது என்று நினைத்தனர்."
+    ],
+    "answer_en": "They were afraid of public disgrace if the police confiscated it.",
+    "answer_ta": "போலீசார் பறிமுதல் செய்தால் மக்கள் அவமதிப்பார்கள் என்று அவர்கள் பயந்தனர்."
+  },
+  {
+    "question_en": "What life lesson does the quality Preening of birds teach?",
+    "question_ta": "பறவைகளின் 'தன்னை அழகுபடுத்துதல்' குணம் எங்களை எந்த வாழ்க்கைப் பாடத்தை கற்பிக்கிறது?",
+    "options_en": ["Time consciousness","Unity","Team work","Groom yourself"],
+    "options_ta": ["நேரம் பற்றிய விழிப்புணர்வு","ஒற்றுமை","குழுவாகச் செயல்படுதல்","உங்களை அழகுபடுத்திக் கொள்ளுங்கள்"],
+    "answer_en": "Groom yourself",
+    "answer_ta": "உங்களை அழகுபடுத்திக் கொள்ளுங்கள்"
+  },
+  {
+    "question_en": "How did the male sparrow react after finding the diamond nose-stud?",
+    "question_ta": "வைர மூக்கணியை கண்டதும் ஆண் சிட்டுக்குருவி எப்படி நடந்துகொண்டது?",
+    "options_en": ["He ignored it.","He gave it to Ramayya.","He showed it to the female sparrow and sought her opinion.","He wanted to keep it."],
+    "options_ta": ["அதைப் புறக்கணித்தான்.","அதை ராமையாவிற்கு கொடுத்தான்.","அதை பெண் சிட்டுக்குருவிக்கு காட்டி அவளது கருத்தை கேட்டான்.","அதை தன்னிடம் வைத்துக் கொள்ள விரும்பினான்."],
+    "answer_en": "He showed it to the female sparrow and sought her opinion.",
+    "answer_ta": "அதை பெண் சிட்டுக்குருவிக்கு காட்டி அவளது கருத்தை கேட்டான்."
+  },
+  {
+    "question_en": "What caused Ramayya’s wife to become ill?",
+    "question_ta": "ராமையாவின் மனைவி ஏன் உடல்நலக்குறைவால் பாதிக்கப்பட்டாள்?",
+    "options_en": ["She caught a cold.","She was bitten by a cat.","She was injured while cleaning.","She panicked after hiding the stud."],
+    "options_ta": ["அவள் சளி பிடித்தாள்.","அவளை ஒரு பூனை கடித்தது.","அவள் சுத்தம் செய்யும் போது காயமடைந்தாள்.","மூக்கணியை மறைத்து வைத்த பிறகு அவள் பதற்றமடைந்தாள்."],
+    "answer_en": "She panicked after hiding the stud.",
+    "answer_ta": "மூக்கணியை மறைத்து வைத்த பிறகு அவள் பதற்றமடைந்தாள்."
+  },
+  {
+    "question_en": "Which of the following best describes the male sparrow?",
+    "question_ta": "பின்வரும் எது ஆண் சிட்டுக்குருவியை சிறந்தவாறு விவரிக்கிறது?",
+    "options_en": ["Cruel and self-centered","Compassionate","Innocent","Forgiving"],
+    "options_ta": ["கொடூரமானதும் சுயநலமுடையதும்","அன்பானவன்","அப்பாவி","மன்னிப்பவனாகியவன்"],
+    "answer_en": "Cruel and self-centered",
+    "answer_ta": "கொடூரமானதும் சுயநலமுடையதும்"
+  },
+  {
+    "question_en": "Who is called the “special hero” in the poem?",
+    "question_ta": "கவிதையில் 'சிறப்பு ஹீரோ' என்று யாரை அழைக்கிறார்கள்?",
+    "options_en": ["The mother","The teacher","The friend","The father"],
+    "options_ta": ["தாய்","ஆசிரியர்","நண்பர்","தந்தை"],
+    "answer_en": "The father",
+    "answer_ta": "தந்தை"
+  },
+  {
+    "question_en": "What emotion did the child feel in the father’s arms?",
+    "question_ta": "தந்தையின் கைகளில் குழந்தை எந்த உணர்ச்சியை உணர்ந்தது?",
+    "options_en": ["Anger","Fear","Love and safety","Surprise"],
+    "options_ta": ["கோபம்","பயம்","அன்பும் பாதுகாப்பும்","ஆச்சரியம்"],
+    "answer_en": "Love and safety",
+    "answer_ta": "அன்பும் பாதுகாப்பும்"
+  },
+  {
+    "question_en": "What is everlasting in the poem?",
+    "question_ta": "கவிதையில் எது நித்தியமானது என்று கூறப்படுகிறது?",
+    "options_en": ["The child’s smile","The mother’s care","The father’s love","The hero’s strength"],
+    "options_ta": ["குழந்தையின் புன்னகை","தாயின் பராமரிப்பு","தந்தையின் அன்பு","வீரனின் வலிமை"],
+    "answer_en": "The father’s love",
+    "answer_ta": "தந்தையின் அன்பு"
+  },
+  {
+    "question_en": "Who is the poet of Special Hero?",
+    "question_ta": "'ஸ்பெஷல் ஹீரோ' கவிதையின் கவிஞர் யார்?",
+    "options_en": ["Sarojini Naidu","William Blake","Edgar Guest","Christina M. Kerschen"],
+    "options_ta": ["சரோஜினி நாயுடு","வில்லியம் பிளேக்","எட்கார் கெஸ்ட்","கிரிஸ்டினா எம். கேர்சன்"],
+    "answer_en": "Christina M. Kerschen",
+    "answer_ta": "கிரிஸ்டினா எம். கேர்சன்"
+  },
+  {
+    "question_en": "The line 'There is something special about a father’s love' is an example of—",
+    "question_ta": "'தந்தையின் அன்பில் ஏதோ சிறப்பு உள்ளது' என்ற வரி எதற்கான உதாரணம்?",
+    "options_en": ["Simile","Metaphor","Alliteration","Irony"],
+    "options_ta": ["உவமை","உருவகம்","முன்னொட்டிசைவு","இரசம்"],
+    "answer_en": "Alliteration",
+    "answer_ta": "முன்னொட்டிசைவு"
+  },
+  {
+    "question_en": "Where was Arun waiting in 'The Woman on Platform 8'?",
+    "question_ta": "'பிளாட்ஃபார்ம் 8ல் உள்ள பெண்' கதையில் அருண் எங்கு காத்துக்கொண்டிருந்தான்?",
+    "options_en": ["Platform 3","Platform 8","Platform 7","Platform 4"],
+    "options_ta": ["பிளாட்ஃபார்ம் 3","பிளாட்ஃபார்ம் 8","பிளாட்ஃபார்ம் 7","பிளாட்ஃபார்ம் 4"],
+    "answer_en": "Platform 8",
+    "answer_ta": "பிளாட்ஃபார்ம் 8"
+  },
+  {
+    "question_en": "What time was Arun’s train expected?",
+    "question_ta": "அருணின் ரயில் எப்போது வருவதாக எதிர்பார்க்கப்பட்டது?",
+    "options_en": ["9 a.m.","7 p.m.","12 midnight","3 p.m."],
+    "options_ta": ["காலை 9 மணி","மாலை 7 மணி","நள்ளிரவு 12 மணி","மதியம் 3 மணி"],
+    "answer_en": "12 midnight",
+    "answer_ta": "நள்ளிரவு 12 மணி"
+  },
+  {
+    "question_en": "What food did the woman buy for Arun?",
+    "question_ta": "பெண் அருணுக்காக என்ன உணவு வாங்கினாள்?",
+    "options_en": ["Coffee and cake","Lemon juice and biscuits","Idli and chutney","Tea and samosas"],
+    "options_ta": ["காபியும் கேக்கும்","எலுமிச்சை சாறும் பிஸ்கட்டும்","இட்லியும் சட்னியும்","டீ மற்றும் சமோசா"],
+    "answer_en": "Tea and samosas",
+    "answer_ta": "டீ மற்றும் சமோசா"
+  },
+  {
+    "question_en": "How did Arun feel about the woman?",
+    "question_ta": "அந்த பெண்ணைப் பற்றி அருண் எப்படி உணர்ந்தான்?",
+    "options_en": ["Angry","Shy but grateful","Suspicious","Indifferent"],
+    "options_ta": ["கோபமாக","வெட்கப்பட்டாலும் நன்றி கொண்டவன்","சந்தேகப்பட்டான்","அக்கறையற்றவன்"],
+    "answer_en": "Shy but grateful",
+    "answer_ta": "வெட்கப்பட்டாலும் நன்றி கொண்டவன்"
+  },
+  {
+    "question_en": "Why did the woman claim to be Arun’s mother?",
+    "question_ta": "அந்த பெண் அருணின் தாய் என்று ஏன் கூறினாள்?",
+    "options_en": ["To protect him from suspicion","To mislead Satish’s mother","To trick Arun","Because she was his real mother"],
+    "options_ta": ["அவனை சந்தேகத்திலிருந்து காப்பாற்ற","சதீஷின் தாயை தவறாக வழிநடத்த","அருணை ஏமாற்ற","அவள் உண்மையான தாய் என்பதால்"],
+    "answer_en": "To protect him from suspicion",
+    "answer_ta": "அவனை சந்தேகத்திலிருந்து காப்பாற்ற"
+  },
+  {
+    "question_en": "What was Satish’s opinion of Arun?",
+    "question_ta": "சதீஷின் கருத்துப்படி அருண் எப்படிப்பட்டவன்?",
+    "options_en": ["Best singer in the class","Best reader in the class","Best bowler in the class","Best painter in the class"],
+    "options_ta": ["வகுப்பில் சிறந்த பாடகர்","வகுப்பில் சிறந்த வாசகர்","வகுப்பில் சிறந்த பந்துவீச்சாளர்","வகுப்பில் சிறந்த ஓவியர்"],
+    "answer_en": "Best bowler in the class",
+    "answer_ta": "வகுப்பில் சிறந்த பந்துவீச்சாளர்"
+  },
+  {
+    "question_en": "How did Arun bid farewell to the woman?",
+    "question_ta": "அந்த பெண்ணிடம் அருண் எப்படி விடைபெற்றான்?",
+    "options_en": ["By touching her feet","By shaking hands","By kissing her cheek","By giving a gift"],
+    "options_ta": ["அவளது கால்களைத் தொட்டு","கைகளை குலுக்கி","அவளது கன்னத்தில் முத்தமிட்டு","ஒரு பரிசு கொடுத்து"],
+    "answer_en": "By kissing her cheek",
+    "answer_ta": "அவளது கன்னத்தில் முத்தமிட்டு"
+  },
+  {
+    "question_en": "What were Arun’s last words?",
+    "question_ta": "அருணின் கடைசி வார்த்தைகள் என்ன?",
+    "options_en": ["Goodbye, sister","Goodbye, aunt","Goodbye, mother","Goodbye, teacher"],
+    "options_ta": ["பிரியாவிடை, சகோதரி","பிரியாவிடை, அத்தை","பிரியாவிடை, தாய்","பிரியாவிடை, ஆசிரியர்"],
+    "answer_en": "Goodbye, mother",
+    "answer_ta": "பிரியாவிடை, தாய்"
+  },
+  {
+    "question_en": "How did Satish’s mother treat Arun’s ‘mother’?",
+    "question_ta": "சதீஷின் தாய் அருணின் 'தாயை' எப்படி நடத்தினாள்?",
+    "options_en": ["Patronizing and doubtful","Warm and respectful","Completely ignored her","Invited her for tea"],
+    "options_ta": ["அவமதித்து சந்தேகித்தாள்","அன்பாகவும் மரியாதையாகவும்","முழுமையாக புறக்கணித்தாள்","டீக்கு அழைத்தாள்"],
+    "answer_en": "Patronizing and doubtful",
+    "answer_ta": "அவமதித்து சந்தேகித்தாள்"
+  },
+  {
+    "question_en": "Who wrote The Woman on Platform 8?",
+    "question_ta": "'பிளாட்ஃபார்ம் 8ல் உள்ள பெண்' கதையை யார் எழுதியுள்ளார்?",
+    "options_en": ["R.K. Narayan","Ruskin Bond","C. Rajagopalachari","Rabindranath Tagore"],
+    "options_ta": ["ஆர்.கே. நாராயணன்","ரஸ்கின் பாண்ட்","சி. ராஜகோபாலாச்சாரி","ரபீந்திரநாத் தாகூர்"],
+    "answer_en": "Ruskin Bond",
+    "answer_ta": "ரஸ்கின் பாண்ட்"
+  },
+  {
+    "question_en": "What disability did Ajay suffer from?",
+    "question_ta": "அஜய் எவ்வகை உடல் குறைபாட்டால் பாதிக்கப்பட்டார்?",
+    "options_en": ["Blindness","Hearing impairment","Stammering","Lameness"],
+    "options_ta": ["குருட்டுத்தன்மை","கேள்வி திறன் குறைவு","தடுமாறிப் பேசுதல்","முடக்கத்தன்மை"],
+    "answer_en": "Hearing impairment",
+    "answer_ta": "கேள்வி திறன் குறைவு"
+  },
+  {
+    "question_en": "What traditional art did Ajay master?",
+    "question_ta": "அஜய் எந்த பாரம்பரியக் கலையில் நிபுணத்துவம் பெற்றார்?",
+    "options_en": ["Modern digital art","Miniature painting","Graffiti","Pottery"],
+    "options_ta": ["நவீன டிஜிட்டல் கலை","சிறுபட ஓவியம்","சுவர் ஓவியம்","மண் பானைகள்"],
+    "answer_en": "Miniature painting",
+    "answer_ta": "சிறுபட ஓவியம்"
+  },
+  {
+    "question_en": "What special skill does Ajay have?",
+    "question_ta": "அஜய்க்கு உள்ள சிறப்பு திறமை என்ன?",
+    "options_en": ["Painting on grains of rice","Designing coins","Singing while painting","Making clay dolls"],
+    "options_ta": ["அரிசி தானியங்களில் ஓவியம்","நாணயங்களை வடிவமைத்தல்","ஓவியம் வரையும் போது பாடுதல்","மண் பொம்மைகள் செய்வது"],
+    "answer_en": "Painting on grains of rice",
+    "answer_ta": "அரிசி தானியங்களில் ஓவியம்"
+  },
+  {
+    "question_en": "Who trained Ajay?",
+    "question_ta": "அஜய்க்கு யார் பயிற்சி அளித்தார்கள்?",
+    "options_en": ["Ruskin Bond","Sua Lal and Asha Devi","Ramanujan","Kalam"],
+    "options_ta": ["ரஸ்கின் பாண்ட்","சுவா லால் மற்றும் ஆஷா தேவி","ராமானுஜன்","அப்துல் கலாம்"],
+    "answer_en": "Sua Lal and Asha Devi",
+    "answer_ta": "சுவா லால் மற்றும் ஆஷா தேவி"
+  },
+  {
+    "question_en": "Who awarded Ajay a national award?",
+    "question_ta": "அஜய்க்கு தேசிய விருதை யார் வழங்கினார்?",
+    "options_en": ["Dr. A.P.J. Abdul Kalam","C.V. Raman","Rabindranath Tagore","Subhash Bose"],
+    "options_ta": ["டாக்டர் அப்துல் கலாம்","சி.வி. ராமன்","ரபீந்திரநாத் தாகூர்","சுபாஷ் போஸ்"],
+    "answer_en": "Dr. A.P.J. Abdul Kalam",
+    "answer_ta": "டாக்டர் அப்துல் கலாம்"
+  },
+  {
+    "question_en": "Who inspired Ilavazhagi to play carrom?",
+    "question_ta": "இளவழகியை கரம் விளையாட யார் ஊக்குவித்தார்?",
+    "options_en": ["Her uncle","Her father","Her coach","Her teacher"],
+    "options_ta": ["அவளது மாமா","அவளது தந்தை","அவளது பயிற்சியாளர்","அவளது ஆசிரியர்"],
+    "answer_en": "Her father",
+    "answer_ta": "அவளது தந்தை"
+  },
+  {
+    "question_en": "What obstacle did Ilavazhagi face?",
+    "question_ta": "இளவழகி எத்தகைய தடையை சந்தித்தார்?",
+    "options_en": ["Financial hardship","Lack of interest","Poor health","No training"],
+    "options_ta": ["நிதி பற்றாக்குறை","ஆர்வம் இன்மை","உடல்நல குறைவு","பயிற்சி இன்மை"],
+    "answer_en": "Financial hardship",
+    "answer_ta": "நிதி பற்றாக்குறை"
+  },
+  {
+    "question_en": "Which title did Ilavazhagi win in Chennai, 2008?",
+    "question_ta": "சென்னை 2008ல் இளவழகி எந்த பட்டத்தை வென்றார்?",
+    "options_en": ["SAARC doubles","Women’s singles","World Cup","Asia Cup"],
+    "options_ta": ["சார்க் இரட்டையர்","பெண்கள் ஒற்றையர்","உலகக் கோப்பை","ஆசியக் கோப்பை"],
+    "answer_en": "Women’s singles",
+    "answer_ta": "பெண்கள் ஒற்றையர்"
+  },
+  {
+    "question_en": "How many medals does Ilavazhagi hold?",
+    "question_ta": "இளவழகி மொத்தம் எத்தனை பதக்கங்கள் பெற்றுள்ளார்?",
+    "options_en": ["260","100","50","300"],
+    "options_ta": ["260","100","50","300"],
+    "answer_en": "260",
+    "answer_ta": "260"
+  },
+  {
+    "question_en": "What is the key lesson from Ilavazhagi’s life?",
+    "question_ta": "இளவழகியின் வாழ்க்கையிலிருந்து எது முக்கியப் பாடமாகும்?",
+    "options_en": ["Luck is the key","Family support unnecessary","Hard work leads to dreams","Success comes only with money"],
+    "options_ta": ["அதிர்ஷ்டமே முக்கியம்","குடும்ப ஆதரவு தேவையில்லை","கடின உழைப்பு கனவுகளை அடைய உதவும்","வெற்றி பணக்காரர்களுக்கே வரும்"],
+    "answer_en": "Hard work leads to dreams",
+    "answer_ta": "கடின உழைப்பு கனவுகளை அடைய உதவும்"
+  },
+  {
+    "question_en": "How did Newton measure the wind as a boy?",
+    "question_ta": "இளம் வயதில் நியூட்டன் காற்றின் வலிமையை எவ்வாறு அளந்தார்?",
+    "options_en": ["By jumping against it","By timing leaves","By observing trees","By windmill"],
+    "options_ta": ["அதற்கு எதிராக குதித்து","இலைகளை கணக்கிட்டு","மரங்களை கவனித்து","காற்றாடி மூலம்"],
+    "answer_en": "By jumping against it",
+    "answer_ta": "அதற்கு எதிராக குதித்து"
+  },
+  {
+    "question_en": "What was special about Newton’s water-clock?",
+    "question_ta": "நியூட்டனின் நீர்க் கடிகாரத்தின் சிறப்பு என்ன?",
+    "options_en": ["It played music","It told time by water drops","It used the sun’s shadow","It was the first in England"],
+    "options_ta": ["இசை ஒலித்தது","தண்ணீர் சொட்டுவதால் நேரம் கூறியது","சூரிய நிழலைப் பயன்படுத்தியது","இங்கிலாந்தில் முதன்மையானது"],
+    "answer_en": "It told time by water drops",
+    "answer_ta": "தண்ணீர் சொட்டுவதால் நேரம் கூறியது"
+  },
+  {
+    "question_en": "What did Newton build besides a water clock?",
+    "question_ta": "நீர்க் கடிகாரத்திற்கு அப்பால் நியூட்டன் என்ன கட்டினார்?",
+    "options_en": ["Steam engine","Model windmill","Telescope","Compass"],
+    "options_ta": ["நீராவி இயந்திரம்","சிறிய காற்றாடி","தொலைநோக்கி","திசைகாட்டி"],
+    "answer_en": "Model windmill",
+    "answer_ta": "சிறிய காற்றாடி"
+  },
+  {
+    "question_en": "How did Newton describe his own knowledge?",
+    "question_ta": "நியூட்டன் தனது அறிவைப் பற்றி எவ்வாறு விவரித்தார்?",
+    "options_en": ["A wise king of science","Machine that never stopped","Child on seashore with shells","Smartest man alive"],
+    "options_ta": ["அறிவியல் மன்னன்","நிறுத்தாமல் இயங்கும் இயந்திரம்","கடற்கரையில் சிப்பிகளை சேகரிக்கும் குழந்தை","உலகின் புத்திசாலி மனிதன்"],
+    "answer_en": "Child on seashore with shells",
+    "answer_ta": "கடற்கரையில் சிப்பிகளை சேகரிக்கும் குழந்தை"
+  },
+  {
+    "question_en": "Why did Jim Corbett hunt man-eaters?",
+    "question_ta": "ஜிம் கார்பெட் மனிதரைத் தின்னும் விலங்குகளை ஏன் வேட்டையாடினார்?",
+    "options_en": ["To protect people at govt’s request","For sport","To earn money","To gain fame"],
+    "options_ta": ["அரசின் கோரிக்கைக்கு இணங்கி மக்களை காப்பாற்ற","விளையாட்டிற்காக","பணம் சம்பாதிக்க","புகழ் பெற"],
+    "answer_en": "To protect people at govt’s request",
+    "answer_ta": "அரசின் கோரிக்கைக்கு இணங்கி மக்களை காப்பாற்ற"
+  }
+]
+  

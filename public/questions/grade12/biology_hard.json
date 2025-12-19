@@ -1,0 +1,632 @@
+[
+  {
+    "question_en": "Assertion (A): Haemophilia is more common in males. Reason (R): It is caused by a recessive gene on X chromosome.",
+    "question_ta": "உறுதி (A): ஹீமோபிலியா ஆண்களில் அதிகமாக காணப்படுகிறது. காரணம் (R): இது X குரோமோசோமில் உள்ள பின்தள ஜீனால் ஏற்படுகிறது.",
+    "options_en": [
+      "Both false",
+      "A true R false",
+      "A and R true, R not explanation",
+      "A and R true, R explains A"
+    ],
+    "options_ta": [
+      "இரண்டுமே தவறு",
+      "A உண்மை R தவறு",
+      "A மற்றும் R உண்மை, ஆனால் R விளக்கம் அல்ல",
+      "A மற்றும் R உண்மை, R A-ஐ விளக்குகிறது"
+    ],
+    "answer_en": "A and R true, R explains A",
+    "answer_ta": "A மற்றும் R உண்மை, R A-ஐ விளக்குகிறது"
+  },
+  {
+    "question_en": "Which chromosomal abnormality results in Down's syndrome?",
+    "question_ta": "டவுன்ஸ் சின்ட்ரோமோ எதனால் ஏற்படுகிறது?",
+    "options_en": [
+      "Trisomy of chromosome 21",
+      "Trisomy 13",
+      "Monosomy of X",
+      "Translocation of 9 and 22"
+    ],
+    "options_ta": [
+      "21 குரோமோசோம் ட்ரைசோமி",
+      "13 ட்ரைசோமி",
+      "X மோனோசோமி",
+      "9 மற்றும் 22 மாற்றம்"
+    ],
+    "answer_en": "Trisomy of chromosome 21",
+    "answer_ta": "21 குரோமோசோம் ட்ரைசோமி"
+  },
+  {
+    "question_en": "In pedigree chart, a carrier female for an X-linked recessive disease is usually represented as:",
+    "question_ta": "பிரதுப்பு வரைபடத்தில் X-இல் பின்தள நோயின் கடத்திய பெண்ணை எப்படிக் குறிக்கின்றனர்?",
+    "options_en": [
+      "Diamond",
+      "Fully shaded circle",
+      "Half-shaded circle",
+      "Unshaded square"
+    ],
+    "options_ta": [
+      "வைரம்",
+      "முழு நிறம் வட்டம்",
+      "அரை நிறம் வட்டம்",
+      "நிறமில்லா சதுரம்"
+    ],
+    "answer_en": "Half-shaded circle",
+    "answer_ta": "அரை நிறம் வட்டம்"
+  },
+  {
+    "question_en": "Which enzyme is used in PCR to synthesize DNA at high temperatures?",
+    "question_ta": "PCR இல் அதிக வெப்பநிலையில் DNA உருவாக்க எந்த என்சைம் பயன்படுகிறது?",
+    "options_en": [
+      "Restriction enzyme",
+      "DNA ligase",
+      "Taq DNA polymerase",
+      "Reverse transcriptase"
+    ],
+    "options_ta": [
+      "குறைசல் என்சைம்",
+      "DNA லைகேஸ்",
+      "டாக் பாலிமரேஸ்",
+      "ரிவர்ஸ் டிரான்ஸ்கிரிப்டேஸ்"
+    ],
+    "answer_en": "Taq DNA polymerase",
+    "answer_ta": "டாக் பாலிமரேஸ்"
+  },
+  {
+    "question_en": "Which process explains formation of new species over time?",
+    "question_ta": "காலத்துக்கு புதிய இனங்கள் உருவாக முன்னால் என்ன பெயர்?",
+    "options_en": [
+      "Mutation",
+      "Genetic drift",
+      "Speciation",
+      "Gene flow"
+    ],
+    "options_ta": [
+      "மியூட்டேஷன்",
+      "மரபணு சஞ்சலம்",
+      "இனவியல்",
+      "ஜீன் ஓடை"
+    ],
+    "answer_en": "Speciation",
+    "answer_ta": "இனவியல்"
+  },
+  {
+    "question_en": "Choose the statement true about codominance:",
+    "question_ta": "கோடொமினன்ஸ் குறித்து எது உண்மை?",
+    "options_en": [
+      "One allele masks the other",
+      "Both alleles expressed in heterozygote",
+      "Trait disappears",
+      "Only dominant allele expressed"
+    ],
+    "options_ta": [
+      "ஒரு ஆலில் மற்றொன்றை மறைக்கிறது",
+      "இரு ஆலில்களும் வெளிப்படுகின்றன",
+      "பண்பு மறைகிறது",
+      "முன்னிலை ஆலில் மட்டுமே வெளிப்படுகிறது"
+    ],
+    "answer_en": "Both alleles expressed in heterozygote",
+    "answer_ta": "இரு ஆலில்களும் வெளிப்படுகின்றன"
+  },
+  {
+    "question_en": "Which of the following is NOT a GMO concern?",
+    "question_ta": "பின்வரும் எந்தது GMO பற்றிய கவலை அல்ல?",
+    "options_en": [
+      "Natural evolution",
+      "Ethical issues",
+      "Gene escape",
+      "Allergenicity"
+    ],
+    "options_ta": [
+      "சார்பு வளர்ச்சி",
+      "நெறி பிரச்சினைகள்",
+      "ஜீன் வெளியேறுதல்",
+      "அலர்ஜெனிசிட்டி"
+    ],
+    "answer_en": "Natural evolution",
+    "answer_ta": "சார்பு வளர்ச்சி"
+  },
+  {
+    "question_en": "Assertion (A): PCR amplifies target DNA. Reason (R): It uses repeated cycles of denaturation, annealing and extension.",
+    "question_ta": "A: PCR இலக்கு DNA-ஐ பெருக்குகிறது. R: இது நெடுந்தகடு, இணைப்பு மற்றும் நீட்டிப்பு சுழற்சிகளைப் பயன்படுத்துகிறது.",
+    "options_en": [
+      "A true R false",
+      "Both false",
+      "A and R true, R not explanation",
+      "A and R true, R explains A"
+    ],
+    "options_ta": [
+      "A உண்மை R தவறு",
+      "இரண்டும் தவறு",
+      "A மற்றும் R உண்மை, ஆனால் R விளக்கம் அல்ல",
+      "A மற்றும் R உண்மை, R A-ஐ விளக்குகிறது"
+    ],
+    "answer_en": "A and R true, R explains A",
+    "answer_ta": "A மற்றும் R உண்மை, R A-ஐ விளக்குகிறது"
+  },
+  {
+    "question_en": "Which mechanism causes high genetic variability in sexual reproduction?",
+    "question_ta": "பாலினப் பெருக்கத்தில் அதிக மரபணு மாறுபாடு ஏற்பட என்ன காரணம்?",
+    "options_en": [
+      "Budding",
+      "Binary fission",
+      "Crossing over during meiosis",
+      "Cloning"
+    ],
+    "options_ta": [
+      "மூட்டுதல்",
+      "இருமடிப்பு",
+      "மியோசிஸ் போது கிராஸிங் ஓவர்",
+      "கிளோனிங்"
+    ],
+    "answer_en": "Crossing over during meiosis",
+    "answer_ta": "மியோசிஸ் போது கிராஸிங் ஓவர்"
+  },
+  {
+    "question_en": "Which conservation method stores seeds at low temperatures long-term?",
+    "question_ta": "விதைகளை நீண்ட காலத்திற்கு குறைந்த வெப்பநிலையில் சேமிக்கும் முறையையெது?",
+    "options_en": [
+      "Field gene bank",
+      "Seed bank",
+      "In situ conservation",
+      "Sacred groves"
+    ],
+    "options_ta": [
+      "கள மரபு வங்கி",
+      "விதை வங்கி",
+      "இன் சிடு பாதுகாப்பு",
+      "புனித காடு"
+    ],
+    "answer_en": "Seed bank",
+    "answer_ta": "விதை வங்கி"
+  },
+  {
+    "question_en": "Which law explains independent assortment?",
+    "question_ta": "சுயாதீன ஒழுங்கமைப்பை எது விளக்குகிறது?",
+    "options_en": [
+      "Mendel's law of independent assortment",
+      "Law of segregation",
+      "Law of dominance",
+      "Hardy-Weinberg"
+    ],
+    "options_ta": [
+      "மென்டெல் சுயாதீன ஒழுங்கமைப்பு",
+      "பிரித்தல் சட்டம்",
+      "மேலாதிக்க சட்டம்",
+      "ஹார்டி-வைன்பெர்க்"
+    ],
+    "answer_en": "Mendel's law of independent assortment",
+    "answer_ta": "மென்டெல் சுயாதீன ஒழுங்கமைப்பு"
+  },
+  {
+    "question_en": "Which leads to speciation when populations are geographically isolated?",
+    "question_ta": "மக்கள் தொகைகள் புவியியல் பேதப்பட்டால் இனவியல் ஏற்படுவதற்கு வழி எந்தது?",
+    "options_en": [
+      "Sympatric speciation",
+      "Allopatric speciation",
+      "Hybridization",
+      "Genetic drift"
+    ],
+    "options_ta": [
+      "சிம்பாட்ரிக் இனவியல்",
+      "ஆலோபாட்ரிக் இனவியல்",
+      "இணைப்பு",
+      "மரபணு சஞ்சலம்"
+    ],
+    "answer_en": "Allopatric speciation",
+    "answer_ta": "ஆலோபாட்ரிக் இனவியல்"
+  },
+  {
+    "question_en": "Which vaccine uses genetic code for antigen production?",
+    "question_ta": "எந்த தடுப்பூசி எதிர்ப்பொருளுக்கான மரபுக் குறியீட்டை பயன்படுத்துகிறது?",
+    "options_en": [
+      "Live attenuated",
+      "Inactivated vaccine",
+      "mRNA vaccine",
+      "Toxoid vaccine"
+    ],
+    "options_ta": [
+      "வாழும் தாழ்த்தப்பட்ட",
+      "இணக்கப்பட்ட",
+      "mRNA",
+      "டாக்சாய்ட்"
+    ],
+    "answer_en": "mRNA vaccine",
+    "answer_ta": "mRNA"
+  },
+  {
+    "question_en": "Which is true for Hardy-Weinberg equilibrium?",
+    "question_ta": "ஹார்டி-வைன்பெர்க் சமநிலை பற்றி எது உண்மை?",
+    "options_en": [
+      "Non-random mating",
+      "High mutation rates",
+      "No evolution if equilibrium holds",
+      "Large genetic drift"
+    ],
+    "options_ta": [
+      "சுயமறைமற்ற திருமணம்",
+      "அதிக மியூட்டேஷன்",
+      "சமநிலை இருந்தால் சராசரி மாற்றமில்லை",
+      "பெரிய மரபணு சஞ்சலம்"
+    ],
+    "answer_en": "No evolution if equilibrium holds",
+    "answer_ta": "சமநிலை இருந்தால் சராசரி மாற்றமில்லை"
+  },
+  {
+    "question_en": "Which is an example of ex situ conservation?",
+    "question_ta": "Ex situ பாதுகாப்பின் உதாரணம் எது?",
+    "options_en": [
+      "Sacred grove",
+      "National park",
+      "Botanical garden",
+      "In situ reserve"
+    ],
+    "options_ta": [
+      "புனித காடு",
+      "தேசிய பூங்கா",
+      "தாவரப் பூங்கா",
+      "இன்சிடு ரிசர்வ்"
+    ],
+    "answer_en": "Botanical garden",
+    "answer_ta": "தாவரப் பூங்கா"
+  },
+  {
+    "question_en": "Which genetic disorder is due to point mutation in beta chain of haemoglobin?",
+    "question_ta": "ஹீமோகுளோபின் பெட்டா சங்கிலியில் புள்ளி மியூட்டேஷன் காரணமாக வரும் நோய் எது?",
+    "options_en": [
+      "Sickle cell anaemia",
+      "Cystic fibrosis",
+      "Down's syndrome",
+      "Turner's syndrome"
+    ],
+    "options_ta": [
+      "சிக்கிள் செல்அனீமியா",
+      "சிஸ்டிக் ஃபைப்ரோசிஸ்",
+      "டவுன்ஸ்",
+      "டர்னர்"
+    ],
+    "answer_en": "Sickle cell anaemia",
+    "answer_ta": "சிக்கிள் செல்அனீமியா"
+  },
+  {
+    "question_en": "Assertion (A): Transgenic animals can produce human proteins. Reason (R): Recombinant DNA introduced into animal genome can express human genes.",
+    "question_ta": "A: மாற்றமடைந்த விலங்குகள் மனித புரதங்களை உற்பத்தி செய்யலாம். R: மரபணு DNA விலங்கின் ஜெனோமில் அறிமுகப்படுத்தல் மனித ஜீன்களை வெளிப்படுத்தும்.",
+    "options_en": [
+      "A and R true, R explains A",
+      "A false R true",
+      "A true R false",
+      "Both false"
+    ],
+    "options_ta": [
+      "A மற்றும் R உண்மை, R A-ஐ விளக்குகிறது",
+      "A தவறு R உண்மை",
+      "A உண்மை R தவறு",
+      "இரண்டும் தவறு"
+    ],
+    "answer_en": "A and R true, R explains A",
+    "answer_ta": "A மற்றும் R உண்மை, R A-ஐ விளக்குகிறது"
+  },
+  {
+    "question_en": "Which chromosomal pattern is seen in Turner syndrome?",
+    "question_ta": "டர்னர் சின்ட்ரோமோவில் காணப்படும் குரோமோசோமியல் மாதிரி எது?",
+    "options_en": [
+      "Trisomy 21",
+      "47,XXY",
+      "46,XY",
+      "45,X (XO)"
+    ],
+    "options_ta": [
+      "டைரசோமி 21",
+      "47,XXY",
+      "46,XY",
+      "45,X (XO)"
+    ],
+    "answer_en": "45,X (XO)",
+    "answer_ta": "45,X (XO)"
+  },
+  {
+    "question_en": "Which molecular technique detects specific DNA sequences on membrane?",
+    "question_ta": "மெம்பிரேனில் குறிப்பிட்ட DNA வரிசைகளை கண்டறியும் தொழில் எது?",
+    "options_en": [
+      "Western blotting",
+      "Northern blotting",
+      "Southern blotting",
+      "ELISA"
+    ],
+    "options_ta": [
+      "மேற்கு பிளாட்டிங்",
+      "நார்தர்ன் பிளாட்டிங்",
+      "சதுர்ன் பிளாட்டிங்",
+      "இலிசா"
+    ],
+    "answer_en": "Southern blotting",
+    "answer_ta": "சதுர்ன் பிளாட்டிங்"
+  },
+  {
+    "question_en": "Which process causes denaturation of proteins under heat?",
+    "question_ta": "வெப்பநிலையில் புரதங்கள் அழற்சியடைய என்ன காரணம்?",
+    "options_en": [
+      "Glycosylation",
+      "Phosphorylation",
+      "Ubiquitination",
+      "Denaturation"
+    ],
+    "options_ta": [
+      "கூகோசிலைஷன்",
+      "பாஸ்போரிலேஷன்",
+      "யூபிக்விடினேஷன்",
+      "அழற்சி"
+    ],
+    "answer_en": "Denaturation",
+    "answer_ta": "அழற்சி"
+  },
+  {
+    "question_en": "Which is the universal recipient blood group?",
+    "question_ta": "உலகளாவிய பெறுநர் இரத்த வகை எது?",
+    "options_en": [
+      "AB positive",
+      "O negative",
+      "B positive",
+      "A negative"
+    ],
+    "options_ta": [
+      "AB+",
+      "O-",
+      "B+",
+      "A-"
+    ],
+    "answer_en": "AB positive",
+    "answer_ta": "AB+"
+  },
+  {
+    "question_en": "Which theory proposes endosymbiotic origin of mitochondria?",
+    "question_ta": "மைட்டோகாண்ட்ரியாவின் தோற்றத்தை எது குறிப்பிடுகிறது?",
+    "options_en": [
+      "Endosymbiotic theory",
+      "Cell theory",
+      "Germ theory",
+      "Chromosomal theory"
+    ],
+    "options_ta": [
+      "உள்நடப்பு இணைவு கொள்கை",
+      "செல் கொள்கை",
+      "கீற்று கொள்கை",
+      "குரோமோசோம் கொள்கை"
+    ],
+    "answer_en": "Endosymbiotic theory",
+    "answer_ta": "உள்நடப்பு இணைவு கொள்கை"
+  },
+  {
+    "question_en": "Which is a mechanism of antibiotic resistance?",
+    "question_ta": "அன்டிபயாட்டிக் எதிர்ப்பு உருவாகும் ஒரு முறையானது எது?",
+    "options_en": [
+      "Increased drug uptake",
+      "Enhanced sensitivity",
+      "Enzyme degradation of drug",
+      "Drug converted to nutrient"
+    ],
+    "options_ta": [
+      "மருந்து அதிகமாக உட்கொள்ளுதல்",
+      "உரு அதிக உணர்வு",
+      "மருந்தை உடைக்கும் என்சைம் செயல்",
+      "மருந்து ஊட்டச்சத்தை ஆக மாறுதல்"
+    ],
+    "answer_en": "Enzyme degradation of drug",
+    "answer_ta": "மருந்தை உடைக்கும் என்சைம் செயல்"
+  },
+  {
+    "question_en": "Assertion (A): Haemophilia is more common in males. Reason (R): It is caused by a recessive gene on X chromosome. (Q24)",
+    "question_ta": "உறுதி (A): ஹீமோபிலியா ஆண்களில் அதிகமாக காணப்படுகிறது. காரணம் (R): இது X குரோமோசோமில் உள்ள பின்தள ஜீனால் ஏற்படுகிறது. (வ24)",
+    "options_en": [
+      "A and R true, R explains A",
+      "A true R false",
+      "A and R true, R not explanation",
+      "Both false"
+    ],
+    "options_ta": [
+      "A மற்றும் R உண்மை, R A-ஐ விளக்குகிறது",
+      "A உண்மை R தவறு",
+      "A மற்றும் R உண்மை, ஆனால் R விளக்கம் அல்ல",
+      "இரண்டுமே தவறு"
+    ],
+    "answer_en": "A and R true, R explains A",
+    "answer_ta": "A மற்றும் R உண்மை, R A-ஐ விளக்குகிறது"
+  },
+  {
+    "question_en": "Which chromosomal abnormality results in Down's syndrome? (Q25)",
+    "question_ta": "டவுன்ஸ் சின்ட்ரோமோ எதனால் ஏற்படுகிறது? (வ25)",
+    "options_en": [
+      "Trisomy of chromosome 21",
+      "Trisomy 13",
+      "Translocation of 9 and 22",
+      "Monosomy of X"
+    ],
+    "options_ta": [
+      "21 குரோமோசோம் ட்ரைசோமி",
+      "13 ட்ரைசோமி",
+      "9 மற்றும் 22 மாற்றம்",
+      "X மோனோசோமி"
+    ],
+    "answer_en": "Trisomy of chromosome 21",
+    "answer_ta": "21 குரோமோசோம் ட்ரைசோமி"
+  },
+  {
+    "question_en": "In pedigree chart, a carrier female for an X-linked recessive disease is usually represented as: (Q26)",
+    "question_ta": "பிரதுப்பு வரைபடத்தில் X-இல் பின்தள நோயின் கடத்திய பெண்ணை எப்படிக் குறிக்கின்றனர்? (வ26)",
+    "options_en": [
+      "Half-shaded circle",
+      "Diamond",
+      "Unshaded square",
+      "Fully shaded circle"
+    ],
+    "options_ta": [
+      "அரை நிறம் வட்டம்",
+      "வைரம்",
+      "நிறமில்லா சதுரம்",
+      "முழு நிறம் வட்டம்"
+    ],
+    "answer_en": "Half-shaded circle",
+    "answer_ta": "அரை நிறம் வட்டம்"
+  },
+  {
+    "question_en": "Which enzyme is used in PCR to synthesize DNA at high temperatures? (Q27)",
+    "question_ta": "PCR இல் அதிக வெப்பநிலையில் DNA உருவாக்க எந்த என்சைம் பயன்படுகிறது? (வ27)",
+    "options_en": [
+      "Reverse transcriptase",
+      "Restriction enzyme",
+      "Taq DNA polymerase",
+      "DNA ligase"
+    ],
+    "options_ta": [
+      "ரிவர்ஸ் டிரான்ஸ்கிரிப்டேஸ்",
+      "குறைசல் என்சைம்",
+      "டாக் பாலிமரேஸ்",
+      "DNA லைகேஸ்"
+    ],
+    "answer_en": "Taq DNA polymerase",
+    "answer_ta": "டாக் பாலிமரேஸ்"
+  },
+  {
+    "question_en": "Which process explains formation of new species over time? (Q28)",
+    "question_ta": "காலத்துக்கு புதிய இனங்கள் உருவாக முன்னால் என்ன பெயர்? (வ28)",
+    "options_en": [
+      "Speciation",
+      "Genetic drift",
+      "Mutation",
+      "Gene flow"
+    ],
+    "options_ta": [
+      "இனவியல்",
+      "மரபணு சஞ்சலம்",
+      "மியூட்டேஷன்",
+      "ஜீன் ஓடை"
+    ],
+    "answer_en": "Speciation",
+    "answer_ta": "இனவியல்"
+  },
+  {
+    "question_en": "Choose the statement true about codominance: (Q29)",
+    "question_ta": "கோடொமினன்ஸ் குறித்து எது உண்மை? (வ29)",
+    "options_en": [
+      "Both alleles expressed in heterozygote",
+      "One allele masks the other",
+      "Only dominant allele expressed",
+      "Trait disappears"
+    ],
+    "options_ta": [
+      "இரு ஆலில்களும் வெளிப்படுகின்றன",
+      "ஒரு ஆலில் மற்றொன்றை மறைக்கிறது",
+      "முன்னிலை ஆலில் மட்டுமே வெளிப்படுகிறது",
+      "பண்பு மறைகிறது"
+    ],
+    "answer_en": "Both alleles expressed in heterozygote",
+    "answer_ta": "இரு ஆலில்களும் வெளிப்படுகின்றன"
+  },
+  {
+    "question_en": "Which of the following is NOT a GMO concern? (Q30)",
+    "question_ta": "பின்வரும் எந்தது GMO பற்றிய கவலை அல்ல? (வ30)",
+    "options_en": [
+      "Gene escape",
+      "Ethical issues",
+      "Allergenicity",
+      "Natural evolution"
+    ],
+    "options_ta": [
+      "ஜீன் வெளியேறுதல்",
+      "நெறி பிரச்சினைகள்",
+      "அலர்ஜெனிசிட்டி",
+      "சார்பு வளர்ச்சி"
+    ],
+    "answer_en": "Natural evolution",
+    "answer_ta": "சார்பு வளர்ச்சி"
+  },
+  {
+    "question_en": "Assertion (A): PCR amplifies target DNA. Reason (R): It uses repeated cycles of denaturation, annealing and extension. (Q31)",
+    "question_ta": "A: PCR இலக்கு DNA-ஐ பெருக்குகிறது. R: இது நெடுந்தகடு, இணைப்பு மற்றும் நீட்டிப்பு சுழற்சிகளைப் பயன்படுத்துகிறது. (வ31)",
+    "options_en": [
+      "A and R true, R explains A",
+      "A and R true, R not explanation",
+      "Both false",
+      "A true R false"
+    ],
+    "options_ta": [
+      "A மற்றும் R உண்மை, R A-ஐ விளக்குகிறது",
+      "A மற்றும் R உண்மை, ஆனால் R விளக்கம் அல்ல",
+      "இரண்டும் தவறு",
+      "A உண்மை R தவறு"
+    ],
+    "answer_en": "A and R true, R explains A",
+    "answer_ta": "A மற்றும் R உண்மை, R A-ஐ விளக்குகிறது"
+  },
+  {
+    "question_en": "Which mechanism causes high genetic variability in sexual reproduction? (Q32)",
+    "question_ta": "பாலினப் பெருக்கத்தில் அதிக மரபணு மாறுபாடு ஏற்பட என்ன காரணம்? (வ32)",
+    "options_en": [
+      "Crossing over during meiosis",
+      "Binary fission",
+      "Budding",
+      "Cloning"
+    ],
+    "options_ta": [
+      "மியோசிஸ் போது கிராஸிங் ஓவர்",
+      "இருமடிப்பு",
+      "மூட்டுதல்",
+      "கிளோனிங்"
+    ],
+    "answer_en": "Crossing over during meiosis",
+    "answer_ta": "மியோசிஸ் போது கிராஸிங் ஓவர்"
+  },
+  {
+    "question_en": "Which conservation method stores seeds at low temperatures long-term? (Q33)",
+    "question_ta": "விதைகளை நீண்ட காலத்திற்கு குறைந்த வெப்பநிலையில் சேமிக்கும் முறையையெது? (வ33)",
+    "options_en": [
+      "Field gene bank",
+      "Sacred groves",
+      "Seed bank",
+      "In situ conservation"
+    ],
+    "options_ta": [
+      "கள மரபு வங்கி",
+      "புனித காடு",
+      "விதை வங்கி",
+      "இன் சிடு பாதுகாப்பு"
+    ],
+    "answer_en": "Seed bank",
+    "answer_ta": "விதை வங்கி"
+  },
+  {
+    "question_en": "Which law explains independent assortment? (Q34)",
+    "question_ta": "சுயாதீன ஒழுங்கமைப்பை எது விளக்குகிறது? (வ34)",
+    "options_en": [
+      "Law of dominance",
+      "Hardy-Weinberg",
+      "Mendel's law of independent assortment",
+      "Law of segregation"
+    ],
+    "options_ta": [
+      "மேலாதிக்க சட்டம்",
+      "ஹார்டி-வைன்பெர்க்",
+      "மென்டெல் சுயாதீன ஒழுங்கமைப்பு",
+      "பிரித்தல் சட்டம்"
+    ],
+    "answer_en": "Mendel's law of independent assortment",
+    "answer_ta": "மென்டெல் சுயாதீன ஒழுங்கமைப்பு"
+  },
+  {
+    "question_en": "Which leads to speciation when populations are geographically isolated? (Q35)",
+    "question_ta": "மக்கள் தொகைகள் புவியியல் பேதப்பட்டால் இனவியல் ஏற்படுவதற்கு வழி எந்தது? (வ35)",
+    "options_en": [
+      "Allopatric speciation",
+      "Genetic drift",
+      "Sympatric speciation",
+      "Hybridization"
+    ],
+    "options_ta": [
+      "ஆலோபாட்ரிக் இனவியல்",
+      "மரபணு சஞ்சலம்",
+      "சிம்பாட்ரிக் இனவியல்",
+      "இணைப்பு"
+    ],
+    "answer_en": "Allopatric speciation",
+    "answer_ta": "ஆலோபாட்ரிக் இனவியல்"
+  }
+]

@@ -1,0 +1,218 @@
+[
+  {
+    "question_en": "Who propounded the Scarcity definition of Economics?",
+    "question_ta": "பொருளாதாரத்தின் பற்றாக்குறை வரையறையை யார் முன்வைத்தார்?",
+    "options_en": ["Adam Smith", "Robbins", "Keynes", "Ricardo"],
+    "options_ta": ["ஆடம் ஸ்மித்", "ராபின்ஸ்", "கெய்ன்ஸ்", "ரிகார்டோ"],
+    "answer_en": "Robbins",
+    "answer_ta": "ராபின்ஸ்"
+  },
+  {
+    "question_en": "Which method of National Income avoids double counting?",
+    "question_ta": "தேசிய வருமானத்தில் இரட்டிப்பு எண்ணிக்கையை தவிர்க்கும் முறை எது?",
+    "options_en": ["Expenditure method", "Income method", "Value added method", "Product method"],
+    "options_ta": ["செலவுமுறை", "வருமான முறை", "மதிப்புக் கூட்டல் முறை", "தயாரிப்பு முறை"],
+    "answer_en": "Value added method",
+    "answer_ta": "மதிப்புக் கூட்டல் முறை"
+  },
+  {
+    "question_en": "Who is associated with Permanent Income Hypothesis?",
+    "question_ta": "நிலையான வருமானக் கருதுகோளுடன் (Permanent Income Hypothesis) தொடர்புடையவர் யார்?",
+    "options_en": ["Milton Friedman", "Keynes", "Marshall", "Ricardo"],
+    "options_ta": ["மில்டன் ஃப்ரீட்மேன்", "கெய்ன்ஸ்", "மார்ஷல்", "ரிகார்டோ"],
+    "answer_en": "Milton Friedman",
+    "answer_ta": "மில்டன் ஃப்ரீட்மேன்"
+  },
+  {
+    "question_en": "ISI policy in India aimed at?",
+    "question_ta": "இந்தியாவின் ISI கொள்கை எதை நோக்கமாகக் கொண்டது?",
+    "options_en": ["Export promotion", "Import substitution", "Liberalisation", "Privatisation"],
+    "options_ta": ["ஏற்றுமதி ஊக்குவிப்பு", "இறக்குமதி மாற்றீடு", "உலகமயமாக்கல்", "தனியார்மயமாக்கல்"],
+    "answer_en": "Import substitution",
+    "answer_ta": "இறக்குமதி மாற்றீடு"
+  },
+  {
+    "question_en": "Human capital formation depends on?",
+    "question_ta": "மனித மூலதன உருவாக்கம் எதனை சார்ந்துள்ளது?",
+    "options_en": ["Savings only", "Education and health", "Technology alone", "Natural resources"],
+    "options_ta": ["சேமிப்பு மட்டும்", "கல்வி மற்றும் சுகாதாரம்", "தொழில்நுட்பம் மட்டும்", "இயற்கை வளங்கள்"],
+    "answer_en": "Education and health",
+    "answer_ta": "கல்வி மற்றும் சுகாதாரம்"
+  },
+  {
+    "question_en": "Who introduced the Rolling Plan concept in India?",
+    "question_ta": "இந்தியாவில் உருண்டு செல்லும் திட்டக் கருத்தை யார் அறிமுகப்படுத்தினார்?",
+    "options_en": ["Rajiv Gandhi", "Indira Gandhi", "Morarji Desai", "Manmohan Singh"],
+    "options_ta": ["ராஜீவ் காந்தி", "இந்திரா காந்தி", "மோரார்ஜி தேசாய்", "மன்மோகன் சிங்"],
+    "answer_en": "Morarji Desai",
+    "answer_ta": "மோரார்ஜி தேசாய்"
+  },
+  {
+    "question_en": "LIC of India was nationalised in?",
+    "question_ta": "இந்தியாவின் LIC எப்போது தேசியமயமாக்கப்பட்டது?",
+    "options_en": ["1949", "1956", "1960", "1972"],
+    "options_ta": ["1949", "1956", "1960", "1972"],
+    "answer_en": "1956",
+    "answer_ta": "1956"
+  },
+  {
+    "question_en": "In Balance of Payments, invisibles refer to?",
+    "question_ta": "பணம் செலுத்தும் சமநிலையில் (BOP) காணப்படாதவை எதைக் குறிக்கின்றன?",
+    "options_en": ["Exports of goods", "Imports of goods", "Services and remittances", "Gold reserve"],
+    "options_ta": ["பொருட்களின் ஏற்றுமதி", "பொருட்களின் இறக்குமதி", "சேவைகள் மற்றும் வெளிநாட்டு பணப்பரிமாற்றம்", "தங்க கையிருப்பு"],
+    "answer_en": "Services and remittances",
+    "answer_ta": "சேவைகள் மற்றும் வெளிநாட்டு பணப்பரிமாற்றம்"
+  },
+  {
+    "question_en": "Who coined the term 'Tragedy of Commons'?",
+    "question_ta": "‘பொதுச் சொத்து விபத்து’ (Tragedy of Commons) என்ற சொல்லை யார் உருவாக்கினார்?",
+    "options_en": ["Marshall", "Garrett Hardin", "Amartya Sen", "Robbins"],
+    "options_ta": ["மார்ஷல்", "காரெட் ஹார்டின்", "அமர்த்த்யா சென்", "ராபின்ஸ்"],
+    "answer_en": "Garrett Hardin",
+    "answer_ta": "காரெட் ஹார்டின்"
+  },
+  {
+    "question_en": "Which economist is associated with Capability approach?",
+    "question_ta": "திறன் அணுகுமுறை (Capability approach) யாருடன் தொடர்புடையது?",
+    "options_en": ["Amartya Sen", "Keynes", "Marshall", "Ricardo"],
+    "options_ta": ["அமர்த்த்யா சென்", "கெய்ன்ஸ்", "மார்ஷல்", "ரிகார்டோ"],
+    "answer_en": "Amartya Sen",
+    "answer_ta": "அமர்த்த்யா சென்"
+  },
+  {
+    "question_en": "Which index is used to measure core inflation?",
+    "question_ta": "மைய பணவீக்கத்தை அளவிட எந்த குறியீடு பயன்படுத்தப்படுகிறது?",
+    "options_en": ["WPI", "CPI", "GDP deflator", "Sensex"],
+    "options_ta": ["டபிள்யூபிஐ", "சிபிஐ", "ஜிடிபி டிஃப்ளேட்டர்", "சென்செக்ஸ்"],
+    "answer_en": "CPI",
+    "answer_ta": "சிபிஐ"
+  },
+  {
+    "question_en": "Terms of trade refers to?",
+    "question_ta": "வர்த்தக நிபந்தனைகள் (Terms of trade) எதைக் குறிக்கின்றன?",
+    "options_en": ["Export-Import ratio", "Tax policy", "Demand-Supply balance", "Foreign exchange reserves"],
+    "options_ta": ["ஏற்றுமதி-இறக்குமதி விகிதம்", "வரி கொள்கை", "தேவை-வழங்கல் சமநிலை", "வெளிநாட்டு நாணய கையிருப்பு"],
+    "answer_en": "Export-Import ratio",
+    "answer_ta": "ஏற்றுமதி-இறக்குமதி விகிதம்"
+  },
+  {
+    "question_en": "Who gave the concept of 'Disguised Unemployment'?",
+    "question_ta": "‘மறைமுக வேலைவாய்ப்பின்மை’ என்ற கருத்தை யார் முன்வைத்தார்?",
+    "options_en": ["Keynes", "Amartya Sen", "Ragnar Nurkse", "Adam Smith"],
+    "options_ta": ["கெய்ன்ஸ்", "அமர்த்த்யா சென்", "ராக்னர் நர்க்ஸ்", "ஆடம் ஸ்மித்"],
+    "answer_en": "Ragnar Nurkse",
+    "answer_ta": "ராக்னர் நர்க்ஸ்"
+  },
+  {
+    "question_en": "Who introduced the concept of 'Hedonic Pricing'?",
+    "question_ta": "‘ஹெடானிக் விலை நிர்ணயம்’ என்ற கருத்தை யார் அறிமுகப்படுத்தினார்?",
+    "options_en": ["Marshall", "Rosen", "Pigou", "Ricardo"],
+    "options_ta": ["மார்ஷல்", "ரோசன்", "பிகூ", "ரிகார்டோ"],
+    "answer_en": "Rosen",
+    "answer_ta": "ரோசன்"
+  },
+  {
+    "question_en": "Which plan introduced LPG reforms in India?",
+    "question_ta": "இந்தியாவில் எல்.பி.ஜி சீர்திருத்தங்களை எந்தத் திட்டம் அறிமுகப்படுத்தியது?",
+    "options_en": ["7th Five Year Plan", "8th Five Year Plan", "9th Five Year Plan", "10th Five Year Plan"],
+    "options_ta": ["7வது ஐந்தாண்டு திட்டம்", "8வது ஐந்தாண்டு திட்டம்", "9வது ஐந்தாண்டு திட்டம்", "10வது ஐந்தாண்டு திட்டம்"],
+    "answer_en": "8th Five Year Plan",
+    "answer_ta": "8வது ஐந்தாண்டு திட்டம்"
+  },
+  {
+    "question_en": "Who is called the father of White Revolution in India?",
+    "question_ta": "இந்தியாவில் வெள்ளைப் புரட்சியின் தந்தை யார்?",
+    "options_en": ["Norman Borlaug", "M.S. Swaminathan", "Verghese Kurien", "C. Subramaniam"],
+    "options_ta": ["நார்மன் போர்லாக்", "எம்.எஸ். சுவாமிநாதன்", "வெர்கீஸ் குரியன்", "சி. சுப்பிரமணியம்"],
+    "answer_en": "Verghese Kurien",
+    "answer_ta": "வெர்கீஸ் குரியன்"
+  },
+  {
+    "question_en": "Which theory explains 'Population trap'?",
+    "question_ta": "‘மக்கள் தொகை கண்ணி’ (Population trap) எதனால் விளக்கப்படுகிறது?",
+    "options_en": ["Malthusian theory", "Ricardian theory", "Keynesian theory", "Marxian theory"],
+    "options_ta": ["மால்தஸின் கோட்பாடு", "ரிகார்டியன் கோட்பாடு", "கெய்ன்சியன் கோட்பாடு", "மார்க்சிய கோட்பாடு"],
+    "answer_en": "Malthusian theory",
+    "answer_ta": "மால்தஸின் கோட்பாடு"
+  },
+  {
+    "question_en": "Golden Quadrilateral project connects?",
+    "question_ta": "கோல்டன் குவாட்ரிலேட்டரல் திட்டம் எந்த நகரங்களை இணைக்கிறது?",
+    "options_en": ["Delhi, Mumbai, Chennai, Kolkata", "Delhi, Bengaluru, Hyderabad, Kochi", "Mumbai, Pune, Nagpur, Chennai", "Kolkata, Patna, Bhopal, Jaipur"],
+    "options_ta": ["டெல்லி, மும்பை, சென்னை, கொல்கத்தா", "டெல்லி, பெங்களூரு, ஹைதராபாத், கொச்சி", "மும்பை, புணே, நாக்பூர், சென்னை", "கொல்கத்தா, பட்டணா, போபால், ஜெய்ப்பூர்"],
+    "answer_en": "Delhi, Mumbai, Chennai, Kolkata",
+    "answer_ta": "டெல்லி, மும்பை, சென்னை, கொல்கத்தா"
+  },
+  {
+    "question_en": "Inclusive growth emphasises?",
+    "question_ta": "ஒப்புரவான வளர்ச்சி எதை வலியுறுத்துகிறது?",
+    "options_en": ["Growth for few only", "Growth for all sections", "Industrial growth only", "Service sector only"],
+    "options_ta": ["சிலருக்கான வளர்ச்சி", "அனைத்து பிரிவுகளுக்கான வளர்ச்சி", "தொழில்துறை வளர்ச்சி மட்டும்", "சேவைத் துறை மட்டும்"],
+    "answer_en": "Growth for all sections",
+    "answer_ta": "அனைத்து பிரிவுகளுக்கான வளர்ச்சி"
+  },
+  {
+    "question_en": "Which index was replaced by GDP as a welfare measure?",
+    "question_ta": "சமூக நல அளவுகோலாக ஜிடிபியால் எந்த குறியீடு மாற்றப்பட்டது?",
+    "options_en": ["GNP", "NNP", "HDI", "PQLI"],
+    "options_ta": ["மொத்த தேசிய உற்பத்தி (GNP)", "நிகர தேசிய உற்பத்தி (NNP)", "மனித மேம்பாட்டு குறியீடு (HDI)", "உடல் தரக் குறியீடு (PQLI)"],
+    "answer_en": "PQLI",
+    "answer_ta": "உடல் தரக் குறியீடு (PQLI)"
+  },
+  {
+    "question_en": "Who is the Nobel laureate associated with New Welfare Economics?",
+    "question_ta": "புதிய நலன் பொருளாதாரத்துடன் தொடர்புடைய நோபல் பரிசு பெற்றவர் யார்?",
+    "options_en": ["Samuelson", "Arrow", "Sen", "Robbins"],
+    "options_ta": ["சாமுவேல்சன்", "அரோ", "சென்", "ராபின்ஸ்"],
+    "answer_en": "Arrow",
+    "answer_ta": "அரோ"
+  },
+  {
+    "question_en": "Green GDP accounts for?",
+    "question_ta": "பச்சை ஜிடிபி (Green GDP) எதை கணக்கில் எடுக்கிறது?",
+    "options_en": ["Inflation", "Environmental costs", "Imports", "Exports"],
+    "options_ta": ["பணவீக்கம்", "சுற்றுச்சூழல் செலவுகள்", "இறக்குமதி", "ஏற்றுமதி"],
+    "answer_en": "Environmental costs",
+    "answer_ta": "சுற்றுச்சூழல் செலவுகள்"
+  },
+  {
+    "question_en": "Who introduced the concept of 'Liquidity trap'?",
+    "question_ta": "‘திரவத்துக் கண்ணி’ (Liquidity trap) என்ற கருத்தை யார் அறிமுகப்படுத்தினார்?",
+    "options_en": ["Marshall", "Keynes", "Pigou", "Ricardo"],
+    "options_ta": ["மார்ஷல்", "கெய்ன்ஸ்", "பிகூ", "ரிகார்டோ"],
+    "answer_en": "Keynes",
+    "answer_ta": "கெய்ன்ஸ்"
+  },
+  {
+    "question_en": "Which model is associated with Harrod-Domar growth theory?",
+    "question_ta": "ஹாரோட்-டோமார் வளர்ச்சி கோட்பாட்டுடன் தொடர்புடைய மாதிரி எது?",
+    "options_en": ["Input-Output model", "Capital-output ratio model", "Linear programming", "Phillips curve"],
+    "options_ta": ["உள்ளீடு-வெளியீட்டு மாதிரி", "மூலதன-வெளியீட்டு விகித மாதிரி", "நேரியல் நிரலாக்கம்", "பிலிப்ஸ் வளைவு"],
+    "answer_en": "Capital-output ratio model",
+    "answer_ta": "மூலதன-வெளியீட்டு விகித மாதிரி"
+  },
+  {
+    "question_en": "Which committee recommended GST in India?",
+    "question_ta": "இந்தியாவில் ஜி.எஸ்.டி. பரிந்துரைத்த குழு எது?",
+    "options_en": ["Kelkar committee", "Narasimham committee", "Rangarajan committee", "Shah committee"],
+    "options_ta": ["கெல்கார் குழு", "நரசிம்மம் குழு", "ரங்கராஜன் குழு", "ஷா குழு"],
+    "answer_en": "Kelkar committee",
+    "answer_ta": "கெல்கார் குழு"
+  },
+  {
+    "question_en": "Which theory is associated with Marx?",
+    "question_ta": "மார்க்ஸ் தொடர்புடைய கோட்பாடு எது?",
+    "options_en": ["Surplus value theory", "Liquidity preference theory", "Comparative advantage theory", "Multiplier theory"],
+    "options_ta": ["அதிகப்படியான மதிப்பு கோட்பாடு", "திரவ விருப்ப கோட்பாடு", "ஒப்பீட்டு நன்மை கோட்பாடு", "மடங்கல் கோட்பாடு"],
+    "answer_en": "Surplus value theory",
+    "answer_ta": "அதிகப்படியான மதிப்பு கோட்பாடு"
+  },
+  {
+    "question_en": "In India, disinvestment policy started in?",
+    "question_ta": "இந்தியாவில் பங்குவிற்பனை (Disinvestment) கொள்கை எப்போது தொடங்கப்பட்டது?",
+    "options_en": ["1985", "1991", "1995", "2000"],
+    "options_ta": ["1985", "1991", "1995", "2000"],
+    "answer_en": "1991",
+    "answer_ta": "1991"
+  }
+]

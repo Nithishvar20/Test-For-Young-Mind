@@ -1,0 +1,306 @@
+[
+  {
+    "question_en": "The order of a 3×2 matrix is?",
+    "question_ta": "3×2 அடுக்கின் வரிசை எது?",
+    "options_en": ["3 rows and 2 columns", "2 rows and 3 columns", "3 rows and 3 columns", "2 rows and 2 columns"],
+    "options_ta": ["3 வரிசை, 2 நெடுவரிசை", "2 வரிசை, 3 நெடுவரிசை", "3 வரிசை, 3 நெடுவரிசை", "2 வரிசை, 2 நெடுவரிசை"],
+    "answer_en": "3 rows and 2 columns",
+    "answer_ta": "3 வரிசை, 2 நெடுவரிசை"
+  },
+  {
+    "question_en": "The determinant of identity matrix of order 3 is?",
+    "question_ta": "வரிசை 3 உடைய அடையாள அடுக்கின் நியமன் மதிப்பு எது?",
+    "options_en": ["0", "1", "3", "-1"],
+    "options_ta": ["0", "1", "3", "-1"],
+    "answer_en": "1",
+    "answer_ta": "1"
+  },
+  {
+    "question_en": "If A is a square matrix, then A × I = ?",
+    "question_ta": "A ஒரு சதுர அட்டவணை (square matrix) என்றால், A × I = ?",
+    "options_en": ["0", "A", "I", "A²"],
+    "options_ta": ["0", "A", "I", "A²"],
+    "answer_en": "A",
+    "answer_ta": "A"
+  },
+  {
+    "question_en": "The derivative of x² with respect to x is?",
+    "question_ta": "x²-ன் x-க்கு எதிரான பகுதி விளைவானது (derivative) என்ன?",
+    "options_en": ["x", "2x", "x²", "2"],
+    "options_ta": ["x", "2x", "x²", "2"],
+    "answer_en": "2x",
+    "answer_ta": "2x"
+  },
+  {
+    "question_en": "The slope of y = 3x + 2 is?",
+    "question_ta": "y = 3x + 2 என்பதின் சரிவு (slope) எது?",
+    "options_en": ["2", "3", "-2", "-3"],
+    "options_ta": ["2", "3", "-2", "-3"],
+    "answer_en": "3",
+    "answer_ta": "3"
+  },
+  {
+    "question_en": "If dy/dx = 0, the function is?",
+    "question_ta": "dy/dx = 0 என்றால், செயல்பாடு எப்படியிருக்கும்?",
+    "options_en": ["Increasing", "Constant", "Decreasing", "Quadratic"],
+    "options_ta": ["அதிகரிக்கும்", "நிலையானது", "குறைவானது", "இரட்டைச் சுழி"],
+    "answer_en": "Constant",
+    "answer_ta": "நிலையானது"
+  },
+  {
+    "question_en": "The solution of 2x + 3 = 0 is?",
+    "question_ta": "2x + 3 = 0 என்பதன் தீர்வு எது?",
+    "options_en": ["x = 3", "x = -3/2", "x = -2/3", "x = 2/3"],
+    "options_ta": ["x = 3", "x = -3/2", "x = -2/3", "x = 2/3"],
+    "answer_en": "x = -3/2",
+    "answer_ta": "x = -3/2"
+  },
+  {
+    "question_en": "The mean of 10, 20, 30 is?",
+    "question_ta": "10, 20, 30-ன் சராசரி மதிப்பு எது?",
+    "options_en": ["10", "15", "20", "25"],
+    "options_ta": ["10", "15", "20", "25"],
+    "answer_en": "20",
+    "answer_ta": "20"
+  },
+  {
+    "question_en": "Mode is the value which?",
+    "question_ta": "மோட் (Mode) என்பது எந்த மதிப்பைக் குறிக்கிறது?",
+    "options_en": ["Occurs most frequently", "Is middle value", "Is average value", "Is last value"],
+    "options_ta": ["அதிகம் தோன்றும் மதிப்பு", "நடுத்தர மதிப்பு", "சராசரி மதிப்பு", "கடைசி மதிப்பு"],
+    "answer_en": "Occurs most frequently",
+    "answer_ta": "அதிகம் தோன்றும் மதிப்பு"
+  },
+  {
+    "question_en": "The probability of getting head in tossing a fair coin is?",
+    "question_ta": "ஒரு நாணயத்தைச் சுழற்றும்போது தலை வரும் சாத்தியம் எது?",
+    "options_en": ["0", "1/2", "1", "2"],
+    "options_ta": ["0", "1/2", "1", "2"],
+    "answer_en": "1/2",
+    "answer_ta": "1/2"
+  },
+  {
+    "question_en": "The probability of impossible event is?",
+    "question_ta": "அசாத்திய நிகழ்வின் சாத்தியம் எது?",
+    "options_en": ["1", "0", "1/2", "2"],
+    "options_ta": ["1", "0", "1/2", "2"],
+    "answer_en": "0",
+    "answer_ta": "0"
+  },
+  {
+    "question_en": "The sum of probabilities of all outcomes in a sample space is?",
+    "question_ta": "மாதிரி இடத்தில் உள்ள அனைத்து முடிவுகளின் சாத்தியத்தின் கூட்டுத்தொகை எவ்வளவு?",
+    "options_en": ["1", "0", "1/2", "2"],
+    "options_ta": ["1", "0", "1/2", "2"],
+    "answer_en": "1",
+    "answer_ta": "1"
+  },
+  {
+    "question_en": "Variance is always?",
+    "question_ta": "விபரவு (Variance) எப்போதும் எப்படியிருக்கும்?",
+    "options_en": ["Positive", "Negative", "Zero only", "Between -1 and 1"],
+    "options_ta": ["நேர்மையானது", "எதிர்மையானது", "பூஜ்ஜியம் மட்டும்", "-1 மற்றும் 1 இடையில்"],
+    "answer_en": "Positive",
+    "answer_ta": "நேர்மையானது"
+  },
+  {
+    "question_en": "Standard deviation is the square root of?",
+    "question_ta": "சராசரி சிதறல் (Standard deviation) எதன் வேர்?",
+    "options_en": ["Mean", "Variance", "Median", "Mode"],
+    "options_ta": ["சராசரி", "விபரவு", "நடுத்தரம்", "மோட்"],
+    "answer_en": "Variance",
+    "answer_ta": "விபரவு"
+  },
+  {
+    "question_en": "The mean of first 5 natural numbers is?",
+    "question_ta": "முதல் 5 இயற்கை எண்களின் சராசரி எது?",
+    "options_en": ["2", "3", "4", "5"],
+    "options_ta": ["2", "3", "4", "5"],
+    "answer_en": "3",
+    "answer_ta": "3"
+  },
+  {
+    "question_en": "The sum of first n natural numbers is?",
+    "question_ta": "முதல் n இயற்கை எண்களின் கூட்டுத்தொகை எது?",
+    "options_en": ["n(n+1)/2", "n²", "n(n-1)", "n/2"],
+    "options_ta": ["n(n+1)/2", "n²", "n(n-1)", "n/2"],
+    "answer_en": "n(n+1)/2",
+    "answer_ta": "n(n+1)/2"
+  },
+  {
+    "question_en": "The median of 2, 4, 6, 8, 10 is?",
+    "question_ta": "2, 4, 6, 8, 10 இன் நடுத்தரம் எது?",
+    "options_en": ["4", "5", "6", "8"],
+    "options_ta": ["4", "5", "6", "8"],
+    "answer_en": "6",
+    "answer_ta": "6"
+  },
+  {
+    "question_en": "Index numbers are used to measure?",
+    "question_ta": "குறியீட்டு எண்கள் எதைக் கணக்கிடப் பயன்படுகின்றன?",
+    "options_en": ["Price changes", "Time", "Income", "Profit"],
+    "options_ta": ["விலை மாற்றங்கள்", "நேரம்", "வருமானம்", "லாபம்"],
+    "answer_en": "Price changes",
+    "answer_ta": "விலை மாற்றங்கள்"
+  },
+  {
+    "question_en": "In time series, long-term trend is denoted by?",
+    "question_ta": "நேர வரிசையில், நீண்டகாலப் போக்கு எதனால் குறிக்கப்படுகிறது?",
+    "options_en": ["T", "S", "C", "I"],
+    "options_ta": ["T", "S", "C", "I"],
+    "answer_en": "T",
+    "answer_ta": "T"
+  },
+  {
+    "question_en": "Transportation problem is a type of?",
+    "question_ta": "போக்குவரத்து பிரச்சனை எவ்வகைப் பிரச்சனையாகும்?",
+    "options_en": ["Statistics", "Linear programming", "Calculus", "Probability"],
+    "options_ta": ["புள்ளியியல்", "நேர்மையான நிரலாக்கம்", "கால்குலஸ்", "சாத்தியம்"],
+    "answer_en": "Linear programming",
+    "answer_ta": "நேர்மையான நிரலாக்கம்"
+  },
+  {
+    "question_en": "The total probability of certain event is?",
+    "question_ta": "நிச்சய நிகழ்வின் மொத்த சாத்தியம் எவ்வளவு?",
+    "options_en": ["0", "1", "1/2", "2"],
+    "options_ta": ["0", "1", "1/2", "2"],
+    "answer_en": "1",
+    "answer_ta": "1"
+  },
+  {
+    "question_en": "The correlation coefficient value lies between?",
+    "question_ta": "தொடர்புக் குணகம் (correlation coefficient) மதிப்பு எதற்கிடையில் இருக்கும்?",
+    "options_en": ["0 to 1", "-1 to 1", "-2 to 2", "1 to 2"],
+    "options_ta": ["0 முதல் 1 வரை", "-1 முதல் 1 வரை", "-2 முதல் 2 வரை", "1 முதல் 2 வரை"],
+    "answer_en": "-1 to 1",
+    "answer_ta": "-1 முதல் 1 வரை"
+  },
+  {
+    "question_en": "Binomial distribution is a type of?",
+    "question_ta": "பைனமியல் பகிர்வு (Binomial distribution) எவ்வகைப் பகிர்வாகும்?",
+    "options_en": ["Continuous", "Discrete", "Normal", "Poisson"],
+    "options_ta": ["தொடர்ச்சியானது", "துண்டானது", "சாதாரணம்", "பாய்சன்"],
+    "answer_en": "Discrete",
+    "answer_ta": "துண்டானது"
+  },
+  {
+    "question_en": "The normal curve is?",
+    "question_ta": "சாதாரண வளைவு (Normal curve) எப்படியிருக்கும்?",
+    "options_en": ["Bell-shaped", "U-shaped", "Straight line", "Exponential"],
+    "options_ta": ["மணி வடிவம்", "U வடிவம்", "நேர்கோடு", "எக்ஸ்போனென்ஷியல்"],
+    "answer_en": "Bell-shaped",
+    "answer_ta": "மணி வடிவம்"
+  },
+  {
+    "question_en": "Poisson distribution is used for?",
+    "question_ta": "பாய்சன் பகிர்வு எதற்குப் பயன்படுத்தப்படுகிறது?",
+    "options_en": ["Rare events", "Continuous events", "Binomial events", "Normal events"],
+    "options_ta": ["அரிதான நிகழ்வுகள்", "தொடர்ச்சியான நிகழ்வுகள்", "பைனமியல் நிகழ்வுகள்", "சாதாரண நிகழ்வுகள்"],
+    "answer_en": "Rare events",
+    "answer_ta": "அரிதான நிகழ்வுகள்"
+  },
+  {
+    "question_en": "The mean of Poisson distribution is?",
+    "question_ta": "பாய்சன் பகிர்வின் சராசரி எது?",
+    "options_en": ["0", "λ", "n", "np"],
+    "options_ta": ["0", "λ", "n", "np"],
+    "answer_en": "λ",
+    "answer_ta": "λ"
+  },
+  {
+    "question_en": "If two events are independent, then P(A ∩ B) = ?",
+    "question_ta": "இரண்டு நிகழ்வுகள் சுயாதீனமாக இருந்தால், P(A ∩ B) = ?",
+    "options_en": ["P(A) + P(B)", "P(A) × P(B)", "P(A)/P(B)", "0"],
+    "options_ta": ["P(A) + P(B)", "P(A) × P(B)", "P(A)/P(B)", "0"],
+    "answer_en": "P(A) × P(B)",
+    "answer_ta": "P(A) × P(B)"
+  },
+  {
+    "question_en": "The value of P(E) always lies between?",
+    "question_ta": "P(E) மதிப்பு எதற்கிடையில் எப்போதும் இருக்கும்?",
+    "options_en": ["0 and 1", "-1 and 1", "1 and 2", "0 and 2"],
+    "options_ta": ["0 மற்றும் 1 இடையில்", "-1 மற்றும் 1 இடையில்", "1 மற்றும் 2 இடையில்", "0 மற்றும் 2 இடையில்"],
+    "answer_en": "0 and 1",
+    "answer_ta": "0 மற்றும் 1 இடையில்"
+  },
+  {
+    "question_en": "Chi-square test is used in?",
+    "question_ta": "கை-ஸ்கொயர் சோதனை எதற்குப் பயன்படுத்தப்படுகிறது?",
+    "options_en": ["Testing independence", "Testing mean", "Testing variance", "Testing slope"],
+    "options_ta": ["சுயாதீனத்தை சோதனை செய்தல்", "சராசரி சோதனை", "விபரவு சோதனை", "சரிவு சோதனை"],
+    "answer_en": "Testing independence",
+    "answer_ta": "சுயாதீனத்தை சோதனை செய்தல்"
+  },
+  {
+    "question_en": "In quality control, control charts are used to?",
+    "question_ta": "தரக் கட்டுப்பாட்டில், கட்டுப்பாட்டு வரைபடங்கள் எதற்குப் பயன்படுத்தப்படுகின்றன?",
+    "options_en": ["Detect variation", "Increase production", "Reduce price", "Improve demand"],
+    "options_ta": ["மாறுபாட்டைக் கண்டறிதல்", "உற்பத்தி அதிகரித்தல்", "விலையை குறைத்தல்", "தேவை அதிகரித்தல்"],
+    "answer_en": "Detect variation",
+    "answer_ta": "மாறுபாட்டைக் கண்டறிதல்"
+  },
+  {
+    "question_en": "Assignment problem is solved by?",
+    "question_ta": "ஒதுக்கீட்டு பிரச்சனை எதன் மூலம் தீர்க்கப்படுகிறது?",
+    "options_en": ["Simplex method", "Hungarian method", "Northwest rule", "Least cost method"],
+    "options_ta": ["சிம்ப்ளெக்ஸ் முறை", "ஹங்கேரியன் முறை", "வடமேற்கு விதி", "குறைந்த செலவு முறை"],
+    "answer_en": "Hungarian method",
+    "answer_ta": "ஹங்கேரியன் முறை"
+  },
+  {
+    "question_en": "In sampling, census means?",
+    "question_ta": "மாதிரிப் பரிசோதனையில், சென்சஸ் (census) என்பதன் பொருள்?",
+    "options_en": ["Study of whole population", "Study of part population", "Study of random sample", "Study of mean"],
+    "options_ta": ["முழு மக்கள்தொகையை ஆய்வு செய்தல்", "ஒரு பகுதியை ஆய்வு செய்தல்", "சீரற்ற மாதிரியை ஆய்வு செய்தல்", "சராசரியை ஆய்வு செய்தல்"],
+    "answer_en": "Study of whole population",
+    "answer_ta": "முழு மக்கள்தொகையை ஆய்வு செய்தல்"
+  },
+  {
+    "question_en": "Level of significance in hypothesis testing is denoted by?",
+    "question_ta": "கருதுகோள் சோதனையில் முக்கியத்துவ நிலை எதனால் குறிக்கப்படுகிறது?",
+    "options_en": ["α", "β", "μ", "σ"],
+    "options_ta": ["α", "β", "μ", "σ"],
+    "answer_en": "α",
+    "answer_ta": "α"
+  },
+  {
+    "question_en": "If two lines are parallel, correlation coefficient is?",
+    "question_ta": "இரண்டு கோடுகள் இணையாக இருந்தால், தொடர்புக் குணகம் எவ்வளவு?",
+    "options_en": ["0", "1", "-1", "2"],
+    "options_ta": ["0", "1", "-1", "2"],
+    "answer_en": "±1",
+    "answer_ta": "±1"
+  },
+  {
+    "question_en": "The regression line passes through?",
+    "question_ta": "திரும்பப்பெறும் கோடு (Regression line) எதன் வழியாகச் செல்கிறது?",
+    "options_en": ["Origin", "Mean of X and Y", "X-axis", "Y-axis"],
+    "options_ta": ["தொடக்கப் புள்ளி", "X மற்றும் Y-ன் சராசரி", "X அச்சு", "Y அச்சு"],
+    "answer_en": "Mean of X and Y",
+    "answer_ta": "X மற்றும் Y-ன் சராசரி"
+  },
+  {
+    "question_en": "The sum of probabilities in probability distribution is?",
+    "question_ta": "சாத்தியப் பகிர்வில் சாத்தியங்களின் கூட்டுத்தொகை எவ்வளவு?",
+    "options_en": ["0", "1", "n", "∞"],
+    "options_ta": ["0", "1", "n", "∞"],
+    "answer_en": "1",
+    "answer_ta": "1"
+  },
+  {
+    "question_en": "Which test is used for small sample mean?",
+    "question_ta": "சிறிய மாதிரி சராசரிக்குப் பயன்படுத்தப்படும் சோதனை எது?",
+    "options_en": ["t-test", "z-test", "χ² test", "F-test"],
+    "options_ta": ["t-test", "z-test", "χ² test", "F-test"],
+    "answer_en": "t-test",
+    "answer_ta": "t-test"
+  },
+  {
+    "question_en": "When expected frequencies are less, which test is applied?",
+    "question_ta": "எதிர்பார்க்கப்படும் அதிர்வுகள் குறைவாக இருந்தால், எது பயன்படுத்தப்படும்?",
+    "options_en": ["χ² test", "t-test", "z-test", "Regression test"],
+    "options_ta": ["χ² சோதனை", "t-test", "z-test", "திரும்பப்பெறும் சோதனை"],
+    "answer_en": "χ² test",
+    "answer_ta": "χ² சோதனை"
+  }
+]

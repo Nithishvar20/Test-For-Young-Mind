@@ -1,0 +1,258 @@
+[
+  {
+    "question_en": "Which law gives the relationship between force, mass and acceleration?",
+    "question_ta": "வலு, நிறை மற்றும் துரிதம் ஆகியவற்றின் தொடர்பை வழங்கும் விதி எது?",
+    "options_en": ["Newton’s Second Law", "Newton’s First Law", "Newton’s Third Law", "Law of Gravitation"],
+    "options_ta": ["நியூட்டனின் இரண்டாம் விதி", "நியூட்டனின் முதல் விதி", "நியூட்டனின் மூன்றாம் விதி", "ஈர்ப்பு விதி"],
+    "answer_en": "Newton’s Second Law",
+    "answer_ta": "நியூட்டனின் இரண்டாம் விதி"
+  },
+  {
+    "question_en": "The area under a velocity-time graph represents:",
+    "question_ta": "வேகம்-நேரம் வரைகோட்டின் கீழ் உள்ள பகுதி எதை குறிக்கிறது?",
+    "options_en": ["Force", "Momentum", "Displacement", "Acceleration"],
+    "options_ta": ["வலு", "மோமெண்டம்", "நகர்வு", "துரிதம்"],
+    "answer_en": "Displacement",
+    "answer_ta": "நகர்வு"
+  },
+  {
+    "question_en": "The value of acceleration due to gravity on Earth is:",
+    "question_ta": "பூமியில் ஈர்ப்பு துரிதத்தின் மதிப்பு எவ்வளவு?",
+    "options_en": ["7.8 m/s²", "10.8 m/s²", "9.8 m/s²", "8.9 m/s²"],
+    "options_ta": ["7.8 மீ/விநா²", "10.8 மீ/விநா²", "9.8 மீ/விநா²", "8.9 மீ/விநா²"],
+    "answer_en": "9.8 m/s²",
+    "answer_ta": "9.8 மீ/விநா²"
+  },
+  {
+    "question_en": "Which mirror can produce both real and virtual images?",
+    "question_ta": "உண்மை மற்றும் கற்பனை படங்களை இரண்டையும் உருவாக்கும் கண்ணாடி எது?",
+    "options_en": ["Plane mirror", "Convex mirror", "Cylindrical mirror", "Concave mirror"],
+    "options_ta": ["சமத்திரை கண்ணாடி", "வெளிநுழை கண்ணாடி", "உருளை கண்ணாடி", "உள்நுழை கண்ணாடி"],
+    "answer_en": "Concave mirror",
+    "answer_ta": "உள்நுழை கண்ணாடி"
+  },
+  {
+    "question_en": "Which lens is used in a simple microscope?",
+    "question_ta": "எளிய நுண்ணோக்கியில் எந்த லென்ஸ் பயன்படுத்தப்படுகிறது?",
+    "options_en": ["Concave lens", "Plano-concave lens", "Convex lens", "Cylindrical lens"],
+    "options_ta": ["உள்நுழை லென்ஸ்", "சம-உள்நுழை லென்ஸ்", "வெளிநுழை லென்ஸ்", "உருளை லென்ஸ்"],
+    "answer_en": "Convex lens",
+    "answer_ta": "வெளிநுழை லென்ஸ்"
+  },
+  {
+    "question_en": "Which phenomenon explains why a pencil appears bent in water?",
+    "question_ta": "நீரில் ஒரு பென்சில் வளைந்தது போல் தோன்றுவதற்குக் காரணமான நிகழ்வு எது?",
+    "options_en": ["Refraction", "Reflection", "Dispersion", "Diffraction"],
+    "options_ta": ["விலக்கு", "பிரிதல்", "சிதறல்", "விலச்சிதறல்"],
+    "answer_en": "Refraction",
+    "answer_ta": "விலக்கு"
+  },
+  {
+    "question_en": "The focal length of a convex lens is 20 cm. Its power is:",
+    "question_ta": "ஒரு வெளிநுழை லென்ஸின் திருப்புத்தூரம் 20 செ.மீ. ஆகும். அதன் சக்தி எவ்வளவு?",
+    "options_en": ["5D", "20D", "2D", "10D"],
+    "options_ta": ["5 டயாப்டர்", "20 டயாப்டர்", "2 டயாப்டர்", "10 டயாப்டர்"],
+    "answer_en": "5D",
+    "answer_ta": "5 டயாப்டர்"
+  },
+  {
+    "question_en": "The SI unit of heat energy is:",
+    "question_ta": "வெப்ப ஆற்றலின் SI அலகு எது?",
+    "options_en": ["Calorie", "Kelvin", "Watt", "Joule"],
+    "options_ta": ["காலரி", "கெல்வின்", "வாட்", "ஜூல்"],
+    "answer_en": "Joule",
+    "answer_ta": "ஜூல்"
+  },
+  {
+    "question_en": "The process of heat transfer that does not require a medium is:",
+    "question_ta": "மத்தியம் தேவையில்லாமல் வெப்பம் பரவும் செயல்முறை எது?",
+    "options_en": ["Conduction", "Radiation", "Evaporation", "Convection"],
+    "options_ta": ["கடத்தல்", "கதிர்வீச்சு", "ஆவியாக்கம்", "சுழற்சி"],
+    "answer_en": "Radiation",
+    "answer_ta": "கதிர்வீச்சு"
+  },
+  {
+    "question_en": "Which law states that current is directly proportional to voltage?",
+    "question_ta": "மின்னோட்டம் மின்னழுத்தத்திற்கு நேர்மாறுபாடானது என்று கூறும் விதி எது?",
+    "options_en": ["Lenz’s Law", "Faraday’s Law", "Coulomb’s Law", "Ohm’s Law"],
+    "options_ta": ["லென்ஸின் விதி", "பாரடேயின் விதி", "கூலம்பின் விதி", "ஓமின் விதி"],
+    "answer_en": "Ohm’s Law",
+    "answer_ta": "ஓமின் விதி"
+  },
+  {
+    "question_en": "The resistance of a conductor depends on its:",
+    "question_ta": "ஒரு கடத்தியின் எதிர்ப்பு எதன்மேல் சார்ந்துள்ளது?",
+    "options_en": ["Length, area, material", "Voltage only", "Current only", "Mass only"],
+    "options_ta": ["நீளம், பரப்பளவு, பொருள்", "மின்னழுத்தம் மட்டும்", "மின்னோட்டம் மட்டும்", "இடை மட்டும்"],
+    "answer_en": "Length, area, material",
+    "answer_ta": "நீளம், பரப்பளவு, பொருள்"
+  },
+  {
+    "question_en": "The device used to store electric charge is:",
+    "question_ta": "மின்சாரச் சுமையை சேமிக்கப் பயன்படுத்தப்படும் கருவி எது?",
+    "options_en": ["Ammeter", "Inductor", "Resistor", "Capacitor"],
+    "options_ta": ["அம்மீட்டர்", "தூண்டி", "எதிர்ப்பு", "கேபாசிட்டர்"],
+    "answer_en": "Capacitor",
+    "answer_ta": "கேபாசிட்டர்"
+  },
+  {
+    "question_en": "The SI unit of electric power is:",
+    "question_ta": "மின்சார சக்தியின் SI அலகு எது?",
+    "options_en": ["Watt", "Ampere", "Volt", "Ohm"],
+    "options_ta": ["வாட்", "அம்பியர்", "வோல்ட்", "ஓம்"],
+    "answer_en": "Watt",
+    "answer_ta": "வாட்"
+  },
+  {
+    "question_en": "A device that increases or decreases AC voltage is:",
+    "question_ta": "ஏ.சி. மின்னழுத்தத்தை அதிகரிக்கவோ குறைக்கவோ பயன்படுத்தப்படும் கருவி எது?",
+    "options_en": ["Rectifier", "Capacitor", "Generator", "Transformer"],
+    "options_ta": ["ரெக்டிஃபையர்", "கேபாசிட்டர்", "ஜெனரேட்டர்", "மாற்றி"],
+    "answer_en": "Transformer",
+    "answer_ta": "மாற்றி"
+  },
+  {
+    "question_en": "Which wave property determines pitch of sound?",
+    "question_ta": "ஒலியின் உயரத்தை நிர்ணயிக்கும் அலை பண்பு எது?",
+    "options_en": ["Frequency", "Amplitude", "Velocity", "Wavelength"],
+    "options_ta": ["அதிர்வெண்", "அலைவாய்", "வேகம்", "அலைநீளம்"],
+    "answer_en": "Frequency",
+    "answer_ta": "அதிர்வெண்"
+  },
+  {
+    "question_en": "The echo can be heard if the distance from a wall is more than:",
+    "question_ta": "ஒலி எதிரொலி கேட்க சுவர் தூரம் எவ்வளவு அதிகமாக இருக்க வேண்டும்?",
+    "options_en": ["10 m", "17 m", "34 m", "100 m"],
+    "options_ta": ["10 மீ", "17 மீ", "34 மீ", "100 மீ"],
+    "answer_en": "17 m",
+    "answer_ta": "17 மீ"
+  },
+  {
+    "question_en": "The speed of sound in air at room temperature is:",
+    "question_ta": "அறை வெப்பநிலையில் காற்றில் ஒலியின் வேகம் எவ்வளவு?",
+    "options_en": ["400 m/s", "500 m/s", "300 m/s", "343 m/s"],
+    "options_ta": ["400 மீ/விநா", "500 மீ/விநா", "300 மீ/விநா", "343 மீ/விநா"],
+    "answer_en": "343 m/s",
+    "answer_ta": "343 மீ/விநா"
+  },
+  {
+    "question_en": "Which radiation has the highest energy?",
+    "question_ta": "அதிக ஆற்றல் கொண்ட கதிர்வீச்சு எது?",
+    "options_en": ["Gamma rays", "Ultraviolet rays", "X-rays", "Infrared rays"],
+    "options_ta": ["காமா கதிர்கள்", "அல்ட்ரா வயலட்", "எக்ஸ்-கதிர்கள்", "இன்ஃப்ராரெட் கதிர்கள்"],
+    "answer_en": "Gamma rays",
+    "answer_ta": "காமா கதிர்கள்"
+  },
+  {
+    "question_en": "The nucleus of an atom was discovered by:",
+    "question_ta": "அணுக்கருவை கண்டறிந்தவர் யார்?",
+    "options_en": ["Bohr", "Chadwick", "Rutherford", "Thomson"],
+    "options_ta": ["போர்", "சாட்விக்", "ரதர்ஃபோர்டு", "தாம்சன்"],
+    "answer_en": "Rutherford",
+    "answer_ta": "ரதர்ஃபோர்டு"
+  },
+  {
+    "question_en": "Which particle was discovered by J.J. Thomson?",
+    "question_ta": "ஜே.ஜே. தாம்சன் கண்டுபிடித்த துகள் எது?",
+    "options_en": ["Photon", "Proton", "Neutron", "Electron"],
+    "options_ta": ["போட்டான்", "புரோட்டான்", "நியூட்ரான்", "எலக்ட்ரான்"],
+    "answer_en": "Electron",
+    "answer_ta": "எலக்ட்ரான்"
+  },
+  {
+    "question_en": "Which radiation is used in sterilizing medical equipment?",
+    "question_ta": "மருத்துவ உபகரணங்களை கிருமி நீக்குவதற்கு எந்த கதிர்வீச்சு பயன்படுத்தப்படுகிறது?",
+    "options_en": ["Gamma rays", "Infrared rays", "X-rays", "Microwaves"],
+    "options_ta": ["காமா கதிர்கள்", "இன்ஃப்ராரெட்", "எக்ஸ்-கதிர்கள்", "மைக்ரோவேவ்"],
+    "answer_en": "Gamma rays",
+    "answer_ta": "காமா கதிர்கள்"
+  },
+  {
+    "question_en": "The SI unit of frequency is:",
+    "question_ta": "அதிர்வெண்ணின் SI அலகு எது?",
+    "options_en": ["Hertz", "Newton", "Joule", "Decibel"],
+    "options_ta": ["ஹெர்ட்ஸ்", "நியூட்டன்", "ஜூல்", "டெசிபல்"],
+    "answer_en": "Hertz",
+    "answer_ta": "ஹெர்ட்ஸ்"
+  },
+  {
+    "question_en": "Which gas is used in most nuclear reactors as a moderator?",
+    "question_ta": "அணு உலைகளில் பெரும்பாலும் மிதக்கியாக பயன்படுத்தப்படும் வாயு எது?",
+    "options_en": ["Carbon dioxide", "Helium", "Heavy water", "Hydrogen"],
+    "options_ta": ["கார்பன் டை ஆக்சைடு", "ஹீலியம்", "கனநீர்", "ஹைட்ரஜன்"],
+    "answer_en": "Heavy water",
+    "answer_ta": "கனநீர்"
+  },
+  {
+    "question_en": "Which property of sound helps in sonar working?",
+    "question_ta": "சோனார் செயல்பட உதவும் ஒலி பண்பு எது?",
+    "options_en": ["Reflection", "Refraction", "Diffraction", "Dispersion"],
+    "options_ta": ["பிரிதல்", "விலக்கு", "விலச்சிதறல்", "சிதறல்"],
+    "answer_en": "Reflection",
+    "answer_ta": "பிரிதல்"
+  },
+  {
+    "question_en": "The main component used in making a solar cell is:",
+    "question_ta": "சோலார் செல்களை தயாரிக்க பயன்படுத்தப்படும் முக்கிய கூறு எது?",
+    "options_en": ["Silicon", "Copper", "Aluminium", "Iron"],
+    "options_ta": ["சிலிகான்", "செம்பு", "அலுமினியம்", "இரும்பு"],
+    "answer_en": "Silicon",
+    "answer_ta": "சிலிகான்"
+  },
+  {
+    "question_en": "The electromagnetic wave used for satellite communication is:",
+    "question_ta": "செயற்கைக்கோள் தொடர்புக்கு பயன்படுத்தப்படும் மின்காந்த அலை எது?",
+    "options_en": ["Microwaves", "Infrared rays", "X-rays", "Gamma rays"],
+    "options_ta": ["மைக்ரோவேவ்", "இன்ஃப்ராரெட் கதிர்கள்", "எக்ஸ்-கதிர்கள்", "காமா கதிர்கள்"],
+    "answer_en": "Microwaves",
+    "answer_ta": "மைக்ரோவேவ்"
+  },
+  {
+    "question_en": "The SI unit of electric potential difference is:",
+    "question_ta": "மின்சார மின்னழுத்த வித்தியாசத்தின் SI அலகு எது?",
+    "options_en": ["Ohm", "Volt", "Ampere", "Watt"],
+    "options_ta": ["ஓம்", "வோல்ட்", "அம்பியர்", "வாட்"],
+    "answer_en": "Volt",
+    "answer_ta": "வோல்ட்"
+  },
+  {
+    "question_en": "Which device converts electrical energy into mechanical energy?",
+    "question_ta": "மின்சார ஆற்றலை இயந்திர ஆற்றலாக மாற்றும் கருவி எது?",
+    "options_en": ["Electric motor", "Battery", "Generator", "Transformer"],
+    "options_ta": ["மின்மோட்டார்", "மின்கலம்", "ஜெனரேட்டர்", "மாற்றி"],
+    "answer_en": "Electric motor",
+    "answer_ta": "மின்மோட்டார்"
+  },
+  {
+    "question_en": "The law of conservation of energy states:",
+    "question_ta": "ஆற்றல் நிலைமையின் விதி என்ன கூறுகிறது?",
+    "options_en": ["Energy can neither be created nor destroyed", "Energy can only be destroyed", "Energy can only be created", "Energy is not constant"],
+    "options_ta": ["ஆற்றல் neither உருவாக்கப்படவும் அழிக்கப்படவும் முடியாது", "ஆற்றல் அழிக்கப்பட மட்டுமே முடியும்", "ஆற்றல் உருவாக்கப்பட மட்டுமே முடியும்", "ஆற்றல் நிலைமையில்லை"],
+    "answer_en": "Energy can neither be created nor destroyed",
+    "answer_ta": "ஆற்றல் neither உருவாக்கப்படவும் அழிக்கப்படவும் முடியாது"
+  },
+  {
+    "question_en": "Which type of current is supplied to our homes?",
+    "question_ta": "எங்கள் வீடுகளுக்கு வழங்கப்படும் மின்சாரம் எது?",
+    "options_en": ["AC", "DC", "Both", "Static"],
+    "options_ta": ["ஏ.சி.", "டி.சி.", "இரண்டும்", "நிலைமின்னோட்டம்"],
+    "answer_en": "AC",
+    "answer_ta": "ஏ.சி."
+  },
+  {
+    "question_en": "Which instrument is used to measure potential difference?",
+    "question_ta": "மின்னழுத்த வித்தியாசத்தை அளக்கப் பயன்படுத்தப்படும் கருவி எது?",
+    "options_en": ["Ammeter", "Ohmmeter", "Voltmeter", "Galvanometer"],
+    "options_ta": ["அம்மீட்டர்", "ஓம்மீட்டர்", "வோல்ட்மீட்டர்", "கல்வனோமீட்டர்"],
+    "answer_en": "Voltmeter",
+    "answer_ta": "வோல்ட்மீட்டர்"
+  },
+  {
+    "question_en": "The sound above which frequency is inaudible to humans?",
+    "question_ta": "மனிதர்களுக்கு எந்த அதிர்வெண் மேல் ஒலி கேட்க முடியாது?",
+    "options_en": ["20,000 Hz", "200 Hz", "2,000 Hz", "200,000 Hz"],
+    "options_ta": ["20,000 ஹெர்ட்ஸ்", "200 ஹெர்ட்ஸ்", "2,000 ஹெர்ட்ஸ்", "200,000 ஹெர்ட்ஸ்"],
+    "answer_en": "20,000 Hz",
+    "answer_ta": "20,000 ஹெர்ட்ஸ்"
+  }
+]

@@ -1,0 +1,632 @@
+[
+  {
+    "question_en": "What is the chemical formula of water?",
+    "question_ta": "நீரின் வேதியியல் சூத்திரம் எது?",
+    "options_en": [
+      "CO2",
+      "O2",
+      "H2O",
+      "NaCl"
+    ],
+    "options_ta": [
+      "CO2",
+      "O2",
+      "H2O",
+      "NaCl"
+    ],
+    "answer_en": "H2O",
+    "answer_ta": "H2O"
+  },
+  {
+    "question_en": "pH of a neutral solution at 25°C is:",
+    "question_ta": "25°C இல் நடுநிலையில் உள்ள ஒரே நீரின் pH எது?",
+    "options_en": [
+      "7",
+      "1",
+      "0",
+      "14"
+    ],
+    "options_ta": [
+      "7",
+      "1",
+      "0",
+      "14"
+    ],
+    "answer_en": "7",
+    "answer_ta": "7"
+  },
+  {
+    "question_en": "Which gas is liberated when dilute HCl reacts with zinc?",
+    "question_ta": "சிறிது HCl, ஜிங்க் உடன் ஒவ்வொன்றாகச் சேரும்போது எந்த வாயு விடப்படுகின்றது?",
+    "options_en": [
+      "Hydrogen",
+      "Oxygen",
+      "Chlorine",
+      "Nitrogen"
+    ],
+    "options_ta": [
+      "ஹைட்ரஜன்",
+      "ஆக்சிஜன்",
+      "குளோன்",
+      "நைட்ரஜன்"
+    ],
+    "answer_en": "Hydrogen",
+    "answer_ta": "ஹைட்ரஜன்"
+  },
+  {
+    "question_en": "The SI unit of amount of substance is:",
+    "question_ta": "பொருள் அளவின் SI அலகு எது?",
+    "options_en": [
+      "litre",
+      "gram",
+      "mole",
+      "molecule"
+    ],
+    "options_ta": [
+      "லிட்டர்",
+      "கிராம்",
+      "மோல்",
+      "மாலிக்யூல்"
+    ],
+    "answer_en": "mole",
+    "answer_ta": "மோல்"
+  },
+  {
+    "question_en": "Which is an alkali among these?",
+    "question_ta": "பின்வரும் எந்தவொரு பொருளில் ஆல்கலி என்ன?",
+    "options_en": [
+      "NH3 (gas)",
+      "NaOH",
+      "HCl",
+      "CO2"
+    ],
+    "options_ta": [
+      "NH3 (வாயு)",
+      "NaOH",
+      "HCl",
+      "CO2"
+    ],
+    "answer_en": "NaOH",
+    "answer_ta": "NaOH"
+  },
+  {
+    "question_en": "Which element has atomic number 1?",
+    "question_ta": "அணுக்கிரம எண் 1 கொண்ட மூலதனம் எது?",
+    "options_en": [
+      "Helium",
+      "Carbon",
+      "Hydrogen",
+      "Lithium"
+    ],
+    "options_ta": [
+      "ஹீலியம்",
+      "கார்பன்",
+      "ஹைட்ரஜன்",
+      "லித்தியம்"
+    ],
+    "answer_en": "Hydrogen",
+    "answer_ta": "ஹைட்ரஜன்"
+  },
+  {
+    "question_en": "Which of these is a noble gas?",
+    "question_ta": "இவற்றில் எது நோபிள் வாயு?",
+    "options_en": [
+      "Oxygen",
+      "Nitrogen",
+      "Hydrogen",
+      "Argon"
+    ],
+    "options_ta": [
+      "ஆக்சிஜன்",
+      "நைட்ரஜன்",
+      "ஹைட்ரஜன்",
+      "ஆர்கான்"
+    ],
+    "answer_en": "Argon",
+    "answer_ta": "ஆர்கான்"
+  },
+  {
+    "question_en": "What is the valency of oxygen?",
+    "question_ta": "ஆக்சிஜனின் தொடர்பு திறன் (valency) எது?",
+    "options_en": [
+      "4",
+      "3",
+      "2",
+      "1"
+    ],
+    "options_ta": [
+      "4",
+      "3",
+      "2",
+      "1"
+    ],
+    "answer_en": "2",
+    "answer_ta": "2"
+  },
+  {
+    "question_en": "Common name of NaCl is:",
+    "question_ta": "NaCl-இன் பொதுப்பெயர் என்ன?",
+    "options_en": [
+      "Lime",
+      "Table salt",
+      "Baking soda",
+      "Epsom salt"
+    ],
+    "options_ta": [
+      "சுண்ணாம்பு",
+      "உருக்கண்ணச் உப்பு",
+      "பேக்கிங் சோடா",
+      "எப்ஸம் உப்பு"
+    ],
+    "answer_en": "Table salt",
+    "answer_ta": "உருக்கண்ணச் உப்பு"
+  },
+  {
+    "question_en": "Which substance is acidic?",
+    "question_ta": "பின்வரும் பொருள்களில் எது அமிலதன்மை கொண்டது?",
+    "options_en": [
+      "Soap solution",
+      "Vinegar",
+      "Sodium hydroxide",
+      "Ammonia solution"
+    ],
+    "options_ta": [
+      "சோப் வீத வழி",
+      "வினிகர்",
+      "சோடியம் ஹைட்ரோக்சைட்",
+      "அமோனியா தீர்வு"
+    ],
+    "answer_en": "Vinegar",
+    "answer_ta": "வினிகர்"
+  },
+  {
+    "question_en": "Which is an example of a physical change?",
+    "question_ta": "பின்வரும் எந்தது பௌதிக மாற்றத்தின் (physical change) ஒரு எடுத்துக்காட்டு?",
+    "options_en": [
+      "Melting of ice",
+      "Burning of paper",
+      "Cooking an egg",
+      "Rusting of iron"
+    ],
+    "options_ta": [
+      "பனியை உருங்குதல்",
+      "காகிதத்தை எரிதல்",
+      "முட்டையை வேகவைக்குதல்",
+      "இரும்பு சிதைவு"
+    ],
+    "answer_en": "Melting of ice",
+    "answer_ta": "பனியை உருங்குதல்"
+  },
+  {
+    "question_en": "Which metal is liquid at room temperature?",
+    "question_ta": "மூலப்பொருள் வீடு வெப்பநிலையில் திரவமாக இருக்கும்?",
+    "options_en": [
+      "Calcium",
+      "Sodium",
+      "Iron",
+      "Mercury"
+    ],
+    "options_ta": [
+      "கಾಲ்சியம்",
+      "சோடியம்",
+      "இரும்பு",
+      "பெர்குரி"
+    ],
+    "answer_en": "Mercury",
+    "answer_ta": "பெர்குரி"
+  },
+  {
+    "question_en": "Avogadro's number gives number of particles in:",
+    "question_ta": "அவோகாட்ரோ எண் எந்த அளவுச் செயலில் ஒரு பொருளில் உள்ள துகள்களின் எண்ணைக் காட்டுகிறது?",
+    "options_en": [
+      "1 gram of substance",
+      "1 molecule",
+      "1 litre of substance",
+      "1 mole of substance"
+    ],
+    "options_ta": [
+      "1 கிராம் பொருள்",
+      "1 மூலக்யூல்",
+      "1 லிட்டர் பொருள்",
+      "1 மோல் பொருள்"
+    ],
+    "answer_en": "1 mole of substance",
+    "answer_ta": "1 மோல் பொருள்"
+  },
+  {
+    "question_en": "Which is a diatomic molecule?",
+    "question_ta": "தடைஓர் (diatomic) மூலக்யூல் எது?",
+    "options_en": [
+      "CO2",
+      "NH3",
+      "O2",
+      "H2O"
+    ],
+    "options_ta": [
+      "CO2",
+      "NH3",
+      "O2",
+      "H2O"
+    ],
+    "answer_en": "O2",
+    "answer_ta": "O2"
+  },
+  {
+    "question_en": "Which process separates mixtures by boiling point?",
+    "question_ta": "முறைகளை அவற்றின் கொதிக்கும் புள்ளியின்படி பிரிக்கும் செயல்முறை என்ன?",
+    "options_en": [
+      "Filtration",
+      "Distillation",
+      "Chromatography",
+      "Evaporation"
+    ],
+    "options_ta": [
+      "எடுக்கல்",
+      "திரவிகரிப்பு",
+      "க்ரோமடோகிரஃபி",
+      "காற்றமாய்உறிஞ்சுதல்"
+    ],
+    "answer_en": "Distillation",
+    "answer_ta": "திரவிகரிப்பு"
+  },
+  {
+    "question_en": "Which indicator is used to detect acid?",
+    "question_ta": "அமிலத்தை கண்டறிய எந்த இண்டிகேட்டரைக் கண்டுபிடிக்கப்படுகிறது?",
+    "options_en": [
+      "Litmus",
+      "Bromothymol blue",
+      "Phenolphthalein (basic indicator)",
+      "Methyl orange (basic)"
+    ],
+    "options_ta": [
+      "லிட்மஸ்",
+      "ப்ரோமோதய்மால் நீலம்",
+      "பீனோல் ஃப்தைலீன்",
+      "மிதில் ஆரஞ்சு"
+    ],
+    "answer_en": "Litmus",
+    "answer_ta": "லிட்மஸ்"
+  },
+  {
+    "question_en": "Which is a polymer?",
+    "question_ta": "பின்வரும் எந்தது பாலிமர்?",
+    "options_en": [
+      "Polyethylene",
+      "Methane",
+      "Water",
+      "Sodium chloride"
+    ],
+    "options_ta": [
+      "பலிஇத்திலீன்",
+      "மீதேன்",
+      "நீர்",
+      "சோடியம் குளோரைடு"
+    ],
+    "answer_en": "Polyethylene",
+    "answer_ta": "பலிஇத்திலீன்"
+  },
+  {
+    "question_en": "Which bond is formed by sharing electron pairs?",
+    "question_ta": "எழுத்து ஞானப் பகிர்ந்துகொள்ளுதல் என்பதால் எந்த வகை பிணை உருவாகிறது?",
+    "options_en": [
+      "Ionic bond",
+      "Metallic bond",
+      "Hydrogen bond",
+      "Covalent bond"
+    ],
+    "options_ta": [
+      "ஆயனிக் பிணை",
+      "மெட்டாலிக் பிணை",
+      "ஹைட்ரஜன் பிணை",
+      "கொவலண்ட் பிணை"
+    ],
+    "answer_en": "Covalent bond",
+    "answer_ta": "கொவலண்ட் பிணை"
+  },
+  {
+    "question_en": "Which compound is a strong acid?",
+    "question_ta": "பின்வரும் எந்த சேர்மம் ஒரு வலுவான அமிலம்?",
+    "options_en": [
+      "CH3COOH",
+      "HF",
+      "HCl",
+      "H2CO3"
+    ],
+    "options_ta": [
+      "CH3COOH",
+      "HF",
+      "HCl",
+      "H2CO3"
+    ],
+    "answer_en": "HCl",
+    "answer_ta": "HCl"
+  },
+  {
+    "question_en": "What is the electron configuration of Na (atomic number 11)?",
+    "question_ta": "Na (அணுச்சரம் 11) இன் மின்கட்டமைப்பு என்ன?",
+    "options_en": [
+      "1s2 2s2 2p6",
+      "1s2 2s2 2p5 3s2",
+      "1s2 2s2 2p6 3s1",
+      "1s2 2s2 2p6 3p1"
+    ],
+    "options_ta": [
+      "1s2 2s2 2p6",
+      "1s2 2s2 2p5 3s2",
+      "1s2 2s2 2p6 3s1",
+      "1s2 2s2 2p6 3p1"
+    ],
+    "answer_en": "1s2 2s2 2p6 3s1",
+    "answer_ta": "1s2 2s2 2p6 3s1"
+  },
+  {
+    "question_en": "Which is produced during complete combustion of hydrocarbon?",
+    "question_ta": "ஹைட்ரோகார்பனை கரையும்போது முழுமையான எரிவில் என்ன உற்பத்தி ஆகிறது?",
+    "options_en": [
+      "Carbon dioxide and water",
+      "Carbon monoxide and soot",
+      "Nitrogen oxides",
+      "Hydrogen and oxygen"
+    ],
+    "options_ta": [
+      "கார்பன் டை ஆக்சைடு மற்றும் நீர்",
+      "கார்பன் மோனாக்சைடு மற்றும் சாட்டு",
+      "நைட்ரஜன் ஆக்சைட்கள்",
+      "ஹைட்ரஜன் மற்றும் ஆக்சிஜன்"
+    ],
+    "answer_en": "Carbon dioxide and water",
+    "answer_ta": "கார்பன் டை ஆக்சைடு மற்றும் நீர்"
+  },
+  {
+    "question_en": "Electrolysis of molten NaCl yields:",
+    "question_ta": "கலக்கப்பட்ட NaCl-இன் மின் சிதைவியல் (Electrolysis) எந்த பொருட்களை உண்டாக்குகிறது?",
+    "options_en": [
+      "Sodium hydroxide and hydrogen",
+      "Sodium carbonate and oxygen",
+      "Sodium oxide and chlorine",
+      "Sodium and Chlorine"
+    ],
+    "options_ta": [
+      "சோடியம் ஹைட்ரோக்சைட் மற்றும் ஹைட்ரஜன்",
+      "சோடியம் கார்பனேட் மற்றும் ஆக்சிஜன்",
+      "சோடியம் ஆக்சைடை மற்றும் குளோின்",
+      "சோடியம் மற்றும் குளோின்"
+    ],
+    "answer_en": "Sodium and Chlorine",
+    "answer_ta": "சோடியம் மற்றும் குளோின்"
+  },
+  {
+    "question_en": "Which is a reducing agent?",
+    "question_ta": "பின்வரும் எந்தது குறைக்கும் முகமாக செயல்படுகிறது (reducing agent)?",
+    "options_en": [
+      "Nitric acid",
+      "Fluorine",
+      "Hydrogen",
+      "Oxygen"
+    ],
+    "options_ta": [
+      "நைட்ரிக் அமிலம்",
+      "ஃப்ளூரின்",
+      "ஹைட்ரஜன்",
+      "ஆக்சிஜன்"
+    ],
+    "answer_en": "Hydrogen",
+    "answer_ta": "ஹைட்ரஜன்"
+  },
+  {
+    "question_en": "Which is the strongest acid among these oxoacids?",
+    "question_ta": "இவற்றில் எந்த ஆக்ஸோ அமிலம் மிக வலுவானது? (அடிப்படையில் அதனால் pKa குறைவு)",
+    "options_en": [
+      "HClO4 (perchloric acid)",
+      "HClO3",
+      "HClO",
+      "HClO2"
+    ],
+    "options_ta": [
+      "HClO4",
+      "HClO3",
+      "HClO",
+      "HClO2"
+    ],
+    "answer_en": "HClO4",
+    "answer_ta": "HClO4"
+  },
+  {
+    "question_en": "Which reagent is used for testing presence of unsaturation in an organic compound?",
+    "question_ta": "ஒரு கார்பனிலே அடையாளப்படுத்தப்படுகின்ற அவுட்டிற்கான நிறுவனம் என்ன?",
+    "options_en": [
+      "Barium chloride",
+      "Bromine in CCl4 (decolorisation)",
+      "Fehling's solution",
+      "Tollens' reagent"
+    ],
+    "options_ta": [
+      "பாரியம் கிளோரைடு",
+      "CCl4 இல் ப்ரோமின் (நிறம் நீங்குதல்)",
+      "ஃபெலிங்ஸ்",
+      "டாலன்ஸ் ரீஅஜன்ட்"
+    ],
+    "answer_en": "Bromine in CCl4 (decolorisation)",
+    "answer_ta": "CCl4 இல் ப்ரோமின் (நிறம் நீங்குதல்)"
+  },
+  {
+    "question_en": "Which is amphoteric oxide?",
+    "question_ta": "எந்த ஆக்சைடு இருவகையிலும் (amphoteric) செயல்படும்?",
+    "options_en": [
+      "CO2",
+      "ZnO",
+      "SO2",
+      "K2O"
+    ],
+    "options_ta": [
+      "CO2",
+      "ZnO",
+      "SO2",
+      "K2O"
+    ],
+    "answer_en": "ZnO",
+    "answer_ta": "ZnO"
+  },
+  {
+    "question_en": "Which element shows variable oxidation states commonly?",
+    "question_ta": "எந்த மூலதனம் பொதுவாக மாறும் ஆக்சிடேஷன் மாநிலங்களை காட்டுகிறது?",
+    "options_en": [
+      "Halogens",
+      "Transition metals",
+      "Noble gases",
+      "Alkali metals"
+    ],
+    "options_ta": [
+      "ஹாலோகன்கள்",
+      "டிரானிசிஷன் மெட்டல்ஸ்",
+      "நோபிள் வாயுக்கள்",
+      "ஆல்கலி மெட்டல்ஸ்"
+    ],
+    "answer_en": "Transition metals",
+    "answer_ta": "டிரானிசிஷன் மெட்டல்ஸ்"
+  },
+  {
+    "question_en": "Which process is used to separate immiscible liquids?",
+    "question_ta": "ஒரே மாதிரியல்லாத திரவங்களை பிரிக்க எந்த செயல்முறை பயன்படுகிறது?",
+    "options_en": [
+      "Filtration",
+      "Separating funnel (decantation)",
+      "Chromatography",
+      "Distillation"
+    ],
+    "options_ta": [
+      "ஃபில்ட்ரேஷன்",
+      "பிரிப்பான் கலப்பை (Separating funnel)",
+      "க்ரோமடோகிரஃபி",
+      "திரவிகரிப்பு"
+    ],
+    "answer_en": "Separating funnel (decantation)",
+    "answer_ta": "பிரிப்பான் கலப்பை (Separating funnel)"
+  },
+  {
+    "question_en": "Which acid is present in citrus fruits?",
+    "question_ta": "மேனி பழங்களில் எது அமிலம் காணப்படுகின்றது?",
+    "options_en": [
+      "Acetic acid",
+      "Citric acid",
+      "Oxalic acid",
+      "Sulfuric acid"
+    ],
+    "options_ta": [
+      "அசிட்டிக் அமிலம்",
+      "சிட்ரிக் அமிலம்",
+      "ஆக்ஸாலிக் அமிலம்",
+      "மஞ்சள் அமிலம்"
+    ],
+    "answer_en": "Citric acid",
+    "answer_ta": "சிட்ரிக் அமிலம்"
+  },
+  {
+    "question_en": "What is the common name of CaCO3 when heated yields CaO?",
+    "question_ta": "CaCO3 வெப்பமளிக்கப்பட்டால் CaO உருவாக்கும் பொதுப்பெயர் என்ன?",
+    "options_en": [
+      "Gypsum",
+      "Baking powder",
+      "Lime (quicklime)",
+      "Plaster of Paris"
+    ],
+    "options_ta": [
+      "ஜிப்சம்",
+      "பேக்கிங் பவுடர்",
+      "லேம் (quicklime)",
+      "பிளாஸ்டர் ஆஃப் பாரிஸ்"
+    ],
+    "answer_en": "Lime (quicklime)",
+    "answer_ta": "லேம் (quicklime)"
+  },
+  {
+    "question_en": "Which is the acidic oxide?",
+    "question_ta": "பின்வரும் எந்தது அமிலாக செயல்படும் ஆக்சைடு?",
+    "options_en": [
+      "Na2O",
+      "SO2",
+      "CaO",
+      "MgO"
+    ],
+    "options_ta": [
+      "Na2O",
+      "SO2",
+      "CaO",
+      "MgO"
+    ],
+    "answer_en": "SO2",
+    "answer_ta": "SO2"
+  },
+  {
+    "question_en": "Which substance is a base according to Arrhenius?",
+    "question_ta": "அறிஸ் (Arrhenius) கோட்பாடு படி எந்த பொருள் அடிப்படை (base)?",
+    "options_en": [
+      "NaOH",
+      "HCl",
+      "NH4Cl",
+      "CO2"
+    ],
+    "options_ta": [
+      "NaOH",
+      "HCl",
+      "NH4Cl",
+      "CO2"
+    ],
+    "answer_en": "NaOH",
+    "answer_ta": "NaOH"
+  },
+  {
+    "question_en": "Which substance is a base according to Arrhenius? (variant 1)",
+    "question_ta": "அறிஸ் (Arrhenius) கோட்பாடு படி எந்த பொருள் அடிப்படை (base)? (விருப்பம் 1)",
+    "options_en": [
+      "NaOH",
+      "CO2",
+      "HCl",
+      "NH4Cl"
+    ],
+    "options_ta": [
+      "NaOH",
+      "CO2",
+      "HCl",
+      "NH4Cl"
+    ],
+    "answer_en": "NaOH",
+    "answer_ta": "NaOH"
+  },
+  {
+    "question_en": "Which substance is a base according to Arrhenius? (variant 1) (variant 2)",
+    "question_ta": "அறிஸ் (Arrhenius) கோட்பாடு படி எந்த பொருள் அடிப்படை (base)? (விருப்பம் 1) (விருப்பம் 2)",
+    "options_en": [
+      "HCl",
+      "NH4Cl",
+      "NaOH",
+      "CO2"
+    ],
+    "options_ta": [
+      "HCl",
+      "NH4Cl",
+      "NaOH",
+      "CO2"
+    ],
+    "answer_en": "NaOH",
+    "answer_ta": "NaOH"
+  },
+  {
+    "question_en": "Which substance is a base according to Arrhenius? (variant 1) (variant 2) (variant 3)",
+    "question_ta": "அறிஸ் (Arrhenius) கோட்பாடு படி எந்த பொருள் அடிப்படை (base)? (விருப்பம் 1) (விருப்பம் 2) (விருப்பம் 3)",
+    "options_en": [
+      "HCl",
+      "NaOH",
+      "NH4Cl",
+      "CO2"
+    ],
+    "options_ta": [
+      "HCl",
+      "NaOH",
+      "NH4Cl",
+      "CO2"
+    ],
+    "answer_en": "NaOH",
+    "answer_ta": "NaOH"
+  }
+]

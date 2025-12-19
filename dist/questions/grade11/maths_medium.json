@@ -1,0 +1,274 @@
+[
+  {
+    "question_en": "If A = {1,2,3,4}, B = {3,4,5,6}, what is A ∪ B?",
+    "question_ta": "A = {1,2,3,4}, B = {3,4,5,6} என்றால், A ∪ B என்ன?",
+    "options_en": ["{1,2,3,4,5,6}", "{3,4}", "{1,2}", "{5,6}"],
+    "options_ta": ["{1,2,3,4,5,6}", "{3,4}", "{1,2}", "{5,6}"],
+    "answer_en": "{1,2,3,4,5,6}",
+    "answer_ta": "{1,2,3,4,5,6}"
+  },
+  {
+    "question_en": "If A = {1,2,3}, B = {x,y}, how many relations from A to B are possible?",
+    "question_ta": "A = {1,2,3}, B = {x,y} என்றால், A → B-க்கு எத்தனை தொடர்புகள் (relations) சாத்தியம்?",
+    "options_en": ["6", "9", "64", "512"],
+    "options_ta": ["6", "9", "64", "512"],
+    "answer_en": "64",
+    "answer_ta": "64"
+  },
+  {
+    "question_en": "If f(x) = x² and g(x) = x+1, then (g∘f)(2) is?",
+    "question_ta": "f(x) = x², g(x) = x+1 என்றால், (g∘f)(2) மதிப்பு?",
+    "options_en": ["3", "5", "9", "2"],
+    "options_ta": ["3", "5", "9", "2"],
+    "answer_en": "5",
+    "answer_ta": "5"
+  },
+  {
+    "question_en": "If tan A = 3/4, then sin A = ?",
+    "question_ta": "tan A = 3/4 என்றால், sin A = ?",
+    "options_en": ["3/5", "4/5", "5/3", "1/2"],
+    "options_ta": ["3/5", "4/5", "5/3", "1/2"],
+    "answer_en": "3/5",
+    "answer_ta": "3/5"
+  },
+  {
+    "question_en": "The number of subsets of a set with 4 elements is?",
+    "question_ta": "4 உறுப்புகள் கொண்ட ஒரு செட்டின் துணை செட்டுகளின் எண்ணிக்கை?",
+    "options_en": ["4", "8", "12", "16"],
+    "options_ta": ["4", "8", "12", "16"],
+    "answer_en": "16",
+    "answer_ta": "16"
+  },
+  {
+    "question_en": "The sum of coefficients in (x+2)⁵ is?",
+    "question_ta": "(x+2)⁵ விரிவாக்கத்தில் குணகங்களின் கூட்டுத்தொகை?",
+    "options_en": ["16", "32", "64", "243"],
+    "options_ta": ["16", "32", "64", "243"],
+    "answer_en": "243",
+    "answer_ta": "243"
+  },
+  {
+    "question_en": "If the common difference of an AP is 5, first term is 2, then 10th term is?",
+    "question_ta": "ஒரு AP-ன் பொதுவான வேறுபாடு 5, முதல் உறுப்பு 2 என்றால், 10வது உறுப்பு?",
+    "options_en": ["45", "47", "50", "52"],
+    "options_ta": ["45", "47", "50", "52"],
+    "answer_en": "47",
+    "answer_ta": "47"
+  },
+  {
+    "question_en": "If A = [[2,3],[4,5]], then det(A) is?",
+    "question_ta": "A = [[2,3],[4,5]] என்றால், det(A) மதிப்பு?",
+    "options_en": ["−2", "−3", "−5", "−7"],
+    "options_ta": ["−2", "−3", "−5", "−7"],
+    "answer_en": "−2",
+    "answer_ta": "−2"
+  },
+  {
+    "question_en": "If cosθ = 12/13, then sinθ = ?",
+    "question_ta": "cosθ = 12/13 என்றால், sinθ = ?",
+    "options_en": ["5/13", "12/13", "13/5", "1/2"],
+    "options_ta": ["5/13", "12/13", "13/5", "1/2"],
+    "answer_en": "5/13",
+    "answer_ta": "5/13"
+  },
+  {
+    "question_en": "The 5th term of the expansion of (1+x)⁶ is?",
+    "question_ta": "(1+x)⁶ விரிவாக்கத்தின் 5வது உறுப்பு?",
+    "options_en": ["6C4 x⁴", "6C3 x³", "6C2 x²", "6C5 x⁵"],
+    "options_ta": ["6C4 x⁴", "6C3 x³", "6C2 x²", "6C5 x⁵"],
+    "answer_en": "6C4 x⁴",
+    "answer_ta": "6C4 x⁴"
+  },
+  {
+    "question_en": "Equation of the line with slope 2 passing through (0,3) is?",
+    "question_ta": "சரிவு 2 கொண்ட, (0,3) வழியாகச் செல்லும் நேர்கோட்டின் சமன்பாடு?",
+    "options_en": ["y = 2x+3", "y = 2x−3", "y = x+3", "y = 3x+2"],
+    "options_ta": ["y = 2x+3", "y = 2x−3", "y = x+3", "y = 3x+2"],
+    "answer_en": "y = 2x+3",
+    "answer_ta": "y = 2x+3"
+  },
+  {
+    "question_en": "If vector a = (1,2,2), b = (2,1,−2), then a·b is?",
+    "question_ta": "a = (1,2,2), b = (2,1,−2) என்றால், a·b மதிப்பு?",
+    "options_en": ["0", "1", "2", "3"],
+    "options_ta": ["0", "1", "2", "3"],
+    "answer_en": "0",
+    "answer_ta": "0"
+  },
+  {
+    "question_en": "If y = x³, then dy/dx = ?",
+    "question_ta": "y = x³ என்றால், dy/dx = ?",
+    "options_en": ["2x", "3x²", "x³", "1"],
+    "options_ta": ["2x", "3x²", "x³", "1"],
+    "answer_en": "3x²",
+    "answer_ta": "3x²"
+  },
+  {
+    "question_en": "∫ x dx = ?",
+    "question_ta": "∫ x dx = ?",
+    "options_en": ["x²", "x²/2 + C", "2x + C", "x + C"],
+    "options_ta": ["x²", "x²/2 + C", "2x + C", "x + C"],
+    "answer_en": "x²/2 + C",
+    "answer_ta": "x²/2 + C"
+  },
+  {
+    "question_en": "If 2 dice are thrown, probability of getting sum = 7 is?",
+    "question_ta": "2 சூதுகட்டைகள் வீசப்பட்டால், கூட்டுத்தொகை 7 வருவதற்கான சாத்தியம்?",
+    "options_en": ["1/6", "1/12", "1/36", "5/36"],
+    "options_ta": ["1/6", "1/12", "1/36", "5/36"],
+    "answer_en": "1/6",
+    "answer_ta": "1/6"
+  },
+  {
+    "question_en": "If nth term of AP is 7n−3, then first term is?",
+    "question_ta": "ஒரு AP-ன் n-வது உறுப்பு 7n−3 என்றால், முதல் உறுப்பு?",
+    "options_en": ["4", "7", "3", "10"],
+    "options_ta": ["4", "7", "3", "10"],
+    "answer_en": "4",
+    "answer_ta": "4"
+  },
+  {
+    "question_en": "The distance between parallel lines y = 2x+3 and y = 2x−5 is?",
+    "question_ta": "y = 2x+3 மற்றும் y = 2x−5 என்ற இணைநேர்கோட்டுகளின் இடையிலான தூரம்?",
+    "options_en": ["√5", "5/√5", "8/√5", "10/√5"],
+    "options_ta": ["√5", "5/√5", "8/√5", "10/√5"],
+    "answer_en": "8/√5",
+    "answer_ta": "8/√5"
+  },
+  {
+    "question_en": "If A = [[1,2],[3,4]], then adj(A) is?",
+    "question_ta": "A = [[1,2],[3,4]] என்றால், adj(A) மதிப்பு?",
+    "options_en": ["[[4,−2],[−3,1]]", "[[1,−2],[−3,4]]", "[[3,4],[1,2]]", "None"],
+    "options_ta": ["[[4,−2],[−3,1]]", "[[1,−2],[−3,4]]", "[[3,4],[1,2]]", "எதுவும் இல்லை"],
+    "answer_en": "[[4,−2],[−3,1]]",
+    "answer_ta": "[[4,−2],[−3,1]]"
+  },
+  {
+    "question_en": "If A = [[2,0],[0,3]], then det(A) is?",
+    "question_ta": "A = [[2,0],[0,3]] என்றால், det(A) மதிப்பு?",
+    "options_en": ["2", "3", "5", "6"],
+    "options_ta": ["2", "3", "5", "6"],
+    "answer_en": "6",
+    "answer_ta": "6"
+  },
+  {
+    "question_en": "If sinθ = 1/2, then θ = ?",
+    "question_ta": "sinθ = 1/2 என்றால், θ = ?",
+    "options_en": ["30°", "45°", "60°", "90°"],
+    "options_ta": ["30°", "45°", "60°", "90°"],
+    "answer_en": "30°",
+    "answer_ta": "30°"
+  },
+  {
+    "question_en": "Equation of circle with centre (0,0) and radius 5 is?",
+    "question_ta": "மையம் (0,0), ஆரம் 5 கொண்ட வட்டத்தின் சமன்பாடு?",
+    "options_en": ["x²+y²=25", "x²+y²=5", "x²−y²=25", "x²+y²=10"],
+    "options_ta": ["x²+y²=25", "x²+y²=5", "x²−y²=25", "x²+y²=10"],
+    "answer_en": "x²+y²=25",
+    "answer_ta": "x²+y²=25"
+  },
+  {
+    "question_en": "If cos²θ = 3/4, then tan²θ = ?",
+    "question_ta": "cos²θ = 3/4 என்றால், tan²θ = ?",
+    "options_en": ["1/3", "1/2", "1/4", "1/5"],
+    "options_ta": ["1/3", "1/2", "1/4", "1/5"],
+    "answer_en": "1/3",
+    "answer_ta": "1/3"
+  },
+  {
+    "question_en": "The 8th term of AP: 7, 10, 13,... is?",
+    "question_ta": "AP: 7, 10, 13,... இன் 8வது உறுப்பு?",
+    "options_en": ["25", "28", "30", "31"],
+    "options_ta": ["25", "28", "30", "31"],
+    "answer_en": "28",
+    "answer_ta": "28"
+  },
+  {
+    "question_en": "If GP has first term 3 and common ratio 2, then 5th term is?",
+    "question_ta": "முதல் உறுப்பு 3, பொதுவான விகிதம் 2 கொண்ட GP தொடரின் 5வது உறுப்பு?",
+    "options_en": ["24", "48", "96", "30"],
+    "options_ta": ["24", "48", "96", "30"],
+    "answer_en": "48",
+    "answer_ta": "48"
+  },
+  {
+    "question_en": "The coefficient of x³ in (1+x)^6 is?",
+    "question_ta": "(1+x)^6 விரிவாக்கத்தில் x³-ன் குணகம்?",
+    "options_en": ["6", "10", "15", "20"],
+    "options_ta": ["6", "10", "15", "20"],
+    "answer_en": "20",
+    "answer_ta": "20"
+  },
+  {
+    "question_en": "Equation of straight line through (1,2) with slope 3 is?",
+    "question_ta": "சரிவு 3 கொண்ட, (1,2) வழியாகச் செல்லும் நேர்கோட்டின் சமன்பாடு?",
+    "options_en": ["y−2 = 3(x−1)", "y+2 = 3(x+1)", "y=3x+2", "y=2x+1"],
+    "options_ta": ["y−2 = 3(x−1)", "y+2 = 3(x+1)", "y=3x+2", "y=2x+1"],
+    "answer_en": "y−2 = 3(x−1)",
+    "answer_ta": "y−2 = 3(x−1)"
+  },
+  {
+    "question_en": "If a = (2,−1,3), b = (1,1,1), then a·b = ?",
+    "question_ta": "a = (2,−1,3), b = (1,1,1) என்றால், a·b மதிப்பு?",
+    "options_en": ["4", "5", "6", "7"],
+    "options_ta": ["4", "5", "6", "7"],
+    "answer_en": "4",
+    "answer_ta": "4"
+  },
+  {
+    "question_en": "If f(x) = x²+3x, then f′(x) = ?",
+    "question_ta": "f(x) = x²+3x என்றால், f′(x) = ?",
+    "options_en": ["x²", "2x+3", "3x²", "2x"],
+    "options_ta": ["x²", "2x+3", "3x²", "2x"],
+    "answer_en": "2x+3",
+    "answer_ta": "2x+3"
+  },
+  {
+    "question_en": "∫ cosx dx = ?",
+    "question_ta": "∫ cosx dx = ?",
+    "options_en": ["sinx + C", "cosx + C", "−sinx + C", "tanx + C"],
+    "options_ta": ["sinx + C", "cosx + C", "−sinx + C", "tanx + C"],
+    "answer_en": "sinx + C",
+    "answer_ta": "sinx + C"
+  },
+  {
+    "question_en": "If two dice are rolled, probability of doublet is?",
+    "question_ta": "2 சூதுகட்டைகள் வீசப்பட்டால், ஒரே எண் வரும் சாத்தியம் (doublet) என்ன?",
+    "options_en": ["1/6", "1/12", "1/36", "5/36"],
+    "options_ta": ["1/6", "1/12", "1/36", "5/36"],
+    "answer_en": "1/6",
+    "answer_ta": "1/6"
+  },
+  {
+    "question_en": "If nC2 = 10, then n = ?",
+    "question_ta": "nC2 = 10 என்றால், n = ?",
+    "options_en": ["4", "5", "6", "10"],
+    "options_ta": ["4", "5", "6", "10"],
+    "answer_en": "5",
+    "answer_ta": "5"
+  },
+  {
+    "question_en": "If A = {1,2,3}, number of equivalence relations possible is?",
+    "question_ta": "A = {1,2,3} என்றால், எத்தனை சமவுரிமை தொடர்புகள் சாத்தியம்?",
+    "options_en": ["3", "5", "6", "10"],
+    "options_ta": ["3", "5", "6", "10"],
+    "answer_en": "5",
+    "answer_ta": "5"
+  },
+  {
+    "question_en": "If mean = 20 and total items = 5, then sum = ?",
+    "question_ta": "சராசரி = 20, மொத்த உருப்புகள் = 5 என்றால், கூட்டுத்தொகை?",
+    "options_en": ["20", "25", "50", "100"],
+    "options_ta": ["20", "25", "50", "100"],
+    "answer_en": "100",
+    "answer_ta": "100"
+  },
+  {
+    "question_en": "If variance = 0, then all items are?",
+    "question_ta": "Variance = 0 என்றால், அனைத்து உருப்புகளும் எப்படி இருக்கும்?",
+    "options_en": ["Equal", "Different", "Positive", "Negative"],
+    "options_ta": ["சமமானவை", "வேறுபட்டவை", "நேர்மையானவை", "எதிர்மறையானவை"],
+    "answer_en": "Equal",
+    "answer_ta": "சமமானவை"
+  }
+]

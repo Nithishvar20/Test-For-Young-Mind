@@ -1,0 +1,578 @@
+[
+  {
+    "question_en": "Which process produces genetically different gametes?",
+    "question_ta": "மரபு மாறுபட்ட காமெட்களை உருவாக்கும் செயல் எது?",
+    "options_en": [
+      "Mitosis",
+      "Meiosis",
+      "Binary fission",
+      "Budding"
+    ],
+    "options_ta": [
+      "மைட்டோசிஸ்",
+      "மையோசிஸ்",
+      "பைனரி ஃபிஷன்",
+      "படேற்றுதல்"
+    ],
+    "answer_en": "Meiosis",
+    "answer_ta": "மையோசிஸ்"
+  },
+  {
+    "question_en": "Which RNA carries amino acids to ribosome?",
+    "question_ta": "அமினோ அமிலங்களை ரைபோசோத்திற்கு கொண்டு செல்லும் RNA எது?",
+    "options_en": [
+      "mRNA",
+      "tRNA",
+      "rRNA",
+      "snRNA"
+    ],
+    "options_ta": [
+      "mRNA",
+      "tRNA",
+      "rRNA",
+      "snRNA"
+    ],
+    "answer_en": "tRNA",
+    "answer_ta": "tRNA"
+  },
+  {
+    "question_en": "Which hormone lowers blood sugar?",
+    "question_ta": "இரத்த சர்க்கரை அளவை குறைக்கும் ஹார்மோன் எது?",
+    "options_en": [
+      "Insulin",
+      "Glucagon",
+      "Adrenaline",
+      "Thyroxine"
+    ],
+    "options_ta": [
+      "இன்சுலின்",
+      "க்ளூககான்",
+      "அட்ரெனலின்",
+      "தைய்ரோக்சின்"
+    ],
+    "answer_en": "Insulin",
+    "answer_ta": "இன்சுலின்"
+  },
+  {
+    "question_en": "Which organelle packages and ships proteins?",
+    "question_ta": "புரதங்களை தொகுத்து வெளியே அனுப்பும் ஒர் உள் உறுப்பு எது?",
+    "options_en": [
+      "Golgi apparatus",
+      "Ribosome",
+      "ER",
+      "Lysosome"
+    ],
+    "options_ta": [
+      "கோல்ஜி உட்கமைப்பு",
+      "ரிபோசோம்",
+      "என்டோபிளாஸ்மிக் ரெடிகுலம்",
+      "லைசோசோம்"
+    ],
+    "answer_en": "Golgi apparatus",
+    "answer_ta": "கோல்ஜி உட்கமைப்பு"
+  },
+  {
+    "question_en": "Which blood group is universal recipient?",
+    "question_ta": "எல்லா இரத்தக் குழுக்களையும் பெறக்கூடியவை எது?",
+    "options_en": [
+      "O negative",
+      "AB positive",
+      "A positive",
+      "B negative"
+    ],
+    "options_ta": [
+      "O நெகடிவ்",
+      "AB பாசிட்டிவ்",
+      "A பாசிட்டிவ்",
+      "B நெகடிவ்"
+    ],
+    "answer_en": "AB positive",
+    "answer_ta": "AB பாசிட்டிவ்"
+  },
+  {
+    "question_en": "Which vascular tissue transports sugars?",
+    "question_ta": "சர்க்கரைகளை கடத்தும் செடியின் திசை எது?",
+    "options_en": [
+      "Phloem",
+      "Xylem",
+      "Cambium",
+      "Epidermis"
+    ],
+    "options_ta": [
+      "பிளோம்",
+      "சைலிம்",
+      "கேம்பியம்",
+      "எபிடெர்மிஸ்"
+    ],
+    "answer_en": "Phloem",
+    "answer_ta": "பிளோம்"
+  },
+  {
+    "question_en": "Which neuron part conducts impulses away from cell body?",
+    "question_ta": "செல் உடலத்திலிருந்து импуль்ஸ் வெளியே கொண்டு செல்லும் நியூரானின் பகுதி?",
+    "options_en": [
+      "Dendrite",
+      "Axon",
+      "Synapse",
+      "Nucleus"
+    ],
+    "options_ta": [
+      "டெண்ட்ரைட்",
+      "அக்சோன்",
+      "சைனாப்ஸ்",
+      "நியூக்கியஸ்"
+    ],
+    "answer_en": "Axon",
+    "answer_ta": "அக்சோன்"
+  },
+  {
+    "question_en": "Which method do plants use to transport sugars in phloem?",
+    "question_ta": "பிளோம் மூலம் செடிகள் சர்க்கரைகளை எவ்வாறு கொண்டு செல்கின்றன?",
+    "options_en": [
+      "Transpiration pull",
+      "Pressure-flow (mass flow)",
+      "Diffusion only",
+      "Active transport in xylem"
+    ],
+    "options_ta": [
+      "Transpiration pull",
+      "Pressure-flow",
+      "தானாக பகிர்வு",
+      "செயல்பாட்டு நெடுங்கோள்"
+    ],
+    "answer_en": "Pressure-flow (mass flow)",
+    "answer_ta": "Pressure-flow (mass flow)"
+  },
+  {
+    "question_en": "Which organ secretes digestive enzymes into small intestine?",
+    "question_ta": "சிறு குடலுக்கு ஜீரண என்சைம்களை வெளியிடும் உறுப்பு எது?",
+    "options_en": [
+      "Stomach",
+      "Pancreas",
+      "Liver",
+      "Spleen"
+    ],
+    "options_ta": [
+      "வயிறு",
+      "பான்கிரியாஸ்",
+      "கல்லீரல்",
+      "ஸ்ப்லீன்"
+    ],
+    "answer_en": "Pancreas",
+    "answer_ta": "பான்கிரியாஸ்"
+  },
+  {
+    "question_en": "Which immune cells present antigen to T cells?",
+    "question_ta": "T செல்களுக்கு பார்வை அளிக்க antigen-ஐ வழங்கும் செல்கள் எவை?",
+    "options_en": [
+      "Red blood cells",
+      "Antigen-presenting cells (APCs)",
+      "Platelets",
+      "Erythrocytes"
+    ],
+    "options_ta": [
+      "சிவப்பு அணுக்கள்",
+      "APCகள்",
+      "பிளேட்லெட்ஸ்",
+      "எரித்ரோசைட்ஸ்"
+    ],
+    "answer_en": "Antigen-presenting cells (APCs)",
+    "answer_ta": "APCகள்"
+  },
+  {
+    "question_en": "Which process describes uptake of water by root hairs?",
+    "question_ta": "ரூட் ஹேர் வழியாக நீர் உட்கொள்ளுதல் என்ன கூறப்படும்?",
+    "options_en": [
+      "Osmosis",
+      "Diffusion",
+      "Active transport",
+      "Endocytosis"
+    ],
+    "options_ta": [
+      "ஓஸ்மோசிஸ்",
+      "பகிர்வு",
+      "செயல்பாட்டு போக்குவரத்து",
+      "எண்டொசைட்டோசிஸ்"
+    ],
+    "answer_en": "Osmosis",
+    "answer_ta": "ஓஸ்மோசிஸ்"
+  },
+  {
+    "question_en": "Which organelle is the site of aerobic respiration?",
+    "question_ta": "ஏரோபிக் சுவாசத்தின் தளம் எது?",
+    "options_en": [
+      "Chloroplast",
+      "Mitochondrion",
+      "Ribosome",
+      "Golgi body"
+    ],
+    "options_ta": [
+      "குளோரோபிளாஸ்ட்",
+      "மைட்டோகாண்ட்ரியா",
+      "ரிபோசோம்",
+      "கோல்ஜி"
+    ],
+    "answer_en": "Mitochondrion",
+    "answer_ta": "மைட்டோகாண்ட்ரியா"
+  },
+  {
+    "question_en": "Which term describes species interaction where both benefit?",
+    "question_ta": "இருவருக்கும் நன்மை தரும் இனங்களின் உறவை என்ன சொல்வது?",
+    "options_en": [
+      "Parasitism",
+      "Mutualism",
+      "Commensalism",
+      "Predation"
+    ],
+    "options_ta": [
+      "பாரசிடிசம்",
+      "ம்யூசுவலிசம்",
+      "கமென்சலிசம்",
+      "துஷ்டவியல்"
+    ],
+    "answer_en": "Mutualism",
+    "answer_ta": "ம்யூசுவலிசம்"
+  },
+  {
+    "question_en": "Which molecule is main energy currency of cell?",
+    "question_ta": "செல்லின் பிரதான ஆற்றல் கரன்சி மூலக்கூறு எது?",
+    "options_en": [
+      "NADH",
+      "ATP",
+      "GTP",
+      "Glucose"
+    ],
+    "options_ta": [
+      "NADH",
+      "ATP",
+      "GTP",
+      "குளுக்கோஸ்"
+    ],
+    "answer_en": "ATP",
+    "answer_ta": "ATP"
+  },
+  {
+    "question_en": "Which process in plants converts light energy to chemical energy?",
+    "question_ta": "ஒளி ஆற்றலை வேதியியல் ஆற்றலாக மாற்றும் முறையை என்னக் கூறுவீர்கள்?",
+    "options_en": [
+      "Respiration",
+      "Photosynthesis",
+      "Transpiration",
+      "Fermentation"
+    ],
+    "options_ta": [
+      "சுவாசம்",
+      "ஒளிச்சேர்க்கை",
+      "Transpiration",
+      "ஃபெர்மெண்டேஷன்"
+    ],
+    "answer_en": "Photosynthesis",
+    "answer_ta": "ஒளிச்சேர்க்கை"
+  },
+  {
+    "question_en": "Which blood vessels exchange gases and nutrients with tissues?",
+    "question_ta": "உணவுகள் மற்றும் வாயுக்களை உடல்நிலைகளுடன் பரிமாறுபடும் இரத்தக் குழாய் எது?",
+    "options_en": [
+      "Arteries",
+      "Veins",
+      "Capillaries",
+      "Lymph vessels"
+    ],
+    "options_ta": [
+      "ஆர்டரி",
+      "வீன்ஸ்",
+      "கேப்பிலரீஸ்",
+      "லிம்ஃப் குழாய்கள்"
+    ],
+    "answer_en": "Capillaries",
+    "answer_ta": "கேப்பிலரீஸ்"
+  },
+  {
+    "question_en": "Which hormone stimulates 'fight or flight' response?",
+    "question_ta": "வீரோத்திறன் அல்லது ஓட்டம் பதிலை தூண்டும் ஹார்மோன் எது?",
+    "options_en": [
+      "Melatonin",
+      "Adrenaline (epinephrine)",
+      "Insulin",
+      "Thyroxine"
+    ],
+    "options_ta": [
+      "மெலட்டோனின்",
+      "அட்ரெனலின் (எபினெப்ரின்)",
+      "இன்சுலின்",
+      "தைய்ரோக்சின்"
+    ],
+    "answer_en": "Adrenaline (epinephrine)",
+    "answer_ta": "அட்ரெனலின் (எபினெப்ரின்)"
+  },
+  {
+    "question_en": "Which cell junction allows direct cytoplasmic exchange between animal cells?",
+    "question_ta": "விலங்குச் செல்களுக்கு இடையே நேரடி சைதோபிளாஸ்மிக் பரிமாற்றம் அனுமதிக்கும் இணைப்பு எது?",
+    "options_en": [
+      "Tight junctions",
+      "Gap junctions",
+      "Desmosomes",
+      "Plasmodesmata"
+    ],
+    "options_ta": [
+      "டைட் ஜங்க்ஷன்ஸ்",
+      "கேப் ஜங்க்ஷன்ஸ்",
+      "டெஸ்மோசோம்",
+      "பிளாஸ்மோடெஸ்மாடா"
+    ],
+    "answer_en": "Gap junctions",
+    "answer_ta": "கேப் ஜங்க்ஷன்ஸ்"
+  },
+  {
+    "question_en": "Which tissue stores fat in the body?",
+    "question_ta": "உடலில் கொழுப்பை சேமிக்கும் திசு எது?",
+    "options_en": [
+      "Cartilage",
+      "Adipose tissue",
+      "Muscle tissue",
+      "Bone tissue"
+    ],
+    "options_ta": [
+      "கார்டிலேஜ்",
+      "அடிபோஸ் திசு",
+      "எலும்புத் திசு",
+      "எலும்பு திசு"
+    ],
+    "answer_en": "Adipose tissue",
+    "answer_ta": "அடிபோஸ் திசு"
+  },
+  {
+    "question_en": "Which organelle modifies and packages proteins for secretion?",
+    "question_ta": "வெளியேற்றுவதற்கான புரதங்களை திருத்தி தொகுக்க எது செய்கிறது?",
+    "options_en": [
+      "Mitochondrion",
+      "Golgi apparatus",
+      "Ribosome",
+      "Lysosome"
+    ],
+    "options_ta": [
+      "மைட்டோகாண்ட்ரியா",
+      "கோல்ஜி உட்கமைப்பு",
+      "ரிபோசோம்",
+      "லைசோசோம்"
+    ],
+    "answer_en": "Golgi apparatus",
+    "answer_ta": "கோல்ஜி உட்கமைப்பு"
+  },
+  {
+    "question_en": "Which is an example of innate immunity?",
+    "question_ta": "உடம்பு ஆரம்பகால நோய் எதிர்ப்பு (innate immunity) உதாரணம் எது?",
+    "options_en": [
+      "Antibody production by B cells",
+      "Skin barrier and phagocytes",
+      "Vaccine-induced immunity",
+      "Memory T cells"
+    ],
+    "options_ta": [
+      "B செல்களில் இருந்து antibody உருவாக்கம்",
+      "தோல் தடுப்பு மற்றும் பாகோசைட்ஸ்",
+      "வாக்சின் மூலம் உருவாகும் நோய் எதிர்ப்பு",
+      "மெமரி T செல்கள்"
+    ],
+    "answer_en": "Skin barrier and phagocytes",
+    "answer_ta": "தோல் தடுப்பு மற்றும் பாгоசைட்ஸ்"
+  },
+  {
+    "question_en": "Which pigment helps plants absorb light in photosynthesis besides chlorophyll?",
+    "question_ta": "குளோரோபிளாஸ்டைத் தவிர ஒளிச்சேர்க்கையில் செடிகள் ஒளியை ஈர்க்க எது உதவுகிறது?",
+    "options_en": [
+      "Anthocyanin",
+      "Carotenoids",
+      "Melanin",
+      "Keratin"
+    ],
+    "options_ta": [
+      "ஆந்தோசியன்",
+      "காரோட்டினாய்ட்ஸ்",
+      "மெலனின்",
+      "கெராடின்"
+    ],
+    "answer_en": "Carotenoids",
+    "answer_ta": "காரோட்டினாய்ட்ஸ்"
+  },
+  {
+    "question_en": "Which process produces pollen?",
+    "question_ta": "பாலின் (pollen) எங்கு உருவாகிறது?",
+    "options_en": [
+      "Ovule formation",
+      "Microspore formation in anther (microsporogenesis)",
+      "Fertilization",
+      "Seed germination"
+    ],
+    "options_ta": [
+      "முட்டைவள உருவாக்கம்",
+      "அந்தரில் மைக்ரோஸ்போர் உருவாக்கம்",
+      "ஊட்டச்சத்து",
+      "விதை வளமுதல்"
+    ],
+    "answer_en": "Microspore formation in anther (microsporogenesis)",
+    "answer_ta": "அந்தரில் மைக்ரோஸ்போர் உருவாக்கம்"
+  },
+  {
+    "question_en": "Which vitamin deficiency causes rickets?",
+    "question_ta": "எந்த வைட்டமின் குறைவு ரிக்கெட்ஸ் நோயை ஏற்படுத்தும்?",
+    "options_en": [
+      "Vitamin A",
+      "Vitamin D",
+      "Vitamin C",
+      "Vitamin K"
+    ],
+    "options_ta": [
+      "வைட்டமின் A",
+      "வைட்டமின் D",
+      "வைட்டமின் C",
+      "வைட்டமின் K"
+    ],
+    "answer_en": "Vitamin D",
+    "answer_ta": "வைட்டமின் D"
+  },
+  {
+    "question_en": "Which molecule is used as a long-term energy store in animals?",
+    "question_ta": "விலங்குகளில் நீண்டகால ஆற்றல் சேமிப்பிற்கு பயன்படுத்தப்படும் மூலக்கூறு எது?",
+    "options_en": [
+      "Glycogen",
+      "ATP",
+      "Glucose",
+      "Insulin"
+    ],
+    "options_ta": [
+      "கிளைகோகன்",
+      "ATP",
+      "குளுக்கோஸ்",
+      "இன்சுலின்"
+    ],
+    "answer_en": "Glycogen",
+    "answer_ta": "கிளைகோகன்"
+  },
+  {
+    "question_en": "Which organ is primary site for detoxification of drugs?",
+    "question_ta": "மருந்துகளை நீக்க முக்கிய இடம் எந்த உறுப்பே?",
+    "options_en": [
+      "Kidney",
+      "Liver",
+      "Lung",
+      "Stomach"
+    ],
+    "options_ta": [
+      "கிட்னி",
+      "கல்லீரல்",
+      "மூச்சுத்தொகுதி",
+      "வயிறு"
+    ],
+    "answer_en": "Liver",
+    "answer_ta": "கல்லீரல்"
+  },
+  {
+    "question_en": "Which genetic term denotes the allelic makeup of an organism?",
+    "question_ta": "ஒரு உயிரினத்தின் allele அமைப்பை எந்த சொல்லால் சொல்வார்கள்?",
+    "options_en": [
+      "Phenotype",
+      "Genotype",
+      "Genome",
+      "Karyotype"
+    ],
+    "options_ta": [
+      "Phenotype",
+      "Genotype",
+      "Genome",
+      "Karyotype"
+    ],
+    "answer_en": "Genotype",
+    "answer_ta": "Genotype"
+  },
+  {
+    "question_en": "Which ecological term describes the maximum population size an environment can sustain?",
+    "question_ta": "ஒரு சூழலால் தாங்கக்கூடிய அதிகபட்ச மக்கள் எண்ணிக்கையை எது குறிக்கும்?",
+    "options_en": [
+      "Biomass",
+      "Population",
+      "Carrying capacity",
+      "Biodiversity"
+    ],
+    "options_ta": [
+      "Biomass",
+      "Population",
+      "Carrying capacity",
+      "Biodiversity"
+    ],
+    "answer_en": "Carrying capacity",
+    "answer_ta": "Carrying capacity"
+  },
+  {
+    "question_en": "Which reproductive isolation prevents mating due to incompatible genitalia?",
+    "question_ta": "உடலமைப்பு பொருந்தாமை காரணமாக ஜோடிகள் ஜோடிக்க முடியாமல் இருப்பதைக் குறிப்பிடும் பிரிவு எது?",
+    "options_en": [
+      "Temporal isolation",
+      "Behavioral isolation",
+      "Mechanical isolation",
+      "Gametic isolation"
+    ],
+    "options_ta": [
+      "Temporal isolation",
+      "Behavioral isolation",
+      "Mechanical isolation",
+      "Gametic isolation"
+    ],
+    "answer_en": "Mechanical isolation",
+    "answer_ta": "Mechanical isolation"
+  },
+  {
+    "question_en": "Which organ secretes insulin?",
+    "question_ta": "இன்சுலின் secretion செய்கிற இணைப்பு எது?",
+    "options_en": [
+      "Liver",
+      "Pancreas",
+      "Adrenal gland",
+      "Pituitary gland"
+    ],
+    "options_ta": [
+      "கல்லீரல்",
+      "பான்கிரியாஸ்",
+      "அட்ரெனல் சுலம்",
+      "பிட்ட்யூட்டரி"
+    ],
+    "answer_en": "Pancreas",
+    "answer_ta": "பான்கிரியாஸ்"
+  },
+  {
+    "question_en": "Which type of muscle is voluntary and striated?",
+    "question_ta": "யாருக்கான கட்டுப்பாடு உள்ளதும் வரிசை வடிவமுடையதும் எந்த தசை வகை?",
+    "options_en": [
+      "Smooth muscle",
+      "Cardiac muscle",
+      "Skeletal muscle",
+      "Glandular muscle"
+    ],
+    "options_ta": [
+      "மென்மையான தசை",
+      "இதய தசை",
+      "எலும்புத் தசை",
+      "க்ளாண்டியார் தசை"
+    ],
+    "answer_en": "Skeletal muscle",
+    "answer_ta": "எலும்புத் தசை"
+  },
+  {
+    "question_en": "Which process forms zygote by fusion of gametes?",
+    "question_ta": "காமெட்கள் ஒன்றிணைந்து ஜைகோட் உருவாக்கும் செயல்முறை எது?",
+    "options_en": [
+      "Pollination",
+      "Fertilization",
+      "Meiosis",
+      "Mitosis"
+    ],
+    "options_ta": [
+      "Pollination",
+      "Fertilization",
+      "மையோசிஸ்",
+      "மைட்டோசிஸ்"
+    ],
+    "answer_en": "Fertilization",
+    "answer_ta": "Fertilization"
+  }
+]

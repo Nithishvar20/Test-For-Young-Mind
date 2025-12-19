@@ -1,0 +1,258 @@
+[
+  {
+    "question_en": "In 'The Solitary Reaper', the unknown song of the girl is compared to which element of nature?",
+    "question_ta": "'தி சாலிட்டரி ரீப்பர்' இல், அந்தப் பெண்ணின் அறியப்படாத பாடல் இயற்கையின் எதனுடன் ஒப்பிடப்படுகிறது?",
+    "options_en": ["Bird’s song", "Flowing river", "Cuckoo and nightingale", "Thunder"],
+    "options_ta": ["பறவையின் பாடல்", "ஓடும் ஆறு", "குயிலும் நைட்டிங்கேலும்", "இடிமுழக்கம்"],
+    "answer_en": "Cuckoo and nightingale",
+    "answer_ta": "குயிலும் நைட்டிங்கேலும்"
+  },
+  {
+    "question_en": "In 'Snake', what inner conflict does the poet experience?",
+    "question_ta": "'ஸ்நேக்' இல், கவிஞர் எந்த உள்ளார்ந்த மோதலை அனுபவிக்கிறார்?",
+    "options_en": ["Between fear and admiration", "Between love and hatred", "Between joy and sorrow", "Between wealth and poverty"],
+    "options_ta": ["பயம் மற்றும் பாராட்டல் இடையே", "அன்பும் வெறுப்பும் இடையே", "மகிழ்ச்சியும் துக்கமும் இடையே", "செல்வமும் வறுமையும் இடையே"],
+    "answer_en": "Between fear and admiration",
+    "answer_ta": "பயம் மற்றும் பாராட்டல் இடையே"
+  },
+  {
+    "question_en": "Which literary device is used in 'A Thing of Beauty' with the phrase 'quiet bower'?",
+    "question_ta": "'அ திங் ஆஃப் பியூட்டி' இல் 'quiet bower' என்ற சொற்றொடரில் எந்த இலக்கிய உத்தி பயன்படுத்தப்பட்டுள்ளது?",
+    "options_en": ["Metaphor", "Personification", "Alliteration", "Simile"],
+    "options_ta": ["உவமை", "மனிதப்படுத்தல்", "ஒலிசேர்க்கை", "ஒப்புமை"],
+    "answer_en": "Alliteration",
+    "answer_ta": "ஒலிசேர்க்கை"
+  },
+  {
+    "question_en": "In 'No Men are Foreign', what universal truth is stressed through imagery?",
+    "question_ta": "'நோ மேன் ஆர் ஃபாரின்' இல், எந்த உலகளாவிய உண்மையை காட்சிப்படம் மூலம் வலியுறுத்துகிறார்?",
+    "options_en": ["Shared humanity", "Power of money", "Value of war", "Difference in nations"],
+    "options_ta": ["பகிர்ந்த மனிதம்", "பணத்தின் சக்தி", "போரின் மதிப்பு", "நாடுகளின் வேறுபாடு"],
+    "answer_en": "Shared humanity",
+    "answer_ta": "பகிர்ந்த மனிதம்"
+  },
+  {
+    "question_en": "In 'The Necklace', the irony lies in the fact that?",
+    "question_ta": "'தி நெக்லஸ்' இல், எதிர்மறை உண்மை எதில் உள்ளது?",
+    "options_en": ["The necklace was fake", "The necklace was stolen", "The necklace was gold", "The necklace was cursed"],
+    "options_ta": ["நெக்லஸ் போலியானது", "நெக்லஸ் திருடப்பட்டது", "நெக்லஸ் பொன்னானது", "நெக்லஸ் சாபிக்கப்பட்டது"],
+    "answer_en": "The necklace was fake",
+    "answer_ta": "நெக்லஸ் போலியானது"
+  },
+  {
+    "question_en": "Which figure of speech is used in 'Laugh and Be Merry' — 'Life is our game'?",
+    "question_ta": "'லாஃப் அண்ட் பி மெர்ரி' இல் 'Life is our game' என்ற வரியில் எந்த அலங்காரம் உள்ளது?",
+    "options_en": ["Simile", "Metaphor", "Personification", "Oxymoron"],
+    "options_ta": ["ஒப்புமை", "உவமை", "மனிதப்படுத்தல்", "எதிர்மறைச்சொல்"],
+    "answer_en": "Metaphor",
+    "answer_ta": "உவமை"
+  },
+  {
+    "question_en": "In 'The Selfish Giant', what Christian symbolism is present?",
+    "question_ta": "'தி செல்ஃபிஷ் ஜெயண்ட்' இல், எந்த கிறிஸ்தவ அடையாளம் உள்ளது?",
+    "options_en": ["Giant as Christ", "Child as Christ", "Garden as Heaven", "Tree as Cross"],
+    "options_ta": ["மாபெரும் மனிதர் கிறிஸ்துவாக", "குழந்தை கிறிஸ்துவாக", "தோட்டம் சொர்க்கமாக", "மரம் சிலுவையாக"],
+    "answer_en": "Child as Christ",
+    "answer_ta": "குழந்தை கிறிஸ்துவாக"
+  },
+  {
+    "question_en": "In 'Migrant Bird', the poet advocates?",
+    "question_ta": "'மைக்ரண்ட் பேர்ட்' இல், கவிஞர் எதை வலியுறுத்துகிறார்?",
+    "options_en": ["Freedom beyond boundaries", "Love for wealth", "Peaceful war", "Power of nations"],
+    "options_ta": ["எல்லைகளைத் தாண்டிய சுதந்திரம்", "செல்வத்தின் மீது அன்பு", "அமைதியான போர்", "நாடுகளின் சக்தி"],
+    "answer_en": "Freedom beyond boundaries",
+    "answer_ta": "எல்லைகளைத் தாண்டிய சுதந்திரம்"
+  },
+  {
+    "question_en": "In 'The Man He Killed', the poet uses which tone?",
+    "question_ta": "'தி மேன் ஹீ கில்ல்ட்' இல், கவிஞர் எந்த உச்சரிப்பு முறையை பயன்படுத்துகிறார்?",
+    "options_en": ["Ironical and sympathetic", "Angry", "Joyful", "Indifferent"],
+    "options_ta": ["எதிர்மறை மற்றும் இரக்கமுள்ள", "கோபமாக", "மகிழ்ச்சியாக", "பொருட்படுத்தாத"],
+    "answer_en": "Ironical and sympathetic",
+    "answer_ta": "எதிர்மறை மற்றும் இரக்கமுள்ள"
+  },
+  {
+    "question_en": "In 'Stopping by Woods on a Snowy Evening', the 'promises to keep' symbolize?",
+    "question_ta": "'ஸ்டாப்பிங் பை வுட்ஸ் ஆன் எ ஸ்னோயி ஈவ்னிங்' இல், 'promises to keep' எதை குறிக்கிறது?",
+    "options_en": ["Duties of life", "Love of nature", "Fear of snow", "Value of sleep"],
+    "options_ta": ["வாழ்க்கையின் கடமைகள்", "இயற்கையின் மீது அன்பு", "பனியின் பயம்", "உறக்கத்தின் மதிப்பு"],
+    "answer_en": "Duties of life",
+    "answer_ta": "வாழ்க்கையின் கடமைகள்"
+  },
+  {
+    "question_en": "In 'Everest is Not the Only Peak', the mountain metaphor stands for?",
+    "question_ta": "'எவரெஸ்ட் இஸ் நாட் த ஒன்லி பீக்' இல், மலை உவமை எதை குறிக்கிறது?",
+    "options_en": ["Wealth", "Fame", "Moral values and duty", "Fear"],
+    "options_ta": ["செல்வம்", "புகழ்", "ஒழுக்க மதிப்புகளும் கடமையும்", "பயம்"],
+    "answer_en": "Moral values and duty",
+    "answer_ta": "ஒழுக்க மதிப்புகளும் கடமையும்"
+  },
+  {
+    "question_en": "Which literary device dominates 'The Open Window'?",
+    "question_ta": "'தி ஓபன் விண்டோ' கதையில் எந்த இலக்கிய உத்தி மேலோங்குகிறது?",
+    "options_en": ["Irony", "Satire", "Humour", "Allegory"],
+    "options_ta": ["எதிர்மறை உண்மை", "இடம்பிடிப்பு", "நகைச்சுவை", "உவமைக் கதை"],
+    "answer_en": "Irony",
+    "answer_ta": "எதிர்மறை உண்மை"
+  },
+  {
+    "question_en": "In 'The Portrait of a Lady', the sparrows’ silence at the grandmother’s death symbolizes?",
+    "question_ta": "'தி போர்ட்ரெய்ட் ஆஃப் எ லேடி' இல், பாட்டி இறக்கும் போது குருவிகளின் அமைதி எதை குறிக்கிறது?",
+    "options_en": ["Respect and mourning", "Fear of humans", "Joy of freedom", "Natural cycle"],
+    "options_ta": ["மரியாதையும் துக்கமும்", "மனிதர்களின் பயம்", "சுதந்திரத்தின் மகிழ்ச்சி", "இயற்கையின் சுழற்சி"],
+    "answer_en": "Respect and mourning",
+    "answer_ta": "மரியாதையும் துக்கமும்"
+  },
+  {
+    "question_en": "In 'Snake', the reference to 'voices of education' implies?",
+    "question_ta": "'ஸ்நேக்' இல் 'வொய்சஸ் ஆஃப் எஜுகேஷன்' என்பது எதை குறிக்கிறது?",
+    "options_en": ["Traditional fear of snakes", "Love for nature", "Science about reptiles", "Voices of villagers"],
+    "options_ta": ["பாம்புகளைப் பற்றிய பாரம்பரிய பயம்", "இயற்கையின் மீது அன்பு", "பாம்புகள் குறித்த அறிவியல்", "கிராம மக்களின் குரல்கள்"],
+    "answer_en": "Traditional fear of snakes",
+    "answer_ta": "பாம்புகளைப் பற்றிய பாரம்பரிய பயம்"
+  },
+  {
+    "question_en": "In 'The Solitary Reaper', the song’s lasting impression suggests?",
+    "question_ta": "'தி சாலிட்டரி ரீப்பர்' இல், பாடலின் நிலையான தாக்கம் எதை குறிக்கிறது?",
+    "options_en": ["Power of art to transcend time", "Love of nature", "Joy of farmers", "Wealth of villagers"],
+    "options_ta": ["காலத்தைத் தாண்டும் கலைக்கான சக்தி", "இயற்கையின் மீது அன்பு", "விவசாயிகளின் மகிழ்ச்சி", "கிராமவாசிகளின் செல்வம்"],
+    "answer_en": "Power of art to transcend time",
+    "answer_ta": "காலத்தைத் தாண்டும் கலைக்கான சக்தி"
+  },
+  {
+    "question_en": "Which literary technique is used in 'The Man He Killed' to criticize war?",
+    "question_ta": "'தி மேன் ஹீ கில்ல்ட்' இல் போரைக் கண்டிப்பதற்கு எந்த இலக்கிய உத்தி பயன்படுத்தப்பட்டுள்ளது?",
+    "options_en": ["Irony", "Satire", "Paradox", "Hyperbole"],
+    "options_ta": ["எதிர்மறை உண்மை", "இடம்பிடிப்பு", "விரோதவுரை", "பெரிதாக்கம்"],
+    "answer_en": "Irony",
+    "answer_ta": "எதிர்மறை உண்மை"
+  },
+  {
+    "question_en": "In 'Mending Wall', what does the repeated phrase 'Good fences make good neighbours' imply?",
+    "question_ta": "'மெண்டிங் வால்' இல், மீண்டும் வரும் 'குட் ஃபென்சஸ் மேக் குட் நேபர்ஸ்' என்பதன் பொருள் என்ன?",
+    "options_en": ["Boundaries are necessary", "Neighbours must fight", "Nature loves walls", "Fences are useless"],
+    "options_ta": ["எல்லைகள் அவசியம்", "அயலவர்கள் சண்டையிட வேண்டும்", "இயற்கை சுவர்களை விரும்புகிறது", "சுவர்கள் பயனற்றவை"],
+    "answer_en": "Boundaries are necessary",
+    "answer_ta": "எல்லைகள் அவசியம்"
+  },
+  {
+    "question_en": "In 'Everest is Not the Only Peak', the poet emphasizes greatness lies in?",
+    "question_ta": "'எவரெஸ்ட் இஸ் நாட் த ஒன்லி பீக்' இல், மகத்துவம் எதில் உள்ளது என்று கவிஞர் வலியுறுத்துகிறார்?",
+    "options_en": ["Power", "Duty and integrity", "Fame", "Wealth"],
+    "options_ta": ["அதிகாரம்", "கடமை மற்றும் நேர்மை", "புகழ்", "செல்வம்"],
+    "answer_en": "Duty and integrity",
+    "answer_ta": "கடமை மற்றும் நேர்மை"
+  },
+  {
+    "question_en": "What irony is found in 'The Open Window'?",
+    "question_ta": "'தி ஓபன் விண்டோ' இல் எந்த எதிர்மறை உண்மை உள்ளது?",
+    "options_en": ["Imagination mistaken for truth", "Window was locked", "Hunters were dead", "Girl was mute"],
+    "options_ta": ["உண்மையாகக் கருதப்பட்ட கற்பனை", "ஜன்னல் பூட்டப்பட்டது", "வேட்டைக்காரர்கள் இறந்தனர்", "சிறுமி பேசமுடியாதவள்"],
+    "answer_en": "Imagination mistaken for truth",
+    "answer_ta": "உண்மையாகக் கருதப்பட்ட கற்பனை"
+  },
+  {
+    "question_en": "Which device is central in 'Laugh and Be Merry'?",
+    "question_ta": "'லாஃப் அண்ட் பி மெர்ரி' இல் எந்த உத்தி முக்கியமானது?",
+    "options_en": ["Metaphor of life as festival", "Personification of death", "Simile of war", "Oxymoron"],
+    "options_ta": ["வாழ்க்கையை திருவிழாவாக உவமை", "இறப்பின் மனிதப்படுத்தல்", "போரின் ஒப்புமை", "எதிர்மறைச்சொல்"],
+    "answer_en": "Metaphor of life as festival",
+    "answer_ta": "வாழ்க்கையை திருவிழாவாக உவமை"
+  },
+  {
+    "question_en": "In 'The Necklace', what human weakness is portrayed?",
+    "question_ta": "'தி நெக்லஸ்' இல் எந்த மனித பலவீனம் காட்டப்படுகிறது?",
+    "options_en": ["Greed and vanity", "Kindness", "Wisdom", "Generosity"],
+    "options_ta": ["பேராசையும் ஆடம்பரமும்", "கருணை", "ஞானம்", "தாராள மனம்"],
+    "answer_en": "Greed and vanity",
+    "answer_ta": "பேராசையும் ஆடம்பரமும்"
+  },
+  {
+    "question_en": "Which element in 'Snake' shows the clash of instinct and education?",
+    "question_ta": "'ஸ்நேக்' இல், எந்த அம்சம் உள்ளுணர்வு மற்றும் கல்வி மோதலைக் காட்டுகிறது?",
+    "options_en": ["Throwing the log", "Drinking water", "Snake leaving quietly", "Fear of neighbours"],
+    "options_ta": ["மரக்கட்டையை எறிதல்", "தண்ணீர் குடித்தல்", "பாம்பு அமைதியாகப் போதல்", "அயலவர்களின் பயம்"],
+    "answer_en": "Throwing the log",
+    "answer_ta": "மரக்கட்டையை எறிதல்"
+  },
+  {
+    "question_en": "In 'The Selfish Giant', what transforms the garden into spring again?",
+    "question_ta": "'தி செல்ஃபிஷ் ஜெயண்ட்' இல், தோட்டத்தை மீண்டும் வசந்தமாக மாற்றுவது எது?",
+    "options_en": ["Children’s return", "Rainfall", "Magic spell", "Flowers planted"],
+    "options_ta": ["குழந்தைகள் திரும்பியதால்", "மழை பெய்ததால்", "மந்திரம்", "நட்ட மலர்கள்"],
+    "answer_en": "Children’s return",
+    "answer_ta": "குழந்தைகள் திரும்பியதால்"
+  },
+  {
+    "question_en": "In 'The Man He Killed', what does the casual tone suggest?",
+    "question_ta": "'தி மேன் ஹீ கில்ல்ட்' இல், சாதாரண குரல் எதை வெளிப்படுத்துகிறது?",
+    "options_en": ["Absurdity of war", "Glory of war", "Power of soldiers", "Love of country"],
+    "options_ta": ["போரின் அபத்தம்", "போரின் மகிமை", "சிப்பாய்களின் சக்தி", "நாட்டின் மீது அன்பு"],
+    "answer_en": "Absurdity of war",
+    "answer_ta": "போரின் அபத்தம்"
+  },
+  {
+    "question_en": "In 'Everest is Not the Only Peak', the metaphor of peak suggests?",
+    "question_ta": "'எவரெஸ்ட் இஸ் நாட் த ஒன்லி பீக்' இல், சிகர உவமை எதை குறிக்கிறது?",
+    "options_en": ["Achievements in everyday duty", "Only mountain climbing", "Scientific growth", "National pride"],
+    "options_ta": ["அன்றாட கடமைகளில் சாதனைகள்", "மலை ஏறுதல் மட்டும்", "அறிவியல் வளர்ச்சி", "தேசிய பெருமை"],
+    "answer_en": "Achievements in everyday duty",
+    "answer_ta": "அன்றாட கடமைகளில் சாதனைகள்"
+  },
+  {
+    "question_en": "In 'Stopping by Woods...', what do the woods tempt the poet to do?",
+    "question_ta": "'ஸ்டாப்பிங் பை வுட்ஸ்...' இல், காட்டுகள் கவிஞரை எதற்கு தூண்டுகின்றன?",
+    "options_en": ["Rest and forget duties", "Earn wealth", "Travel far", "Sing songs"],
+    "options_ta": ["ஓய்வு எடுத்து கடமைகளை மறப்பதற்கு", "செல்வம் சேர்ப்பதற்கு", "தொலைவுக்கு பயணம் செய்வதற்கு", "பாடல்கள் பாடுவதற்கு"],
+    "answer_en": "Rest and forget duties",
+    "answer_ta": "ஓய்வு எடுத்து கடமைகளை மறப்பதற்கு"
+  },
+  {
+    "question_en": "In 'Earth', the endurance of Earth is contrasted with?",
+    "question_ta": "'அர்த்' இல், பூமியின் சகிப்புத்தன்மை எதனுடன் மாறுபடுகிறது?",
+    "options_en": ["Human impatience", "Mountains’ strength", "Animal fear", "Wealth of nations"],
+    "options_ta": ["மனிதனின் பொறுமையின்மை", "மலைகளின் வலிமை", "விலங்குகளின் பயம்", "நாடுகளின் செல்வம்"],
+    "answer_en": "Human impatience",
+    "answer_ta": "மனிதனின் பொறுமையின்மை"
+  },
+  {
+    "question_en": "Which device is dominant in 'The Open Window'?",
+    "question_ta": "'தி ஓபன் விண்டோ' இல் எந்த உத்தி மேலோங்குகிறது?",
+    "options_en": ["Irony", "Allegory", "Satire", "Alliteration"],
+    "options_ta": ["எதிர்மறை உண்மை", "உவமைக் கதை", "இடம்பிடிப்பு", "ஒலிசேர்க்கை"],
+    "answer_en": "Irony",
+    "answer_ta": "எதிர்மறை உண்மை"
+  },
+  {
+    "question_en": "In 'The Necklace', what criticism of society is made?",
+    "question_ta": "'தி நெக்லஸ்' இல், சமூகத்தின் மீது எந்த விமர்சனம் செய்யப்படுகிறது?",
+    "options_en": ["Materialism and class vanity", "Wisdom of poor", "Power of rich", "Generosity of nobles"],
+    "options_ta": ["பொருளாதாரமும் சமூக ஆடம்பரமும்", "ஏழையின் ஞானம்", "பணக்காரரின் அதிகாரம்", "மரியாதையுடையவர்களின் தாராள மனம்"],
+    "answer_en": "Materialism and class vanity",
+    "answer_ta": "பொருளாதாரமும் சமூக ஆடம்பரமும்"
+  },
+  {
+    "question_en": "In 'Laugh and Be Merry', joy is equated with?",
+    "question_ta": "'லாஃப் அண்ட் பி மெர்ரி' இல், மகிழ்ச்சி எதனுடன் ஒப்பிடப்பட்டுள்ளது?",
+    "options_en": ["Sacred gift of God", "Wealth", "War", "Fame"],
+    "options_ta": ["இறைவனின் புனிதப் பரிசு", "செல்வம்", "போர்", "புகழ்"],
+    "answer_en": "Sacred gift of God",
+    "answer_ta": "இறைவனின் புனிதப் பரிசு"
+  },
+  {
+    "question_en": "In 'The Selfish Giant', the giant’s realization represents?",
+    "question_ta": "'தி செல்ஃபிஷ் ஜெயண்ட்' இல், மாபெரும் மனிதரின் உணர்வு எதை குறிக்கிறது?",
+    "options_en": ["Transformation through love", "Fear of death", "Power of wealth", "Glory of strength"],
+    "options_ta": ["அன்பின் மூலம் மாற்றம்", "இறப்பின் பயம்", "செல்வத்தின் சக்தி", "வலிமையின் மகிமை"],
+    "answer_en": "Transformation through love",
+    "answer_ta": "அன்பின் மூலம் மாற்றம்"
+  },
+  {
+    "question_en": "In 'Everest is Not the Only Peak', greatness is defined as?",
+    "question_ta": "'எவரெஸ்ட் இஸ் நாட் த ஒன்லி பீக்' இல், மகத்துவம் எவ்வாறு வரையறுக்கப்படுகிறது?",
+    "options_en": ["Ordinary lives lived with dignity", "Climbing mountains", "Earning wealth", "Winning wars"],
+    "options_ta": ["கண்ணியத்துடன் வாழும் சாதாரண வாழ்க்கை", "மலைகளை ஏறுதல்", "செல்வம் சேர்த்தல்", "போர்களை வெல்வது"],
+    "answer_en": "Ordinary lives lived with dignity",
+    "answer_ta": "கண்ணியத்துடன் வாழும் சாதாரண வாழ்க்கை"
+  }
+]

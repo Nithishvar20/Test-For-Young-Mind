@@ -1,0 +1,578 @@
+[
+  {
+    "question_en": "Who coached Sachin Tendulkar at Shardashram Vidhyamandir?",
+    "question_ta": "ஷார்தாஷ்ரம் வீத்யாமந்திரில் சச்சின் ரமேஷ் டெந்துல்கர் அவர்களை பயிற்றுவித்தவர் யார்?",
+    "options_en": [
+      "Ramakant Achrekar",
+      "Ajit Tendulkar",
+      "Sunil Gavaskar",
+      "Viv Richards"
+    ],
+    "options_ta": [
+      "ராமகாந்த் அச்சேகரர்",
+      "அஜித் டெந்துல்கர்",
+      "சுனில் கவாச்கர்",
+      "விவ் ரிச்சர்ட்ஸ்"
+    ],
+    "answer_en": "Ramakant Achrekar",
+    "answer_ta": "ராமகாந்த் அச்சேகரர்"
+  },
+  {
+    "question_en": "In 'Stopping by Woods on a Snowy Evening', what does the speaker watch fill the woods?",
+    "question_ta": "'Stopping by Woods on a Snowy Evening' என்ற கவிதையில் உரையாளர் என்னை வனத்தை நிரப்பிக்கொண்டதை பார்க்கிறார்?",
+    "options_en": [
+      "Snow",
+      "Fog",
+      "Leaves",
+      "Water"
+    ],
+    "options_ta": [
+      "பனி",
+      "மாலை",
+      "இலைகள்",
+      "நீர்"
+    ],
+    "answer_en": "Snow",
+    "answer_ta": "பனி"
+  },
+  {
+    "question_en": "Choose the synonym of 'rigorous' as used in the textbook.",
+    "question_ta": "உரையிலுள்ள 'rigorous' என்பதன் சமானபொருள் எது?",
+    "options_en": [
+      "Thorough",
+      "Lazy",
+      "Casual",
+      "Short"
+    ],
+    "options_ta": [
+      "முழுமையான",
+      "மந்தமான",
+      "சிலவாய்",
+      "சிறிய"
+    ],
+    "answer_en": "Thorough",
+    "answer_ta": "முழுமையான"
+  },
+  {
+    "question_en": "Which poem in Unit 1 is by Robert Frost?",
+    "question_ta": "யூனிட் 1 இல் உள்ள எந்தக் கவிதை ராபர்ட் ஃபிரோஸ்டின்?",
+    "options_en": [
+      "Stopping by Woods on a Snowy Evening",
+      "Leisure",
+      "A Poison Tree",
+      "The River"
+    ],
+    "options_ta": [
+      "Stopping by Woods on a Snowy Evening",
+      "Leisure",
+      "A Poison Tree",
+      "The River"
+    ],
+    "answer_en": "Stopping by Woods on a Snowy Evening",
+    "answer_ta": "Stopping by Woods on a Snowy Evening"
+  },
+  {
+    "question_en": "Pick the antonym of 'concentrate' from the textbook matching exercise.",
+    "question_ta": "உரையில் கொடுக்கப்பட்ட 'concentrate' என்பதன் বিপரீதம் எது?",
+    "options_en": [
+      "Distract",
+      "Focus",
+      "Attend",
+      "Gather"
+    ],
+    "options_ta": [
+      "தவிர்க்கச் செய்",
+      "கவனம்",
+      "பங்கேற்று",
+      "சேகரி"
+    ],
+    "answer_en": "Distract",
+    "answer_ta": "தவிர்க்கச் செய்"
+  },
+  {
+    "question_en": "In 'Learning the Game', where did Sachin practice in the mornings?",
+    "question_ta": "'Learning the Game' கதையில் சச்சின் மறுனைகளில் எங்கே பயிற்சி செய்தார்?",
+    "options_en": [
+      "Shivaji Park",
+      "Bandra Beach",
+      "Churchgate",
+      "Wankhede Stadium"
+    ],
+    "options_ta": [
+      "ஷிவாஜி പാർக்",
+      "பாண்ட்ரா கடற்கரை",
+      "churchgate",
+      "வங்கேதே மைதானம்"
+    ],
+    "answer_en": "Shivaji Park",
+    "answer_ta": "ஷிவாஜி பார்க்"
+  },
+  {
+    "question_en": "Which part of speech is 'ever' in the sentence 'Have you ever travelled through a forest?'",
+    "question_ta": "'Have you ever travelled through a forest?' என்ற வாக்கியத்தில் 'ever' எந்த பாகப்பொருள்?",
+    "options_en": [
+      "Adverb",
+      "Noun",
+      "Verb",
+      "Adjective"
+    ],
+    "options_ta": [
+      "வினைவேறு",
+      "பெயர்ச்சொல்",
+      "வினை",
+      "வர்ணனை"
+    ],
+    "answer_en": "Adverb",
+    "answer_ta": "வினைவேறு"
+  },
+  {
+    "question_en": "In 'I Can't Climb Trees Anymore', what item did the visitor find in the tree hollow?",
+    "question_ta": "'I Can't Climb Trees Anymore'ல் பயணியன் மரத்தின் குகையில் என்ன கண்டார்?",
+    "options_en": [
+      "An Iron Cross (medal)",
+      "A book",
+      "A marble",
+      "A coin"
+    ],
+    "options_ta": [
+      "இரும்பு கடா (மெடல்)",
+      "ஒரு புத்தகம்",
+      "ஒரு மாறைபல்",
+      "ஒரு நாணயம்"
+    ],
+    "answer_en": "An Iron Cross (medal)",
+    "answer_ta": "இரும்பு குறிப்பு (மெடல்)"
+  },
+  {
+    "question_en": "Choose the correct plural form: 'kitbag'.",
+    "question_ta": "'kitbag' என்ற சொல்லின் பன்மை வடிவம் எது?",
+    "options_en": [
+      "kitbags",
+      "kitbagi",
+      "kitbages",
+      "kitbagies"
+    ],
+    "options_ta": [
+      "கிட்பேக்ஸ்",
+      "கிட்பாகி",
+      "கிட்பேக்ஸ்(கள்)",
+      "கிட்பாகீஸ்"
+    ],
+    "answer_en": "kitbags",
+    "answer_ta": "கிட்பேக்ஸ்"
+  },
+  {
+    "question_en": "Which preposition completes the sentence: 'He sat ___ the bench'?",
+    "question_ta": "'He sat ___ the bench' என்ற வாக்கியத்தை எந்த முன்னிலைเติมிக்கிறது?",
+    "options_en": [
+      "on",
+      "in",
+      "to",
+      "by"
+    ],
+    "options_ta": [
+      "மேல்",
+      "உள்ளே",
+      "க்கு",
+      "அடியில்"
+    ],
+    "answer_en": "on",
+    "answer_ta": "மேல்"
+  },
+  {
+    "question_en": "What is the meaning of 'emulate' in 'Learning the Game' glossary?",
+    "question_ta": "'Learning the Game' அகராதியில் 'emulate' என்பதன் பொருள் என்ன?",
+    "options_en": [
+      "Imitate or match",
+      "Ignore",
+      "Teach",
+      "Criticize"
+    ],
+    "options_ta": [
+      "நகலெடுத்து பொருந்த",
+      "நண்கு",
+      "பயிற்சி",
+      "விமர்சனம்"
+    ],
+    "answer_en": "Imitate or match",
+    "answer_ta": "நகலெடுத்து பொருந்த"
+  },
+  {
+    "question_en": "Pick the correct meaning of 'transpire' as used in the book.",
+    "question_ta": "புத்தகத்தில் உள்ள 'transpire' என்பதன் பொருள் எது?",
+    "options_en": [
+      "Come to be known / revealed",
+      "To sweat",
+      "To evaporate",
+      "To hide"
+    ],
+    "options_ta": [
+      "அறியப்படும்/வெளிப்படுத்தப்படும்",
+      "வியர்க்க",
+      "ஆவியாகும்",
+      "மறைக்க"
+    ],
+    "answer_en": "Come to be known / revealed",
+    "answer_ta": "அறியப்படும்/வெளிப்படுத்தப்படும்"
+  },
+  {
+    "question_en": "Which poetic device is the repetition of a word or phrase (example 'And miles to go before I sleep')?",
+    "question_ta": "ஒரே வார்த்தை அல்லது வாக்கியத்தை மீண்டும் பயன்படுத்துதல் எந்த கவிதை கருவி?",
+    "options_en": [
+      "Repetition",
+      "Alliteration",
+      "Personification",
+      "Metaphor"
+    ],
+    "options_ta": [
+      "மீண்டும்",
+      "ஒவியச்சொல்",
+      "பயனேற்படுத்தல்",
+      "உவமை"
+    ],
+    "answer_en": "Repetition",
+    "answer_ta": "மீண்டும்"
+  },
+  {
+    "question_en": "Which word is a homophone pair with 'bare' (as in textbook exercises)?",
+    "question_ta": "உரையில் 'bare' என்பதைப் போன்ற ஒலி தோற்றமான சொல் எது?",
+    "options_en": [
+      "bear",
+      "bar",
+      "bore",
+      "beer"
+    ],
+    "options_ta": [
+      "பேர்",
+      "பார்",
+      "போரை",
+      "பீர்"
+    ],
+    "answer_en": "bear",
+    "answer_ta": "பேர்"
+  },
+  {
+    "question_en": "In grammar, 'since' typically refers to a ________.",
+    "question_ta": "வ்ெதியத்தில் 'since' வழக்கமாக எதை குறிக்கும்?",
+    "options_en": [
+      "point of time",
+      "duration",
+      "place",
+      "manner"
+    ],
+    "options_ta": [
+      "நேரப் புள்ளி",
+      "கால அளவு",
+      "இடம்",
+      "முறை"
+    ],
+    "answer_en": "point of time",
+    "answer_ta": "நேரப் புள்ளி"
+  },
+  {
+    "question_en": "Which supplementary story features a magic mortar in Unit 1?",
+    "question_ta": "Unit 1 இல் மாயா மோர்டார் கொண்ட உதவிக் கதையை எந்தது?",
+    "options_en": [
+      "The Envious Neighbour",
+      "The Fun They Had",
+      "Earthquake",
+      "The Cat and the Painkiller"
+    ],
+    "options_ta": [
+      "The Envious Neighbour",
+      "The Fun They Had",
+      "Earthquake",
+      "The Cat and the Painkiller"
+    ],
+    "answer_en": "The Envious Neighbour",
+    "answer_ta": "The Envious Neighbour"
+  },
+  {
+    "question_en": "Choose the correct past form of 'bunk' (used in the book: 'bunked').",
+    "question_ta": "'bunk' (bunked) என்பதன் சரியான கடந்த கால வடிவம் எது?",
+    "options_en": [
+      "bunked",
+      "bunken",
+      "bunk",
+      "bunkate"
+    ],
+    "options_ta": [
+      "bunked",
+      "bunken",
+      "bunk",
+      "bunkate"
+    ],
+    "answer_en": "bunked",
+    "answer_ta": "bunked"
+  },
+  {
+    "question_en": "Which word from the glossary means 'ability to sustain physical and mental effort'?",
+    "question_ta": "'physical and mental effort' நீட்டிக்கக்கூடிய திறனை குறிக்கும் சொல் எது?",
+    "options_en": [
+      "Stamina",
+      "Farsightedness",
+      "Transpire",
+      "Emulate"
+    ],
+    "options_ta": [
+      "ஸ்டாமினா",
+      "தூர பார்வை",
+      "ஒளிப்படுதல்",
+      "நகல்"
+    ],
+    "answer_en": "Stamina",
+    "answer_ta": "ஸ்டாமினா"
+  },
+  {
+    "question_en": "What does 'kitbag' contain in 'Learning the Game' context?",
+    "question_ta": "'Learning the Game'க் கதையில் 'kitbag' என்ன கொண்டிருக்கும்?",
+    "options_en": [
+      "Cricket accessories (pads, helmet)",
+      "Food",
+      "Books",
+      "School uniform"
+    ],
+    "options_ta": [
+      "கிரிக்கெட் சாதனங்கள் (பேட்ஸ், ஹெல்மெட்)",
+      "உணவு",
+      "புத்தகங்கள்",
+      "பள்ளி உடை"
+    ],
+    "answer_en": "Cricket accessories (pads, helmet)",
+    "answer_ta": "கிரிக்கெட் சாதனங்கள் (பேட்ஸ், ஹெல்மெட்)"
+  },
+  {
+    "question_en": "Identify the correct antonym of 'excess' from a matching exercise.",
+    "question_ta": "ஒரு பொருத்தம் பயிற்சியில் 'excess' என்பதன் எதிர் சொல் கண்டறியவும்.",
+    "options_en": [
+      "surplus",
+      "deficit",
+      "abundance",
+      "overflow"
+    ],
+    "options_ta": [
+      "மேம்பட்ட",
+      "குறைவு",
+      "திரட்டல்",
+      "க overflowing"
+    ],
+    "answer_en": "deficit",
+    "answer_ta": "குறைவு"
+  },
+  {
+    "question_en": "Which one is an example of a prepositional verb from the textbook (e.g., 'rely on')?",
+    "question_ta": "உதாரணமாக 'rely on' போன்ற ஒரு prepositional verb எது?",
+    "options_en": [
+      "rely on",
+      "run fast",
+      "eat quickly",
+      "sing loud"
+    ],
+    "options_ta": [
+      "rely on",
+      "வேகமாய் ஓடு",
+      "விரைவாக சாப்பிடு",
+      "பெரிதாக பாடு"
+    ],
+    "answer_en": "rely on",
+    "answer_ta": "rely on"
+  },
+  {
+    "question_en": "Which word from 'I Can't Climb Trees Anymore' glossary means 'lively and full of energy'?",
+    "question_ta": "'I Can't Climb Trees Anymore' அகராதியில் 'lively and full of energy' என்பது எந்த சொல்?",
+    "options_en": [
+      "sprightliness",
+      "muttered",
+      "slithered",
+      "pruning"
+    ],
+    "options_ta": [
+      "ஆத்சமரம்",
+      "மனம்",
+      "பறிப்பு",
+      "அறையல்"
+    ],
+    "answer_en": "sprightliness",
+    "answer_ta": "sprightliness"
+  },
+  {
+    "question_en": "Which lesson contains the extract about Ramanujan (title 'From Zero to Infinity')?",
+    "question_ta": "'From Zero to Infinity' என்னும் தலைப்பில் இராமானுஜனின் குறிப்பு எந்த பாடத்தில் உள்ளது?",
+    "options_en": [
+      "Unit 6",
+      "Unit 2",
+      "Unit 4",
+      "Unit 1"
+    ],
+    "options_ta": [
+      "Unit 6",
+      "Unit 2",
+      "Unit 4",
+      "Unit 1"
+    ],
+    "answer_en": "Unit 6",
+    "answer_ta": "Unit 6"
+  },
+  {
+    "question_en": "Choose the correct tense for: 'He ____ to Shivaji Park every morning' (habit in past)",
+    "question_ta": "கழிந்த காலப் பழக்கத்தைக் குறிக்க: 'He ____ to Shivaji Park every morning' சரியான காலம்?",
+    "options_en": [
+      "used to go",
+      "goes",
+      "is going",
+      "will go"
+    ],
+    "options_ta": [
+      "used to go",
+      "pozhudhu அறிவு",
+      "இது நடக்கிறது",
+      "போவார்"
+    ],
+    "answer_en": "used to go",
+    "answer_ta": "used to go"
+  },
+  {
+    "question_en": "In Unit lists, which supplementary story deals with an earthquake?",
+    "question_ta": "யூனிட் பட்டியலில் எது 'earthquake' சம்பந்தப்பட்ட துணைக் கதை?",
+    "options_en": [
+      "Earthquake (M.S. Mahadevan)",
+      "The Envious Neighbour",
+      "The Cat and the Pain-killer",
+      "Little Cyclone"
+    ],
+    "options_ta": [
+      "Earthquake (M.S. Mahadevan)",
+      "The Envious Neighbour",
+      "The Cat and the Pain-killer",
+      "Little Cyclone"
+    ],
+    "answer_en": "Earthquake (M.S. Mahadevan)",
+    "answer_ta": "Earthquake (M.S. Mahadevan)"
+  },
+  {
+    "question_en": "Which of these is a homonym pair exercise shown in Unit 1?",
+    "question_ta": "Unit 1 இல் காட்டப்பட்ட homonym பயிற்சியில் கீழ்காணும் எது ஒன்று?",
+    "options_en": [
+      "bank (river) / bank (money)",
+      "run / ran",
+      "book / booking",
+      "play / played"
+    ],
+    "options_ta": [
+      "நதி ப bank / வங்கி",
+      "ஓடு / ஓடினேன்",
+      "புத்தகம் / booking",
+      "விளையாடு / விளையாடினேன்"
+    ],
+    "answer_en": "bank (river) / bank (money)",
+    "answer_ta": "நதி ப bank / வங்கி"
+  },
+  {
+    "question_en": "Which unit includes the poem 'A Poison Tree'?",
+    "question_ta": "தைலத்தின் 'A Poison Tree' என்ற கவிதை எந்த யூனிடில் உள்ளது?",
+    "options_en": [
+      "Unit 2",
+      "Unit 1",
+      "Unit 5",
+      "Unit 4"
+    ],
+    "options_ta": [
+      "Unit 2",
+      "Unit 1",
+      "Unit 5",
+      "Unit 4"
+    ],
+    "answer_en": "Unit 2",
+    "answer_ta": "Unit 2"
+  },
+  {
+    "question_en": "Pick the correct synonym of 'melee' as used in the book.",
+    "question_ta": "புத்தகத்தில் 'melee' என்பதன் சமன்பொருள் எது?",
+    "options_en": [
+      "a confused crowd",
+      "a quiet place",
+      "a prize",
+      "a small gift"
+    ],
+    "options_ta": [
+      "குழப்பமான கூட்டம்",
+      "அமைதியான இடம்",
+      "இனாமம்",
+      "சிறிய பரிசு"
+    ],
+    "answer_en": "a confused crowd",
+    "answer_ta": "குழப்பமான கூட்டம்"
+  },
+  {
+    "question_en": "Which grammar topic explains 'gerunds' and 'infinitives' in Unit 3?",
+    "question_ta": "Unit 3 இல் 'gerunds' மற்றும் 'infinitives' குறித்து எந்த முக்கியத்துவம் இருக்கிறது?",
+    "options_en": [
+      "Non-finite verbs",
+      "Tenses",
+      "Prepositions",
+      "Phrases"
+    ],
+    "options_ta": [
+      "நிறைந்த-வினைகள்",
+      "காலங்கள்",
+      "முன்னிலைகள்",
+      "பிரேசுகள்"
+    ],
+    "answer_en": "Non-finite verbs",
+    "answer_ta": "Non-finite verbs"
+  },
+  {
+    "question_en": "Which word from Unit 1 glossary means 'to match or surpass by imitation'?",
+    "question_ta": "Unit 1 அகராதியில் 'to match or surpass by imitation' என்ற அர்த்தம் கொண்ட சொல் எது?",
+    "options_en": [
+      "emulate",
+      "overawed",
+      "induction",
+      "nuances"
+    ],
+    "options_ta": [
+      "நகலெடு (emulate)",
+      "அச்சமடைந்த",
+      "அமைப்பு",
+      "நுணுக்கங்கள்"
+    ],
+    "answer_en": "emulate",
+    "answer_ta": "நகலெடு (emulate)"
+  },
+  {
+    "question_en": "Which practice did Sachin do to win the one-rupee coin?",
+    "question_ta": "ஒரு ரூபாய் நாணயம் வெல்ல சச்சின் என்ன செய்தார்?",
+    "options_en": [
+      "Hit every ball along the ground and avoid getting out",
+      "Run fastest between wickets",
+      "Bowl a hat-trick",
+      "Catch every ball"
+    ],
+    "options_ta": [
+      "ஒவ்வொரு பந்தையும் தரையில் அடித்து அவுட் ஆகாமல் இருக்கவும்",
+      "விக்கெட்டுகளுக்கு விரைவாக ஓடு",
+      "ஹாட்-ட்ரிக் எறிதல்",
+      "ஒவ்வொரு பந்தையும் பிடி"
+    ],
+    "answer_en": "Hit every ball along the ground and avoid getting out",
+    "answer_ta": "ஒவ்வொரு பந்தையும் தரையில் அடித்து அவுட் ஆகாமல் இருக்கவும்"
+  },
+  {
+    "question_en": "What is the opposite of 'inevitable' as used in the antonyms exercise?",
+    "question_ta": "Antonym பயிற்சியில் 'inevitable' என்பதின் எதிர்பொருள் எது?",
+    "options_en": [
+      "preventable",
+      "certain",
+      "sure",
+      "necessary"
+    ],
+    "options_ta": [
+      "தடுக்கப்படக்கூடிய",
+      "நிச்சயம்",
+      "உறுதி",
+      "தேவையான"
+    ],
+    "answer_en": "preventable",
+    "answer_ta": "தடுக்கப்படக்கூடிய"
+  }
+]

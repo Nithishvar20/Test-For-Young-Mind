@@ -1,0 +1,902 @@
+[
+  {
+    "question_en": "A shopkeeper bought an article for Rs.155 and sold for Rs.176. What is his profit percent (rounded to 2 decimals)?",
+    "question_ta": "ஒரு கடைக்காரர் ஒரு பொருளை ரூ.155 க்கு வாங்கி ரூ.176 க்கு விற்றார். அவரது லாப சதவிகிதம்?",
+    "options_en": [
+      "13.55%",
+      "18.55%",
+      "15.55%",
+      "11.55%"
+    ],
+    "options_ta": [
+      "13.55%",
+      "18.55%",
+      "15.55%",
+      "11.55%"
+    ],
+    "answer_en": "13.55%",
+    "answer_ta": "13.55%"
+  },
+  {
+    "question_en": "Rectangle length = 8 m and breadth = 5 m. Area = ?",
+    "question_ta": "அட்டை நீளம் 8 மீ., அகலம் 5 மீ. என்பதில் பரப்பளவு எது?",
+    "options_en": [
+      "41 sq.m",
+      "13 sq.m",
+      "40 sq.m",
+      "26 sq.m"
+    ],
+    "options_ta": [
+      "41 sq.m",
+      "13 sq.m",
+      "40 sq.m",
+      "26 sq.m"
+    ],
+    "answer_en": "40 sq.m",
+    "answer_ta": "40 sq.m"
+  },
+  {
+    "question_en": "Can a triangle be formed with sides 10 cm, 6 cm, 5 cm ?",
+    "question_ta": "10 செ.மீ., 6 செ.மீ., 5 செ.மீ. ஆகிய பக்கங்கள் கொண்ட செங்குத்து உருவமாகுமா?",
+    "options_en": [
+      "Only if right-angled",
+      "No",
+      "Yes",
+      "Only if isosceles"
+    ],
+    "options_ta": [
+      "Only if right-angled",
+      "No",
+      "Yes",
+      "Only if isosceles"
+    ],
+    "answer_en": "Yes",
+    "answer_ta": "Yes"
+  },
+  {
+    "question_en": "Two packets contain 16 and 22 items. Minimum equal total items they can make = ? (LCM)",
+    "question_ta": "இரு பைக்கெட்டுகளில் 16 மற்றும் 22 பொருட்கள் உள்ளன. குறைந்தபட்ச சாதமான எண்ணிக்கை எது?",
+    "options_en": [
+      "177",
+      "352",
+      "22",
+      "176"
+    ],
+    "options_ta": [
+      "177",
+      "352",
+      "22",
+      "176"
+    ],
+    "answer_en": "176",
+    "answer_ta": "176"
+  },
+  {
+    "question_en": "In a class, students choosing A,B,C are 15,13,11. Total students = 65. How many chose others?",
+    "question_ta": "ஒரு வகுப்பில் A,B,C தேர்ந்தெடுத்த மாணவர்கள் 15,13,11 ஆக உள்ளனர். மொத்தம் 65. மற்றவர்கள் எத்தனை?",
+    "options_en": [
+      "27",
+      "26",
+      "25",
+      "28"
+    ],
+    "options_ta": [
+      "27",
+      "26",
+      "25",
+      "28"
+    ],
+    "answer_en": "26",
+    "answer_ta": "26"
+  },
+  {
+    "question_en": "A shopkeeper bought an article for Rs.180 and sold for Rs.206. What is his profit percent (rounded to 2 decimals)?",
+    "question_ta": "ஒரு கடைக்காரர் ஒரு பொருளை ரூ.180 க்கு வாங்கி ரூ.206 க்கு விற்றார். அவரது லாப சதவிகிதம்?",
+    "options_en": [
+      "16.44%",
+      "14.44%",
+      "12.44%",
+      "19.44%"
+    ],
+    "options_ta": [
+      "16.44%",
+      "14.44%",
+      "12.44%",
+      "19.44%"
+    ],
+    "answer_en": "14.44%",
+    "answer_ta": "14.44%"
+  },
+  {
+    "question_en": "Rectangle length = 13 m and breadth = 10 m. Area = ?",
+    "question_ta": "அட்டை நீளம் 13 மீ., அகலம் 10 மீ. என்பதில் பரப்பளவு எது?",
+    "options_en": [
+      "46 sq.m",
+      "130 sq.m",
+      "131 sq.m",
+      "23 sq.m"
+    ],
+    "options_ta": [
+      "46 sq.m",
+      "130 sq.m",
+      "131 sq.m",
+      "23 sq.m"
+    ],
+    "answer_en": "130 sq.m",
+    "answer_ta": "130 sq.m"
+  },
+  {
+    "question_en": "Can a triangle be formed with sides 15 cm, 11 cm, 10 cm ?",
+    "question_ta": "15 செ.மீ., 11 செ.மீ., 10 செ.மீ. ஆகிய பக்கங்கள் கொண்ட செங்குத்து உருவமாகுமா?",
+    "options_en": [
+      "No",
+      "Only if isosceles",
+      "Yes",
+      "Only if right-angled"
+    ],
+    "options_ta": [
+      "No",
+      "Only if isosceles",
+      "Yes",
+      "Only if right-angled"
+    ],
+    "answer_en": "Yes",
+    "answer_ta": "Yes"
+  },
+  {
+    "question_en": "Two packets contain 21 and 27 items. Minimum equal total items they can make = ? (LCM)",
+    "question_ta": "இரு பைக்கெட்டுகளில் 21 மற்றும் 27 பொருட்கள் உள்ளன. குறைந்தபட்ச சாதமான எண்ணிக்கை எது?",
+    "options_en": [
+      "190",
+      "27",
+      "567",
+      "189"
+    ],
+    "options_ta": [
+      "190",
+      "27",
+      "567",
+      "189"
+    ],
+    "answer_en": "189",
+    "answer_ta": "189"
+  },
+  {
+    "question_en": "In a class, students choosing A,B,C are 20,18,16. Total students = 70. How many chose others?",
+    "question_ta": "ஒரு வகுப்பில் A,B,C தேர்ந்தெடுத்த மாணவர்கள் 20,18,16 ஆக உள்ளனர். மொத்தம் 70. மற்றவர்கள் எத்தனை?",
+    "options_en": [
+      "17",
+      "15",
+      "16",
+      "18"
+    ],
+    "options_ta": [
+      "17",
+      "15",
+      "16",
+      "18"
+    ],
+    "answer_en": "16",
+    "answer_ta": "16"
+  },
+  {
+    "question_en": "A shopkeeper bought an article for Rs.205 and sold for Rs.236. What is his profit percent (rounded to 2 decimals)?",
+    "question_ta": "ஒரு கடைக்காரர் ஒரு பொருளை ரூ.205 க்கு வாங்கி ரூ.236 க்கு விற்றார். அவரது லாப சதவிகிதம்?",
+    "options_en": [
+      "15.12%",
+      "13.12%",
+      "20.12%",
+      "17.12%"
+    ],
+    "options_ta": [
+      "15.12%",
+      "13.12%",
+      "20.12%",
+      "17.12%"
+    ],
+    "answer_en": "15.12%",
+    "answer_ta": "15.12%"
+  },
+  {
+    "question_en": "Rectangle length = 18 m and breadth = 15 m. Area = ?",
+    "question_ta": "அட்டை நீளம் 18 மீ., அகலம் 15 மீ. என்பதில் பரப்பளவு எது?",
+    "options_en": [
+      "270 sq.m",
+      "33 sq.m",
+      "66 sq.m",
+      "271 sq.m"
+    ],
+    "options_ta": [
+      "270 sq.m",
+      "33 sq.m",
+      "66 sq.m",
+      "271 sq.m"
+    ],
+    "answer_en": "270 sq.m",
+    "answer_ta": "270 sq.m"
+  },
+  {
+    "question_en": "Can a triangle be formed with sides 20 cm, 16 cm, 15 cm ?",
+    "question_ta": "20 செ.மீ., 16 செ.மீ., 15 செ.மீ. ஆகிய பக்கங்கள் கொண்ட செங்குத்து உருவமாகுமா?",
+    "options_en": [
+      "No",
+      "Yes",
+      "Only if isosceles",
+      "Only if right-angled"
+    ],
+    "options_ta": [
+      "No",
+      "Yes",
+      "Only if isosceles",
+      "Only if right-angled"
+    ],
+    "answer_en": "Yes",
+    "answer_ta": "Yes"
+  },
+  {
+    "question_en": "Two packets contain 26 and 32 items. Minimum equal total items they can make = ? (LCM)",
+    "question_ta": "இரு பைக்கெட்டுகளில் 26 மற்றும் 32 பொருட்கள் உள்ளன. குறைந்தபட்ச சாதமான எண்ணிக்கை எது?",
+    "options_en": [
+      "832",
+      "417",
+      "32",
+      "416"
+    ],
+    "options_ta": [
+      "832",
+      "417",
+      "32",
+      "416"
+    ],
+    "answer_en": "416",
+    "answer_ta": "416"
+  },
+  {
+    "question_en": "In a class, students choosing A,B,C are 25,23,21. Total students = 75. How many chose others?",
+    "question_ta": "ஒரு வகுப்பில் A,B,C தேர்ந்தெடுத்த மாணவர்கள் 25,23,21 ஆக உள்ளனர். மொத்தம் 75. மற்றவர்கள் எத்தனை?",
+    "options_en": [
+      "8",
+      "6",
+      "5",
+      "7"
+    ],
+    "options_ta": [
+      "8",
+      "6",
+      "5",
+      "7"
+    ],
+    "answer_en": "6",
+    "answer_ta": "6"
+  },
+  {
+    "question_en": "A shopkeeper bought an article for Rs.230 and sold for Rs.266. What is his profit percent (rounded to 2 decimals)?",
+    "question_ta": "ஒரு கடைக்காரர் ஒரு பொருளை ரூ.230 க்கு வாங்கி ரூ.266 க்கு விற்றார். அவரது லாப சதவிகிதம்?",
+    "options_en": [
+      "13.65%",
+      "15.65%",
+      "20.65%",
+      "17.65%"
+    ],
+    "options_ta": [
+      "13.65%",
+      "15.65%",
+      "20.65%",
+      "17.65%"
+    ],
+    "answer_en": "15.65%",
+    "answer_ta": "15.65%"
+  },
+  {
+    "question_en": "Rectangle length = 23 m and breadth = 20 m. Area = ?",
+    "question_ta": "அட்டை நீளம் 23 மீ., அகலம் 20 மீ. என்பதில் பரப்பளவு எது?",
+    "options_en": [
+      "86 sq.m",
+      "460 sq.m",
+      "43 sq.m",
+      "461 sq.m"
+    ],
+    "options_ta": [
+      "86 sq.m",
+      "460 sq.m",
+      "43 sq.m",
+      "461 sq.m"
+    ],
+    "answer_en": "460 sq.m",
+    "answer_ta": "460 sq.m"
+  },
+  {
+    "question_en": "Can a triangle be formed with sides 25 cm, 21 cm, 20 cm ?",
+    "question_ta": "25 செ.மீ., 21 செ.மீ., 20 செ.மீ. ஆகிய பக்கங்கள் கொண்ட செங்குத்து உருவமாகுமா?",
+    "options_en": [
+      "Only if isosceles",
+      "Only if right-angled",
+      "Yes",
+      "No"
+    ],
+    "options_ta": [
+      "Only if isosceles",
+      "Only if right-angled",
+      "Yes",
+      "No"
+    ],
+    "answer_en": "Yes",
+    "answer_ta": "Yes"
+  },
+  {
+    "question_en": "Two packets contain 31 and 37 items. Minimum equal total items they can make = ? (LCM)",
+    "question_ta": "இரு பைக்கெட்டுகளில் 31 மற்றும் 37 பொருட்கள் உள்ளன. குறைந்தபட்ச சாதமான எண்ணிக்கை எது?",
+    "options_en": [
+      "1147",
+      "37",
+      "1147",
+      "1148"
+    ],
+    "options_ta": [
+      "1147",
+      "37",
+      "1147",
+      "1148"
+    ],
+    "answer_en": "1147",
+    "answer_ta": "1147"
+  },
+  {
+    "question_en": "In a class, students choosing A,B,C are 30,28,26. Total students = 80. How many chose others?",
+    "question_ta": "ஒரு வகுப்பில் A,B,C தேர்ந்தெடுத்த மாணவர்கள் 30,28,26 ஆக உள்ளனர். மொத்தம் 80. மற்றவர்கள் எத்தனை?",
+    "options_en": [
+      "-3",
+      "-4",
+      "-2",
+      "-5"
+    ],
+    "options_ta": [
+      "-3",
+      "-4",
+      "-2",
+      "-5"
+    ],
+    "answer_en": "-4",
+    "answer_ta": "-4"
+  },
+  {
+    "question_en": "A shopkeeper bought an article for Rs.255 and sold for Rs.296. What is his profit percent (rounded to 2 decimals)?",
+    "question_ta": "ஒரு கடைக்காரர் ஒரு பொருளை ரூ.255 க்கு வாங்கி ரூ.296 க்கு விற்றார். அவரது லாப சதவிகிதம்?",
+    "options_en": [
+      "16.08%",
+      "18.08%",
+      "14.08%",
+      "21.08%"
+    ],
+    "options_ta": [
+      "16.08%",
+      "18.08%",
+      "14.08%",
+      "21.08%"
+    ],
+    "answer_en": "16.08%",
+    "answer_ta": "16.08%"
+  },
+  {
+    "question_en": "Rectangle length = 28 m and breadth = 25 m. Area = ?",
+    "question_ta": "அட்டை நீளம் 28 மீ., அகலம் 25 மீ. என்பதில் பரப்பளவு எது?",
+    "options_en": [
+      "106 sq.m",
+      "53 sq.m",
+      "701 sq.m",
+      "700 sq.m"
+    ],
+    "options_ta": [
+      "106 sq.m",
+      "53 sq.m",
+      "701 sq.m",
+      "700 sq.m"
+    ],
+    "answer_en": "700 sq.m",
+    "answer_ta": "700 sq.m"
+  },
+  {
+    "question_en": "Can a triangle be formed with sides 30 cm, 26 cm, 25 cm ?",
+    "question_ta": "30 செ.மீ., 26 செ.மீ., 25 செ.மீ. ஆகிய பக்கங்கள் கொண்ட செங்குத்து உருவமாகுமா?",
+    "options_en": [
+      "Only if right-angled",
+      "Yes",
+      "Only if isosceles",
+      "No"
+    ],
+    "options_ta": [
+      "Only if right-angled",
+      "Yes",
+      "Only if isosceles",
+      "No"
+    ],
+    "answer_en": "Yes",
+    "answer_ta": "Yes"
+  },
+  {
+    "question_en": "Two packets contain 36 and 42 items. Minimum equal total items they can make = ? (LCM)",
+    "question_ta": "இரு பைக்கெட்டுகளில் 36 மற்றும் 42 பொருட்கள் உள்ளன. குறைந்தபட்ச சாதமான எண்ணிக்கை எது?",
+    "options_en": [
+      "252",
+      "42",
+      "1512",
+      "253"
+    ],
+    "options_ta": [
+      "252",
+      "42",
+      "1512",
+      "253"
+    ],
+    "answer_en": "252",
+    "answer_ta": "252"
+  },
+  {
+    "question_en": "In a class, students choosing A,B,C are 35,33,31. Total students = 85. How many chose others?",
+    "question_ta": "ஒரு வகுப்பில் A,B,C தேர்ந்தெடுத்த மாணவர்கள் 35,33,31 ஆக உள்ளனர். மொத்தம் 85. மற்றவர்கள் எத்தனை?",
+    "options_en": [
+      "-12",
+      "-15",
+      "-13",
+      "-14"
+    ],
+    "options_ta": [
+      "-12",
+      "-15",
+      "-13",
+      "-14"
+    ],
+    "answer_en": "-14",
+    "answer_ta": "-14"
+  },
+  {
+    "question_en": "A shopkeeper bought an article for Rs.280 and sold for Rs.326. What is his profit percent (rounded to 2 decimals)?",
+    "question_ta": "ஒரு கடைக்காரர் ஒரு பொருளை ரூ.280 க்கு வாங்கி ரூ.326 க்கு விற்றார். அவரது லாப சதவிகிதம்?",
+    "options_en": [
+      "21.43%",
+      "14.43%",
+      "18.43%",
+      "16.43%"
+    ],
+    "options_ta": [
+      "21.43%",
+      "14.43%",
+      "18.43%",
+      "16.43%"
+    ],
+    "answer_en": "16.43%",
+    "answer_ta": "16.43%"
+  },
+  {
+    "question_en": "Rectangle length = 33 m and breadth = 30 m. Area = ?",
+    "question_ta": "அட்டை நீளம் 33 மீ., அகலம் 30 மீ. என்பதில் பரப்பளவு எது?",
+    "options_en": [
+      "126 sq.m",
+      "991 sq.m",
+      "63 sq.m",
+      "990 sq.m"
+    ],
+    "options_ta": [
+      "126 sq.m",
+      "991 sq.m",
+      "63 sq.m",
+      "990 sq.m"
+    ],
+    "answer_en": "990 sq.m",
+    "answer_ta": "990 sq.m"
+  },
+  {
+    "question_en": "Can a triangle be formed with sides 35 cm, 31 cm, 30 cm ?",
+    "question_ta": "35 செ.மீ., 31 செ.மீ., 30 செ.மீ. ஆகிய பக்கங்கள் கொண்ட செங்குத்து உருவமாகுமா?",
+    "options_en": [
+      "Only if right-angled",
+      "Only if isosceles",
+      "No",
+      "Yes"
+    ],
+    "options_ta": [
+      "Only if right-angled",
+      "Only if isosceles",
+      "No",
+      "Yes"
+    ],
+    "answer_en": "Yes",
+    "answer_ta": "Yes"
+  },
+  {
+    "question_en": "Two packets contain 41 and 47 items. Minimum equal total items they can make = ? (LCM)",
+    "question_ta": "இரு பைக்கெட்டுகளில் 41 மற்றும் 47 பொருட்கள் உள்ளன. குறைந்தபட்ச சாதமான எண்ணிக்கை எது?",
+    "options_en": [
+      "1927",
+      "1928",
+      "47",
+      "1927"
+    ],
+    "options_ta": [
+      "1927",
+      "1928",
+      "47",
+      "1927"
+    ],
+    "answer_en": "1927",
+    "answer_ta": "1927"
+  },
+  {
+    "question_en": "In a class, students choosing A,B,C are 40,38,36. Total students = 90. How many chose others?",
+    "question_ta": "ஒரு வகுப்பில் A,B,C தேர்ந்தெடுத்த மாணவர்கள் 40,38,36 ஆக உள்ளனர். மொத்தம் 90. மற்றவர்கள் எத்தனை?",
+    "options_en": [
+      "-24",
+      "-22",
+      "-25",
+      "-23"
+    ],
+    "options_ta": [
+      "-24",
+      "-22",
+      "-25",
+      "-23"
+    ],
+    "answer_en": "-24",
+    "answer_ta": "-24"
+  },
+  {
+    "question_en": "A shopkeeper bought an article for Rs.305 and sold for Rs.356. What is his profit percent (rounded to 2 decimals)?",
+    "question_ta": "ஒரு கடைக்காரர் ஒரு பொருளை ரூ.305 க்கு வாங்கி ரூ.356 க்கு விற்றார். அவரது லாப சதவிகிதம்?",
+    "options_en": [
+      "18.72%",
+      "16.72%",
+      "21.72%",
+      "14.72%"
+    ],
+    "options_ta": [
+      "18.72%",
+      "16.72%",
+      "21.72%",
+      "14.72%"
+    ],
+    "answer_en": "16.72%",
+    "answer_ta": "16.72%"
+  },
+  {
+    "question_en": "Rectangle length = 38 m and breadth = 35 m. Area = ?",
+    "question_ta": "அட்டை நீளம் 38 மீ., அகலம் 35 மீ. என்பதில் பரப்பளவு எது?",
+    "options_en": [
+      "1331 sq.m",
+      "73 sq.m",
+      "146 sq.m",
+      "1330 sq.m"
+    ],
+    "options_ta": [
+      "1331 sq.m",
+      "73 sq.m",
+      "146 sq.m",
+      "1330 sq.m"
+    ],
+    "answer_en": "1330 sq.m",
+    "answer_ta": "1330 sq.m"
+  },
+  {
+    "question_en": "Can a triangle be formed with sides 40 cm, 36 cm, 35 cm ?",
+    "question_ta": "40 செ.மீ., 36 செ.மீ., 35 செ.மீ. ஆகிய பக்கங்கள் கொண்ட செங்குத்து உருவமாகுமா?",
+    "options_en": [
+      "Only if isosceles",
+      "No",
+      "Only if right-angled",
+      "Yes"
+    ],
+    "options_ta": [
+      "Only if isosceles",
+      "No",
+      "Only if right-angled",
+      "Yes"
+    ],
+    "answer_en": "Yes",
+    "answer_ta": "Yes"
+  },
+  {
+    "question_en": "Two packets contain 46 and 52 items. Minimum equal total items they can make = ? (LCM)",
+    "question_ta": "இரு பைக்கெட்டுகளில் 46 மற்றும் 52 பொருட்கள் உள்ளன. குறைந்தபட்ச சாதமான எண்ணிக்கை எது?",
+    "options_en": [
+      "1196",
+      "1197",
+      "52",
+      "2392"
+    ],
+    "options_ta": [
+      "1196",
+      "1197",
+      "52",
+      "2392"
+    ],
+    "answer_en": "1196",
+    "answer_ta": "1196"
+  },
+  {
+    "question_en": "In a class, students choosing A,B,C are 45,43,41. Total students = 95. How many chose others?",
+    "question_ta": "ஒரு வகுப்பில் A,B,C தேர்ந்தெடுத்த மாணவர்கள் 45,43,41 ஆக உள்ளனர். மொத்தம் 95. மற்றவர்கள் எத்தனை?",
+    "options_en": [
+      "-33",
+      "-34",
+      "-35",
+      "-32"
+    ],
+    "options_ta": [
+      "-33",
+      "-34",
+      "-35",
+      "-32"
+    ],
+    "answer_en": "-34",
+    "answer_ta": "-34"
+  },
+  {
+    "question_en": "A shopkeeper bought an article for Rs.330 and sold for Rs.386. What is his profit percent (rounded to 2 decimals)?",
+    "question_ta": "ஒரு கடைக்காரர் ஒரு பொருளை ரூ.330 க்கு வாங்கி ரூ.386 க்கு விற்றார். அவரது லாப சதவிகிதம்?",
+    "options_en": [
+      "21.97%",
+      "14.97%",
+      "16.97%",
+      "18.97%"
+    ],
+    "options_ta": [
+      "21.97%",
+      "14.97%",
+      "16.97%",
+      "18.97%"
+    ],
+    "answer_en": "16.97%",
+    "answer_ta": "16.97%"
+  },
+  {
+    "question_en": "Rectangle length = 43 m and breadth = 40 m. Area = ?",
+    "question_ta": "அட்டை நீளம் 43 மீ., அகலம் 40 மீ. என்பதில் பரப்பளவு எது?",
+    "options_en": [
+      "166 sq.m",
+      "1721 sq.m",
+      "83 sq.m",
+      "1720 sq.m"
+    ],
+    "options_ta": [
+      "166 sq.m",
+      "1721 sq.m",
+      "83 sq.m",
+      "1720 sq.m"
+    ],
+    "answer_en": "1720 sq.m",
+    "answer_ta": "1720 sq.m"
+  },
+  {
+    "question_en": "Can a triangle be formed with sides 45 cm, 41 cm, 40 cm ?",
+    "question_ta": "45 செ.மீ., 41 செ.மீ., 40 செ.மீ. ஆகிய பக்கங்கள் கொண்ட செங்குத்து உருவமாகுமா?",
+    "options_en": [
+      "Only if isosceles",
+      "Only if right-angled",
+      "Yes",
+      "No"
+    ],
+    "options_ta": [
+      "Only if isosceles",
+      "Only if right-angled",
+      "Yes",
+      "No"
+    ],
+    "answer_en": "Yes",
+    "answer_ta": "Yes"
+  },
+  {
+    "question_en": "Two packets contain 51 and 57 items. Minimum equal total items they can make = ? (LCM)",
+    "question_ta": "இரு பைக்கெட்டுகளில் 51 மற்றும் 57 பொருட்கள் உள்ளன. குறைந்தபட்ச சாதமான எண்ணிக்கை எது?",
+    "options_en": [
+      "2907",
+      "57",
+      "969",
+      "970"
+    ],
+    "options_ta": [
+      "2907",
+      "57",
+      "969",
+      "970"
+    ],
+    "answer_en": "969",
+    "answer_ta": "969"
+  },
+  {
+    "question_en": "In a class, students choosing A,B,C are 50,48,46. Total students = 100. How many chose others?",
+    "question_ta": "ஒரு வகுப்பில் A,B,C தேர்ந்தெடுத்த மாணவர்கள் 50,48,46 ஆக உள்ளனர். மொத்தம் 100. மற்றவர்கள் எத்தனை?",
+    "options_en": [
+      "-44",
+      "-45",
+      "-43",
+      "-42"
+    ],
+    "options_ta": [
+      "-44",
+      "-45",
+      "-43",
+      "-42"
+    ],
+    "answer_en": "-44",
+    "answer_ta": "-44"
+  },
+  {
+    "question_en": "A shopkeeper bought an article for Rs.355 and sold for Rs.416. What is his profit percent (rounded to 2 decimals)?",
+    "question_ta": "ஒரு கடைக்காரர் ஒரு பொருளை ரூ.355 க்கு வாங்கி ரூ.416 க்கு விற்றார். அவரது லாப சதவிகிதம்?",
+    "options_en": [
+      "15.18%",
+      "19.18%",
+      "22.18%",
+      "17.18%"
+    ],
+    "options_ta": [
+      "15.18%",
+      "19.18%",
+      "22.18%",
+      "17.18%"
+    ],
+    "answer_en": "17.18%",
+    "answer_ta": "17.18%"
+  },
+  {
+    "question_en": "Rectangle length = 48 m and breadth = 45 m. Area = ?",
+    "question_ta": "அட்டை நீளம் 48 மீ., அகலம் 45 மீ. என்பதில் பரப்பளவு எது?",
+    "options_en": [
+      "2160 sq.m",
+      "2161 sq.m",
+      "186 sq.m",
+      "93 sq.m"
+    ],
+    "options_ta": [
+      "2160 sq.m",
+      "2161 sq.m",
+      "186 sq.m",
+      "93 sq.m"
+    ],
+    "answer_en": "2160 sq.m",
+    "answer_ta": "2160 sq.m"
+  },
+  {
+    "question_en": "Can a triangle be formed with sides 50 cm, 46 cm, 45 cm ?",
+    "question_ta": "50 செ.மீ., 46 செ.மீ., 45 செ.மீ. ஆகிய பக்கங்கள் கொண்ட செங்குத்து உருவமாகுமா?",
+    "options_en": [
+      "Only if right-angled",
+      "Yes",
+      "Only if isosceles",
+      "No"
+    ],
+    "options_ta": [
+      "Only if right-angled",
+      "Yes",
+      "Only if isosceles",
+      "No"
+    ],
+    "answer_en": "Yes",
+    "answer_ta": "Yes"
+  },
+  {
+    "question_en": "Two packets contain 56 and 62 items. Minimum equal total items they can make = ? (LCM)",
+    "question_ta": "இரு பைக்கெட்டுகளில் 56 மற்றும் 62 பொருட்கள் உள்ளன. குறைந்தபட்ச சாதமான எண்ணிக்கை எது?",
+    "options_en": [
+      "1736",
+      "3472",
+      "1737",
+      "62"
+    ],
+    "options_ta": [
+      "1736",
+      "3472",
+      "1737",
+      "62"
+    ],
+    "answer_en": "1736",
+    "answer_ta": "1736"
+  },
+  {
+    "question_en": "In a class, students choosing A,B,C are 55,53,51. Total students = 105. How many chose others?",
+    "question_ta": "ஒரு வகுப்பில் A,B,C தேர்ந்தெடுத்த மாணவர்கள் 55,53,51 ஆக உள்ளனர். மொத்தம் 105. மற்றவர்கள் எத்தனை?",
+    "options_en": [
+      "-52",
+      "-54",
+      "-55",
+      "-53"
+    ],
+    "options_ta": [
+      "-52",
+      "-54",
+      "-55",
+      "-53"
+    ],
+    "answer_en": "-54",
+    "answer_ta": "-54"
+  },
+  {
+    "question_en": "A shopkeeper bought an article for Rs.380 and sold for Rs.446. What is his profit percent (rounded to 2 decimals)?",
+    "question_ta": "ஒரு கடைக்காரர் ஒரு பொருளை ரூ.380 க்கு வாங்கி ரூ.446 க்கு விற்றார். அவரது லாப சதவிகிதம்?",
+    "options_en": [
+      "15.37%",
+      "22.37%",
+      "17.37%",
+      "19.37%"
+    ],
+    "options_ta": [
+      "15.37%",
+      "22.37%",
+      "17.37%",
+      "19.37%"
+    ],
+    "answer_en": "17.37%",
+    "answer_ta": "17.37%"
+  },
+  {
+    "question_en": "Rectangle length = 53 m and breadth = 50 m. Area = ?",
+    "question_ta": "அட்டை நீளம் 53 மீ., அகலம் 50 மீ. என்பதில் பரப்பளவு எது?",
+    "options_en": [
+      "103 sq.m",
+      "2650 sq.m",
+      "2651 sq.m",
+      "206 sq.m"
+    ],
+    "options_ta": [
+      "103 sq.m",
+      "2650 sq.m",
+      "2651 sq.m",
+      "206 sq.m"
+    ],
+    "answer_en": "2650 sq.m",
+    "answer_ta": "2650 sq.m"
+  },
+  {
+    "question_en": "Can a triangle be formed with sides 55 cm, 51 cm, 50 cm ?",
+    "question_ta": "55 செ.மீ., 51 செ.மீ., 50 செ.மீ. ஆகிய பக்கங்கள் கொண்ட செங்குத்து உருவமாகுமா?",
+    "options_en": [
+      "Only if isosceles",
+      "Yes",
+      "Only if right-angled",
+      "No"
+    ],
+    "options_ta": [
+      "Only if isosceles",
+      "Yes",
+      "Only if right-angled",
+      "No"
+    ],
+    "answer_en": "Yes",
+    "answer_ta": "Yes"
+  },
+  {
+    "question_en": "Two packets contain 61 and 67 items. Minimum equal total items they can make = ? (LCM)",
+    "question_ta": "இரு பைக்கெட்டுகளில் 61 மற்றும் 67 பொருட்கள் உள்ளன. குறைந்தபட்ச சாதமான எண்ணிக்கை எது?",
+    "options_en": [
+      "4088",
+      "4087",
+      "4087",
+      "67"
+    ],
+    "options_ta": [
+      "4088",
+      "4087",
+      "4087",
+      "67"
+    ],
+    "answer_en": "4087",
+    "answer_ta": "4087"
+  },
+  {
+    "question_en": "In a class, students choosing A,B,C are 60,58,56. Total students = 110. How many chose others?",
+    "question_ta": "ஒரு வகுப்பில் A,B,C தேர்ந்தெடுத்த மாணவர்கள் 60,58,56 ஆக உள்ளனர். மொத்தம் 110. மற்றவர்கள் எத்தனை?",
+    "options_en": [
+      "-64",
+      "-63",
+      "-65",
+      "-62"
+    ],
+    "options_ta": [
+      "-64",
+      "-63",
+      "-65",
+      "-62"
+    ],
+    "answer_en": "-64",
+    "answer_ta": "-64"
+  }
+]

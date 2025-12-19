@@ -1,0 +1,282 @@
+[
+  {
+    "question_en": "Who built a nest on Ramayya’s roof?",
+    "question_ta": "ராமையாவின் வீட்டுமீது கூடு கட்டியது யார்?",
+    "options_en": ["Sparrows", "Crows", "Parrots", "Pigeons"],
+    "options_ta": ["சிட்டுக்கள்", "காகங்கள்", "கிளிகள்", "புறாக்கள்"],
+    "answer_en": "Sparrows",
+    "answer_ta": "சிட்டுக்கள்"
+  },
+  {
+    "question_en": "Where did the diamond jewel lie before being found?",
+    "question_ta": "கண்டுபிடிக்கப்படும் முன் வைர நகை எங்கு இருந்தது?",
+    "options_en": ["In the garden", "In the muck-heap", "On the street", "In the river"],
+    "options_ta": ["தோட்டத்தில்", "குப்பைக்குவியலில்", "தெருவில்", "ஆற்றில்"],
+    "answer_en": "In the muck-heap",
+    "answer_ta": "குப்பைக்குவியலில்"
+  },
+  {
+    "question_en": "Who was the maid in Meenakshi Ammal’s house?",
+    "question_ta": "மீனாட்சி அம்மாள் வீட்டில் வேலை செய்தவள் யார்?",
+    "options_en": ["Lakshmi", "Kuppayi", "Kamala", "Radha"],
+    "options_ta": ["லட்சுமி", "குப்பாயி", "கமலா", "ராதா"],
+    "answer_en": "Kuppayi",
+    "answer_ta": "குப்பாயி"
+  },
+  {
+    "question_en": "What did Ramayya fear after his wife kept the jewel?",
+    "question_ta": "நகையை மனைவி வைத்த பின் ராமையா எதைப் பயந்தார்?",
+    "options_en": ["Losing money", "Quarrelling with neighbours", "Being caught by police", "Getting scolded by children"],
+    "options_ta": ["பணம் இழப்பது", "அண்டை வீட்டாருடன் சண்டையிடுவது", "காவல்துறையால் பிடிக்கப்படுவது", "குழந்தைகளால் கண்டிக்கப்படுவது"],
+    "answer_en": "Being caught by police",
+    "answer_ta": "காவல்துறையால் பிடிக்கப்படுவது"
+  },
+  {
+    "question_en": "Who was suspected of stealing the nose-jewel?",
+    "question_ta": "மூக்குத்தியை திருடியது யார் என சந்தேகிக்கப்பட்டார்?",
+    "options_en": ["Ramayya", "Magistrate", "Meenakshi Ammal", "Kuppayi"],
+    "options_ta": ["ராமையா", "நீதிபதி", "மீனாட்சி அம்மாள்", "குப்பாயி"],
+    "answer_en": "Kuppayi",
+    "answer_ta": "குப்பாயி"
+  },
+  {
+    "question_en": "What happened to Ramayya’s wife after taking the jewel?",
+    "question_ta": "நகையை எடுத்தபின் ராமையாவின் மனைவிக்கு என்ன ஆனது?",
+    "options_en": ["She became sick with fever", "She sold the jewel", "She gave it to the magistrate", "She went on a trip"],
+    "options_ta": ["அவருக்கு காய்ச்சல் வந்தது", "நகையை விற்றார்", "நீதிபதிக்கு கொடுத்தார்", "பயணத்திற்குப் போனார்"],
+    "answer_en": "She became sick with fever",
+    "answer_ta": "அவருக்கு காய்ச்சல் வந்தது"
+  },
+  {
+    "question_en": "What lesson does the story teach?",
+    "question_ta": "இந்தக் கதை என்ன பாடம் கற்பிக்கிறது?",
+    "options_en": ["Don’t be greedy", "Unity is strength", "Work hard to succeed", "Always be truthful"],
+    "options_ta": ["பேராசை கொள்ளக்கூடாது", "ஒற்றுமை தான் பலம்", "வெற்றி பெற கடினமாக உழைக்க வேண்டும்", "எப்போதும் உண்மையாக இருக்க வேண்டும்"],
+    "answer_en": "Don’t be greedy",
+    "answer_ta": "பேராசை கொள்ளக்கூடாது"
+  },
+  {
+    "question_en": "What did the sparrow’s wife tell him instead of bringing jewels?",
+    "question_ta": "நகைகளை கொண்டு வருவதற்குப் பதிலாக சிட்டுக் குருவியின் மனைவி என்ன சொன்னாள்?",
+    "options_en": ["To bring food", "To bring sticks", "To bring leaves", "To bring coins"],
+    "options_ta": ["உணவு கொண்டு வர வேண்டும்", "குச்சிகளை கொண்டு வர வேண்டும்", "இலைகளை கொண்டு வர வேண்டும்", "நாணயங்களை கொண்டு வர வேண்டும்"],
+    "answer_en": "To bring food",
+    "answer_ta": "உணவு கொண்டு வர வேண்டும்"
+  },
+  {
+    "question_en": "Who wrote 'The Nose-Jewel'?",
+    "question_ta": "'மூக்குத்தி' கதையை எழுதியவர் யார்?",
+    "options_en": ["Ruskin Bond", "Rabindranath Tagore", "R.K. Narayan", "C. Rajagopalachari"],
+    "options_ta": ["ரஸ்கின் பாண்ட்", "ரபீந்திரநாத் தாகூர்", "ஆர்.கே. நாராயண்", "சி. இராஜகோபாலாச்சாரி"],
+    "answer_en": "C. Rajagopalachari",
+    "answer_ta": "சி. இராஜகோபாலாச்சாரி"
+  },
+  {
+    "question_en": "What did the male sparrow say about humans?",
+    "question_ta": "மனிதர்களைப் பற்றி ஆண் சிட்டு என்ன சொன்னது?",
+    "options_en": ["They are generous", "They are clever", "They are hard-working", "They are greedy"],
+    "options_ta": ["அவர்கள் தாராளமானவர்கள்", "அவர்கள் புத்திசாலிகள்", "அவர்கள் கடினமாக உழைப்பவர்கள்", "அவர்கள் பேராசையானவர்கள்"],
+    "answer_en": "They are greedy",
+    "answer_ta": "அவர்கள் பேராசையானவர்கள்"
+  },
+  {
+    "question_en": "Who is described as the 'chosen one' in the poem?",
+    "question_ta": "கவிதையில் 'தேர்ந்தெடுக்கப்பட்டவர்' என்று விவரிக்கப்பட்டவர் யார்?",
+    "options_en": ["The father", "The mother", "The teacher", "The friend"],
+    "options_ta": ["தந்தை", "தாய்", "ஆசிரியர்", "நண்பர்"],
+    "answer_en": "The father",
+    "answer_ta": "தந்தை"
+  },
+  {
+    "question_en": "What emotion did the child feel in the father’s arms?",
+    "question_ta": "தந்தையின் அரவணைப்பில் குழந்தை எந்த உணர்வை உணர்ந்தது?",
+    "options_en": ["Love and safety", "Anger", "Fear", "Surprise"],
+    "options_ta": ["அன்பும் பாதுகாப்பும்", "கோபம்", "பயம்", "ஆச்சரியம்"],
+    "answer_en": "Love and safety",
+    "answer_ta": "அன்பும் பாதுகாப்பும்"
+  },
+  {
+    "question_en": "What does the child call the father?",
+    "question_ta": "குழந்தை தந்தையை என்னவென்று அழைக்கிறது?",
+    "options_en": ["A hero", "A warrior", "A guide", "A friend"],
+    "options_ta": ["ஒரு ஹீரோ", "ஒரு போர்வீரன்", "ஒரு வழிகாட்டி", "ஒரு நண்பன்"],
+    "answer_en": "A hero",
+    "answer_ta": "ஒரு ஹீரோ"
+  },
+  {
+    "question_en": "Which line shows the father’s love is endless?",
+    "question_ta": "தந்தையின் அன்பு முடிவில்லாதது என்பதை காட்டும் வரி எது?",
+    "options_en": ["Our love is everlasting", "Keeping me safe from harm", "I looked up into your eyes", "You were the dad chosen for me"],
+    "options_ta": ["எங்கள் அன்பு நித்தியமானது", "என்னை அபாயத்திலிருந்து காத்தல்", "உங்கள் கண்களை நோக்கிப் பார்த்தேன்", "நீங்கள் எனக்காகத் தேர்ந்தெடுக்கப்பட்ட தந்தை"],
+    "answer_en": "Our love is everlasting",
+    "answer_ta": "எங்கள் அன்பு நித்தியமானது"
+  },
+  {
+    "question_en": "Who is the poet of Special Hero?",
+    "question_ta": "'Special Hero' கவிதையை எழுதியவர் யார்?",
+    "options_en": ["William Blake", "Sarojini Naidu", "Edgar Guest", "Christina M. Kerschen"],
+    "options_ta": ["வில்லியம் பிளேக்", "சரோஜினி நாயுடு", "எட்கர் கெஸ்ட்", "கிரிஸ்டினா எம். கெர்ஷன்"],
+    "answer_en": "Christina M. Kerschen",
+    "answer_ta": "கிரிஸ்டினா எம். கெர்ஷன்"
+  },
+  {
+    "question_en": "What was Arun doing on the platform?",
+    "question_ta": "மேடையில் அருண் என்ன செய்துக்கொண்டிருந்தான்?",
+    "options_en": ["Feeding dogs", "Selling books", "Sleeping", "Singing"],
+    "options_ta": ["நாய்களுக்கு உணவு கொடுத்தான்", "புத்தகங்களை விற்றான்", "தூங்கிக் கொண்டிருந்தான்", "பாடிக் கொண்டிருந்தான்"],
+    "answer_en": "Feeding dogs",
+    "answer_ta": "நாய்களுக்கு உணவு கொடுத்தான்"
+  },
+  {
+    "question_en": "At what time was Arun’s train expected?",
+    "question_ta": "அருணின் ரயில் எந்த நேரத்தில் எதிர்பார்க்கப்பட்டது?",
+    "options_en": ["12 o’clock midnight", "9 a.m.", "3 p.m.", "7 p.m."],
+    "options_ta": ["இரவு 12 மணி", "காலை 9 மணி", "மதியம் 3 மணி", "மாலை 7 மணி"],
+    "answer_en": "12 o’clock midnight",
+    "answer_ta": "இரவு 12 மணி"
+  },
+  {
+    "question_en": "How did Arun describe the platform when trains arrived?",
+    "question_ta": "ரயில் வந்தபோது அருண் மேடையை எப்படித் விவரித்தான்?",
+    "options_en": ["Inferno of people", "Silent place", "Empty hall", "Beautiful market"],
+    "options_ta": ["மக்கள் நரகமாக", "அமைதியான இடம்", "வெற்று மண்டபம்", "அழகான சந்தை"],
+    "answer_en": "Inferno of people",
+    "answer_ta": "மக்கள் நரகமாக"
+  },
+  {
+    "question_en": "What food did the woman buy for Arun?",
+    "question_ta": "அருணுக்காக அந்த பெண் என்ன உணவு வாங்கினாள்?",
+    "options_en": ["Tea and samosas", "Coffee and cake", "Lemon juice and biscuits", "Idli and chutney"],
+    "options_ta": ["தேனீர் மற்றும் சமோசா", "காப்பி மற்றும் கேக்", "எலுமிச்சை சாறு மற்றும் பிஸ்கட்", "இட்லி மற்றும் சட்னி"],
+    "answer_en": "Tea and samosas",
+    "answer_ta": "தேனீர் மற்றும் சமோசா"
+  },
+  {
+    "question_en": "What colour sari did the woman wear?",
+    "question_ta": "அந்த பெண் அணிந்திருந்த புடவையின் நிறம் என்ன?",
+    "options_en": ["White", "Green", "Red", "Yellow"],
+    "options_ta": ["வெள்ளை", "பச்சை", "சிகப்பு", "மஞ்சள்"],
+    "answer_en": "White",
+    "answer_ta": "வெள்ளை"
+  },
+  {
+    "question_en": "What was Satish’s opinion of Arun?",
+    "question_ta": "அருணைப் பற்றி சதீஷின் கருத்து என்ன?",
+    "options_en": ["Best bowler in the class", "Best singer in the class", "Best painter in the class", "Best reader in the class"],
+    "options_ta": ["வகுப்பில் சிறந்த பந்துவீச்சாளர்", "வகுப்பில் சிறந்த பாடகர்", "வகுப்பில் சிறந்த ஓவியர்", "வகுப்பில் சிறந்த வாசகர்"],
+    "answer_en": "Best bowler in the class",
+    "answer_ta": "வகுப்பில் சிறந்த பந்துவீச்சாளர்"
+  },
+  {
+    "question_en": "What did Satish’s mother warn Arun about?",
+    "question_ta": "சதீஷின் தாய் அருணை எதைப் பற்றி எச்சரித்தார்?",
+    "options_en": ["Never talk to strangers", "Never play cricket", "Never eat food", "Never read books"],
+    "options_ta": ["அந்நியர்களுடன் பேசாதே", "கிரிக்கெட் விளையாடாதே", "உணவு சாப்பிடாதே", "புத்தகங்களை வாசிக்காதே"],
+    "answer_en": "Never talk to strangers",
+    "answer_ta": "அந்நியர்களுடன் பேசாதே"
+  },
+  {
+    "question_en": "What gift did Satish’s mother give him?",
+    "question_ta": "சதீஷின் தாய் அவருக்கு என்ன பரிசளித்தார்?",
+    "options_en": ["Fruits, bat and chocolates", "Shoes and bag", "Pen and notebook", "Watch and hat"],
+    "options_ta": ["பழங்கள், பேட் மற்றும் சாக்லேட்", "சிலுவைகள் மற்றும் பை", "பேனா மற்றும் நோட்டுப் புத்தகம்", "கடிகாரம் மற்றும் தொப்பி"],
+    "answer_en": "Fruits, bat and chocolates",
+    "answer_ta": "பழங்கள், பேட் மற்றும் சாக்லேட்"
+  },
+  {
+    "question_en": "How did Arun bid farewell to the woman?",
+    "question_ta": "அந்த பெண்ணிடம் அருண் எப்படி விடைபெற்றான்?",
+    "options_en": ["By kissing her cheek", "By shaking hands", "By touching her feet", "By giving a gift"],
+    "options_ta": ["அவள் கன்னத்தில் முத்தமிட்டான்", "கை குலுக்கியான்", "அவள் கால்களைத் தொட்டான்", "ஒரு பரிசு கொடுத்தான்"],
+    "answer_en": "By kissing her cheek",
+    "answer_ta": "அவள் கன்னத்தில் முத்தமிட்டான்"
+  },
+  {
+    "question_en": "What were Arun’s last words to her?",
+    "question_ta": "அவளிடம் அருணின் கடைசி வார்த்தைகள் என்ன?",
+    "options_en": ["Goodbye, mother", "Goodbye, sister", "Goodbye, aunt", "Goodbye, teacher"],
+    "options_ta": ["பிரியாவிடை, அம்மா", "பிரியாவிடை, அக்கா", "பிரியாவிடை, அத்தை", "பிரியாவிடை, ஆசிரியர்"],
+    "answer_en": "Goodbye, mother",
+    "answer_ta": "பிரியாவிடை, அம்மா"
+  },
+  {
+    "question_en": "What difficulty did Mani face in school?",
+    "question_ta": "மணிக்கு பள்ளியில் என்ன சிரமம் இருந்தது?",
+    "options_en": ["He found it hard to read and write", "He could not draw", "He did not like English", "He could not play games"],
+    "options_ta": ["வாசிக்கவும் எழுதவும் கடினமாக இருந்தது", "வரைய முடியவில்லை", "ஆங்கிலம் பிடிக்கவில்லை", "விளையாட முடியவில்லை"],
+    "answer_en": "He found it hard to read and write",
+    "answer_ta": "வாசிக்கவும் எழுதவும் கடினமாக இருந்தது"
+  },
+  {
+    "question_en": "Who read stories to Mani at night?",
+    "question_ta": "இரவு மணிக்கு கதைகள் வாசித்தவர் யார்?",
+    "options_en": ["His grandfather", "His brother", "His mother", "His father"],
+    "options_ta": ["அவரது தாத்தா", "அவரது சகோதரர்", "அவரது தாய்", "அவரது தந்தை"],
+    "answer_en": "His grandfather",
+    "answer_ta": "அவரது தாத்தா"
+  },
+  {
+    "question_en": "What hobby did Mani develop?",
+    "question_ta": "மணிக்கு எந்த பொழுதுபோக்கு உருவானது?",
+    "options_en": ["Writing", "Gardening", "Playing", "Painting"],
+    "options_ta": ["எழுதுவது", "தோட்டக்கலை", "விளையாடுவது", "ஓவியம்"],
+    "answer_en": "Writing",
+    "answer_ta": "எழுதுவது"
+  },
+  {
+    "question_en": "Whose hobby was also reading and writing among leaders?",
+    "question_ta": "முன்னணித் தலைவர்களில் யாருடைய பொழுதுபோக்கு வாசிப்பும் எழுதுவதுமாக இருந்தது?",
+    "options_en": ["C.N. Annadurai", "Mahatma Gandhi", "Nehru", "Subhash Bose"],
+    "options_ta": ["சி. நா. அண்ணாதுரை", "மகாத்மா காந்தி", "நேரு", "சுபாஷ் போஸ்"],
+    "answer_en": "C.N. Annadurai",
+    "answer_ta": "சி. நா. அண்ணாதுரை"
+  },
+  {
+    "question_en": "What did Mani compare writing to?",
+    "question_ta": "எழுதுவதை மணி எதனுடன் ஒப்பிட்டார்?",
+    "options_en": ["Playing cricket", "Singing", "Flying", "Painting a voice"],
+    "options_ta": ["கிரிக்கெட் விளையாடுவது", "பாடுவது", "பறப்பது", "ஒரு குரலை வரைவது"],
+    "answer_en": "Painting a voice",
+    "answer_ta": "ஒரு குரலை வரைவது"
+  },
+  {
+    "question_en": "What disability did Ajay Kumar Garg have?",
+    "question_ta": "அஜய் குமார் கார்க்கிற்கு எந்த மாற்றுத்திறன் இருந்தது?",
+    "options_en": ["Hearing impairment", "Blindness", "Lameness", "Stammering"],
+    "options_ta": ["கேள்வித்திறன் குறைபாடு", "குருட்டுத்தன்மை", "முடக்கம்", "தடுமாற்றம்"],
+    "answer_en": "Hearing impairment",
+    "answer_ta": "கேள்வித்திறன் குறைபாடு"
+  },
+  {
+    "question_en": "What art did Ajay master?",
+    "question_ta": "அஜய் எந்தக் கலைவில் நிபுணத்துவம் பெற்றார்?",
+    "options_en": ["Modern art", "Oil painting", "Miniature painting", "Sculpture"],
+    "options_ta": ["நவீன கலை", "எண்ணெய் ஓவியம்", "சிற்றோவியம்", "சிலைப்படைப்பு"],
+    "answer_en": "Miniature painting",
+    "answer_ta": "சிற்றோவியம்"
+  },
+  {
+    "question_en": "Who gave Ajay training in miniature art?",
+    "question_ta": "சிற்றோவியக் கலையில் அஜய்க்கு பயிற்சி அளித்தவர்கள் யார்?",
+    "options_en": ["Ruskin Bond", "Sua Lal and Asha Devi", "Ramanujan", "Kalam"],
+    "options_ta": ["ரஸ்கின் பாண்ட்", "சுவா லால் மற்றும் ஆசா தேவி", "ராமானுஜன்", "கலாம்"],
+    "answer_en": "Sua Lal and Asha Devi",
+    "answer_ta": "சுவா லால் மற்றும் ஆசா தேவி"
+  },
+  {
+    "question_en": "What unique skill does Ajay have?",
+    "question_ta": "அஜய்க்கு என்ன தனித்திறமை உள்ளது?",
+    "options_en": ["Making clay dolls", "Singing with paintbrush", "Creating images on rice grains", "Designing coins"],
+    "options_ta": ["மண் பொம்மைகள் உருவாக்குதல்", "தூரிகையுடன் பாடுதல்", "அரிசித் தானியங்களில் படங்களை உருவாக்குதல்", "நாணயங்களை வடிவமைத்தல்"],
+    "answer_en": "Creating images on rice grains",
+    "answer_ta": "அரிசித் தானியங்களில் படங்களை உருவாக்குதல்"
+  },
+  {
+    "question_en": "Who honoured Ajay with a national award?",
+    "question_ta": "அஜய்க்கு தேசிய விருது வழங்கியவர் யார்?",
+    "options_en": ["C.V. Raman", "Rabindranath Tagore", "Dr. A.P.J. Abdul Kalam", "Sarojini Naidu"],
+    "options_ta": ["சி.வி. ராமன்", "ரபீந்திரநாத் தாகூர்", "டாக்டர் ஏ.பி.ஜே. அப்துல்கலாம்", "சரோஜினி நாயுடு"],
+    "answer_en": "Dr. A.P.J. Abdul Kalam",
+    "answer_ta": "டாக்டர் ஏ.பி.ஜே. அப்துல்கலாம்"
+  }
+]

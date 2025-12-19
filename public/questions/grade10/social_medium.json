@@ -1,0 +1,282 @@
+[
+  {
+    "question_en": "In which year was the Indian National Congress founded?",
+    "question_ta": "இந்திய தேசிய காங்கிரஸ் நிறுவப்பட்ட ஆண்டு எது?",
+    "options_en": ["1905", "1920", "1885", "1935"],
+    "options_ta": ["1905", "1920", "1885", "1935"],
+    "answer_en": "1885",
+    "answer_ta": "1885"
+  },
+  {
+    "question_en": "Which army was created by Subhas Chandra Bose?",
+    "question_ta": "சுபாஷ் சந்திர போஸ் உருவாக்கிய படை எது?",
+    "options_en": ["Indra Sena", "Azad Hind Army", "Underground Army", "Kisan Sena"],
+    "options_ta": ["இன்றா சேனா", "அசாத் ஹிந்த் படை", "அண்டர் கிரவுண்ட் ஆர்மி", "கிஸான் சேனா"],
+    "answer_en": "Azad Hind Army",
+    "answer_ta": "அசாத் ஹிந்த் படை"
+  },
+  {
+    "question_en": "The Treaty of Versailles was signed in which year?",
+    "question_ta": "வெர்செய்ல்ஸ் ஒப்பந்தம் கையெழுத்தானது எப்போது?",
+    "options_en": ["1921", "1919", "1914", "1939"],
+    "options_ta": ["1921", "1919", "1914", "1939"],
+    "answer_en": "1919",
+    "answer_ta": "1919"
+  },
+  {
+    "question_en": "In which year was the Indian Independence Act passed?",
+    "question_ta": "இந்திய சுதந்திரச் சட்டம் நிறைவேற்றப்பட்ட ஆண்டு?",
+    "options_en": ["1942", "1950", "1937", "1947"],
+    "options_ta": ["1942", "1950", "1937", "1947"],
+    "answer_en": "1947",
+    "answer_ta": "1947"
+  },
+  {
+    "question_en": "Where did the Jallianwala Bagh massacre take place?",
+    "question_ta": "ஜாலியன்வாலாபாக் படுகொலை நடந்த இடம்?",
+    "options_en": ["Delhi", "Kurukshetra", "Amritsar", "Lucknow"],
+    "options_ta": ["டெல்லி", "குருச்சேத்ரா", "அமிர்தசர்", "லக்னோ"],
+    "answer_en": "Amritsar",
+    "answer_ta": "அமிர்தசர்"
+  },
+  {
+    "question_en": "The Ganga river empties into which sea?",
+    "question_ta": "கங்கை நதி எந்த கடலுக்குள் கலக்கிறது?",
+    "options_en": ["Arabian Sea", "Bay of Bengal", "Pacific Ocean", "Indian Ocean"],
+    "options_ta": ["அரேபிய கடல்", "வங்காள விரிகுடா", "பசிபிக் பெருங்கடல்", "இந்தப் பெருங்கடல்"],
+    "answer_en": "Bay of Bengal",
+    "answer_ta": "வங்காள விரிகுடா"
+  },
+  {
+    "question_en": "Which is the largest state of India by area?",
+    "question_ta": "இந்தியாவின் மிகப்பெரிய மாநிலம் (பரப்பளவில்) எது?",
+    "options_en": ["Madhya Pradesh", "Rajasthan", "Maharashtra", "Uttar Pradesh"],
+    "options_ta": ["மத்யபிரதேசம்", "ராஜஸ்தான்", "மகாராஷ்டிரா", "உத்தரபிரதேசம்"],
+    "answer_en": "Rajasthan",
+    "answer_ta": "ராஜஸ்தான்"
+  },
+  {
+    "question_en": "Which among the following is a Kharif crop?",
+    "question_ta": "‘கரிப்ஸ்’ பயிர் எது?",
+    "options_en": ["Rice", "Wheat", "Jowar", "Cotton"],
+    "options_ta": ["அரிசி", "கோதுமை", "சோளம்", "பருத்தி"],
+    "answer_en": "Rice",
+    "answer_ta": "அரிசி"
+  },
+  {
+    "question_en": "In which state is the Koyna Dam located?",
+    "question_ta": "கோய்னா அணை அமைந்துள்ள மாநிலம்?",
+    "options_en": ["Odisha", "Maharashtra", "Gujarat", "Karnataka"],
+    "options_ta": ["ஒடிசா", "மகாராஷ்டிரா", "குஜராத்", "கர்நாடகா"],
+    "answer_en": "Maharashtra",
+    "answer_ta": "மகாராஷ்டிரா"
+  },
+  {
+    "question_en": "Which district of Tamil Nadu has the largest iron ore deposits?",
+    "question_ta": "தமிழ்நாட்டில் இரும்பு சுரங்கம் அதிகமாக உள்ள மாவட்டம்?",
+    "options_en": ["Trichy", "Madurai", "Salem", "Erode"],
+    "options_ta": ["திருச்சி", "மதுரை", "சேலம்", "ஈரோடு"],
+    "answer_en": "Salem",
+    "answer_ta": "சேலம்"
+  },
+  {
+    "question_en": "Which word is NOT mentioned in the Preamble of the Indian Constitution?",
+    "question_ta": "இந்திய அரசியலமைப்பின் முன்னுரையில் குறிப்பிடப்பட்டிராத சொல் எது?",
+    "options_en": ["Democracy", "Republic", "Socialism", "Secularism"],
+    "options_ta": ["ஜனநாயகம்", "குடியரசு", "சமூகவாதம்", "மதச்சார்பற்றம்"],
+    "answer_en": "Secularism",
+    "answer_ta": "மதச்சார்பற்றம்"
+  },
+  {
+    "question_en": "Which is the longest part of the Indian Constitution?",
+    "question_ta": "இந்திய அரசியலமைப்பின் மிக நீளமான பகுதி எது?",
+    "options_en": ["Directive Principles", "Fundamental Rights", "Union", "Panchayats"],
+    "options_ta": ["முற்போக்கு கோட்பாடுகள்", "அடிப்படை உரிமைகள்", "சமூகநிலை", "பஞ்சாயத்து"],
+    "answer_en": "Directive Principles",
+    "answer_ta": "முற்போக்கு கோட்பாடுகள்"
+  },
+  {
+    "question_en": "Who is the Head of India?",
+    "question_ta": "இந்தியாவின் தலைவர் யார்?",
+    "options_en": ["President", "Supreme Court", "Prime Minister", "Parliament"],
+    "options_ta": ["குடியரசுத் தலைவர்", "உச்சநீதிமன்றம்", "பிரதமர்", "பாராளுமன்றம்"],
+    "answer_en": "President",
+    "answer_ta": "குடியரசுத் தலைவர்"
+  },
+  {
+    "question_en": "In which year was the Supreme Court of India established?",
+    "question_ta": "உச்சநீதிமன்றம் அமைந்த ஆண்டு?",
+    "options_en": ["1950", "1947", "1975", "1962"],
+    "options_ta": ["1950", "1947", "1975", "1962"],
+    "answer_en": "1950",
+    "answer_ta": "1950"
+  },
+  {
+    "question_en": "Who appoints the Chief Election Commissioner of India?",
+    "question_ta": "இந்திய தேர்தல் ஆணையர் எவ்வாறு நியமிக்கப்படுகிறார்?",
+    "options_en": ["Parliament", "Supreme Court", "Prime Minister", "President"],
+    "options_ta": ["பாராளுமன்றம்", "உச்சநீதிமன்றம்", "பிரதமர்", "குடியரசுத் தலைவர்"],
+    "answer_en": "President",
+    "answer_ta": "குடியரசுத் தலைவர்"
+  },
+  {
+    "question_en": "Who is associated with Green Revolution in India?",
+    "question_ta": "பசுமைப் புரட்சியுடன் தொடர்புடையவர் யார்?",
+    "options_en": ["M.S. Swaminathan", "Gandhi", "Rajaji", "B.R. Ambedkar"],
+    "options_ta": ["எம்.எஸ். சுவாமிநாதன்", "காந்தி", "ராஜாஜி", "டாக்டர் அம்பேத்கர்"],
+    "answer_en": "M.S. Swaminathan",
+    "answer_ta": "எம்.எஸ். சுவாமிநாதன்"
+  },
+  {
+    "question_en": "When was the Planning Commission of India set up?",
+    "question_ta": "இந்தியாவின் முதல் திட்டக்குழு எப்போது அமைக்கப்பட்டது?",
+    "options_en": ["1950", "1960", "1951", "1947"],
+    "options_ta": ["1950", "1960", "1951", "1947"],
+    "answer_en": "1950",
+    "answer_ta": "1950"
+  },
+  {
+    "question_en": "Which among the following is NOT a factor of production?",
+    "question_ta": "உற்பத்தியின் முக்கிய காரணி அல்லாதது எது?",
+    "options_en": ["Education", "Land", "Labour", "Capital"],
+    "options_ta": ["கல்வி", "நிலம்", "தொழிலாளர்", "மூலதனம்"],
+    "answer_en": "Education",
+    "answer_ta": "கல்வி"
+  },
+  {
+    "question_en": "Which institution has the sole right to issue currency in India?",
+    "question_ta": "இந்தியாவில் ஒரே பணத்தை வெளியிடும் அதிகாரம் பெற்ற நிறுவனம்?",
+    "options_en": ["NABARD", "Reserve Bank of India", "Finance Ministry", "State Bank of India"],
+    "options_ta": ["நபார்டு", "இந்திய ரிசர்வ் வங்கி", "நிதியமைச்சகம்", "ஸ்டேட் பாங்க் ஆப் இந்தியா"],
+    "answer_en": "Reserve Bank of India",
+    "answer_ta": "இந்திய ரிசர்வ் வங்கி"
+  },
+  {
+    "question_en": "Which body regulates the stock market in India?",
+    "question_ta": "பங்கு சந்தையை கட்டுப்படுத்தும் நிறுவனம்?",
+    "options_en": ["RBI", "BSE", "SEBI", "NABARD"],
+    "options_ta": ["ரிசர்வ் வங்கி", "பிஎஸ்இ", "சேபி (SEBI)", "நபார்டு"],
+    "answer_en": "SEBI",
+    "answer_ta": "சேபி (SEBI)"
+  },
+  {
+    "question_en": "Who was defeated by Robert Clive in the Battle of Plassey?",
+    "question_ta": "பிளாசி போரில் ராபர்ட் கிளைவ் தோற்கடித்தவர் யார்?",
+    "options_en": ["Hyder Ali", "Tipu Sultan", "Siraj-ud-Daulah", "Baji Rao"],
+    "options_ta": ["ஹைதர் அலி", "திப்பு சுல்தான்", "சிராஜ்-உத்-தௌலா", "பாஜி ராவ்"],
+    "answer_en": "Siraj-ud-Daulah",
+    "answer_ta": "சிராஜ்-உத்-தௌலா"
+  },
+  {
+    "question_en": "Which place receives the highest rainfall in India?",
+    "question_ta": "இந்தியாவில் அதிக மழை பெறும் இடம்?",
+    "options_en": ["Kolkata", "Mawsynram", "Shillong", "Coimbatore"],
+    "options_ta": ["கொல்கத்தா", "மௌசின்ராம்", "சில்லாங்க்", "கோயம்புத்தூர்"],
+    "answer_en": "Mawsynram",
+    "answer_ta": "மௌசின்ராம்"
+  },
+  {
+    "question_en": "Which constitutional amendment gave legal status to Panchayati Raj?",
+    "question_ta": "பஞ்சாயத்து அமைப்பு எந்த திருத்தத்தின் மூலம் சட்டபூர்வமாக்கப்பட்டது?",
+    "options_en": ["44th", "52nd", "42nd", "73rd"],
+    "options_ta": ["44வது", "52வது", "42வது", "73வது"],
+    "answer_en": "73rd",
+    "answer_ta": "73வது"
+  },
+  {
+    "question_en": "Planned economy of India was based on which country's model?",
+    "question_ta": "திட்டமிட்ட பொருளாதாரம் எந்த நாட்டின் மாதிரியில் உருவாக்கப்பட்டது?",
+    "options_en": ["Japan", "Soviet Union", "USA", "UK"],
+    "options_ta": ["ஜப்பான்", "சோவியத் ஒன்றியம்", "அமெரிக்கா", "இங்கிலாந்து"],
+    "answer_en": "Soviet Union",
+    "answer_ta": "சோவியத் ஒன்றியம்"
+  },
+  {
+    "question_en": "Which state of India has the highest population density?",
+    "question_ta": "கிலோமீட்டருக்கு மக்கள் அடர்த்தி அதிகமான மாநிலம்?",
+    "options_en": ["Maharashtra", "Odisha", "Bihar", "Gujarat"],
+    "options_ta": ["மகாராஷ்டிரா", "ஒடிசா", "பீகார்", "குஜராத்"],
+    "answer_en": "Bihar",
+    "answer_ta": "பீகார்"
+  },
+  {
+    "question_en": "When did the First World War begin?",
+    "question_ta": "முதல் உலகப்போர் தொடங்கிய ஆண்டு?",
+    "options_en": ["1919", "1939", "1945", "1914"],
+    "options_ta": ["1919", "1939", "1945", "1914"],
+    "answer_en": "1914",
+    "answer_ta": "1914"
+  },
+  {
+    "question_en": "Who was the leader of the Nazi Party?",
+    "question_ta": "நாசி கட்சியின் தலைவர் யார்?",
+    "options_en": ["Stalin", "Mussolini", "Hitler", "Churchill"],
+    "options_ta": ["ஸ்டாலின்", "முசோலினி", "ஹிட்லர்", "சர்ச்சில்"],
+    "answer_en": "Hitler",
+    "answer_ta": "ஹிட்லர்"
+  },
+  {
+    "question_en": "In which year did the Soviet Union collapse?",
+    "question_ta": "சோவியத் ஒன்றியம் கலைந்த ஆண்டு?",
+    "options_en": ["1989", "1991", "1979", "2001"],
+    "options_ta": ["1989", "1991", "1979", "2001"],
+    "answer_en": "1991",
+    "answer_ta": "1991"
+  },
+  {
+    "question_en": "Which state leads in synthetic fibre production in India?",
+    "question_ta": "இந்தியாவில் ‘செயற்கை நார்’ உற்பத்தியில் முன்னிலை வகிப்பது எது?",
+    "options_en": ["Punjab", "Gujarat", "Tamil Nadu", "West Bengal"],
+    "options_ta": ["பஞ்சாப்", "குஜராத்", "தமிழ்நாடு", "மேற்கு வங்காளம்"],
+    "answer_en": "Gujarat",
+    "answer_ta": "குஜராத்"
+  },
+  {
+    "question_en": "Who is considered the guardian of the Indian Constitution?",
+    "question_ta": "இந்திய அரசியலமைப்பின் பாதுகாவலர் யார்?",
+    "options_en": ["Supreme Court", "President", "Parliament", "Prime Minister"],
+    "options_ta": ["உச்சநீதிமன்றம்", "குடியரசுத் தலைவர்", "பாராளுமன்றம்", "பிரதமர்"],
+    "answer_en": "Supreme Court",
+    "answer_ta": "உச்சநீதிமன்றம்"
+  },
+  {
+    "question_en": "When was the Swadeshi Movement launched?",
+    "question_ta": "சுதேசி இயக்கம் எப்போது தொடங்கப்பட்டது?",
+    "options_en": ["1905", "1942", "1919", "1885"],
+    "options_ta": ["1905", "1942", "1919", "1885"],
+    "answer_en": "1905",
+    "answer_ta": "1905"
+  },
+  {
+    "question_en": "When did the Second World War begin?",
+    "question_ta": "இரண்டாம் உலகப்போர் தொடங்கிய ஆண்டு?",
+    "options_en": ["1939", "1945", "1921", "1914"],
+    "options_ta": ["1939", "1945", "1921", "1914"],
+    "answer_en": "1939",
+    "answer_ta": "1939"
+  },
+  {
+    "question_en": "Which state is called the 'Rice Bowl of India'?",
+    "question_ta": "இந்தியாவில் “அரிசி கிணறு” என அழைக்கப்படும் மாநிலம் எது?",
+    "options_en": ["Bihar", "Punjab", "West Bengal", "Uttar Pradesh"],
+    "options_ta": ["பீகார்", "பஞ்சாப்", "மேற்கு வங்காளம்", "உத்தரபிரதேசம்"],
+    "answer_en": "West Bengal",
+    "answer_ta": "மேற்கு வங்காளம்"
+  },
+  {
+    "question_en": "What is the basic feature of Democracy?",
+    "question_ta": "மக்களாட்சியின் அடிப்படை கூறு எது?",
+    "options_en": ["Industrialization", "People’s Participation", "Production", "Economy"],
+    "options_ta": ["தொழில்துறை", "மக்கள் பங்கேற்பு", "உற்பத்தி", "பொருளாதாரம்"],
+    "answer_en": "People’s Participation",
+    "answer_ta": "மக்கள் பங்கேற்பு"
+  },
+  {
+    "question_en": "In which year was the 'Make in India' programme launched?",
+    "question_ta": "‘Make in India’ திட்டம் எந்த ஆண்டில் தொடங்கப்பட்டது?",
+    "options_en": ["2010", "2014", "2005", "2020"],
+    "options_ta": ["2010", "2014", "2005", "2020"],
+    "answer_en": "2014",
+    "answer_ta": "2014"
+  }
+]

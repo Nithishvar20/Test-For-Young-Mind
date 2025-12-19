@@ -1,0 +1,210 @@
+[
+  {
+    "question_en": "Which year is commonly marked as the beginning of the Indian National Movement after the Revolt of 1857?",
+    "question_ta": "1857 எழுச்சிக்கு பின்னர் பொதுவாக இந்திய தேசிய இயக்கம் தொடங்கிய ஆண்டு எது?",
+    "options_en": ["1885","1858","1905","1919"],
+    "options_ta": ["1885","1858","1905","1919"],
+    "answer_en": "1885",
+    "answer_ta": "1885"
+  },
+  {
+    "question_en": "Which soil type is most suitable for growing rice in India?",
+    "question_ta": "இந்தியாவில் அரிசி வளர்ப்பிற்கு எது மிகவும் உகந்த மண் வகை?",
+    "options_en": ["Black soil","Laterite soil","Alluvial soil","Desert soil"],
+    "options_ta": ["கருப்பு மண்","பிந்தை மண்","மழைக்கரை மண் (Alluvial)","வறண்ட மண்"],
+    "answer_en": "Alluvial soil",
+    "answer_ta": "மழைக்கரை மண் (Alluvial)"
+  },
+  {
+    "question_en": "Who presided over the session where the Indian National Congress was founded (1885)?",
+    "question_ta": "இந்திய தேசியக் காங்கிரஸ் (1885) நிறுவப்பட்ட கூட்டத்தை யார் தலைமையிலோக்கியார்?",
+    "options_en": ["A. O. Hume","Womesh Chandra Bonnerjee","Dadabhai Naoroji","Surendranath Banerjee"],
+    "options_ta": ["ஏ. ஓ. ஹ்யூம்","வோமேஷ் சந்திர ბொனர்ஜீ","டாடா பாய் நரோஜி","சுரேந்திரநாத் பானர்ஜி"],
+    "answer_en": "Womesh Chandra Bonnerjee",
+    "answer_ta": "வோமேஷ் சந்திர பொன்னர்ஜீ"
+  },
+  {
+    "question_en": "The Western Ghats run parallel to which coast of India?",
+    "question_ta": "மேற்கு தொடர்ச்சி மலைகள் இந்தியாவின் எந்த கடற்கரைக்கு 병தட்டமாக விரிவடைகின்றன?",
+    "options_en": ["East coast","West coast","Northern coast","Southern coast"],
+    "options_ta": ["கிழக்குக் கடற்கரை","மேற்கு கடற்கரை","வடக்கு கடற்கரை","தெற்கு கடற்கரை"],
+    "answer_en": "West coast",
+    "answer_ta": "மேற்கு கடற்கரை"
+  },
+  {
+    "question_en": "Which one of these rivers originates in the Western Ghats and flows eastward into the Bay of Bengal?",
+    "question_ta": "கீழ்கண்டவற்றில் எந்தாறு மேற்கு தொடர்ச்சி மலைக்களில் இருந்து தொடங்கி கிழக்கு நோக்கி கரைப்பகுதிக்குள் (Bay of Bengal) ஓடுகிறது?",
+    "options_en": ["Narmada","Godavari","Mahi","Sabarmati"],
+    "options_ta": ["நர்மதா","கோதாவரி","மாஹி","சபர்மதி"],
+    "answer_en": "Godavari",
+    "answer_ta": "கோதாவரி"
+  },
+  {
+    "question_en": "Which act passed in 1919 expanded the legislative councils and introduced dyarchy in provinces?",
+    "question_ta": "1919ல் நாடாளுமன்றக் கவுன்சில்களை விருத்தி செய்து மாகாணங்களில் 'டயார்க்கி' (dyarchy) அறிமுகப்படுத்திய சட்டம் எது?",
+    "options_en": ["Government of India Act 1858","Indian Councils Act 1892","Government of India Act 1919","Government of India Act 1935"],
+    "options_ta": ["இந்தியா அரசின் சட்டம் 1858","இந்தியா கவுன்சில்கள் சட்டம் 1892","இந்தியா அரசின் சட்டம் 1919","இந்தியா அரசின் சட்டம் 1935"],
+    "answer_en": "Government of India Act 1919",
+    "answer_ta": "இந்தியா அரசின் சட்டம் 1919"
+  },
+  {
+    "question_en": "What is the main reason for seasonal variation of temperature in India?",
+    "question_ta": "இந்தியாவில் வானிலை வெப்பநிலையின் காலநிலை மாறுபாட்டிற்கான முக்கிய காரணம் என்ன?",
+    "options_en": ["Latitude only","Altitude only","Tilt of Earth’s axis and sun's position","Ocean currents only"],
+    "options_ta": ["வெகு மட்டுமே (அட்சை)","மேல்மட்டம் மட்டுமே","பூமியின் அச்சின் சாய்வு மற்றும் சூரியனின் நிலை","கடல் ஓட்டங்கள் மட்டுமே"],
+    "answer_en": "Tilt of Earth’s axis and sun's position",
+    "answer_ta": "பூமியின் அச்சின் சாய்வு மற்றும் சூரியனின் நிலை"
+  },
+  {
+    "question_en": "Which institution is primarily responsible for printing currency notes in India?",
+    "question_ta": "இந்தியாவில் பண நோட்டுகளை (currency notes) அச்சிடுவதற்கான முதன்மை அமைப்பு எது?",
+    "options_en": ["Reserve Bank of India","Finance Ministry","State Bank of India","India Security Press"],
+    "options_ta": ["ரிசர்வ் வங்கி (RBI)","பணவியல் அமைச்சகம்","இராஜ்ய வங்கி","இந்தியா பாதுகாப்பு அச்சுப்பிடை"],
+    "answer_en": "Reserve Bank of India",
+    "answer_ta": "ரிசர்வ் வங்கி (RBI)"
+  },
+  {
+    "question_en": "Which sector employs the largest proportion of the Indian workforce?",
+    "question_ta": "இந்திய தொழிலாளர் பலரின் (workforce) மிகப்பெரிய பகுதியை எந்தத் துறை வேலைவாய்ப்பு அளிக்கின்றது?",
+    "options_en": ["Primary (agriculture)","Secondary (industry)","Tertiary (services)","Information technology"],
+    "options_ta": ["பிரத்தியேக (Primary - விவசாயம்)","துணை (Secondary - தொழில்)","மூத்த (Tertiary - சேவை)","தகவல் தொழில் நுட்பம்"],
+    "answer_en": "Primary (agriculture)",
+    "answer_ta": "பிரத்தியேக (Primary - விவசாயம்)"
+  },
+  {
+    "question_en": "Which movement in India, started in 1905, protested the partition of Bengal?",
+    "question_ta": "1905ல் தொடங்கிய மற்றும் பெங்காளைப் பிரிவை (partition of Bengal) எதிர்த்து போராடியது எந்த இயக்கம்?",
+    "options_en": ["Swadeshi movement","Non-Cooperation movement","Quit India movement","Civil Disobedience movement"],
+    "options_ta": ["சுவதேசி இயக்கம்","நான் ஒத்துழைப்பு இயக்கம்","க்விட் இந்தியா இயக்கம்","பொது எதிர்ப்பு இயக்கம்"],
+    "answer_en": "Swadeshi movement",
+    "answer_ta": "சுவதேசி இயக்கம்"
+  },
+  {
+    "question_en": "Panchayati Raj in India is a system of:",
+    "question_ta": "இந்தியாவில் பஞ்சாயத்தித் துறை (Panchayati Raj) என்பது எந்தவகை அமைப்பாகும்?",
+    "options_en": ["Local self-government","State legislature","Judiciary body","National Parliament"],
+    "options_ta": ["உள்ளூராட்சி (Local self-government)","மாநில சட்டமன்றம்","நீதிமன்ற அமைப்பு","தேசிய சபை"],
+    "answer_en": "Local self-government",
+    "answer_ta": "உள்ளூராட்சி (Local self-government)"
+  },
+  {
+    "question_en": "Which historical source gives first-hand information about past events?",
+    "question_ta": "கடந்த நிகழ்வுகள் பற்றிய முதல் கையால் (first-hand) தகவல்களைக் காட்டும் வரலாற்று ஆதாரம் எது?",
+    "options_en": ["Secondary source","Textbook","Primary source","Encyclopaedia"],
+    "options_ta": ["இரண்டாம் தரவு (Secondary)","பாடநூல்","முதன்மை ஆதாரம் (Primary)","அறிவியல் நூல்"],
+    "answer_en": "Primary source",
+    "answer_ta": "முதன்மை ஆதாரம் (Primary)"
+  },
+  {
+    "question_en": "Which is a characteristic of a democratic government?",
+    "question_ta": "ஒரு ஜனநாயக அரசின் (democratic) ஒரு குறிப்பிட்ட தன்மை எது?",
+    "options_en": ["Rule by one person","No elections","Participation of citizens","Hereditary rule"],
+    "options_ta": ["ஒரு நபரின் ஆட்சிக்குள்","தேர்தல்கள் இல்லாமல்","பொதுமக்கள் பங்கேற்பு","பாரம்பரிய ஆட்சித்"],
+    "answer_en": "Participation of citizens",
+    "answer_ta": "பொதுமக்கள் பங்கேற்பு"
+  },
+  {
+    "question_en": "Which of the following is a renewable source of energy?",
+    "question_ta": "பின்வருவனில் எது புதுப்பிக்கக்கூடிய (renewable) சக்தி வளம்?",
+    "options_en": ["Coal","Petroleum","Solar","Natural gas"],
+    "options_ta": ["கோல்","பெட்ரோல்","சூரிய","இயற்கை எரிவாயு"],
+    "answer_en": "Solar",
+    "answer_ta": "சூரிய"
+  },
+  {
+    "question_en": "Which crop is primarily grown in the black soil region of India?",
+    "question_ta": "இந்தியாவின் கருப்பு மண் பகுதியில் முதன்மையாக எந்த பயிர் வளர்க்கப்படுகிறது?",
+    "options_en": ["Cotton","Rice","Tea","Rubber"],
+    "options_ta": ["பழுப்பு (Cotton)","அரிசி","தேய்","ரப்பர்"],
+    "answer_en": "Cotton",
+    "answer_ta": "பழுப்பு (Cotton)"
+  },
+  {
+    "question_en": "The main function of the Judiciary in India is to:",
+    "question_ta": "இந்தியாவில் நீதிமன்றத்தின் (Judiciary) முக்கிய செயற்பாடு என்ன?",
+    "options_en": ["Make laws","Enforce laws","Interpret laws and deliver justice","Collect taxes"],
+    "options_ta": ["சட்டங்கள் உருவாக்க","சட்டங்கள் நடைமுறைப்படுத்த","சட்டங்களை பொருள் விளக்கம் செய்து நீதியை வழங்க","வரி வசூல்"],
+    "answer_en": "Interpret laws and deliver justice",
+    "answer_ta": "சட்டங்களை பொருள் விளக்கம் செய்து நீதியை வழங்க"
+  },
+  {
+    "question_en": "Which British policy led to widespread indigo farmer revolts in Bengal?",
+    "question_ta": "பிரிட்டிஷ் கொள்கை எது பெங்காலில் நீலக்கৃষியாளர்கள் (indigo farmers) கிளர்ச்சி ஏற்படுத்தியது?",
+    "options_en": ["Permanent Settlement","Ryotwari system","Indigo planters' oppressive practices","Subsidiary Alliance"],
+    "options_ta": ["நிரந்தர ஒழுங்கு","ரயோத்வாரி முறை","நீலப் பயிர் கஸ்டர்களின் புகழ்ச்சையுள்ள நடைமுறைகள்","உபச்சார கூட்டணி"],
+    "answer_en": "Indigo planters' oppressive practices",
+    "answer_ta": "நீலத் தோட்டக் கმას்தர்களின் துன்பகரமான நடைமுறைகள்"
+  },
+  {
+    "question_en": "What does 'urbanisation' refer to?",
+    "question_ta": "‘நகர்மயமாதல்’ (urbanisation) என்பது எதை குறிக்கிறது?",
+    "options_en": ["Movement of people from rural to urban areas","Increase in agriculture","Decrease in population","Industrial decline"],
+    "options_ta": ["கிராமத்திலிருந்து நகரங்களுக்கு மக்கள் நகர்வு","விவசாய வளர்ச்சி","மக்கள் எண்ணிக்கை குறைவு","தொழில்துறை வீழ்ச்சி"],
+    "answer_en": "Movement of people from rural to urban areas",
+    "answer_ta": "கிராமத்திலிருந்து நகரங்களுக்கு மக்கள் நகர்வு"
+  },
+  {
+    "question_en": "Which river basin is called the 'rice bowl' of India due to extensive paddy cultivation?",
+    "question_ta": "விரிவான நெல் (paddy) பயிர் காரணமாக எந்த நதிநீர்த்தடம் (river basin) இந்தியாவின் 'அரிசி பலகை (rice bowl)' என்று சொல்லப்படுகிறது?",
+    "options_en": ["Ganga basin","Deccan plateau","Godavari basin","Indus basin"],
+    "options_ta": ["கங்கை அறைகட்டு","டெக்கன் நிலம்","கோதாவரி அறைகட்டு","சிந்து அறைகட்டு"],
+    "answer_en": "Ganga basin",
+    "answer_ta": "கங்கை அறைகட்டு"
+  },
+  {
+    "question_en": "Which major industry developed around coal and iron ore resources in India?",
+    "question_ta": "இந்தியாவில் কয়লা மற்றும் இரும்பு கனிம வளங்கள் நடுநிலையில் உருவான பெரிய தொழில் எது?",
+    "options_en": ["Textile industry","Steel industry","Agro-based industry","Leather industry"],
+    "options_ta": ["நூல் தொழில்","இரும்பு உற்பத்தி (Steel)","வேளாண் சார்ந்த தொழில்","தோல்உலக தொழில்"],
+    "answer_en": "Steel industry",
+    "answer_ta": "இரும்பு உற்பத்தி (Steel)"
+  },
+  {
+    "question_en": "The term 'secularism' in the Indian Constitution implies:",
+    "question_ta": "இந்திய அரசமைப்பில் 'பக்தியற்றமை' (secularism) என்பதன் பொருள் என்ன?",
+    "options_en": ["State favors one religion","State has no religion and treats all equally","No religious freedom","Religion controls the State"],
+    "options_ta": ["அரசு ஒரு மதத்தை ஆதரிக்கிறது","அரசுக்கு மதமில்லை; எல்லாவற்றையும் சமமாகக் கருதுகிறது","மதச் சுதந்திரமில்லை","மதமே அரசை நிர்வகிக்கிறது"],
+    "answer_en": "State has no religion and treats all equally",
+    "answer_ta": "அரசுக்கு மதமில்லை; எல்லாவற்றையும் சமமாகக் கருதுகிறது"
+  },
+  {
+    "question_en": "Which term refers to the total value of goods and services produced within a country in a year?",
+    "question_ta": "ஒரு நாட்டில் ஒரு ஆண்டில் உற்பத்தி ஆன சரக்குகள் மற்றும் சேவைகளின் மொத்த மதிப்பை (value) எந்த சொல் குறிக்கிறது?",
+    "options_en": ["GDP (Gross Domestic Product)","GNP (Gross National Product)","CPI (Consumer Price Index)","HDI (Human Development Index)"],
+    "options_ta": ["GDP (மொத்த உள்நாட்டு உற்பத்தி)","GNP (மொத்த தேசிய உற்பத்தி)","CPI (நுகர்வோர் விலை குறியீடு)","HDI (மனித மேம்பாட்டு குறியீடு)"],
+    "answer_en": "GDP (Gross Domestic Product)",
+    "answer_ta": "GDP (மொத்த உள்நாட்டு உற்பத்தி)"
+  },
+  {
+    "question_en": "Which freedom did the Rowlatt Act (1919) curtail, leading to protests?",
+    "question_ta": "ரோலட் சட்டம் (1919) எந்த விடுதலை(க்களை)க் குறைத்தது மற்றும் அதனால் போராட்டங்கள் உருவானன?",
+    "options_en": ["Freedom of speech and assembly","Right to property","Freedom to trade","Right to vote"],
+    "options_ta": ["பேச்சு மற்றும் கூட்டமெழுதல் உரிமை","பொருட்களின் உரிமை","பணியாட்டு சுதந்திரம்","தேர்தல் உரிமை"],
+    "answer_en": "Freedom of speech and assembly",
+    "answer_ta": "பேச்சு மற்றும் கூட்டமெழுதல் உரிமை"
+  },
+  {
+    "question_en": "Which city is the legislative capital of Tamil Nadu?",
+    "question_ta": "தமிழ்நாட்டின் சட்டமன்ற தலைநகரம் எது?",
+    "options_en": ["Coimbatore","Chennai","Madurai","Tiruchirappalli"],
+    "options_ta": ["கோயம்புத்தூர்","சென்னை","மதுரை","திருச்சிராப்பள்ளி"],
+    "answer_en": "Chennai",
+    "answer_ta": "சென்னை"
+  },
+  {
+    "question_en": "Which demographic indicator measures average number of children a woman would have during her lifetime?",
+    "question_ta": "ஒரு மகளின் வாழ்நாளில் சராசரி குழந்தைகள் எண்ணிக்கையை எந்த மக்கள் தொகை குறியீடு குறிக்கிறது?",
+    "options_en": ["Birth rate","Death rate","Fertility rate","Infant mortality rate"],
+    "options_ta": ["பிறந்த வீதம்","இறப்பு வீதம்","கருவொற்றுமை வீதம் (Fertility rate)","குழந்தை இறப்பு வீதம்"],
+    "answer_en": "Fertility rate",
+    "answer_ta": "கருவொற்றுமை வீதம் (Fertility rate)"
+  },
+  {
+    "question_en": "Which policy was the main economic strategy of India immediately after independence (1947–1991)?",
+    "question_ta": "1947–1991 காலகட்டத்தில், சுதந்திரத்தின் பின் இந்தியாவின் முக்கிய பொருளாதார தந்திரம் (economic policy) எது?",
+    "options_en": ["Liberalisation and privatisation","Planned economy with public sector emphasis","Complete free market economy","Dollarization"],
+    "options_ta": ["திறம்முறை/தனியார்துறை (Liberalisation)","ஏற்கப்பட்ட திட்டமிட்ட பொருளாதாரம் மற்றும் பொது துறையில் அழுத்தம்","முழு இலவச சந்தை பொருளாதாரம்","டாலர் ஏற்றம்"],
+    "answer_en": "Planned economy with public sector emphasis",
+    "answer_ta": "ஏற்கப்பட்ட திட்டமிட்ட பொருளாதாரம் மற்றும் பொது துறையில் அழுத்தம்"
+  }
+]

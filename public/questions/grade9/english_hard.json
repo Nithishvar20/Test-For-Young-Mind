@@ -1,0 +1,686 @@
+[
+  {
+    "question_en": "In 'Learning the Game', the training routine built Sachin's 'physical and mental stamina'. Which training element best explains the mental stamina?",
+    "question_ta": "'Learning the Game' இல் பயிற்சி திட்டம் சச்சினின் 'உடல் மற்றும் மன ஸ்டாமினா'ஐ கட்டியெழுப்பியது. மன ஸ்டாமினாவை சிறந்ததாக விளக்கும் பயிற்சி கூறு எது?",
+    "options_en": [
+      "Concentrating and hitting every ball during the intense fifteen-minute session",
+      "Only running laps",
+      "Eating vadapav during breaks",
+      "Washing clothes frequently"
+    ],
+    "options_ta": [
+      "கூடமான 15 நிமிடங்களின் போது ஒவ்வொரு பந்தையும் கவனிக்க உயர்த்துதல்",
+      "வெளிப்புற ஓட்டங்கள் மட்டும்",
+      "இடைவேளைகளில் வடபாவ் சாப்பிடுதல்",
+      "அழுக்கு உடைகள் கழுவுதல்"
+    ],
+    "answer_en": "Concentrating and hitting every ball during the intense fifteen-minute session",
+    "answer_ta": "கட்டுப்படுத்தப்பட்ட 15 நிமிடம் முழுவதும் கவனமாக ஒவ்வொரு பந்தையும் அடித்தல்"
+  },
+  {
+    "question_en": "Analyze the thematic significance of the repeated line 'And miles to go before I sleep' in Frost's poem.",
+    "question_ta": "Frost கவితையில் 'And miles to go before I sleep' என்ற வரியை மீண்டும் பயன்படுத்துவதின் தலைப்புச் சிக்கல்பாடு என்ன?",
+    "options_en": [
+      "It emphasizes duty and obligations that keep the speaker from rest",
+      "It literally measures walking distance",
+      "It is only for rhyme",
+      "It describes the horse's path"
+    ],
+    "options_ta": [
+      "அது உரையாளரின் பொறுப்புகள் மற்றும் கடமைகளை வலியுறுத்துகிறது",
+      "அது நடக்க வேண்டிய தொலைவை காட்டுகிறது",
+      "பொருந்துதலுக்காக மட்டுமே",
+      "அது குதிரையின் நெடுவரிசையை விவரிக்கிறது"
+    ],
+    "answer_en": "It emphasizes duty and obligations that keep the speaker from rest",
+    "answer_ta": "அது உரையாளரின் பொறுப்புகள் மற்றும் கடமைகளை வலியுறுத்துகிறது"
+  },
+  {
+    "question_en": "From the grammar unit: identify which sentence contains a noun clause.",
+    "question_ta": "கிராமர் யூனிடில்: எந்த வாக்கியத்தில் ஒரு noun clause உள்ளது?",
+    "options_en": [
+      "I know that he left early.",
+      "She runs every morning.",
+      "They will arrive tomorrow.",
+      "Open the door."
+    ],
+    "options_ta": [
+      "நான் அவர் முந்தையா சென்றார் என்று அறிவேன்.",
+      "அவள் ஒவ்வொரு காலை ஓடுகிறாள்.",
+      "அவர்கள் நாளை வரும்.",
+      "தவளை திற."
+    ],
+    "answer_en": "I know that he left early.",
+    "answer_ta": "நான் அவர் முந்தையா சென்றார் என்று அறிவேன்."
+  },
+  {
+    "question_en": "In 'The Envious Neighbour', the ashes of the broken mortar had different effects. Which literary device is used when ashes revive trees for the good man but blind the prince when used by the greedy neighbour?",
+    "question_ta": "'The Envious Neighbour' கதையில் உடைந்த மோர்டார் சினிமாவின் தூள் நல்ல மனிதரிடம் மரங்களை மீட்டும், பொறாமையான அயலவர் பயன்படுத்தும்போது ராஜாவை குருட்டாக்குகிறது. இது எந்த இலக்கிய கருவியைப் பயன்படுத்துகிறது?",
+    "options_en": [
+      "Irony / Moral contrast",
+      "Alliteration",
+      "Metaphor only",
+      "Hyperbole"
+    ],
+    "options_ta": [
+      "எதிரான விளைவுகள் மற்றும் நாகரிக கருத்து",
+      "ஒலி ஒத்திசைவு",
+      "உவமை மட்டும்",
+      "அதிகப்படுத்தல்"
+    ],
+    "answer_en": "Irony / Moral contrast",
+    "answer_ta": "எதிரான விளைவுகள் / நெறிமுறை மாறுபாடு"
+  },
+  {
+    "question_en": "From Unit 3 (Drama): Which rescue strategy best demonstrates leadership under crisis?",
+    "question_ta": "Unit 3 (நாடகம்): அவசர நிலை சிக்கலின் போது தலைமைத்துவத்தை அடையாளப்படுத்தும் எந்த மீட்பு மூன்று சிறந்தது?",
+    "options_en": [
+      "Organising people, using available floatation and prioritising the injured",
+      "Running away alone",
+      "Hiding indoors",
+      "Waiting for help without action"
+    ],
+    "options_ta": [
+      "மக்களை ஒழுங்குபடுத்துதல், கிடைக்கும் வெடிப்பு உபகரணங்களைப் பயன்படுத்தல் மற்றும் காயமடைந்தவர்களுக்கு முன்னுரிமை தருதல்",
+      "தனியாக ஓடிச் செல்தல்",
+      "உள்ளே மறைக்க",
+      "ஏதாவது செய்யாமல் உதவிக்கு காத்திருத்தல்"
+    ],
+    "answer_en": "Organising people, using available floatation and prioritising the injured",
+    "answer_ta": "மக்களை ஒழுங்குபடுத்துதல் மற்றும் காயமடைந்தவர்களுக்கு முன்னுரிமை"
+  },
+  {
+    "question_en": "Which of the following is a correct example of a prepositional phrase from the book?",
+    "question_ta": "புத்தகத்தில் இருந்து கீழ்காணும் எந்தது சரியான prepositional phrase உதாரணம்?",
+    "options_en": [
+      "in spite of",
+      "run quickly",
+      "sing loudly",
+      "eat well"
+    ],
+    "options_ta": [
+      "in spite of",
+      "வேகமாக ஓடு",
+      "பெரிதாக பாடு",
+      "நன்கு சாப்பிடு"
+    ],
+    "answer_en": "in spite of",
+    "answer_ta": "in spite of"
+  },
+  {
+    "question_en": "From the unit on verbs: which is a semi-modal showing polite possibility?",
+    "question_ta": "வினைகளின் யூனிடில்: மரியாதையான சாத்தியதையைக் காட்டும் semi-modal எது?",
+    "options_en": [
+      "might",
+      "must",
+      "will",
+      "shall"
+    ],
+    "options_ta": [
+      "may",
+      "இல்லையேன்றால்",
+      "இருப்பார்",
+      "ஆல்"
+    ],
+    "answer_en": "might",
+    "answer_ta": "may/might"
+  },
+  {
+    "question_en": "Which story contains the line 'A blessing rests on the house where the shadow of a tree falls'?",
+    "question_ta": "'A blessing rests on the house where the shadow of a tree falls' என்ற வரி எந்தக் கதையில் உள்ளது?",
+    "options_en": [
+      "I Can't Climb Trees Anymore",
+      "Learning the Game",
+      "The Envious Neighbour",
+      "Old Man River"
+    ],
+    "options_ta": [
+      "I Can't Climb Trees Anymore",
+      "Learning the Game",
+      "The Envious Neighbour",
+      "Old Man River"
+    ],
+    "answer_en": "I Can't Climb Trees Anymore",
+    "answer_ta": "I Can't Climb Trees Anymore"
+  },
+  {
+    "question_en": "Which grammatical rule differentiates 'since' and 'for'?",
+    "question_ta": "'since' மற்றும் 'for' இடையிலான விதி வேறுபாடு என்ன?",
+    "options_en": [
+      "'since' = starting point; 'for' = duration",
+      "'since' = duration; 'for' = point",
+      "Both mean the same",
+      "'for' used only in past tense"
+    ],
+    "options_ta": [
+      "'since' = தொடக்க நேரம்; 'for' = காலம்",
+      "'since' = கால அளவு; 'for' = புள்ளி",
+      "இவ்விரண்டும் ஒரே பொருள்",
+      "'for' மட்டும் கடந்த காலம்"
+    ],
+    "answer_en": "'since' = starting point; 'for' = duration",
+    "answer_ta": "'since' = தொடக்க புள்ளி; 'for' = கால அவகாசம்"
+  },
+  {
+    "question_en": "In 'The Envious Neighbour', when the good man sprinkles ashes on a withered tree it blooms. Which concept does this episode illustrate?",
+    "question_ta": "'The Envious Neighbour' கதையில் நன்மனிதன் சிதைந்த மரத்தில் தூளை தெளித்து மலர்ச்சியை உருவாக்கும். இது எந்தக் கருத்தை காட்டுகிறது?",
+    "options_en": [
+      "Reward for kindness and moral justice",
+      "Scientific horticulture technique",
+      "Coincidence only",
+      "Economic theory"
+    ],
+    "options_ta": [
+      "நன்றி மற்றும் நீதியின் விருது",
+      "அறிவியல் தோட்டக்கலை",
+      "இல்லைவிடை",
+      "பொருளாதாரக் கொள்கை"
+    ],
+    "answer_en": "Reward for kindness and moral justice",
+    "answer_ta": "நன்முறையுக்கும் நீதிக்கும் விருது"
+  },
+  {
+    "question_en": "Which poetic form has the rhyme scheme 'aaba' for the first stanza as given in the textbook?",
+    "question_ta": "புத்தகத்தில் கொடுத்துள்ள முதல் பொருளின் 'aaba' என்ற தவறான திட்டம் எந்தக் கவிதை வடிவத்தில் இருக்கும்?",
+    "options_en": [
+      "Stopping by Woods on a Snowy Evening (stanza 1: aaba)",
+      "Leisure (stanza 1: abab)",
+      "A Poison Tree (no rhyme)",
+      "The River (free verse)"
+    ],
+    "options_ta": [
+      "Stopping by Woods on a Snowy Evening (aaba)",
+      "Leisure (abab)",
+      "A Poison Tree",
+      "The River"
+    ],
+    "answer_en": "Stopping by Woods on a Snowy Evening (stanza 1: aaba)",
+    "answer_ta": "Stopping by Woods on a Snowy Evening (aaba)"
+  },
+  {
+    "question_en": "Which sentence correctly shows 'degrees of comparison' for the adjective 'tall' (Positive, Comparative, Superlative)?",
+    "question_ta": "'tall' என்ற படிகத்தின் (Positive, Comparative, Superlative) மூன்று வடிவங்களைக் காட்டும் சரியான வாக்கியம் எது?",
+    "options_en": [
+      "tall, taller, tallest",
+      "tall, more tall, most tall",
+      "tallest, taller, tall",
+      "taller, tall, tallest"
+    ],
+    "options_ta": [
+      "tall, taller, tallest",
+      "tall, more tall, most tall",
+      "tallest, taller, tall",
+      "taller, tall, tallest"
+    ],
+    "answer_en": "tall, taller, tallest",
+    "answer_ta": "tall, taller, tallest"
+  },
+  {
+    "question_en": "From Unit 3 (Drama) vocabulary: which word best matches 'rescue operation led by a community leader'?",
+    "question_ta": "Unit 3 (நாடகம்) அகராதியில்: 'ஒரு சமூக தலைவரால் நடத்தப்பட்ட மீட்பு நடவடிக்கை' என்பதற்கு ஏற்ற சொல் எது?",
+    "options_en": [
+      "rescue",
+      "lavish",
+      "banquet",
+      "murmur"
+    ],
+    "options_ta": [
+      "மீட்பு",
+      "அழகு",
+      "விருந்து",
+      "தண்ணீர்"
+    ],
+    "answer_en": "rescue",
+    "answer_ta": "மீட்பு"
+  },
+  {
+    "question_en": "Which is the best explanation of 'apparent' vs 'actual' when interpreting character reactions in prose?",
+    "question_ta": "கதையானது பாத்திரம் பதில்களில் 'apparent' மற்றும் 'actual' என்பதைக் கண்டறிவதை மிகச் சிறந்த முறையில் விளக்குகிறது?",
+    "options_en": [
+      "Apparent = what seems; Actual = what truly is",
+      "Both are synonyms",
+      "Apparent = hidden; Actual = visible",
+      "Actual = imagined"
+    ],
+    "options_ta": [
+      "பார்ப்பதுதான் தோன்றியது; உண்மையானது உண்மையில் உள்ளது",
+      "இரண்டும் இணை பொருள்",
+      "Apparent = மறைந்தது; Actual = தெரியக்கூடியது",
+      "Actual = கற்பனை"
+    ],
+    "answer_en": "Apparent = what seems; Actual = what truly is",
+    "answer_ta": "Apparent = தோன்றியது; Actual = உண்மையில் உள்ளது"
+  },
+  {
+    "question_en": "In higher-order thinking, which question type assesses inference from a passage?",
+    "question_ta": "மேம்பட்ட சிந்தனையில் ஒரு பகுதியிலிருந்து எண்ணிக்கையை மதிப்பிடுவது எந்த கேள்வி வகை?",
+    "options_en": [
+      "Inferential question",
+      "Literal question",
+      "Spelling question",
+      "True/False only"
+    ],
+    "options_ta": [
+      "அவஸ்தை கேள்வி",
+      "எளிய கேள்வி",
+      "உயிரியல் கேள்வி",
+      "உண்மை/பொய் மட்டும்"
+    ],
+    "answer_en": "Inferential question",
+    "answer_ta": "Inference கேள்வி"
+  },
+  {
+    "question_en": "Which unit includes 'The Spider and the Fly' as the poem in the book?",
+    "question_ta": "நூலில் 'The Spider and the Fly' எந்த யூனிட் கவிதையாக உள்ளது?",
+    "options_en": [
+      "Unit 4",
+      "Unit 1",
+      "Unit 2",
+      "Unit 7"
+    ],
+    "options_ta": [
+      "Unit 4",
+      "Unit 1",
+      "Unit 2",
+      "Unit 7"
+    ],
+    "answer_en": "Unit 4",
+    "answer_ta": "Unit 4"
+  },
+  {
+    "question_en": "Which practice activity from the book best helps build vocabulary through usage?",
+    "question_ta": "புத்தகத்தின் எந்த பயிற்சி செயல்பாடு பயன்பாட்டின் மூலம் சொற்களை உருவாக்க அதிக உதவுகிறது?",
+    "options_en": [
+      "Matching synonyms/antonyms and using words in sentences",
+      "Skipping reading",
+      "Memorizing only translations",
+      "Copying the glossary without use"
+    ],
+    "options_ta": [
+      "சமமான/எதிர் சொற்களை பொருத்தி வாக்கியங்களில் பயன்படுத்து",
+      "படிப்பதை தவிர்க்க",
+      "மவர்புணர்ச்சி மட்டும்",
+      "அகராதியை நகலெடுக்கும்"
+    ],
+    "answer_en": "Matching synonyms/antonyms and using words in sentences",
+    "answer_ta": "சமமான/எதிர் சொற்களை பொருத்தி வாக்கியங்களில் பயன்படுத்து"
+  },
+  {
+    "question_en": "From the listening passage notes: what is presented as an important value learned from family?",
+    "question_ta": "கேட்பிப்பு பகுதி குறிப்புகளில்: குடும்பத்திலிருந்து கற்றுக்கொள்ளப்படும் முக்கிய மதிப்பு எது?",
+    "options_en": [
+      "Trust and support",
+      "Only material wealth",
+      "Isolation",
+      "Competition"
+    ],
+    "options_ta": [
+      "நம்பிக்கை மற்றும் ஆதரவு",
+      "பொருளாதார செல்வம் மட்டும்",
+      "தனிமை",
+      "போட்டி"
+    ],
+    "answer_en": "Trust and support",
+    "answer_ta": "நம்பிக்கை மற்றும் ஆதரவு"
+  },
+  {
+    "question_en": "Which complex verb structure shows obligation (example from modals notes)?",
+    "question_ta": "எந்த சிக்கலான வினை வடிவம் கடமையை காட்டுகிறது (modal குறிப்புகளிலிருந்து உதாரணம்)?",
+    "options_en": [
+      "must",
+      "may",
+      "might",
+      "can"
+    ],
+    "options_ta": [
+      "கட்டாயம் (must)",
+      "இறுதியாக",
+      "சாத்தியம் (might)",
+      "சாத்தியம் (can)"
+    ],
+    "answer_en": "must",
+    "answer_ta": "must"
+  },
+  {
+    "question_en": "Which textual skill is promoted by 'Think and Answer' questions in the book?",
+    "question_ta": "புத்தகத்தில் 'Think and Answer' கேள்விகள் எந்த எழுத்துவிற்றுவுறையை ஊக்குவிக்கின்றன?",
+    "options_en": [
+      "Higher-order thinking (analysis, evaluation)",
+      "Only memorization",
+      "Handwriting practice",
+      "Math calculations"
+    ],
+    "options_ta": [
+      "மேம்பட்ட சிந்தனை (பகுப்பு, மதிப்பீடு)",
+      "மெமோரீஸ் மட்டும்",
+      "எழுத்துப்பயிற்சி",
+      "கணக்குகள்"
+    ],
+    "answer_en": "Higher-order thinking (analysis, evaluation)",
+    "answer_ta": "மேம்பட்ட சிந்தனை (பகுப்பும் மதிப்பீடும்)"
+  },
+  {
+    "question_en": "From Unit 6 (From Zero to Infinity): Which mathematician is the biography about?",
+    "question_ta": "Unit 6 (From Zero to Infinity): எந்த கணிதவியலாளர் பற்றிப் பதிவு?",
+    "options_en": [
+      "Srinivasa Ramanujan",
+      "Albert Einstein",
+      "Isaac Newton",
+      "Brahmagupta"
+    ],
+    "options_ta": [
+      "ஸ்ரீனிவாச இராமானுஜன்",
+      "ஆல்பர்ட் ஐன்ஸ்டீன்",
+      "ஐசக் நியூட்டன்",
+      "பிரஃகமுக்ட"
+    ],
+    "answer_en": "Srinivasa Ramanujan",
+    "answer_ta": "ஸ்ரீனிவாச இராமானுஜன்"
+  },
+  {
+    "question_en": "Which item from the book's ICT Corner is recommended for practicing grammar and spelling?",
+    "question_ta": "புத்தகத்தின் ICT Corner இல் எந்த பயன்பாடு இலக்கணமும் எழுத்துப்பிழை சரிசெய்தல் பயிற்சிக்க பரிந்துரைக்கப்படுகிறது?",
+    "options_en": [
+      "Johnny Grammar's Word Challenge",
+      "YouTube videos only",
+      "Math practice app",
+      "History archives"
+    ],
+    "options_ta": [
+      "Johnny Grammar's Word Challenge",
+      "YouTube வீடியோக்கள்",
+      "கணிதப் பயிற்சி செயலி",
+      "வரலாறு ஆவணங்கள்"
+    ],
+    "answer_en": "Johnny Grammar's Word Challenge",
+    "answer_ta": "Johnny Grammar's Word Challenge"
+  },
+  {
+    "question_en": "Which of the following is a correct analysis question for a passage's tone?",
+    "question_ta": "ஒரு பதிவு தொனியைப் பற்றி சரியான பகுப்பாய்வு கேள்வி எது?",
+    "options_en": [
+      "What mood does the passage create and which words build that mood?",
+      "How many paragraphs are there?",
+      "What is the page number?",
+      "How long is the author?"
+    ],
+    "options_ta": [
+      "பகுதி எந்த மனநிலையை உருவாக்குகிறது மற்றும் அந்த மனநிலையை எந்த சொற்கள் உருவாக்குகின்றன?",
+      "எத்தனை பகுதி உள்ளன?",
+      "பக்க எண் என்ன?",
+      "ஆசிரியர் எவ்வளவு நீளம்?"
+    ],
+    "answer_en": "What mood does the passage create and which words build that mood?",
+    "answer_ta": "பகுதி எது மனநிலையை உருவாக்குகிறது மற்றும் அவ்வொருங்க சொற்கள் யாவை"
+  },
+  {
+    "question_en": "Which lesson discusses the value of water as 'The Elixir of Life'?",
+    "question_ta": "எந்த பாடம் 'The Elixir of Life' என நீரின் மதிப்பை விவரிக்கிறது?",
+    "options_en": [
+      "Unit 5",
+      "Unit 1",
+      "Unit 4",
+      "Unit 7"
+    ],
+    "options_ta": [
+      "Unit 5",
+      "Unit 1",
+      "Unit 4",
+      "Unit 7"
+    ],
+    "answer_en": "Unit 5",
+    "answer_ta": "Unit 5"
+  },
+  {
+    "question_en": "From rhetorical devices: which device uses 'watch his woods fill up with snow' to appeal to senses?",
+    "question_ta": "வாக்கியத்தை 'watch his woods fill up with snow' போன்றது உணர்ச்சிகளைச் சுட்டி பயன்படுத்தும் கருவி எது?",
+    "options_en": [
+      "Sensory imagery",
+      "Alliteration",
+      "Personification",
+      "Pun"
+    ],
+    "options_ta": [
+      "உணர்ச்சி காட்சி",
+      "ஒலி ஒத்திசைவு",
+      "பயனேற்படுத்தல்",
+      "கேலி"
+    ],
+    "answer_en": "Sensory imagery",
+    "answer_ta": "உணர்ச்சி காட்சி"
+  },
+  {
+    "question_en": "Which assessment task in the book best evaluates speaking skill?",
+    "question_ta": "புத்தகத்தில் எந்த மதிப்பீட்டு பணியில் பேச்சுத் திறனை சிறந்த முறையில் மதிப்பீடு செய்ய முடியும்?",
+    "options_en": [
+      "Just a minute (group speaking activity)",
+      "Multiple choice quiz",
+      "Copying text",
+      "Silent reading"
+    ],
+    "options_ta": [
+      "Just a minute (குரூப் பேச்சு)",
+      "MCQ",
+      "பதத்தை நகல்",
+      "மௌன வாசிப்பு"
+    ],
+    "answer_en": "Just a minute (group speaking activity)",
+    "answer_ta": "Just a minute (குரூப் பேச்சு)"
+  },
+  {
+    "question_en": "In 'I Can't Climb Trees Anymore', the visitor says 'It wasn’t the Cross I came for. It was my youth.' What critical literary theme is represented here?",
+    "question_ta": "'I Can't Climb Trees Anymore'ல் பயணியன் 'It wasn’t the Cross I came for. It was my youth.' என்றபோது எந்த இலக்கிய தீம் வெளிப்படுகிறது?",
+    "options_en": [
+      "Nostalgia and reclaiming lost youth",
+      "Materialism",
+      "Revenge",
+      "Conflict only"
+    ],
+    "options_ta": [
+      "பழையநினைவுகள் மற்றும் இளம் நாட்களை மீட்குதல்",
+      "பொருளாதாரம்",
+      "புகழ்",
+      "சண்டை மட்டும்"
+    ],
+    "answer_en": "Nostalgia and reclaiming lost youth",
+    "answer_ta": "பழையநினைவுகள் மற்றும் இளம் நாட்களை மீட்குதல்"
+  },
+  {
+    "question_en": "Which advanced grammar concept helps form sentences like 'Whether he attends the party or not, I have decided to go'?",
+    "question_ta": "'Whether he attends the party or not, I have decided to go' போன்ற வாக்கியங்களை உருவாக்க எந்த மேம்பட்ட இலக்கணக் கருத்து உதவுகிறது?",
+    "options_en": [
+      "Subordinate clause (concessive clause)",
+      "Relative clause only",
+      "Simple sentence",
+      "Exclamatory clause"
+    ],
+    "options_ta": [
+      "துணை வாக்கியம் (concessive)",
+      "ஒற்றை தொடர்பு என்ன",
+      "எளிய வாக்கியம்",
+      "உத்வேக கூற்று"
+    ],
+    "answer_en": "Subordinate clause (concessive clause)",
+    "answer_ta": "துணை வாக்கியம் (concessive)"
+  },
+  {
+    "question_en": "Which technique from Unit 3 helps students learn non-finite verbs most effectively?",
+    "question_ta": "Unit 3 இல் non-finite verbs கற்பது எந்த பயிற்சி செயல்திறன் மூலம் சிறந்தது?",
+    "options_en": [
+      "Identifying gerunds, infinitives and participles in sample sentences and transforming them",
+      "Only reading aloud",
+      "Listening without practice",
+      "Ignoring verbs"
+    ],
+    "options_ta": [
+      "உதாரண வாக்கியங்களில் gerunds, infinitives மற்றும் participles கண்டறிந்து மாற்றுதல்",
+      "வெறும் வாசிப்பு",
+      "பயிற்சி இல்லாமல் கேட்கல்",
+      "வினைகளைப் புறக்கணித்தல்"
+    ],
+    "answer_en": "Identifying gerunds, infinitives and participles in sample sentences and transforming them",
+    "answer_ta": "gerunds, infinitives மற்றும் participles ஐ அடையாளம் காண்தல் மற்றும் மாற்றுதல்"
+  },
+  {
+    "question_en": "From Unit 1 vocabulary matching: which word pairs as synonym with 'immense'?",
+    "question_ta": "Unit 1 சொற்கள் பொருத்தலில் 'immense' என்பதன் இணையான சொல் எது?",
+    "options_en": [
+      "great",
+      "small",
+      "little",
+      "tiny"
+    ],
+    "options_ta": [
+      "பெரியது",
+      "சிறியது",
+      "சிறியது",
+      "சிறிய"
+    ],
+    "answer_en": "great",
+    "answer_ta": "பெரியது"
+  },
+  {
+    "question_en": "Which comprehension strategy asks students to 'quote sentences which inspire you'?",
+    "question_ta": "எந்த வாசிப்பு பயிற்சி மாணவர்களுக்கு 'உங்களை ஊக்குவிக்கும் வாக்கியங்களை மேற்கோள் செய்யுங்கள்' என்று கேட்கிறது?",
+    "options_en": [
+      "Textual appreciation and personal response",
+      "Grammar drilling",
+      "Vocabulary translation only",
+      "Spelling test"
+    ],
+    "options_ta": [
+      "உரை பாராட்டுதல் மற்றும் தனிப்பட்ட பதில்",
+      "இலக்கண பயிற்சி",
+      "அறிவுசொற்கள் மொழி மாற்றம்",
+      "எழுத்து பரீட்சை"
+    ],
+    "answer_en": "Textual appreciation and personal response",
+    "answer_ta": "உரை பாராட்டல் மற்றும் தனிப்பட்ட பதில்"
+  },
+  {
+    "question_en": "From the Supplementary list, which story is science-fiction about education in the future?",
+    "question_ta": "Supplementary பட்டியலில் எதிர்கால கல்வி பற்றி அறிவியல்-கற்பனை கதை எது?",
+    "options_en": [
+      "The Fun They Had (Isaac Asimov)",
+      "The Envious Neighbour",
+      "Earthquake",
+      "The Cat and the Pain-killer"
+    ],
+    "options_ta": [
+      "The Fun They Had (Isaac Asimov)",
+      "The Envious Neighbour",
+      "Earthquake",
+      "The Cat and the Pain-killer"
+    ],
+    "answer_en": "The Fun They Had (Isaac Asimov)",
+    "answer_ta": "The Fun They Had (Isaac Asimov)"
+  },
+  {
+    "question_en": "Which practice in the book trains students in 'writing a newspaper article'?",
+    "question_ta": "புத்தகத்தில் மாணவர்கள் 'ஒரு செய்தித்தாள் கட்டுரை' எழுத பயிற்றப்படுவது எந்தப் பயிற்சி?",
+    "options_en": [
+      "Creative Writing task comparing two sportswomen",
+      "Grammar exercise",
+      "Word matching",
+      "Silent reading"
+    ],
+    "options_ta": [
+      "இரு விளையாட்டு வீரிகளை ஒப்பிட்டு செய்தித்தாள் கட்டுரை",
+      "இலக்கண பயிற்சி",
+      "சொல் பொருத்தம்",
+      "மௌன வாசிப்பு"
+    ],
+    "answer_en": "Creative Writing task comparing two sportswomen",
+    "answer_ta": "இரு விளையாட்டு வீரிகளை ஒப்பிடும் உருவக எழுத்து"
+  },
+  {
+    "question_en": "Which advanced vocabulary word from Unit 1 refers to 'the ability to anticipate and plan for the future'?",
+    "question_ta": "Unit 1 இல் 'எதிர்காலத்தைக் கணித்து திட்டமிடும் திறன்' என்பதைக் குறிக்கும் சொல் எது?",
+    "options_en": [
+      "farsightedness",
+      "embarrassment",
+      "melee",
+      "kitbag"
+    ],
+    "options_ta": [
+      "தூரா பார்வை",
+      "வெட்கம்",
+      "குழக்கு",
+      "கிட்பேக்"
+    ],
+    "answer_en": "farsightedness",
+    "answer_ta": "தூரா பார்வை"
+  },
+  {
+    "question_en": "From the grammar section, which is a correct example of a prepositional verb used in a sentence?",
+    "question_ta": "இலக்கணப் பகுதி: ஒரு சரியான prepositional verb உதாரணம் வேறொரு வாக்கியத்தில் எது?",
+    "options_en": [
+      "I rely on my notes during exams.",
+      "I run on the field.",
+      "I eat on the table.",
+      "I write on a pen."
+    ],
+    "options_ta": [
+      "நான் பரீட்சைகளில் என் குறிப்புக்களில்頼ும்.",
+      "நான் களத்தில் ஓடுகிறேன்.",
+      "நான் மேசையில் சாப்பிடுகிறேன்.",
+      "நான் ஒரு பேனில் எழுதுகிறேன்."
+    ],
+    "answer_en": "I rely on my notes during exams.",
+    "answer_ta": "நான் பரீட்சைகளில் என் குறிப்புகளில் நம்புகிறேன்."
+  },
+  {
+    "question_en": "Which lesson's supplementary text tells the story of a grizzly cub?",
+    "question_ta": "எந்த பாடத்தின் துணை உரை ஒரு கிரிச்லி குட்டியின் கதை சொல்கிறது?",
+    "options_en": [
+      "Unit 5 (Little Cyclone: The Story of a Grizzly Cub)",
+      "Unit 1",
+      "Unit 2",
+      "Unit 4"
+    ],
+    "options_ta": [
+      "Unit 5 (Little Cyclone)",
+      "Unit 1",
+      "Unit 2",
+      "Unit 4"
+    ],
+    "answer_en": "Unit 5 (Little Cyclone: The Story of a Grizzly Cub)",
+    "answer_ta": "Unit 5 (Little Cyclone)"
+  },
+  {
+    "question_en": "Which examination task would best assess 'inferential reading' (book's recommended method)?",
+    "question_ta": "'Inference reading' ஐ பரீட்சை செய்ய எந்த பணியைப் பயன்படுத்துவது சிறந்தது?",
+    "options_en": [
+      "Ask students to infer character motives and cite lines as evidence",
+      "Ask for synonyms only",
+      "Ask for page numbers",
+      "Ask for spelling lists"
+    ],
+    "options_ta": [
+      "பாத்திரத்தின் காரணங்களை அனுமானிக் குறிப்புகளை தொகுக்கவும்",
+      "சமமான சொற்களை sahaja",
+      "பக்க எண்களை கேளுங்கள்",
+      "எழுத்துப்பட்டியல் கேளுங்கள்"
+    ],
+    "answer_en": "Ask students to infer character motives and cite lines as evidence",
+    "answer_ta": "பாத்திரத் தூண்டுதல்களை அனுமானித்து ஆதாரமாக வரிகளை மேற்கோள்"
+  },
+  {
+    "question_en": "Which advanced reading skill is practiced by 'Think and Answer' that asks for evaluation of choices?",
+    "question_ta": "'Think and Answer' மூலம் தேர்வு செய்யப்படும் மேம்பட்ட வாசிப்பு திறன் எது?",
+    "options_en": [
+      "Critical evaluation",
+      "Spelling recall",
+      "Handwriting neatness",
+      "Counting words"
+    ],
+    "options_ta": [
+      "பிரதிபலன மதிப்பீடு",
+      "எழுத்துப்பிழை நினைவூட்டல்",
+      "எழுத்துத்திறன்",
+      "சொற்கள் எண்ணிக்கை"
+    ],
+    "answer_en": "Critical evaluation",
+    "answer_ta": "ஆபராதமணி மதிப்பீடு"
+  }
+]

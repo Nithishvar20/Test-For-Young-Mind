@@ -1,0 +1,266 @@
+[
+  {
+    "question_en": "If |A| = 6 for a 3×3 matrix, then |adj(A)| = ?",
+    "question_ta": "ஒரு 3×3 அட்டவணைக்கு |A| = 6 என்றால், |adj(A)| = ?",
+    "options_en": ["36", "6", "216", "1296"],
+    "options_ta": ["36", "6", "216", "1296"],
+    "answer_en": "36",
+    "answer_ta": "36"
+  },
+  {
+    "question_en": "Elasticity of demand formula using calculus is?",
+    "question_ta": "கால்குலஸ் மூலம் தேவைச்செறிவு (Elasticity of demand) சூத்திரம் எது?",
+    "options_en": ["(dx/dy) × (y/x)", "(dy/dx) × (x/y)", "(dy/dx) × (y/x)", "(dx/dy) × (x/y)"],
+    "options_ta": ["(dx/dy) × (y/x)", "(dy/dx) × (x/y)", "(dy/dx) × (y/x)", "(dx/dy) × (x/y)"],
+    "answer_en": "(dy/dx) × (x/y)",
+    "answer_ta": "(dy/dx) × (x/y)"
+  },
+  {
+    "question_en": "If marginal cost (MC) = 2q, then total cost (TC) is?",
+    "question_ta": "எம்.சி (MC) = 2q என்றால், மொத்தச் செலவு (TC) எது?",
+    "options_en": ["q² + C", "2q² + C", "q + C", "2q + C"],
+    "options_ta": ["q² + C", "2q² + C", "q + C", "2q + C"],
+    "answer_en": "q² + C",
+    "answer_ta": "q² + C"
+  },
+  {
+    "question_en": "In simplex method, if all cj - zj ≥ 0, the solution is?",
+    "question_ta": "சிம்ப்ளெக்ஸ் முறையில், cj - zj ≥ 0 என்றால், தீர்வு எப்படிக் கருதப்படும்?",
+    "options_en": ["Unbounded", "Optimal", "Infeasible", "Degenerate"],
+    "options_ta": ["வரையறையற்றது", "சிறந்தது", "சாத்தியமற்றது", "சுருங்கியது"],
+    "answer_en": "Optimal",
+    "answer_ta": "சிறந்தது"
+  },
+  {
+    "question_en": "If X ~ B(n,p), variance is?",
+    "question_ta": "X ~ B(n,p) என்றால், விபரவு (Variance) எது?",
+    "options_en": ["np", "npq", "nq", "pq"],
+    "options_ta": ["np", "npq", "nq", "pq"],
+    "answer_en": "npq",
+    "answer_ta": "npq"
+  },
+  {
+    "question_en": "If a normal distribution has mean 50 and SD 10, P(40 < X < 60) ≈ ?",
+    "question_ta": "சாதாரண பகிர்வு சராசரி 50 மற்றும் SD = 10 என்றால், P(40 < X < 60) மதிப்பு சுமார் எவ்வளவு?",
+    "options_en": ["0.68", "0.95", "0.34", "0.50"],
+    "options_ta": ["0.68", "0.95", "0.34", "0.50"],
+    "answer_en": "0.68",
+    "answer_ta": "0.68"
+  },
+  {
+    "question_en": "Chi-square test statistic formula is?",
+    "question_ta": "கை-ஸ்கொயர் சோதனைச் சூத்திரம் எது?",
+    "options_en": ["Σ(O-E)/E", "Σ(O-E)²/E", "Σ(O+E)/E", "Σ(O/E)"],
+    "options_ta": ["Σ(O-E)/E", "Σ(O-E)²/E", "Σ(O+E)/E", "Σ(O/E)"],
+    "answer_en": "Σ(O-E)²/E",
+    "answer_ta": "Σ(O-E)²/E"
+  },
+  {
+    "question_en": "In ANOVA, F = ?",
+    "question_ta": "ANOVA-வில் F = ?",
+    "options_en": ["MSB/MSW", "MSW/MSB", "SST/SSR", "SSR/SST"],
+    "options_ta": ["MSB/MSW", "MSW/MSB", "SST/SSR", "SSR/SST"],
+    "answer_en": "MSB/MSW",
+    "answer_ta": "MSB/MSW"
+  },
+  {
+    "question_en": "In transportation problem, degeneracy occurs when?",
+    "question_ta": "போக்குவரத்து பிரச்சனையில், சுருக்கம் (degeneracy) எப்போது ஏற்படும்?",
+    "options_en": ["Allocated cells = m+n-1", "Allocated cells < m+n-1", "Allocated cells > m+n-1", "Always"],
+    "options_ta": ["ஒதுக்கப்பட்ட செல்கள் = m+n-1", "ஒதுக்கப்பட்ட செல்கள் < m+n-1", "ஒதுக்கப்பட்ட செல்கள் > m+n-1", "எப்போதும்"],
+    "answer_en": "Allocated cells < m+n-1",
+    "answer_ta": "ஒதுக்கப்பட்ட செல்கள் < m+n-1"
+  },
+  {
+    "question_en": "Hungarian method is applied to?",
+    "question_ta": "ஹங்கேரியன் முறை எதற்கு பயன்படுத்தப்படுகிறது?",
+    "options_en": ["Transportation problem", "Assignment problem", "Game theory", "Decision tree"],
+    "options_ta": ["போக்குவரத்து பிரச்சனை", "ஒதுக்கீட்டு பிரச்சனை", "விளையாட்டு கோட்பாடு", "முடிவு மரம்"],
+    "answer_en": "Assignment problem",
+    "answer_ta": "ஒதுக்கீட்டு பிரச்சனை"
+  },
+  {
+    "question_en": "In game theory, maximin strategy is used by?",
+    "question_ta": "விளையாட்டு கோட்பாட்டில், மேக்ஸிமின் (maximin) மூலோபாயம் யாரால் பயன்படுத்தப்படுகிறது?",
+    "options_en": ["Player A", "Player B", "Both", "None"],
+    "options_ta": ["விளையாட்டு வீரர் A", "விளையாட்டு வீரர் B", "இருவரும்", "யாருமில்லை"],
+    "answer_en": "Player A",
+    "answer_ta": "விளையாட்டு வீரர் A"
+  },
+  {
+    "question_en": "If two regression lines are perpendicular, correlation is?",
+    "question_ta": "இரண்டு திரும்பப்பெறும் கோடுகள் செங்குத்தாக இருந்தால், தொடர்புக் குணகம் எவ்வளவு?",
+    "options_en": ["0", "1", "-1", "Undefined"],
+    "options_ta": ["0", "1", "-1", "வரையறுக்கப்படவில்லை"],
+    "answer_en": "0",
+    "answer_ta": "0"
+  },
+  {
+    "question_en": "If |A| = 0, then matrix A is?",
+    "question_ta": "|A| = 0 என்றால், அட்டவணை A எப்படிக் கருதப்படும்?",
+    "options_en": ["Singular", "Non-singular", "Identity", "Diagonal"],
+    "options_ta": ["ஒற்றை (Singular)", "ஒற்றையல்லாதது", "அடையாளம்", "கோண வடிவம்"],
+    "answer_en": "Singular",
+    "answer_ta": "ஒற்றை (Singular)"
+  },
+  {
+    "question_en": "If marginal revenue MR = 20 - 4q, maximum revenue occurs at q = ?",
+    "question_ta": "MR = 20 - 4q என்றால், அதிகபட்ச வருவாய் எப்போது (q = ?) ஏற்படும்?",
+    "options_en": ["2", "3", "4", "5"],
+    "options_ta": ["2", "3", "4", "5"],
+    "answer_en": "2.5",
+    "answer_ta": "2.5"
+  },
+  {
+    "question_en": "Dual of a linear programming problem provides?",
+    "question_ta": "ஒரு நேர்மையான நிரலாக்க பிரச்சனையின் டூயல் எதை அளிக்கிறது?",
+    "options_en": ["Alternative solution", "Shadow prices", "Feasibility only", "Nothing"],
+    "options_ta": ["மாற்றுத் தீர்வு", "நிழல் விலைகள்", "சாத்தியமற்றது மட்டும்", "ஒன்றுமில்லை"],
+    "answer_en": "Shadow prices",
+    "answer_ta": "நிழல் விலைகள்"
+  },
+  {
+    "question_en": "If X ~ N(μ,σ²), standardization gives?",
+    "question_ta": "X ~ N(μ,σ²) என்றால், நிலைநிறுத்தம் (standardization) எதைக் கொடுக்கும்?",
+    "options_en": ["N(0,1)", "N(μ,1)", "N(0,σ²)", "N(1,1)"],
+    "options_ta": ["N(0,1)", "N(μ,1)", "N(0,σ²)", "N(1,1)"],
+    "answer_en": "N(0,1)",
+    "answer_ta": "N(0,1)"
+  },
+  {
+    "question_en": "If p-value < α, hypothesis test result is?",
+    "question_ta": "p-value < α என்றால், கருதுகோள் சோதனையின் முடிவு எது?",
+    "options_en": ["Reject H0", "Accept H0", "Accept H1", "Reject H1"],
+    "options_ta": ["H0 நிராகரிக்கப்படும்", "H0 ஏற்கப்படும்", "H1 ஏற்கப்படும்", "H1 நிராகரிக்கப்படும்"],
+    "answer_en": "Reject H0",
+    "answer_ta": "H0 நிராகரிக்கப்படும்"
+  },
+  {
+    "question_en": "In F-test, numerator variance must be?",
+    "question_ta": "F-சோதனையில், எண் (numerator) விபரவு எப்படியிருக்க வேண்டும்?",
+    "options_en": ["Smaller", "Larger", "Equal", "Zero"],
+    "options_ta": ["சிறியது", "பெரியது", "சமமானது", "பூஜ்ஜியம்"],
+    "answer_en": "Larger",
+    "answer_ta": "பெரியது"
+  },
+  {
+    "question_en": "If 5 jobs are assigned to 5 machines, Hungarian method matrix size is?",
+    "question_ta": "5 வேலைகளை 5 இயந்திரங்களுக்கு ஒதுக்கினால், ஹங்கேரியன் முறையின் அட்டவணை அளவு எவ்வளவு?",
+    "options_en": ["3×3", "4×4", "5×5", "6×6"],
+    "options_ta": ["3×3", "4×4", "5×5", "6×6"],
+    "answer_en": "5×5",
+    "answer_ta": "5×5"
+  },
+  {
+    "question_en": "In transportation, Vogel’s approximation method is used to?",
+    "question_ta": "போக்குவரத்தில், வோஜெல் அணுகுமுறை (VAM) எதற்குப் பயன்படுகிறது?",
+    "options_en": ["Find optimal solution", "Find initial solution", "Check degeneracy", "Check feasibility"],
+    "options_ta": ["சிறந்த தீர்வை காண", "ஆரம்பத் தீர்வை காண", "சுருக்கம் சரிபார்க்க", "சாத்தியத்தை சரிபார்க்க"],
+    "answer_en": "Find initial solution",
+    "answer_ta": "ஆரம்பத் தீர்வை காண"
+  },
+  {
+    "question_en": "In game theory, saddle point gives?",
+    "question_ta": "விளையாட்டு கோட்பாட்டில், சாடில் பாயிண்ட் (saddle point) எதை அளிக்கிறது?",
+    "options_en": ["Optimal value of game", "Unbounded value", "Random payoff", "Invalid solution"],
+    "options_ta": ["விளையாட்டின் சிறந்த மதிப்பு", "வரையறையற்ற மதிப்பு", "சீரற்ற பெறுமதி", "செல்லாத தீர்வு"],
+    "answer_en": "Optimal value of game",
+    "answer_ta": "விளையாட்டின் சிறந்த மதிப்பு"
+  },
+  {
+    "question_en": "The degrees of freedom in χ² test with n classes is?",
+    "question_ta": "n வகைகளுடன் χ² சோதனையில் சுதந்திரக் கட்டங்கள் (df) எவ்வளவு?",
+    "options_en": ["n", "n-1", "n+1", "2n"],
+    "options_ta": ["n", "n-1", "n+1", "2n"],
+    "answer_en": "n-1",
+    "answer_ta": "n-1"
+  },
+  {
+    "question_en": "If regression coefficients are bxy = 0.5 and byx = 0.4, correlation r = ?",
+    "question_ta": "திரும்பப்பெறும் குணக்கங்கள் bxy = 0.5 மற்றும் byx = 0.4 என்றால், தொடர்பு (r) எவ்வளவு?",
+    "options_en": ["0.2", "0.4", "0.447", "0.5"],
+    "options_ta": ["0.2", "0.4", "0.447", "0.5"],
+    "answer_en": "0.447",
+    "answer_ta": "0.447"
+  },
+  {
+    "question_en": "ANOVA is mainly used to compare?",
+    "question_ta": "ANOVA பெரும்பாலும் எதை ஒப்பிடப் பயன்படுத்தப்படுகிறது?",
+    "options_en": ["Two means", "More than two means", "Two variances", "Two proportions"],
+    "options_ta": ["இரண்டு சராசரிகள்", "இரண்டுக்கு மேற்பட்ட சராசரிகள்", "இரண்டு விபரவு", "இரண்டு விகிதங்கள்"],
+    "answer_en": "More than two means",
+    "answer_ta": "இரண்டுக்கு மேற்பட்ட சராசரிகள்"
+  },
+  {
+    "question_en": "If correlation r = 0, regression lines are?",
+    "question_ta": "r = 0 என்றால், திரும்பப்பெறும் கோடுகள் எப்படியிருக்கும்?",
+    "options_en": ["Coincide", "Parallel to axes", "Perpendicular", "Independent"],
+    "options_ta": ["ஒன்றாக வரும்", "அச்சுகளுக்கு இணையாக இருக்கும்", "செங்குத்தாக இருக்கும்", "சுயாதீனமாக இருக்கும்"],
+    "answer_en": "Perpendicular",
+    "answer_ta": "செங்குத்தாக இருக்கும்"
+  },
+  {
+    "question_en": "If X ~ Poisson(λ), then P(X=0) = ?",
+    "question_ta": "X ~ Poisson(λ) என்றால், P(X=0) = ?",
+    "options_en": ["λ", "1/e^λ", "e^-λ", "0"],
+    "options_ta": ["λ", "1/e^λ", "e^-λ", "0"],
+    "answer_en": "e^-λ",
+    "answer_ta": "e^-λ"
+  },
+  {
+    "question_en": "Which method in transportation gives most accurate initial solution?",
+    "question_ta": "போக்குவரத்தில், மிகத் துல்லியமான ஆரம்பத் தீர்வை தரும் முறை எது?",
+    "options_en": ["Northwest corner", "Least cost", "Vogel’s method", "Simplex"],
+    "options_ta": ["வடமேற்கு மூலை", "குறைந்த செலவு", "வோஜெல் முறை", "சிம்ப்ளெக்ஸ்"],
+    "answer_en": "Vogel’s method",
+    "answer_ta": "வோஜெல் முறை"
+  },
+  {
+    "question_en": "If two regression coefficients are negative, correlation is?",
+    "question_ta": "இரண்டு திரும்பப்பெறும் குணக்கங்களும் எதிர்மையானால், தொடர்பு எப்படியிருக்கும்?",
+    "options_en": ["Positive", "Negative", "Zero", "Undefined"],
+    "options_ta": ["நேர்மையானது", "எதிர்மையானது", "பூஜ்ஜியம்", "வரையறுக்கப்படவில்லை"],
+    "answer_en": "Positive",
+    "answer_ta": "நேர்மையானது"
+  },
+  {
+    "question_en": "In hypothesis testing, power of a test = ?",
+    "question_ta": "கருதுகோள் சோதனையில், சோதனையின் சக்தி (power) எதற்கு சமம்?",
+    "options_en": ["1 - α", "1 - β", "α", "β"],
+    "options_ta": ["1 - α", "1 - β", "α", "β"],
+    "answer_en": "1 - β",
+    "answer_ta": "1 - β"
+  },
+  {
+    "question_en": "If demand equation is p = 100 - 2q, total revenue TR = ?",
+    "question_ta": "தேவைச் சமன்பாடு p = 100 - 2q என்றால், மொத்த வருவாய் (TR) எவ்வளவு?",
+    "options_en": ["100q - 2q²", "100q + 2q²", "2q² - 100q", "100 - 2q"],
+    "options_ta": ["100q - 2q²", "100q + 2q²", "2q² - 100q", "100 - 2q"],
+    "answer_en": "100q - 2q²",
+    "answer_ta": "100q - 2q²"
+  },
+  {
+    "question_en": "Game theory is mainly applied in?",
+    "question_ta": "விளையாட்டு கோட்பாடு பெரும்பாலும் எதற்குப் பயன்படுத்தப்படுகிறது?",
+    "options_en": ["Decision making under conflict", "Transportation", "Assignment", "Time series"],
+    "options_ta": ["மோதலில் முடிவெடுத்தல்", "போக்குவரத்து", "ஒதுக்கீடு", "நேர வரிசை"],
+    "answer_en": "Decision making under conflict",
+    "answer_ta": "மோதலில் முடிவெடுத்தல்"
+  },
+  {
+    "question_en": "If n=100, σ=10, standard error of mean is?",
+    "question_ta": "n=100, σ=10 என்றால், சராசரியின் ஸ்டாண்டர்ட் பிழை எவ்வளவு?",
+    "options_en": ["10", "1", "0.1", "100"],
+    "options_ta": ["10", "1", "0.1", "100"],
+    "answer_en": "1",
+    "answer_ta": "1"
+  },
+  {
+    "question_en": "If probability density function f(x) = 1/2 for 0<x<2, mean is?",
+    "question_ta": "சாத்தியத் அடர்த்தி f(x) = 1/2, 0<x<2 என்றால், சராசரி எவ்வளவு?",
+    "options_en": ["0.5", "1", "1.5", "2"],
+    "options_ta": ["0.5", "1", "1.5", "2"],
+    "answer_en": "1",
+    "answer_ta": "1"
+  }
+]

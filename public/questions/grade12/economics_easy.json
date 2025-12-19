@@ -1,0 +1,306 @@
+[
+  {
+    "question_en": "Economics is mainly concerned with?",
+    "question_ta": "பொருளாதாரம் பெரும்பாலும் எதைக் குறிக்கிறது?",
+    "options_en": ["Money", "Welfare", "Scarcity and choice", "Politics"],
+    "options_ta": ["பணம்", "நலன்", "பற்றாக்குறை மற்றும் தேர்வு", "அரசியல்"],
+    "answer_en": "Scarcity and choice",
+    "answer_ta": "பற்றாக்குறை மற்றும் தேர்வு"
+  },
+  {
+    "question_en": "Who is regarded as the father of economics?",
+    "question_ta": "பொருளாதாரத்தின் தந்தை என்று யாரை அழைக்கிறார்கள்?",
+    "options_en": ["Karl Marx", "Adam Smith", "Alfred Marshall", "Keynes"],
+    "options_ta": ["கார்ல் மார்க்ஸ்", "ஆடம் ஸ்மித்", "ஆல்பிரெட் மார்ஷல்", "கெய்ன்ஸ்"],
+    "answer_en": "Adam Smith",
+    "answer_ta": "ஆடம் ஸ்மித்"
+  },
+  {
+    "question_en": "Microeconomics deals with?",
+    "question_ta": "மைக்ரோ பொருளாதாரம் எதைக் கையாள்கிறது?",
+    "options_en": ["National income", "Price determination in individual markets", "Inflation", "Employment"],
+    "options_ta": ["தேசிய வருமானம்", "தனிப்பட்ட சந்தைகளில் விலை நிர்ணயம்", "பணவீக்கம்", "வேலைவாய்ப்பு"],
+    "answer_en": "Price determination in individual markets",
+    "answer_ta": "தனிப்பட்ட சந்தைகளில் விலை நிர்ணயம்"
+  },
+  {
+    "question_en": "Macro economics is the study of?",
+    "question_ta": "மேக்ரோ பொருளாதாரம் எதைக் குறிக்கிறது?",
+    "options_en": ["Individual behaviour", "Household choices", "Aggregate economic variables", "Single firm"],
+    "options_ta": ["தனிநபர் நடத்தை", "குடும்பத் தேர்வுகள்", "மொத்த பொருளாதார மாறிகள்", "ஒரே நிறுவனம்"],
+    "answer_en": "Aggregate economic variables",
+    "answer_ta": "மொத்த பொருளாதார மாறிகள்"
+  },
+  {
+    "question_en": "National income is the?",
+    "question_ta": "தேசிய வருமானம் என்பது?",
+    "options_en": ["Value of all final goods and services", "Value of intermediate goods", "Export value only", "Tax revenue"],
+    "options_ta": ["இறுதி பொருட்கள் மற்றும் சேவைகளின் மதிப்பு", "இடைநிலைப் பொருட்களின் மதிப்பு", "ஏற்றுமதி மதிப்பு மட்டும்", "வரி வருவாய்"],
+    "answer_en": "Value of all final goods and services",
+    "answer_ta": "இறுதி பொருட்கள் மற்றும் சேவைகளின் மதிப்பு"
+  },
+  {
+    "question_en": "Per capita income means?",
+    "question_ta": "தலைக்கு வருமானம் என்பதன் பொருள் என்ன?",
+    "options_en": ["Total national income", "Average income per person", "Household income", "Corporate profit"],
+    "options_ta": ["மொத்த தேசிய வருமானம்", "ஒருவருக்கு சராசரி வருமானம்", "குடும்ப வருமானம்", "நிறுவன லாபம்"],
+    "answer_en": "Average income per person",
+    "answer_ta": "ஒருவருக்கு சராசரி வருமானம்"
+  },
+  {
+    "question_en": "GDP at factor cost is also known as?",
+    "question_ta": "காரணி செலவில் உள்ள மொத்த உள்நாட்டு உற்பத்தி (GDP) மேலும் எவ்வாறு அழைக்கப்படுகிறது?",
+    "options_en": ["GNP", "NNP", "Value added", "National income"],
+    "options_ta": ["மொத்த தேசிய உற்பத்தி (GNP)", "நிகர தேசிய உற்பத்தி (NNP)", "மதிப்புக் கூட்டல்", "தேசிய வருமானம்"],
+    "answer_en": "Value added",
+    "answer_ta": "மதிப்புக் கூட்டல்"
+  },
+  {
+    "question_en": "Primary sector includes?",
+    "question_ta": "முதன்மைத் துறை (Primary sector) எதைச் சேர்த்துள்ளது?",
+    "options_en": ["Agriculture, forestry, fishing, mining", "Manufacturing", "Banking", "Transport"],
+    "options_ta": ["விவசாயம், வனவியல், மீன்பிடி, சுரங்கம்", "உற்பத்தி", "வங்கி", "போக்குவரத்து"],
+    "answer_en": "Agriculture, forestry, fishing, mining",
+    "answer_ta": "விவசாயம், வனவியல், மீன்பிடி, சுரங்கம்"
+  },
+  {
+    "question_en": "Which is the secondary sector?",
+    "question_ta": "இரண்டாம் நிலைத் துறை எது?",
+    "options_en": ["Farming", "Industries and factories", "Banking", "IT services"],
+    "options_ta": ["விவசாயம்", "தொழில்கள் மற்றும் தொழிற்சாலைகள்", "வங்கி", "ஐ.டி சேவைகள்"],
+    "answer_en": "Industries and factories",
+    "answer_ta": "தொழில்கள் மற்றும் தொழிற்சாலைகள்"
+  },
+  {
+    "question_en": "Tertiary sector is also known as?",
+    "question_ta": "மூன்றாம் நிலைத் துறை (Tertiary sector) மேலும் எவ்வாறு அழைக்கப்படுகிறது?",
+    "options_en": ["Service sector", "Industrial sector", "Primary sector", "Agricultural sector"],
+    "options_ta": ["சேவைத் துறை", "தொழில் துறை", "முதன்மைத் துறை", "விவசாயத் துறை"],
+    "answer_en": "Service sector",
+    "answer_ta": "சேவைத் துறை"
+  },
+  {
+    "question_en": "Which index measures inflation in India?",
+    "question_ta": "இந்தியாவில் பணவீக்கத்தை அளக்கும் குறியீடு எது?",
+    "options_en": ["Sensex", "WPI", "NIFTY", "Forex"],
+    "options_ta": ["சென்செக்ஸ்", "டபிள்யூபிஐ", "நிப்டி", "பாரெக்ஸ்"],
+    "answer_en": "WPI",
+    "answer_ta": "டபிள்யூபிஐ"
+  },
+  {
+    "question_en": "Deflation means?",
+    "question_ta": "டிஃபிளேஷன் என்பதன் பொருள் என்ன?",
+    "options_en": ["Rise in prices", "Fall in prices", "No change in prices", "Only food price rise"],
+    "options_ta": ["விலை உயர்வு", "விலை குறைவு", "விலை மாற்றமின்மை", "உணவு விலை உயர்வு மட்டும்"],
+    "answer_en": "Fall in prices",
+    "answer_ta": "விலை குறைவு"
+  },
+  {
+    "question_en": "Demand curve normally slopes?",
+    "question_ta": "தேவை வளைவு பொதுவாக எந்த திசையில் சாய்ந்திருக்கும்?",
+    "options_en": ["Upward", "Downward", "Horizontal", "Vertical"],
+    "options_ta": ["மேலே", "கீழே", "கிடைமட்டம்", "செங்குத்து"],
+    "answer_en": "Downward",
+    "answer_ta": "கீழே"
+  },
+  {
+    "question_en": "Law of demand states?",
+    "question_ta": "தேவையின் சட்டம் எதை குறிப்பிடுகிறது?",
+    "options_en": ["Higher price, higher demand", "Lower price, lower demand", "Higher price, lower demand", "Price has no effect"],
+    "options_ta": ["உயர் விலை, அதிக தேவை", "குறைந்த விலை, குறைந்த தேவை", "உயர் விலை, குறைந்த தேவை", "விலை எந்த தாக்கமும் இல்லை"],
+    "answer_en": "Higher price, lower demand",
+    "answer_ta": "உயர் விலை, குறைந்த தேவை"
+  },
+  {
+    "question_en": "Elasticity of demand measures?",
+    "question_ta": "தேவையின் விலக்தன்மை எதை அளவிடுகிறது?",
+    "options_en": ["Change in demand due to income", "Change in demand due to price", "Change in demand due to supply", "Change in demand due to tax"],
+    "options_ta": ["வருமானத்தால் தேவையில் மாற்றம்", "விலையால் தேவையில் மாற்றம்", "வழங்குதலால் தேவையில் மாற்றம்", "வரியால் தேவையில் மாற்றம்"],
+    "answer_en": "Change in demand due to price",
+    "answer_ta": "விலையால் தேவையில் மாற்றம்"
+  },
+  {
+    "question_en": "Which is a determinant of demand?",
+    "question_ta": "தேவையின் தீர்மானிகளில் ஒன்று எது?",
+    "options_en": ["Supply", "Technology", "Income of consumer", "Tax policy"],
+    "options_ta": ["வழங்கல்", "தொழில்நுட்பம்", "நுகர்வோரின் வருமானம்", "வரி கொள்கை"],
+    "answer_en": "Income of consumer",
+    "answer_ta": "நுகர்வோரின் வருமானம்"
+  },
+  {
+    "question_en": "Supply curve usually slopes?",
+    "question_ta": "வழங்கல் வளைவு பொதுவாக எந்த திசையில் சாய்ந்திருக்கும்?",
+    "options_en": ["Downward", "Upward", "Horizontal", "Vertical"],
+    "options_ta": ["கீழே", "மேலே", "கிடைமட்டம்", "செங்குத்து"],
+    "answer_en": "Upward",
+    "answer_ta": "மேலே"
+  },
+  {
+    "question_en": "Law of supply states?",
+    "question_ta": "வழங்கல் சட்டம் எதை குறிப்பிடுகிறது?",
+    "options_en": ["Price ↑, supply ↑", "Price ↑, supply ↓", "No relation", "Depends on demand"],
+    "options_ta": ["விலை ↑, வழங்கல் ↑", "விலை ↑, வழங்கல் ↓", "தொடர்பு இல்லை", "தேவையைப் பொறுத்தது"],
+    "answer_en": "Price ↑, supply ↑",
+    "answer_ta": "விலை ↑, வழங்கல் ↑"
+  },
+  {
+    "question_en": "Equilibrium price is determined at?",
+    "question_ta": "சமநிலை விலை எங்கு நிர்ணயிக்கப்படுகிறது?",
+    "options_en": ["Where demand = supply", "Where demand > supply", "Where supply > demand", "Random point"],
+    "options_ta": ["தேவை = வழங்கல்", "தேவை > வழங்கல்", "வழங்கல் > தேவை", "சீரற்ற இடம்"],
+    "answer_en": "Where demand = supply",
+    "answer_ta": "தேவை = வழங்கல்"
+  },
+  {
+    "question_en": "Monopoly market has?",
+    "question_ta": "ஏகபோக்கு சந்தையில் எத்தனை விற்பனையாளர்கள் உள்ளனர்?",
+    "options_en": ["Many sellers", "One seller", "Few sellers", "Two sellers"],
+    "options_ta": ["பல விற்பனையாளர்கள்", "ஒரு விற்பனையாளர்", "சில விற்பனையாளர்கள்", "இரண்டு விற்பனையாளர்கள்"],
+    "answer_en": "One seller",
+    "answer_ta": "ஒரு விற்பனையாளர்"
+  },
+  {
+    "question_en": "Perfect competition has?",
+    "question_ta": "சரியான போட்டி சந்தையில் எத்தனை விற்பனையாளர்கள் உள்ளனர்?",
+    "options_en": ["One", "Few", "Many", "Two"],
+    "options_ta": ["ஒன்று", "சில", "பல", "இரண்டு"],
+    "answer_en": "Many",
+    "answer_ta": "பல"
+  },
+  {
+    "question_en": "Which market is called price maker?",
+    "question_ta": "விலை நிர்ணயிப்பவர் என்று அழைக்கப்படும் சந்தை எது?",
+    "options_en": ["Perfect competition", "Monopoly", "Oligopoly", "Monopolistic competition"],
+    "options_ta": ["சரியான போட்டி", "ஏகபோக்கு", "ஒலிகோபோலி", "ஏகபோக்கு போட்டி"],
+    "answer_en": "Monopoly",
+    "answer_ta": "ஏகபோக்கு"
+  },
+  {
+    "question_en": "Fiscal policy relates to?",
+    "question_ta": "நிதிக் கொள்கை எதைக் குறிக்கிறது?",
+    "options_en": ["Government revenue and expenditure", "Money supply", "Foreign exchange", "Banking system"],
+    "options_ta": ["அரசின் வருவாய் மற்றும் செலவு", "பண வழங்கல்", "வெளிநாட்டு நாணயம்", "வங்கி அமைப்பு"],
+    "answer_en": "Government revenue and expenditure",
+    "answer_ta": "அரசின் வருவாய் மற்றும் செலவு"
+  },
+  {
+    "question_en": "Monetary policy is framed by?",
+    "question_ta": "நாணயக் கொள்கை யாரால் உருவாக்கப்படுகிறது?",
+    "options_en": ["Government", "RBI", "SEBI", "World Bank"],
+    "options_ta": ["அரசு", "ஆர்பிஐ", "செபி", "உலக வங்கி"],
+    "answer_en": "RBI",
+    "answer_ta": "ஆர்பிஐ"
+  },
+  {
+    "question_en": "Repo rate is?",
+    "question_ta": "ரெப்போ விகிதம் என்பதன் பொருள் என்ன?",
+    "options_en": ["Rate at which RBI lends to banks", "Rate at which banks lend to RBI", "Rate of tax", "Inflation rate"],
+    "options_ta": ["ஆர்பிஐ வங்கிகளுக்கு கடன் வழங்கும் விகிதம்", "வங்கிகள் ஆர்பிஐக்கு கடன் வழங்கும் விகிதம்", "வரி விகிதம்", "பணவீக்க விகிதம்"],
+    "answer_en": "Rate at which RBI lends to banks",
+    "answer_ta": "ஆர்பிஐ வங்கிகளுக்கு கடன் வழங்கும் விகிதம்"
+  },
+  {
+    "question_en": "Reverse repo rate means?",
+    "question_ta": "ரிவர்ஸ் ரெப்போ விகிதம் என்பதன் பொருள்?",
+    "options_en": ["Rate at which RBI borrows from banks", "Rate at which banks borrow from RBI", "Rate of inflation", "Rate of excise duty"],
+    "options_ta": ["ஆர்பிஐ வங்கிகளிடமிருந்து கடன் பெறும் விகிதம்", "வங்கிகள் ஆர்பிஐயிடமிருந்து கடன் பெறும் விகிதம்", "பணவீக்க விகிதம்", "உற்பத்தி வரி விகிதம்"],
+    "answer_en": "Rate at which RBI borrows from banks",
+    "answer_ta": "ஆர்பிஐ வங்கிகளிடமிருந்து கடன் பெறும் விகிதம்"
+  },
+  {
+    "question_en": "Which tax is indirect?",
+    "question_ta": "மறைமுக வரி எது?",
+    "options_en": ["Income tax", "Wealth tax", "GST", "Corporation tax"],
+    "options_ta": ["வருமானவரி", "செல்வவரி", "ஜி.எஸ்.டி", "நிறுவனவரி"],
+    "answer_en": "GST",
+    "answer_ta": "ஜி.எஸ்.டி"
+  },
+  {
+    "question_en": "Which tax is direct?",
+    "question_ta": "நேரடி வரி எது?",
+    "options_en": ["Income tax", "GST", "Customs duty", "Excise duty"],
+    "options_ta": ["வருமானவரி", "ஜி.எஸ்.டி", "சுங்கவரி", "உற்பத்தி வரி"],
+    "answer_en": "Income tax",
+    "answer_ta": "வருமானவரி"
+  },
+  {
+    "question_en": "Budget is prepared by?",
+    "question_ta": "பட்ஜெட் யாரால் தயாரிக்கப்படுகிறது?",
+    "options_en": ["President", "Prime Minister", "Finance Minister", "Parliament"],
+    "options_ta": ["குடியரசுத் தலைவர்", "பிரதமர்", "நிதி அமைச்சர்", "பாராளுமன்றம்"],
+    "answer_en": "Finance Minister",
+    "answer_ta": "நிதி அமைச்சர்"
+  },
+  {
+    "question_en": "Balance of trade means?",
+    "question_ta": "வர்த்தகச் சமநிலை என்பதன் பொருள்?",
+    "options_en": ["Imports – Exports", "Exports – Imports", "Exports + Imports", "Only exports"],
+    "options_ta": ["இறக்குமதி – ஏற்றுமதி", "ஏற்றுமதி – இறக்குமதி", "ஏற்றுமதி + இறக்குமதி", "ஏற்றுமதி மட்டும்"],
+    "answer_en": "Exports – Imports",
+    "answer_ta": "ஏற்றுமதி – இறக்குமதி"
+  },
+  {
+    "question_en": "Foreign exchange rate means?",
+    "question_ta": "வெளிநாட்டு நாணய விகிதம் என்பதன் பொருள்?",
+    "options_en": ["Value of foreign currency in terms of domestic currency", "Value of exports", "Value of imports", "National income"],
+    "options_ta": ["உள்நாட்டு நாணயத்தின் அடிப்படையில் வெளிநாட்டு நாணயத்தின் மதிப்பு", "ஏற்றுமதி மதிப்பு", "இறக்குமதி மதிப்பு", "தேசிய வருமானம்"],
+    "answer_en": "Value of foreign currency in terms of domestic currency",
+    "answer_ta": "உள்நாட்டு நாணயத்தின் அடிப்படையில் வெளிநாட்டு நாணயத்தின் மதிப்பு"
+  },
+  {
+    "question_en": "Which organisation publishes Human Development Report?",
+    "question_ta": "மனித மேம்பாட்டு அறிக்கையை வெளியிடும் நிறுவனம் எது?",
+    "options_en": ["World Bank", "UNDP", "WTO", "IMF"],
+    "options_ta": ["உலக வங்கி", "ஐ.நா மேம்பாட்டு திட்டம்", "உலக வர்த்தக அமைப்பு", "சர்வதேச நாணய நிதியம்"],
+    "answer_en": "UNDP",
+    "answer_ta": "ஐ.நா மேம்பாட்டு திட்டம்"
+  },
+  {
+    "question_en": "HDI stands for?",
+    "question_ta": "HDI என்பதன் விரிவாக்கம்?",
+    "options_en": ["Human Development Index", "Human Demand Indicator", "High Development Indicator", "Human Data Index"],
+    "options_ta": ["மனித மேம்பாட்டு குறியீடு", "மனித தேவைக் குறியீடு", "உயர் மேம்பாட்டு குறியீடு", "மனித தரவு குறியீடு"],
+    "answer_en": "Human Development Index",
+    "answer_ta": "மனித மேம்பாட்டு குறியீடு"
+  },
+  {
+    "question_en": "Poverty line in India is measured based on?",
+    "question_ta": "இந்தியாவில் வறுமைக் கோடு எதின் அடிப்படையில் அளக்கப்படுகிறது?",
+    "options_en": ["Income", "Consumption expenditure", "Wealth", "Savings"],
+    "options_ta": ["வருமானம்", "நுகர்வு செலவு", "செல்வம்", "சேமிப்பு"],
+    "answer_en": "Consumption expenditure",
+    "answer_ta": "நுகர்வு செலவு"
+  },
+  {
+    "question_en": "Disguised unemployment is found in?",
+    "question_ta": "மறைமுக வேலைவாய்ப்பு எங்கு காணப்படுகிறது?",
+    "options_en": ["Agriculture", "Industries", "IT sector", "Banking"],
+    "options_ta": ["விவசாயம்", "தொழில்கள்", "ஐ.டி துறை", "வங்கி"],
+    "answer_en": "Agriculture",
+    "answer_ta": "விவசாயம்"
+  },
+  {
+    "question_en": "Which is an example of seasonal unemployment?",
+    "question_ta": "பருவகால வேலைவாய்ப்பின் உதாரணம் எது?",
+    "options_en": ["Agriculture", "Banking", "Software jobs", "Teaching"],
+    "options_ta": ["விவசாயம்", "வங்கி", "மென்பொருள் வேலைகள்", "படிப்ப تدریس"],
+    "answer_en": "Agriculture",
+    "answer_ta": "விவசாயம்"
+  },
+  {
+    "question_en": "India’s first five year plan focused on?",
+    "question_ta": "இந்தியாவின் முதல் ஐந்தாண்டு திட்டம் எதை மையமாகக் கொண்டது?",
+    "options_en": ["Agriculture", "Industries", "Transport", "IT sector"],
+    "options_ta": ["விவசாயம்", "தொழில்கள்", "போக்குவரத்து", "ஐ.டி துறை"],
+    "answer_en": "Agriculture",
+    "answer_ta": "விவசாயம்"
+  },
+  {
+    "question_en": "Planning Commission was set up in?",
+    "question_ta": "திட்ட ஆணையம் எப்போது அமைக்கப்பட்டது?",
+    "options_en": ["1947", "1950", "1952", "1960"],
+    "options_ta": ["1947", "1950", "1952", "1960"],
+    "answer_en": "1950",
+    "answer_ta": "1950"
+  }
+]

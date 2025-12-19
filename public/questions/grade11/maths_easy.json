@@ -1,0 +1,282 @@
+[
+  {
+    "question_en": "What is the cardinal number of the empty set?",
+    "question_ta": "காலிச் செட்டின் (∅) கார்டினல் எண் என்ன?",
+    "options_en": ["0", "1", "∞", "Not defined"],
+    "options_ta": ["0", "1", "∞", "வரையறுக்கப்படவில்லை"],
+    "answer_en": "0",
+    "answer_ta": "0"
+  },
+  {
+    "question_en": "If A = {1,2,3} and B = {a,b}, how many elements does A × B have?",
+    "question_ta": "A = {1,2,3}, B = {a,b} என்றால், A × B-வில் எத்தனை உறுப்புகள் உள்ளன?",
+    "options_en": ["3", "5", "6", "8"],
+    "options_ta": ["3", "5", "6", "8"],
+    "answer_en": "6",
+    "answer_ta": "6"
+  },
+  {
+    "question_en": "The identity function f(x) = x is an example of?",
+    "question_ta": "f(x) = x என்ற அடையாளச் செயல்பாடு எதற்கான உதாரணம்?",
+    "options_en": ["Constant function", "Linear function", "Polynomial of degree 2", "Exponential function"],
+    "options_ta": ["மாறாத செயல்பாடு", "நேரியல் செயல்பாடு", "2-ம் படி பல்லுறுப்பு", "வளைய செயல்பாடு"],
+    "answer_en": "Linear function",
+    "answer_ta": "நேரியல் செயல்பாடு"
+  },
+  {
+    "question_en": "sin²θ + cos²θ = ?",
+    "question_ta": "sin²θ + cos²θ = ?",
+    "options_en": ["0", "1", "2", "Depends on θ"],
+    "options_ta": ["0", "1", "2", "θ-இல் சார்ந்தது"],
+    "answer_en": "1",
+    "answer_ta": "1"
+  },
+  {
+    "question_en": "What is 0! (zero factorial)?",
+    "question_ta": "0! (பூஜ்ஜியப் பகுக்கல்) மதிப்பு என்ன?",
+    "options_en": ["0", "1", "Undefined", "∞"],
+    "options_ta": ["0", "1", "வரையறுக்கப்படவில்லை", "∞"],
+    "answer_en": "1",
+    "answer_ta": "1"
+  },
+  {
+    "question_en": "The sum of the first n natural numbers is?",
+    "question_ta": "முதல் n இயற்கை எண்களின் கூட்டுத்தொகை?",
+    "options_en": ["n²", "n(n+1)/2", "n(n−1)", "2n"],
+    "options_ta": ["n²", "n(n+1)/2", "n(n−1)", "2n"],
+    "answer_en": "n(n+1)/2",
+    "answer_ta": "n(n+1)/2"
+  },
+  {
+    "question_en": "The distance between (0,0) and (3,4) is?",
+    "question_ta": "(0,0) மற்றும் (3,4) இடையிலான தூரம் என்ன?",
+    "options_en": ["5", "7", "12", "25"],
+    "options_ta": ["5", "7", "12", "25"],
+    "answer_en": "5",
+    "answer_ta": "5"
+  },
+  {
+    "question_en": "If a matrix has the same number of rows and columns, it is called?",
+    "question_ta": "ஒரு மட்ரிக்சில் (matrix) வரிகளும் நெடுவரிகளும் சமமாக இருந்தால், அதைக் கூறுவது?",
+    "options_en": ["Row matrix", "Column matrix", "Square matrix", "Zero matrix"],
+    "options_ta": ["வரி மட்ரிக்ஸ்", "நெடுவரி மட்ரிக்ஸ்", "சதுர மட்ரிக்ஸ்", "பூஜ்ஜிய மட்ரிக்ஸ்"],
+    "answer_en": "Square matrix",
+    "answer_ta": "சதுர மட்ரிக்ஸ்"
+  },
+  {
+    "question_en": "Determinant of the identity matrix of order 3 is?",
+    "question_ta": "3×3 அடையாள மட்ரிக்ஸின் (Identity matrix) டிடர்மினண்ட் மதிப்பு என்ன?",
+    "options_en": ["0", "1", "3", "Not defined"],
+    "options_ta": ["0", "1", "3", "வரையறுக்கப்படவில்லை"],
+    "answer_en": "1",
+    "answer_ta": "1"
+  },
+  {
+    "question_en": "If A = (2,3,5), then mean of A is?",
+    "question_ta": "A = (2,3,5) என்றால், சராசரி (mean) மதிப்பு என்ன?",
+    "options_en": ["2", "3", "3.33", "5"],
+    "options_ta": ["2", "3", "3.33", "5"],
+    "answer_en": "3.33",
+    "answer_ta": "3.33"
+  },
+  {
+    "question_en": "tanθ = sinθ/cosθ is?",
+    "question_ta": "tanθ = sinθ/cosθ என்பது?",
+    "options_en": ["True", "False", "Depends on θ", "Undefined"],
+    "options_ta": ["உண்மை", "பொய்", "θ-இல் சார்ந்தது", "வரையறுக்கப்படவில்லை"],
+    "answer_en": "True",
+    "answer_ta": "உண்மை"
+  },
+  {
+    "question_en": "If n(A) = 10, n(B) = 15, then maximum elements in A ∩ B is?",
+    "question_ta": "n(A) = 10, n(B) = 15 என்றால், A ∩ B-யில் அதிகபட்ச உறுப்புகள் எத்தனை?",
+    "options_en": ["0", "10", "15", "25"],
+    "options_ta": ["0", "10", "15", "25"],
+    "answer_en": "10",
+    "answer_ta": "10"
+  },
+  {
+    "question_en": "The value of cos 0° is?",
+    "question_ta": "cos 0° மதிப்பு என்ன?",
+    "options_en": ["0", "1", "−1", "∞"],
+    "options_ta": ["0", "1", "−1", "∞"],
+    "answer_en": "1",
+    "answer_ta": "1"
+  },
+  {
+    "question_en": "The multiplicative identity of real numbers is?",
+    "question_ta": "உண்மை எண்களின் பெருக்கல் அடையாளம் எது?",
+    "options_en": ["0", "1", "−1", "∞"],
+    "options_ta": ["0", "1", "−1", "∞"],
+    "answer_en": "1",
+    "answer_ta": "1"
+  },
+  {
+    "question_en": "If a die is thrown once, probability of getting 3 is?",
+    "question_ta": "ஒரு சூதுகட்டை (die) ஒருமுறை வீசினால், 3 வருவதற்கான சாத்தியம்?",
+    "options_en": ["1/6", "1/3", "1/2", "1"],
+    "options_ta": ["1/6", "1/3", "1/2", "1"],
+    "answer_en": "1/6",
+    "answer_ta": "1/6"
+  },
+  {
+    "question_en": "The nth term of an Arithmetic Progression (AP) is?",
+    "question_ta": "அந்தரங்கத் தொடரின் (AP) n-வது உறுப்பு?",
+    "options_en": ["a + (n−1)d", "a × n", "a + nd²", "a − nd"],
+    "options_ta": ["a + (n−1)d", "a × n", "a + nd²", "a − nd"],
+    "answer_en": "a + (n−1)d",
+    "answer_ta": "a + (n−1)d"
+  },
+  {
+    "question_en": "If nth term of a GP is a·r^(n−1), then common ratio is?",
+    "question_ta": "GP தொடரின் n-வது உறுப்பு a·r^(n−1) என்றால், பொதுவான விகிதம்?",
+    "options_en": ["a", "n", "r", "n−1"],
+    "options_ta": ["a", "n", "r", "n−1"],
+    "answer_en": "r",
+    "answer_ta": "r"
+  },
+  {
+    "question_en": "What is the coefficient of x² in (x+1)³?",
+    "question_ta": "(x+1)³ விரிவாக்கத்தில் x²-ன் குணகம் என்ன?",
+    "options_en": ["1", "2", "3", "6"],
+    "options_ta": ["1", "2", "3", "6"],
+    "answer_en": "3",
+    "answer_ta": "3"
+  },
+  {
+    "question_en": "Slope of the line x = 5 is?",
+    "question_ta": "x = 5 என்ற நேர்கோட்டின் சரிவு (slope) என்ன?",
+    "options_en": ["0", "Undefined", "1", "∞"],
+    "options_ta": ["0", "வரையறுக்கப்படவில்லை", "1", "∞"],
+    "answer_en": "Undefined",
+    "answer_ta": "வரையறுக்கப்படவில்லை"
+  },
+  {
+    "question_en": "If A = [[1,2],[3,4]], then trace(A) is?",
+    "question_ta": "A = [[1,2],[3,4]] என்றால், trace(A) மதிப்பு என்ன?",
+    "options_en": ["1", "4", "5", "10"],
+    "options_ta": ["1", "4", "5", "10"],
+    "answer_en": "5",
+    "answer_ta": "5"
+  },
+  {
+    "question_en": "Inverse of sin is written as?",
+    "question_ta": "sin-ன் இன்வெர்ஸ் எவ்வாறு எழுதப்படுகிறது?",
+    "options_en": ["sin⁻¹", "1/sin", "cos", "tan"],
+    "options_ta": ["sin⁻¹", "1/sin", "cos", "tan"],
+    "answer_en": "sin⁻¹",
+    "answer_ta": "sin⁻¹"
+  },
+  {
+    "question_en": "If log 10 = 1, then log 100 = ?",
+    "question_ta": "log 10 = 1 என்றால், log 100 = ?",
+    "options_en": ["1", "2", "10", "100"],
+    "options_ta": ["1", "2", "10", "100"],
+    "answer_en": "2",
+    "answer_ta": "2"
+  },
+  {
+    "question_en": "If f(x) = x², then f(3) = ?",
+    "question_ta": "f(x) = x² என்றால், f(3) = ?",
+    "options_en": ["3", "6", "9", "27"],
+    "options_ta": ["3", "6", "9", "27"],
+    "answer_en": "9",
+    "answer_ta": "9"
+  },
+  {
+    "question_en": "If vector a = (3,4), then |a| is?",
+    "question_ta": "a = (3,4) என்ற வெக்டரின் |a| மதிப்பு?",
+    "options_en": ["5", "7", "12", "25"],
+    "options_ta": ["5", "7", "12", "25"],
+    "answer_en": "5",
+    "answer_ta": "5"
+  },
+  {
+    "question_en": "Derivative of x² with respect to x is?",
+    "question_ta": "x²-ன் x-க்கு எதிரான டெரிவேடிவ்?",
+    "options_en": ["1", "2x", "x", "x²"],
+    "options_ta": ["1", "2x", "x", "x²"],
+    "answer_en": "2x",
+    "answer_ta": "2x"
+  },
+  {
+    "question_en": "Integral of dx is?",
+    "question_ta": "dx-ன் இன்டிக்ரல் என்ன?",
+    "options_en": ["1", "x + C", "C", "0"],
+    "options_ta": ["1", "x + C", "C", "0"],
+    "answer_en": "x + C",
+    "answer_ta": "x + C"
+  },
+  {
+    "question_en": "Mean of first 5 natural numbers is?",
+    "question_ta": "முதல் 5 இயற்கை எண்களின் சராசரி?",
+    "options_en": ["3", "2.5", "4", "5"],
+    "options_ta": ["3", "2.5", "4", "5"],
+    "answer_en": "3",
+    "answer_ta": "3"
+  },
+  {
+    "question_en": "If P(E) = 0.5, then odds in favour of E is?",
+    "question_ta": "P(E) = 0.5 என்றால், E-க்கு சாதகமாக odds மதிப்பு?",
+    "options_en": ["1:1", "2:1", "1:2", "3:1"],
+    "options_ta": ["1:1", "2:1", "1:2", "3:1"],
+    "answer_en": "1:1",
+    "answer_ta": "1:1"
+  },
+  {
+    "question_en": "Which of the following is irrational?",
+    "question_ta": "பின்வருவனவற்றில் எது கருக்க முடியாத எண் (irrational)?",
+    "options_en": ["√2", "3/5", "7", "0.25"],
+    "options_ta": ["√2", "3/5", "7", "0.25"],
+    "answer_en": "√2",
+    "answer_ta": "√2"
+  },
+  {
+    "question_en": "If P(A) = 0, then event A is?",
+    "question_ta": "P(A) = 0 என்றால், நிகழ்வு A என்ன?",
+    "options_en": ["Impossible event", "Sure event", "Random event", "Independent event"],
+    "options_ta": ["அசாத்திய நிகழ்வு", "நிச்சய நிகழ்வு", "சீரற்ற நிகழ்வு", "சார்பற்ற நிகழ்வு"],
+    "answer_en": "Impossible event",
+    "answer_ta": "அசாத்திய நிகழ்வு"
+  },
+  {
+    "question_en": "If A and B are mutually exclusive, then P(A ∩ B) = ?",
+    "question_ta": "A மற்றும் B ஒற்றுமையற்ற (mutually exclusive) என்றால், P(A ∩ B) = ?",
+    "options_en": ["0", "1", "P(A)+P(B)", "P(A)×P(B)"],
+    "options_ta": ["0", "1", "P(A)+P(B)", "P(A)×P(B)"],
+    "answer_en": "0",
+    "answer_ta": "0"
+  },
+  {
+    "question_en": "The multiplicative inverse of 5 is?",
+    "question_ta": "5-ன் பெருக்கல் இன்வெர்ஸ் எது?",
+    "options_en": ["1", "5", "1/5", "−5"],
+    "options_ta": ["1", "5", "1/5", "−5"],
+    "answer_en": "1/5",
+    "answer_ta": "1/5"
+  },
+  {
+    "question_en": "If A = {2,4,6}, then maximum element in A is?",
+    "question_ta": "A = {2,4,6} என்றால், அதிகபட்ச உறுப்பு என்ன?",
+    "options_en": ["2", "4", "6", "10"],
+    "options_ta": ["2", "4", "6", "10"],
+    "answer_en": "6",
+    "answer_ta": "6"
+  },
+  {
+    "question_en": "The solution of equation x + 5 = 0 is?",
+    "question_ta": "x + 5 = 0 என்ற சமன்பாட்டின் தீர்வு?",
+    "options_en": ["x = −5", "x = 5", "x = 0", "x = 10"],
+    "options_ta": ["x = −5", "x = 5", "x = 0", "x = 10"],
+    "answer_en": "x = −5",
+    "answer_ta": "x = −5"
+  },
+  {
+    "question_en": "If f(x) = 2x+3, then f(0) = ?",
+    "question_ta": "f(x) = 2x+3 என்றால், f(0) = ?",
+    "options_en": ["0", "2", "3", "6"],
+    "options_ta": ["0", "2", "3", "6"],
+    "answer_en": "3",
+    "answer_ta": "3"
+  }
+]

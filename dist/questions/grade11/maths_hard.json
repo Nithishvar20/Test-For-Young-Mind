@@ -1,0 +1,274 @@
+[
+  {
+    "question_en": "If A = [[1,2],[3,4]], then A⁻¹ is?",
+    "question_ta": "A = [[1,2],[3,4]] என்றால், A⁻¹ மதிப்பு?",
+    "options_en": ["(1/−2)[[4,−2],[−3,1]]", "(1/2)[[4,−2],[−3,1]]", "(1/5)[[4,−2],[−3,1]]", "None"],
+    "options_ta": ["(1/−2)[[4,−2],[−3,1]]", "(1/2)[[4,−2],[−3,1]]", "(1/5)[[4,−2],[−3,1]]", "எதுவும் இல்லை"],
+    "answer_en": "(1/−2)[[4,−2],[−3,1]]",
+    "answer_ta": "(1/−2)[[4,−2],[−3,1]]"
+  },
+  {
+    "question_en": "If tanA + cotA = 2, then sin²A + cos²A = ?",
+    "question_ta": "tanA + cotA = 2 என்றால், sin²A + cos²A = ?",
+    "options_en": ["0", "1", "2", "Undefined"],
+    "options_ta": ["0", "1", "2", "வரையறுக்கப்படவில்லை"],
+    "answer_en": "1",
+    "answer_ta": "1"
+  },
+  {
+    "question_en": "If sum of first n terms of AP is 3n²+2n, then first term is?",
+    "question_ta": "ஒரு AP-ன் முதல் n உறுப்புகளின் தொகை 3n²+2n என்றால், முதல் உறுப்பு?",
+    "options_en": ["5", "2", "3", "6"],
+    "options_ta": ["5", "2", "3", "6"],
+    "answer_en": "5",
+    "answer_ta": "5"
+  },
+  {
+    "question_en": "If sum of infinite GP = 4, first term = 3, then common ratio is?",
+    "question_ta": "ஒரு GP தொடரின் ∞ தொகை = 4, முதல் உறுப்பு = 3 என்றால், பொதுவான விகிதம்?",
+    "options_en": ["1/3", "1/2", "3/4", "1/4"],
+    "options_ta": ["1/3", "1/2", "3/4", "1/4"],
+    "answer_en": "1/4",
+    "answer_ta": "1/4"
+  },
+  {
+    "question_en": "The middle term in (x+1)^10 expansion is?",
+    "question_ta": "(x+1)^10 விரிவாக்கத்தின் நடுப்பகுதி உறுப்பு?",
+    "options_en": ["5th", "6th", "7th", "8th"],
+    "options_ta": ["5வது", "6வது", "7வது", "8வது"],
+    "answer_en": "6th",
+    "answer_ta": "6வது"
+  },
+  {
+    "question_en": "Equation of the tangent to x²+y²=25 at (3,4) is?",
+    "question_ta": "x²+y²=25 வட்டத்தில் (3,4) புள்ளியில் உள்ள டாங்கெண்டின் சமன்பாடு?",
+    "options_en": ["3x+4y=25", "3x+4y=12", "4x+3y=25", "x+y=7"],
+    "options_ta": ["3x+4y=25", "3x+4y=12", "4x+3y=25", "x+y=7"],
+    "answer_en": "3x+4y=25",
+    "answer_ta": "3x+4y=25"
+  },
+  {
+    "question_en": "If a=(1,2,3), b=(4,5,6), then |a×b| = ?",
+    "question_ta": "a=(1,2,3), b=(4,5,6) என்றால், |a×b| மதிப்பு?",
+    "options_en": ["√50", "√56", "√60", "√70"],
+    "options_ta": ["√50", "√56", "√60", "√70"],
+    "answer_en": "√50",
+    "answer_ta": "√50"
+  },
+  {
+    "question_en": "If y = ln(x), then d²y/dx² = ?",
+    "question_ta": "y = ln(x) என்றால், d²y/dx² = ?",
+    "options_en": ["1/x²", "−1/x²", "1/x", "−1/x"],
+    "options_ta": ["1/x²", "−1/x²", "1/x", "−1/x"],
+    "answer_en": "−1/x²",
+    "answer_ta": "−1/x²"
+  },
+  {
+    "question_en": "∫ e^x cosx dx = ?",
+    "question_ta": "∫ e^x cosx dx = ?",
+    "options_en": ["(e^x/2)(sinx+cosx)+C", "(e^x/2)(sinx−cosx)+C", "e^x sinx + C", "e^x cosx + C"],
+    "options_ta": ["(e^x/2)(sinx+cosx)+C", "(e^x/2)(sinx−cosx)+C", "e^x sinx + C", "e^x cosx + C"],
+    "answer_en": "(e^x/2)(sinx+cosx)+C",
+    "answer_ta": "(e^x/2)(sinx+cosx)+C"
+  },
+  {
+    "question_en": "If mean=10, variance=9, then standard deviation is?",
+    "question_ta": "சராசரி=10, variance=9 என்றால், நிலையான சிதறல் (SD) மதிப்பு?",
+    "options_en": ["3", "9", "81", "6"],
+    "options_ta": ["3", "9", "81", "6"],
+    "answer_en": "3",
+    "answer_ta": "3"
+  },
+  {
+    "question_en": "If two coins are tossed, probability of at least one head is?",
+    "question_ta": "இரண்டு நாணயங்கள் வீசப்பட்டால், குறைந்தபட்சம் ஒரு தலை வரும் சாத்தியம்?",
+    "options_en": ["1/4", "1/2", "3/4", "1"],
+    "options_ta": ["1/4", "1/2", "3/4", "1"],
+    "answer_en": "3/4",
+    "answer_ta": "3/4"
+  },
+  {
+    "question_en": "If A = [[cosθ,−sinθ],[sinθ,cosθ]], then A is?",
+    "question_ta": "A = [[cosθ,−sinθ],[sinθ,cosθ]] என்றால், A என்ன?",
+    "options_en": ["Symmetric matrix", "Orthogonal matrix", "Singular matrix", "Row matrix"],
+    "options_ta": ["சமச்சீர் மட்ரிக்ஸ்", "ஆர்த்தோகொனல் மட்ரிக்ஸ்", "சிங்குலர் மட்ரிக்ஸ்", "வரி மட்ரிக்ஸ்"],
+    "answer_en": "Orthogonal matrix",
+    "answer_ta": "ஆர்த்தோகொனல் மட்ரிக்ஸ்"
+  },
+  {
+    "question_en": "If sinA+sinB=1 and cosA+cosB=√3, then A−B=?",
+    "question_ta": "sinA+sinB=1, cosA+cosB=√3 என்றால், A−B மதிப்பு?",
+    "options_en": ["π/6", "π/3", "π/2", "0"],
+    "options_ta": ["π/6", "π/3", "π/2", "0"],
+    "answer_en": "π/3",
+    "answer_ta": "π/3"
+  },
+  {
+    "question_en": "If nth term of a sequence is n², then sum of first n terms is?",
+    "question_ta": "ஒரு தொடரின் n-வது உறுப்பு n² என்றால், முதல் n உறுப்புகளின் கூட்டுத்தொகை?",
+    "options_en": ["n³/3", "n(n+1)(2n+1)/6", "n²(n+1)/2", "n³/2"],
+    "options_ta": ["n³/3", "n(n+1)(2n+1)/6", "n²(n+1)/2", "n³/2"],
+    "answer_en": "n(n+1)(2n+1)/6",
+    "answer_ta": "n(n+1)(2n+1)/6"
+  },
+  {
+    "question_en": "If variance=σ², then coefficient of variation is?",
+    "question_ta": "variance=σ² என்றால், variation-ன் கோஃப்பிசியன்ட்?",
+    "options_en": ["σ/mean ×100%", "σ²/mean", "σ×mean", "σ²×mean"],
+    "options_ta": ["σ/mean ×100%", "σ²/mean", "σ×mean", "σ²×mean"],
+    "answer_en": "σ/mean ×100%",
+    "answer_ta": "σ/mean ×100%"
+  },
+  {
+    "question_en": "If P(A)=0.4, P(B)=0.5, P(A∩B)=0.2, then P(A∪B)=?",
+    "question_ta": "P(A)=0.4, P(B)=0.5, P(A∩B)=0.2 என்றால், P(A∪B)=?",
+    "options_en": ["0.7", "0.9", "1.0", "0.6"],
+    "options_ta": ["0.7", "0.9", "1.0", "0.6"],
+    "answer_en": "0.7",
+    "answer_ta": "0.7"
+  },
+  {
+    "question_en": "Derivative of sin⁻¹x is?",
+    "question_ta": "sin⁻¹x-ன் டெரிவேடிவ்?",
+    "options_en": ["1/√(1−x²)", "−1/√(1−x²)", "1/(1+x²)", "x/√(1−x²)"],
+    "options_ta": ["1/√(1−x²)", "−1/√(1−x²)", "1/(1+x²)", "x/√(1−x²)"],
+    "answer_en": "1/√(1−x²)",
+    "answer_ta": "1/√(1−x²)"
+  },
+  {
+    "question_en": "If A = [[2,1],[7,4]], then det(A) is?",
+    "question_ta": "A = [[2,1],[7,4]] என்றால், det(A) மதிப்பு?",
+    "options_en": ["1", "8", "−1", "0"],
+    "options_ta": ["1", "8", "−1", "0"],
+    "answer_en": "1",
+    "answer_ta": "1"
+  },
+  {
+    "question_en": "If cos(A−B)=1, then A−B=?",
+    "question_ta": "cos(A−B)=1 என்றால், A−B மதிப்பு?",
+    "options_en": ["0", "π/2", "π", "2π"],
+    "options_ta": ["0", "π/2", "π", "2π"],
+    "answer_en": "0",
+    "answer_ta": "0"
+  },
+  {
+    "question_en": "If sum of n terms of AP = n², then common difference is?",
+    "question_ta": "ஒரு AP-ன் முதல் n உறுப்புகளின் தொகை = n² என்றால், பொதுவான வேறுபாடு?",
+    "options_en": ["1", "2", "n", "0"],
+    "options_ta": ["1", "2", "n", "0"],
+    "answer_en": "2",
+    "answer_ta": "2"
+  },
+  {
+    "question_en": "The 10th term of GP: 3,6,12,... is?",
+    "question_ta": "GP: 3,6,12,... இன் 10வது உறுப்பு?",
+    "options_en": ["512", "1536", "3072", "2048"],
+    "options_ta": ["512", "1536", "3072", "2048"],
+    "answer_en": "1536",
+    "answer_ta": "1536"
+  },
+  {
+    "question_en": "If binomial coefficient 8C3 = ?",
+    "question_ta": "8C3 = ?",
+    "options_en": ["56", "24", "36", "64"],
+    "options_ta": ["56", "24", "36", "64"],
+    "answer_en": "56",
+    "answer_ta": "56"
+  },
+  {
+    "question_en": "Equation of line through (1,−1) and parallel to x-axis?",
+    "question_ta": "(1,−1) வழியாக, x அச்சுக்கு இணையாக செல்லும் நேர்கோட்டின் சமன்பாடு?",
+    "options_en": ["y=−1", "x=1", "y=x", "x+y=0"],
+    "options_ta": ["y=−1", "x=1", "y=x", "x+y=0"],
+    "answer_en": "y=−1",
+    "answer_ta": "y=−1"
+  },
+  {
+    "question_en": "If vectors a=(1,0,0), b=(0,1,0), then a×b=?",
+    "question_ta": "a=(1,0,0), b=(0,1,0) என்றால், a×b மதிப்பு?",
+    "options_en": ["(0,0,1)", "(1,1,0)", "(0,1,1)", "(1,0,1)"],
+    "options_ta": ["(0,0,1)", "(1,1,0)", "(0,1,1)", "(1,0,1)"],
+    "answer_en": "(0,0,1)",
+    "answer_ta": "(0,0,1)"
+  },
+  {
+    "question_en": "If y=sinx, then d²y/dx²=?",
+    "question_ta": "y=sinx என்றால், d²y/dx²=?",
+    "options_en": ["−sinx", "cosx", "−cosx", "sinx"],
+    "options_ta": ["−sinx", "cosx", "−cosx", "sinx"],
+    "answer_en": "−sinx",
+    "answer_ta": "−sinx"
+  },
+  {
+    "question_en": "∫ (1/x) dx = ?",
+    "question_ta": "∫ (1/x) dx = ?",
+    "options_en": ["x", "ln|x|+C", "1/x + C", "x²/2"],
+    "options_ta": ["x", "ln|x|+C", "1/x + C", "x²/2"],
+    "answer_en": "ln|x|+C",
+    "answer_ta": "ln|x|+C"
+  },
+  {
+    "question_en": "Variance of first n natural numbers is?",
+    "question_ta": "முதல் n இயற்கை எண்களின் variance மதிப்பு?",
+    "options_en": ["(n²−1)/12", "(n²+1)/12", "(n²−1)/6", "(n²+1)/6"],
+    "options_ta": ["(n²−1)/12", "(n²+1)/12", "(n²−1)/6", "(n²+1)/6"],
+    "answer_en": "(n²−1)/12",
+    "answer_ta": "(n²−1)/12"
+  },
+  {
+    "question_en": "If P(E)=0.7, then probability of not E is?",
+    "question_ta": "P(E)=0.7 என்றால், not E-ன் சாத்தியம்?",
+    "options_en": ["0.3", "0.7", "0.5", "1"],
+    "options_ta": ["0.3", "0.7", "0.5", "1"],
+    "answer_en": "0.3",
+    "answer_ta": "0.3"
+  },
+  {
+    "question_en": "If A=[[1,0],[0,1]], then Aⁿ=?",
+    "question_ta": "A=[[1,0],[0,1]] என்றால், Aⁿ=?",
+    "options_en": ["I", "nI", "0", "n"],
+    "options_ta": ["I", "nI", "0", "n"],
+    "answer_en": "I",
+    "answer_ta": "I"
+  },
+  {
+    "question_en": "If tan2A=1, then A=?",
+    "question_ta": "tan2A=1 என்றால், A மதிப்பு?",
+    "options_en": ["π/8", "π/4", "π/2", "π"],
+    "options_ta": ["π/8", "π/4", "π/2", "π"],
+    "answer_en": "π/8",
+    "answer_ta": "π/8"
+  },
+  {
+    "question_en": "The sum of squares of first n natural numbers is?",
+    "question_ta": "முதல் n இயற்கை எண்களின் சதுரங்களின் கூட்டுத்தொகை?",
+    "options_en": ["n(n+1)(2n+1)/6", "n(n+1)/2", "n³/3", "n²(n+1)/2"],
+    "options_ta": ["n(n+1)(2n+1)/6", "n(n+1)/2", "n³/3", "n²(n+1)/2"],
+    "answer_en": "n(n+1)(2n+1)/6",
+    "answer_ta": "n(n+1)(2n+1)/6"
+  },
+  {
+    "question_en": "If mean=20, SD=0, then all values are?",
+    "question_ta": "mean=20, SD=0 என்றால், அனைத்து மதிப்புகளும்?",
+    "options_en": ["20", "0", "Different", "Undefined"],
+    "options_ta": ["20", "0", "வேறுபட்டவை", "வரையறுக்கப்படவில்லை"],
+    "answer_en": "20",
+    "answer_ta": "20"
+  },
+  {
+    "question_en": "If nP2=56, then n=?",
+    "question_ta": "nP2=56 என்றால், n=?",
+    "options_en": ["7", "8", "9", "10"],
+    "options_ta": ["7", "8", "9", "10"],
+    "answer_en": "8",
+    "answer_ta": "8"
+  },
+  {
+    "question_en": "If cosA=4/5, then tanA=?",
+    "question_ta": "cosA=4/5 என்றால், tanA=?",
+    "options_en": ["3/4", "4/3", "5/3", "3/5"],
+    "options_ta": ["3/4", "4/3", "5/3", "3/5"],
+    "answer_en": "3/4",
+    "answer_ta": "3/4"
+  }
+]

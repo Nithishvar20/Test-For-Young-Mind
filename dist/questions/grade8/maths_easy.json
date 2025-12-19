@@ -1,0 +1,258 @@
+[
+  {
+    "question_en": "What is 25 + 36?",
+    "question_ta": "25 + 36 இன் பெறுமதி என்ன?",
+    "options_en": ["51","61","71","81"],
+    "options_ta": ["51","61","71","81"],
+    "answer_en": "61",
+    "answer_ta": "61"
+  },
+  {
+    "question_en": "What is the multiplicative identity?",
+    "question_ta": "பெருக்கலின் அடையாளம் எது?",
+    "options_en": ["0","1","10","100"],
+    "options_ta": ["0","1","10","100"],
+    "answer_en": "1",
+    "answer_ta": "1"
+  },
+  {
+    "question_en": "Which of these is an even number?",
+    "question_ta": "இவற்றில் எது சுழி (இரட்டை) எண்?",
+    "options_en": ["17","21","28","33"],
+    "options_ta": ["17","21","28","33"],
+    "answer_en": "28",
+    "answer_ta": "28"
+  },
+  {
+    "question_en": "The reciprocal of 5 is:",
+    "question_ta": "5 இன் புரளி எது?",
+    "options_en": ["1/2","1/5","5","10"],
+    "options_ta": ["1/2","1/5","5","10"],
+    "answer_en": "1/5",
+    "answer_ta": "1/5"
+  },
+  {
+    "question_en": "Simplify: (7 × 0) + 9",
+    "question_ta": "(7 × 0) + 9 இன் பெறுமதி என்ன?",
+    "options_en": ["7","0","9","16"],
+    "options_ta": ["7","0","9","16"],
+    "answer_en": "9",
+    "answer_ta": "9"
+  },
+  {
+    "question_en": "The sum of angles in a triangle is:",
+    "question_ta": "முக்கோணத்தின் கோணங்களின் மொத்தம் என்ன?",
+    "options_en": ["90°","120°","180°","360°"],
+    "options_ta": ["90°","120°","180°","360°"],
+    "answer_en": "180°",
+    "answer_ta": "180°"
+  },
+  {
+    "question_en": "A polygon with 4 sides is called:",
+    "question_ta": "4 பக்கங்களைக் கொண்ட பன்முக்கம் எவ்வாறு அழைக்கப்படுகிறது?",
+    "options_en": ["Triangle","Pentagon","Quadrilateral","Hexagon"],
+    "options_ta": ["முக்கோணம்","ஐங்கோணம்","நான்கோணம்","ஆறுகோணம்"],
+    "answer_en": "Quadrilateral",
+    "answer_ta": "நான்கோணம்"
+  },
+  {
+    "question_en": "Area of a square with side 5 cm is:",
+    "question_ta": "பக்கம் 5 செ.மீ உள்ள சதுரத்தின் பரப்பளவு என்ன?",
+    "options_en": ["10 cm²","20 cm²","25 cm²","30 cm²"],
+    "options_ta": ["10 ச.செ","20 ச.செ","25 ச.செ","30 ச.செ"],
+    "answer_en": "25 cm²",
+    "answer_ta": "25 ச.செ"
+  },
+  {
+    "question_en": "The perimeter of a rectangle with length 8 cm and breadth 4 cm is:",
+    "question_ta": "நீளம் 8 செ.மீ, அகலம் 4 செ.மீ உள்ள செவ்வகத்தின் சுற்றளவு என்ன?",
+    "options_en": ["12 cm","16 cm","20 cm","24 cm"],
+    "options_ta": ["12 செ.மீ","16 செ.மீ","20 செ.மீ","24 செ.மீ"],
+    "answer_en": "24 cm",
+    "answer_ta": "24 செ.மீ"
+  },
+  {
+    "question_en": "Which is the smallest prime number?",
+    "question_ta": "சிறிய முதன்மை எண் எது?",
+    "options_en": ["0","1","2","3"],
+    "options_ta": ["0","1","2","3"],
+    "answer_en": "2",
+    "answer_ta": "2"
+  },
+  {
+    "question_en": "Simplify: 12 ÷ 3",
+    "question_ta": "12 ÷ 3 இன் பெறுமதி என்ன?",
+    "options_en": ["2","3","4","6"],
+    "options_ta": ["2","3","4","6"],
+    "answer_en": "4",
+    "answer_ta": "4"
+  },
+  {
+    "question_en": "What is the mode of 2, 3, 3, 4, 5?",
+    "question_ta": "2, 3, 3, 4, 5 இன் நிலை (Mode) எது?",
+    "options_en": ["2","3","4","5"],
+    "options_ta": ["2","3","4","5"],
+    "answer_en": "3",
+    "answer_ta": "3"
+  },
+  {
+    "question_en": "Probability of getting head in a coin toss is:",
+    "question_ta": "ஒரு நாணயத்தை வீசும்போது தலை வரும் வாய்ப்பு என்ன?",
+    "options_en": ["0","1/2","1","2"],
+    "options_ta": ["0","1/2","1","2"],
+    "answer_en": "1/2",
+    "answer_ta": "1/2"
+  },
+  {
+    "question_en": "Which number is divisible by 9?",
+    "question_ta": "இவற்றில் எது 9-ஆல் வகுபடும்?",
+    "options_en": ["27","32","45","50"],
+    "options_ta": ["27","32","45","50"],
+    "answer_en": "27",
+    "answer_ta": "27"
+  },
+  {
+    "question_en": "What is 15% of 200?",
+    "question_ta": "200 இன் 15% எவ்வளவு?",
+    "options_en": ["15","20","25","30"],
+    "options_ta": ["15","20","25","30"],
+    "answer_en": "30",
+    "answer_ta": "30"
+  },
+  {
+    "question_en": "The additive inverse of -7 is:",
+    "question_ta": "-7 இன் கூட்டல் எதிரெண் எது?",
+    "options_en": ["-7","0","7","14"],
+    "options_ta": ["-7","0","7","14"],
+    "answer_en": "7",
+    "answer_ta": "7"
+  },
+  {
+    "question_en": "Value of π (pi) approximately is:",
+    "question_ta": "π (பை) இன் மதிப்பு சுமார் எவ்வளவு?",
+    "options_en": ["2.14","3.14","3.41","4.13"],
+    "options_ta": ["2.14","3.14","3.41","4.13"],
+    "answer_en": "3.14",
+    "answer_ta": "3.14"
+  },
+  {
+    "question_en": "Volume of a cube with side 3 cm is:",
+    "question_ta": "பக்கம் 3 செ.மீ உள்ள கன சதுரத்தின் கொள்ளளவு என்ன?",
+    "options_en": ["9 cm³","18 cm³","27 cm³","36 cm³"],
+    "options_ta": ["9 ச.செ.மீ","18 ச.செ.மீ","27 ச.செ.மீ","36 ச.செ.மீ"],
+    "answer_en": "27 cm³",
+    "answer_ta": "27 ச.செ.மீ"
+  },
+  {
+    "question_en": "Which is the multiplicative inverse of 2/3?",
+    "question_ta": "2/3 இன் பெருக்கல் எதிரெண் எது?",
+    "options_en": ["3/2","2/3","-2/3","1/3"],
+    "options_ta": ["3/2","2/3","-2/3","1/3"],
+    "answer_en": "3/2",
+    "answer_ta": "3/2"
+  },
+  {
+    "question_en": "The diagonals of a square are:",
+    "question_ta": "சதுரத்தின் சாய்வுக் கோடுகள் எப்படிப்பட்டவை?",
+    "options_en": ["Equal and perpendicular","Equal but not perpendicular","Unequal","Parallel"],
+    "options_ta": ["சமமாகவும் செங்குத்தாகவும் இருக்கும்","சமமாக இருக்கும் ஆனால் செங்குத்தாக இல்லை","சமமில்லாதவை","இணையாக இருக்கும்"],
+    "answer_en": "Equal and perpendicular",
+    "answer_ta": "சமமாகவும் செங்குத்தாகவும் இருக்கும்"
+  },
+  {
+    "question_en": "What is 1000 ÷ 10?",
+    "question_ta": "1000 ÷ 10 இன் பெறுமதி என்ன?",
+    "options_en": ["10","50","100","200"],
+    "options_ta": ["10","50","100","200"],
+    "answer_en": "100",
+    "answer_ta": "100"
+  },
+  {
+    "question_en": "Square of 12 is:",
+    "question_ta": "12 இன் சதுரம் எது?",
+    "options_en": ["124","132","144","154"],
+    "options_ta": ["124","132","144","154"],
+    "answer_en": "144",
+    "answer_ta": "144"
+  },
+  {
+    "question_en": "Which is a factor of 36?",
+    "question_ta": "36 இன் வகுத்தெண் எது?",
+    "options_en": ["5","6","7","11"],
+    "options_ta": ["5","6","7","11"],
+    "answer_en": "6",
+    "answer_ta": "6"
+  },
+  {
+    "question_en": "How many sides does a hexagon have?",
+    "question_ta": "ஆறுகோணத்திற்கு எத்தனை பக்கங்கள் உள்ளன?",
+    "options_en": ["4","5","6","8"],
+    "options_ta": ["4","5","6","8"],
+    "answer_en": "6",
+    "answer_ta": "6"
+  },
+  {
+    "question_en": "The radius of a circle is 7 cm. Its diameter is:",
+    "question_ta": "ஒரு வட்டத்தின் ஆரம் 7 செ.மீ என்றால் அதன் விட்டம் எவ்வளவு?",
+    "options_en": ["7 cm","14 cm","21 cm","28 cm"],
+    "options_ta": ["7 செ.மீ","14 செ.மீ","21 செ.மீ","28 செ.மீ"],
+    "answer_en": "14 cm",
+    "answer_ta": "14 செ.மீ"
+  },
+  {
+    "question_en": "The value of 10² is:",
+    "question_ta": "10² இன் மதிப்பு என்ன?",
+    "options_en": ["20","50","100","200"],
+    "options_ta": ["20","50","100","200"],
+    "answer_en": "100",
+    "answer_ta": "100"
+  },
+  {
+    "question_en": "What is the mean of 2, 4, 6, 8?",
+    "question_ta": "2, 4, 6, 8 இன் சராசரி என்ன?",
+    "options_en": ["3","4","5","6"],
+    "options_ta": ["3","4","5","6"],
+    "answer_en": "5",
+    "answer_ta": "5"
+  },
+  {
+    "question_en": "What is the perimeter of a square with side 9 cm?",
+    "question_ta": "பக்கம் 9 செ.மீ உள்ள சதுரத்தின் சுற்றளவு என்ன?",
+    "options_en": ["18 cm","27 cm","36 cm","45 cm"],
+    "options_ta": ["18 செ.மீ","27 செ.மீ","36 செ.மீ","45 செ.மீ"],
+    "answer_en": "36 cm",
+    "answer_ta": "36 செ.மீ"
+  },
+  {
+    "question_en": "LCM of 6 and 8 is:",
+    "question_ta": "6 மற்றும் 8 இன் குறைந்த பொதுக்கூட்டல் எது?",
+    "options_en": ["12","18","24","36"],
+    "options_ta": ["12","18","24","36"],
+    "answer_en": "24",
+    "answer_ta": "24"
+  },
+  {
+    "question_en": "The cube root of 27 is:",
+    "question_ta": "27 இன் கனவேர் எது?",
+    "options_en": ["2","3","4","5"],
+    "options_ta": ["2","3","4","5"],
+    "answer_en": "3",
+    "answer_ta": "3"
+  },
+  {
+    "question_en": "Which of these is a Pythagorean triplet?",
+    "question_ta": "பின்வரும் எது பைதகோரஸ் முக்கோண எண்கள்?",
+    "options_en": ["3, 4, 5","5, 6, 7","2, 3, 4","7, 8, 10"],
+    "options_ta": ["3, 4, 5","5, 6, 7","2, 3, 4","7, 8, 10"],
+    "answer_en": "3, 4, 5",
+    "answer_ta": "3, 4, 5"
+  },
+  {
+    "question_en": "The perimeter of a circle is called:",
+    "question_ta": "ஒரு வட்டத்தின் சுற்றளவை என்ன என்று அழைக்கப்படுகிறது?",
+    "options_en": ["Area","Diameter","Circumference","Radius"],
+    "options_ta": ["பரப்பளவு","விட்டம்","சுற்றளவு","ஆரம்"],
+    "answer_en": "Circumference",
+    "answer_ta": "சுற்றளவு"
+  }
+]

@@ -1,0 +1,282 @@
+[
+  {
+    "question_en": "What is meant by Palaeolithic Age?",
+    "question_ta": "பழங்கற்காலம் என்று பொருள் என்ன?",
+    "options_en": ["Age of Old Stone Tools", "Age of Iron Tools", "Age of Bronze Tools", "Age of Agriculture"],
+    "options_ta": ["பழைய கற்கருவிகளின் காலம்", "இரும்பு கருவிகளின் காலம்", "செம்பு கருவிகளின் காலம்", "விவசாயக் காலம்"],
+    "answer_en": "Age of Old Stone Tools",
+    "answer_ta": "பழைய கற்கருவிகளின் காலம்"
+  },
+  {
+    "question_en": "What is the importance of Adichanallur in Tamil Nadu history?",
+    "question_ta": "தமிழக வரலாற்றில் அடிச்சநல்லூரின் முக்கியத்துவம் என்ன?",
+    "options_en": ["Iron Age burial site", "Sangam Age port", "Pallava capital", "Chola temple site"],
+    "options_ta": ["இரும்புக்கால அடக்குமிடம்", "சங்ககால துறைமுகம்", "பல்லவர் தலைநகர்", "சோழர் கோயில் இடம்"],
+    "answer_en": "Iron Age burial site",
+    "answer_ta": "இரும்புக்கால அடக்குமிடம்"
+  },
+  {
+    "question_en": "Which river valley civilization is known as the 'Gift of the Nile'?",
+    "question_ta": "‘நைல் நதியின் பரிசு’ என்று அழைக்கப்படும் நதி பள்ளத்தாக்கு நாகரிகம் எது?",
+    "options_en": ["Mesopotamian", "Egyptian", "Indus Valley", "Chinese"],
+    "options_ta": ["மெசொப்பொத்தேமிய", "எகிப்திய", "சிந்து சமவெளி", "சீன"],
+    "answer_en": "Egyptian",
+    "answer_ta": "எகிப்திய"
+  },
+  {
+    "question_en": "What is Feudalism?",
+    "question_ta": "சிறுபெருங்குடி முறை (Feudalism) என்றால் என்ன?",
+    "options_en": ["System of land grant and military service", "Trade between kingdoms", "Religious movement", "Industrial organization"],
+    "options_ta": ["நிலம் கொடுத்துப் படை சேவையைப் பெறும் முறை", "நாடுகளுக்கு இடையிலான வணிகம்", "மத இயக்கம்", "தொழில் அமைப்பு"],
+    "answer_en": "System of land grant and military service",
+    "answer_ta": "நிலம் கொடுத்துப் படை சேவையைப் பெறும் முறை"
+  },
+  {
+    "question_en": "Which was the main contribution of French Revolution?",
+    "question_ta": "பிரெஞ்சுப் புரட்சியின் முக்கிய பங்களிப்பு எது?",
+    "options_en": ["End of monarchy and rise of democracy", "Discovery of America", "Industrial Revolution", "End of slavery"],
+    "options_ta": ["மன்னராட்சியின் முடிவும் ஜனநாயகத்தின் தொடக்கமும்", "அமெரிக்க கண்டுபிடிப்பு", "தொழில்புரட்சி", "அடிமைத்தனத்தின் முடிவு"],
+    "answer_en": "End of monarchy and rise of democracy",
+    "answer_ta": "மன்னராட்சியின் முடிவும் ஜனநாயகத்தின் தொடக்கமும்"
+  },
+  {
+    "question_en": "What is Lithosphere?",
+    "question_ta": "நிலக்கடத்தல் (Lithosphere) என்றால் என்ன?",
+    "options_en": ["Earth’s outer rocky layer", "Layer of air", "Layer of water", "Core of the Earth"],
+    "options_ta": ["பூமியின் வெளிப்புற பாறை அடுக்கு", "காற்றின் அடுக்கு", "நீரின் அடுக்கு", "பூமியின் உள்ளகப் பகுதி"],
+    "answer_en": "Earth’s outer rocky layer",
+    "answer_ta": "பூமியின் வெளிப்புற பாறை அடுக்கு"
+  },
+  {
+    "question_en": "Which rocks are formed from cooling of magma?",
+    "question_ta": "மக்மா குளிர்வதால் உருவாகும் பாறைகள் எவை?",
+    "options_en": ["Igneous rocks", "Sedimentary rocks", "Metamorphic rocks", "Fossil rocks"],
+    "options_ta": ["தீப்பாறைகள்", "அடிகட்டுப்பாறைகள்", "மாறுபாறைகள்", "படிமப் பாறைகள்"],
+    "answer_en": "Igneous rocks",
+    "answer_ta": "தீப்பாறைகள்"
+  },
+  {
+    "question_en": "What is Hydrological cycle?",
+    "question_ta": "நீர்சுழற்சி (Hydrological cycle) என்றால் என்ன?",
+    "options_en": ["Circulation of water on Earth", "Formation of rocks", "Flow of lava", "Movement of tectonic plates"],
+    "options_ta": ["பூமியில் நீரின் சுழற்சி", "பாறைகள் உருவாகுதல்", "லாவா ஓடுதல்", "நிலத்தட்டு நகர்வு"],
+    "answer_en": "Circulation of water on Earth",
+    "answer_ta": "பூமியில் நீரின் சுழற்சி"
+  },
+  {
+    "question_en": "Which gas is most abundant in atmosphere?",
+    "question_ta": "வளிமண்டலத்தில் அதிகமாக உள்ள வாயு எது?",
+    "options_en": ["Nitrogen", "Oxygen", "Carbon dioxide", "Hydrogen"],
+    "options_ta": ["நைட்ரஜன்", "ஆக்சிஜன்", "கார்பன் டையாக்சைடு", "ஹைட்ரஜன்"],
+    "answer_en": "Nitrogen",
+    "answer_ta": "நைட்ரஜன்"
+  },
+  {
+    "question_en": "What is Biosphere?",
+    "question_ta": "உயிர்க்கோளம் (Biosphere) என்றால் என்ன?",
+    "options_en": ["Part of Earth with life", "Only forests", "Only oceans", "Only atmosphere"],
+    "options_ta": ["பூமியில் உயிர்கள் வாழும் பகுதி", "காடுகள் மட்டும்", "கடல்கள் மட்டும்", "வளிமண்டலம் மட்டும்"],
+    "answer_en": "Part of Earth with life",
+    "answer_ta": "பூமியில் உயிர்கள் வாழும் பகுதி"
+  },
+  {
+    "question_en": "Which type of government is run by representatives elected by people?",
+    "question_ta": "மக்கள் தேர்ந்தெடுத்த பிரதிநிதிகள் நடத்தும் ஆட்சி எது?",
+    "options_en": ["Democracy", "Monarchy", "Dictatorship", "Oligarchy"],
+    "options_ta": ["ஜனநாயகம்", "மன்னராட்சி", "ஏகாதிபத்தியம்", "சிறுபான்மையாட்சி"],
+    "answer_en": "Democracy",
+    "answer_ta": "ஜனநாயகம்"
+  },
+  {
+    "question_en": "What are Fundamental Rights?",
+    "question_ta": "அடிப்படை உரிமைகள் என்றால் என்ன?",
+    "options_en": ["Rights guaranteed by Constitution", "Rights given by king", "Rights of traders only", "Temporary privileges"],
+    "options_ta": ["அரசியலமைப்பால் வழங்கப்படும் உரிமைகள்", "மன்னரால் வழங்கப்படும் உரிமைகள்", "வணிகர்களுக்கே உரிமைகள்", "தற்காலிக சலுகைகள்"],
+    "answer_en": "Rights guaranteed by Constitution",
+    "answer_ta": "அரசியலமைப்பால் வழங்கப்படும் உரிமைகள்"
+  },
+  {
+    "question_en": "What is meant by Local Self Government?",
+    "question_ta": "உள்ளாட்சி அமைப்பு என்றால் என்ன?",
+    "options_en": ["Administration by local people for local needs", "Rule by kings", "Military administration", "Central government only"],
+    "options_ta": ["உள்ளூர் மக்களின் தேவைகளுக்காக அவர்களே நடத்தும் நிர்வாகம்", "மன்னர் ஆட்சி", "படை நிர்வாகம்", "மத்திய அரசு மட்டும்"],
+    "answer_en": "Administration by local people for local needs",
+    "answer_ta": "உள்ளூர் மக்களின் தேவைகளுக்காக அவர்களே நடத்தும் நிர்வாகம்"
+  },
+  {
+    "question_en": "What is meant by Secularism?",
+    "question_ta": "மதச்சார்பின்மை என்றால் என்ன?",
+    "options_en": ["Equal respect to all religions", "Follow one religion only", "Reject religion", "King decides religion"],
+    "options_ta": ["அனைத்து மதங்களையும் சமமாக மதித்தல்", "ஒரு மதத்தை மட்டும் பின்பற்றுதல்", "மதத்தை மறுத்தல்", "மன்னர் மதத்தை நிர்ணயித்தல்"],
+    "answer_en": "Equal respect to all religions",
+    "answer_ta": "அனைத்து மதங்களையும் சமமாக மதித்தல்"
+  },
+  {
+    "question_en": "What is meant by Social Security?",
+    "question_ta": "சமூக பாதுகாப்பு என்றால் என்ன?",
+    "options_en": ["Support for weaker sections", "Military strength", "Cultural development", "Wealth of kings"],
+    "options_ta": ["பலவீனமான மக்களுக்கு வழங்கப்படும் பாதுகாப்பு", "படை வலிமை", "கலாச்சார வளர்ச்சி", "மன்னரின் செல்வம்"],
+    "answer_en": "Support for weaker sections",
+    "answer_ta": "பலவீனமான மக்களுக்கு வழங்கப்படும் பாதுகாப்பு"
+  },
+  {
+    "question_en": "Which is the primary occupation in India?",
+    "question_ta": "இந்தியாவின் முதன்மை தொழில் எது?",
+    "options_en": ["Agriculture", "Industry", "IT services", "Mining"],
+    "options_ta": ["விவசாயம்", "தொழில்", "தகவல் தொழில்நுட்பம்", "சுரங்கப்பணி"],
+    "answer_en": "Agriculture",
+    "answer_ta": "விவசாயம்"
+  },
+  {
+    "question_en": "What is meant by Migration?",
+    "question_ta": "இடம்பெயர்ச்சி என்றால் என்ன?",
+    "options_en": ["Movement of people from one place to another", "Movement of animals only", "Change of occupation", "Change of language"],
+    "options_ta": ["மக்கள் ஒரு இடத்திலிருந்து மற்றொரு இடத்திற்கு இடம்பெயர்தல்", "விலங்குகள் மட்டுமே நகர்தல்", "தொழில் மாற்றம்", "மொழி மாற்றம்"],
+    "answer_en": "Movement of people from one place to another",
+    "answer_ta": "மக்கள் ஒரு இடத்திலிருந்து மற்றொரு இடத்திற்கு இடம்பெயர்தல்"
+  },
+  {
+    "question_en": "What is Sustainable Development?",
+    "question_ta": "திடீர் வளர்ச்சி (Sustainable Development) என்றால் என்ன?",
+    "options_en": ["Development without harming future generations", "Rapid industrial growth", "Unlimited resource use", "Development for present only"],
+    "options_ta": ["எதிர்கால தலைமுறைகளை பாதிக்காமல் வளர்ச்சி", "விரைவான தொழில்துறை வளர்ச்சி", "வரம்பில்லாத வள உபயோகம்", "தற்போது மட்டும் வளர்ச்சி"],
+    "answer_en": "Development without harming future generations",
+    "answer_ta": "எதிர்கால தலைமுறைகளை பாதிக்காமல் வளர்ச்சி"
+  },
+  {
+    "question_en": "What is the main cause of unemployment in India?",
+    "question_ta": "இந்தியாவில் வேலைவாய்ப்பு இல்லாததற்கான முக்கிய காரணம் என்ன?",
+    "options_en": ["Population growth", "Industrialization", "Urbanization", "Education system"],
+    "options_ta": ["மக்கள் தொகை அதிகரிப்பு", "தொழில்மயமாக்கல்", "நகரமயமாக்கல்", "கல்வி முறை"],
+    "answer_en": "Population growth",
+    "answer_ta": "மக்கள் தொகை அதிகரிப்பு"
+  },
+  {
+    "question_en": "Which is the backbone of Indian economy?",
+    "question_ta": "இந்திய பொருளாதாரத்தின் முதுகெலும்பு எது?",
+    "options_en": ["Agriculture", "Mining", "Banking", "Tourism"],
+    "options_ta": ["விவசாயம்", "சுரங்கப்பணி", "வங்கிகள்", "சுற்றுலா"],
+    "answer_en": "Agriculture",
+    "answer_ta": "விவசாயம்"
+  },
+  {
+    "question_en": "What is meant by Demand?",
+    "question_ta": "தேவை (Demand) என்றால் என்ன?",
+    "options_en": ["Willingness and ability to buy goods", "Production of goods", "Supply of goods", "Storage of goods"],
+    "options_ta": ["பொருட்களை வாங்கும் விருப்பமும் திறனும்", "பொருட்கள் உற்பத்தி", "பொருட்கள் வழங்கல்", "பொருட்கள் சேமிப்பு"],
+    "answer_en": "Willingness and ability to buy goods",
+    "answer_ta": "பொருட்களை வாங்கும் விருப்பமும் திறனும்"
+  },
+  {
+    "question_en": "What is meant by Supply?",
+    "question_ta": "வழங்கல் (Supply) என்றால் என்ன?",
+    "options_en": ["Quantity producers are willing to sell at a given price", "Consumer need", "Government service", "Bank support"],
+    "options_ta": ["கொடுக்கப்பட்ட விலையில் உற்பத்தியாளர்கள் விற்க விரும்பும் அளவு", "நுகர்வோரின் தேவை", "அரசாங்க சேவை", "வங்கி ஆதரவு"],
+    "answer_en": "Quantity producers are willing to sell at a given price",
+    "answer_ta": "கொடுக்கப்பட்ட விலையில் உற்பத்தியாளர்கள் விற்க விரும்பும் அளவு"
+  },
+  {
+    "question_en": "What is meant by Inflation?",
+    "question_ta": "பெருக்கம் (Inflation) என்றால் என்ன?",
+    "options_en": ["Rise in general price level", "Fall in prices", "Increase in supply", "Decrease in demand"],
+    "options_ta": ["பொதுவான விலைகளின் உயர்வு", "விலைகள் குறைதல்", "வழங்கல் அதிகரித்தல்", "தேவை குறைதல்"],
+    "answer_en": "Rise in general price level",
+    "answer_ta": "பொதுவான விலைகளின் உயர்வு"
+  },
+  {
+    "question_en": "What is meant by National Income?",
+    "question_ta": "தேசிய வருமானம் என்றால் என்ன?",
+    "options_en": ["Total value of goods and services produced in a country", "Only agricultural income", "Only export value", "Only income of government"],
+    "options_ta": ["ஒரு நாட்டில் உற்பத்தி செய்யப்படும் பொருட்கள் மற்றும் சேவைகளின் மொத்த மதிப்பு", "விவசாய வருமானம் மட்டும்", "ஏற்றுமதி மதிப்பு மட்டும்", "அரசின் வருமானம் மட்டும்"],
+    "answer_en": "Total value of goods and services produced in a country",
+    "answer_ta": "ஒரு நாட்டில் உற்பத்தி செய்யப்படும் பொருட்கள் மற்றும் சேவைகளின் மொத்த மதிப்பு"
+  },
+  {
+    "question_en": "What is Green Revolution?",
+    "question_ta": "பச்சைப் புரட்சி (Green Revolution) என்றால் என்ன?",
+    "options_en": ["Rapid growth in agricultural production using modern methods", "Freedom struggle", "Environmental movement", "Industrial growth"],
+    "options_ta": ["நவீன முறைகள் மூலம் வேளாண் உற்பத்தியில் விரைவான வளர்ச்சி", "சுதந்திரப் போராட்டம்", "சுற்றுச்சூழல் இயக்கம்", "தொழில் வளர்ச்சி"],
+    "answer_en": "Rapid growth in agricultural production using modern methods",
+    "answer_ta": "நவீன முறைகள் மூலம் வேளாண் உற்பத்தியில் விரைவான வளர்ச்சி"
+  },
+  {
+    "question_en": "What is meant by Monsoon?",
+    "question_ta": "மழைக்காலம் (Monsoon) என்றால் என்ன?",
+    "options_en": ["Seasonal reversal of winds bringing rains", "Continuous rainfall throughout year", "Snowfall", "Desert winds"],
+    "options_ta": ["மழையை கொண்டு வரும் பருவ காற்றின் மாறுதல்", "முழு ஆண்டும் மழை", "பனி பெய்தல்", "பாலைவனக் காற்று"],
+    "answer_en": "Seasonal reversal of winds bringing rains",
+    "answer_ta": "மழையை கொண்டு வரும் பருவ காற்றின் மாறுதல்"
+  },
+  {
+    "question_en": "What causes Earthquakes?",
+    "question_ta": "நிலநடுக்கம் ஏற்படுவதற்கான காரணம் என்ன?",
+    "options_en": ["Movement of tectonic plates", "Heavy rainfall", "Wind storms", "Volcanic gases"],
+    "options_ta": ["நிலத்தட்டுகளின் இயக்கம்", "அதிக மழை", "புயல் காற்றுகள்", "எரிமலை வாயுக்கள்"],
+    "answer_en": "Movement of tectonic plates",
+    "answer_ta": "நிலத்தட்டுகளின் இயக்கம்"
+  },
+  {
+    "question_en": "What is meant by Tsunami?",
+    "question_ta": "சுனாமி என்றால் என்ன?",
+    "options_en": ["Large sea waves caused by earthquakes under sea", "Heavy rainfall flood", "Cyclone winds", "Glacier melting"],
+    "options_ta": ["கடலடியில் நிலநடுக்கத்தால் உண்டாகும் பெரிய அலைகள்", "மிகுந்த மழையால் வெள்ளம்", "புயல் காற்றுகள்", "பனிமலை உருகுதல்"],
+    "answer_en": "Large sea waves caused by earthquakes under sea",
+    "answer_ta": "கடலடியில் நிலநடுக்கத்தால் உண்டாகும் பெரிய அலைகள்"
+  },
+  {
+    "question_en": "Which is the longest river in India?",
+    "question_ta": "இந்தியாவின் நீளமான நதி எது?",
+    "options_en": ["Ganga", "Yamuna", "Brahmaputra", "Godavari"],
+    "options_ta": ["கங்கை", "யமுனை", "பிரம்மபுத்திரா", "கோதாவரி"],
+    "answer_en": "Ganga",
+    "answer_ta": "கங்கை"
+  },
+  {
+    "question_en": "What is the main role of Parliament?",
+    "question_ta": "சட்டமன்றத்தின் முக்கிய பங்கு என்ன?",
+    "options_en": ["Making laws", "Judging cases", "Enforcing laws", "Conducting elections"],
+    "options_ta": ["சட்டங்களை உருவாக்குதல்", "வழக்குகளை விசாரித்தல்", "சட்டங்களை அமல்படுத்துதல்", "தேர்தலை நடத்துதல்"],
+    "answer_en": "Making laws",
+    "answer_ta": "சட்டங்களை உருவாக்குதல்"
+  },
+  {
+    "question_en": "What is meant by Constitution?",
+    "question_ta": "அரசியலமைப்பு என்றால் என்ன?",
+    "options_en": ["Set of rules to govern a country", "Collection of stories", "Religious book", "Historical record"],
+    "options_ta": ["ஒரு நாட்டை ஆளும் விதிமுறைகள் தொகுப்பு", "கதைகளின் தொகுப்பு", "மத நூல்", "வரலாற்று பதிவுகள்"],
+    "answer_en": "Set of rules to govern a country",
+    "answer_ta": "ஒரு நாட்டை ஆளும் விதிமுறைகள் தொகுப்பு"
+  },
+  {
+    "question_en": "Who is called the Father of Indian Constitution?",
+    "question_ta": "இந்திய அரசியலமைப்பின் தந்தை என்று யாரை அழைக்கப்படுகிறார்?",
+    "options_en": ["Dr. B.R. Ambedkar", "Mahatma Gandhi", "Jawaharlal Nehru", "Subash Chandra Bose"],
+    "options_ta": ["டாக்டர் பி.ஆர்.அம்பேத்கர்", "மகாத்மா காந்தி", "ஜவஹர்லால் நேரு", "சுபாஷ் சந்திரபோஸ்"],
+    "answer_en": "Dr. B.R. Ambedkar",
+    "answer_ta": "டாக்டர் பி.ஆர்.அம்பேத்கர்"
+  },
+  {
+    "question_en": "Which body maintains international peace and security?",
+    "question_ta": "சர்வதேச அமைதியும் பாதுகாப்பையும் காக்கும் அமைப்பு எது?",
+    "options_en": ["United Nations Security Council", "World Bank", "WHO", "NATO"],
+    "options_ta": ["ஐ.நா. பாதுகாப்பு கவுன்சில்", "உலக வங்கி", "உலக சுகாதார நிறுவனம்", "நேட்டோ"],
+    "answer_en": "United Nations Security Council",
+    "answer_ta": "ஐ.நா. பாதுகாப்பு கவுன்சில்"
+  },
+  {
+    "question_en": "What is meant by Human Rights?",
+    "question_ta": "மனித உரிமைகள் என்றால் என்ன?",
+    "options_en": ["Basic rights every person should enjoy", "Rights given to rulers only", "Rights of army", "Special rights for rich people"],
+    "options_ta": ["ஒவ்வொரு மனிதரும் அனுபவிக்க வேண்டிய அடிப்படை உரிமைகள்", "ஆட்சியாளர்களுக்கே உரிமைகள்", "படையினரின் உரிமைகள்", "பணக்காரர்களுக்கான சிறப்பு உரிமைகள்"],
+    "answer_en": "Basic rights every person should enjoy",
+    "answer_ta": "ஒவ்வொரு மனிதரும் அனுபவிக்க வேண்டிய அடிப்படை உரிமைகள்"
+  },
+  {
+    "question_en": "What is meant by Population density?",
+    "question_ta": "மக்கள் அடர்த்தி என்றால் என்ன?",
+    "options_en": ["Number of people living per sq.km", "Total population", "Urban population only", "Rural population only"],
+    "options_ta": ["ஒரு சதுர கி.மீ-ல் வாழும் மக்கள் எண்ணிக்கை", "மொத்த மக்கள் தொகை", "நகர மக்கள் தொகை மட்டும்", "கிராம மக்கள் தொகை மட்டும்"],
+    "answer_en": "Number of people living per sq.km",
+    "answer_ta": "ஒரு சதுர கி.மீ-ல் வாழும் மக்கள் எண்ணிக்கை"
+  }
+]

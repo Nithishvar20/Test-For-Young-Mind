@@ -1,0 +1,282 @@
+[
+  {
+    "question_en": "Who are the two boys in 'Two Gentlemen of Verona'?",
+    "question_ta": "",
+    "options_en": ["Tom and Jerry", "Nicola and Jacopo", "Lucia and Maria", "Hillary and Tenzing"],
+    "options_ta": [],
+    "answer_en": "Nicola and Jacopo",
+    "answer_ta": ""
+  },
+  {
+    "question_en": "Who wrote the poem 'All the World’s a Stage'?",
+    "question_ta": "",
+    "options_en": ["William Shakespeare", "Robert Browning", "William Wordsworth", "Toru Dutt"],
+    "options_ta": [],
+    "answer_en": "William Shakespeare",
+    "answer_ta": ""
+  },
+  {
+    "question_en": "What fruit were Nicola and Jacopo selling?",
+    "question_ta": "",
+    "options_en": ["Mangoes", "Bananas", "Wild strawberries", "Apples"],
+    "options_ta": [],
+    "answer_en": "Wild strawberries",
+    "answer_ta": ""
+  },
+  {
+    "question_en": "What disease was Lucia suffering from?",
+    "question_ta": "",
+    "options_en": ["Polio", "Tuberculosis of the spine", "Fever", "Asthma"],
+    "options_ta": [],
+    "answer_en": "Tuberculosis of the spine",
+    "answer_ta": ""
+  },
+  {
+    "question_en": "Who wrote 'Two Gentlemen of Verona'?",
+    "question_ta": "",
+    "options_en": ["A. J. Cronin", "Shakespeare", "Leo Tolstoy", "Percival Wilde"],
+    "options_ta": [],
+    "answer_en": "A. J. Cronin",
+    "answer_ta": ""
+  },
+  {
+    "question_en": "What caused the fall of the castle in 'The Castle'?",
+    "question_ta": "",
+    "options_en": ["Enemy attack", "Earthquake", "Betrayal from within", "Famine"],
+    "options_ta": [],
+    "answer_en": "Betrayal from within",
+    "answer_ta": ""
+  },
+  {
+    "question_en": "Who wrote the essay 'A Nice Cup of Tea'?",
+    "question_ta": "",
+    "options_en": ["A. G. Gardiner", "George Orwell", "Robert Browning", "Yann Martel"],
+    "options_ta": [],
+    "answer_en": "George Orwell",
+    "answer_ta": ""
+  },
+  {
+    "question_en": "Who wrote 'Our Casuarina Tree'?",
+    "question_ta": "",
+    "options_en": ["Carl Sandburg", "Kamala Das", "Toru Dutt", "Sarojini Naidu"],
+    "options_ta": [],
+    "answer_en": "Toru Dutt",
+    "answer_ta": ""
+  },
+  {
+    "question_en": "Which novel was adapted into a film in 2012?",
+    "question_ta": "",
+    "options_en": ["Life of Pi", "The Summit", "The Chair", "The Citadel"],
+    "options_ta": [],
+    "answer_en": "Life of Pi",
+    "answer_ta": ""
+  },
+  {
+    "question_en": "Who wrote 'God Sees the Truth but Waits'?",
+    "question_ta": "",
+    "options_en": ["Carl Sandburg", "A. J. Cronin", "Leo Tolstoy", "Robert Arthur"],
+    "options_ta": [],
+    "answer_en": "Leo Tolstoy",
+    "answer_ta": ""
+  },
+  {
+    "question_en": "Who delivered 'In Celebration of Being Alive'?",
+    "question_ta": "",
+    "options_en": ["Leo Tolstoy", "Nelson Mandela", "Dr. Christian Barnard", "Dr. APJ Abdul Kalam"],
+    "options_ta": [],
+    "answer_en": "Dr. Christian Barnard",
+    "answer_ta": ""
+  },
+  {
+    "question_en": "How many stages of life are described in 'All the World’s a Stage'?",
+    "question_ta": "",
+    "options_en": ["Seven", "Nine", "Six", "Five"],
+    "options_ta": [],
+    "answer_en": "Seven",
+    "answer_ta": ""
+  },
+  {
+    "question_en": "Who wrote 'The Hour of Truth'?",
+    "question_ta": "",
+    "options_en": ["Percival Wilde", "Shakespeare", "Robert Arthur", "Gordon Daviot"],
+    "options_ta": [],
+    "answer_en": "Percival Wilde",
+    "answer_ta": ""
+  },
+  {
+    "question_en": "Who reached the summit of Everest in 1953?",
+    "question_ta": "",
+    "options_en": ["Leo Tolstoy and Wilde", "A. J. Cronin and Orwell", "Nicola and Jacopo", "Edmund Hillary and Tenzing Norgay"],
+    "options_ta": [],
+    "answer_en": "Edmund Hillary and Tenzing Norgay",
+    "answer_ta": ""
+  },
+  {
+    "question_en": "Who wrote 'Ulysses'?",
+    "question_ta": "",
+    "options_en": ["Alfred Tennyson", "William Wordsworth", "Robert Frost", "William Shakespeare"],
+    "options_ta": [],
+    "answer_en": "Alfred Tennyson",
+    "answer_ta": ""
+  },
+  {
+    "question_en": "Who is Ausable in 'The Midnight Visitor'?",
+    "question_ta": "",
+    "options_en": ["A teacher", "A detective", "A poet", "A soldier"],
+    "options_ta": [],
+    "answer_en": "A detective",
+    "answer_ta": ""
+  },
+  {
+    "question_en": "What is the central object in 'The Chair'?",
+    "question_ta": "",
+    "options_en": ["A bed", "A bicycle", "A chair", "A table"],
+    "options_ta": [],
+    "answer_en": "A chair",
+    "answer_ta": ""
+  },
+  {
+    "question_en": "Who wrote 'A Father to His Son'?",
+    "question_ta": "",
+    "options_en": ["Percival Wilde", "Robert Frost", "Toru Dutt", "Carl Sandburg"],
+    "options_ta": [],
+    "answer_en": "Carl Sandburg",
+    "answer_ta": ""
+  },
+  {
+    "question_en": "What is the setting of 'All Summer in a Day'?",
+    "question_ta": "",
+    "options_en": ["Earth", "Moon", "Planet Mars", "Planet Venus"],
+    "options_ta": [],
+    "answer_en": "Planet Venus",
+    "answer_ta": ""
+  },
+  {
+    "question_en": "Who wrote 'Incident of the French Camp'?",
+    "question_ta": "",
+    "options_en": ["Robert Browning", "Toru Dutt", "Carl Sandburg", "Shakespeare"],
+    "options_ta": [],
+    "answer_en": "Robert Browning",
+    "answer_ta": ""
+  },
+  {
+    "question_en": "Who wrote 'On the Rule of the Road'?",
+    "question_ta": "",
+    "options_en": ["Robert Arthur", "George Orwell", "A. G. Gardiner", "Leo Tolstoy"],
+    "options_ta": [],
+    "answer_en": "A. G. Gardiner",
+    "answer_ta": ""
+  },
+  {
+    "question_en": "Which liberty did the old lady misuse in 'On the Rule of the Road'?",
+    "question_ta": "",
+    "options_en": ["Selling goods", "Walking in the middle of the road", "Driving fast", "Shouting loudly"],
+    "options_ta": [],
+    "answer_en": "Walking in the middle of the road",
+    "answer_ta": ""
+  },
+  {
+    "question_en": "Define 'Reported Speech'.",
+    "question_ta": "",
+    "options_en": ["The way we represent the speech of others", "The way we report news", "The way we write letters", "The way we speak poems"],
+    "options_ta": [],
+    "answer_en": "The way we represent the speech of others",
+    "answer_ta": ""
+  },
+  {
+    "question_en": "Change into indirect: He said, 'I am happy.'",
+    "question_ta": "",
+    "options_en": ["He said that he was happy", "He said he is happy", "He told he was happy", "He says that he is happy"],
+    "options_ta": [],
+    "answer_en": "He said that he was happy",
+    "answer_ta": ""
+  },
+  {
+    "question_en": "Fill in: She _____ to school daily.",
+    "question_ta": "",
+    "options_en": ["going", "go", "gone", "goes"],
+    "options_ta": [],
+    "answer_en": "goes",
+    "answer_ta": ""
+  },
+  {
+    "question_en": "What is meant by 'Concord' in grammar?",
+    "question_ta": "",
+    "options_en": ["Agreement between subject and verb", "Agreement between sentences", "Agreement between pronouns", "Agreement between tenses"],
+    "options_ta": [],
+    "answer_en": "Agreement between subject and verb",
+    "answer_ta": ""
+  },
+  {
+    "question_en": "Identify the tense: They had finished the work.",
+    "question_ta": "",
+    "options_en": ["Future Perfect", "Past Perfect", "Present Perfect", "Past Continuous"],
+    "options_ta": [],
+    "answer_en": "Past Perfect",
+    "answer_ta": ""
+  },
+  {
+    "question_en": "Which is a synonym of 'happy'?",
+    "question_ta": "",
+    "options_en": ["Sad", "Lonely", "Angry", "Joyful"],
+    "options_ta": [],
+    "answer_en": "Joyful",
+    "answer_ta": ""
+  },
+  {
+    "question_en": "Which is the antonym of 'honest'?",
+    "question_ta": "",
+    "options_en": ["Truthful", "Dishonest", "Loyal", "Sincere"],
+    "options_ta": [],
+    "answer_en": "Dishonest",
+    "answer_ta": ""
+  },
+  {
+    "question_en": "Use the idiom 'make both ends meet' in a sentence.",
+    "question_ta": "",
+    "options_en": ["He was at both ends of the rope", "He joined both ends of the paper", "He met his friend at the end", "He worked hard to make both ends meet"],
+    "options_ta": [],
+    "answer_en": "He worked hard to make both ends meet",
+    "answer_ta": ""
+  },
+  {
+    "question_en": "Correct the sentence: He don't like mangoes.",
+    "question_ta": "",
+    "options_en": ["He doesn't like mangoes", "He not like mangoes", "He no like mangoes", "He did not liked mangoes"],
+    "options_ta": [],
+    "answer_en": "He doesn't like mangoes",
+    "answer_ta": ""
+  },
+  {
+    "question_en": "Expand: ICT",
+    "question_ta": "",
+    "options_en": ["Indian Communication Tools", "Internet Communication Trends", "International Computer Technology", "Information and Communication Technology"],
+    "options_ta": [],
+    "answer_en": "Information and Communication Technology",
+    "answer_ta": ""
+  },
+  {
+    "question_en": "Write a slogan for 'Save Water'.",
+    "question_ta": "",
+    "options_en": ["Water is Everywhere", "Save Water, Save Life", "Always Waste Water", "Drink More Water"],
+    "options_ta": [],
+    "answer_en": "Save Water, Save Life",
+    "answer_ta": ""
+  },
+  {
+    "question_en": "Identify the figure of speech: 'All the world’s a stage.'",
+    "question_ta": "",
+    "options_en": ["Hyperbole", "Metaphor", "Simile", "Personification"],
+    "options_ta": [],
+    "answer_en": "Metaphor",
+    "answer_ta": ""
+  },
+  {
+    "question_en": "Frame a WH-question for: She lives in Chennai.",
+    "question_ta": "",
+    "options_en": ["Where does she live?", "When does she live?", "Why does she live?", "Who does she live?"],
+    "options_ta": [],
+    "answer_en": "Where does she live?",
+    "answer_ta": ""
+  }
+]

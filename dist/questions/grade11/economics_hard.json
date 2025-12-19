@@ -1,0 +1,274 @@
+[
+  {
+    "question_en": "Which law states that with successive additions of a variable factor to a fixed factor, marginal product will eventually diminish?",
+    "question_ta": "நிலையான காரணியுடன் மாறும் காரணியை தொடர்ந்து சேர்த்தால், அலுவலக உற்பத்தி குறையும் என்று கூறும் சட்டம் எது?",
+    "options_en": ["Law of supply", "Law of diminishing marginal returns", "Law of demand", "Law of variable proportion"],
+    "options_ta": ["சப்ளை சட்டம்", "அலுவலக வருவாய் குறையும் சட்டம்", "தேவை சட்டம்", "மாறும் விகித சட்டம்"],
+    "answer_en": "Law of diminishing marginal returns",
+    "answer_ta": "அலுவலக வருவாய் குறையும் சட்டம்"
+  },
+  {
+    "question_en": "Which method of measuring price elasticity uses percentage change?",
+    "question_ta": "விலை நெகிழ்திறனை அளக்கும் எந்த முறை சதவீத மாற்றத்தைப் பயன்படுத்துகிறது?",
+    "options_en": ["Total expenditure method", "Point method", "Arc method", "Percentage method"],
+    "options_ta": ["மொத்த செலவு முறை", "புள்ளி முறை", "வளைவு முறை", "சதவீத முறை"],
+    "answer_en": "Percentage method",
+    "answer_ta": "சதவீத முறை"
+  },
+  {
+    "question_en": "Which economist is associated with permanent income hypothesis?",
+    "question_ta": "நிரந்தர வருமானக் கருதுகோளுடன் தொடர்புடைய பொருளாதார நிபுணர் யார்?",
+    "options_en": ["Keynes", "Friedman", "Ricardo", "Marshall"],
+    "options_ta": ["கெய்ன்ஸ்", "ஃப்ரீட்மேன்", "ரிக்கார்டோ", "மார்ஷல்"],
+    "answer_en": "Friedman",
+    "answer_ta": "ஃப்ரீட்மேன்"
+  },
+  {
+    "question_en": "In Keynesian theory, investment is determined by?",
+    "question_ta": "கெய்ன்சியன் கோட்பாட்டில் முதலீடு எதனால் தீர்மானிக்கப்படுகிறது?",
+    "options_en": ["Rate of profit", "Marginal efficiency of capital", "Savings rate", "Aggregate supply"],
+    "options_ta": ["லாப விகிதம்", "மூலதனத்தின் அலுவலக திறன்", "சேமிப்பு விகிதம்", "மொத்த சப்ளை"],
+    "answer_en": "Marginal efficiency of capital",
+    "answer_ta": "மூலதனத்தின் அலுவலக திறன்"
+  },
+  {
+    "question_en": "Which curve represents the trade-off between inflation and unemployment?",
+    "question_ta": "பணவீக்கம் மற்றும் வேலையின்மையின் இடையிலான சமநிலையை பிரதிபலிக்கும் வளைவு எது?",
+    "options_en": ["Laffer curve", "Phillips curve", "Engel curve", "IS curve"],
+    "options_ta": ["லாஃபர் வளைவு", "பிலிப்ஸ் வளைவு", "எங்கல் வளைவு", "ஐஎஸ் வளைவு"],
+    "answer_en": "Phillips curve",
+    "answer_ta": "பிலிப்ஸ் வளைவு"
+  },
+  {
+    "question_en": "Which model explains the relationship between savings, investment, and growth?",
+    "question_ta": "சேமிப்பு, முதலீடு மற்றும் வளர்ச்சி இடையிலான உறவை விளக்கும் மாதிரி எது?",
+    "options_en": ["Harrod-Domar model", "Keynesian model", "Ricardian model", "Marshall model"],
+    "options_ta": ["ஹாரோட்-டோமர் மாதிரி", "கெய்ன்சியன் மாதிரி", "ரிக்கார்டியன் மாதிரி", "மார்ஷல் மாதிரி"],
+    "answer_en": "Harrod-Domar model",
+    "answer_ta": "ஹாரோட்-டோமர் மாதிரி"
+  },
+  {
+    "question_en": "Which curve shifts due to changes in fiscal policy?",
+    "question_ta": "நிதி கொள்கை மாற்றங்களால் எந்த வளைவு மாறும்?",
+    "options_en": ["IS curve", "LM curve", "Phillips curve", "Laffer curve"],
+    "options_ta": ["ஐஎஸ் வளைவு", "எல்எம் வளைவு", "பிலிப்ஸ் வளைவு", "லாஃபர் வளைவு"],
+    "answer_en": "IS curve",
+    "answer_ta": "ஐஎஸ் வளைவு"
+  },
+  {
+    "question_en": "Which unemployment arises due to mismatch of skills?",
+    "question_ta": "திறன்கள் பொருந்தாமையால் ஏற்படும் வேலைவாய்ப்பின்மை எது?",
+    "options_en": ["Structural", "Cyclical", "Seasonal", "Frictional"],
+    "options_ta": ["வடிவமைப்பு", "சுழற்சி", "பருவகால", "இடையூறு"],
+    "answer_en": "Structural",
+    "answer_ta": "வடிவமைப்பு"
+  },
+  {
+    "question_en": "Which is the slope of IS curve?",
+    "question_ta": "ஐஎஸ் வளைவின் சாய்வு எதைக் காட்டுகிறது?",
+    "options_en": ["Investment-savings relation", "Money demand relation", "Tax-revenue relation", "Wage-labour relation"],
+    "options_ta": ["முதலீடு-சேமிப்பு உறவு", "பணத் தேவை உறவு", "வரி-வருவாய் உறவு", "ஊதியம்-தொழிலாளர் உறவு"],
+    "answer_en": "Investment-savings relation",
+    "answer_ta": "முதலீடு-சேமிப்பு உறவு"
+  },
+  {
+    "question_en": "In balance of payments, deficit is shown in?",
+    "question_ta": "கட்டண சமநிலையில், பற்றாக்குறை எதில் காட்டப்படுகிறது?",
+    "options_en": ["Capital account", "Current account", "Financial account", "Trade surplus"],
+    "options_ta": ["மூலதனக் கணக்கு", "தற்போதைய கணக்கு", "நிதி கணக்கு", "வர்த்தக அதிகப்படியானது"],
+    "answer_en": "Current account",
+    "answer_ta": "தற்போதைய கணக்கு"
+  },
+  {
+    "question_en": "Which type of taxation takes a higher proportion of income from the rich?",
+    "question_ta": "எந்த வகையான வரி பணக்காரர்களிடமிருந்து அதிக பங்கைக் கொள்கிறது?",
+    "options_en": ["Proportional tax", "Progressive tax", "Regressive tax", "Indirect tax"],
+    "options_ta": ["சமமான வரி", "முன்னேற்றமான வரி", "பின்செல்வரிசை வரி", "மறைமுகவரி"],
+    "answer_en": "Progressive tax",
+    "answer_ta": "முன்னேற்றமான வரி"
+  },
+  {
+    "question_en": "Which theory explains comparative advantage in trade?",
+    "question_ta": "வர்த்தகத்தில் ஒப்பீட்டு நன்மையை விளக்கும் கோட்பாடு எது?",
+    "options_en": ["Absolute cost theory", "Comparative cost theory", "Heckscher-Ohlin theory", "Keynesian theory"],
+    "options_ta": ["முழுமையான செலவு கோட்பாடு", "ஒப்பீட்டு செலவு கோட்பாடு", "ஹெக்சர்-ஒஹ்லின் கோட்பாடு", "கெய்ன்சியன் கோட்பாடு"],
+    "answer_en": "Comparative cost theory",
+    "answer_ta": "ஒப்பீட்டு செலவு கோட்பாடு"
+  },
+  {
+    "question_en": "Which theory advocates government intervention during depression?",
+    "question_ta": "மந்தநிலையின் போது அரசின் தலையீட்டை வலியுறுத்தும் கோட்பாடு எது?",
+    "options_en": ["Classical theory", "Keynesian theory", "Monetarist theory", "Ricardian theory"],
+    "options_ta": ["பாரம்பரிய கோட்பாடு", "கெய்ன்சியன் கோட்பாடு", "பணவியல் கோட்பாடு", "ரிக்கார்டியன் கோட்பாடு"],
+    "answer_en": "Keynesian theory",
+    "answer_ta": "கெய்ன்சியன் கோட்பாடு"
+  },
+  {
+    "question_en": "Which index number eliminates bias of Laspeyres and Paasche?",
+    "question_ta": "லாஸ்பேயர்ஸ் மற்றும் பாஷே குறியீட்டு எண்களின் பாகுபாட்டை நீக்கும் குறியீடு எது?",
+    "options_en": ["Laspeyres index", "Paasche index", "Fisher’s ideal index", "Kelly index"],
+    "options_ta": ["லாஸ்பேயர்ஸ் குறியீடு", "பாஷே குறியீடு", "ஃபிஷர் சிறந்த குறியீடு", "கெல்லி குறியீடு"],
+    "answer_en": "Fisher’s ideal index",
+    "answer_ta": "ஃபிஷர் சிறந்த குறியீடு"
+  },
+  {
+    "question_en": "Which curve represents money market equilibrium?",
+    "question_ta": "பண சந்தை சமநிலையை பிரதிபலிக்கும் வளைவு எது?",
+    "options_en": ["IS curve", "LM curve", "Phillips curve", "Laffer curve"],
+    "options_ta": ["ஐஎஸ் வளைவு", "எல்எம் வளைவு", "பிலிப்ஸ் வளைவு", "லாஃபர் வளைவு"],
+    "answer_en": "LM curve",
+    "answer_ta": "எல்எம் வளைவு"
+  },
+  {
+    "question_en": "Which economist formulated the law of comparative advantage?",
+    "question_ta": "ஒப்பீட்டு நன்மைச் சட்டத்தை உருவாக்கிய பொருளாதார நிபுணர் யார்?",
+    "options_en": ["David Ricardo", "Adam Smith", "Karl Marx", "Keynes"],
+    "options_ta": ["டேவிட் ரிக்கார்டோ", "ஆடம் ஸ்மித்", "கார்ல் மார்க்ஸ்", "கெய்ன்ஸ்"],
+    "answer_en": "David Ricardo",
+    "answer_ta": "டேவிட் ரிக்கார்டோ"
+  },
+  {
+    "question_en": "Which theory states that inflation occurs when money supply grows faster than output?",
+    "question_ta": "பணவீக்கம் பணவழங்கல் உற்பத்தியை விட வேகமாக வளரும்போது ஏற்படும் என்று கூறும் கோட்பாடு எது?",
+    "options_en": ["Keynesian theory", "Quantity theory of money", "Monetarist theory", "Phillips curve"],
+    "options_ta": ["கெய்ன்சியன் கோட்பாடு", "பணத்தின் அளவு கோட்பாடு", "பணவியல் கோட்பாடு", "பிலிப்ஸ் வளைவு"],
+    "answer_en": "Quantity theory of money",
+    "answer_ta": "பணத்தின் அளவு கோட்பாடு"
+  },
+  {
+    "question_en": "Which function of money reduces the need for barter?",
+    "question_ta": "பணத்தின் எந்த செயல்பாடு பரிமாற்ற முறையின் தேவையை குறைக்கிறது?",
+    "options_en": ["Medium of exchange", "Measure of value", "Store of value", "Deferred payment"],
+    "options_ta": ["மாற்று ஊடகம்", "மதிப்பீடு", "மதிப்பு சேமிப்பு", "ஒத்திவைக்கப்பட்ட கட்டணம்"],
+    "answer_en": "Medium of exchange",
+    "answer_ta": "மாற்று ஊடகம்"
+  },
+  {
+    "question_en": "Which curve shows combinations of interest rate and income for equilibrium in goods market?",
+    "question_ta": "வள பொருட்களின் சந்தை சமநிலைக்கான வட்டி விகிதம் மற்றும் வருமானக் கூட்டுக்களை காட்டும் வளைவு எது?",
+    "options_en": ["IS curve", "LM curve", "Phillips curve", "Indifference curve"],
+    "options_ta": ["ஐஎஸ் வளைவு", "எல்எம் வளைவு", "பிலிப்ஸ் வளைவு", "அபேட்சை வளைவு"],
+    "answer_en": "IS curve",
+    "answer_ta": "ஐஎஸ் வளைவு"
+  },
+  {
+    "question_en": "Which is a leakage in the circular flow of income?",
+    "question_ta": "வருமானத்தின் வட்ட ஓட்டத்தில் எது கசிவு (leakage) ஆகும்?",
+    "options_en": ["Investment", "Saving", "Exports", "Government spending"],
+    "options_ta": ["முதலீடு", "சேமிப்பு", "ஏற்றுமதி", "அரசுச் செலவு"],
+    "answer_en": "Saving",
+    "answer_ta": "சேமிப்பு"
+  },
+  {
+    "question_en": "Which concept measures the change in quantity demanded of one good due to change in price of another?",
+    "question_ta": "ஒரு பொருளின் விலை மாற்றத்தால் மற்றொரு பொருளின் தேவை அளவு மாறுவதை அளக்கும் கருத்து எது?",
+    "options_en": ["Price elasticity", "Income elasticity", "Cross elasticity", "Point elasticity"],
+    "options_ta": ["விலை நெகிழ்திறன்", "வருமான நெகிழ்திறன்", "குறுக்கு நெகிழ்திறன்", "புள்ளி நெகிழ்திறன்"],
+    "answer_en": "Cross elasticity",
+    "answer_ta": "குறுக்கு நெகிழ்திறன்"
+  },
+  {
+    "question_en": "Which policy tool is used to control inflation?",
+    "question_ta": "பணவீக்கத்தை கட்டுப்படுத்த எந்தக் கொள்கை கருவி பயன்படுத்தப்படுகிறது?",
+    "options_en": ["Increase money supply", "Reduce government spending", "Lower interest rates", "Increase wages"],
+    "options_ta": ["பணவழங்கலை அதிகரித்தல்", "அரசுச் செலவை குறைத்தல்", "வட்டி விகிதங்களை குறைத்தல்", "ஊதியங்களை உயர்த்துதல்"],
+    "answer_en": "Reduce government spending",
+    "answer_ta": "அரசுச் செலவை குறைத்தல்"
+  },
+  {
+    "question_en": "Which indicator is used for measuring inflation in India?",
+    "question_ta": "இந்தியாவில் பணவீக்கத்தை அளவிட எந்தக் குறியீடு பயன்படுத்தப்படுகிறது?",
+    "options_en": ["WPI", "CPI", "GDP deflator", "NDP"],
+    "options_ta": ["மொத்த விலைச் சுட்டெண் (WPI)", "நுகர்வோர் விலைச் சுட்டெண் (CPI)", "மொத்த உள்நாட்டு உற்பத்தி சீரமைப்பு", "நிகர உள்நாட்டு உற்பத்தி"],
+    "answer_en": "WPI",
+    "answer_ta": "மொத்த விலைச் சுட்டெண் (WPI)"
+  },
+  {
+    "question_en": "Which economist advocated deficit financing for growth?",
+    "question_ta": "வளர்ச்சிக்காக பற்றாக்குறை நிதியுதவி வேண்டும் என்று வலியுறுத்திய பொருளாதார நிபுணர் யார்?",
+    "options_en": ["Adam Smith", "Marshall", "Keynes", "Ricardo"],
+    "options_ta": ["ஆடம் ஸ்மித்", "மார்ஷல்", "கெய்ன்ஸ்", "ரிக்கார்டோ"],
+    "answer_en": "Keynes",
+    "answer_ta": "கெய்ன்ஸ்"
+  },
+  {
+    "question_en": "Which measure of money supply includes currency plus demand deposits?",
+    "question_ta": "நாணயம் மற்றும் தேவைக் கையிருப்புகளை உள்ளடக்கும் பணவழங்கல் அளவீடு எது?",
+    "options_en": ["M1", "M2", "M3", "M4"],
+    "options_ta": ["எம்1", "எம்2", "எம்3", "எம்4"],
+    "answer_en": "M1",
+    "answer_ta": "எம்1"
+  },
+  {
+    "question_en": "Which is an example of automatic stabilizer?",
+    "question_ta": "தானியங்கு நிலைபடுத்தியின் உதாரணம் எது?",
+    "options_en": ["Progressive taxes", "Monetary policy", "Fiscal policy", "Open market operations"],
+    "options_ta": ["முன்னேற்றமான வரிகள்", "பண கொள்கை", "நிதி கொள்கை", "திறந்த சந்தை செயல்பாடுகள்"],
+    "answer_en": "Progressive taxes",
+    "answer_ta": "முன்னேற்றமான வரிகள்"
+  },
+  {
+    "question_en": "Which schedule shows planned expenditure at different income levels?",
+    "question_ta": "பல்வேறு வருமான மட்டங்களில் திட்டமிட்ட செலவினத்தை காட்டும் அட்டவணை எது?",
+    "options_en": ["Consumption schedule", "Saving schedule", "Investment schedule", "Production schedule"],
+    "options_ta": ["நுகர்வு அட்டவணை", "சேமிப்பு அட்டவணை", "முதலீட்டு அட்டவணை", "உற்பத்தி அட்டவணை"],
+    "answer_en": "Consumption schedule",
+    "answer_ta": "நுகர்வு அட்டவணை"
+  },
+  {
+    "question_en": "Which economist is associated with liquidity preference theory?",
+    "question_ta": "திரவ விருப்பக் கோட்பாட்டுடன் தொடர்புடைய பொருளாதார நிபுணர் யார்?",
+    "options_en": ["Marshall", "Keynes", "Ricardo", "Adam Smith"],
+    "options_ta": ["மார்ஷல்", "கெய்ன்ஸ்", "ரிக்கார்டோ", "ஆடம் ஸ்மித்"],
+    "answer_en": "Keynes",
+    "answer_ta": "கெய்ன்ஸ்"
+  },
+  {
+    "question_en": "Which trade policy instrument protects domestic industries?",
+    "question_ta": "உள்நாட்டு தொழில்களை பாதுகாக்கும் வர்த்தகக் கொள்கை கருவி எது?",
+    "options_en": ["Subsidy", "Quota", "Tariff", "All of these"],
+    "options_ta": ["உதவித்தொகை", "ஒதுக்கீடு", "சுங்கவரி", "மேலே உள்ள அனைத்தும்"],
+    "answer_en": "All of these",
+    "answer_ta": "மேலே உள்ள அனைத்தும்"
+  },
+  {
+    "question_en": "Which model shows simultaneous equilibrium in goods and money market?",
+    "question_ta": "பொருட்கள் மற்றும் பண சந்தைகளில் ஒரே நேரத்தில் சமநிலையை காட்டும் மாதிரி எது?",
+    "options_en": ["IS-LM model", "Phillips model", "Harrod-Domar model", "Ricardian model"],
+    "options_ta": ["ஐஎஸ்-எல்எம் மாதிரி", "பிலிப்ஸ் மாதிரி", "ஹாரோட்-டோமர் மாதிரி", "ரிக்கார்டியன் மாதிரி"],
+    "answer_en": "IS-LM model",
+    "answer_ta": "ஐஎஸ்-எல்எம் மாதிரி"
+  },
+  {
+    "question_en": "Which curve explains the inverse relation between tax rate and revenue?",
+    "question_ta": "வரி விகிதம் மற்றும் வருவாயின் எதிர்மறை உறவை விளக்கும் வளைவு எது?",
+    "options_en": ["Phillips curve", "Laffer curve", "Engel curve", "IS curve"],
+    "options_ta": ["பிலிப்ஸ் வளைவு", "லாஃபர் வளைவு", "எங்கல் வளைவு", "ஐஎஸ் வளைவு"],
+    "answer_en": "Laffer curve",
+    "answer_ta": "லாஃபர் வளைவு"
+  },
+  {
+    "question_en": "Which indicator shows distribution of income inequality?",
+    "question_ta": "வருமானச் சீரற்ற விநியோகத்தை காட்டும் குறியீடு எது?",
+    "options_en": ["HDI", "Lorenz curve", "CPI", "GDP"],
+    "options_ta": ["மனித வள குறியீடு", "லோரன்ஸ் வளைவு", "சிபிஐ", "மொத்த உள்நாட்டு உற்பத்தி"],
+    "answer_en": "Lorenz curve",
+    "answer_ta": "லோரன்ஸ் வளைவு"
+  },
+  {
+    "question_en": "Which index is used to measure human development?",
+    "question_ta": "மனித முன்னேற்றத்தை அளவிட எந்தக் குறியீடு பயன்படுத்தப்படுகிறது?",
+    "options_en": ["HDI", "GNP", "GDP", "WPI"],
+    "options_ta": ["மனித வள குறியீடு (HDI)", "மொத்த தேசிய உற்பத்தி", "மொத்த உள்நாட்டு உற்பத்தி", "மொத்த விலைச் சுட்டெண்"],
+    "answer_en": "HDI",
+    "answer_ta": "மனித வள குறியீடு (HDI)"
+  },
+  {
+    "question_en": "Which measure is used to avoid double counting in GDP?",
+    "question_ta": "மொத்த உள்நாட்டு உற்பத்தியில் இரட்டைப் பதிவைத் தவிர்க்க எந்த அளவீடு பயன்படுத்தப்படுகிறது?",
+    "options_en": ["Value added method", "Income method", "Expenditure method", "Output method"],
+    "options_ta": ["மதிப்புக் கூடுதல் முறை", "வருமான முறை", "செலவீடு முறை", "வெளியீடு முறை"],
+    "answer_en": "Value added method",
+    "answer_ta": "மதிப்புக் கூடுதல் முறை"
+  }
+]

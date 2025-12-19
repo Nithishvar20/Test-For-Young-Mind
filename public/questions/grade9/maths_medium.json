@@ -1,0 +1,226 @@
+[
+  {
+    "question_en": "If (x^2−1) is divisible by (x−1), remainder is",
+    "question_ta": "(x^2−1) ஐ (x−1) கொண்டு வகுத்தால் மீதி (remainder) என்ன?",
+    "options_en": ["2", "−1", "0", "1"],
+    "options_ta": ["2", "−1", "0", "1"],
+    "answer_en": "0",
+    "answer_ta": "0"
+  },
+  {
+    "question_en": "If a:b = 3:4 and b:c = 5:6, the ratio a:c is",
+    "question_ta": "a:b =3:4 மற்றும் b:c =5:6 என்றால் a:c எது?",
+    "options_en": ["5:6", "15:24", "9:8", "3:4"],
+    "options_ta": ["5:6", "15:24", "9:8", "3:4"],
+    "answer_en": "15:24",
+    "answer_ta": "15:24"
+  },
+  {
+    "question_en": "If two circles touch internally, number of common points is",
+    "question_ta": "இரு வட்டங்கள் உள்ளங்குடித்து (internally) தொடினால் பொதுவான புள்ளிகள் எத்தனை?",
+    "options_en": ["2", "1", "0", "infinite"],
+    "options_ta": ["2", "1", "0", "முடிவில்லாதவை"],
+    "answer_en": "1",
+    "answer_ta": "1"
+  },
+  {
+    "question_en": "Solve for x: 2x+3=11",
+    "question_ta": "2x+3=11 என்றால் x?",
+    "options_en": ["4", "1", "5", "2"],
+    "options_ta": ["4", "1", "5", "2"],
+    "answer_en": "4",
+    "answer_ta": "4"
+  },
+  {
+    "question_en": "If GCD of 12 and 18 is",
+    "question_ta": "12 மற்றும் 18 இன் GCD எது?",
+    "options_en": ["18", "16", "12", "6"],
+    "options_ta": ["18", "16", "12", "6"],
+    "answer_en": "6",
+    "answer_ta": "6"
+  },
+  {
+    "question_en": "The set {x|x is even and 1<x<6} equals",
+    "question_ta": " {x|x even மற்றும் 1<x<6} = ?",
+    "options_en": ["{2,4}", "{2,1,4}", "{1,3,5}", "{4,6}"],
+    "options_ta": ["{2,4}", "{2,1,4}", "{1,3,5}", "{4,6}"],
+    "answer_en": "{2,4}",
+    "answer_ta": "{2,4}"
+  },
+  {
+    "question_en": "If a^2−b^2=(a−b)(a+b), this is an example of",
+    "question_ta": "a^2−b^2=(a−b)(a+b) என்பது எந்தஅடையாளத்திற்கு உதாரணம்?",
+    "options_en": ["Cube identity", "Linear identity", "Difference of squares", "Square of sum"],
+    "options_ta": ["முக்கூறு அடையாளம்", "சரஇடையியல் அடையாளம்", "குறிவை வைக்கப்பட்ட பாறைகள்", "கூட்டத்தின் சதுரம்"],
+    "answer_en": "Difference of squares",
+    "answer_ta": "குறிவை வைக்கப்பட்ட பாறைகள்"
+  },
+  {
+    "question_en": "If mid-point of AB is (2,3) and A is (1,1), B is",
+    "question_ta": "AB இன் midpoint (2,3) A=(1,1) என்றால் B = ?",
+    "options_en": ["(2,2)", "(3,5)", "(1,3)", "(4,6)"],
+    "options_ta": ["(2,2)", "(3,5)", "(1,3)", "(4,6)"],
+    "answer_en": "(3,5)",
+    "answer_ta": "(3,5)"
+  },
+  {
+    "question_en": "In triangle, sum of interior angles is",
+    "question_ta": "ஒரு முக்கோணத்தின் உள்ளக கோணங்களின் கூட்டம்?",
+    "options_en": ["360°", "90°", "270°", "180°"],
+    "options_ta": ["360°", "90°", "270°", "180°"],
+    "answer_en": "180°",
+    "answer_ta": "180°"
+  },
+  {
+    "question_en": "If mean of 4 numbers is 7 and three numbers are 5,8,10, find the fourth",
+    "question_ta": "4 எண்களின் சராசரி 7. மூன்று எண்கள் 5,8,10 என்றால் நான்காவது எண்?",
+    "options_en": ["6", "2", "7", "4"],
+    "options_ta": ["6", "2", "7", "4"],
+    "answer_en": "2",
+    "answer_ta": "2"
+  },
+  {
+    "question_en": "If tangent of 45° equals",
+    "question_ta": "tan45° = ?",
+    "options_en": ["1", "0", "√2", "√3"],
+    "options_ta": ["1", "0", "√2", "√3"],
+    "answer_en": "1",
+    "answer_ta": "1"
+  },
+  {
+    "question_en": "The area of triangle with base 10 and height 6 is",
+    "question_ta": "அடித்தளம் 10, உயரம் 6 கொண்ட முக்கோணத்தின் பரப்பு?",
+    "options_en": ["60", "30", "40", "16"],
+    "options_ta": ["60", "30", "40", "16"],
+    "answer_en": "30",
+    "answer_ta": "30"
+  },
+  {
+    "question_en": "If polynomial f(x)=x^2+4x+4, it factors as",
+    "question_ta": "f(x)=x^2+4x+4 என்பதில் பாகுபடுத்துக:",
+    "options_en": ["(x+4)(x+1)", "(x+1)^2", "(x−2)^2", "(x+2)^2"],
+    "options_ta": ["(x+4)(x+1)", "(x+1)^2", "(x−2)^2", "(x+2)^2"],
+    "answer_en": "(x+2)^2",
+    "answer_ta": "(x+2)^2"
+  },
+  {
+    "question_en": "If two events are mutually exclusive, P(A∪B) =",
+    "question_ta": "இருவேறு நிகழ்வுகள் ஒருவருக்கொருவர் விலக்கப்பட்டவை என்றால் P(A∪B) = ?",
+    "options_en": ["P(A)+P(B)", "P(A)−P(B)", "P(A)/P(B)", "P(A)P(B)"],
+    "options_ta": ["P(A)+P(B)", "P(A)−P(B)", "P(A)/P(B)", "P(A)P(B)"],
+    "answer_en": "P(A)+P(B)",
+    "answer_ta": "P(A)+P(B)"
+  },
+  {
+    "question_en": "If a:b:c = 2:3:4 and sum is 18, a equals",
+    "question_ta": "a:b:c =2:3:4 மற்றும் கூட்டம் 18 என்றால் a?",
+    "options_en": ["6", "2", "8", "4"],
+    "options_ta": ["6", "2", "8", "4"],
+    "answer_en": "4",
+    "answer_ta": "4"
+  },
+  {
+    "question_en": "If sinθ = opposite/hypotenuse, for θ in a right triangle, this ratio is",
+    "question_ta": "sinθ = எதிர்/மிகை என்றால் இது எந்தவகை உறுப்பு?",
+    "options_en": ["Trigonometric ratio", "Median", "Arithmetic mean", "Geometric mean"],
+    "options_ta": ["முக்கோண சார்ந்த விகிதம்", "மைய மதிப்பு", "சராசரி", "பண்பியல் சராசரி"],
+    "answer_en": "Trigonometric ratio",
+    "answer_ta": "முக்கோண சார்ந்த விகிதம்"
+  },
+  {
+    "question_en": "If distance formula uses √[(x2−x1)^2+(y2−y1)^2], that is based on",
+    "question_ta": "தூரம் கோட்பாடு √[(x2−x1)^2+(y2−y1)^2] என்பது எந்த கோட்பாட்டின்படி?",
+    "options_en": ["Circle equation", "Logarithm", "Pythagoras theorem", "Similarity"],
+    "options_ta": ["வட்டச்சமன்பாடு", "லாகரிதம்", "பிதாகரஸ் விதி", "ஒத்தமையாக்கல்"],
+    "answer_en": "Pythagoras theorem",
+    "answer_ta": "பிதாகரஸ் விதி"
+  },
+  {
+    "question_en": "If a cylinder radius 3 height 7, volume equals (π omitted)",
+    "question_ta": "செங்குத்து உருவின் (cylinder) radius=3, height=7 என்றால் அளவு(volume) = ? (π-ஐ எழுத்து விடவும்)",
+    "options_en": ["21×7", "6×7", "9×7", "3×7"],
+    "options_ta": ["21×7", "6×7", "9×7", "3×7"],
+    "answer_en": "9×7",
+    "answer_ta": "9×7"
+  },
+  {
+    "question_en": "If two chords in a circle are equal, their distances from center are",
+    "question_ta": "ஒரு வட்டத்தில் இரண்டு chordகள் சமமாயின் அவற்றின் மையத்திலிருந்து தூரம்?",
+    "options_en": ["Infinity", "Different", "Equal", "Zero"],
+    "options_ta": ["முடிவில்லை", "விதவிதம்", "சமம்", "பூஜ்ஜியம்"],
+    "answer_en": "Equal",
+    "answer_ta": "சமம்"
+  },
+  {
+    "question_en": "Which is not a factor of x^2−9?",
+    "question_ta": "x^2−9 இன் ஒரு காரணியாக இல்லாதது?",
+    "options_en": ["x+3", "x−4", "x−3", "x−3"],
+    "options_ta": ["x+3", "x−4", "x−3", "x−3"],
+    "answer_en": "x−4",
+    "answer_ta": "x−4"
+  },
+  {
+    "question_en": "If mean = mode = median, the distribution is",
+    "question_ta": "mean = mode = median என்றால் பகிர்வு (distribution) யது?",
+    "options_en": ["Skewed left", "Bimodal", "Symmetric", "Skewed right"],
+    "options_ta": ["இடது வலிப்பு", "இரு முக்கியம்", "இணைவான (Symmetric)", "வலது வலிப்பு"],
+    "answer_en": "Symmetric",
+    "answer_ta": "இணைவான (Symmetric)"
+  },
+  {
+    "question_en": "If area of circle = πr^2 and r=4, area equals",
+    "question_ta": "வட்டத்தின் பரப்பு = πr^2 மற்றும் r=4 என்றால் பரப்பு?",
+    "options_en": ["32π", "4π", "16π", "8π"],
+    "options_ta": ["32π", "4π", "16π", "8π"],
+    "answer_en": "16π",
+    "answer_ta": "16π"
+  },
+  {
+    "question_en": "If an angle in alternate interior position equals 50°, the corresponding angle is",
+    "question_ta": "alternate interior கோணம் 50° என்றால் அதனுடன் இணையான வரையறை கோணம்?",
+    "options_en": ["50°", "40°", "90°", "130°"],
+    "options_ta": ["50°", "40°", "90°", "130°"],
+    "answer_en": "50°",
+    "answer_ta": "50°"
+  },
+  {
+    "question_en": "If a triangle's sides are proportional, triangles are",
+    "question_ta": "முக்கோணத்தின் பக்கங்கள் பரிமாணமாக இருந்தால், முக்கோணங்கள்?",
+    "options_en": ["Congruent", "Similar", "Right-angled only", "Isosceles only"],
+    "options_ta": ["இறுக்கமாக பொருந்திய", "ஒத்ததாக", "விலக்கு கோணமுள்ளவை மட்டும்", "சம பக்கம் கொண்டவை மட்டுமே"],
+    "answer_en": "Similar",
+    "answer_ta": "ஒத்ததாக"
+  },
+  {
+    "question_en": "If quadratic has equal roots, discriminant is",
+    "question_ta": "ஒரு இரவேர் சமமாக இருந்தால் discriminant என்ன?",
+    "options_en": ["Positive", "Zero", "Negative", "Undefined"],
+    "options_ta": ["நேர்மையாகிய", "பூஜ்ஜியம்", "எதிர்மறை", "அவதானிக்கப்படாதது"],
+    "answer_en": "Zero",
+    "answer_ta": "பூஜ்ஜியம்"
+  },
+  {
+    "question_en": "If 3 lines are concurrent, they meet at",
+    "question_ta": "3 கோட்டுகள் ஒரேநேரத்தின் போது எங்கு கூடுகின்றன?",
+    "options_en": ["Parallel lines", "No intersection", "A circle", "A single point"],
+    "options_ta": ["சமம் கோட்டுகள்", "காணப்படாத இணைப்பு", "ஒரு வட்டம்", "ஒரே புள்ளியில்"],
+    "answer_en": "A single point",
+    "answer_ta": "ஒரே புள்ளியில்"
+  },
+  {
+    "question_en": "If the AP has first term 2 and common difference 3, the 4th term is",
+    "question_ta": "AP-இன் முதல் து 2 மற்றும் பொதுச் வெவ்வேறு 3 என்றால் 4வது உறுப்பு?",
+    "options_en": ["8", "2", "14", "11"],
+    "options_ta": ["8", "2", "14", "11"],
+    "answer_en": "11",
+    "answer_ta": "11"
+  },
+  {
+    "question_en": "If probability of event A is 0.3 and B is 0.4 and independent, P(A∩B) =",
+    "question_ta": "A இன் வாய்ப்பு 0.3, B 0.4 மற்றும் சுயாதீனமானால் P(A∩B) = ?",
+    "options_en": ["0.3", "0.12", "0.7", "0.1"],
+    "options_ta": ["0.3", "0.12", "0.7", "0.1"],
+    "answer_en": "0.12",
+    "answer_ta": "0.12"
+  }
+]

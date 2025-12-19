@@ -1,0 +1,290 @@
+[
+  {
+    "question_en": "A body covers 20 m in 4 s. What is its average speed?",
+    "question_ta": "ஒரு உடல் 4 வினாடிகளில் 20 மீ செல்கிறது. அதன் சராசரி வேகம் என்ன?",
+    "options_en": ["2 m/s", "4 m/s", "5 m/s", "10 m/s"],
+    "options_ta": ["2 மீ/விநா", "4 மீ/விநா", "5 மீ/விநா", "10 மீ/விநா"],
+    "answer_en": "5 m/s",
+    "answer_ta": "5 மீ/விநா"
+  },
+  {
+    "question_en": "A car starts from rest and attains a velocity of 20 m/s in 10 s. Its acceleration is?",
+    "question_ta": "ஒரு கார் அமைதியிலிருந்து தொடங்கி 10 வினாடிகளில் 20 மீ/விநா வேகம் அடைந்தால், அதன் துரிதம் என்ன?",
+    "options_en": ["1 m/s²", "2 m/s²", "4 m/s²", "5 m/s²"],
+    "options_ta": ["1 மீ/விநா²", "2 மீ/விநா²", "4 மீ/விநா²", "5 மீ/விநா²"],
+    "answer_en": "2 m/s²",
+    "answer_ta": "2 மீ/விநா²"
+  },
+  {
+    "question_en": "A ball is thrown upwards with velocity 10 m/s. How high will it rise? (g = 10 m/s²)",
+    "question_ta": "ஒரு பந்து 10 மீ/விநா வேகத்தில் மேலே எறியப்படுகிறது. அது எவ்வளவு உயரம் செல்லும்? (g = 10 m/s²)",
+    "options_en": ["2.5 m", "5 m", "10 m", "15 m"],
+    "options_ta": ["2.5 மீ", "5 மீ", "10 மீ", "15 மீ"],
+    "answer_en": "5 m",
+    "answer_ta": "5 மீ"
+  },
+  {
+    "question_en": "Work done by a force of 10 N in moving a body 5 m is?",
+    "question_ta": "ஒரு உடலை 5 மீ நகர்த்த 10 N விசை செய்த வேலை என்ன?",
+    "options_en": ["25 J", "40 J", "50 J", "60 J"],
+    "options_ta": ["25 ஜூல்", "40 ஜூல்", "50 ஜூல்", "60 ஜூல்"],
+    "answer_en": "50 J",
+    "answer_ta": "50 ஜூல்"
+  },
+  {
+    "question_en": "If power = 100 W and time = 10 s, what is the work done?",
+    "question_ta": "சக்தி = 100 W மற்றும் நேரம் = 10 s என்றால் செய்யப்படும் வேலை என்ன?",
+    "options_en": ["500 J", "1000 J", "1500 J", "2000 J"],
+    "options_ta": ["500 ஜூல்", "1000 ஜூல்", "1500 ஜூல்", "2000 ஜூல்"],
+    "answer_en": "1000 J",
+    "answer_ta": "1000 ஜூல்"
+  },
+  {
+    "question_en": "The momentum of a body of mass 2 kg moving with velocity 3 m/s is?",
+    "question_ta": "3 மீ/விநா வேகத்தில் நகரும் 2 kg உடலின் வேகோன் என்ன?",
+    "options_en": ["2 kg m/s", "3 kg m/s", "5 kg m/s", "6 kg m/s"],
+    "options_ta": ["2 கி.கி மீ/விநா", "3 கி.கி மீ/விநா", "5 கி.கி மீ/விநா", "6 கி.கி மீ/விநா"],
+    "answer_en": "6 kg m/s",
+    "answer_ta": "6 கி.கி மீ/விநா"
+  },
+  {
+    "question_en": "If force = 20 N and area = 2 m², the pressure is?",
+    "question_ta": "விசை = 20 N மற்றும் பரப்பளவு = 2 m² என்றால் அழுத்தம் என்ன?",
+    "options_en": ["5 Pa", "10 Pa", "20 Pa", "40 Pa"],
+    "options_ta": ["5 பாஸ்கல்", "10 பாஸ்கல்", "20 பாஸ்கல்", "40 பாஸ்கல்"],
+    "answer_en": "10 Pa",
+    "answer_ta": "10 பாஸ்கல்"
+  },
+  {
+    "question_en": "A machine does 500 J of work in 50 s. Its power is?",
+    "question_ta": "ஒரு இயந்திரம் 50 வினாடிகளில் 500 J வேலை செய்கிறது. அதன் சக்தி என்ன?",
+    "options_en": ["5 W", "10 W", "15 W", "20 W"],
+    "options_ta": ["5 வாட்", "10 வாட்", "15 வாட்", "20 வாட்"],
+    "answer_en": "10 W",
+    "answer_ta": "10 வாட்"
+  },
+  {
+    "question_en": "If two resistors 2 Ω and 3 Ω are connected in series, the total resistance is?",
+    "question_ta": "2 Ω மற்றும் 3 Ω எதிர்ப்புகள் தொடர்ச்சியாக இணைக்கப்பட்டால் மொத்த எதிர்ப்பு என்ன?",
+    "options_en": ["1 Ω", "2 Ω", "3 Ω", "5 Ω"],
+    "options_ta": ["1 Ω", "2 Ω", "3 Ω", "5 Ω"],
+    "answer_en": "5 Ω",
+    "answer_ta": "5 Ω"
+  },
+  {
+    "question_en": "If two resistors 6 Ω and 3 Ω are connected in parallel, the total resistance is?",
+    "question_ta": "6 Ω மற்றும் 3 Ω எதிர்ப்புகள் இணை இணைப்பில் இணைக்கப்பட்டால் மொத்த எதிர்ப்பு என்ன?",
+    "options_en": ["2 Ω", "3 Ω", "4 Ω", "5 Ω"],
+    "options_ta": ["2 Ω", "3 Ω", "4 Ω", "5 Ω"],
+    "answer_en": "2 Ω",
+    "answer_ta": "2 Ω"
+  },
+  {
+    "question_en": "The refractive index of glass is 1.5. If the speed of light in vacuum is 3 × 10^8 m/s, what is its speed in glass?",
+    "question_ta": "கண்ணாடியின் அபவர்த்தன குறியீடு 1.5. வெற்றிடத்தில் ஒளியின் வேகம் 3 × 10^8 m/s என்றால் கண்ணாடியில் அதன் வேகம் என்ன?",
+    "options_en": ["1 × 10^8 m/s", "1.5 × 10^8 m/s", "2 × 10^8 m/s", "2.5 × 10^8 m/s"],
+    "options_ta": ["1 × 10^8 மீ/விநா", "1.5 × 10^8 மீ/விநா", "2 × 10^8 மீ/விநா", "2.5 × 10^8 மீ/விநா"],
+    "answer_en": "2 × 10^8 m/s",
+    "answer_ta": "2 × 10^8 மீ/விநா"
+  },
+  {
+    "question_en": "If frequency = 100 Hz and wavelength = 2 m, velocity is?",
+    "question_ta": "அதிர்வெண் = 100 Hz மற்றும் அலைநீளம் = 2 m என்றால் வேகம் என்ன?",
+    "options_en": ["50 m/s", "100 m/s", "150 m/s", "200 m/s"],
+    "options_ta": ["50 மீ/விநா", "100 மீ/விநா", "150 மீ/விநா", "200 மீ/விநா"],
+    "answer_en": "200 m/s",
+    "answer_ta": "200 மீ/விநா"
+  },
+  {
+    "question_en": "A spring with spring constant 200 N/m is stretched by 0.1 m. What is the potential energy stored?",
+    "question_ta": "உடைவுச் நிலை மாறுபாடு 200 N/m கொண்ட ஸ்பிரிங் 0.1 m நீடிக்கப்பட்டால் எழும்பு சக்தி எவ்வளவு சேமிக்கப்படும்?",
+    "options_en": ["1 J", "0.5 J", "2 J", "0.05 J"],
+    "options_ta": ["1 ஜே", "0.5 ஜே", "2 ஜே", "0.05 ஜே"],
+    "answer_en": "1 J",
+    "answer_ta": "1 ஜே"
+  },
+  {
+    "question_en": "A projectile is fired horizontally from a height of 45 m. How long does it take to reach the ground? (g = 9.8 m/s²)",
+    "question_ta": "ஒரு பொழுவான பொருள் 45 m உயரத்திலிருந்து நீட்ட்டு பறக்கப்படுகிறது. அது தரையினை எவ்வளவு நேரத்தில் அடையும்? (g = 9.8 m/s²)",
+    "options_en": ["3.0 s", "3.03 s", "4.5 s", "6.0 s"],
+    "options_ta": ["3.0 s", "3.03 s", "4.5 s", "6.0 s"],
+    "answer_en": "3.03 s",
+    "answer_ta": "3.03 வினாடி"
+  },
+  {
+    "question_en": "A wheel of radius 0.5 m rotates at 120 rpm. What is its angular speed in rad/s?",
+    "question_ta": "0.5 m ஆரம் கொண்ட சக்கரம் 120 rpm வீதத்தில் சுழலின் போது அதன் கோண வேகம் (rad/s) எவ்வளவு?",
+    "options_en": ["12.57 rad/s", "4π rad/s", "8π rad/s", "2π rad/s"],
+    "options_ta": ["12.57 rad/s", "4π rad/s", "8π rad/s", "2π rad/s"],
+    "answer_en": "12.57 rad/s",
+    "answer_ta": "12.57 rad/s"
+  },
+  {
+    "question_en": "An object of mass 4 kg moving at 3 m/s collides and sticks to a stationary 6 kg object. What is their common velocity after collision?",
+    "question_ta": "4 kg மாஸ் கொண்டு 3 m/s வேகத்தில் நகரும் பொருள் ஓரு நிலையான 6 kg உடனூடன் மோக்கி இணைந்தால் மோக்கம்-பின்னிலான சராசரி வேகம் என்ன?",
+    "options_en": ["0.6 m/s", "1.2 m/s", "0.8 m/s", "1.0 m/s"],
+    "options_ta": ["0.6 மீ/விநா", "1.2 மீ/விநா", "0.8 மீ/விநா", "1.0 மீ/விநா"],
+    "answer_en": "1.2 m/s",
+    "answer_ta": "1.2 மீ/விநா"
+  },
+  {
+    "question_en": "A block of mass 2 kg is pulled with a horizontal force of 10 N on a frictionless surface. What is its acceleration?",
+    "question_ta": "2 kg மாஸ் கொண்ட ஒரு புதுப்பு உருமாற்றமில்லாத மேற்பரப்பில் 10 N அச்சுபுர_force கொண்டு இழுக்கப்படுகிறது. அதன் துரிதம் என்ன?",
+    "options_en": ["2 m/s²", "4 m/s²", "5 m/s²", "10 m/s²"],
+    "options_ta": ["2 மீ/விநா²", "4 மீ/விநா²", "5 மீ/விநா²", "10 மீ/விநா²"],
+    "answer_en": "5 m/s²",
+    "answer_ta": "5 மீ/விநா²"
+  },
+  {
+    "question_en": "Heat required to raise temperature of 100 g of water by 5°C (specific heat of water = 4.2 J/g°C) is:",
+    "question_ta": "100 g தண்ணீரின் வெப்பநிலையை 5°C உயர்த்த தேவையான வெப்பம் (தண்ணீரின் தனித்த வெப்பம் = 4.2 J/g°C) எவ்வளவு?",
+    "options_en": ["2100 J", "420 J", "8400 J", "1050 J"],
+    "options_ta": ["2100 ஜே", "420 ஜே", "8400 ஜே", "1050 ஜே"],
+    "answer_en": "2100 J",
+    "answer_ta": "2100 ஜே"
+  },
+  {
+    "question_en": "A capacitor of 2 μF is charged to 100 V. What is its stored energy? (E = 1/2 C V²)",
+    "question_ta": "2 μF திறன் கொண்ட ஒரு கப்பாசிட்டரை 100 V வரை சார்ஜ் செய்தால் அதில் சேமிக்கப்படும் சக்தி எவ்வளவு? (E = 1/2 C V²)",
+    "options_en": ["10 mJ", "1 mJ", "50 mJ", "0.01 J"],
+    "options_ta": ["10 மி.ஜே", "1 மி.ஜே", "50 மி.ஜே", "0.01 ஜே"],
+    "answer_en": "10 mJ",
+    "answer_ta": "10 மி.ஜே"
+  },
+  {
+    "question_en": "If the wavelength of light is 600 nm, what is its frequency? (c = 3 × 10^8 m/s)",
+    "question_ta": "ஒளியின் அலைநீளம் 600 nm என்றால் அதன் அதிர்வெண் என்ன? (c = 3 × 10^8 m/s)",
+    "options_en": ["5 × 10^14 Hz", "3 × 10^14 Hz", "6 × 10^14 Hz", "2 × 10^14 Hz"],
+    "options_ta": ["5 × 10^14 Hz", "3 × 10^14 Hz", "6 × 10^14 Hz", "2 × 10^14 Hz"],
+    "answer_en": "5 × 10^14 Hz",
+    "answer_ta": "5 × 10^14 Hz"
+  },
+  {
+    "question_en": "A conductor of resistance 10 Ω carries a current of 2 A. What is the power dissipated?",
+    "question_ta": "10 Ω எதிர்ப்பு கொண்ட ஒரு இயக்கத்தில் 2 A மின்நடை ஓடினால் விரயமாகும் சக்தி என்ன?",
+    "options_en": ["20 W", "40 W", "10 W", "5 W"],
+    "options_ta": ["20 வாட்", "40 வாட்", "10 வாட்", "5 வாட்"],
+    "answer_en": "40 W",
+    "answer_ta": "40 வாட்"
+  },
+  {
+    "question_en": "A rod 2 m long carries a uniform linear charge density of 5 μC/m. Total charge on the rod is:",
+    "question_ta": "2 m நீளமான ஒரு கம்பி ஒன்றில் ஒற்றைப் பாசா அடர்த்தி 5 μC/m இருந்தால் மொத்த மின் சார்ஜ் என்ன?",
+    "options_en": ["5 μC", "10 μC", "2.5 μC", "0.4 μC"],
+    "options_ta": ["5 μC", "10 μC", "2.5 μC", "0.4 μC"],
+    "answer_en": "10 μC",
+    "answer_ta": "10 μC"
+  },
+  {
+    "question_en": "Moment of inertia of a thin rod of mass m and length L about its center is:",
+    "question_ta": "மையத்தின் சுற்றிலும் மாஸ் m மற்றும் நீளம் L கொண்ட ஒரு எலும்பு (thin rod) இன் மொமென்ட் ஆஃப் இனர்ஷியா எது?",
+    "options_en": ["(1/12) mL²", "(1/3) mL²", "(1/2) mL²", "mL²"],
+    "options_ta": ["(1/12) mL²", "(1/3) mL²", "(1/2) mL²", "mL²"],
+    "answer_en": "(1/12) mL²",
+    "answer_ta": "(1/12) mL²"
+  },
+  {
+    "question_en": "Work done in stretching a wire depends on:",
+    "question_ta": "ஒரு கயிற்றை நீட்டிக்கலை கரசும்போது செய்யப்படும் வேலை எந்தவற்றில் சாரும்?",
+    "options_en": ["Only force", "Only extension", "Force and extension", "Material only"],
+    "options_ta": ["மட்டும் விசை", "மட்டும் நீளம்", "விசை மற்றும் நீளம்", "கூறின் பொருள் மட்டுமே"],
+    "answer_en": "Force and extension",
+    "answer_ta": "விசை மற்றும் நீளம்"
+  },
+  {
+    "question_en": "A stone is dropped from a height of 20 m. How long does it take to reach the ground? (g = 10 m/s²)",
+    "question_ta": "20 m உயரத்திலிருந்து ஒரு கல் கைவிடப்படுகிறது. அது தரையை எத்தனை நேரத்தில் அடையும்? (g = 10 m/s²)",
+    "options_en": ["1 s", "2 s", "3 s", "4 s"],
+    "options_ta": ["1 வி", "2 வி", "3 வி", "4 வி"],
+    "answer_en": "2 s",
+    "answer_ta": "2 வி"
+  },
+  {
+    "question_en": "A car of mass 1000 kg moving at 10 m/s is stopped by a force of 5000 N. What is the stopping distance?",
+    "question_ta": "1000 kg எடை கொண்ட கார் 10 m/s வேகத்தில் செல்கிறது. 5000 N விசையால் நிறுத்தப்பட்டால் நிறுத்தத் தூரம் என்ன?",
+    "options_en": ["5 m", "10 m", "15 m", "20 m"],
+    "options_ta": ["5 மீ", "10 மீ", "15 மீ", "20 மீ"],
+    "answer_en": "10 m",
+    "answer_ta": "10 மீ"
+  },
+  {
+    "question_en": "The kinetic energy of a body of mass 2 kg moving with velocity 4 m/s is?",
+    "question_ta": "2 kg எடை கொண்ட ஒரு உடல் 4 m/s வேகத்தில் நகரும்போது அதன் இயக்க ஆற்றல் என்ன?",
+    "options_en": ["4 J", "8 J", "12 J", "16 J"],
+    "options_ta": ["4 ஜே", "8 ஜே", "12 ஜே", "16 ஜே"],
+    "answer_en": "16 J",
+    "answer_ta": "16 ஜே"
+  },
+  {
+    "question_en": "The wavelength of a wave is 0.5 m and its frequency is 200 Hz. What is its speed?",
+    "question_ta": "ஒரு அலைக்கதிரின் அலைநீளம் 0.5 m மற்றும் அதிர்வெண் 200 Hz என்றால் அதன் வேகம் என்ன?",
+    "options_en": ["50 m/s", "100 m/s", "200 m/s", "400 m/s"],
+    "options_ta": ["50 மீ/விநா", "100 மீ/விநா", "200 மீ/விநா", "400 மீ/விநா"],
+    "answer_en": "100 m/s",
+    "answer_ta": "100 மீ/விநா"
+  },
+  {
+    "question_en": "A sound wave travels 340 m in 1 second. Its speed is?",
+    "question_ta": "ஒரு ஒலி அலை 1 வினாடியில் 340 m செல்கிறது. அதன் வேகம் என்ன?",
+    "options_en": ["34 m/s", "100 m/s", "340 m/s", "1000 m/s"],
+    "options_ta": ["34 மீ/விநா", "100 மீ/விநா", "340 மீ/விநா", "1000 மீ/விநா"],
+    "answer_en": "340 m/s",
+    "answer_ta": "340 மீ/விநா"
+  },
+  {
+    "question_en": "If 3 resistors of 3 Ω each are connected in series, the equivalent resistance is?",
+    "question_ta": "3 Ω எதிர்ப்பு கொண்ட 3 ரெசிஸ்டர்கள் தொடர்ச்சியாக இணைக்கப்பட்டால் மொத்த எதிர்ப்பு என்ன?",
+    "options_en": ["3 Ω", "6 Ω", "9 Ω", "12 Ω"],
+    "options_ta": ["3 Ω", "6 Ω", "9 Ω", "12 Ω"],
+    "answer_en": "9 Ω",
+    "answer_ta": "9 Ω"
+  },
+  {
+    "question_en": "If 3 resistors of 6 Ω each are connected in parallel, the equivalent resistance is?",
+    "question_ta": "6 Ω எதிர்ப்பு கொண்ட 3 ரெசிஸ்டர்கள் இணை இணைப்பில் இணைக்கப்பட்டால் மொத்த எதிர்ப்பு என்ன?",
+    "options_en": ["2 Ω", "3 Ω", "6 Ω", "12 Ω"],
+    "options_ta": ["2 Ω", "3 Ω", "6 Ω", "12 Ω"],
+    "answer_en": "2 Ω",
+    "answer_ta": "2 Ω"
+  },
+  {
+    "question_en": "If a lens has focal length 20 cm, its power is?",
+    "question_ta": "20 cm நிழற்பகுதி கொண்ட லென்ஸின் சக்தி என்ன?",
+    "options_en": ["2 D", "4 D", "5 D", "10 D"],
+    "options_ta": ["2 D", "4 D", "5 D", "10 D"],
+    "answer_en": "5 D",
+    "answer_ta": "5 D"
+  },
+  {
+    "question_en": "A concave mirror forms an image twice the size of the object. If object is at 15 cm, where is the image?",
+    "question_ta": "ஒரு உள்ளவளைந்த கண்ணாடி பொருளின் இருமடங்கு உருவம் தருகிறது. பொருள் 15 cm இல் இருந்தால் உருவம் எங்கே?",
+    "options_en": ["10 cm", "20 cm", "30 cm", "45 cm"],
+    "options_ta": ["10 cm", "20 cm", "30 cm", "45 cm"],
+    "answer_en": "30 cm",
+    "answer_ta": "30 cm"
+  },
+  {
+    "question_en": "A wire carries 2 A current. How many coulombs of charge pass in 1 minute?",
+    "question_ta": "2 A மின்சாரம் ஒரு கம்பியில் ஓடினால் 1 நிமிடத்தில் எத்தனை கூலோம் சார்ஜ் கடக்கும்?",
+    "options_en": ["60 C", "100 C", "120 C", "240 C"],
+    "options_ta": ["60 C", "100 C", "120 C", "240 C"],
+    "answer_en": "120 C",
+    "answer_ta": "120 C"
+  },
+  {
+    "question_en": "A 60 W bulb glows for 1 hour. Energy consumed is?",
+    "question_ta": "60 W பல்பு 1 மணி நேரம் எரிந்தால் பயன்படுத்தும் ஆற்றல் என்ன?",
+    "options_en": ["60 J", "600 J", "216000 J", "3600 J"],
+    "options_ta": ["60 ஜே", "600 ஜே", "216000 ஜே", "3600 ஜே"],
+    "answer_en": "216000 J",
+    "answer_ta": "216000 ஜே"
+  },
+  {
+    "question_en": "If frequency = 50 Hz, time period is?",
+    "question_ta": "அதிர்வெண் = 50 Hz என்றால் காலம் (T) என்ன?",
+    "options_en": ["0.01 s", "0.02 s", "0.04 s", "0.05 s"],
+    "options_ta": ["0.01 வி", "0.02 வி", "0.04 வி", "0.05 வி"],
+    "answer_en": "0.02 s",
+    "answer_ta": "0.02 வி"
+  }
+]

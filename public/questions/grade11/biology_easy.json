@@ -1,0 +1,336 @@
+[
+  {
+    "question_en": "Which pigment is responsible for capturing solar energy in plants?",
+    "question_ta": "தாவரங்களில் சூரிய ஆற்றலைப் பிடிக்கும் நிறமி எது?",
+    "options_en": ["Chlorophyll", "Carotene", "Xanthophyll", "Anthocyanin"],
+    "options_ta": ["குளோரோஃபில்", "கரோட்டின்", "ஜாந்தோஃபில்", "ஆந்தோசயனின்"],
+    "answer_en": "Chlorophyll",
+    "answer_ta": "குளோரோஃபில்"
+  },
+  {
+    "question_en": "In which tissue does the transport of organic nutrients occur in plants?",
+    "question_ta": "தாவரங்களில் கரிம சத்துக்கள் எந்த திசுவில் கொண்டு செல்லப்படுகின்றன?",
+    "options_en": ["Xylem", "Phloem", "Parenchyma", "Collenchyma"],
+    "options_ta": ["ஜைலம்", "ஃபுளோயம்", "பாரெஞ்சைமா", "கொலெஞ்சைமா"],
+    "answer_en": "Phloem",
+    "answer_ta": "ஃபுளோயம்"
+  },
+  {
+    "question_en": "Which is the excretory organ in earthworm?",
+    "question_ta": "மண் புழுவின் கழிவறுப்பாங்கு எது?",
+    "options_en": ["Nephridia", "Kidney", "Malpighian tubules", "Liver"],
+    "options_ta": ["நெஃப்ரிடியா", "சிறுநீரகம்", "மால்பிகியன் குழாய்", "கல்லீரல்"],
+    "answer_en": "Nephridia",
+    "answer_ta": "நெஃப்ரிடியா"
+  },
+  {
+    "question_en": "Which structure in mammalian heart prevents backflow of blood?",
+    "question_ta": "நிர்வாணிகளின் இதயத்தில் இரத்தம் பின்செல்லாமல் தடுக்கிற அமைப்பு எது?",
+    "options_en": ["Valves", "Atria", "Ventricles", "Septum"],
+    "options_ta": ["கதவுகள்", "முனையகம்", "வயிற்றகம்", "இடைக்கோடு"],
+    "answer_en": "Valves",
+    "answer_ta": "கதவுகள்"
+  },
+  {
+    "question_en": "Which is the functional unit of kidney?",
+    "question_ta": "சிறுநீரகத்தின் செயற்பாட்டு அலகு எது?",
+    "options_en": ["Neuron", "Nephron", "Glomerulus", "Tubule"],
+    "options_ta": ["நியூரான்", "நெஃப்ரான்", "குளோமெருலஸ்", "குழாய்"],
+    "answer_en": "Nephron",
+    "answer_ta": "நெஃப்ரான்"
+  },
+  {
+    "question_en": "Which bond holds the nitrogenous bases in DNA strands?",
+    "question_ta": "DNA நூல்களில் நைட்ரஜன் அடிப்படைகளை இணைக்கும் பிணைப்பு எது?",
+    "options_en": ["Ionic bond", "Hydrogen bond", "Covalent bond", "Peptide bond"],
+    "options_ta": ["அயோனிக் பிணைப்பு", "ஹைட்ரஜன் பிணைப்பு", "கோவலென்ட் பிணைப்பு", "பெப்டைட் பிணைப்பு"],
+    "answer_en": "Hydrogen bond",
+    "answer_ta": "ஹைட்ரஜன் பிணைப்பு"
+  },
+  {
+    "question_en": "Which organelle is called the powerhouse of the cell?",
+    "question_ta": "செலின் மின் நிலையம் என்று அழைக்கப்படும் அங்கம் எது?",
+    "options_en": ["Nucleus", "Chloroplast", "Mitochondria", "Ribosome"],
+    "options_ta": ["மையகம்", "குளோரோபிளாஸ்ட்", "மைட்டோகாண்ட்ரியா", "ரைபோசோம்"],
+    "answer_en": "Mitochondria",
+    "answer_ta": "மைட்டோகாண்ட்ரியா"
+  },
+  {
+    "question_en": "Which type of RNA carries amino acids to ribosomes?",
+    "question_ta": "எந்த வகை RNA அமினோ அமிலங்களை ரைபோசோம்களுக்கு கொண்டு செல்கிறது?",
+    "options_en": ["mRNA", "tRNA", "rRNA", "snRNA"],
+    "options_ta": ["mRNA", "tRNA", "rRNA", "snRNA"],
+    "answer_en": "tRNA",
+    "answer_ta": "tRNA"
+  },
+  {
+    "question_en": "Which carbohydrate is stored in animal liver and muscle?",
+    "question_ta": "விலங்குகளின் கல்லீரல் மற்றும் தசைகளில் சேமிக்கப்படும் கார்போஹைட்ரேட் எது?",
+    "options_en": ["Cellulose", "Glycogen", "Starch", "Fructose"],
+    "options_ta": ["செல்லுலோஸ்", "கிளைகோஜன்", "மாவு", "ஃப்ரக்டோஸ்"],
+    "answer_en": "Glycogen",
+    "answer_ta": "கிளைகோஜன்"
+  },
+  {
+    "question_en": "Which enzyme digests proteins in the stomach?",
+    "question_ta": "வயிற்றில் புரதங்களைச் செரிமானிக்கும் என்சைம் எது?",
+    "options_en": ["Pepsin", "Amylase", "Lipase", "Trypsin"],
+    "options_ta": ["பெப்சின்", "அமைலேஸ்", "லைபேஸ்", "ட்ரிப்சின்"],
+    "answer_en": "Pepsin",
+    "answer_ta": "பெப்சின்"
+  },
+  {
+    "question_en": "Which pigment is responsible for capturing solar energy in plants?",
+    "question_ta": "தாவரங்களில் சூரிய ஆற்றலைப் பிடிக்கும் நிறமி எது?",
+    "options_en": ["Chlorophyll", "Carotene", "Xanthophyll", "Anthocyanin"],
+    "options_ta": ["குளோரோஃபில்", "கரோட்டின்", "ஜாந்தோஃபில்", "ஆந்தோசயனின்"],
+    "answer_en": "Chlorophyll",
+    "answer_ta": "குளோரோஃபில்"
+  },
+  {
+    "question_en": "In which tissue does the transport of organic nutrients occur in plants?",
+    "question_ta": "தாவரங்களில் கரிம சத்துக்கள் எந்த திசுவில் கொண்டு செல்லப்படுகின்றன?",
+    "options_en": ["Xylem", "Phloem", "Parenchyma", "Collenchyma"],
+    "options_ta": ["ஜைலம்", "ஃபுளோயம்", "பாரெஞ்சைமா", "கொலெஞ்சைமா"],
+    "answer_en": "Phloem",
+    "answer_ta": "ஃபுளோயம்"
+  },
+  {
+    "question_en": "Which is the excretory organ in earthworm?",
+    "question_ta": "மண் புழுவின் கழிவறுப்பாங்கு எது?",
+    "options_en": ["Nephridia", "Kidney", "Malpighian tubules", "Liver"],
+    "options_ta": ["நெஃப்ரிடியா", "சிறுநீரகம்", "மால்பிகியன் குழாய்", "கல்லீரல்"],
+    "answer_en": "Nephridia",
+    "answer_ta": "நெஃப்ரிடியா"
+  },
+  {
+    "question_en": "Which structure in mammalian heart prevents backflow of blood?",
+    "question_ta": "நிர்வாணிகளின் இதயத்தில் இரத்தம் பின்செல்லாமல் தடுக்கிற அமைப்பு எது?",
+    "options_en": ["Valves", "Atria", "Ventricles", "Septum"],
+    "options_ta": ["கதவுகள்", "முனையகம்", "வயிற்றகம்", "இடைக்கோடு"],
+    "answer_en": "Valves",
+    "answer_ta": "கதவுகள்"
+  },
+  {
+    "question_en": "Which is the functional unit of kidney?",
+    "question_ta": "சிறுநீரகத்தின் செயற்பாட்டு அலகு எது?",
+    "options_en": ["Neuron", "Nephron", "Glomerulus", "Tubule"],
+    "options_ta": ["நியூரான்", "நெஃப்ரான்", "குளோமெருலஸ்", "குழாய்"],
+    "answer_en": "Nephron",
+    "answer_ta": "நெஃப்ரான்"
+  },
+  {
+    "question_en": "Which bond holds the nitrogenous bases in DNA strands?",
+    "question_ta": "DNA நூல்களில் நைட்ரஜன் அடிப்படைகளை இணைக்கும் பிணைப்பு எது?",
+    "options_en": ["Ionic bond", "Hydrogen bond", "Covalent bond", "Peptide bond"],
+    "options_ta": ["அயோனிக் பிணைப்பு", "ஹைட்ரஜன் பிணைப்பு", "கோவலென்ட் பிணைப்பு", "பெப்டைட் பிணைப்பு"],
+    "answer_en": "Hydrogen bond",
+    "answer_ta": "ஹைட்ரஜன் பிணைப்பு"
+  },
+  {
+    "question_en": "Which organelle is called the powerhouse of the cell?",
+    "question_ta": "செலின் மின் நிலையம் என்று அழைக்கப்படும் அங்கம் எது?",
+    "options_en": ["Nucleus", "Chloroplast", "Mitochondria", "Ribosome"],
+    "options_ta": ["மையகம்", "குளோரோபிளாஸ்ட்", "மைட்டோகாண்ட்ரியா", "ரைபோசோம்"],
+    "answer_en": "Mitochondria",
+    "answer_ta": "மைட்டோகாண்ட்ரியா"
+  },
+  {
+    "question_en": "Which type of RNA carries amino acids to ribosomes?",
+    "question_ta": "எந்த வகை RNA அமினோ அமிலங்களை ரைபோசோம்களுக்கு கொண்டு செல்கிறது?",
+    "options_en": ["mRNA", "tRNA", "rRNA", "snRNA"],
+    "options_ta": ["mRNA", "tRNA", "rRNA", "snRNA"],
+    "answer_en": "tRNA",
+    "answer_ta": "tRNA"
+  },
+  {
+    "question_en": "Which carbohydrate is stored in animal liver and muscle?",
+    "question_ta": "விலங்குகளின் கல்லீரல் மற்றும் தசைகளில் சேமிக்கப்படும் கார்போஹைட்ரேட் எது?",
+    "options_en": ["Cellulose", "Glycogen", "Starch", "Fructose"],
+    "options_ta": ["செல்லுலோஸ்", "கிளைகோஜன்", "மாவு", "ஃப்ரக்டோஸ்"],
+    "answer_en": "Glycogen",
+    "answer_ta": "கிளைகோஜன்"
+  },
+  {
+    "question_en": "Which enzyme digests proteins in the stomach?",
+    "question_ta": "வயிற்றில் புரதங்களைச் செரிமானிக்கும் என்சைம் எது?",
+    "options_en": ["Pepsin", "Amylase", "Lipase", "Trypsin"],
+    "options_ta": ["பெப்சின்", "அமைலேஸ்", "லைபேஸ்", "ட்ரிப்சின்"],
+    "answer_en": "Pepsin",
+    "answer_ta": "பெப்சின்"
+  },
+  {
+    "question_en": "Which hormone regulates blood sugar level?",
+    "question_ta": "இரத்த சர்க்கரை அளவை கட்டுப்படுத்தும் ஹார்மோன் எது?",
+    "options_en": ["Insulin", "Adrenaline", "Thyroxine", "Glucagon"],
+    "options_ta": ["இன்சுலின்", "அட்ரினலின்", "தைராக்சின்", "குளுககான்"],
+    "answer_en": "Insulin",
+    "answer_ta": "இன்சுலின்"
+  },
+  {
+    "question_en": "Which part of brain controls balance and posture?",
+    "question_ta": "மூளையின் எந்த பகுதி சமநிலையையும் உடற்கட்டையும் கட்டுப்படுத்துகிறது?",
+    "options_en": ["Cerebrum", "Cerebellum", "Medulla", "Pons"],
+    "options_ta": ["மூளை", "செரிபெல்லம்", "மெடுல்லா", "போன்ஸ்"],
+    "answer_en": "Cerebellum",
+    "answer_ta": "செரிபெல்லம்"
+  },
+  {
+    "question_en": "Which plant tissue is responsible for secondary growth?",
+    "question_ta": "இரண்டாம் நிலை வளர்ச்சிக்குப் பொறுப்பான தாவர திசு எது?",
+    "options_en": ["Phloem", "Xylem", "Cambium", "Epidermis"],
+    "options_ta": ["ஃபுளோயம்", "ஜைலம்", "கேம்பியம்", "எபிடெர்மிஸ்"],
+    "answer_en": "Cambium",
+    "answer_ta": "கேம்பியம்"
+  },
+  {
+    "question_en": "Which vitamin is synthesized in human skin by sunlight?",
+    "question_ta": "மனிதத் தோலில் சூரிய ஒளியால் உருவாகும் வைட்டமின் எது?",
+    "options_en": ["Vitamin A", "Vitamin B", "Vitamin C", "Vitamin D"],
+    "options_ta": ["வைட்டமின் A", "வைட்டமின் B", "வைட்டமின் C", "வைட்டமின் D"],
+    "answer_en": "Vitamin D",
+    "answer_ta": "வைட்டமின் D"
+  },
+  {
+    "question_en": "Which is the structural and functional unit of nervous system?",
+    "question_ta": "நரம்பு அமைப்பின் கட்டமைப்பு மற்றும் செயற்பாட்டு அலகு எது?",
+    "options_en": ["Neuron", "Axon", "Dendrite", "Synapse"],
+    "options_ta": ["நியூரான்", "ஆக்சான்", "டெண்ட்ரைட்", "சைனாப்ஸ்"],
+    "answer_en": "Neuron",
+    "answer_ta": "நியூரான்"
+  },
+  {
+    "question_en": "Which metal ion is present in hemoglobin?",
+    "question_ta": "ஹீமோகுளோபினில் உள்ள உலோக அயன் எது?",
+    "options_en": ["Copper", "Iron", "Magnesium", "Zinc"],
+    "options_ta": ["செம்பு", "இரும்பு", "மக்னீசியம்", "ஜிங்க்"],
+    "answer_en": "Iron",
+    "answer_ta": "இரும்பு"
+  },
+  {
+    "question_en": "Which part of flower produces pollen grains?",
+    "question_ta": "மலரின் எந்த பகுதி தூள் தானியங்களை உற்பத்தி செய்கிறது?",
+    "options_en": ["Ovary", "Style", "Anther", "Stigma"],
+    "options_ta": ["கருவுற்றகம்", "சுருள்", "அந்தர்", "முத்திரை"],
+    "answer_en": "Anther",
+    "answer_ta": "அந்தர்"
+  },
+  {
+    "question_en": "Which scientist discovered the double helix model of DNA?",
+    "question_ta": "DNA-வின் இரட்டை சுருள் மாதிரியை கண்டுபிடித்த விஞ்ஞானிகள் யார்?",
+    "options_en": ["Watson and Crick", "Mendel", "Darwin", "Lamarck"],
+    "options_ta": ["வாட்சன் மற்றும் கிரிக்", "மெண்டல்", "டார்வின்", "லாமார்க்"],
+    "answer_en": "Watson and Crick",
+    "answer_ta": "வாட்சன் மற்றும் கிரிக்"
+  },
+  {
+    "question_en": "Which blood group is known as universal donor?",
+    "question_ta": "எந்த இரத்தக் குழு உலகளாவிய தானியங்கியாக அறியப்படுகிறது?",
+    "options_en": ["A", "B", "AB", "O"],
+    "options_ta": ["A", "B", "AB", "O"],
+    "answer_en": "O",
+    "answer_ta": "O"
+  },
+  {
+    "question_en": "Which organ secretes bile juice?",
+    "question_ta": "பித்தக் கசாயத்தை சுரக்கும் உறுப்பு எது?",
+    "options_en": ["Pancreas", "Liver", "Stomach", "Gall bladder"],
+    "options_ta": ["பேன்கிரியாஸ்", "கல்லீரல்", "வயிறு", "பித்தப்பை"],
+    "answer_en": "Liver",
+    "answer_ta": "கல்லீரல்"
+  },
+  {
+    "question_en": "Which disease is caused by deficiency of Vitamin C?",
+    "question_ta": "வைட்டமின் C பற்றாக்குறையால் ஏற்படும் நோய் எது?",
+    "options_en": ["Rickets", "Scurvy", "Night blindness", "Goitre"],
+    "options_ta": ["ரிக்கெட்ஸ்", "ஸ்கர்வி", "இரவு குருட்டுத்தனம்", "காய்ட்டர்"],
+    "answer_en": "Scurvy",
+    "answer_ta": "ஸ்கர்வி"
+  },
+  {
+    "question_en": "Which process converts glucose into pyruvate?",
+    "question_ta": "குளுக்கோஸை பைருவேட்டாக மாற்றும் செயல்முறை எது?",
+    "options_en": ["Glycolysis", "Krebs cycle", "Photosynthesis", "Fermentation"],
+    "options_ta": ["கிளைக்காலிசிஸ்", "கிரெப்ஸ் சுழற்சி", "ஒளிச்சேர்க்கை", "புளிப்பு"],
+    "answer_en": "Glycolysis",
+    "answer_ta": "கிளைக்காலிசிஸ்"
+  },
+  {
+    "question_en": "Which part of human brain controls respiration?",
+    "question_ta": "மனித மூளையின் எந்த பகுதி சுவாசத்தை கட்டுப்படுத்துகிறது?",
+    "options_en": ["Cerebrum", "Cerebellum", "Medulla oblongata", "Thalamus"],
+    "options_ta": ["மூளை", "செரிபெல்லம்", "மெடுல்லா ஒப்லாங்கேட்டா", "தாலாமஸ்"],
+    "answer_en": "Medulla oblongata",
+    "answer_ta": "மெடுல்லா ஒப்லாங்கேட்டா"
+  },
+  {
+    "question_en": "Which polysaccharide forms the cell wall of fungi?",
+    "question_ta": "பூஞ்சைகளின் செல்சுவற்றை உருவாக்கும் பல்சக்கரை எது?",
+    "options_en": ["Cellulose", "Chitin", "Starch", "Pectin"],
+    "options_ta": ["செல்லுலோஸ்", "கைடின்", "மாவு", "பெக்டின்"],
+    "answer_en": "Chitin",
+    "answer_ta": "கைடின்"
+  },
+  {
+    "question_en": "Which enzyme catalyzes conversion of starch into maltose?",
+    "question_ta": "மாவை மால்டோசாக மாற்றும் ஊக்கி எது?",
+    "options_en": ["Amylase", "Pepsin", "Lipase", "Trypsin"],
+    "options_ta": ["அமைலேஸ்", "பெப்சின்", "லைபேஸ்", "ட்ரிப்சின்"],
+    "answer_en": "Amylase",
+    "answer_ta": "அமைலேஸ்"
+  },
+  {
+    "question_en": "Which blood cells are responsible for immunity?",
+    "question_ta": "நோயெதிர்ப்பு சக்திக்கு பொறுப்பான இரத்த அணுக்கள் எது?",
+    "options_en": ["RBC", "WBC", "Platelets", "Plasma"],
+    "options_ta": ["சிவப்பு இரத்த அணுக்கள்", "வெள்ளை இரத்த அணுக்கள்", "இரத்த தட்டுகள்", "பிளாஸ்மா"],
+    "answer_en": "WBC",
+    "answer_ta": "வெள்ளை இரத்த அணுக்கள்"
+  },
+  {
+    "question_en": "Which organelle contains digestive enzymes?",
+    "question_ta": "செரிமான என்சைம்களை கொண்டுள்ள செல்கூறு எது?",
+    "options_en": ["Mitochondria", "Ribosome", "Lysosome", "Chloroplast"],
+    "options_ta": ["மைட்டோகாண்ட்ரியா", "ரைபோசோம்", "லைசோசோம்", "குளோரோபிளாஸ்ட்"],
+    "answer_en": "Lysosome",
+    "answer_ta": "லைசோசோம்"
+  },
+  {
+    "question_en": "Which molecule carries genetic information?",
+    "question_ta": "மரபணு தகவலைக் கொண்டிருக்கும் மூலக்கூறு எது?",
+    "options_en": ["DNA", "RNA", "Protein", "Lipid"],
+    "options_ta": ["DNA", "RNA", "புரதம்", "கொழுப்பு"],
+    "answer_en": "DNA",
+    "answer_ta": "DNA"
+  },
+  {
+    "question_en": "Which organ is affected by hepatitis?",
+    "question_ta": "காமாலை (Hepatitis) நோயால் பாதிக்கப்படும் உறுப்பு எது?",
+    "options_en": ["Liver", "Heart", "Kidney", "Lungs"],
+    "options_ta": ["கல்லீரல்", "இதயம்", "சிறுநீரகம்", "நுரையீரல்"],
+    "answer_en": "Liver",
+    "answer_ta": "கல்லீரல்"
+  },
+  {
+    "question_en": "Which process forms ATP in mitochondria?",
+    "question_ta": "மைட்டோகாண்ட்ரியாவில் ATP உருவாகும் செயல்முறை எது?",
+    "options_en": ["Photosynthesis", "Oxidative phosphorylation", "Fermentation", "Glycolysis"],
+    "options_ta": ["ஒளிச்சேர்க்கை", "ஆக்சிடேட்டிவ் பாஸ்போரிலேஷன்", "புளிப்பு", "கிளைக்காலிசிஸ்"],
+    "answer_en": "Oxidative phosphorylation",
+    "answer_ta": "ஆக்சிடேட்டிவ் பாஸ்போரிலேஷன்"
+  },
+  {
+    "question_en": "Which element is a component of proteins?",
+    "question_ta": "புரதங்களின் முக்கிய அங்கமாக உள்ள மூலப்பொருள் எது?",
+    "options_en": ["Carbon", "Nitrogen", "Calcium", "Phosphorus"],
+    "options_ta": ["கார்பன்", "நைட்ரஜன்", "கால்சியம்", "பாஸ்பரஸ்"],
+    "answer_en": "Nitrogen",
+    "answer_ta": "நைட்ரஜன்"
+  },
+  {
+    "question_en": "Which vitamin deficiency causes rickets?",
+    "question_ta": "வைட்டமின் பற்றாக்குறையால் ரிக்கெட்ஸ் ஏற்படும்?",
+    "options_en": ["Vitamin A", "Vitamin B12", "Vitamin C", "Vitamin D"],
+    "options_ta": ["வைட்டமின் A", "வைட்டமின் B12", "வைட்டமின் C", "வைட்டமின் D"]
+  }
+]

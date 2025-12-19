@@ -1,0 +1,282 @@
+[
+  {
+    "question_en": "If |A| = 5, then |2A| for a 2×2 matrix is?",
+    "question_ta": "|A| = 5 என்றால், 2×2 அட்டவணைக்கு |2A| மதிப்பு எவ்வளவு?",
+    "options_en": ["5", "10", "20", "25"],
+    "options_ta": ["5", "10", "20", "25"],
+    "answer_en": "20",
+    "answer_ta": "20"
+  },
+  {
+    "question_en": "The inverse of matrix A exists if?",
+    "question_ta": "அட்டவணை A-க்கு மாற்றுத்தொகை (inverse) இருக்க வேண்டுமெனில்?",
+    "options_en": ["|A| = 0", "|A| ≠ 0", "A is diagonal", "A is identity"],
+    "options_ta": ["|A| = 0", "|A| ≠ 0", "A கோண வடிவில் இருக்க வேண்டும்", "A அடையாளம்"],
+    "answer_en": "|A| ≠ 0",
+    "answer_ta": "|A| ≠ 0"
+  },
+  {
+    "question_en": "If f(x) = x³, then f’(x) = ?",
+    "question_ta": "f(x) = x³ என்றால், f’(x) = ?",
+    "options_en": ["3x²", "x²", "3x", "x³"],
+    "options_ta": ["3x²", "x²", "3x", "x³"],
+    "answer_en": "3x²",
+    "answer_ta": "3x²"
+  },
+  {
+    "question_en": "The maximum value of y = -x² + 4x is?",
+    "question_ta": "y = -x² + 4x என்பதன் அதிகபட்ச மதிப்பு எவ்வளவு?",
+    "options_en": ["2", "3", "4", "5"],
+    "options_ta": ["2", "3", "4", "5"],
+    "answer_en": "4",
+    "answer_ta": "4"
+  },
+  {
+    "question_en": "In linear programming, the feasible region is?",
+    "question_ta": "நேர்மையான நிரலாக்கத்தில், சாத்தியமான பகுதி (feasible region) எது?",
+    "options_en": ["Unbounded area", "Intersection of constraints", "Whole plane", "Line only"],
+    "options_ta": ["வரையறையற்ற பகுதி", "கட்டுப்பாடுகளின் சந்திப்பு பகுதி", "முழு தளம்", "கோடு மட்டும்"],
+    "answer_en": "Intersection of constraints",
+    "answer_ta": "கட்டுப்பாடுகளின் சந்திப்பு பகுதி"
+  },
+  {
+    "question_en": "The probability of at least one head in tossing 2 coins is?",
+    "question_ta": "2 நாணயங்களைச் சுழற்றும் போது குறைந்தது ஒரு தலை வரும் சாத்தியம் எவ்வளவு?",
+    "options_en": ["1/4", "1/2", "3/4", "1"],
+    "options_ta": ["1/4", "1/2", "3/4", "1"],
+    "answer_en": "3/4",
+    "answer_ta": "3/4"
+  },
+  {
+    "question_en": "Mean of binomial distribution is?",
+    "question_ta": "பைனமியல் பகிர்வின் சராசரி எது?",
+    "options_en": ["np", "n", "p", "q"],
+    "options_ta": ["np", "n", "p", "q"],
+    "answer_en": "np",
+    "answer_ta": "np"
+  },
+  {
+    "question_en": "If two regression lines are identical, correlation is?",
+    "question_ta": "இரண்டு திரும்பப்பெறும் கோடுகள் ஒரே மாதிரியாக இருந்தால், தொடர்புக் குணகம் எவ்வளவு?",
+    "options_en": ["0", "1", "-1", "2"],
+    "options_ta": ["0", "1", "-1", "2"],
+    "answer_en": "±1",
+    "answer_ta": "±1"
+  },
+  {
+    "question_en": "In hypothesis testing, type I error means?",
+    "question_ta": "கருதுகோள் சோதனையில், வகை I பிழை (Type I error) என்பதன் பொருள்?",
+    "options_en": ["Accepting true H0", "Rejecting true H0", "Accepting false H0", "Rejecting false H0"],
+    "options_ta": ["உண்மையான H0 ஏற்றல்", "உண்மையான H0 நிராகரித்தல்", "தவறான H0 ஏற்றல்", "தவறான H0 நிராகரித்தல்"],
+    "answer_en": "Rejecting true H0",
+    "answer_ta": "உண்மையான H0 நிராகரித்தல்"
+  },
+  {
+    "question_en": "Laspeyres index number is based on?",
+    "question_ta": "லஸ்பையர் குறியீட்டு எண் எதின் அடிப்படையில் உள்ளது?",
+    "options_en": ["Base year quantities", "Current year quantities", "Average of both", "None"],
+    "options_ta": ["அடிப்படை ஆண்டின் அளவுகள்", "நடப்பு ஆண்டின் அளவுகள்", "இரண்டின் சராசரி", "இல்லை"],
+    "answer_en": "Base year quantities",
+    "answer_ta": "அடிப்படை ஆண்டின் அளவுகள்"
+  },
+  {
+    "question_en": "The expected value of random variable is also called?",
+    "question_ta": "சீரற்ற மாறியின் எதிர்பார்க்கப்படும் மதிப்பு எப்படிக் கூறப்படுகிறது?",
+    "options_en": ["Mean", "Mode", "Variance", "Median"],
+    "options_ta": ["சராசரி", "மோட்", "விபரவு", "நடுத்தரம்"],
+    "answer_en": "Mean",
+    "answer_ta": "சராசரி"
+  },
+  {
+    "question_en": "Northwest corner method is used in?",
+    "question_ta": "வடமேற்கு மூலை முறை எதற்கு பயன்படுத்தப்படுகிறது?",
+    "options_en": ["Assignment problem", "Transportation problem", "Linear regression", "Correlation"],
+    "options_ta": ["ஒதுக்கீட்டு பிரச்சனை", "போக்குவரத்து பிரச்சனை", "நேர்கோடு திரும்பப்பெறல்", "தொடர்பு"],
+    "answer_en": "Transportation problem",
+    "answer_ta": "போக்குவரத்து பிரச்சனை"
+  },
+  {
+    "question_en": "If f(x) = ln(x), then f’(x) = ?",
+    "question_ta": "f(x) = ln(x) என்றால், f’(x) = ?",
+    "options_en": ["1/x", "x", "ln(x)", "0"],
+    "options_ta": ["1/x", "x", "ln(x)", "0"],
+    "answer_en": "1/x",
+    "answer_ta": "1/x"
+  },
+  {
+    "question_en": "The partial derivative of z = x² + y² with respect to x is?",
+    "question_ta": "z = x² + y² இன் x-க்கு எதிரான பகுதி பகுப்பாய்வு எது?",
+    "options_en": ["2x", "2y", "x+y", "0"],
+    "options_ta": ["2x", "2y", "x+y", "0"],
+    "answer_en": "2x",
+    "answer_ta": "2x"
+  },
+  {
+    "question_en": "In simplex method, the entering variable is chosen based on?",
+    "question_ta": "சிம்ப்ளெக்ஸ் முறையில், நுழையும் மாறி எதன் அடிப்படையில் தேர்ந்தெடுக்கப்படுகிறது?",
+    "options_en": ["Highest profit coefficient", "Lowest cost coefficient", "Any variable", "Random selection"],
+    "options_ta": ["அதிக லாபக் குணகம்", "குறைந்த செலவுக் குணகம்", "எந்த மாறியும்", "சீரற்ற தேர்வு"],
+    "answer_en": "Highest profit coefficient",
+    "answer_ta": "அதிக லாபக் குணகம்"
+  },
+  {
+    "question_en": "Karl Pearson’s coefficient of correlation formula is?",
+    "question_ta": "கார்ல் பியர்சனின் தொடர்புக் குணகத்தின் சூத்திரம் எது?",
+    "options_en": ["Cov(X,Y)/σxσy", "Σxy", "Σx²", "Σy²"],
+    "options_ta": ["Cov(X,Y)/σxσy", "Σxy", "Σx²", "Σy²"],
+    "answer_en": "Cov(X,Y)/σxσy",
+    "answer_ta": "Cov(X,Y)/σxσy"
+  },
+  {
+    "question_en": "Chi-square test is a type of?",
+    "question_ta": "கை-ஸ்கொயர் சோதனை எவ்வகையான சோதனை?",
+    "options_en": ["Parametric test", "Non-parametric test", "Z-test", "t-test"],
+    "options_ta": ["பாராமெட்ரிக் சோதனை", "நான்-பாராமெட்ரிக் சோதனை", "Z-test", "t-test"],
+    "answer_en": "Non-parametric test",
+    "answer_ta": "நான்-பாராமெட்ரிக் சோதனை"
+  },
+  {
+    "question_en": "Poisson distribution is derived as a limiting case of?",
+    "question_ta": "பாய்சன் பகிர்வு எதன் வரம்பு வழியாக பெறப்படுகிறது?",
+    "options_en": ["Normal distribution", "Binomial distribution", "Geometric distribution", "Uniform distribution"],
+    "options_ta": ["சாதாரண பகிர்வு", "பைனமியல் பகிர்வு", "ஜியோமெட்ரிக் பகிர்வு", "ஒற்றுமை பகிர்வு"],
+    "answer_en": "Binomial distribution",
+    "answer_ta": "பைனமியல் பகிர்வு"
+  },
+  {
+    "question_en": "Regression equation of Y on X is given by?",
+    "question_ta": "Y மீது X இன் திரும்பப்பெறும் சமன்பாடு எப்படிக் கொடுக்கப்படுகிறது?",
+    "options_en": ["Y = a + bX", "X = a + bY", "Y = XY", "Y = X²"],
+    "options_ta": ["Y = a + bX", "X = a + bY", "Y = XY", "Y = X²"],
+    "answer_en": "Y = a + bX",
+    "answer_ta": "Y = a + bX"
+  },
+  {
+    "question_en": "If A and B are mutually exclusive events, then P(A ∩ B) = ?",
+    "question_ta": "A மற்றும் B பரஸ்பரம் மாறுபட்ட நிகழ்வுகள் என்றால், P(A ∩ B) = ?",
+    "options_en": ["0", "1", "P(A)+P(B)", "P(A)×P(B)"],
+    "options_ta": ["0", "1", "P(A)+P(B)", "P(A)×P(B)"],
+    "answer_en": "0",
+    "answer_ta": "0"
+  },
+  {
+    "question_en": "Consumer price index is also called?",
+    "question_ta": "நுகர்வோர் விலை குறியீடு (CPI) இன்னும் எப்படிக் குறிப்பிடப்படுகிறது?",
+    "options_en": ["Cost of living index", "Price relative", "Time index", "Quantity index"],
+    "options_ta": ["வாழ்க்கைச் செலவு குறியீடு", "விலை சார்பு", "நேர குறியீடு", "அளவு குறியீடு"],
+    "answer_en": "Cost of living index",
+    "answer_ta": "வாழ்க்கைச் செலவு குறியீடு"
+  },
+  {
+    "question_en": "Moving average method is used in?",
+    "question_ta": "மூவிங் சராசரி முறை எதற்கு பயன்படுத்தப்படுகிறது?",
+    "options_en": ["Time series", "Probability", "Index numbers", "Regression"],
+    "options_ta": ["நேர வரிசை", "சாத்தியம்", "குறியீட்டு எண்கள்", "திரும்பப்பெறல்"],
+    "answer_en": "Time series",
+    "answer_ta": "நேர வரிசை"
+  },
+  {
+    "question_en": "If two regression coefficients are greater than 1, correlation is?",
+    "question_ta": "இரண்டு திரும்பப்பெறும் குணக்கங்கள் 1-ஐ விட அதிகமாக இருந்தால், தொடர்பு எப்படியிருக்கும்?",
+    "options_en": ["Valid", "Not possible", "Zero", "Negative"],
+    "options_ta": ["செல்லுபடியாகும்", "சாத்தியமற்றது", "பூஜ்ஜியம்", "எதிர்மையானது"],
+    "answer_en": "Not possible",
+    "answer_ta": "சாத்தியமற்றது"
+  },
+  {
+    "question_en": "If X ~ N(0,1), the mean is?",
+    "question_ta": "X ~ N(0,1) என்றால், சராசரி (mean) எவ்வளவு?",
+    "options_en": ["0", "1", "-1", "2"],
+    "options_ta": ["0", "1", "-1", "2"],
+    "answer_en": "0",
+    "answer_ta": "0"
+  },
+  {
+    "question_en": "If X follows Poisson distribution with λ=4, then Var(X) = ?",
+    "question_ta": "X பாய்சன் பகிர்வை (λ=4) பின்பற்றினால், Var(X) = ?",
+    "options_en": ["0", "2", "4", "8"],
+    "options_ta": ["0", "2", "4", "8"],
+    "answer_en": "4",
+    "answer_ta": "4"
+  },
+  {
+    "question_en": "In hypothesis testing, type II error means?",
+    "question_ta": "கருதுகோள் சோதனையில், வகை II பிழை (Type II error) என்பதன் பொருள்?",
+    "options_en": ["Accepting true H0", "Rejecting true H0", "Accepting false H0", "Rejecting false H0"],
+    "options_ta": ["உண்மையான H0 ஏற்றல்", "உண்மையான H0 நிராகரித்தல்", "தவறான H0 ஏற்றல்", "தவறான H0 நிராகரித்தல்"],
+    "answer_en": "Accepting false H0",
+    "answer_ta": "தவறான H0 ஏற்றல்"
+  },
+  {
+    "question_en": "Standard error decreases when?",
+    "question_ta": "ஸ்டாண்டர்ட் பிழை எப்போது குறையும்?",
+    "options_en": ["Sample size increases", "Sample size decreases", "Population variance increases", "None"],
+    "options_ta": ["மாதிரி அளவு அதிகரித்தால்", "மாதிரி அளவு குறைந்தால்", "மக்கள் தொகை விபரவு அதிகரித்தால்", "இல்லை"],
+    "answer_en": "Sample size increases",
+    "answer_ta": "மாதிரி அளவு அதிகரித்தால்"
+  },
+  {
+    "question_en": "The regression coefficient of Y on X is?",
+    "question_ta": "Y மீது X இன் திரும்பப்பெறும் குணகம் எப்படிக் குறிக்கப்படுகிறது?",
+    "options_en": ["bxy", "byx", "r", "σy"],
+    "options_ta": ["bxy", "byx", "r", "σy"],
+    "answer_en": "byx",
+    "answer_ta": "byx"
+  },
+  {
+    "question_en": "F-test is used to compare?",
+    "question_ta": "F-சோதனை எதை ஒப்பிடப் பயன்படுத்தப்படுகிறது?",
+    "options_en": ["Means", "Variances", "Proportions", "Medians"],
+    "options_ta": ["சராசரிகள்", "விபரவு", "விகிதங்கள்", "நடுத்தரங்கள்"],
+    "answer_en": "Variances",
+    "answer_ta": "விபரவு"
+  },
+  {
+    "question_en": "The number of basic variables in a m×n transportation problem is?",
+    "question_ta": "m×n போக்குவரத்து பிரச்சனையில் அடிப்படை மாறிகள் எண்ணிக்கை எவ்வளவு?",
+    "options_en": ["m+n", "m+n-1", "m×n", "m-n"],
+    "options_ta": ["m+n", "m+n-1", "m×n", "m-n"],
+    "answer_en": "m+n-1",
+    "answer_ta": "m+n-1"
+  },
+  {
+    "question_en": "When all constraints are linear, the model is?",
+    "question_ta": "அனைத்து கட்டுப்பாடுகளும் நேர்கோடு என்றால், மாதிரி எது?",
+    "options_en": ["Linear programming", "Dynamic programming", "Integer programming", "Stochastic model"],
+    "options_ta": ["நேர்மையான நிரலாக்கம்", "டைனமிக் நிரலாக்கம்", "முழு எண் நிரலாக்கம்", "சீரற்ற மாதிரி"],
+    "answer_en": "Linear programming",
+    "answer_ta": "நேர்மையான நிரலாக்கம்"
+  },
+  {
+    "question_en": "Consumer price index is mainly used for measuring?",
+    "question_ta": "நுகர்வோர் விலை குறியீடு பெரும்பாலும் எதை அளவிடப் பயன்படுத்தப்படுகிறது?",
+    "options_en": ["Inflation", "Deflation", "Wages", "Profit"],
+    "options_ta": ["பணவீக்கம்", "பணவளிவு", "ஊதியம்", "லாபம்"],
+    "answer_en": "Inflation",
+    "answer_ta": "பணவீக்கம்"
+  },
+  {
+    "question_en": "In ANOVA, the total variation is split into?",
+    "question_ta": "ANOVA-வில் மொத்த மாறுபாடு எதற்கு பிரிக்கப்படுகிறது?",
+    "options_en": ["Between + Within variation", "Only between", "Only within", "Error only"],
+    "options_ta": ["இடையேயான + உள்பட்ட மாறுபாடு", "இடையேயானது மட்டும்", "உள்பட்டது மட்டும்", "பிழை மட்டும்"],
+    "answer_en": "Between + Within variation",
+    "answer_ta": "இடையேயான + உள்பட்ட மாறுபாடு"
+  },
+  {
+    "question_en": "A random variable taking all real values is?",
+    "question_ta": "அனைத்து உண்மை மதிப்புகளையும் எடுக்கும் சீரற்ற மாறி எது?",
+    "options_en": ["Discrete", "Continuous", "Binomial", "Poisson"],
+    "options_ta": ["துண்டானது", "தொடர்ச்சியானது", "பைனமியல்", "பாய்சன்"],
+    "answer_en": "Continuous",
+    "answer_ta": "தொடர்ச்சியானது"
+  },
+  {
+    "question_en": "In sampling, larger sample size leads to?",
+    "question_ta": "மாதிரியில், பெரிய மாதிரி அளவு எதைக் கொண்டுவரும்?",
+    "options_en": ["More accuracy", "Less accuracy", "No change", "Bias"],
+    "options_ta": ["அதிக துல்லியம்", "குறைந்த துல்லியம்", "மாற்றமில்லை", "பட்சபாடு"],
+    "answer_en": "More accuracy",
+    "answer_ta": "அதிக துல்லியம்"
+  }
+]

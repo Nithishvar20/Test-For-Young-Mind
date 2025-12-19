@@ -1,0 +1,290 @@
+[
+  {
+    "question_en": "How many moles are present in 22 grams of CO2? (Molar mass = 44 g/mol)",
+    "question_ta": "22 கிராம் CO2-ல் எத்தனை மோல்கள் உள்ளன? (மொலர் எடை = 44 g/mol)",
+    "options_en": ["0.25 mol", "0.5 mol", "1 mol", "2 mol"],
+    "options_ta": ["0.25 மோல்", "0.5 மோல்", "1 மோல்", "2 மோல்"],
+    "answer_en": "0.5 mol",
+    "answer_ta": "0.5 மோல்"
+  },
+  {
+    "question_en": "If 2 moles of hydrogen react with 1 mole of oxygen, how many moles of water are formed?",
+    "question_ta": "2 மோல் ஹைட்ரஜன் 1 மோல் ஆக்சிஜனுடன் வினைபுரிந்தால் எத்தனை மோல் நீர் உருவாகும்?",
+    "options_en": ["1 mol", "2 mol", "3 mol", "4 mol"],
+    "options_ta": ["1 மோல்", "2 மோல்", "3 மோல்", "4 மோல்"],
+    "answer_en": "2 mol",
+    "answer_ta": "2 மோல்"
+  },
+  {
+    "question_en": "What is the oxidation state of Mn in KMnO4?",
+    "question_ta": "KMnO4 இல் மாங்கனீஸின் ஆக்சிடேஷன் நிலை என்ன?",
+    "options_en": ["+2", "+4", "+6", "+7"],
+    "options_ta": ["+2", "+4", "+6", "+7"],
+    "answer_en": "+7",
+    "answer_ta": "+7"
+  },
+  {
+    "question_en": "The half-life of a radioactive isotope is 10 hours. How much of a 100 g sample will remain after 20 hours?",
+    "question_ta": "ஒரு கதிரியக்க ஐசோடோப்பின் அரை ஆயுட்காலம் 10 மணி. 20 மணி நேரத்திற்கு பின் 100 g மாதிரியில் எவ்வளவு மீதமாக இருக்கும்?",
+    "options_en": ["50 g", "25 g", "12.5 g", "75 g"],
+    "options_ta": ["50 g", "25 g", "12.5 g", "75 g"],
+    "answer_en": "25 g",
+    "answer_ta": "25 g"
+  },
+  {
+    "question_en": "The pH of a solution is 3. What is the hydrogen ion concentration?",
+    "question_ta": "ஒரு கரைசலின் pH = 3. ஹைட்ரஜன் அயன்களின் திரள்வு என்ன?",
+    "options_en": ["1 × 10⁻³ M", "1 × 10⁻⁴ M", "1 × 10⁻² M", "1 × 10⁻⁵ M"],
+    "options_ta": ["1 × 10⁻³ M", "1 × 10⁻⁴ M", "1 × 10⁻² M", "1 × 10⁻⁵ M"],
+    "answer_en": "1 × 10⁻³ M",
+    "answer_ta": "1 × 10⁻³ M"
+  },
+  {
+    "question_en": "If an object of mass 5 kg moves with velocity 10 m/s, its kinetic energy is?",
+    "question_ta": "5 kg நிறை கொண்ட பொருள் 10 m/s வேகத்தில் நகரும் போது அதன் இயக்க ஆற்றல் என்ன?",
+    "options_en": ["50 J", "100 J", "150 J", "250 J"],
+    "options_ta": ["50 ஜூல்", "100 ஜூல்", "150 ஜூல்", "250 ஜூல்"],
+    "answer_en": "250 J",
+    "answer_ta": "250 ஜூல்"
+  },
+  {
+    "question_en": "A current of 2 A flows through a 6 Ω resistor. The power dissipated is?",
+    "question_ta": "6 Ω எதிர்ப்பில் 2 A மின்சாரம் பாய்ந்தால் விரயமாகும் சக்தி எவ்வளவு?",
+    "options_en": ["12 W", "18 W", "24 W", "36 W"],
+    "options_ta": ["12 வாட்", "18 வாட்", "24 வாட்", "36 வாட்"],
+    "answer_en": "24 W",
+    "answer_ta": "24 வாட்"
+  },
+  {
+    "question_en": "At STP, the volume occupied by 1 mole of any ideal gas is?",
+    "question_ta": "STP இல் 1 மோல் இலட்சிய வாயுவின் அளவு என்ன?",
+    "options_en": ["11.2 L", "22.4 L", "44.8 L", "2.24 L"],
+    "options_ta": ["11.2 லிட்டர்", "22.4 லிட்டர்", "44.8 லிட்டர்", "2.24 லிட்டர்"],
+    "answer_en": "22.4 L",
+    "answer_ta": "22.4 லிட்டர்"
+  },
+  {
+    "question_en": "What is the equivalent resistance of two 4 Ω resistors connected in parallel?",
+    "question_ta": "இணை இணைப்பில் 4 Ω எதிர்ப்புகள் இரண்டும் இணைக்கப்பட்டால் மொத்த எதிர்ப்பு என்ன?",
+    "options_en": ["2 Ω", "4 Ω", "6 Ω", "8 Ω"],
+    "options_ta": ["2 Ω", "4 Ω", "6 Ω", "8 Ω"],
+    "answer_en": "2 Ω",
+    "answer_ta": "2 Ω"
+  },
+  {
+    "question_en": "The molecular weight of H2SO4 is?",
+    "question_ta": "H2SO4 இன் மூலக்கூறு எடை என்ன?",
+    "options_en": ["96", "98", "100", "102"],
+    "options_ta": ["96", "98", "100", "102"],
+    "answer_en": "98",
+    "answer_ta": "98"
+  },
+  {
+    "question_en": "If work done is 300 J in 60 seconds, what is the power?",
+    "question_ta": "60 வினாடிகளில் 300 J வேலை செய்யப்பட்டால் சக்தி என்ன?",
+    "options_en": ["3 W", "4 W", "5 W", "6 W"],
+    "options_ta": ["3 வாட்", "4 வாட்", "5 வாட்", "6 வாட்"],
+    "answer_en": "5 W",
+    "answer_ta": "5 வாட்"
+  },
+  {
+    "question_en": "What is the valency of carbon in methane (CH4)?",
+    "question_ta": "மீத்தேன் (CH4) இல் கார்பனின் வலென்சி என்ன?",
+    "options_en": ["1", "2", "3", "4"],
+    "options_ta": ["1", "2", "3", "4"],
+    "answer_en": "4",
+    "answer_ta": "4"
+  },
+  {
+    "question_en": "What is the molarity of a solution containing 9.8 g of H2SO4 in 1 litre of solution? (Molar mass = 98 g/mol)",
+    "question_ta": "1 லிட்டர் கரைசலில் 9.8 g H2SO4 இருந்தால் அதன் மொலாரிட்டி என்ன? (மொலர் எடை = 98 g/mol)",
+    "options_en": ["0.01 M", "0.1 M", "1 M", "10 M"],
+    "options_ta": ["0.01 M", "0.1 M", "1 M", "10 M"],
+    "answer_en": "0.1 M",
+    "answer_ta": "0.1 M"
+  },
+  {
+    "question_en": "If a car accelerates from rest to 20 m/s in 10 seconds, its acceleration is?",
+    "question_ta": "ஒரு கார் அமைதியிலிருந்து 10 வினாடிகளில் 20 m/s வேகத்தை அடைந்தால் அதன் துரிதம் என்ன?",
+    "options_en": ["1 m/s²", "2 m/s²", "5 m/s²", "10 m/s²"],
+    "options_ta": ["1 m/s²", "2 m/s²", "5 m/s²", "10 m/s²"],
+    "answer_en": "2 m/s²",
+    "answer_ta": "2 m/s²"
+  },
+  {
+    "question_en": "The resistance of a wire is 10 Ω. If its length is doubled and thickness halved, the new resistance will be?",
+    "question_ta": "ஒரு கம்பியின் எதிர்ப்பு 10 Ω. அதன் நீளம் இரட்டிப்பு மற்றும் தடிமன் பாதியாகும் போது புதிய எதிர்ப்பு என்ன?",
+    "options_en": ["20 Ω", "40 Ω", "80 Ω", "10 Ω"],
+    "options_ta": ["20 Ω", "40 Ω", "80 Ω", "10 Ω"],
+    "answer_en": "80 Ω",
+    "answer_ta": "80 Ω"
+  },
+  {
+    "question_en": "If the frequency of a wave is 50 Hz and its wavelength is 6 m, what is its velocity?",
+    "question_ta": "ஒரு அலைக்கதிரின் அதிர்வெண் 50 Hz மற்றும் அலைநீளம் 6 m என்றால் அதன் வேகம் என்ன?",
+    "options_en": ["200 m/s", "250 m/s", "300 m/s", "350 m/s"],
+    "options_ta": ["200 m/s", "250 m/s", "300 m/s", "350 m/s"],
+    "answer_en": "300 m/s",
+    "answer_ta": "300 m/s"
+  },
+  {
+    "question_en": "Which gas is produced at the anode during electrolysis of water?",
+    "question_ta": "நீரின் மின்சிதைவின் போது அனோடில் உற்பத்தியாகும் வாயு எது?",
+    "options_en": ["Oxygen", "Hydrogen", "Chlorine", "Carbon dioxide"],
+    "options_ta": ["ஆக்சிஜன்", "ஹைட்ரஜன்", "குளோரின்", "கார்பன் டைஆக்சைடு"],
+    "answer_en": "Oxygen",
+    "answer_ta": "ஆக்சிஜன்"
+  },
+  {
+    "question_en": "What is the emf of a cell having electrode potentials E°(Cu²⁺/Cu) = +0.34 V and E°(Zn²⁺/Zn) = –0.76 V?",
+    "question_ta": "E°(Cu²⁺/Cu) = +0.34 V மற்றும் E°(Zn²⁺/Zn) = –0.76 V எனில் செலின் மின் விசை (emf) என்ன?",
+    "options_en": ["0.34 V", "0.76 V", "1.1 V", "1.5 V"],
+    "options_ta": ["0.34 V", "0.76 V", "1.1 V", "1.5 V"],
+    "answer_en": "1.1 V",
+    "answer_ta": "1.1 V"
+  },
+  {
+    "question_en": "A radioactive sample has a half-life of 5 years. In how many years will only 1/16th of the sample remain?",
+    "question_ta": "ஒரு கதிரியக்க மாதிரியின் அரை ஆயுட்காலம் 5 வருடங்கள். எத்தனை ஆண்டுகளில் 1/16 மாதிரி மட்டுமே மீதமாக இருக்கும்?",
+    "options_en": ["10 years", "15 years", "20 years", "25 years"],
+    "options_ta": ["10 வருடங்கள்", "15 வருடங்கள்", "20 வருடங்கள்", "25 வருடங்கள்"],
+    "answer_en": "20 years",
+    "answer_ta": "20 வருடங்கள்"
+  },
+  {
+    "question_en": "The enthalpy change for a reaction is –200 kJ. This indicates the reaction is?",
+    "question_ta": "ஒரு வினையின் என்தால்பி மாற்றம் –200 kJ. இது வினை எப்படியானது என்பதை காட்டுகிறது?",
+    "options_en": ["Exothermic", "Endothermic", "Neutral", "Reversible"],
+    "options_ta": ["வெப்பவிடும்", "வெப்பஉள்வாங்கும்", "நடுநிலை", "மீளத்தக்கது"],
+    "answer_en": "Exothermic",
+    "answer_ta": "வெப்பவிடும்"
+  },
+  {
+    "question_en": "What is the equivalent resistance of three 6 Ω resistors connected in series?",
+    "question_ta": "மூன்று 6 Ω எதிர்ப்புகள் தொடர்ச்சியாக இணைக்கப்பட்டால் மொத்த எதிர்ப்பு என்ன?",
+    "options_en": ["6 Ω", "12 Ω", "18 Ω", "24 Ω"],
+    "options_ta": ["6 Ω", "12 Ω", "18 Ω", "24 Ω"],
+    "answer_en": "18 Ω",
+    "answer_ta": "18 Ω"
+  },
+  {
+    "question_en": "The molecular mass of glucose (C6H12O6) is?",
+    "question_ta": "குளுக்கோஸ் (C6H12O6) இன் மூலக்கூறு எடை என்ன?",
+    "options_en": ["160", "162", "180", "182"],
+    "options_ta": ["160", "162", "180", "182"],
+    "answer_en": "180",
+    "answer_ta": "180"
+  },
+  {
+    "question_en": "If a solution has [OH⁻] = 1 × 10⁻⁵ M, what is its pH?",
+    "question_ta": "ஒரு கரைசலில் [OH⁻] = 1 × 10⁻⁵ M என்றால் அதன் pH என்ன?",
+    "options_en": ["5", "7", "9", "14"],
+    "options_ta": ["5", "7", "9", "14"],
+    "answer_en": "9",
+    "answer_ta": "9"
+  },
+  {
+    "question_en": "The specific heat of water is 4.2 J/g°C. How much heat is required to raise the temperature of 200 g water by 10°C?",
+    "question_ta": "தண்ணீரின் குறிப்பிட்ட வெப்பம் 4.2 J/g°C. 200 g தண்ணீரை 10°C உயர்த்த எவ்வளவு வெப்பம் தேவை?",
+    "options_en": ["420 J", "840 J", "4200 J", "8400 J"],
+    "options_ta": ["420 J", "840 J", "4200 J", "8400 J"],
+    "answer_en": "8400 J",
+    "answer_ta": "8400 J"
+  },
+  {
+    "question_en": "If 5 g of CaCO3 is heated strongly, how many grams of CO2 will be released? (Molar mass CaCO3 = 100 g/mol, CO2 = 44 g/mol)",
+    "question_ta": "5 g CaCO3 வலுவாக சூடேற்றப்பட்டால் எத்தனை g CO2 வெளியிடப்படும்? (மொலர் எடை CaCO3 = 100 g/mol, CO2 = 44 g/mol)",
+    "options_en": ["1.1 g", "2.2 g", "3.3 g", "4.4 g"],
+    "options_ta": ["1.1 g", "2.2 g", "3.3 g", "4.4 g"],
+    "answer_en": "2.2 g",
+    "answer_ta": "2.2 g"
+  },
+  {
+    "question_en": "If a wave has velocity 340 m/s and frequency 170 Hz, its wavelength is?",
+    "question_ta": "ஒரு அலைக்கு வேகம் 340 m/s மற்றும் அதிர்வெண் 170 Hz என்றால் அதன் அலைநீளம் என்ன?",
+    "options_en": ["1 m", "2 m", "3 m", "4 m"],
+    "options_ta": ["1 m", "2 m", "3 m", "4 m"],
+    "answer_en": "2 m",
+    "answer_ta": "2 m"
+  },
+  {
+    "question_en": "How many ATP molecules are produced in aerobic respiration from one glucose molecule?",
+    "question_ta": "ஒரு குளுக்கோஸ் மூலக்கூறிலிருந்து ஏரோபிக் சுவாசத்தில் எத்தனை ATP மூலக்கூறுகள் உருவாகின்றன?",
+    "options_en": ["18", "28", "36", "38"],
+    "options_ta": ["18", "28", "36", "38"],
+    "answer_en": "38",
+    "answer_ta": "38"
+  },
+  {
+    "question_en": "What is the equivalent resistance of two resistors of 6 Ω and 3 Ω connected in series?",
+    "question_ta": "6 Ω மற்றும் 3 Ω எதிர்ப்புகள் தொடர்ச்சியாக இணைக்கப்பட்டால் மொத்த எதிர்ப்பு என்ன?",
+    "options_en": ["2 Ω", "3 Ω", "6 Ω", "9 Ω"],
+    "options_ta": ["2 Ω", "3 Ω", "6 Ω", "9 Ω"],
+    "answer_en": "9 Ω",
+    "answer_ta": "9 Ω"
+  },
+  {
+    "question_en": "The number of electrons in 18 g of water is? (Avogadro’s number = 6.022 × 10²³)",
+    "question_ta": "18 g தண்ணீரில் எத்தனை எலக்ட்ரான்கள் உள்ளன? (அவோகாட்ரோ எண் = 6.022 × 10²³)",
+    "options_en": ["3.34 × 10²³", "6.022 × 10²³", "1.204 × 10²⁴", "3.612 × 10²⁴"],
+    "options_ta": ["3.34 × 10²³", "6.022 × 10²³", "1.204 × 10²⁴", "3.612 × 10²⁴"],
+    "answer_en": "3.612 × 10²⁴",
+    "answer_ta": "3.612 × 10²⁴"
+  },
+  {
+    "question_en": "If a force of 50 N is applied on a body and it moves 4 m, the work done is?",
+    "question_ta": "ஒரு உடலில் 50 N விசை செயல்படுத்தப்பட்டு அது 4 m நகர்ந்தால் செய்யப்படும் வேலை என்ன?",
+    "options_en": ["100 J", "150 J", "200 J", "250 J"],
+    "options_ta": ["100 J", "150 J", "200 J", "250 J"],
+    "answer_en": "200 J",
+    "answer_ta": "200 J"
+  },
+  {
+    "question_en": "The enthalpy change in the formation of 1 mole of water is –286 kJ. This is an example of?",
+    "question_ta": "1 மோல் நீர் உருவாகும் போது என்தால்பி மாற்றம் –286 kJ. இது எதற்கு எடுத்துக்காட்டு?",
+    "options_en": ["Exothermic reaction", "Endothermic reaction", "Neutralization", "Electrolysis"],
+    "options_ta": ["வெப்பவிடும் வினை", "வெப்பஉள்வாங்கும் வினை", "நியூட்ரலிசேஷன்", "மின்சிதைவு"],
+    "answer_en": "Exothermic reaction",
+    "answer_ta": "வெப்பவிடும் வினை"
+  },
+  {
+    "question_en": "If a concave mirror has a focal length of 20 cm, what is its radius of curvature?",
+    "question_ta": "ஒரு உள்ளவளைந்த கண்ணாடியின் நிழற்பகுதி நீளம் 20 cm என்றால் அதன் வளைவு ஆரம் என்ன?",
+    "options_en": ["10 cm", "20 cm", "30 cm", "40 cm"],
+    "options_ta": ["10 cm", "20 cm", "30 cm", "40 cm"],
+    "answer_en": "40 cm",
+    "answer_ta": "40 cm"
+  },
+  {
+    "question_en": "A current of 3 A flows through a circuit for 2 minutes. How much charge is passed?",
+    "question_ta": "ஒரு சுற்றில் 3 A மின்சாரம் 2 நிமிடங்கள் பாய்ந்தால் மொத்த சார்ஜ் எவ்வளவு?",
+    "options_en": ["180 C", "240 C", "300 C", "360 C"],
+    "options_ta": ["180 C", "240 C", "300 C", "360 C"],
+    "answer_en": "360 C",
+    "answer_ta": "360 C"
+  },
+  {
+    "question_en": "If an acid has a pH of 2, what will be its pOH?",
+    "question_ta": "ஒரு அமிலத்தின் pH = 2 என்றால் அதன் pOH மதிப்பு என்ன?",
+    "options_en": ["10", "12", "14", "2"],
+    "options_ta": ["10", "12", "14", "2"],
+    "answer_en": "12",
+    "answer_ta": "12"
+  },
+  {
+    "question_en": "What is the equivalent resistance of three 12 Ω resistors connected in parallel?",
+    "question_ta": "மூன்று 12 Ω எதிர்ப்புகள் இணை இணைப்பில் இணைக்கப்பட்டால் மொத்த எதிர்ப்பு என்ன?",
+    "options_en": ["3 Ω", "4 Ω", "6 Ω", "12 Ω"],
+    "options_ta": ["3 Ω", "4 Ω", "6 Ω", "12 Ω"],
+    "answer_en": "4 Ω",
+    "answer_ta": "4 Ω"
+  },
+  {
+    "question_en": "The wavelength of visible light is in which range?",
+    "question_ta": "காணக்கூடிய ஒளியின் அலைநீளம் எந்த வரம்பில் உள்ளது?",
+    "options_en": ["100–200 nm", "200–400 nm", "400–700 nm", "700–900 nm"],
+    "options_ta": ["100–200 nm", "200–400 nm", "400–700 nm", "700–900 nm"],
+    "answer_en": "400–700 nm",
+    "answer_ta": "400–700 nm"
+  }
+]

@@ -1,0 +1,902 @@
+[
+  {
+    "question_en": "What is the main theme of a travelogue passage?",
+    "question_ta": "பயணக்குறிப்பின் முக்கிய கருத்து என்ன?",
+    "options_en": [
+      "Travelling experiences",
+      "Science facts",
+      "Mathematics",
+      "Cooking recipes"
+    ],
+    "options_ta": [
+      "பயண அனுபவங்கள்",
+      "அறிவியல் தகவல்கள்",
+      "கணிதம்",
+      "சமையல் குறிப்புகள்"
+    ],
+    "answer_en": "Travelling experiences",
+    "answer_ta": "பயண அனுபவங்கள்"
+  },
+  {
+    "question_en": "Pick the correct antonym of 'always'.",
+    "question_ta": "'always' என்பதற்கான எதிர் சொல் எது?",
+    "options_en": [
+      "usually",
+      "often",
+      "sometimes",
+      "never"
+    ],
+    "options_ta": [
+      "பொதுவாக",
+      "அடிக்கடி",
+      "சில சமயம்",
+      "ஒருபோதும் இல்லை"
+    ],
+    "answer_en": "never",
+    "answer_ta": "ஒருபோதும் இல்லை"
+  },
+  {
+    "question_en": "What is the main theme of a travelogue passage?",
+    "question_ta": "பயணக்குறிப்பின் முக்கிய கருத்து என்ன?",
+    "options_en": [
+      "Science facts",
+      "Cooking recipes",
+      "Mathematics",
+      "Travelling experiences"
+    ],
+    "options_ta": [
+      "அறிவியல் தகவல்கள்",
+      "சமையல் குறிப்புகள்",
+      "கணிதம்",
+      "பயண அனுபவங்கள்"
+    ],
+    "answer_en": "Travelling experiences",
+    "answer_ta": "பயண அனுபவங்கள்"
+  },
+  {
+    "question_en": "Select the correct article: '___ apple a day keeps the doctor away.'",
+    "question_ta": "சரியான கட்டுரை தேர்வு: '___ apple a day keeps the doctor away.'",
+    "options_en": [
+      "A",
+      "The",
+      "None",
+      "An"
+    ],
+    "options_ta": [
+      "ஒரு",
+      "அந்த",
+      "இல்லை",
+      "ஒரு"
+    ],
+    "answer_en": "An",
+    "answer_ta": "An"
+  },
+  {
+    "question_en": "Which punctuation ends a question?",
+    "question_ta": "ஒரு கேள்விக்கு எந்த அடையாளம் பயன்படுத்தப்படுகிறது?",
+    "options_en": [
+      "Full stop",
+      "Exclamation mark",
+      "Comma",
+      "Question mark"
+    ],
+    "options_ta": [
+      "முழு நிறுத்தம்",
+      "ஆச்சரியச் சின்னம்",
+      "அலைவுபுள்ளி",
+      "கேள்விச்சின்னம்"
+    ],
+    "answer_en": "Question mark",
+    "answer_ta": "கேள்விச்சின்னம்"
+  },
+  {
+    "question_en": "Which is a countable noun?",
+    "question_ta": "எது எண்ணக்கூடிய பெயர்ச்சொல்?",
+    "options_en": [
+      "rice",
+      "air",
+      "water",
+      "apple"
+    ],
+    "options_ta": [
+      "அரிசி",
+      "காற்று",
+      "தண்ணீர்",
+      "ஆப்பிள்"
+    ],
+    "answer_en": "apple",
+    "answer_ta": "ஆப்பிள்"
+  },
+  {
+    "question_en": "What is the main theme of a travelogue passage?",
+    "question_ta": "பயணக்குறிப்பின் முக்கிய கருத்து என்ன?",
+    "options_en": [
+      "Travelling experiences",
+      "Science facts",
+      "Cooking recipes",
+      "Mathematics"
+    ],
+    "options_ta": [
+      "பயண அனுபவங்கள்",
+      "அறிவியல் தகவல்கள்",
+      "சமையல் குறிப்புகள்",
+      "கணிதம்"
+    ],
+    "answer_en": "Travelling experiences",
+    "answer_ta": "பயண அனுபவங்கள்"
+  },
+  {
+    "question_en": "Choose correct preposition: 'She lives ___ Chennai.'",
+    "question_ta": "சரியான முன்னொட்டு தேர்வு: 'She lives ___ Chennai.'",
+    "options_en": [
+      "in",
+      "on",
+      "by",
+      "at"
+    ],
+    "options_ta": [
+      "இல்",
+      "மேல்",
+      "தானா",
+      "இல் (சிறு)"
+    ],
+    "answer_en": "in",
+    "answer_ta": "இல்"
+  },
+  {
+    "question_en": "Which punctuation ends a question?",
+    "question_ta": "ஒரு கேள்விக்கு எந்த அடையாளம் பயன்படுத்தப்படுகிறது?",
+    "options_en": [
+      "Full stop",
+      "Comma",
+      "Exclamation mark",
+      "Question mark"
+    ],
+    "options_ta": [
+      "முழு நிறுத்தம்",
+      "அலைவுபுள்ளி",
+      "ஆச்சரியச் சின்னம்",
+      "கேள்விச்சின்னம்"
+    ],
+    "answer_en": "Question mark",
+    "answer_ta": "கேள்விச்சின்னம்"
+  },
+  {
+    "question_en": "Pick the correct antonym of 'always'.",
+    "question_ta": "'always' என்பதற்கான எதிர் சொல் எது?",
+    "options_en": [
+      "sometimes",
+      "usually",
+      "often",
+      "never"
+    ],
+    "options_ta": [
+      "சில சமயம்",
+      "பொதுவாக",
+      "அடிக்கடி",
+      "ஒருபோதும் இல்லை"
+    ],
+    "answer_en": "never",
+    "answer_ta": "ஒருபோதும் இல்லை"
+  },
+  {
+    "question_en": "What does 'synonym' mean?",
+    "question_ta": "'synonym' என்பதன் பொருள் என்ன?",
+    "options_en": [
+      "Made-up words",
+      "Opposite words",
+      "Silent letters",
+      "Words with same meaning"
+    ],
+    "options_ta": [
+      "உரையில்லா சொற்கள்",
+      "எதிர் பொருள் சொற்கள்",
+      "அமைதியான எழுத்துகள்",
+      "அதே பொருளுடைய சொற்கள்"
+    ],
+    "answer_en": "Words with same meaning",
+    "answer_ta": "அதே பொருளுடைய சொற்கள்"
+  },
+  {
+    "question_en": "Choose correct preposition: 'She lives ___ Chennai.'",
+    "question_ta": "சரியான முன்னொட்டு தேர்வு: 'She lives ___ Chennai.'",
+    "options_en": [
+      "at",
+      "by",
+      "in",
+      "on"
+    ],
+    "options_ta": [
+      "இல் (சிறு)",
+      "தானா",
+      "இல்",
+      "மேல்"
+    ],
+    "answer_en": "in",
+    "answer_ta": "இல்"
+  },
+  {
+    "question_en": "Who is the author of 'Don Quixote' passage used in the book?",
+    "question_ta": "புத்தகத்தில் பயன்படுத்தப்பட்ட 'டான் க்விக்க்ஸோட்' பகுதியின் ஆசிரியர் யார்?",
+    "options_en": [
+      "Mark Twain",
+      "Charles Dickens",
+      "William Shakespeare",
+      "Miguel de Cervantes"
+    ],
+    "options_ta": [
+      "மார்க் டுவேன்",
+      "சார்லஸ் டிக்கென்ஸ்",
+      "வில்லியம் ஷேக்ஸ்பேர்",
+      "மிகேல் டி செர்வான்டெஸ்"
+    ],
+    "answer_en": "Miguel de Cervantes",
+    "answer_ta": "மிகேல் டி செர்வான்டெஸ்"
+  },
+  {
+    "question_en": "Choose correct preposition: 'She lives ___ Chennai.'",
+    "question_ta": "சரியான முன்னொட்டு தேர்வு: 'She lives ___ Chennai.'",
+    "options_en": [
+      "by",
+      "on",
+      "at",
+      "in"
+    ],
+    "options_ta": [
+      "தானா",
+      "மேல்",
+      "இல் (சிறு)",
+      "இல்"
+    ],
+    "answer_en": "in",
+    "answer_ta": "இல்"
+  },
+  {
+    "question_en": "What does 'synonym' mean?",
+    "question_ta": "'synonym' என்பதன் பொருள் என்ன?",
+    "options_en": [
+      "Opposite words",
+      "Silent letters",
+      "Words with same meaning",
+      "Made-up words"
+    ],
+    "options_ta": [
+      "எதிர் பொருள் சொற்கள்",
+      "அமைதியான எழுத்துகள்",
+      "அதே பொருளுடைய சொற்கள்",
+      "உரையில்லா சொற்கள்"
+    ],
+    "answer_en": "Words with same meaning",
+    "answer_ta": "அதே பொருளுடைய சொற்கள்"
+  },
+  {
+    "question_en": "Select the correct article: '___ apple a day keeps the doctor away.'",
+    "question_ta": "சரியான கட்டுரை தேர்வு: '___ apple a day keeps the doctor away.'",
+    "options_en": [
+      "The",
+      "An",
+      "A",
+      "None"
+    ],
+    "options_ta": [
+      "அந்த",
+      "ஒரு",
+      "ஒரு",
+      "இல்லை"
+    ],
+    "answer_en": "An",
+    "answer_ta": "An"
+  },
+  {
+    "question_en": "Which is a past tense form of 'run'?",
+    "question_ta": "'run' என்பதற்கான கடந்த கால வடிவம் எது?",
+    "options_en": [
+      "running",
+      "runs",
+      "ran",
+      "runned"
+    ],
+    "options_ta": [
+      "running",
+      "runs",
+      "ran",
+      "runned"
+    ],
+    "answer_en": "ran",
+    "answer_ta": "ran"
+  },
+  {
+    "question_en": "Pick the correct antonym of 'always'.",
+    "question_ta": "'always' என்பதற்கான எதிர் சொல் எது?",
+    "options_en": [
+      "never",
+      "sometimes",
+      "often",
+      "usually"
+    ],
+    "options_ta": [
+      "ஒருபோதும் இல்லை",
+      "சில சமயம்",
+      "அடிக்கடி",
+      "பொதுவாக"
+    ],
+    "answer_en": "never",
+    "answer_ta": "ஒருபோதும் இல்லை"
+  },
+  {
+    "question_en": "What is the main theme of a travelogue passage?",
+    "question_ta": "பயணக்குறிப்பின் முக்கிய கருத்து என்ன?",
+    "options_en": [
+      "Cooking recipes",
+      "Mathematics",
+      "Science facts",
+      "Travelling experiences"
+    ],
+    "options_ta": [
+      "சமையல் குறிப்புகள்",
+      "கணிதம்",
+      "அறிவியல் தகவல்கள்",
+      "பயண அனுபவங்கள்"
+    ],
+    "answer_en": "Travelling experiences",
+    "answer_ta": "பயண அனுபவங்கள்"
+  },
+  {
+    "question_en": "Choose correct preposition: 'She lives ___ Chennai.'",
+    "question_ta": "சரியான முன்னொட்டு தேர்வு: 'She lives ___ Chennai.'",
+    "options_en": [
+      "on",
+      "by",
+      "at",
+      "in"
+    ],
+    "options_ta": [
+      "மேல்",
+      "தானா",
+      "இல் (சிறு)",
+      "இல்"
+    ],
+    "answer_en": "in",
+    "answer_ta": "இல்"
+  },
+  {
+    "question_en": "Which punctuation ends a question?",
+    "question_ta": "ஒரு கேள்விக்கு எந்த அடையாளம் பயன்படுத்தப்படுகிறது?",
+    "options_en": [
+      "Exclamation mark",
+      "Question mark",
+      "Full stop",
+      "Comma"
+    ],
+    "options_ta": [
+      "ஆச்சரியச் சின்னம்",
+      "கேள்விச்சின்னம்",
+      "முழு நிறுத்தம்",
+      "அலைவுபுள்ளி"
+    ],
+    "answer_en": "Question mark",
+    "answer_ta": "கேள்விச்சின்னம்"
+  },
+  {
+    "question_en": "Pick the correct antonym of 'always'.",
+    "question_ta": "'always' என்பதற்கான எதிர் சொல் எது?",
+    "options_en": [
+      "often",
+      "usually",
+      "sometimes",
+      "never"
+    ],
+    "options_ta": [
+      "அடிக்கடி",
+      "பொதுவாக",
+      "சில சமயம்",
+      "ஒருபோதும் இல்லை"
+    ],
+    "answer_en": "never",
+    "answer_ta": "ஒருபோதும் இல்லை"
+  },
+  {
+    "question_en": "Choose the correct plural of 'child'.",
+    "question_ta": "'child' என்பதற்கான சரியான பன்மை என்ன?",
+    "options_en": [
+      "childes",
+      "children",
+      "childrens",
+      "childs"
+    ],
+    "options_ta": [
+      "childes",
+      "children",
+      "childrens",
+      "childs"
+    ],
+    "answer_en": "children",
+    "answer_ta": "children"
+  },
+  {
+    "question_en": "Which is a countable noun?",
+    "question_ta": "எது எண்ணக்கூடிய பெயர்ச்சொல்?",
+    "options_en": [
+      "air",
+      "apple",
+      "rice",
+      "water"
+    ],
+    "options_ta": [
+      "காற்று",
+      "ஆப்பிள்",
+      "அரிசி",
+      "தண்ணீர்"
+    ],
+    "answer_en": "apple",
+    "answer_ta": "ஆப்பிள்"
+  },
+  {
+    "question_en": "What does 'synonym' mean?",
+    "question_ta": "'synonym' என்பதன் பொருள் என்ன?",
+    "options_en": [
+      "Made-up words",
+      "Opposite words",
+      "Words with same meaning",
+      "Silent letters"
+    ],
+    "options_ta": [
+      "உரையில்லா சொற்கள்",
+      "எதிர் பொருள் சொற்கள்",
+      "அதே பொருளுடைய சொற்கள்",
+      "அமைதியான எழுத்துகள்"
+    ],
+    "answer_en": "Words with same meaning",
+    "answer_ta": "அதே பொருளுடைய சொற்கள்"
+  },
+  {
+    "question_en": "Pick the correct antonym of 'always'.",
+    "question_ta": "'always' என்பதற்கான எதிர் சொல் எது?",
+    "options_en": [
+      "usually",
+      "never",
+      "often",
+      "sometimes"
+    ],
+    "options_ta": [
+      "பொதுவாக",
+      "ஒருபோதும் இல்லை",
+      "அடிக்கடி",
+      "சில சமயம்"
+    ],
+    "answer_en": "never",
+    "answer_ta": "ஒருபோதும் இல்லை"
+  },
+  {
+    "question_en": "Who is the author of 'Don Quixote' passage used in the book?",
+    "question_ta": "புத்தகத்தில் பயன்படுத்தப்பட்ட 'டான் க்விக்க்ஸோட்' பகுதியின் ஆசிரியர் யார்?",
+    "options_en": [
+      "Charles Dickens",
+      "William Shakespeare",
+      "Miguel de Cervantes",
+      "Mark Twain"
+    ],
+    "options_ta": [
+      "சார்லஸ் டிக்கென்ஸ்",
+      "வில்லியம் ஷேக்ஸ்பேர்",
+      "மிகேல் டி செர்வான்டெஸ்",
+      "மார்க் டுவேன்"
+    ],
+    "answer_en": "Miguel de Cervantes",
+    "answer_ta": "மிகேல் டி செர்வான்டெஸ்"
+  },
+  {
+    "question_en": "Select the correct article: '___ apple a day keeps the doctor away.'",
+    "question_ta": "சரியான கட்டுரை தேர்வு: '___ apple a day keeps the doctor away.'",
+    "options_en": [
+      "The",
+      "A",
+      "An",
+      "None"
+    ],
+    "options_ta": [
+      "அந்த",
+      "ஒரு",
+      "ஒரு",
+      "இல்லை"
+    ],
+    "answer_en": "An",
+    "answer_ta": "An"
+  },
+  {
+    "question_en": "Which punctuation ends a question?",
+    "question_ta": "ஒரு கேள்விக்கு எந்த அடையாளம் பயன்படுத்தப்படுகிறது?",
+    "options_en": [
+      "Exclamation mark",
+      "Comma",
+      "Full stop",
+      "Question mark"
+    ],
+    "options_ta": [
+      "ஆச்சரியச் சின்னம்",
+      "அலைவுபுள்ளி",
+      "முழு நிறுத்தம்",
+      "கேள்விச்சின்னம்"
+    ],
+    "answer_en": "Question mark",
+    "answer_ta": "கேள்விச்சின்னம்"
+  },
+  {
+    "question_en": "Pick the correct antonym of 'always'.",
+    "question_ta": "'always' என்பதற்கான எதிர் சொல் எது?",
+    "options_en": [
+      "sometimes",
+      "often",
+      "never",
+      "usually"
+    ],
+    "options_ta": [
+      "சில சமயம்",
+      "அடிக்கடி",
+      "ஒருபோதும் இல்லை",
+      "பொதுவாக"
+    ],
+    "answer_en": "never",
+    "answer_ta": "ஒருபோதும் இல்லை"
+  },
+  {
+    "question_en": "Who is the author of 'Don Quixote' passage used in the book?",
+    "question_ta": "புத்தகத்தில் பயன்படுத்தப்பட்ட 'டான் க்விக்க்ஸோட்' பகுதியின் ஆசிரியர் யார்?",
+    "options_en": [
+      "William Shakespeare",
+      "Charles Dickens",
+      "Miguel de Cervantes",
+      "Mark Twain"
+    ],
+    "options_ta": [
+      "வில்லியம் ஷேக்ஸ்பேர்",
+      "சார்லஸ் டிக்கென்ஸ்",
+      "மிகேல் டி செர்வான்டெஸ்",
+      "மார்க் டுவேன்"
+    ],
+    "answer_en": "Miguel de Cervantes",
+    "answer_ta": "மிகேல் டி செர்வான்டெஸ்"
+  },
+  {
+    "question_en": "Choose correct preposition: 'She lives ___ Chennai.'",
+    "question_ta": "சரியான முன்னொட்டு தேர்வு: 'She lives ___ Chennai.'",
+    "options_en": [
+      "at",
+      "in",
+      "by",
+      "on"
+    ],
+    "options_ta": [
+      "இல் (சிறு)",
+      "இல்",
+      "தானா",
+      "மேல்"
+    ],
+    "answer_en": "in",
+    "answer_ta": "இல்"
+  },
+  {
+    "question_en": "Who is the author of 'Don Quixote' passage used in the book?",
+    "question_ta": "புத்தகத்தில் பயன்படுத்தப்பட்ட 'டான் க்விக்க்ஸோட்' பகுதியின் ஆசிரியர் யார்?",
+    "options_en": [
+      "Mark Twain",
+      "William Shakespeare",
+      "Charles Dickens",
+      "Miguel de Cervantes"
+    ],
+    "options_ta": [
+      "மார்க் டுவேன்",
+      "வில்லியம் ஷேக்ஸ்பேர்",
+      "சார்லஸ் டிக்கென்ஸ்",
+      "மிகேல் டி செர்வான்டெஸ்"
+    ],
+    "answer_en": "Miguel de Cervantes",
+    "answer_ta": "மிகேல் டி செர்வான்டெஸ்"
+  },
+  {
+    "question_en": "Which is a countable noun?",
+    "question_ta": "எது எண்ணக்கூடிய பெயர்ச்சொல்?",
+    "options_en": [
+      "rice",
+      "air",
+      "water",
+      "apple"
+    ],
+    "options_ta": [
+      "அரிசி",
+      "காற்று",
+      "தண்ணீர்",
+      "ஆப்பிள்"
+    ],
+    "answer_en": "apple",
+    "answer_ta": "ஆப்பிள்"
+  },
+  {
+    "question_en": "What does 'synonym' mean?",
+    "question_ta": "'synonym' என்பதன் பொருள் என்ன?",
+    "options_en": [
+      "Silent letters",
+      "Made-up words",
+      "Words with same meaning",
+      "Opposite words"
+    ],
+    "options_ta": [
+      "அமைதியான எழுத்துகள்",
+      "உரையில்லா சொற்கள்",
+      "அதே பொருளுடைய சொற்கள்",
+      "எதிர் பொருள் சொற்கள்"
+    ],
+    "answer_en": "Words with same meaning",
+    "answer_ta": "அதே பொருளுடைய சொற்கள்"
+  },
+  {
+    "question_en": "Pick the correct antonym of 'always'.",
+    "question_ta": "'always' என்பதற்கான எதிர் சொல் எது?",
+    "options_en": [
+      "often",
+      "sometimes",
+      "never",
+      "usually"
+    ],
+    "options_ta": [
+      "அடிக்கடி",
+      "சில சமயம்",
+      "ஒருபோதும் இல்லை",
+      "பொதுவாக"
+    ],
+    "answer_en": "never",
+    "answer_ta": "ஒருபோதும் இல்லை"
+  },
+  {
+    "question_en": "Which is a past tense form of 'run'?",
+    "question_ta": "'run' என்பதற்கான கடந்த கால வடிவம் எது?",
+    "options_en": [
+      "running",
+      "ran",
+      "runned",
+      "runs"
+    ],
+    "options_ta": [
+      "running",
+      "ran",
+      "runned",
+      "runs"
+    ],
+    "answer_en": "ran",
+    "answer_ta": "ran"
+  },
+  {
+    "question_en": "Choose correct preposition: 'She lives ___ Chennai.'",
+    "question_ta": "சரியான முன்னொட்டு தேர்வு: 'She lives ___ Chennai.'",
+    "options_en": [
+      "at",
+      "on",
+      "in",
+      "by"
+    ],
+    "options_ta": [
+      "இல் (சிறு)",
+      "மேல்",
+      "இல்",
+      "தானா"
+    ],
+    "answer_en": "in",
+    "answer_ta": "இல்"
+  },
+  {
+    "question_en": "Who is the author of 'Don Quixote' passage used in the book?",
+    "question_ta": "புத்தகத்தில் பயன்படுத்தப்பட்ட 'டான் க்விக்க்ஸோட்' பகுதியின் ஆசிரியர் யார்?",
+    "options_en": [
+      "Charles Dickens",
+      "Miguel de Cervantes",
+      "William Shakespeare",
+      "Mark Twain"
+    ],
+    "options_ta": [
+      "சார்லஸ் டிக்கென்ஸ்",
+      "மிகேல் டி செர்வான்டெஸ்",
+      "வில்லியம் ஷேக்ஸ்பேர்",
+      "மார்க் டுவேன்"
+    ],
+    "answer_en": "Miguel de Cervantes",
+    "answer_ta": "மிகேல் டி செர்வான்டெஸ்"
+  },
+  {
+    "question_en": "Which is a countable noun?",
+    "question_ta": "எது எண்ணக்கூடிய பெயர்ச்சொல்?",
+    "options_en": [
+      "water",
+      "rice",
+      "air",
+      "apple"
+    ],
+    "options_ta": [
+      "தண்ணீர்",
+      "அரிசி",
+      "காற்று",
+      "ஆப்பிள்"
+    ],
+    "answer_en": "apple",
+    "answer_ta": "ஆப்பிள்"
+  },
+  {
+    "question_en": "Which punctuation ends a question?",
+    "question_ta": "ஒரு கேள்விக்கு எந்த அடையாளம் பயன்படுத்தப்படுகிறது?",
+    "options_en": [
+      "Comma",
+      "Question mark",
+      "Full stop",
+      "Exclamation mark"
+    ],
+    "options_ta": [
+      "அலைவுபுள்ளி",
+      "கேள்விச்சின்னம்",
+      "முழு நிறுத்தம்",
+      "ஆச்சரியச் சின்னம்"
+    ],
+    "answer_en": "Question mark",
+    "answer_ta": "கேள்விச்சின்னம்"
+  },
+  {
+    "question_en": "Which is a countable noun?",
+    "question_ta": "எது எண்ணக்கூடிய பெயர்ச்சொல்?",
+    "options_en": [
+      "air",
+      "water",
+      "apple",
+      "rice"
+    ],
+    "options_ta": [
+      "காற்று",
+      "தண்ணீர்",
+      "ஆப்பிள்",
+      "அரிசி"
+    ],
+    "answer_en": "apple",
+    "answer_ta": "ஆப்பிள்"
+  },
+  {
+    "question_en": "What is the main theme of a travelogue passage?",
+    "question_ta": "பயணக்குறிப்பின் முக்கிய கருத்து என்ன?",
+    "options_en": [
+      "Mathematics",
+      "Travelling experiences",
+      "Science facts",
+      "Cooking recipes"
+    ],
+    "options_ta": [
+      "கணிதம்",
+      "பயண அனுபவங்கள்",
+      "அறிவியல் தகவல்கள்",
+      "சமையல் குறிப்புகள்"
+    ],
+    "answer_en": "Travelling experiences",
+    "answer_ta": "பயண அனுபவங்கள்"
+  },
+  {
+    "question_en": "Choose correct preposition: 'She lives ___ Chennai.'",
+    "question_ta": "சரியான முன்னொட்டு தேர்வு: 'She lives ___ Chennai.'",
+    "options_en": [
+      "on",
+      "in",
+      "at",
+      "by"
+    ],
+    "options_ta": [
+      "மேல்",
+      "இல்",
+      "இல் (சிறு)",
+      "தானா"
+    ],
+    "answer_en": "in",
+    "answer_ta": "இல்"
+  },
+  {
+    "question_en": "Choose the correct plural of 'child'.",
+    "question_ta": "'child' என்பதற்கான சரியான பன்மை என்ன?",
+    "options_en": [
+      "childes",
+      "childrens",
+      "childs",
+      "children"
+    ],
+    "options_ta": [
+      "childes",
+      "childrens",
+      "childs",
+      "children"
+    ],
+    "answer_en": "children",
+    "answer_ta": "children"
+  },
+  {
+    "question_en": "Select the correct article: '___ apple a day keeps the doctor away.'",
+    "question_ta": "சரியான கட்டுரை தேர்வு: '___ apple a day keeps the doctor away.'",
+    "options_en": [
+      "None",
+      "A",
+      "An",
+      "The"
+    ],
+    "options_ta": [
+      "இல்லை",
+      "ஒரு",
+      "ஒரு",
+      "அந்த"
+    ],
+    "answer_en": "An",
+    "answer_ta": "An"
+  },
+  {
+    "question_en": "What is the main theme of a travelogue passage?",
+    "question_ta": "பயணக்குறிப்பின் முக்கிய கருத்து என்ன?",
+    "options_en": [
+      "Mathematics",
+      "Science facts",
+      "Cooking recipes",
+      "Travelling experiences"
+    ],
+    "options_ta": [
+      "கணிதம்",
+      "அறிவியல் தகவல்கள்",
+      "சமையல் குறிப்புகள்",
+      "பயண அனுபவங்கள்"
+    ],
+    "answer_en": "Travelling experiences",
+    "answer_ta": "பயண அனுபவங்கள்"
+  },
+  {
+    "question_en": "Pick the correct antonym of 'always'.",
+    "question_ta": "'always' என்பதற்கான எதிர் சொல் எது?",
+    "options_en": [
+      "usually",
+      "never",
+      "sometimes",
+      "often"
+    ],
+    "options_ta": [
+      "பொதுவாக",
+      "ஒருபோதும் இல்லை",
+      "சில சமயம்",
+      "அடிக்கடி"
+    ],
+    "answer_en": "never",
+    "answer_ta": "ஒருபோதும் இல்லை"
+  },
+  {
+    "question_en": "Choose the correct plural of 'child'.",
+    "question_ta": "'child' என்பதற்கான சரியான பன்மை என்ன?",
+    "options_en": [
+      "childs",
+      "childes",
+      "children",
+      "childrens"
+    ],
+    "options_ta": [
+      "childs",
+      "childes",
+      "children",
+      "childrens"
+    ],
+    "answer_en": "children",
+    "answer_ta": "children"
+  },
+  {
+    "question_en": "Pick the correct antonym of 'always'.",
+    "question_ta": "'always' என்பதற்கான எதிர் சொல் எது?",
+    "options_en": [
+      "sometimes",
+      "often",
+      "never",
+      "usually"
+    ],
+    "options_ta": [
+      "சில சமயம்",
+      "அடிக்கடி",
+      "ஒருபோதும் இல்லை",
+      "பொதுவாக"
+    ],
+    "answer_en": "never",
+    "answer_ta": "ஒருபோதும் இல்லை"
+  }
+]

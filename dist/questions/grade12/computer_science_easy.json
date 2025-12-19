@@ -1,0 +1,274 @@
+[
+  {
+    "question_en": "Which of the following refers to the visibility of variables in one part of a program to another part of the same program?",
+    "question_ta": "ஒரு நிரலின் ஒரு பகுதியில் உள்ள மாறிகளின் காட்சிப் பகுதி மற்றொரு பகுதிக்கு இருப்பதை விவரிக்கிறது எந்தது?",
+    "options_en": ["Scope", "Memory", "Address", "Accessibility"],
+    "options_ta": ["ஸ்கோப்", "நினைவகம்", "முகவரி", "அணுகல்"],
+    "answer_en": "Scope",
+    "answer_ta": "ஸ்கோப்"
+  },
+  {
+    "question_en": "Which is a python package used for 2D charts?",
+    "question_ta": "2D வரைபடங்களுக்கு பயன்படுத்தப்படும் Python package எது?",
+    "options_en": ["matplotlib.pyplot", "matplotlib.pip", "matplotlib.numpy", "matplotlib.plt"],
+    "options_ta": ["matplotlib.pyplot", "matplotlib.pip", "matplotlib.numpy", "matplotlib.plt"],
+    "answer_en": "matplotlib.pyplot",
+    "answer_ta": "matplotlib.pyplot"
+  },
+  {
+    "question_en": "Identify the package manager for installing Python packages, or modules.",
+    "question_ta": "Python பேக்கேஜ்களை நிறுவ எந்த package manager பயன்படுத்தப்படுகிறது?",
+    "options_en": ["Matplotlib", "PIP", "plt.show()", "python package"],
+    "options_ta": ["Matplotlib", "PIP", "plt.show()", "பைதான் தொகுப்பு"],
+    "answer_en": "PIP",
+    "answer_ta": "PIP"
+  },
+  {
+    "question_en": "Which of the following feature is used to represent data and information graphically?",
+    "question_ta": "தரவு மற்றும் தகவல்களை படங்களாக பிரதிபலிக்க எந்த அம்சம் பயன்படுத்தப்படுகிறது?",
+    "options_en": ["Data List", "Data Tuple", "Classes and Objects", "Data Visualization"],
+    "options_ta": ["தரவு பட்டியல்", "தரவு டியூபிள்", "வகுப்புகள் மற்றும் பொருட்கள்", "தரவு காட்சி"],
+    "answer_en": "Data Visualization",
+    "answer_ta": "தரவு காட்சி"
+  },
+  {
+    "question_en": "Which of the following is not a scripting language?",
+    "question_ta": "பின்வரும் எந்தது ஸ்கிரிப்டிங் மொழி அல்ல?",
+    "options_en": ["JavaScript", "PHP", "Perl", "HTML"],
+    "options_ta": ["JavaScript", "PHP", "Perl", "HTML"],
+    "answer_en": "HTML",
+    "answer_ta": "HTML"
+  },
+  {
+    "question_en": "Which of the following is used to describe the worst case of an algorithm?",
+    "question_ta": "ஒரு ஆல்கோரிதத்தின் மோசமான நிலையை விவரிக்க எது பயன்படுத்தப்படுகிறது?",
+    "options_en": ["Big O", "Big S", "Big W", "Big A"],
+    "options_ta": ["Big O", "Big S", "Big W", "Big A"],
+    "answer_en": "Big O",
+    "answer_ta": "Big O"
+  },
+  {
+    "question_en": "How many important control structures are there in Python?",
+    "question_ta": "Python இல் முக்கிய கட்டுப்பாட்டு அமைப்புகள் எத்தனை உள்ளன?",
+    "options_en": ["3", "4", "5", "6"],
+    "options_ta": ["3", "4", "5", "6"],
+    "answer_en": "3",
+    "answer_ta": "3"
+  },
+  {
+    "question_en": "Which statement is generally used as a placeholder?",
+    "question_ta": "சாதாரணமாக placeholder ஆக எந்த statement பயன்படுத்தப்படுகிறது?",
+    "options_en": ["continue", "break", "pass", "goto"],
+    "options_ta": ["continue", "break", "pass", "goto"],
+    "answer_en": "pass",
+    "answer_ta": "pass"
+  },
+  {
+    "question_en": "A named block of code that is designed to do one specific job is called?",
+    "question_ta": "ஒரு குறிப்பிட்ட பணியை செய்ய வடிவமைக்கப்பட்ட பெயரிடப்பட்ட குறியீட்டு பகுதி என்ன?",
+    "options_en": ["Loop", "Branching", "Function", "Block"],
+    "options_ta": ["லூப் (Loop)", "கிளைப்பு (Branching)", "ஃபங்க்ஷன் (Function)", "தொகுதி (Block)"],
+    "answer_en": "Function",
+    "answer_ta": "ஃபங்க்ஷன் (Function)"
+  },
+  {
+    "question_en": "Which keyword is used to define the function testpython()?",
+    "question_ta": "testpython() என்ற function ஐ வரையறுக்க எது பயன்படுத்தப்படுகிறது?",
+    "options_en": ["define", "pass", "def", "while"],
+    "options_ta": ["define", "pass", "def", "while"],
+    "answer_en": "def",
+    "answer_ta": "def"
+  },
+  {
+    "question_en": "Which keyword is used to exit a function block?",
+    "question_ta": "ஒரு function block-இல் இருந்து வெளியேற எந்த keyword பயன்படுத்தப்படுகிறது?",
+    "options_en": ["define", "return", "finally", "def"],
+    "options_ta": ["define", "return", "finally", "def"],
+    "answer_en": "return",
+    "answer_ta": "return"
+  },
+  {
+    "question_en": "Which unit is used for magnetic flux?",
+    "question_ta": "காந்த ஓட்டத்திற்கு எந்த அலகு பயன்படுத்தப்படுகிறது?",
+    "options_en": ["Weber (Wb)", "Tesla", "Henry", "Gauss"],
+    "options_ta": ["வீபர் (Wb)", "டெஸ்லா", "ஹென்றி", "காஸ்"],
+    "answer_en": "Weber (Wb)",
+    "answer_ta": "வீபர் (Wb)"
+  },
+  {
+    "question_en": "What is the acronym of DBMS?",
+    "question_ta": "DBMS என்ற சுருக்கத்தின் விரிவாக்கம் என்ன?",
+    "options_en": ["DataBase Management Symbol", "Database Managing System", "DataBase Management System", "DataBasic Management System"],
+    "options_ta": ["DataBase Management Symbol", "Database Managing System", "DataBase Management System", "DataBasic Management System"],
+    "answer_en": "DataBase Management System",
+    "answer_ta": "DataBase Management System"
+  },
+  {
+    "question_en": "Which of the following is a software design technique to split your code into separate parts?",
+    "question_ta": "உங்கள் குறியீட்டை தனித்தனி பகுதிகளாக பிரிக்கும் மென்பொருள் வடிவமைப்பு தொழில்நுட்பம் எது?",
+    "options_en": ["Object Oriented Programming", "Modular Programming", "Low Level Programming", "Procedure Oriented Programming"],
+    "options_ta": ["Object Oriented Programming", "மாட்யூலர் நிரலாக்கம் (Modular Programming)", "குறைந்த நிலை நிரலாக்கம் (Low Level Programming)", "செயல்முறை நோக்கிய நிரலாக்கம் (Procedure Oriented Programming)"],
+    "answer_en": "Modular Programming",
+    "answer_ta": "மாட்யூலர் நிரலாக்கம் (Modular Programming)"
+  },
+  {
+    "question_en": "Which module allows you to interface with the Windows operating system?",
+    "question_ta": "Windows செயலாக்க அமைப்புடன் இடைமுகப்படுத்த எது பயன்படுத்தப்படுகிறது?",
+    "options_en": ["OS module", "sys module", "csv module", "getopt module"],
+    "options_ta": ["OS module", "sys module", "csv module", "getopt module"],
+    "answer_en": "OS module",
+    "answer_ta": "OS module"
+  },
+  {
+    "question_en": "Which SQL keyword is used to retrieve data from a database?",
+    "question_ta": "தரவுத்தளத்திலிருந்து தரவை பெற எந்த SQL keyword பயன்படுத்தப்படுகிறது?",
+    "options_en": ["SELECT", "INSERT", "UPDATE", "DELETE"],
+    "options_ta": ["SELECT", "INSERT", "UPDATE", "DELETE"],
+    "answer_en": "SELECT",
+    "answer_ta": "SELECT"
+  },
+  {
+    "question_en": "What does 'CPU' stand for?",
+    "question_ta": "'CPU' என்பது எந்த வார்த்தைகளின் சுருக்கம்?",
+    "options_en": ["Central Processing Unit", "Computer Program Utility", "Control Processing Unit", "Central Print Unit"],
+    "options_ta": ["Central Processing Unit", "Computer Program Utility", "Control Processing Unit", "Central Print Unit"],
+    "answer_en": "Central Processing Unit",
+    "answer_ta": "Central Processing Unit"
+  },
+  {
+    "question_en": "Which data structure gives LIFO behavior?",
+    "question_ta": "ஏது தரவு அமைப்பு LIFO (இறுதியில் வரும் முதல்) செயல்பாட்டை வழங்குகிறது?",
+    "options_en": ["Stack", "Queue", "Array", "Tree"],
+    "options_ta": ["ஸ்டேக் (Stack)", "வரிசை (Queue)", "அணி (Array)", "மரம் (Tree)"],
+    "answer_en": "Stack",
+    "answer_ta": "ஸ்டேக் (Stack)"
+  },
+  {
+    "question_en": "Which of the following is constructed by placing expressions within square brackets?",
+    "question_ta": "எப்படியாகு குறியீட்டுப் பகுப்புகள் சதுரக் கோட்டுகளில் வைக்கப்பட்டால் எந்த data structure உருவாகிறது?",
+    "options_en": ["Tuples", "Lists", "Classes", "Quadrat"],
+    "options_ta": ["டபிள்ஸ் (Tuples)", "பட்டியல் (Lists)", "வகுப்புகள் (Classes)", "Quadrat"],
+    "answer_en": "Lists",
+    "answer_ta": "பட்டியல் (Lists)"
+  },
+  {
+    "question_en": "Binary search is also called as?",
+    "question_ta": "Binary search விற்கு மற்றொரு பெயர் என்ன?",
+    "options_en": ["Linear search", "Sequential search", "Random search", "Half-interval search"],
+    "options_ta": ["உரை தேடல் (Linear search)", "வரிசை தேடல் (Sequential search)", "சீரழிவு தேடல் (Random search)", "அரை இடைவெட்டு தேடல் (Half-interval search)"],
+    "answer_en": "Half-interval search",
+    "answer_ta": "அரை இடைவெட்டு தேடல் (Half-interval search)"
+  },
+  {
+    "question_en": "Which of the following is the private class variable prefix in Python?",
+    "question_ta": "Python இல் தனிப்பட்ட வகுப்பு மாறியின் முன்னொட்டு எது?",
+    "options_en": ["__", "&&", "##", "**"],
+    "options_ta": ["__", "&&", "##", "**"],
+    "answer_en": "__",
+    "answer_ta": "__"
+  },
+  {
+    "question_en": "Which of the following method is used as destructor in Python?",
+    "question_ta": "Python இல் destructor ஆக பயன்படுத்தப்படும் method எது?",
+    "options_en": ["__init__()", "__dest__()", "__rem__()", "__del__()"],
+    "options_ta": ["__init__()", "__dest__()", "__rem__()", "__del__()"],
+    "answer_en": "__del__()",
+    "answer_ta": "__del__()"
+  },
+  {
+    "question_en": "Which of the following is the key feature of an Object Oriented Programming language?",
+    "question_ta": "Object Oriented Programming மொழியின் முக்கிய அம்சம் எது?",
+    "options_en": ["Constructor and Classes", "Constructor and Object", "Classes and Objects", "Constructor and Destructor"],
+    "options_ta": ["கான்ஸ்டிரக்டர் மற்றும் வகுப்புகள்", "கான்ஸ்டிரக்டர் மற்றும் பொருள்", "வகுப்புகள் மற்றும் பொருட்கள்", "கான்ஸ்டிரக்டர் மற்றும் அழிப்பு (Constructor and Destructor)"],
+    "answer_en": "Classes and Objects",
+    "answer_ta": "வகுப்புகள் மற்றும் பொருட்கள்"
+  },
+  {
+    "question_en": "Which punctuation should be used after if <condition> in Python?",
+    "question_ta": "Python இல் if <condition> பின்பு எந்த குறியீட்டு அடையாளம் (punctuation) பயன்படுத்த வேண்டும்?",
+    "options_en": [":", ";", "::", "!"],
+    "options_ta": [":", ";", "::", "!"],
+    "answer_en": ":",
+    "answer_ta": ":"
+  },
+  {
+    "question_en": "Which of the following functions build the abstract data type?",
+    "question_ta": "Abstract Data Type ஐ உருவாக்கும் functions எவை?",
+    "options_en": ["Constructors", "Destructors", "recursive", "Nested"],
+    "options_ta": ["கான்ஸ்ட்ரக்டர்கள் (Constructors)", "டிஸ்ட்ரக்டர்கள் (Destructors)", "மறுபடியான (recursive)", "உள்ளமைந்த (Nested)"],
+    "answer_en": "Constructors",
+    "answer_ta": "கான்ஸ்ட்ரக்டர்கள் (Constructors)"
+  },
+  {
+    "question_en": "Which of the following allows naming the parts of a multi-item object?",
+    "question_ta": "பல-உருப்படி பொருளின் பகுதிகளை பெயரிட எது அனுமதிக்கிறது?",
+    "options_en": ["Tuples", "Lists", "Classes", "Quadrat"],
+    "options_ta": ["டபிள்ஸ் (Tuples)", "பட்டியல் (Lists)", "வகுப்புகள் (Classes)", "Quadrat"],
+    "answer_en": "Tuples",
+    "answer_ta": "டபிள்ஸ் (Tuples)"
+  },
+  {
+    "question_en": "Which of the following module helps parse command-line options and arguments?",
+    "question_ta": "கமாண்ட்-லைன் விருப்பங்கள் மற்றும் arguments-ஐ பிரிக்க எந்த module உதவுகிறது?",
+    "options_en": ["getopt", "os", "sys", "csv"],
+    "options_ta": ["getopt", "os", "sys", "csv"],
+    "answer_en": "getopt",
+    "answer_ta": "getopt"
+  },
+  {
+    "question_en": "Which of the following is used to access functions of an imported module?",
+    "question_ta": "இறக்குமதி செய்யப்பட்ட module-இன் functions-ஐ அணுக எந்த operator பயன்படுத்தப்படுகிறது?",
+    "options_en": [".", "&", "#", "%"],
+    "options_ta": [".", "&", "#", "%"],
+    "answer_en": ".",
+    "answer_ta": "."
+  },
+  {
+    "question_en": "Which function keyword is used to start defining a function in Python?",
+    "question_ta": "Python இல் function வரையறையைத் தொடங்க எந்த keyword பயன்படுத்தப்படுகிறது?",
+    "options_en": ["def", "function", "fun", "lambda"],
+    "options_ta": ["def", "function", "fun", "lambda"],
+    "answer_en": "def",
+    "answer_ta": "def"
+  },
+  {
+    "question_en": "Which data type in Python is immutable?",
+    "question_ta": "Python இல் எந்த data type மாற்றமுடியாதது (immutable)?",
+    "options_en": ["Tuple", "List", "Dictionary", "Set"],
+    "options_ta": ["Tuple (டபிள்)", "List (பட்டியல்)", "Dictionary (அகராதி)", "Set (செட்)"],
+    "answer_en": "Tuple",
+    "answer_ta": "Tuple (டபிள்)"
+  },
+  {
+    "question_en": "Which of the following is an example of a conditional statement in Python?",
+    "question_ta": "Python இல் கீழ்க்காணும் விடையிலிருந்து எது ஒரு நிபந்தனை அறிக்கை (conditional statement) ஆகும்?",
+    "options_en": ["if", "while", "for", "def"],
+    "options_ta": ["if", "while", "for", "def"],
+    "answer_en": "if",
+    "answer_ta": "if"
+  },
+  {
+    "question_en": "Which operator is used for floor division in Python?",
+    "question_ta": "Python இல் floor division செய்ய எந்த operator பயன்படுத்தப்படுகிறது?",
+    "options_en": ["//", "/", "%", "**"],
+    "options_ta": ["//", "/", "%", "**"],
+    "answer_en": "//",
+    "answer_ta": "//"
+  },
+  {
+    "question_en": "Which function is used to find the length of a list in Python?",
+    "question_ta": "Python இல் ஒரு பட்டியலின் நீளத்தை கண்டறிய எந்த function பயன்படுத்தப்படுகிறது?",
+    "options_en": ["len()", "size()", "count()", "length()"],
+    "options_ta": ["len()", "size()", "count()", "length()"],
+    "answer_en": "len()",
+    "answer_ta": "len()"
+  },
+  {
+    "question_en": "Which keyword is used to import modules in Python?",
+    "question_ta": "Python இல் modules-ஐ இறக்குமதி செய்ய எந்த keyword பயன்படுத்தப்படுகிறது?",
+    "options_en": ["import", "include", "require", "using"],
+    "options_ta": ["import", "include", "require", "using"],
+    "answer_en": "import",
+    "answer_ta": "import"
+  }
+]

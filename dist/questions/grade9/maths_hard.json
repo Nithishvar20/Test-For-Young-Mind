@@ -1,0 +1,274 @@
+[
+  {
+    "question_en": "If f(x)=x^3−8 is divided by (x−2), the remainder is",
+    "question_ta": "f(x)=x^3−8 ஐ (x−2) கொண்டு வகுத்தால் மீதி என்ன?",
+    "options_en": ["4", "8", "0", "−8"],
+    "options_ta": ["4", "8", "0", "−8"],
+    "answer_en": "0",
+    "answer_ta": "0"
+  },
+  {
+    "question_en": "The roots of x^2−5x+6=0 are",
+    "question_ta": "x^2−5x+6=0 இன் வேறுபாடுகள் (roots) எவை?",
+    "options_en": ["2 and 3", "−2 and −3", "1 and 6", "3 and 2"],
+    "options_ta": ["2 மற்றும் 3", "−2 மற்றும் −3", "1 மற்றும் 6", "3 மற்றும் 2"],
+    "answer_en": "2 and 3",
+    "answer_ta": "2 மற்றும் 3"
+  },
+  {
+    "question_en": "For which k does x^2+2(k−1)x+k=0 have equal roots?",
+    "question_ta": "x^2+2(k−1)x+k=0 சமமான வேறுபாடுகள் கொண்டிருக்க k என்ன?",
+    "options_en": ["(3±√5)/2", "1", "0", "2"],
+    "options_ta": ["(3±√5)/2", "1", "0", "2"],
+    "answer_en": "(3±√5)/2",
+    "answer_ta": "(3±√5)/2"
+  },
+  {
+    "question_en": "Area of triangle with vertices (0,0), (4,0) and (0,3) is",
+    "question_ta": "(0,0), (4,0), (0,3) என்ற உச்சிகள் கொண்ட முக்கோணத்தின் பரப்பு எவ்வளவு?",
+    "options_en": ["32", "12", "3", "6"],
+    "options_ta": ["32", "12", "3", "6"],
+    "answer_en": "6",
+    "answer_ta": "6"
+  },
+  {
+    "question_en": "If tanθ = 3/4 (θ acute), then sinθ equals",
+    "question_ta": "tanθ = 3/4 (θ சிறிய கோணத்தில்) என்றால் sinθ என்ன?",
+    "options_en": ["3", "3/5", "1/√5", "√3/2"],
+    "options_ta": ["3", "3/5", "1/√5", "√3/2"],
+    "answer_en": "3/5",
+    "answer_ta": "3/5"
+  },
+  {
+    "question_en": "Modulus of complex root of x^2+4x+5 is",
+    "question_ta": "x^2+4x+5 இன் комплекс வேறுபாட்டின் modulus எவ்வளவு?",
+    "options_en": ["√5", "5", "2", "√13"],
+    "options_ta": ["√5", "5", "2", "√13"],
+    "answer_en": "√5",
+    "answer_ta": "√5"
+  },
+  {
+    "question_en": "Intersection point of y=2x+3 and y=−x+1 is",
+    "question_ta": "y=2x+3 மற்றும் y=−x+1 இணைநிலைகளின் சந்திப்பு புள்ளி எது?",
+    "options_en": ["(−2/3, 5/3)", "(1,1)", "(−1,−1)", "(2,7)"],
+    "options_ta": ["(−2/3, 5/3)", "(1,1)", "(−1,−1)", "(2,7)"],
+    "answer_en": "(−2/3, 5/3)",
+    "answer_ta": "(−2/3, 5/3)"
+  },
+  {
+    "question_en": "Probability of obtaining sum 8 when two fair dice are rolled is",
+    "question_ta": "இரு நியாயமான (fair) ஸ்பேர் (dice) எறிந்தால் 8 சமம் வரும் احتمال என்ன?",
+    "options_en": ["4/36", "1/6", "5/36", "1/8"],
+    "options_ta": ["4/36", "1/6", "5/36", "1/8"],
+    "answer_en": "5/36",
+    "answer_ta": "5/36"
+  },
+  {
+    "question_en": "Which is a factor of x^4−1?",
+    "question_ta": "x^4−1 இன் ஒரு காரணி எது?",
+    "options_en": ["x^2-2", "x−2", "x+2", "x^2+1"],
+    "options_ta": ["x^2-2", "x−2", "x+2", "x^2+1"],
+    "answer_en": "x^2+1",
+    "answer_ta": "x^2+1"
+  },
+  {
+    "question_en": "Theorem that an angle in a semicircle is a right angle is called",
+    "question_ta": "ஒரு அரைவட்டத்தில் உள்ள கோணம் 90° ஆகும் என்பதை வழங்கும் விதி என்ன?",
+    "options_en": ["Thales' theorem", "Pythagoras' theorem", "Ceva's theorem", "Euclid's lemma"],
+    "options_ta": ["தைல்ஸ் விதி", "பிதாகொரஸ் விதி", "சேவா விதி", "யூக்லிட் லெம்மா"],
+    "answer_en": "Thales' theorem",
+    "answer_ta": "தைல்ஸ் விதி"
+  },
+  {
+    "question_en": "If log_a b = 2 and log_b c = 3, then log_a c equals",
+    "question_ta": "log_a b = 2 மற்றும் log_b c = 3 என்றால் log_a c என்ன?",
+    "options_en": ["3/2", "6", "1/6", "5"],
+    "options_ta": ["3/2", "6", "1/6", "5"],
+    "answer_en": "6",
+    "answer_ta": "6"
+  },
+  {
+    "question_en": "Sum of interior angles of a heptagon (7-sided) is",
+    "question_ta": "7 பக்க கொண்ட பல்கோணத்தின் உள்ளக கோணங்களின் கூட்டம் எவ்வளவு?",
+    "options_en": ["90°", "720°", "900°", "540°"],
+    "options_ta": ["90°", "720°", "900°", "540°"],
+    "answer_en": "900°",
+    "answer_ta": "900°"
+  },
+  {
+    "question_en": "Determinant of matrix [[2,3],[1,4]] equals",
+    "question_ta": "[[2,3],[1,4]] என்ற 2×2 matrice-இன் determinant எவ்வளவு?",
+    "options_en": ["-1", "11", "5", "8"],
+    "options_ta": ["-1", "11", "5", "8"],
+    "answer_en": "5",
+    "answer_ta": "5"
+  },
+  {
+    "question_en": "Equation of line perpendicular to y=(1/2)x−1 and passing through (2,3) is",
+    "question_ta": "y=(1/2)x−1க்கு செங்குத்தாகவும் (2,3)-ஐ கடந்தும் செல்லும் கோட்டின் சமன்பாடு எது?",
+    "options_en": ["y=−2x+7", "y=2x−1", "y=x+1", "y=−(1/2)x+4"],
+    "options_ta": ["y=−2x+7", "y=2x−1", "y=x+1", "y=−(1/2)x+4"],
+    "answer_en": "y=−2x+7",
+    "answer_ta": "y=−2x+7"
+  },
+  {
+    "question_en": "Sum of first 4 terms of GP with first term 3 and ratio 2 is",
+    "question_ta": "முதல் உறுப்பானது 3 மற்றும் பொதுவான விகிதம் 2 கொண்ட GP-இன் முதல் 4 உறுப்புகளின் கூட்டம் எவ்வளவு?",
+    "options_en": ["5", "45", "30", "15"],
+    "options_ta": ["5", "45", "30", "15"],
+    "answer_en": "45",
+    "answer_ta": "45"
+  },
+  {
+    "question_en": "Modulus of complex number 1+√3 i is",
+    "question_ta": "1+√3 i என்ற комплекс எண்ணின் modulus என்ன?",
+    "options_en": ["2", "√5", "√3", "1"],
+    "options_ta": ["2", "√5", "√3", "1"],
+    "answer_en": "2",
+    "answer_ta": "2"
+  },
+  {
+    "question_en": "Area of triangle with sides 13, 14 and 15 is",
+    "question_ta": "பக்கங்கள் 13, 14, 15 கொண்ட முக்கோணத்தின் பரப்பளவு என்ன?",
+    "options_en": ["84", "90", "78", "72"],
+    "options_ta": ["84", "90", "78", "72"],
+    "answer_en": "84",
+    "answer_ta": "84"
+  },
+  {
+    "question_en": "If cos2θ = 1/2, then θ (acute) equals",
+    "question_ta": "cos2θ = 1/2 என்றால் (θ சிறிய கோண) θ = ?",
+    "options_en": ["90°", "45°", "60°", "30°"],
+    "options_ta": ["90°", "45°", "60°", "30°"],
+    "answer_en": "30°",
+    "answer_ta": "30°"
+  },
+  {
+    "question_en": "If nth term of AP is 5n+3, the 10th term is",
+    "question_ta": "AP இன் nவது உறுப்பாக 5n+3 இருந்தால் 10வது உறுப்பு எவ்வளவு?",
+    "options_en": ["50", "53", "48", "55"],
+    "options_ta": ["50", "53", "48", "55"],
+    "answer_en": "53",
+    "answer_ta": "53"
+  },
+  {
+    "question_en": "If roots of quadratic are −2 and 5, the equation is",
+    "question_ta": "ஒரு இரண்டாம் நிலை சமன்பாட்டின் வேறுபாடுகள் −2 மற்றும் 5 என்றால் சமன்பாடு என்ன?",
+    "options_en": ["x^2+3x−10=0", "x^2−3x+10=0", "x^2+7x−10=0", "x^2-3x-10=0"],
+    "options_ta": ["x^2+3x−10=0", "x^2−3x+10=0", "x^2+7x−10=0", "x^2-3x-10=0"],
+    "answer_en": "x^2−3x−10=0",
+    "answer_ta": "x^2−3x−10=0"
+  },
+  {
+    "question_en": "Distance between (3,−4) and (0,0) is",
+    "question_ta": "(3,−4) மற்றும் (0,0) இடையிலான தூரம் எவ்வளவு?",
+    "options_en": ["6", "7", "5", "4"],
+    "options_ta": ["6", "7", "5", "4"],
+    "answer_en": "5",
+    "answer_ta": "5"
+  },
+  {
+    "question_en": "If sinθ = 5/13 and θ in QI, cosθ equals",
+    "question_ta": "sinθ = 5/13 (θ முதல் பகுதி) என்றால் cosθ = ?",
+    "options_en": ["12/13", "5/13", "√2/2", "√3/2"],
+    "options_ta": ["12/13", "5/13", "√2/2", "√3/2"],
+    "answer_en": "12/13",
+    "answer_ta": "12/13"
+  },
+  {
+    "question_en": "If slope of line is 2, the angle it makes with x-axis is (approx)",
+    "question_ta": "ஒரு கோட்டின் சரிவு 2 என்றால் அது x-அச்சுடன் 만드는 கோணம் (சுமார்) எவ்வளவு?",
+    "options_en": ["60°", "45°", "63.43°", "30°"],
+    "options_ta": ["60°", "45°", "63.43°", "30°"],
+    "answer_en": "63.43°",
+    "answer_ta": "63.43°"
+  },
+  {
+    "question_en": "Sum of first n natural numbers is",
+    "question_ta": "முதல் n இயற்கை எண்களின் கூட்டம் என்ன?",
+    "options_en": ["n(n+1)/2", "n^2", "n(n−1)/2", "2n"],
+    "options_ta": ["n(n+1)/2", "n^2", "n(n−1)/2", "2n"],
+    "answer_en": "n(n+1)/2",
+    "answer_ta": "n(n+1)/2"
+  },
+  {
+    "question_en": "Mean of 10,20,30,40,50 is",
+    "question_ta": "10, 20, 30, 40, 50 இன் சராசரி چیست?",
+    "options_en": ["25", "30", "35", "20"],
+    "options_ta": ["25", "30", "35", "20"],
+    "answer_en": "30",
+    "answer_ta": "30"
+  },
+  {
+    "question_en": "If A=[[1,2],[3,4]], det(A) equals",
+    "question_ta": "A=[[1,2],[3,4]] என்றால் det(A) என்ன?",
+    "options_en": ["−1", "−2", "0", "2"],
+    "options_ta": ["−1", "−2", "0", "2"],
+    "answer_en": "−2",
+    "answer_ta": "−2"
+  },
+  {
+    "question_en": "Given log2=0.3010 and log3=0.4771, log6 equals",
+    "question_ta": "log2=0.3010, log3=0.4771 என்றால் log6 = ?",
+    "options_en": ["0.7781", "0.6990", "0.6020", "0.9031"],
+    "options_ta": ["0.7781", "0.6990", "0.6020", "0.9031"],
+    "answer_en": "0.7781",
+    "answer_ta": "0.7781"
+  },
+  {
+    "question_en": "If (x+1)^2=25, then x equals",
+    "question_ta": "(x+1)^2=25 என்றால் x = ?",
+    "options_en": ["4 or −6", "5 or −5", "6 or −4", "±25"],
+    "options_ta": ["4 அல்லது −6", "5 அல்லது −5", "6 அல்லது −4", "±25"],
+    "answer_en": "4 or −6",
+    "answer_ta": "4 அல்லது −6"
+  },
+  {
+    "question_en": "If tanA = 1, A (acute) equals",
+    "question_ta": "tanA = 1 என்றால் A = ?",
+    "options_en": ["60°", "30°", "45°", "90°"],
+    "options_ta": ["60°", "30°", "45°", "90°"],
+    "answer_en": "45°",
+    "answer_ta": "45°"
+  },
+  {
+    "question_en": "If P(E)=0.4, then P(not E) equals",
+    "question_ta": "P(E)=0.4 என்றால் P(not E) = ?",
+    "options_en": ["0", "0.4", "1.4", "0.6"],
+    "options_ta": ["0", "0.4", "1.4", "0.6"],
+    "answer_en": "0.6",
+    "answer_ta": "0.6"
+  },
+  {
+    "question_en": "If nth term of sequence is 2^n, the 5th term is",
+    "question_ta": "ஒரு தொடரின் nவது உறுப்பாக 2^n இருந்தால் 5வது உறுப்பு என்ன?",
+    "options_en": ["8", "16", "32", "64"],
+    "options_ta": ["8", "16", "32", "64"],
+    "answer_en": "32",
+    "answer_ta": "32"
+  },
+  {
+    "question_en": "If median class frequency = 20, cumulative freq before = 50, N = 100, class size = 10, approximate median is",
+    "question_ta": "மீடியன் வகுப்பு recurrence = 20, முன் தொகுதி (cumulative before) = 50, N=100, வகுப்பு அளவு 10 என்றால் மீடியன் (median) = ?",
+    "options_en": ["65", "60", "50", "55"],
+    "options_ta": ["65", "60", "50", "55"],
+    "answer_en": "55",
+    "answer_ta": "55"
+  },
+  {
+    "question_en": "If two circles touch internally, number of common points is",
+    "question_ta": "இரு வட்டங்கள் உள்ளங்குடித்து தொடினால் பொதுவாக எத்தனை புள்ளிகள் இருக்கும்?",
+    "options_en": ["1", "2", "0", "infinite"],
+    "options_ta": ["1", "2", "0", "முடிவில்லாதவை"],
+    "answer_en": "1",
+    "answer_ta": "1"
+  },
+  {
+    "question_en": "If (x^2−1) is divided by (x−1), remainder is",
+    "question_ta": "(x^2−1) ஐ (x−1) கொண்டு வகுத்தால் மீதி என்ன?",
+    "options_en": ["2", "0", "1", "−1"],
+    "options_ta": ["2", "0", "1", "−1"],
+    "answer_en": "0",
+    "answer_ta": "0"
+  }
+]

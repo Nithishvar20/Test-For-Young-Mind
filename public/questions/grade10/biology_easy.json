@@ -1,0 +1,614 @@
+[
+  {
+    "question_en": "What is the basic structural and functional unit of life?",
+    "question_ta": "ஜீவியின் அடிப்படை அமைப்பு மற்றும் செயல்பாட்டு அலகு எது?",
+    "options_en": [
+      "Organ",
+      "Cell",
+      "Tissue",
+      "Organ system"
+    ],
+    "options_ta": [
+      "உரு",
+      "அணு",
+      "திசு",
+      "உயிர் அமைப்பு"
+    ],
+    "answer_en": "Cell",
+    "answer_ta": "அணு"
+  },
+  {
+    "question_en": "Which organelle is known as the 'powerhouse of the cell'?",
+    "question_ta": "அணுவின் 'பவர் ஹவுஸ்' என்ற பெயர் கொண்ட உள் உறுப்பு எது?",
+    "options_en": [
+      "Ribosome",
+      "Golgi apparatus",
+      "Mitochondrion",
+      "Nucleus"
+    ],
+    "options_ta": [
+      "ரிபோசோம்",
+      "கோல்ஜி உட்கமைப்பு",
+      "மைட்டோகாண்ட்ரியா",
+      "நியூக்கியஸ்"
+    ],
+    "answer_en": "Mitochondrion",
+    "answer_ta": "மைட்டோகாண்ட்ரியா"
+  },
+  {
+    "question_en": "Photosynthesis mainly occurs in which part of a plant cell?",
+    "question_ta": "ஒளிச்சேர்க்கை பெரும்பாலும் ஒரு செடியின் எந்த பகுதியிலும் நடக்கிறது?",
+    "options_en": [
+      "Vacuole",
+      "Chloroplast",
+      "Mitochondria",
+      "Ribosome"
+    ],
+    "options_ta": [
+      "வாஜூலு",
+      "குளோரோபிளாஸ்ட்",
+      "மைட்டோகாண்ட்ரியா",
+      "ரிபோசோம்"
+    ],
+    "answer_en": "Chloroplast",
+    "answer_ta": "குளோரோபிளாஸ்‌ட்"
+  },
+  {
+    "question_en": "Which gas is produced as a byproduct of photosynthesis?",
+    "question_ta": "ஒளிச்சேர்க்கையின் ஒரு பக்கப்பொருளாக எது உற்பத்தி ஆகிறது?",
+    "options_en": [
+      "Methane",
+      "Nitrogen",
+      "Oxygen",
+      "Carbon dioxide"
+    ],
+    "options_ta": [
+      "மீதேன்",
+      "நைட்ரஜன்",
+      "ஆக்சிஜன்",
+      "கார்பன் டை ஆக்சைடு"
+    ],
+    "answer_en": "Oxygen",
+    "answer_ta": "ஆக்சிஜன்"
+  },
+  {
+    "question_en": "Which organ pumps blood throughout the human body?",
+    "question_ta": "மனித உடலில் இரத்தத்தை முழுக்கப் பலிக்கும் உறுப்பு எது?",
+    "options_en": [
+      "Kidneys",
+      "Heart",
+      "Lungs",
+      "Liver"
+    ],
+    "options_ta": [
+      "கிட்னி",
+      "ஹார்ட்",
+      "மூச்சுத்தொகுதி",
+      "கல்லீரல்"
+    ],
+    "answer_en": "Heart",
+    "answer_ta": "ஹார்ட்"
+  },
+  {
+    "question_en": "Red blood cells primarily carry which substance?",
+    "question_ta": "சிவப்பு இரத்த அணுக்கள் பிரதானமாக எதை எடுத்துச் செல்லும்?",
+    "options_en": [
+      "Antibodies",
+      "Hemoglobin carrying oxygen",
+      "Hormones",
+      "Carbon dioxide"
+    ],
+    "options_ta": [
+      "எதிர்ப்பு புரதங்கள்",
+      "ஆக்சிஜனைக் கொண்டு நிறைந்த ஹீமோகுளோபின்",
+      "ஹார்மோன்கள்",
+      "கார்பன் டை ஆக்சைடு"
+    ],
+    "answer_en": "Hemoglobin carrying oxygen",
+    "answer_ta": "ஹீமோகுளோபின் மூலம் ஆக்சிஜன்"
+  },
+  {
+    "question_en": "Which system controls body movements and responses?",
+    "question_ta": "உடல் இயக்கங்கள் மற்றும் பதில்களை எந்த அமைப்பு கட்டுப்படுத்துகிறது?",
+    "options_en": [
+      "Circulatory system",
+      "Respiratory system",
+      "Nervous system",
+      "Digestive system"
+    ],
+    "options_ta": [
+      "சுழற்சி அமைப்பு",
+      "மூச்சு அமைப்பு",
+      "நரம்பு அமைப்பு",
+      "ஜீரண அமைப்பு"
+    ],
+    "answer_en": "Nervous system",
+    "answer_ta": "நரம்பு அமைப்பு"
+  },
+  {
+    "question_en": "Which organ is part of the human respiratory system?",
+    "question_ta": "மனித மூச்சுக் குழாய் அமைப்பின் ஒரு உறுப்பாக எது உள்ளது?",
+    "options_en": [
+      "Pancreas",
+      "Lungs",
+      "Stomach",
+      "Bladder"
+    ],
+    "options_ta": [
+      "பான்கிரியாச்",
+      "மூச்சுத்தொகுதி (Lungs)",
+      "வயிறு",
+      "வயிற்றுப்பை"
+    ],
+    "answer_en": "Lungs",
+    "answer_ta": "மூச்சுத்தொகுதி"
+  },
+  {
+    "question_en": "Which vitamin is produced in the skin by sunlight?",
+    "question_ta": "சூரியின் ஒளியால் தோலில் உருவாகும் வைட்டமின் எது?",
+    "options_en": [
+      "Vitamin B12",
+      "Vitamin D",
+      "Vitamin A",
+      "Vitamin C"
+    ],
+    "options_ta": [
+      "வைட்டமின் B12",
+      "வைட்டமின் D",
+      "வைட்டமின் A",
+      "வைட்டமின் C"
+    ],
+    "answer_en": "Vitamin D",
+    "answer_ta": "வைட்டமின் D"
+  },
+  {
+    "question_en": "Which macronutrient is the primary source of energy for the body?",
+    "question_ta": "உடலின் பிரதான ஆற்றல் மூலமாக எந்த ஊட்டச்சத்து செயல்படுகிறது?",
+    "options_en": [
+      "Proteins",
+      "Carbohydrates",
+      "Vitamins",
+      "Minerals"
+    ],
+    "options_ta": [
+      "புரதங்கள்",
+      "கார்போஹைட்ரேட்ஸ்",
+      "வைட்டமின்கள்",
+      "மைனரல்கள்"
+    ],
+    "answer_en": "Carbohydrates",
+    "answer_ta": "கார்போஹைட்ரேட்ஸ்"
+  },
+  {
+    "question_en": "Which process releases energy by breaking down glucose without oxygen?",
+    "question_ta": "ஆக்சிஜன் இல்லாமல் குளுக்கோசை உடைத்தல் மூலம் ஆற்றலை வெளியிடும் செயல்முறை எது?",
+    "options_en": [
+      "Aerobic respiration",
+      "Fermentation (anaerobic)",
+      "Photosynthesis",
+      "Glycogenesis"
+    ],
+    "options_ta": [
+      "ஏரோபிக் சுவாசம்",
+      "ஃபெர்மெண்டேஷன் (ஆனேரோபிக்)",
+      "ஒளிச்சேர்க்கை",
+      "கிளைகோகன் உருவாக்கம்"
+    ],
+    "answer_en": "Fermentation (anaerobic)",
+    "answer_ta": "ஃபெர்மெண்டேஷன் (ஆனேரோபிக்)"
+  },
+  {
+    "question_en": "Which structure carries pollen from anther to stigma?",
+    "question_ta": "விதை அணுவை anther-இல் இருந்து stigma-க்கு கொண்டு செல்லும் உதவி யார்?",
+    "options_en": [
+      "Style",
+      "Filament",
+      "Pollinator (e.g., bee)",
+      "Stigma"
+    ],
+    "options_ta": [
+      "ஸ்டைல்",
+      "ஃபிலமேண்ட்",
+      "பாலினேட்டர் (தேனீ போன்றவை)",
+      "ஸ்டிக்மா"
+    ],
+    "answer_en": "Pollinator (e.g., bee)",
+    "answer_ta": "பாலினேட்டர் (தேனீ)"
+  },
+  {
+    "question_en": "Which process moves water from roots to leaves?",
+    "question_ta": "வேரிலிருந்து இலைகளுக்காக நீரை நகர்த்தும் செயல்முறை எது?",
+    "options_en": [
+      "Transpiration",
+      "Guttation",
+      "Photosynthesis",
+      "Respiration"
+    ],
+    "options_ta": [
+      "Transpiration",
+      "Guttation",
+      "ஒளிச்சேர்க்கை",
+      "சுவாசம்"
+    ],
+    "answer_en": "Transpiration",
+    "answer_ta": "Transpiration"
+  },
+  {
+    "question_en": "Which blood vessel carries oxygenated blood away from the heart?",
+    "question_ta": "ஹார்டிலிருந்து ஆக்சிஜனான இரத்தத்தை எடுத்து செல்லும் வலி எது?",
+    "options_en": [
+      "Pulmonary artery",
+      "Vena cava",
+      "Aorta",
+      "Pulmonary vein"
+    ],
+    "options_ta": [
+      "புல்மனரி ஆர்டரி",
+      "வீனா காவா",
+      "அஓர்டா",
+      "புல்மனரி வீன்"
+    ],
+    "answer_en": "Aorta",
+    "answer_ta": "அஓர்டா"
+  },
+  {
+    "question_en": "Which microorganism is used to make curd (yogurt)?",
+    "question_ta": "தயிர் தயாரிக்க எந்த சிறு உயிரினம் பயன்படுகிறது?",
+    "options_en": [
+      "Aspergillus (fungus)",
+      "Lactobacillus (bacteria)",
+      "E. coli (bacteria)",
+      "Saccharomyces (yeast)"
+    ],
+    "options_ta": [
+      "அஸ்பெர்ஜில்லஸ்",
+      "Lactobacillus",
+      "E. coli",
+      "சக்கரோமைக்ஸ்"
+    ],
+    "answer_en": "Lactobacillus (bacteria)",
+    "answer_ta": "Lactobacillus (பாக்டீரியா)"
+  },
+  {
+    "question_en": "Which organ filters waste from blood to form urine?",
+    "question_ta": "இரத்தத்தில் இருந்து கழிவுகளை வடித்து சிறுநீராக மாற்றும் உறுப்பு எது?",
+    "options_en": [
+      "Lung",
+      "Kidney",
+      "Pancreas",
+      "Liver"
+    ],
+    "options_ta": [
+      "மூச்சுத் தளம்",
+      "கிட்னி",
+      "பான்கிரியாஸ்",
+      "கல்லீரல்"
+    ],
+    "answer_en": "Kidney",
+    "answer_ta": "கிட்னி"
+  },
+  {
+    "question_en": "Which molecule carries genetic information?",
+    "question_ta": "மரபணு தகவலை எடுத்துச் செல்லும் மூலக்கூறு எது?",
+    "options_en": [
+      "Protein",
+      "RNA",
+      "Lipid",
+      "DNA"
+    ],
+    "options_ta": [
+      "புரதம்",
+      "RNA",
+      "லிபிட்",
+      "DNA"
+    ],
+    "answer_en": "DNA",
+    "answer_ta": "DNA"
+  },
+  {
+    "question_en": "Which brain part controls breathing and heart rate?",
+    "question_ta": "சுவாசம் மற்றும் இதயத் துடிப்பு எங்கு கட்டுப்படும்?",
+    "options_en": [
+      "Cerebrum",
+      "Cerebellum",
+      "Hypothalamus",
+      "Medulla oblongata"
+    ],
+    "options_ta": [
+      "செரிப்ரம்",
+      "செரிபெல்லம்",
+      "ஹைப்போத்தலாமஸ்",
+      "மெடுலா ஒப்லோங்காடா"
+    ],
+    "answer_en": "Medulla oblongata",
+    "answer_ta": "மெடுலா ஓப்லோங்காடா"
+  },
+  {
+    "question_en": "Primary function of white blood cells is:",
+    "question_ta": "வெள்ளை இரத்த அணுக்களின் (WBC) பிரதான செயல்பாடு என்ன?",
+    "options_en": [
+      "Clot blood",
+      "Carry oxygen",
+      "Fight infections",
+      "Store nutrients"
+    ],
+    "options_ta": [
+      "இரத்தத்தை கட்டும்",
+      "ஆக்சிஜனை எடுத்துச் செல்லும்",
+      "நோய்களை எதிர்க்கும்",
+      "உணவுகளை சேமிக்கும்"
+    ],
+    "answer_en": "Fight infections",
+    "answer_ta": "நோய்களை எதிர்க்கும்"
+  },
+  {
+    "question_en": "Which plant tissue is responsible for growth in length?",
+    "question_ta": "ஒரு செடியின் நீள வளர்ச்சிக்கு காரணமான திசு எது?",
+    "options_en": [
+      "Xylem",
+      "Apical meristem",
+      "Phloem",
+      "Cambium"
+    ],
+    "options_ta": [
+      "சைலிம்",
+      "அபிக்கல் மெரிஸ்டம்",
+      "பிளோம்",
+      "கேம்பியம்"
+    ],
+    "answer_en": "Apical meristem",
+    "answer_ta": "அபிக்கல் மெரிஸ்டம்"
+  },
+  {
+    "question_en": "Which term describes variety of life forms in an ecosystem?",
+    "question_ta": "ஒரு சூழலில் உயிரின வகைகளின் பல்வகைபாடு என்றால் எது?",
+    "options_en": [
+      "Biodiversity",
+      "Fertility",
+      "Succession",
+      "Biomass"
+    ],
+    "options_ta": [
+      "Biodiversity",
+      "பருவத்தன்மை",
+      "Succession",
+      "Biomass"
+    ],
+    "answer_en": "Biodiversity",
+    "answer_ta": "Biodiversity"
+  },
+  {
+    "question_en": "Organelle responsible for protein synthesis is:",
+    "question_ta": "புரத உற்பத்திக்கு காரணமான உள் உறுப்பு எது?",
+    "options_en": [
+      "Golgi apparatus",
+      "Ribosome",
+      "Lysosome",
+      "Chloroplast"
+    ],
+    "options_ta": [
+      "கோல்ஜி உட்கமைப்பு",
+      "ரிபோசோம்",
+      "லைசோசோம்",
+      "குளோரோபிளாஸ்ட்"
+    ],
+    "answer_en": "Ribosome",
+    "answer_ta": "ரிபோசோம்"
+  },
+  {
+    "question_en": "Which nutrient is essential for strong bones and teeth?",
+    "question_ta": "பலமான எலும்புகள் மற்றும் பல்லுகளுக்குத் தேவையான சத்துக்கள் எது?",
+    "options_en": [
+      "Vitamin C",
+      "Iron",
+      "Calcium",
+      "Vitamin B12"
+    ],
+    "options_ta": [
+      "வைட்டமின் C",
+      "இரும்பு",
+      "கால்சியம்",
+      "வைட்டமின் B12"
+    ],
+    "answer_en": "Calcium",
+    "answer_ta": "கால்சியம்"
+  },
+  {
+    "question_en": "Which process produces identical offspring from one parent?",
+    "question_ta": "ஒரே பெற்றோரிலிருந்து இதேபோல உள்ள சந்ததிகளை உருவாக்கும் செயல் எது?",
+    "options_en": [
+      "Sexual reproduction",
+      "Meiosis",
+      "Asexual reproduction (binary fission)",
+      "Cross-pollination"
+    ],
+    "options_ta": [
+      "பாலியல் உற்பத்தி",
+      "மையோசிஸ்",
+      "அபாலியல் (binary fission)",
+      "குறுக்கூதல்"
+    ],
+    "answer_en": "Asexual reproduction (binary fission)",
+    "answer_ta": "அபாலியல் (binary fission)"
+  },
+  {
+    "question_en": "Which pigment gives green colour to plants?",
+    "question_ta": "செடிகளுக்கு பச்சை நிறத்தை தரும் நிறை என்ன?",
+    "options_en": [
+      "Carotene",
+      "Chlorophyll",
+      "Xanthophyll",
+      "Anthocyanin"
+    ],
+    "options_ta": [
+      "காரோட்டீன்",
+      "குளோரோபிள்ளு",
+      "ஜாந்தோபிள்ளு",
+      "ஆந்தோசியன்"
+    ],
+    "answer_en": "Chlorophyll",
+    "answer_ta": "குளோரோபிள்ளு"
+  },
+  {
+    "question_en": "Which organ produces bile to help fat digestion?",
+    "question_ta": "கொழுப்பை சீராக்க உதவும் பைல் தயாரிக்கப்படும் உறுப்பை குறிப்பிடு?",
+    "options_en": [
+      "Liver",
+      "Pancreas",
+      "Small intestine",
+      "Gall bladder"
+    ],
+    "options_ta": [
+      "கல்லீரல்",
+      "பான்கிரியாஸ்",
+      "சிறிய குடல்",
+      "பயில் பைடு"
+    ],
+    "answer_en": "Liver",
+    "answer_ta": "கல்லீரல்"
+  },
+  {
+    "question_en": "Which term refers to organisms that make their own food?",
+    "question_ta": "தனக்கே சாப்பாடு தயாரிக்கக்கூடிய உயிரினங்களை எது குறிப்பிடுகிறது?",
+    "options_en": [
+      "Autotroph",
+      "Heterotroph",
+      "Decomposer",
+      "Consumer"
+    ],
+    "options_ta": [
+      "Autotroph",
+      "Heterotroph",
+      "Decomposer",
+      "Consumer"
+    ],
+    "answer_en": "Autotroph",
+    "answer_ta": "Autotroph"
+  },
+  {
+    "question_en": "Which organ helps in detoxification and metabolism?",
+    "question_ta": "டாக்ஸின் நீக்கமும் மெட்டபாலிசமும் செய்யும் உறுப்பை குறிப்பிடு?",
+    "options_en": [
+      "Kidney",
+      "Liver",
+      "Lung",
+      "Spleen"
+    ],
+    "options_ta": [
+      "கிட்னி",
+      "கல்லீரல்",
+      "மூச்சுக் குழாய்",
+      "ஸ்ப்லீன்"
+    ],
+    "answer_en": "Liver",
+    "answer_ta": "கல்லீரல்"
+  },
+  {
+    "question_en": "Which cells are responsible for blood clotting?",
+    "question_ta": "இரத்தம் கொட்டத்தை ஏற்படுத்தும் செல்கள் எவை?",
+    "options_en": [
+      "Red blood cells",
+      "White blood cells",
+      "Platelets",
+      "Plasma cells"
+    ],
+    "options_ta": [
+      "சிவப்பு அணுக்கள்",
+      "வெள்ளை அணுக்கள்",
+      "பிளேட்லெட்ஸ்",
+      "பிளாஸ்மா செல்கள்"
+    ],
+    "answer_en": "Platelets",
+    "answer_ta": "பிளேட்லெட்ஸ்"
+  },
+  {
+    "question_en": "Which organ stores and concentrates bile?",
+    "question_ta": "பைலை சேமித்து மையப்படுத்தும் உறுப்பை குறிப்பிடு?",
+    "options_en": [
+      "Pancreas",
+      "Gall bladder",
+      "Liver",
+      "Stomach"
+    ],
+    "options_ta": [
+      "பான்கிரியாஸ்",
+      "கால் பிளேடர்",
+      "கல்லீரல்",
+      "வயிறு"
+    ],
+    "answer_en": "Gall bladder",
+    "answer_ta": "கால் பிளேடர்"
+  },
+  {
+    "question_en": "Which structure in plants transports water upward?",
+    "question_ta": "மூலத்தாரில் நீரை மேலே கொண்டு செல்லும் அமைப்பு எது?",
+    "options_en": [
+      "Phloem",
+      "Xylem",
+      "Stomata",
+      "Root hair"
+    ],
+    "options_ta": [
+      "பிளோம்",
+      "சைலிம்",
+      "ஸ்டோமாட்டா",
+      "ரூட் ஹேர்"
+    ],
+    "answer_en": "Xylem",
+    "answer_ta": "சைலிம்"
+  },
+  {
+    "question_en": "Which vitamin deficiency causes scurvy?",
+    "question_ta": "எந்த வைட்டமின் குறைவு ஸ்கர்வி நோயை ஏற்படுத்தும்?",
+    "options_en": [
+      "Vitamin D",
+      "Vitamin A",
+      "Vitamin C",
+      "Vitamin B1"
+    ],
+    "options_ta": [
+      "வைட்டமின் D",
+      "வைட்டமின் A",
+      "வைட்டமின் C",
+      "வைட்டமின் B1"
+    ],
+    "answer_en": "Vitamin C",
+    "answer_ta": "வைட்டமின் C"
+  },
+  {
+    "question_en": "Which organelle contains digestive enzymes?",
+    "question_ta": "ஜீரண என்சைம்களை கொண்ட உள் உறுப்பு எது?",
+    "options_en": [
+      "Lysosome",
+      "Golgi apparatus",
+      "Mitochondrion",
+      "Ribosome"
+    ],
+    "options_ta": [
+      "லைசோசோம்",
+      "கோல்ஜி உட்கமைப்பு",
+      "மைட்டோகாண்ட்ரியா",
+      "ரிபோசோம்"
+    ],
+    "answer_en": "Lysosome",
+    "answer_ta": "லைசோசோம்"
+  },
+  {
+    "question_en": "Which is the functional unit of kidney?",
+    "question_ta": "கிட்னியின் செயல்முறை அலகு எது?",
+    "options_en": [
+      "Neuron",
+      "Nephron",
+      "Alveolus",
+      "Osteon"
+    ],
+    "options_ta": [
+      "நியூரான்",
+      "நெப்ரான்",
+      "ஆல்வியோலஸ்",
+      "ஓஸ்டியன்"
+    ],
+    "answer_en": "Nephron",
+    "answer_ta": "நெப்ரான்"
+  }
+]

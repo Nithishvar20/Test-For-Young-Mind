@@ -1,0 +1,250 @@
+[
+  {
+    "question_en": "Which side of the trial balance is the debit balance of assets shown?",
+    "question_ta": "சொத்துகளின் டெபிட் இருப்பு டிரயல் பாலன்ஸின் எந்தப் பக்கத்தில் காட்டப்படுகிறது?",
+    "options_en": ["Credit side", "Debit side", "Both sides", "Not shown"],
+    "options_ta": ["கிரெடிட் பக்கம்", "டெபிட் பக்கம்", "இரண்டு பக்கமும்", "காட்டப்படாது"],
+    "answer_en": "Debit side",
+    "answer_ta": "டெபிட் பக்கம்"
+  },
+  {
+    "question_en": "Which error is revealed by trial balance?",
+    "question_ta": "டிரயல் பாலன்ஸால் எது வெளிப்படுத்தப்படும்?",
+    "options_en": ["Casting error", "Error of principle", "Compensating error", "Error of omission"],
+    "options_ta": ["காஸ்டிங் பிழை", "கொள்கைப் பிழை", "ஈடுசெய்யும் பிழை", "விடுபட்ட பிழை"],
+    "answer_en": "Casting error",
+    "answer_ta": "காஸ்டிங் பிழை"
+  },
+  {
+    "question_en": "Capital introduced by the owner is shown on which side of capital account?",
+    "question_ta": "உரிமையாளர் செலுத்திய மூலதனம், மூலதனக் கணக்கின் எந்தப் பக்கத்தில் காட்டப்படுகிறது?",
+    "options_en": ["Debit", "Credit", "Both", "Not shown"],
+    "options_ta": ["டெபிட்", "கிரெடிட்", "இரண்டும்", "காட்டப்படாது"],
+    "answer_en": "Credit",
+    "answer_ta": "கிரெடிட்"
+  },
+  {
+    "question_en": "Bank charges are recorded on which side of the cash book?",
+    "question_ta": "வங்கி கட்டணங்கள் (Bank charges) பணப்புத்தகத்தின் எந்தப் பக்கத்தில் பதிவு செய்யப்படுகின்றன?",
+    "options_en": ["Debit side", "Credit side", "Both sides", "Not recorded"],
+    "options_ta": ["டெபிட் பக்கம்", "கிரெடிட் பக்கம்", "இரண்டு பக்கமும்", "பதிவு செய்யப்படாது"],
+    "answer_en": "Credit side",
+    "answer_ta": "கிரெடிட் பக்கம்"
+  },
+  {
+    "question_en": "Which of the following is recorded in the purchase return book?",
+    "question_ta": "கொள்முதல் திரும்பல் புத்தகத்தில் பின்வருவனவற்றில் எது பதிவு செய்யப்படுகிறது?",
+    "options_en": ["Cash purchases return", "Credit purchases return", "Fixed assets return", "All purchases"],
+    "options_ta": ["பண கொள்முதல் திரும்பல்", "கடன் கொள்முதல் திரும்பல்", "நிலையான சொத்துகள் திரும்பல்", "அனைத்து கொள்முதல்கள்"],
+    "answer_en": "Credit purchases return",
+    "answer_ta": "கடன் கொள்முதல் திரும்பல்"
+  },
+  {
+    "question_en": "Which concept assumes that the business will continue for a long period?",
+    "question_ta": "வணிகம் நீண்ட காலம் தொடரும் என்று கருதப்படும் கொள்கை எது?",
+    "options_en": ["Going concern concept", "Dual aspect concept", "Accrual concept", "Money measurement concept"],
+    "options_ta": ["நிலைத்த தொடர்ச்சி கொள்கை", "இரட்டை அம்சக் கொள்கை", "காலக்கட்டக் கொள்கை", "பண அளவீட்டு கொள்கை"],
+    "answer_en": "Going concern concept",
+    "answer_ta": "நிலைத்த தொடர்ச்சி கொள்கை"
+  },
+  {
+    "question_en": "Prepaid expenses are shown in the balance sheet as?",
+    "question_ta": "முன்கூட்டியே செலுத்திய செலவுகள் (Prepaid expenses) பாலன்ஸ் ஷீட்டில் எப்படிக் காட்டப்படும்?",
+    "options_en": ["Assets", "Liabilities", "Capital", "Expenses"],
+    "options_ta": ["சொத்துகள்", "கடன்கள்", "மூலதனம்", "செலவுகள்"],
+    "answer_en": "Assets",
+    "answer_ta": "சொத்துகள்"
+  },
+  {
+    "question_en": "Bad debts are written off and shown in?",
+    "question_ta": "கெட்டக் கடன்கள் (Bad debts) எதில் எழுதித் தள்ளப்படுகின்றன?",
+    "options_en": ["Balance sheet", "Profit and loss account", "Trading account", "Cash book"],
+    "options_ta": ["பாலன்ஸ் ஷீட்", "லாப-இழப்பு கணக்கு", "ட்ரேடிங் அக்கவுண்ட்", "பணப்புத்தகம்"],
+    "answer_en": "Profit and loss account",
+    "answer_ta": "லாப-இழப்பு கணக்கு"
+  },
+  {
+    "question_en": "Which statement is prepared to know gross profit or gross loss?",
+    "question_ta": "மொத்த லாபம் அல்லது மொத்த இழப்பை அறிய எது தயாரிக்கப்படுகிறது?",
+    "options_en": ["Profit and loss account", "Trading account", "Balance sheet", "Trial balance"],
+    "options_ta": ["லாப-இழப்பு கணக்கு", "ட்ரேடிங் அக்கவுண்ட்", "பாலன்ஸ் ஷீட்", "டிரயல் பாலன்ஸ்"],
+    "answer_en": "Trading account",
+    "answer_ta": "ட்ரேடிங் அக்கவுண்ட்"
+  },
+  {
+    "question_en": "Which account is debited when rent is paid?",
+    "question_ta": "வாடகை செலுத்தப்படும் போது எந்தக் கணக்கு டெபிட் செய்யப்படும்?",
+    "options_en": ["Cash account", "Rent account", "Capital account", "Liability account"],
+    "options_ta": ["பணக் கணக்கு", "வாடகைக் கணக்கு", "மூலதனக் கணக்கு", "கடன் கணக்கு"],
+    "answer_en": "Rent account",
+    "answer_ta": "வாடகைக் கணக்கு"
+  },
+  {
+    "question_en": "Salaries outstanding is shown in balance sheet as?",
+    "question_ta": "செலுத்தப்படாத சம்பளம் (Salaries outstanding) பாலன்ஸ் ஷீட்டில் எப்படிக் காட்டப்படும்?",
+    "options_en": ["Asset", "Liability", "Expense", "Capital"],
+    "options_ta": ["சொத்து", "கடன்", "செலவு", "மூலதனம்"],
+    "answer_en": "Liability",
+    "answer_ta": "கடன்"
+  },
+  {
+    "question_en": "Which error occurs when a transaction is entered in the wrong class of account?",
+    "question_ta": "ஒரு பரிவர்த்தனை தவறான வகைப் பதிவில் பதிவு செய்யப்படும் பிழை எது?",
+    "options_en": ["Error of principle", "Error of omission", "Error of commission", "Compensating error"],
+    "options_ta": ["கொள்கைப் பிழை", "விடுபட்ட பிழை", "செய்த பிழை", "ஈடுசெய்யும் பிழை"],
+    "answer_en": "Error of principle",
+    "answer_ta": "கொள்கைப் பிழை"
+  },
+  {
+    "question_en": "Which is not an item of trading account?",
+    "question_ta": "பின்வருவனவற்றில் எது ட்ரேடிங் அக்கவுண்டின் உருப்படியாகாது?",
+    "options_en": ["Opening stock", "Purchases", "Sales", "Rent"],
+    "options_ta": ["தொடக்க பங்கு", "கொள்முதல்கள்", "விற்பனைகள்", "வாடகை"],
+    "answer_en": "Rent",
+    "answer_ta": "வாடகை"
+  },
+  {
+    "question_en": "Which account shows financial performance of a business?",
+    "question_ta": "வணிகத்தின் நிதி செயல்திறனை எது காட்டுகிறது?",
+    "options_en": ["Trading account", "Profit and loss account", "Balance sheet", "Cash book"],
+    "options_ta": ["ட்ரேடிங் அக்கவுண்ட்", "லாப-இழப்பு கணக்கு", "பாலன்ஸ் ஷீட்", "பணப்புத்தகம்"],
+    "answer_en": "Profit and loss account",
+    "answer_ta": "லாப-இழப்பு கணக்கு"
+  },
+  {
+    "question_en": "Capital expenditure is shown in?",
+    "question_ta": "மூலதனச் செலவு எதில் காட்டப்படுகிறது?",
+    "options_en": ["Profit and loss account", "Trading account", "Balance sheet", "Journal"],
+    "options_ta": ["லாப-இழப்பு கணக்கு", "ட்ரேடிங் அக்கவுண்ட்", "பாலன்ஸ் ஷீட்", "ஜர்னல்"],
+    "answer_en": "Balance sheet",
+    "answer_ta": "பாலன்ஸ் ஷீட்"
+  },
+  {
+    "question_en": "Which type of reserve is created to strengthen financial position?",
+    "question_ta": "நிதி நிலையை வலுப்படுத்த எவ்வகை ரிசர்வ் உருவாக்கப்படுகிறது?",
+    "options_en": ["General reserve", "Specific reserve", "Capital reserve", "Secret reserve"],
+    "options_ta": ["பொது காப்பு", "குறிப்பிட்ட காப்பு", "மூலதனக் காப்பு", "ரகசிய காப்பு"],
+    "answer_en": "General reserve",
+    "answer_ta": "பொது காப்பு"
+  },
+  {
+    "question_en": "Depreciation is a non-cash expense because?",
+    "question_ta": "அழுகை (Depreciation) ஒரு பணமற்ற செலவு ஏன்?",
+    "options_en": ["No cash outflow", "Always increases profit", "Is paid in cash", "None"],
+    "options_ta": ["பண வெளியேற்றம் இல்லை", "எப்போதும் லாபத்தை அதிகரிக்கும்", "பணமாக செலுத்தப்படுகிறது", "எதுவும் இல்லை"],
+    "answer_en": "No cash outflow",
+    "answer_ta": "பண வெளியேற்றம் இல்லை"
+  },
+  {
+    "question_en": "Provision for doubtful debts is shown as?",
+    "question_ta": "சந்தேகக் கடன்களுக்கான பிரிவு எப்படிக் காட்டப்படுகிறது?",
+    "options_en": ["Liability", "Deduction from debtors", "Expense", "Capital"],
+    "options_ta": ["கடன்", "கடனாளிகளிலிருந்து கழித்தல்", "செலவு", "மூலதனம்"],
+    "answer_en": "Deduction from debtors",
+    "answer_ta": "கடனாளிகளிலிருந்து கழித்தல்"
+  },
+  {
+    "question_en": "Which is the adjusting entry for prepaid rent?",
+    "question_ta": "முன்கூட்டியே செலுத்திய வாடகைக்கு சரிசெய்யும் பதிவு எது?",
+    "options_en": ["Prepaid rent A/c Dr To Rent A/c", "Rent A/c Dr To Prepaid rent A/c", "Cash A/c Dr To Rent A/c", "Rent A/c Dr To Cash A/c"],
+    "options_ta": ["முன்கூட்டிய வாடகை A/c Dr To வாடகை A/c", "வாடகை A/c Dr To முன்கூட்டிய வாடகை A/c", "பணம் A/c Dr To வாடகை A/c", "வாடகை A/c Dr To பணம் A/c"],
+    "answer_en": "Prepaid rent A/c Dr To Rent A/c",
+    "answer_ta": "முன்கூட்டிய வாடகை A/c Dr To வாடகை A/c"
+  },
+  {
+    "question_en": "Which concept states that revenue is recognized when earned?",
+    "question_ta": "வருமானம் ஈட்டப்படும் போது அங்கீகரிக்கப்படும் எனக் கூறும் கொள்கை எது?",
+    "options_en": ["Accrual concept", "Going concern", "Dual aspect", "Conservatism"],
+    "options_ta": ["காலக்கட்டக் கொள்கை", "நிலைத்த தொடர்ச்சி", "இரட்டை அம்சம்", "பாதுகாப்பு கொள்கை"],
+    "answer_en": "Accrual concept",
+    "answer_ta": "காலக்கட்டக் கொள்கை"
+  },
+  {
+    "question_en": "Which side of cash book records all receipts?",
+    "question_ta": "பணப்புத்தகத்தின் எந்தப் பக்கம் அனைத்து வரவுகளையும் பதிவு செய்கிறது?",
+    "options_en": ["Debit side", "Credit side", "Both", "Not recorded"],
+    "options_ta": ["டெபிட் பக்கம்", "கிரெடிட் பக்கம்", "இரண்டும்", "பதிவு செய்யப்படாது"],
+    "answer_en": "Debit side",
+    "answer_ta": "டெபிட் பக்கம்"
+  },
+  {
+    "question_en": "Which account is debited for goods purchased on credit?",
+    "question_ta": "கடன் கொள்முதலுக்காக எந்தக் கணக்கு டெபிட் செய்யப்படும்?",
+    "options_en": ["Purchases account", "Cash account", "Debtors account", "Capital account"],
+    "options_ta": ["கொள்முதல் கணக்கு", "பணக் கணக்கு", "கடனாளிகள் கணக்கு", "மூலதனக் கணக்கு"],
+    "answer_en": "Purchases account",
+    "answer_ta": "கொள்முதல் கணக்கு"
+  },
+  {
+    "question_en": "Depreciation reduces which value of asset?",
+    "question_ta": "அழுகை சொத்தின் எந்த மதிப்பைக் குறைக்கும்?",
+    "options_en": ["Historical cost", "Book value", "Market value", "Capital value"],
+    "options_ta": ["வரலாற்றுச் செலவு", "புத்தக மதிப்பு", "சந்தை மதிப்பு", "மூலதன மதிப்பு"],
+    "answer_en": "Book value",
+    "answer_ta": "புத்தக மதிப்பு"
+  },
+  {
+    "question_en": "Income received in advance is treated as?",
+    "question_ta": "முன்கூட்டியே பெறப்பட்ட வருமானம் எப்படிச் சிகிச்சை பெறுகிறது?",
+    "options_en": ["Asset", "Liability", "Capital", "Expense"],
+    "options_ta": ["சொத்து", "கடன்", "மூலதனம்", "செலவு"],
+    "answer_en": "Liability",
+    "answer_ta": "கடன்"
+  },
+  {
+    "question_en": "Which is shown in both trading account and balance sheet?",
+    "question_ta": "ட்ரேடிங் அக்கவுண்டிலும் பாலன்ஸ் ஷீட்டிலும் எது காட்டப்படுகிறது?",
+    "options_en": ["Opening stock", "Closing stock", "Purchases", "Wages"],
+    "options_ta": ["தொடக்க பங்கு", "முடிவு பங்கு", "கொள்முதல்கள்", "வேலைக்கூலி"],
+    "answer_en": "Closing stock",
+    "answer_ta": "முடிவு பங்கு"
+  },
+  {
+    "question_en": "Which reserve is created from capital profit?",
+    "question_ta": "மூலதன லாபத்திலிருந்து எவ்வகை காப்பு உருவாக்கப்படுகிறது?",
+    "options_en": ["General reserve", "Capital reserve", "Specific reserve", "Revenue reserve"],
+    "options_ta": ["பொது காப்பு", "மூலதனக் காப்பு", "குறிப்பிட்ட காப்பு", "வருமானக் காப்பு"],
+    "answer_en": "Capital reserve",
+    "answer_ta": "மூலதனக் காப்பு"
+  },
+  {
+    "question_en": "Interest on drawings is shown in?",
+    "question_ta": "வரைவுகளுக்கான வட்டி எதில் காட்டப்படுகிறது?",
+    "options_en": ["Trading account", "Profit and loss account", "Balance sheet", "Cash book"],
+    "options_ta": ["ட்ரேடிங் அக்கவுண்ட்", "லாப-இழப்பு கணக்கு", "பாலன்ஸ் ஷீட்", "பணப்புத்தகம்"],
+    "answer_en": "Profit and loss account",
+    "answer_ta": "லாப-இழப்பு கணக்கு"
+  },
+  {
+    "question_en": "When creditors are paid, which account is debited?",
+    "question_ta": "கடனாளிகளுக்கு பணம் செலுத்தப்படும் போது எந்தக் கணக்கு டெபிட் செய்யப்படும்?",
+    "options_en": ["Cash account", "Creditors account", "Debtors account", "Purchases account"],
+    "options_ta": ["பணக் கணக்கு", "கடனாளிகள் கணக்கு", "கடனாளர்கள் கணக்கு", "கொள்முதல் கணக்கு"],
+    "answer_en": "Creditors account",
+    "answer_ta": "கடனாளிகள் கணக்கு"
+  },
+  {
+    "question_en": "Accrued income is shown as?",
+    "question_ta": "கூட்டப்பட்ட வருமானம் (Accrued income) எப்படிக் காட்டப்படுகிறது?",
+    "options_en": ["Asset", "Liability", "Expense", "Capital"],
+    "options_ta": ["சொத்து", "கடன்", "செலவு", "மூலதனம்"],
+    "answer_en": "Asset",
+    "answer_ta": "சொத்து"
+  },
+  {
+    "question_en": "Provision for depreciation account is shown in?",
+    "question_ta": "அழுகை பிரிவு கணக்கு எதில் காட்டப்படுகிறது?",
+    "options_en": ["Deduction from assets", "Liability", "Expense", "Capital"],
+    "options_ta": ["சொத்துகளிலிருந்து கழித்தல்", "கடன்", "செலவு", "மூலதனம்"],
+    "answer_en": "Deduction from assets",
+    "answer_ta": "சொத்துகளிலிருந்து கழித்தல்"
+  },
+  {
+    "question_en": "Carriage outward is shown in?",
+    "question_ta": "காரியேஜ் அவுட்வோர்டு எதில் காட்டப்படுகிறது?",
+    "options_en": ["Trading account", "Profit and loss account", "Balance sheet", "Cash book"],
+    "options_ta": ["ட்ரேடிங் அக்கவுண்ட்", "லாப-இழப்பு கணக்கு", "பாலன்ஸ் ஷீட்", "பணப்புத்தகம்"],
+    "answer_en": "Profit and loss account",
+    "answer_ta": "லாப-இழப்பு கணக்கு"
+  }
+]

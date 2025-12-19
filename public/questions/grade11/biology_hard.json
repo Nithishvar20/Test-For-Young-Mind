@@ -1,0 +1,282 @@
+[
+  {
+    "question_en": "In photosynthesis, the primary electron acceptor in Photosystem II is?",
+    "question_ta": "ஒளிச்சேர்க்கையில், Photosystem II இல் முதன்மை மின்கண ஏற்றுபவர் எது?",
+    "options_en": ["P680", "Plastoquinone", "Ferredoxin", "Cytochrome"],
+    "options_ta": ["P680", "பிளாஸ்டோகினோன்", "ஃபெர்ரிடாக்சின்", "சைடோகுரோம்"],
+    "answer_en": "Plastoquinone",
+    "answer_ta": "பிளாஸ்டோகினோன்"
+  },
+  {
+    "question_en": "During glycolysis, how many molecules of ATP are produced per molecule of glucose (net gain)?",
+    "question_ta": "கிளைக்காலிசிசில், ஒரு குளுக்கோஸ் மூலக்கூறுக்கு எத்தனை ATP (நிகர லாபம்) உருவாகின்றன?",
+    "options_en": ["2", "4", "6", "8"],
+    "options_ta": ["2", "4", "6", "8"],
+    "answer_en": "2",
+    "answer_ta": "2"
+  },
+  {
+    "question_en": "Which part of nephron is responsible for selective reabsorption of glucose?",
+    "question_ta": "நெஃப்ரானில் குளுக்கோஸின் தெரிவு மீள்உறிஞ்சலுக்குப் பொறுப்பான பகுதி எது?",
+    "options_en": ["Glomerulus", "Proximal convoluted tubule", "Loop of Henle", "Collecting duct"],
+    "options_ta": ["குளோமெருலஸ்", "நெருங்கிய சுருள் குழாய்", "ஹென்லே வளைவு", "சேகரிக்கும் குழாய்"],
+    "answer_en": "Proximal convoluted tubule",
+    "answer_ta": "நெருங்கிய சுருள் குழாய்"
+  },
+  {
+    "question_en": "Which bond connects amino acids in proteins?",
+    "question_ta": "புரதங்களில் அமினோ அமிலங்களை இணைக்கும் பிணைப்பு எது?",
+    "options_en": ["Hydrogen bond", "Peptide bond", "Glycosidic bond", "Disulfide bond"],
+    "options_ta": ["ஹைட்ரஜன் பிணைப்பு", "பெப்டைட் பிணைப்பு", "கிளைகோசிடிக் பிணைப்பு", "டைசல்பைடு பிணைப்பு"],
+    "answer_en": "Peptide bond",
+    "answer_ta": "பெப்டைட் பிணைப்பு"
+  },
+  {
+    "question_en": "In the Krebs cycle, which compound combines with acetyl-CoA to form citrate?",
+    "question_ta": "கிரெப்ஸ் சுழற்சியில், எந்த சேர்மம் Acetyl-CoA-வுடன் சேர்ந்து சிட்ரேட்டை உருவாக்குகிறது?",
+    "options_en": ["Oxaloacetate", "Malate", "Fumarate", "Succinate"],
+    "options_ta": ["ஆக்ஸாலோஅசிடேட்", "மாலேட்", "ஃபுமரேட்", "சக்கினேட்"],
+    "answer_en": "Oxaloacetate",
+    "answer_ta": "ஆக்ஸாலோஅசிடேட்"
+  },
+  {
+    "question_en": "Which hormone is secreted by corpus luteum?",
+    "question_ta": "கார்பஸ் லூட்டியம் சுரக்கும் ஹார்மோன் எது?",
+    "options_en": ["Estrogen", "Progesterone", "FSH", "LH"],
+    "options_ta": ["எஸ்ட்ரஜன்", "ப்ரொஜெஸ்ட்ரோன்", "FSH", "LH"],
+    "answer_en": "Progesterone",
+    "answer_ta": "ப்ரொஜெஸ்ட்ரோன்"
+  },
+  {
+    "question_en": "Which immunoglobulin provides passive immunity to newborn through colostrum?",
+    "question_ta": "பசும்பாலில் உள்ள எந்த இம்யூனோகுளோபுலின் புதிதாகப் பிறந்த குழந்தைக்கு பாசிச நோயெதிர்ப்பு அளிக்கிறது?",
+    "options_en": ["IgA", "IgG", "IgM", "IgE"],
+    "options_ta": ["IgA", "IgG", "IgM", "IgE"],
+    "answer_en": "IgA",
+    "answer_ta": "IgA"
+  },
+  {
+    "question_en": "Which enzyme unzips the DNA double helix during replication?",
+    "question_ta": "DNA பிரதி எடுக்கும் போது இரட்டை சுருளைத் திறக்கும் என்சைம் எது?",
+    "options_en": ["DNA polymerase", "Helicase", "Ligase", "Primase"],
+    "options_ta": ["DNA போலிமெரேஸ்", "ஹெலிகேஸ்", "லைகேஸ்", "பிரைமேஸ்"],
+    "answer_en": "Helicase",
+    "answer_ta": "ஹெலிகேஸ்"
+  },
+  {
+    "question_en": "In which phase of meiosis does crossing over occur?",
+    "question_ta": "மைஓசிசில் 'crossing over' எந்த நிலையிலில் நடைபெறுகிறது?",
+    "options_en": ["Prophase I", "Metaphase I", "Anaphase I", "Telophase I"],
+    "options_ta": ["புரோஃபேஸ் I", "மெட்டாபேஸ் I", "அனாபேஸ் I", "டெலோஃபேஸ் I"],
+    "answer_en": "Prophase I",
+    "answer_ta": "புரோஃபேஸ் I"
+  },
+  {
+    "question_en": "Which blood component is involved in blood clotting?",
+    "question_ta": "இரத்தம் உறைவதில் பங்கு பெறும் இரத்தக் கூறு எது?",
+    "options_en": ["RBC", "WBC", "Platelets", "Plasma"],
+    "options_ta": ["சிவப்பு இரத்த அணுக்கள்", "வெள்ளை இரத்த அணுக்கள்", "இரத்த தட்டுகள்", "பிளாஸ்மா"],
+    "answer_en": "Platelets",
+    "answer_ta": "இரத்த தட்டுகள்"
+  },
+  {
+    "question_en": "Which molecule acts as the final electron acceptor in aerobic respiration?",
+    "question_ta": "ஆக்சிஜன் சுவாசத்தில் இறுதி மின்கண ஏற்றுபவராக செயல்படும் மூலக்கூறு எது?",
+    "options_en": ["Oxygen", "Carbon dioxide", "ATP", "NADH"],
+    "options_ta": ["ஆக்சிஜன்", "கார்பன் டைஆக்சைடு", "ATP", "NADH"],
+    "answer_en": "Oxygen",
+    "answer_ta": "ஆக்சிஜன்"
+  },
+  {
+    "question_en": "Which type of joint is present between atlas and axis vertebrae in humans?",
+    "question_ta": "மனிதர்களில் அட்லாஸ் மற்றும் ஆக்சிஸ் மண்டைகளுக்கு இடையே எந்த வகை மூட்டு உள்ளது?",
+    "options_en": ["Hinge joint", "Pivot joint", "Ball and socket", "Gliding joint"],
+    "options_ta": ["கதவு மூட்டு", "சுழல் மூட்டு", "பந்து-குழி மூட்டு", "சரிவு மூட்டு"],
+    "answer_en": "Pivot joint",
+    "answer_ta": "சுழல் மூட்டு"
+  },
+  {
+    "question_en": "In C4 plants, which cell type initially fixes CO2?",
+    "question_ta": "C4 தாவரங்களில், எந்த செல்கள் முதலில் CO2 ஐ நிலைப்படுத்துகின்றன?",
+    "options_en": ["Mesophyll cells", "Bundle sheath cells", "Guard cells", "Epidermal cells"],
+    "options_ta": ["மெசோஃபில் செல்கள்", "பண்டில் ஷீத் செல்கள்", "காவலர் செல்கள்", "எபிடெர்மல் செல்கள்"],
+    "answer_en": "Mesophyll cells",
+    "answer_ta": "மெசோஃபில் செல்கள்"
+  },
+  {
+    "question_en": "Which protein is responsible for oxygen transport in muscles?",
+    "question_ta": "தசைகளில் ஆக்சிஜனை ஏற்றிச் செல்லும் புரதம் எது?",
+    "options_en": ["Hemoglobin", "Myoglobin", "Albumin", "Globulin"],
+    "options_ta": ["ஹீமோகுளோபின்", "மைோகுளோபின்", "ஆல்புமின்", "குளோபுலின்"],
+    "answer_en": "Myoglobin",
+    "answer_ta": "மைோகுளோபின்"
+  },
+  {
+    "question_en": "Which plant hormone is responsible for apical dominance?",
+    "question_ta": "மேல் முனை ஆட்சி (apical dominance)க்கு பொறுப்பான தாவர ஹார்மோன் எது?",
+    "options_en": ["Cytokinin", "Auxin", "Gibberellin", "Abscisic acid"],
+    "options_ta": ["சைடோகினின்", "ஆக்சின்", "கிப்ரெல்லின்", "அப்சிசிக் அமிலம்"],
+    "answer_en": "Auxin",
+    "answer_ta": "ஆக்சின்"
+  },
+  {
+    "question_en": "Which scientist proposed the fluid mosaic model of plasma membrane?",
+    "question_ta": "பிளாஸ்மா சவ்வின் திரவ-மோசைக் மாதிரியை முன்மொழிந்த விஞ்ஞானிகள் யார்?",
+    "options_en": ["Watson and Crick", "Singer and Nicolson", "Hooke", "Schleiden and Schwann"],
+    "options_ta": ["வாட்சன் மற்றும் கிரிக்", "சிங்கர் மற்றும் நிக்கல்சன்", "ஹூக்", "ஷ்லைடன் மற்றும் ஷ்வான்"],
+    "answer_en": "Singer and Nicolson",
+    "answer_ta": "சிங்கர் மற்றும் நிக்கல்சன்"
+  },
+  {
+    "question_en": "Which nitrogenous waste is excreted in birds?",
+    "question_ta": "பறவைகள் வெளியேற்றும் நைட்ரஜன் கழிவு எது?",
+    "options_en": ["Ammonia", "Urea", "Uric acid", "Creatinine"],
+    "options_ta": ["அம்மோனியா", "யூரியா", "யூரிக் அமிலம்", "கிரியாட்டினின்"],
+    "answer_en": "Uric acid",
+    "answer_ta": "யூரிக் அமிலம்"
+  },
+  {
+    "question_en": "Which organelle is involved in photorespiration?",
+    "question_ta": "போட்டோ ரெஸ்பிரேஷனில் பங்கு பெறும் செல்கூறு எது?",
+    "options_en": ["Mitochondria", "Peroxisome", "Golgi apparatus", "Nucleus"],
+    "options_ta": ["மைட்டோகாண்ட்ரியா", "பெராக்ஸிசோம்", "கோல்ஜி கருவி", "மையகம்"],
+    "answer_en": "Peroxisome",
+    "answer_ta": "பெராக்ஸிசோம்"
+  },
+  {
+    "question_en": "Which gland secretes melatonin?",
+    "question_ta": "மெலடோனின் சுரக்கும் சுரப்பி எது?",
+    "options_en": ["Pineal gland", "Pituitary gland", "Thyroid gland", "Adrenal gland"],
+    "options_ta": ["பைனியல் சுரப்பி", "பிட்யூட்டரி சுரப்பி", "தைராய்டு சுரப்பி", "அட்ரினல் சுரப்பி"],
+    "answer_en": "Pineal gland",
+    "answer_ta": "பைனியல் சுரப்பி"
+  },
+  {
+    "question_en": "Which stage of mitosis ensures equal distribution of chromosomes?",
+    "question_ta": "மைடோசிசின் எந்த நிலை குரோமோசோம்களின் சமவினியோகத்தை உறுதி செய்கிறது?",
+    "options_en": ["Prophase", "Metaphase", "Anaphase", "Telophase"],
+    "options_ta": ["புரோஃபேஸ்", "மெட்டாபேஸ்", "அனாபேஸ்", "டெலோஃபேஸ்"],
+    "answer_en": "Anaphase",
+    "answer_ta": "அனாபேஸ்"
+  },
+  {
+    "question_en": "Which enzyme synthesizes Okazaki fragments?",
+    "question_ta": "ஒகசாகி துண்டுகளை உருவாக்கும் என்சைம் எது?",
+    "options_en": ["DNA polymerase III", "Helicase", "Ligase", "RNA polymerase"],
+    "options_ta": ["DNA போலிமெரேஸ் III", "ஹெலிகேஸ்", "லைகேஸ்", "RNA போலிமெரேஸ்"],
+    "answer_en": "DNA polymerase III",
+    "answer_ta": "DNA போலிமெரேஸ் III"
+  },
+  {
+    "question_en": "In muscle contraction, calcium ions bind to which protein?",
+    "question_ta": "தசைச் சுருக்கத்தில் கால்சியம் அயன்கள் எந்த புரதத்துடன் இணைகின்றன?",
+    "options_en": ["Actin", "Myosin", "Troponin", "Tropomyosin"],
+    "options_ta": ["ஆக்டின்", "மையோசின்", "ட்ரோபோனின்", "ட்ரோபோமையோசின்"],
+    "answer_en": "Troponin",
+    "answer_ta": "ட்ரோபோனின்"
+  },
+  {
+    "question_en": "Which cofactor is required for the enzyme carbonic anhydrase?",
+    "question_ta": "கார்போனிக் அன்ஹைட்ரேஸ் என்சைமுக்குத் தேவையான துணை அணி எது?",
+    "options_en": ["Iron", "Zinc", "Magnesium", "Copper"],
+    "options_ta": ["இரும்பு", "ஜிங்க்", "மக்னீசியம்", "செம்பு"],
+    "answer_en": "Zinc",
+    "answer_ta": "ஜிங்க்"
+  },
+  {
+    "question_en": "Which blood group is known as universal recipient?",
+    "question_ta": "எந்த இரத்தக் குழு உலகளாவிய பெறுபவராக அறியப்படுகிறது?",
+    "options_en": ["A", "B", "AB", "O"],
+    "options_ta": ["A", "B", "AB", "O"],
+    "answer_en": "AB",
+    "answer_ta": "AB"
+  },
+  {
+    "question_en": "Which step of protein synthesis involves mRNA, tRNA, and ribosome assembly?",
+    "question_ta": "புரத உற்பத்தியில் mRNA, tRNA, மற்றும் ரைபோசோம் ஒன்று சேரும் படி எது?",
+    "options_en": ["Transcription", "Initiation of translation", "Elongation", "Termination"],
+    "options_ta": ["டிரான்ஸ்கிரிப்ஷன்", "மொழிபெயர்ப்பு தொடக்கம்", "நீட்டிப்பு", "முடிவு"],
+    "answer_en": "Initiation of translation",
+    "answer_ta": "மொழிபெயர்ப்பு தொடக்கம்"
+  },
+  {
+    "question_en": "In which phase of cell cycle does DNA replication occur?",
+    "question_ta": "செல் சுழற்சியின் எந்த கட்டத்தில் DNA பிரதி எடுக்கப்படுகிறது?",
+    "options_en": ["G1 phase", "S phase", "G2 phase", "M phase"],
+    "options_ta": ["G1 கட்டம்", "S கட்டம்", "G2 கட்டம்", "M கட்டம்"],
+    "answer_en": "S phase",
+    "answer_ta": "S கட்டம்"
+  },
+  {
+    "question_en": "Which enzyme is deficient in lactose intolerance?",
+    "question_ta": "லாக்டோஸ் அசக்தியில் குறைவாக உள்ள என்சைம் எது?",
+    "options_en": ["Amylase", "Lactase", "Maltase", "Sucrase"],
+    "options_ta": ["அமைலேஸ்", "லாக்டேஸ்", "மால்டேஸ்", "சுக்ரேஸ்"],
+    "answer_en": "Lactase",
+    "answer_ta": "லாக்டேஸ்"
+  },
+  {
+    "question_en": "Which plant movement occurs due to growth towards light?",
+    "question_ta": "ஒளியின் நோக்கில் வளர்ச்சி ஏற்படுவதால் நிகழும் தாவர இயக்கம் எது?",
+    "options_en": ["Phototropism", "Geotropism", "Thigmotropism", "Hydrotropism"],
+    "options_ta": ["போட்டோட்ரோபிசம்", "ஜியோட்ரோபிசம்", "திக்மோட்ரோபிசம்", "ஹைட்ரோட்ரோபிசம்"],
+    "answer_en": "Phototropism",
+    "answer_ta": "போட்டோட்ரோபிசம்"
+  },
+  {
+    "question_en": "Which vitamin acts as a coenzyme in blood clotting?",
+    "question_ta": "இரத்தம் உறைவதில் துணை-என்சைமாகச் செயல்படும் வைட்டமின் எது?",
+    "options_en": ["Vitamin A", "Vitamin B12", "Vitamin D", "Vitamin K"],
+    "options_ta": ["வைட்டமின் A", "வைட்டமின் B12", "வைட்டமின் D", "வைட்டமின் K"],
+    "answer_en": "Vitamin K",
+    "answer_ta": "வைட்டமின் K"
+  },
+  {
+    "question_en": "Which gas is produced in large amounts during anaerobic respiration in yeast?",
+    "question_ta": "ஈஸ்டில் ஆக்சிஜன் அற்ற சுவாசத்தின் போது அதிக அளவில் உருவாகும் வாயு எது?",
+    "options_en": ["Carbon dioxide", "Oxygen", "Hydrogen", "Methane"],
+    "options_ta": ["கார்பன் டைஆக்சைடு", "ஆக்சிஜன்", "ஹைட்ரஜன்", "மீத்தேன்"],
+    "answer_en": "Carbon dioxide",
+    "answer_ta": "கார்பன் டைஆக்சைடு"
+  },
+  {
+    "question_en": "Which structural feature of alveoli increases gas exchange efficiency?",
+    "question_ta": "ஆல்வியோலியின் எந்த கட்டமைப்பு அம்சம் வாயு பரிமாற்ற திறனை அதிகரிக்கிறது?",
+    "options_en": ["Thick walls", "Large surface area", "Less capillaries", "Dry surface"],
+    "options_ta": ["தடிமனான சுவர்கள்", "பெரிய மேற்பரப்பு", "குறைந்த நரம்புகள்", "உலர் மேற்பரப்பு"],
+    "answer_en": "Large surface area",
+    "answer_ta": "பெரிய மேற்பரப்பு"
+  },
+  {
+    "question_en": "Which plant cycle involves RuBisCO enzyme?",
+    "question_ta": "RuBisCO என்சைம் பங்கு பெறும் தாவரச் சுழற்சி எது?",
+    "options_en": ["Krebs cycle", "Calvin cycle", "C4 cycle", "CAM cycle"],
+    "options_ta": ["கிரெப்ஸ் சுழற்சி", "கால்வின் சுழற்சி", "C4 சுழற்சி", "CAM சுழற்சி"],
+    "answer_en": "Calvin cycle",
+    "answer_ta": "கால்வின் சுழற்சி"
+  },
+  {
+    "question_en": "Which organ secretes renin enzyme?",
+    "question_ta": "ரெனின் என்சைமை சுரக்கும் உறுப்பு எது?",
+    "options_en": ["Liver", "Kidney", "Pancreas", "Stomach"],
+    "options_ta": ["கல்லீரல்", "சிறுநீரகம்", "பேன்கிரியாஸ்", "வயிறு"],
+    "answer_en": "Kidney",
+    "answer_ta": "சிறுநீரகம்"
+  },
+  {
+    "question_en": "Which law of Mendel is based on separation of alleles?",
+    "question_ta": "அல்லீல்கள் பிரிவை அடிப்படையாகக் கொண்ட மெண்டல் விதி எது?",
+    "options_en": ["Law of dominance", "Law of segregation", "Law of independent assortment", "Law of probability"],
+    "options_ta": ["ஆட்சிக் கொள்கை", "பிரிவு விதி", "சுதந்திரத் திரட்டல் விதி", "சாத்தியக்கூறு விதி"],
+    "answer_en": "Law of segregation",
+    "answer_ta": "பிரிவு விதி"
+  },
+  {
+    "question_en": "Which chemical is used as an anticoagulant in blood sample storage?",
+    "question_ta": "இரத்த மாதிரி சேமிப்பில் இரத்தம் உறையாமல் தடுக்கப் பயன்படும் வேதிப்பொருள் எது?",
+    "options_en": ["Sodium chloride", "EDTA", "Glucose", "Potassium iodide"],
+    "options_ta": ["சோடியம் குளோரைடு", "EDTA", "குளுக்கோஸ்", "பொட்டாசியம் அயோடைடு"],
+    "answer_en": "EDTA",
+    "answer_ta": "EDTA"
+  }
+]

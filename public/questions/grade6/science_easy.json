@@ -1,0 +1,902 @@
+[
+  {
+    "question_en": "SI unit of length is?",
+    "question_ta": "நீளத்தின் எஸ்.ஐ அலகு எது?",
+    "options_en": [
+      "second",
+      "metre",
+      "litre",
+      "kilogram"
+    ],
+    "options_ta": [
+      "விநாடி",
+      "மீட்டர்",
+      "லிட்டர்",
+      "கிலோகிராம்"
+    ],
+    "answer_en": "metre",
+    "answer_ta": "மீட்டர்"
+  },
+  {
+    "question_en": "The source of heat on Earth is?",
+    "question_ta": "பூமியில் வெப்பத்தின் மூலாதாரம் எது?",
+    "options_en": [
+      "Coal",
+      "Firewood",
+      "Moon",
+      "Sun"
+    ],
+    "options_ta": [
+      "நரிக்கட்டி",
+      "மரம்",
+      "சந்திரன்",
+      "சூரியன்"
+    ],
+    "answer_en": "Sun",
+    "answer_ta": "சூரியன்"
+  },
+  {
+    "question_en": "Which organ pumps blood?",
+    "question_ta": "எந்த உறுப்பு இரத்தத்தை பாய்ச்சுகிறது?",
+    "options_en": [
+      "Heart",
+      "Lungs",
+      "Liver",
+      "Brain"
+    ],
+    "options_ta": [
+      "இதயம்",
+      "நுரையீரல்",
+      "கல்லீரல்",
+      "மூளை"
+    ],
+    "answer_en": "Heart",
+    "answer_ta": "இதயம்"
+  },
+  {
+    "question_en": "Water freezes at what temperature?",
+    "question_ta": "தண்ணீர் உறையும் வெப்பநிலை?",
+    "options_en": [
+      "50°C",
+      "0°C",
+      "100°C",
+      "37°C"
+    ],
+    "options_ta": [
+      "50°C",
+      "0°C",
+      "100°C",
+      "37°C"
+    ],
+    "answer_en": "0°C",
+    "answer_ta": "0°C"
+  },
+  {
+    "question_en": "Which planet is known as Red Planet?",
+    "question_ta": "சிவப்பு கோள் என அழைக்கப்படும் கோள் எது?",
+    "options_en": [
+      "Jupiter",
+      "Mars",
+      "Venus",
+      "Earth"
+    ],
+    "options_ta": [
+      "குரு",
+      "செவ்வாய்",
+      "வெள்ளி",
+      "பூமி"
+    ],
+    "answer_en": "Mars",
+    "answer_ta": "செவ்வாய்"
+  },
+  {
+    "question_en": "Which of these is magnetic?",
+    "question_ta": "இவற்றில் எது காந்தம் கொண்டது?",
+    "options_en": [
+      "Copper",
+      "Iron",
+      "Wood",
+      "Plastic"
+    ],
+    "options_ta": [
+      "செம்பு",
+      "இரும்பு",
+      "மரம்",
+      "பிளாஸ்டிக்"
+    ],
+    "answer_en": "Iron",
+    "answer_ta": "இரும்பு"
+  },
+  {
+    "question_en": "Which of these is magnetic?",
+    "question_ta": "இவற்றில் எது காந்தம் கொண்டது?",
+    "options_en": [
+      "Plastic",
+      "Iron",
+      "Copper",
+      "Wood"
+    ],
+    "options_ta": [
+      "பிளாஸ்டிக்",
+      "இரும்பு",
+      "செம்பு",
+      "மரம்"
+    ],
+    "answer_en": "Iron",
+    "answer_ta": "இரும்பு"
+  },
+  {
+    "question_en": "Which of these is magnetic?",
+    "question_ta": "இவற்றில் எது காந்தம் கொண்டது?",
+    "options_en": [
+      "Wood",
+      "Iron",
+      "Plastic",
+      "Copper"
+    ],
+    "options_ta": [
+      "மரம்",
+      "இரும்பு",
+      "பிளாஸ்டிக்",
+      "செம்பு"
+    ],
+    "answer_en": "Iron",
+    "answer_ta": "இரும்பு"
+  },
+  {
+    "question_en": "Which instrument measures temperature?",
+    "question_ta": "வெப்பநிலையை அளக்கும் கருவி?",
+    "options_en": [
+      "Barometer",
+      "Thermometer",
+      "Odometer",
+      "Hygrometer"
+    ],
+    "options_ta": [
+      "வாயுமண்டலமானி",
+      "வெப்பமானி",
+      "தூரமானி",
+      "ஈரப்பமானி"
+    ],
+    "answer_en": "Thermometer",
+    "answer_ta": "வெப்பமானி"
+  },
+  {
+    "question_en": "Which part of plant prepares food?",
+    "question_ta": "தாவரத்தின் எந்த பகுதி உணவை தயாரிக்கிறது?",
+    "options_en": [
+      "Flower",
+      "Root",
+      "Leaf",
+      "Stem"
+    ],
+    "options_ta": [
+      "மலர்",
+      "வேர்",
+      "இலை",
+      "தண்டு"
+    ],
+    "answer_en": "Leaf",
+    "answer_ta": "இலை"
+  },
+  {
+    "question_en": "Which part of plant prepares food?",
+    "question_ta": "தாவரத்தின் எந்த பகுதி உணவை தயாரிக்கிறது?",
+    "options_en": [
+      "Leaf",
+      "Root",
+      "Flower",
+      "Stem"
+    ],
+    "options_ta": [
+      "இலை",
+      "வேர்",
+      "மலர்",
+      "தண்டு"
+    ],
+    "answer_en": "Leaf",
+    "answer_ta": "இலை"
+  },
+  {
+    "question_en": "Which part of plant prepares food?",
+    "question_ta": "தாவரத்தின் எந்த பகுதி உணவை தயாரிக்கிறது?",
+    "options_en": [
+      "Root",
+      "Stem",
+      "Flower",
+      "Leaf"
+    ],
+    "options_ta": [
+      "வேர்",
+      "தண்டு",
+      "மலர்",
+      "இலை"
+    ],
+    "answer_en": "Leaf",
+    "answer_ta": "இலை"
+  },
+  {
+    "question_en": "Which of these is magnetic?",
+    "question_ta": "இவற்றில் எது காந்தம் கொண்டது?",
+    "options_en": [
+      "Plastic",
+      "Wood",
+      "Iron",
+      "Copper"
+    ],
+    "options_ta": [
+      "பிளாஸ்டிக்",
+      "மரம்",
+      "இரும்பு",
+      "செம்பு"
+    ],
+    "answer_en": "Iron",
+    "answer_ta": "இரும்பு"
+  },
+  {
+    "question_en": "Which instrument measures temperature?",
+    "question_ta": "வெப்பநிலையை அளக்கும் கருவி?",
+    "options_en": [
+      "Odometer",
+      "Hygrometer",
+      "Barometer",
+      "Thermometer"
+    ],
+    "options_ta": [
+      "தூரமானி",
+      "ஈரப்பமானி",
+      "வாயுமண்டலமானி",
+      "வெப்பமானி"
+    ],
+    "answer_en": "Thermometer",
+    "answer_ta": "வெப்பமானி"
+  },
+  {
+    "question_en": "Which of these is magnetic?",
+    "question_ta": "இவற்றில் எது காந்தம் கொண்டது?",
+    "options_en": [
+      "Wood",
+      "Plastic",
+      "Copper",
+      "Iron"
+    ],
+    "options_ta": [
+      "மரம்",
+      "பிளாஸ்டிக்",
+      "செம்பு",
+      "இரும்பு"
+    ],
+    "answer_en": "Iron",
+    "answer_ta": "இரும்பு"
+  },
+  {
+    "question_en": "Which instrument measures temperature?",
+    "question_ta": "வெப்பநிலையை அளக்கும் கருவி?",
+    "options_en": [
+      "Barometer",
+      "Thermometer",
+      "Odometer",
+      "Hygrometer"
+    ],
+    "options_ta": [
+      "வாயுமண்டலமானி",
+      "வெப்பமானி",
+      "தூரமானி",
+      "ஈரப்பமானி"
+    ],
+    "answer_en": "Thermometer",
+    "answer_ta": "வெப்பமானி"
+  },
+  {
+    "question_en": "Which gas do we inhale for breathing?",
+    "question_ta": "உள்ளிழுக்கும் வாயு எது?",
+    "options_en": [
+      "Oxygen",
+      "Nitrogen",
+      "Carbon dioxide",
+      "Hydrogen"
+    ],
+    "options_ta": [
+      "ஆக்சிஜன்",
+      "நைட்ரஜன்",
+      "கார்பன் டை ஆக்சைடு",
+      "ஹைட்ரஜன்"
+    ],
+    "answer_en": "Oxygen",
+    "answer_ta": "ஆக்சிஜன்"
+  },
+  {
+    "question_en": "Which instrument measures temperature?",
+    "question_ta": "வெப்பநிலையை அளக்கும் கருவி?",
+    "options_en": [
+      "Hygrometer",
+      "Thermometer",
+      "Odometer",
+      "Barometer"
+    ],
+    "options_ta": [
+      "ஈரப்பமானி",
+      "வெப்பமானி",
+      "தூரமானி",
+      "வாயுமண்டலமானி"
+    ],
+    "answer_en": "Thermometer",
+    "answer_ta": "வெப்பமானி"
+  },
+  {
+    "question_en": "Which of these is magnetic?",
+    "question_ta": "இவற்றில் எது காந்தம் கொண்டது?",
+    "options_en": [
+      "Plastic",
+      "Iron",
+      "Copper",
+      "Wood"
+    ],
+    "options_ta": [
+      "பிளாஸ்டிக்",
+      "இரும்பு",
+      "செம்பு",
+      "மரம்"
+    ],
+    "answer_en": "Iron",
+    "answer_ta": "இரும்பு"
+  },
+  {
+    "question_en": "Which instrument measures temperature?",
+    "question_ta": "வெப்பநிலையை அளக்கும் கருவி?",
+    "options_en": [
+      "Odometer",
+      "Thermometer",
+      "Barometer",
+      "Hygrometer"
+    ],
+    "options_ta": [
+      "தூரமானி",
+      "வெப்பமானி",
+      "வாயுமண்டலமானி",
+      "ஈரப்பமானி"
+    ],
+    "answer_en": "Thermometer",
+    "answer_ta": "வெப்பமானி"
+  },
+  {
+    "question_en": "Which of these is magnetic?",
+    "question_ta": "இவற்றில் எது காந்தம் கொண்டது?",
+    "options_en": [
+      "Iron",
+      "Copper",
+      "Plastic",
+      "Wood"
+    ],
+    "options_ta": [
+      "இரும்பு",
+      "செம்பு",
+      "பிளாஸ்டிக்",
+      "மரம்"
+    ],
+    "answer_en": "Iron",
+    "answer_ta": "இரும்பு"
+  },
+  {
+    "question_en": "Which instrument measures temperature?",
+    "question_ta": "வெப்பநிலையை அளக்கும் கருவி?",
+    "options_en": [
+      "Thermometer",
+      "Hygrometer",
+      "Barometer",
+      "Odometer"
+    ],
+    "options_ta": [
+      "வெப்பமானி",
+      "ஈரப்பமானி",
+      "வாயுமண்டலமானி",
+      "தூரமானி"
+    ],
+    "answer_en": "Thermometer",
+    "answer_ta": "வெப்பமானி"
+  },
+  {
+    "question_en": "Which of these is magnetic?",
+    "question_ta": "இவற்றில் எது காந்தம் கொண்டது?",
+    "options_en": [
+      "Wood",
+      "Copper",
+      "Plastic",
+      "Iron"
+    ],
+    "options_ta": [
+      "மரம்",
+      "செம்பு",
+      "பிளாஸ்டிக்",
+      "இரும்பு"
+    ],
+    "answer_en": "Iron",
+    "answer_ta": "இரும்பு"
+  },
+  {
+    "question_en": "Which of these is magnetic?",
+    "question_ta": "இவற்றில் எது காந்தம் கொண்டது?",
+    "options_en": [
+      "Copper",
+      "Plastic",
+      "Wood",
+      "Iron"
+    ],
+    "options_ta": [
+      "செம்பு",
+      "பிளாஸ்டிக்",
+      "மரம்",
+      "இரும்பு"
+    ],
+    "answer_en": "Iron",
+    "answer_ta": "இரும்பு"
+  },
+  {
+    "question_en": "Which gas do we inhale for breathing?",
+    "question_ta": "உள்ளிழுக்கும் வாயு எது?",
+    "options_en": [
+      "Hydrogen",
+      "Nitrogen",
+      "Oxygen",
+      "Carbon dioxide"
+    ],
+    "options_ta": [
+      "ஹைட்ரஜன்",
+      "நைட்ரஜன்",
+      "ஆக்சிஜன்",
+      "கார்பன் டை ஆக்சைடு"
+    ],
+    "answer_en": "Oxygen",
+    "answer_ta": "ஆக்சிஜன்"
+  },
+  {
+    "question_en": "Which part of plant prepares food?",
+    "question_ta": "தாவரத்தின் எந்த பகுதி உணவை தயாரிக்கிறது?",
+    "options_en": [
+      "Stem",
+      "Root",
+      "Flower",
+      "Leaf"
+    ],
+    "options_ta": [
+      "தண்டு",
+      "வேர்",
+      "மலர்",
+      "இலை"
+    ],
+    "answer_en": "Leaf",
+    "answer_ta": "இலை"
+  },
+  {
+    "question_en": "Which gas do we inhale for breathing?",
+    "question_ta": "உள்ளிழுக்கும் வாயு எது?",
+    "options_en": [
+      "Hydrogen",
+      "Nitrogen",
+      "Carbon dioxide",
+      "Oxygen"
+    ],
+    "options_ta": [
+      "ஹைட்ரஜன்",
+      "நைட்ரஜன்",
+      "கார்பன் டை ஆக்சைடு",
+      "ஆக்சிஜன்"
+    ],
+    "answer_en": "Oxygen",
+    "answer_ta": "ஆக்சிஜன்"
+  },
+  {
+    "question_en": "Which of these is magnetic?",
+    "question_ta": "இவற்றில் எது காந்தம் கொண்டது?",
+    "options_en": [
+      "Wood",
+      "Plastic",
+      "Copper",
+      "Iron"
+    ],
+    "options_ta": [
+      "மரம்",
+      "பிளாஸ்டிக்",
+      "செம்பு",
+      "இரும்பு"
+    ],
+    "answer_en": "Iron",
+    "answer_ta": "இரும்பு"
+  },
+  {
+    "question_en": "Which instrument measures temperature?",
+    "question_ta": "வெப்பநிலையை அளக்கும் கருவி?",
+    "options_en": [
+      "Hygrometer",
+      "Odometer",
+      "Barometer",
+      "Thermometer"
+    ],
+    "options_ta": [
+      "ஈரப்பமானி",
+      "தூரமானி",
+      "வாயுமண்டலமானி",
+      "வெப்பமானி"
+    ],
+    "answer_en": "Thermometer",
+    "answer_ta": "வெப்பமானி"
+  },
+  {
+    "question_en": "Which gas do we inhale for breathing?",
+    "question_ta": "உள்ளிழுக்கும் வாயு எது?",
+    "options_en": [
+      "Hydrogen",
+      "Oxygen",
+      "Carbon dioxide",
+      "Nitrogen"
+    ],
+    "options_ta": [
+      "ஹைட்ரஜன்",
+      "ஆக்சிஜன்",
+      "கார்பன் டை ஆக்சைடு",
+      "நைட்ரஜன்"
+    ],
+    "answer_en": "Oxygen",
+    "answer_ta": "ஆக்சிஜன்"
+  },
+  {
+    "question_en": "Which of these is magnetic?",
+    "question_ta": "இவற்றில் எது காந்தம் கொண்டது?",
+    "options_en": [
+      "Wood",
+      "Copper",
+      "Iron",
+      "Plastic"
+    ],
+    "options_ta": [
+      "மரம்",
+      "செம்பு",
+      "இரும்பு",
+      "பிளாஸ்டிக்"
+    ],
+    "answer_en": "Iron",
+    "answer_ta": "இரும்பு"
+  },
+  {
+    "question_en": "Which instrument measures temperature?",
+    "question_ta": "வெப்பநிலையை அளக்கும் கருவி?",
+    "options_en": [
+      "Odometer",
+      "Thermometer",
+      "Hygrometer",
+      "Barometer"
+    ],
+    "options_ta": [
+      "தூரமானி",
+      "வெப்பமானி",
+      "ஈரப்பமானி",
+      "வாயுமண்டலமானி"
+    ],
+    "answer_en": "Thermometer",
+    "answer_ta": "வெப்பமானி"
+  },
+  {
+    "question_en": "Which of these is magnetic?",
+    "question_ta": "இவற்றில் எது காந்தம் கொண்டது?",
+    "options_en": [
+      "Copper",
+      "Iron",
+      "Plastic",
+      "Wood"
+    ],
+    "options_ta": [
+      "செம்பு",
+      "இரும்பு",
+      "பிளாஸ்டிக்",
+      "மரம்"
+    ],
+    "answer_en": "Iron",
+    "answer_ta": "இரும்பு"
+  },
+  {
+    "question_en": "Which of these is magnetic?",
+    "question_ta": "இவற்றில் எது காந்தம் கொண்டது?",
+    "options_en": [
+      "Iron",
+      "Copper",
+      "Plastic",
+      "Wood"
+    ],
+    "options_ta": [
+      "இரும்பு",
+      "செம்பு",
+      "பிளாஸ்டிக்",
+      "மரம்"
+    ],
+    "answer_en": "Iron",
+    "answer_ta": "இரும்பு"
+  },
+  {
+    "question_en": "Which part of plant prepares food?",
+    "question_ta": "தாவரத்தின் எந்த பகுதி உணவை தயாரிக்கிறது?",
+    "options_en": [
+      "Leaf",
+      "Flower",
+      "Stem",
+      "Root"
+    ],
+    "options_ta": [
+      "இலை",
+      "மலர்",
+      "தண்டு",
+      "வேர்"
+    ],
+    "answer_en": "Leaf",
+    "answer_ta": "இலை"
+  },
+  {
+    "question_en": "Which of these is magnetic?",
+    "question_ta": "இவற்றில் எது காந்தம் கொண்டது?",
+    "options_en": [
+      "Iron",
+      "Plastic",
+      "Wood",
+      "Copper"
+    ],
+    "options_ta": [
+      "இரும்பு",
+      "பிளாஸ்டிக்",
+      "மரம்",
+      "செம்பு"
+    ],
+    "answer_en": "Iron",
+    "answer_ta": "இரும்பு"
+  },
+  {
+    "question_en": "Which gas do we inhale for breathing?",
+    "question_ta": "உள்ளிழுக்கும் வாயு எது?",
+    "options_en": [
+      "Nitrogen",
+      "Hydrogen",
+      "Oxygen",
+      "Carbon dioxide"
+    ],
+    "options_ta": [
+      "நைட்ரஜன்",
+      "ஹைட்ரஜன்",
+      "ஆக்சிஜன்",
+      "கார்பன் டை ஆக்சைடு"
+    ],
+    "answer_en": "Oxygen",
+    "answer_ta": "ஆக்சிஜன்"
+  },
+  {
+    "question_en": "Which of these is magnetic?",
+    "question_ta": "இவற்றில் எது காந்தம் கொண்டது?",
+    "options_en": [
+      "Plastic",
+      "Iron",
+      "Copper",
+      "Wood"
+    ],
+    "options_ta": [
+      "பிளாஸ்டிக்",
+      "இரும்பு",
+      "செம்பு",
+      "மரம்"
+    ],
+    "answer_en": "Iron",
+    "answer_ta": "இரும்பு"
+  },
+  {
+    "question_en": "Which instrument measures temperature?",
+    "question_ta": "வெப்பநிலையை அளக்கும் கருவி?",
+    "options_en": [
+      "Thermometer",
+      "Odometer",
+      "Hygrometer",
+      "Barometer"
+    ],
+    "options_ta": [
+      "வெப்பமானி",
+      "தூரமானி",
+      "ஈரப்பமானி",
+      "வாயுமண்டலமானி"
+    ],
+    "answer_en": "Thermometer",
+    "answer_ta": "வெப்பமானி"
+  },
+  {
+    "question_en": "Which of these is magnetic?",
+    "question_ta": "இவற்றில் எது காந்தம் கொண்டது?",
+    "options_en": [
+      "Copper",
+      "Wood",
+      "Iron",
+      "Plastic"
+    ],
+    "options_ta": [
+      "செம்பு",
+      "மரம்",
+      "இரும்பு",
+      "பிளாஸ்டிக்"
+    ],
+    "answer_en": "Iron",
+    "answer_ta": "இரும்பு"
+  },
+  {
+    "question_en": "Which part of plant prepares food?",
+    "question_ta": "தாவரத்தின் எந்த பகுதி உணவை தயாரிக்கிறது?",
+    "options_en": [
+      "Root",
+      "Leaf",
+      "Stem",
+      "Flower"
+    ],
+    "options_ta": [
+      "வேர்",
+      "இலை",
+      "தண்டு",
+      "மலர்"
+    ],
+    "answer_en": "Leaf",
+    "answer_ta": "இலை"
+  },
+  {
+    "question_en": "Which part of plant prepares food?",
+    "question_ta": "தாவரத்தின் எந்த பகுதி உணவை தயாரிக்கிறது?",
+    "options_en": [
+      "Flower",
+      "Stem",
+      "Leaf",
+      "Root"
+    ],
+    "options_ta": [
+      "மலர்",
+      "தண்டு",
+      "இலை",
+      "வேர்"
+    ],
+    "answer_en": "Leaf",
+    "answer_ta": "இலை"
+  },
+  {
+    "question_en": "Which part of plant prepares food?",
+    "question_ta": "தாவரத்தின் எந்த பகுதி உணவை தயாரிக்கிறது?",
+    "options_en": [
+      "Leaf",
+      "Flower",
+      "Root",
+      "Stem"
+    ],
+    "options_ta": [
+      "இலை",
+      "மலர்",
+      "வேர்",
+      "தண்டு"
+    ],
+    "answer_en": "Leaf",
+    "answer_ta": "இலை"
+  },
+  {
+    "question_en": "Which instrument measures temperature?",
+    "question_ta": "வெப்பநிலையை அளக்கும் கருவி?",
+    "options_en": [
+      "Odometer",
+      "Barometer",
+      "Hygrometer",
+      "Thermometer"
+    ],
+    "options_ta": [
+      "தூரமானி",
+      "வாயுமண்டலமானி",
+      "ஈரப்பமானி",
+      "வெப்பமானி"
+    ],
+    "answer_en": "Thermometer",
+    "answer_ta": "வெப்பமானி"
+  },
+  {
+    "question_en": "Which instrument measures temperature?",
+    "question_ta": "வெப்பநிலையை அளக்கும் கருவி?",
+    "options_en": [
+      "Thermometer",
+      "Odometer",
+      "Barometer",
+      "Hygrometer"
+    ],
+    "options_ta": [
+      "வெப்பமானி",
+      "தூரமானி",
+      "வாயுமண்டலமானி",
+      "ஈரப்பமானி"
+    ],
+    "answer_en": "Thermometer",
+    "answer_ta": "வெப்பமானி"
+  },
+  {
+    "question_en": "Which part of plant prepares food?",
+    "question_ta": "தாவரத்தின் எந்த பகுதி உணவை தயாரிக்கிறது?",
+    "options_en": [
+      "Root",
+      "Stem",
+      "Leaf",
+      "Flower"
+    ],
+    "options_ta": [
+      "வேர்",
+      "தண்டு",
+      "இலை",
+      "மலர்"
+    ],
+    "answer_en": "Leaf",
+    "answer_ta": "இலை"
+  },
+  {
+    "question_en": "Which of these is magnetic?",
+    "question_ta": "இவற்றில் எது காந்தம் கொண்டது?",
+    "options_en": [
+      "Copper",
+      "Wood",
+      "Iron",
+      "Plastic"
+    ],
+    "options_ta": [
+      "செம்பு",
+      "மரம்",
+      "இரும்பு",
+      "பிளாஸ்டிக்"
+    ],
+    "answer_en": "Iron",
+    "answer_ta": "இரும்பு"
+  },
+  {
+    "question_en": "Which of these is magnetic?",
+    "question_ta": "இவற்றில் எது காந்தம் கொண்டது?",
+    "options_en": [
+      "Copper",
+      "Iron",
+      "Wood",
+      "Plastic"
+    ],
+    "options_ta": [
+      "செம்பு",
+      "இரும்பு",
+      "மரம்",
+      "பிளாஸ்டிக்"
+    ],
+    "answer_en": "Iron",
+    "answer_ta": "இரும்பு"
+  },
+  {
+    "question_en": "Which gas do we inhale for breathing?",
+    "question_ta": "உள்ளிழுக்கும் வாயு எது?",
+    "options_en": [
+      "Nitrogen",
+      "Carbon dioxide",
+      "Hydrogen",
+      "Oxygen"
+    ],
+    "options_ta": [
+      "நைட்ரஜன்",
+      "கார்பன் டை ஆக்சைடு",
+      "ஹைட்ரஜன்",
+      "ஆக்சிஜன்"
+    ],
+    "answer_en": "Oxygen",
+    "answer_ta": "ஆக்சிஜன்"
+  },
+  {
+    "question_en": "Which instrument measures temperature?",
+    "question_ta": "வெப்பநிலையை அளக்கும் கருவி?",
+    "options_en": [
+      "Barometer",
+      "Thermometer",
+      "Hygrometer",
+      "Odometer"
+    ],
+    "options_ta": [
+      "வாயுமண்டலமானி",
+      "வெப்பமானி",
+      "ஈரப்பமானி",
+      "தூரமானி"
+    ],
+    "answer_en": "Thermometer",
+    "answer_ta": "வெப்பமானி"
+  }
+]

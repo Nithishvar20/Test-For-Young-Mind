@@ -1,0 +1,542 @@
+[
+  {
+    "question_en": "What is the SI unit of force?",
+    "question_ta": "வலியின் SI அலகு எது?",
+    "options_en": [
+      "Watt",
+      "Joule",
+      "Newton",
+      "Pascal"
+    ],
+    "options_ta": [
+      "வாட்",
+      "ஜூல்",
+      "நியூட்டன்",
+      "பாஸ்கல்"
+    ],
+    "answer_en": "Newton",
+    "answer_ta": "நியூட்டன்"
+  },
+  {
+    "question_en": "Which instrument is used to measure electric current?",
+    "question_ta": "மின்னோட்டத்தை அளவிட எந்த கருவி பயன்படுத்தப்படுகிறது?",
+    "options_en": [
+      "Voltmeter",
+      "Ammeter",
+      "Galvanometer",
+      "Ohmmeter"
+    ],
+    "options_ta": [
+      "வோல்ட்மீட்டர்",
+      "அமீட்டர்",
+      "கால்வனோமீட்டர்",
+      "ஓம்மீட்டர்"
+    ],
+    "answer_en": "Ammeter",
+    "answer_ta": "அமீட்டர்"
+  },
+  {
+    "question_en": "Light travels fastest in which medium?",
+    "question_ta": "ஒளி எந்த ஊடகத்தில் அதிகபட்ச வேகத்தில் பயணிக்கிறது?",
+    "options_en": [
+      "Vacuum",
+      "Water",
+      "Glass",
+      "Air"
+    ],
+    "options_ta": [
+      "வெற்றுமை (வெய்க்)",
+      "நீர்",
+      "கண்ணாடி",
+      "காற்று"
+    ],
+    "answer_en": "Vacuum",
+    "answer_ta": "வெற்றுமை (வெய்க்)"
+  },
+  {
+    "question_en": "The acceleration due to gravity on Earth is approximately:",
+    "question_ta": "பூமியில் ஈர்க்கும் த் துலை (g) சுமார் எவ்வளவு?",
+    "options_en": [
+      "3.7 m/s^2",
+      "0 m/s^2",
+      "1.6 m/s^2",
+      "9.8 m/s^2"
+    ],
+    "options_ta": [
+      "3.7 m/s^2",
+      "0 m/s^2",
+      "1.6 m/s^2",
+      "9.8 m/s^2"
+    ],
+    "answer_en": "9.8 m/s^2",
+    "answer_ta": "9.8 m/s^2"
+  },
+  {
+    "question_en": "Unit of electric potential is:",
+    "question_ta": "மின்தொழில்நிலை (Electric potential) அலகு எது?",
+    "options_en": [
+      "Coulomb",
+      "Ohm",
+      "Volt",
+      "Ampere"
+    ],
+    "options_ta": [
+      "குலோம்ப்",
+      "ஓம்",
+      "வோல்ட்",
+      "அம்பியர்"
+    ],
+    "answer_en": "Volt",
+    "answer_ta": "வோல்ட்"
+  },
+  {
+    "question_en": "Which color has the highest frequency in visible light?",
+    "question_ta": "காணக்கூடிய ஒளியில் எந்த நிறம் அதிக அதிர்வேகத்தை கொண்டது?",
+    "options_en": [
+      "Green",
+      "Violet",
+      "Yellow",
+      "Red"
+    ],
+    "options_ta": [
+      "பச்சை",
+      "வைலட்",
+      "மஞ்சள்",
+      "சிவப்பு"
+    ],
+    "answer_en": "Violet",
+    "answer_ta": "வைலட்"
+  },
+  {
+    "question_en": "What device converts mechanical energy to electrical energy in a power plant?",
+    "question_ta": "மின்நிலையத்தில் இயந்திர சக்தியை மின்சக்தியாக மாற்றுவது எது?",
+    "options_en": [
+      "Rectifier",
+      "Motor",
+      "Generator",
+      "Transformer"
+    ],
+    "options_ta": [
+      "ரெக்டிஃபையர்",
+      "மொட்டார்",
+      "ஜெனரேட்டர்",
+      "டிரான்ஸ்பார்மர்"
+    ],
+    "answer_en": "Generator",
+    "answer_ta": "ஜெனரேட்டர்"
+  },
+  {
+    "question_en": "Which law relates voltage, current and resistance?",
+    "question_ta": "மின்வெட்டு, மின்நோட்டம் மற்றும் எதிர்ப்பு இடையிலான சட்டம் எது?",
+    "options_en": [
+      "Ohm's law",
+      "Faraday's law",
+      "Newton's law",
+      "Hooke's law"
+    ],
+    "options_ta": [
+      "ஓம் சட்டம்",
+      "பாரடே சட்டம்",
+      "நியூட்டன் சட்டம்",
+      "ஹூக் சட்டம்"
+    ],
+    "answer_en": "Ohm's law",
+    "answer_ta": "ஓம் சட்டம்"
+  },
+  {
+    "question_en": "A plane mirror forms an image at what distance for an object at distance u?",
+    "question_ta": "ஒரு த 평 மிரர் பொருள் u தன்மையில் படம் எங்கு தோற்றம்?",
+    "options_en": [
+      "No image",
+      "Image at distance u behind mirror",
+      "Image at infinity",
+      "Image at distance 2u"
+    ],
+    "options_ta": [
+      "படம் இல்லை",
+      "மிரரின் பின்புறம் u தூரத்தில்",
+      "என்றென்றும்",
+      "2u தூரத்தில்"
+    ],
+    "answer_en": "Image at distance u behind mirror",
+    "answer_ta": "மிரரின் பின்புறம் u தூரத்தில்"
+  },
+  {
+    "question_en": "Which phenomenon explains bending of light at an interface?",
+    "question_ta": "இடைமுகத்தில் ஒளியின் வளைத்தல் எந்த நிகழ்வு மூலம் விளக்கப்படுகிறது?",
+    "options_en": [
+      "Reflection",
+      "Diffraction",
+      "Interference",
+      "Refraction"
+    ],
+    "options_ta": [
+      "திரைச்சல்",
+      "விலகல்",
+      "இணைதல்",
+      "மறைவியல்"
+    ],
+    "answer_en": "Refraction",
+    "answer_ta": "மறைவியல்"
+  },
+  {
+    "question_en": "Unit of capacitance is:",
+    "question_ta": "கேபாசிட்டன்ஸ் (Capacitance) அலகு எது?",
+    "options_en": [
+      "Henry",
+      "Weber",
+      "Tesla",
+      "Farad"
+    ],
+    "options_ta": [
+      "ஹென்றி",
+      "வீபர்",
+      "டெஸ்லா",
+      "ஃபாரட்"
+    ],
+    "answer_en": "Farad",
+    "answer_ta": "ஃபாரட்"
+  },
+  {
+    "question_en": "Which particle has no net electric charge?",
+    "question_ta": "எந்த துகளிக்கு மின் சார்ஜ் இருக்காது?",
+    "options_en": [
+      "Proton",
+      "Alpha particle",
+      "Neutron",
+      "Electron"
+    ],
+    "options_ta": [
+      "ப்ரோட்டான்",
+      "ஆல்பா துகளி",
+      "நியூட்ரான்",
+      "எலக்ட்ரான்"
+    ],
+    "answer_en": "Neutron",
+    "answer_ta": "நியூட்ரான்"
+  },
+  {
+    "question_en": "What is the approximate shape of Earth's orbit?",
+    "question_ta": "பூமியின் சுற்றுப்பாதை சுமார் எப்படி இருக்கும்?",
+    "options_en": [
+      "Hyperbola",
+      "Parabola",
+      "Ellipse",
+      "Circle"
+    ],
+    "options_ta": [
+      "ஹைப்பர்போலா",
+      "பாரபோலா",
+      "ஏலிப்ஸ்",
+      "வட்டம்"
+    ],
+    "answer_en": "Ellipse",
+    "answer_ta": "ஏலிப்ஸ்"
+  },
+  {
+    "question_en": "Which metal is used for filament in incandescent bulb?",
+    "question_ta": "இண்கன்டெஸன்ட் பல்பில் ஃபிலமெண்ட் எந்த உலோகம்?",
+    "options_en": [
+      "Tungsten",
+      "Aluminium",
+      "Copper",
+      "Iron"
+    ],
+    "options_ta": [
+      "துங்க்ஸ்டன்",
+      "அலுமினியம்",
+      "தாமிரம்",
+      "இரும்பு"
+    ],
+    "answer_en": "Tungsten",
+    "answer_ta": "துங்க்ஸ்டன்"
+  },
+  {
+    "question_en": "Which wave requires a material medium to travel?",
+    "question_ta": "எந்த அலை ஒரு மையத்தை (medium) தேவைப்படுத்துகிறது?",
+    "options_en": [
+      "X-ray",
+      "Gamma ray",
+      "Light wave",
+      "Sound wave"
+    ],
+    "options_ta": [
+      "X-கதிர்",
+      "காமா கதிர்",
+      "ஒளி அலை",
+      "ஒலி அலை"
+    ],
+    "answer_en": "Sound wave",
+    "answer_ta": "ஒலி அலை"
+  },
+  {
+    "question_en": "Which quantity is a scalar?",
+    "question_ta": "பின்வரும் எந்த அளவு ஒரு ஸ்கேலர்?",
+    "options_en": [
+      "Acceleration",
+      "Velocity",
+      "Mass",
+      "Force"
+    ],
+    "options_ta": [
+      " прис",
+      "வேகம்",
+      "மாஸ்",
+      "வலி"
+    ],
+    "answer_en": "Mass",
+    "answer_ta": "மாஸ்"
+  },
+  {
+    "question_en": "SI unit of energy is:",
+    "question_ta": "ஆற்றலின் SI அலகு எது?",
+    "options_en": [
+      "Electron-volt",
+      "Joule",
+      "Calorie",
+      "Watt"
+    ],
+    "options_ta": [
+      "எலக்ட்ரான்-வோல்ட்",
+      "ஜூல்",
+      "கலோரி",
+      "வாட்"
+    ],
+    "answer_en": "Joule",
+    "answer_ta": "ஜூல்"
+  },
+  {
+    "question_en": "Which mirror produces a real and inverted image for a distant object?",
+    "question_ta": "தூர பொருளுக்கு உண்மையான மற்றும் எதிர்ப்படத்தப்படும் படம் உருவாக்கும் கண்ணாடி எது?",
+    "options_en": [
+      "Convex mirror",
+      "Concave mirror",
+      "None",
+      "Plane mirror"
+    ],
+    "options_ta": [
+      "கோன்வேக்ஸ்",
+      "கவுன்கேவ்",
+      "ஏதும் இல்லை",
+      "பிளேன் மிரர்"
+    ],
+    "answer_en": "Concave mirror",
+    "answer_ta": "கவுன்கேவ்"
+  },
+  {
+    "question_en": "Which unit measures electrical resistance?",
+    "question_ta": "மின்தடுப்பை (Resistance) அளவிடும் அலகு எது?",
+    "options_en": [
+      "Ohm",
+      "Ampere",
+      "Volt",
+      "Siemens"
+    ],
+    "options_ta": [
+      "ஓம்",
+      "அம்பியர்",
+      "வோல்ட்",
+      "ஸீமன்ஸ்"
+    ],
+    "answer_en": "Ohm",
+    "answer_ta": "ஓம்"
+  },
+  {
+    "question_en": "What happens to period of a simple pendulum if length increases?",
+    "question_ta": "ஒரு எளிய நடுங்கியின் நீளம் அதிகரித்தால், கால அவகாசம் என்ன ஆகும்?",
+    "options_en": [
+      "Becomes zero",
+      "Increases",
+      "No change",
+      "Decreases"
+    ],
+    "options_ta": [
+      "பூஜ்ஜியம்",
+      "அதிகரிக்கும்",
+      "மாற்றமில்லை",
+      "குறையும்"
+    ],
+    "answer_en": "Increases",
+    "answer_ta": "அதிகரிக்கும்"
+  },
+  {
+    "question_en": "Which phenomenon produces interference patterns?",
+    "question_ta": "ஒரு நிகழ்வு இடைமுக (interference) மாதிரிகளை உருவாக்குகிறது?",
+    "options_en": [
+      "Doppler effect",
+      "Interference of coherent waves",
+      "Compton scattering",
+      "Photoelectric effect"
+    ],
+    "options_ta": [
+      "டொப்ப்லர் விளைவு",
+      "ஒத்த அலைகளின் இடைமுகம்",
+      "காம்டன் சிதைவு",
+      "போட்டோஎலெக்ட்ரிக்"
+    ],
+    "answer_en": "Interference of coherent waves",
+    "answer_ta": "ஒத்த அலைகளின் இடைமுகம்"
+  },
+  {
+    "question_en": "What is the direction of magnetic field around a straight current-carrying wire?",
+    "question_ta": "ஒரு நேர்காணல் மின்னோட்டம் கொண்ட கம்பியின் சுற்றிலும் காந்த புலத்தின் திசை என்ன?",
+    "options_en": [
+      "Radial outward",
+      "Circles around the wire (right-hand rule)",
+      "Along the wire",
+      "Zero"
+    ],
+    "options_ta": [
+      "வெளியே நோக்கி",
+      "கம்பின் சுற்றிலும் வட்டங்கள் (வலது கை விதி)",
+      "கம்பி வழியாக",
+      "பூஜ்ஜியம்"
+    ],
+    "answer_en": "Circles around the wire (right-hand rule)",
+    "answer_ta": "கம்பின் சுற்றிலும் வட்டங்கள் (வலது கை விதி)"
+  },
+  {
+    "question_en": "Which instrument measures potential difference?",
+    "question_ta": "மின்பொருள் வேறுபாட்டை அளவிட எந்த கருவி?",
+    "options_en": [
+      "Ohmmeter",
+      "Galvanometer",
+      "Voltmeter",
+      "Ammeter"
+    ],
+    "options_ta": [
+      "ஓம்மீட்டர்",
+      "கால்வனோமீட்டர்",
+      "வோல்ட்மீட்டர்",
+      "அமீட்டர்"
+    ],
+    "answer_en": "Voltmeter",
+    "answer_ta": "வோல்ட்மீட்டர்"
+  },
+  {
+    "question_en": "Which law explains electromagnetic induction?",
+    "question_ta": "எலெக்ட்ரோமக்னெட்டிக் சிதைவியலில் எந்த சட்டம் விளக்குகிறது?",
+    "options_en": [
+      "Newton's law",
+      "Hooke's law",
+      "Faraday's law",
+      "Ohm's law"
+    ],
+    "options_ta": [
+      "நியூட்டன் சட்டம்",
+      "ஹூக் சட்டம்",
+      "பேரடை (Faraday) சட்டம்",
+      "ஓம் சட்டம்"
+    ],
+    "answer_en": "Faraday's law",
+    "answer_ta": "பேரடை (Faraday) சட்டம்"
+  },
+  {
+    "question_en": "Which unit is used for magnetic flux?",
+    "question_ta": "காந்த ஒட்டின் அலகு எது?",
+    "options_en": [
+      "Gauss",
+      "Tesla",
+      "Henry",
+      "Weber (Wb)"
+    ],
+    "options_ta": [
+      "காஸ்",
+      "டெஸ்லா",
+      "ஹென்றி",
+      "வீபர் (Wb)"
+    ],
+    "answer_en": "Weber (Wb)",
+    "answer_ta": "வீபர் (Wb)"
+  },
+  {
+    "question_en": "What type of lens is used in a magnifying glass?",
+    "question_ta": "பெரிதாக்கக் கண்ணாடியில் எந்த வகை லென்ஸ் பயன்படுத்தப்படுகிறது?",
+    "options_en": [
+      "Convex lens",
+      "Diverging lens",
+      "Plano-concave lens",
+      "Concave lens"
+    ],
+    "options_ta": [
+      "கோன்வேக்ஸ் லென்ஸ்",
+      "விதிவிலக்கு லென்ஸ்",
+      "பிளானோ-கவுன்கேவ்",
+      "கவுன்கேவ் லென்ஸ்"
+    ],
+    "answer_en": "Convex lens",
+    "answer_ta": "கோன்வேக்ஸ் லென்ஸ்"
+  },
+  {
+    "question_en": "Which phenomenon is used in radio communication?",
+    "question_ta": "ரேடியோ தொடர்பில் எந்த நிகழ்வு பயன்படுத்தப்படுகிறது?",
+    "options_en": [
+      "Seismic waves",
+      "Sound waves",
+      "Electromagnetic waves",
+      "Water waves"
+    ],
+    "options_ta": [
+      "நில அதிர்வுகள்",
+      "ஒலி அலைகள்",
+      "மின் கதிர்கள்",
+      "நீர் அலைகள்"
+    ],
+    "answer_en": "Electromagnetic waves",
+    "answer_ta": "மின் கதிர்கள்"
+  },
+  {
+    "question_en": "Which law gives capacitance of parallel plate capacitor?",
+    "question_ta": "சமமுக பிளேட் கேபாசிட்டரின் கேபாசிட்டன்ஸ் தரும் சமநிலை எது?",
+    "options_en": [
+      "C = V/q",
+      "C = qV",
+      "C = ε0 d/A",
+      "C = ε0 A/d"
+    ],
+    "options_ta": [
+      "C = V/q",
+      "C = qV",
+      "C = ε0 d/A",
+      "C = ε0 A/d"
+    ],
+    "answer_en": "C = ε0 A/d",
+    "answer_ta": "C = ε0 A/d"
+  },
+  {
+    "question_en": "Which color in visible spectrum has lowest frequency?",
+    "question_ta": "காணக்கூடிய தொகுதியில் குறைந்த அதிர்வேகத்தை கொண்ட நிறம் எது?",
+    "options_en": [
+      "Blue",
+      "Violet",
+      "Red",
+      "Green"
+    ],
+    "options_ta": [
+      "நீலம்",
+      "வைலட்",
+      "சிவப்பு",
+      "பச்சை"
+    ],
+    "answer_en": "Red",
+    "answer_ta": "சிவப்பு"
+  },
+  {
+    "question_en": "What is the focal length of a concave mirror for an object at infinity?",
+    "question_ta": "ஒரு கண் விலைவிலையில் உள்ள பொருளுக்கான கவுன்கேவ் கண்ணாடியின் நோக்க நீளம் எவ்வளவு?",
+    "options_en": [
+      "Zero",
+      "Infinite",
+      "Twice focal length",
+      "Equal to its focal length (f)"
+    ],
+    "options_ta": [
+      "பூஜ்ஜியம்",
+      "முடிவற்றது",
+      "f*2",
+      "அதன் நோக்க நீளத்துடன் சமம் (f)"
+    ],
+    "answer_en": "Equal to its focal length (f)",
+    "answer_ta": "அதன் நோக்க நீளத்துடன் சமம் (f)"
+  }
+]

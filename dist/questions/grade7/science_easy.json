@@ -1,0 +1,266 @@
+[
+  {
+    "question_en": "What is the basic unit of life?",
+    "question_ta": "உயிரின் அடிப்படை அலகு எது?",
+    "options_en": ["Cell", "Tissue", "Organ", "Organ system"],
+    "options_ta": ["உயிரணு", "திசு", "உறுப்பு", "உறுப்பு முறை"],
+    "answer_en": "Cell",
+    "answer_ta": "உயிரணு"
+  },
+  {
+    "question_en": "Which instrument is used to measure temperature?",
+    "question_ta": "வெப்பநிலையை அளவிடும் கருவி எது?",
+    "options_en": ["Barometer", "Thermometer", "Hygrometer", "Compass"],
+    "options_ta": ["வாயுமண்டலமானி", "வெப்பமானி", "ஈரப்பமானி", "திசைகாட்டி"],
+    "answer_en": "Thermometer",
+    "answer_ta": "வெப்பமானி"
+  },
+  {
+    "question_en": "Which gas do we breathe in?",
+    "question_ta": "நாம் சுவாசிக்கும் வாயு எது?",
+    "options_en": ["Carbon dioxide", "Oxygen", "Nitrogen", "Hydrogen"],
+    "options_ta": ["கார்பன் டை ஆக்சைடு", "ஆக்சிஜன்", "நைட்ரஜன்", "ஹைட்ரஜன்"],
+    "answer_en": "Oxygen",
+    "answer_ta": "ஆக்சிஜன்"
+  },
+  {
+    "question_en": "Which organ pumps blood in humans?",
+    "question_ta": "மனிதரில் இரத்தத்தை பாய்ச்சும் உறுப்பு எது?",
+    "options_en": ["Lungs", "Brain", "Heart", "Kidney"],
+    "options_ta": ["நுரையீரல்", "மூளை", "இதயம்", "சிறுநீரகம்"],
+    "answer_en": "Heart",
+    "answer_ta": "இதயம்"
+  },
+  {
+    "question_en": "Which part of plant prepares food?",
+    "question_ta": "தாவரத்தில் உணவைத் தயாரிக்கும் பகுதி எது?",
+    "options_en": ["Root", "Stem", "Leaf", "Flower"],
+    "options_ta": ["வேர்", "தண்டு", "இலை", "மலர்"],
+    "answer_en": "Leaf",
+    "answer_ta": "இலை"
+  },
+  {
+    "question_en": "Which planet is known as the Red Planet?",
+    "question_ta": "சிவப்பு கோள் என்று அழைக்கப்படுவது எது?",
+    "options_en": ["Earth", "Mars", "Jupiter", "Venus"],
+    "options_ta": ["பூமி", "செவ்வாய்", "வியாழன்", "சுக்கிரன்"],
+    "answer_en": "Mars",
+    "answer_ta": "செவ்வாய்"
+  },
+  {
+    "question_en": "Which mirror is used in vehicles as a rear-view mirror?",
+    "question_ta": "வாகனங்களில் பின்புற கண்ணாடியாக பயன்படுத்தப்படும் கண்ணாடி எது?",
+    "options_en": ["Concave", "Plane", "Convex", "Spherical"],
+    "options_ta": ["உள்தாழ்வான", "தடிமான", "வளையோட்ட", "உருண்டை"],
+    "answer_en": "Convex",
+    "answer_ta": "வளையோட்ட"
+  },
+  {
+    "question_en": "What is H2O commonly called?",
+    "question_ta": "H2O பொதுவாக என்ன அழைக்கப்படுகிறது?",
+    "options_en": ["Oxygen", "Water", "Hydrogen", "Carbon dioxide"],
+    "options_ta": ["ஆக்சிஜன்", "தண்ணீர்", "ஹைட்ரஜன்", "கார்பன் டை ஆக்சைடு"],
+    "answer_en": "Water",
+    "answer_ta": "தண்ணீர்"
+  },
+  {
+    "question_en": "Which organ helps in breathing?",
+    "question_ta": "சுவாசத்தில் உதவும் உறுப்பு எது?",
+    "options_en": ["Heart", "Lungs", "Kidney", "Liver"],
+    "options_ta": ["இதயம்", "நுரையீரல்", "சிறுநீரகம்", "கல்லீரல்"],
+    "answer_en": "Lungs",
+    "answer_ta": "நுரையீரல்"
+  },
+  {
+    "question_en": "Which gas is used by plants in photosynthesis?",
+    "question_ta": "ஒளிச்சேர்க்கையில் தாவரங்கள் பயன்படுத்தும் வாயு எது?",
+    "options_en": ["Oxygen", "Nitrogen", "Carbon dioxide", "Hydrogen"],
+    "options_ta": ["ஆக்சிஜன்", "நைட்ரஜன்", "கார்பன் டை ஆக்சைடு", "ஹைட்ரஜன்"],
+    "answer_en": "Carbon dioxide",
+    "answer_ta": "கார்பன் டை ஆக்சைடு"
+  },
+  {
+    "question_en": "What is the nearest star to Earth?",
+    "question_ta": "பூமிக்கு அருகிலுள்ள நட்சத்திரம் எது?",
+    "options_en": ["Moon", "Mars", "Sun", "Venus"],
+    "options_ta": ["சந்திரன்", "செவ்வாய்", "சூரியன்", "சுக்கிரன்"],
+    "answer_en": "Sun",
+    "answer_ta": "சூரியன்"
+  },
+  {
+    "question_en": "Which blood cells carry oxygen?",
+    "question_ta": "ஆக்சிஜனை எடுத்துச் செல்லும் இரத்த அணுக்கள் எவை?",
+    "options_en": ["RBC", "WBC", "Platelets", "Plasma"],
+    "options_ta": ["சிவப்பணுக்கள்", "வெள்ளையணுக்கள்", "தகடணுக்கள்", "பிளாஸ்மா"],
+    "answer_en": "RBC",
+    "answer_ta": "சிவப்பணுக்கள்"
+  },
+  {
+    "question_en": "Which natural satellite revolves around Earth?",
+    "question_ta": "பூமியைச் சுற்றி வரும் இயற்கை செயற்கைக்கோள் எது?",
+    "options_en": ["Mars", "Sun", "Moon", "Venus"],
+    "options_ta": ["செவ்வாய்", "சூரியன்", "சந்திரன்", "சுக்கிரன்"],
+    "answer_en": "Moon",
+    "answer_ta": "சந்திரன்"
+  },
+  {
+    "question_en": "Which is the largest planet in our solar system?",
+    "question_ta": "சூரியக் குடும்பத்தில் மிகப்பெரிய கோள் எது?",
+    "options_en": ["Earth", "Saturn", "Mars", "Jupiter"],
+    "options_ta": ["பூமி", "சனி", "செவ்வாய்", "வியாழன்"],
+    "answer_en": "Jupiter",
+    "answer_ta": "வியாழன்"
+  },
+  {
+    "question_en": "Which gas is essential for burning?",
+    "question_ta": "எரிய அவசியமான வாயு எது?",
+    "options_en": ["Carbon dioxide", "Oxygen", "Hydrogen", "Nitrogen"],
+    "options_ta": ["கார்பன் டை ஆக்சைடு", "ஆக்சிஜன்", "ஹைட்ரஜன்", "நைட்ரஜன்"],
+    "answer_en": "Oxygen",
+    "answer_ta": "ஆக்சிஜன்"
+  },
+  {
+    "question_en": "What is the unit of force?",
+    "question_ta": "வலுவின் அலகு எது?",
+    "options_en": ["Newton", "Metre", "Joule", "Watt"],
+    "options_ta": ["நியூட்டன்", "மீட்டர்", "ஜூல்", "வாட்"],
+    "answer_en": "Newton",
+    "answer_ta": "நியூட்டன்"
+  },
+  {
+    "question_en": "What is the source of energy for Earth?",
+    "question_ta": "பூமிக்கு ஆற்றலின் மூலாதாரம் எது?",
+    "options_en": ["Sun", "Moon", "Earth", "Wind"],
+    "options_ta": ["சூரியன்", "சந்திரன்", "பூமி", "காற்று"],
+    "answer_en": "Sun",
+    "answer_ta": "சூரியன்"
+  },
+  {
+    "question_en": "Which part of the cell controls all activities?",
+    "question_ta": "உயிரணுவின் அனைத்து செயல்பாடுகளையும் கட்டுப்படுத்துவது எது?",
+    "options_en": ["Cytoplasm", "Nucleus", "Mitochondria", "Ribosome"],
+    "options_ta": ["உயிரணுத் திரவம்", "அணுக்கரு", "மைட்டோகாண்ட்ரியா", "ரிபோசோம்"],
+    "answer_en": "Nucleus",
+    "answer_ta": "அணுக்கரு"
+  },
+  {
+    "question_en": "What is the SI unit of length?",
+    "question_ta": "நீளத்தின் எஸ்.ஐ. அலகு எது?",
+    "options_en": ["Metre", "Litre", "Second", "Gram"],
+    "options_ta": ["மீட்டர்", "லிட்டர்", "விநாடி", "கிராம்"],
+    "answer_en": "Metre",
+    "answer_ta": "மீட்டர்"
+  },
+  {
+    "question_en": "Which gas is the major component of air?",
+    "question_ta": "காற்றில் முக்கியமான வாயு எது?",
+    "options_en": ["Oxygen", "Carbon dioxide", "Nitrogen", "Hydrogen"],
+    "options_ta": ["ஆக்சிஜன்", "கார்பன் டை ஆக்சைடு", "நைட்ரஜன்", "ஹைட்ரஜன்"],
+    "answer_en": "Nitrogen",
+    "answer_ta": "நைட்ரஜன்"
+  },
+  {
+    "question_en": "Which process helps plants lose water as vapor?",
+    "question_ta": "தாவரங்கள் நீரை நீராவியாக இழக்கும் செயல்முறை எது?",
+    "options_en": ["Respiration", "Transpiration", "Photosynthesis", "Condensation"],
+    "options_ta": ["சுவாசம்", "நீர்உதிர்வு", "ஒளிச்சேர்க்கை", "தொகுப்பு"],
+    "answer_en": "Transpiration",
+    "answer_ta": "நீர்உதிர்வு"
+  },
+  {
+    "question_en": "Which vitamin is produced in our body by sunlight?",
+    "question_ta": "சூரிய ஒளியால் நமது உடலில் உற்பத்தியாகும் வைட்டமின் எது?",
+    "options_en": ["Vitamin A", "Vitamin D", "Vitamin C", "Vitamin B"],
+    "options_ta": ["வைட்டமின் A", "வைட்டமின் D", "வைட்டமின் C", "வைட்டமின் B"],
+    "answer_en": "Vitamin D",
+    "answer_ta": "வைட்டமின் D"
+  },
+  {
+    "question_en": "What is the hardest natural substance?",
+    "question_ta": "இயற்கையில் கடினமான பொருள் எது?",
+    "options_en": ["Gold", "Iron", "Diamond", "Quartz"],
+    "options_ta": ["தங்கம்", "இரும்பு", "வைரம்", "குவார்ட்ஸ்"],
+    "answer_en": "Diamond",
+    "answer_ta": "வைரம்"
+  },
+  {
+    "question_en": "Which organ purifies blood in humans?",
+    "question_ta": "மனிதரில் இரத்தத்தை சுத்திகரிக்கும் உறுப்பு எது?",
+    "options_en": ["Heart", "Lungs", "Kidney", "Stomach"],
+    "options_ta": ["இதயம்", "நுரையீரல்", "சிறுநீரகம்", "வயிறு"],
+    "answer_en": "Kidney",
+    "answer_ta": "சிறுநீரகம்"
+  },
+  {
+    "question_en": "Which part of the plant absorbs water?",
+    "question_ta": "தண்ணீரை உறிஞ்சும் தாவர பகுதி எது?",
+    "options_en": ["Stem", "Flower", "Leaf", "Root"],
+    "options_ta": ["தண்டு", "மலர்", "இலை", "வேர்"],
+    "answer_en": "Root",
+    "answer_ta": "வேர்"
+  },
+  {
+    "question_en": "Which metal is used in making electrical wires?",
+    "question_ta": "மின்கம்பிகளை செய்ய பயன்படுத்தப்படும் உலோகம் எது?",
+    "options_en": ["Aluminium", "Gold", "Copper", "Silver"],
+    "options_ta": ["அலுமினியம்", "தங்கம்", "செம்பு", "வெள்ளி"],
+    "answer_en": "Copper",
+    "answer_ta": "செம்பு"
+  },
+  {
+    "question_en": "What is used to test acids and bases?",
+    "question_ta": "அமிலம் மற்றும் காரங்களை சோதிக்கப் பயன்படுத்தப்படுவது எது?",
+    "options_en": ["Salt", "Litmus", "Water", "Chalk"],
+    "options_ta": ["உப்பு", "லிட்மஸ்", "தண்ணீர்", "சுண்ணாம்பு"],
+    "answer_en": "Litmus",
+    "answer_ta": "லிட்மஸ்"
+  },
+  {
+    "question_en": "What is the green pigment in leaves called?",
+    "question_ta": "இலைகளில் உள்ள பச்சை நிறம் எவ்வாறு அழைக்கப்படுகிறது?",
+    "options_en": ["Chlorophyll", "Hemoglobin", "Melanin", "Keratin"],
+    "options_ta": ["குளோரோபில்", "ஹீமோகுளோபின்", "மெலனின்", "கெராட்டின்"],
+    "answer_en": "Chlorophyll",
+    "answer_ta": "குளோரோபில்"
+  },
+  {
+    "question_en": "Which star gives light and heat to Earth?",
+    "question_ta": "பூமிக்கு ஒளி மற்றும் வெப்பம் தரும் நட்சத்திரம் எது?",
+    "options_en": ["Moon", "Venus", "Sun", "Mars"],
+    "options_ta": ["சந்திரன்", "சுக்கிரன்", "சூரியன்", "செவ்வாய்"],
+    "answer_en": "Sun",
+    "answer_ta": "சூரியன்"
+  },
+  {
+    "question_en": "What is the boiling point of water?",
+    "question_ta": "தண்ணீரின் கொதிநிலை எவ்வளவு?",
+    "options_en": ["0°C", "50°C", "100°C", "200°C"],
+    "options_ta": ["0°C", "50°C", "100°C", "200°C"],
+    "answer_en": "100°C",
+    "answer_ta": "100°C"
+  },
+  {
+    "question_en": "Which energy is obtained from moving air?",
+    "question_ta": "நகரும் காற்றில் இருந்து பெறப்படும் ஆற்றல் எது?",
+    "options_en": ["Solar energy", "Hydro energy", "Wind energy", "Thermal energy"],
+    "options_ta": ["சூரிய ஆற்றல்", "நீர்மின் ஆற்றல்", "காற்றாலை ஆற்றல்", "வெப்ப ஆற்றல்"],
+    "answer_en": "Wind energy",
+    "answer_ta": "காற்றாலை ஆற்றல்"
+  },
+  {
+    "question_en": "Which layer of Earth contains air?",
+    "question_ta": "பூமியின் எந்த அடுக்கு காற்றைக் கொண்டுள்ளது?",
+    "options_en": ["Lithosphere", "Atmosphere", "Hydrosphere", "Biosphere"],
+    "options_ta": ["நிலவள அடுக்கு", "வாயுமண்டலம்", "நீர்மண்டலம்", "உயிர்மண்டலம்"],
+    "answer_en": "Atmosphere",
+    "answer_ta": "வாயுமண்டலம்"
+  },
+  {
+    "question_en": "Which blood cells fight diseases?",
+    "question_ta": "நோய்களை எதிர்க்கும் இரத்த அணுக்கள் எவை?",
+    "options_en": ["RBC", "WBC", "Platelets", "Plasma"],
+    "options_ta": ["சிவப்பணுக்கள்", "வெள்ளையணுக்கள்", "தகடணுக்கள்", "பிளாஸ்மா"],
+    "answer_en": "WBC",
+    "answer_ta": "வெள்ளையணுக்கள்"
+  }
+]

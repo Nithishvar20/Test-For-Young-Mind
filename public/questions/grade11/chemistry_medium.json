@@ -1,0 +1,290 @@
+[
+  {
+    "question_en": "The number of protons in an atom is equal to?",
+    "question_ta": "ஒரு அணுவில் உள்ள புரோட்டான்களின் எண்ணிக்கை எதற்கு சமம்?",
+    "options_en": ["Mass number", "Atomic number", "Neutrons", "Electrons"],
+    "options_ta": ["இருப்பு எண்", "அணு எண்", "நியூட்ரான்கள்", "எலக்ட்ரான்கள்"],
+    "answer_en": "Atomic number",
+    "answer_ta": "அணு எண்"
+  },
+  {
+    "question_en": "The tendency of an atom to attract shared electrons in a chemical bond is called?",
+    "question_ta": "வேதியியல் பிணைப்பில் பகிரப்பட்ட எலக்ட்ரான்களை ஈர்க்கும் அணுவின் தன்மை எதனால் அழைக்கப்படுகிறது?",
+    "options_en": ["Electronegativity", "Ionization energy", "Electron affinity", "Valency"],
+    "options_ta": ["எலக்ட்ரோநெகட்டிவிட்டி", "அயனிகரணம் ஆற்றல்", "எலக்ட்ரான் நேசம்", "வலென்சி"],
+    "answer_en": "Electronegativity",
+    "answer_ta": "எலக்ட்ரோநெகட்டிவிட்டி"
+  },
+  {
+    "question_en": "Which type of bond is present in NaCl?",
+    "question_ta": "NaCl-ல் எத்தகைய பிணைப்பு உள்ளது?",
+    "options_en": ["Covalent bond", "Ionic bond", "Hydrogen bond", "Metallic bond"],
+    "options_ta": ["கோவாலென்ட் பிணைப்பு", "அயோனிக் பிணைப்பு", "ஹைட்ரஜன் பிணைப்பு", "மெட்டலிக் பிணைப்பு"],
+    "answer_en": "Ionic bond",
+    "answer_ta": "அயோனிக் பிணைப்பு"
+  },
+  {
+    "question_en": "Which law states that mass is neither created nor destroyed in a chemical reaction?",
+    "question_ta": "வேதியியல் வினையில் பருமன் உருவாக்கப்படவோ அழிக்கப்படவோ மாட்டாது என்று கூறும் சட்டம் எது?",
+    "options_en": ["Law of multiple proportions", "Law of conservation of mass", "Law of definite proportions", "Boyle’s law"],
+    "options_ta": ["பல விகித சட்டம்", "பருமன் நிலைத்தன்மை சட்டம்", "நிச்சய விகித சட்டம்", "பாய்லின் சட்டம்"],
+    "answer_en": "Law of conservation of mass",
+    "answer_ta": "பருமன் நிலைத்தன்மை சட்டம்"
+  },
+  {
+    "question_en": "Which gas is produced when zinc reacts with dilute HCl?",
+    "question_ta": "ஜிங்க் கச்சா HCl உடன் வினைபுரிந்தால் எது வாயு உற்பத்தியாகும்?",
+    "options_en": ["Oxygen", "Carbon dioxide", "Hydrogen", "Nitrogen"],
+    "options_ta": ["ஆக்சிஜன்", "கார்பன் டைஆக்சைடு", "ஹைட்ரஜன்", "நைட்ரஜன்"],
+    "answer_en": "Hydrogen",
+    "answer_ta": "ஹைட்ரஜன்"
+  },
+  {
+    "question_en": "Which element is the best conductor of electricity?",
+    "question_ta": "மின்சாரத்தை சிறந்த முறையில் கடத்தும் தனிமம் எது?",
+    "options_en": ["Copper", "Silver", "Aluminium", "Gold"],
+    "options_ta": ["செம்பு", "வெள்ளி", "அலுமினியம்", "தங்கம்"],
+    "answer_en": "Silver",
+    "answer_ta": "வெள்ளி"
+  },
+  {
+    "question_en": "Which organelle is responsible for photosynthesis in plants?",
+    "question_ta": "தாவரங்களில் ஒளிச்சேர்க்கைக்கு பொறுப்பான உறுப்பு எது?",
+    "options_en": ["Mitochondria", "Nucleus", "Chloroplast", "Ribosome"],
+    "options_ta": ["மைட்டோகாண்ட்ரியா", "நியூக்ளியஸ்", "குளோரோபிளாஸ்ட்", "ரைபோசோம்"],
+    "answer_en": "Chloroplast",
+    "answer_ta": "குளோரோபிளாஸ்ட்"
+  },
+  {
+    "question_en": "The chemical formula of washing soda is?",
+    "question_ta": "வாஷிங் சோடாவின் வேதியியல் சூத்திரம் என்ன?",
+    "options_en": ["Na2CO3.10H2O", "NaHCO3", "K2CO3", "CaCO3"],
+    "options_ta": ["Na2CO3.10H2O", "NaHCO3", "K2CO3", "CaCO3"],
+    "answer_en": "Na2CO3.10H2O",
+    "answer_ta": "Na2CO3.10H2O"
+  },
+  {
+    "question_en": "Which of the following is not a greenhouse gas?",
+    "question_ta": "பின்வருவனில் எது பசுமைக் கண்ணி வாயு அல்ல?",
+    "options_en": ["Carbon dioxide", "Methane", "Oxygen", "Nitrous oxide"],
+    "options_ta": ["கார்பன் டைஆக்சைடு", "மீத்தேன்", "ஆக்சிஜன்", "நைட்ரஸ் ஆக்சைடு"],
+    "answer_en": "Oxygen",
+    "answer_ta": "ஆக்சிஜன்"
+  },
+  {
+    "question_en": "Which type of mirror is used in vehicle headlights?",
+    "question_ta": "வாகன ஹெட்லைட்களில் எத்தகைய கண்ணாடி பயன்படுத்தப்படுகிறது?",
+    "options_en": ["Concave mirror", "Convex mirror", "Plane mirror", "None"],
+    "options_ta": ["உள்ளவளைந்த கண்ணாடி", "வெளிவளைந்த கண்ணாடி", "சமநிலை கண்ணாடி", "இல்லை"],
+    "answer_en": "Concave mirror",
+    "answer_ta": "உள்ளவளைந்த கண்ணாடி"
+  },
+  {
+    "question_en": "Which part of the plant carries food from leaves to other parts?",
+    "question_ta": "இலைகளிலிருந்து தாவரத்தின் பிற பகுதிகளுக்கு உணவை எடுத்துச் செல்லும் பகுதி எது?",
+    "options_en": ["Xylem", "Phloem", "Epidermis", "Root hair"],
+    "options_ta": ["சைலம்", "புளோயம்", "எபிடெர்மிஸ்", "வேர் முடிகள்"],
+    "answer_en": "Phloem",
+    "answer_ta": "புளோயம்"
+  },
+  {
+    "question_en": "The process of separating salt from seawater is called?",
+    "question_ta": "கடல்நீரிலிருந்து உப்பை பிரிக்கும் செயல்முறை எது?",
+    "options_en": ["Filtration", "Evaporation", "Condensation", "Sublimation"],
+    "options_ta": ["வடிகட்டி பிரித்தல்", "ஆவியாக்கம்", "அடர்த்தி", "உயர்த்தல்"],
+    "answer_en": "Evaporation",
+    "answer_ta": "ஆவியாக்கம்"
+  },
+  {
+    "question_en": "Which gas turns lime water milky?",
+    "question_ta": "எந்த வாயு சுண்ணாம்பு நீரை பால் நிறமாக்கும்?",
+    "options_en": ["Oxygen", "Carbon dioxide", "Nitrogen", "Hydrogen"],
+    "options_ta": ["ஆக்சிஜன்", "கார்பன் டைஆக்சைடு", "நைட்ரஜன்", "ஹைட்ரஜன்"],
+    "answer_en": "Carbon dioxide",
+    "answer_ta": "கார்பன் டைஆக்சைடு"
+  },
+  {
+    "question_en": "Which acid is present in vinegar?",
+    "question_ta": "வினிகரில் எது அமிலமாக உள்ளது?",
+    "options_en": ["Citric acid", "Lactic acid", "Acetic acid", "Sulphuric acid"],
+    "options_ta": ["சிட்ரிக் அமிலம்", "லாக்டிக் அமிலம்", "அசெட்டிக் அமிலம்", "சல்பியூரிக் அமிலம்"],
+    "answer_en": "Acetic acid",
+    "answer_ta": "அசெட்டிக் அமிலம்"
+  },
+  {
+    "question_en": "Which law explains the relationship between volume and pressure of a gas?",
+    "question_ta": "வாயுவின் அளவு மற்றும் அழுத்தத்துக்கிடையிலான தொடர்பை விளக்கும் சட்டம் எது?",
+    "options_en": ["Charles' law", "Boyle’s law", "Avogadro’s law", "Dalton’s law"],
+    "options_ta": ["சார்ல்ஸ் சட்டம்", "பாய்லின் சட்டம்", "அவோகாட்ரோ சட்டம்", "டால்டன் சட்டம்"],
+    "answer_en": "Boyle’s law",
+    "answer_ta": "பாய்லின் சட்டம்"
+  },
+  {
+    "question_en": "The pH of neutral solution is?",
+    "question_ta": "நியூட்ரல் தீர்வின் pH மதிப்பு என்ன?",
+    "options_en": ["0", "7", "14", "1"],
+    "options_ta": ["0", "7", "14", "1"],
+    "answer_en": "7",
+    "answer_ta": "7"
+  },
+  {
+    "question_en": "The main gas responsible for global warming is?",
+    "question_ta": "உலக வெப்பமயமாதலுக்கு காரணமான முக்கிய வாயு எது?",
+    "options_en": ["Oxygen", "Carbon dioxide", "Hydrogen", "Nitrogen"],
+    "options_ta": ["ஆக்சிஜன்", "கார்பன் டைஆக்சைடு", "ஹைட்ரஜன்", "நைட்ரஜன்"],
+    "answer_en": "Carbon dioxide",
+    "answer_ta": "கார்பன் டைஆக்சைடு"
+  },
+  {
+    "question_en": "Which instrument is used to measure humidity?",
+    "question_ta": "ஈரப்பதத்தை அளவிட எந்த கருவி பயன்படுத்தப்படுகிறது?",
+    "options_en": ["Barometer", "Hygrometer", "Manometer", "Thermometer"],
+    "options_ta": ["பாரோமீட்டர்", "ஈரப்பதமானி", "மானோமீட்டர்", "வெப்பமானி"],
+    "answer_en": "Hygrometer",
+    "answer_ta": "ஈரப்பதமானி"
+  },
+  {
+    "question_en": "The device used to convert solar energy into electricity is?",
+    "question_ta": "சூரிய ஆற்றலை மின்சாரமாக மாற்றும் கருவி எது?",
+    "options_en": ["Solar cell", "Transformer", "Battery", "Generator"],
+    "options_ta": ["சோலார் செல்", "டிரான்ஸ்பார்மர்", "பேட்டரி", "ஜெனரேட்டர்"],
+    "answer_en": "Solar cell",
+    "answer_ta": "சோலார் செல்"
+  },
+  {
+    "question_en": "Which acid is secreted in the human stomach?",
+    "question_ta": "மனித வயிற்றில் எது அமிலமாக சுரக்கப்படுகிறது?",
+    "options_en": ["Sulphuric acid", "Hydrochloric acid", "Nitric acid", "Acetic acid"],
+    "options_ta": ["சல்பியூரிக் அமிலம்", "ஹைட்ரோகுளோரிக் அமிலம்", "நைட்ரிக் அமிலம்", "அசெட்டிக் அமிலம்"],
+    "answer_en": "Hydrochloric acid",
+    "answer_ta": "ஹைட்ரோகுளோரிக் அமிலம்"
+  },
+  {
+    "question_en": "Which scientist proposed the planetary model of atom?",
+    "question_ta": "அணுவின் கோள மாதிரியை யார் முன்வைத்தார்?",
+    "options_en": ["J.J. Thomson", "Niels Bohr", "Rutherford", "Dalton"],
+    "options_ta": ["ஜே.ஜே. தாம்சன்", "நீல்ஸ் போர்", "ரதர்போர்ட்", "டால்டன்"],
+    "answer_en": "Niels Bohr",
+    "answer_ta": "நீல்ஸ் போர்"
+  },
+  {
+    "question_en": "Which gas is filled in electric bulbs?",
+    "question_ta": "மின்விளக்குகளில் நிரப்பப்படும் வாயு எது?",
+    "options_en": ["Oxygen", "Nitrogen", "Argon", "Carbon dioxide"],
+    "options_ta": ["ஆக்சிஜன்", "நைட்ரஜன்", "ஆர்கான்", "கார்பன் டைஆக்சைடு"],
+    "answer_en": "Argon",
+    "answer_ta": "ஆர்கான்"
+  },
+  {
+    "question_en": "Which liquid metal is used in thermometers?",
+    "question_ta": "வெப்பமானிகளில் பயன்படுத்தப்படும் திரவ உலோகம் எது?",
+    "options_en": ["Iron", "Mercury", "Aluminium", "Copper"],
+    "options_ta": ["இரும்பு", "பாராசுத்தம்", "அலுமினியம்", "செம்பு"],
+    "answer_en": "Mercury",
+    "answer_ta": "பாராசுத்தம்"
+  },
+  {
+    "question_en": "Which process converts sugar solution into alcohol?",
+    "question_ta": "சர்க்கரை கரைசலை மது ஆக மாற்றும் செயல்முறை எது?",
+    "options_en": ["Distillation", "Fermentation", "Evaporation", "Sublimation"],
+    "options_ta": ["ஆவியீடு", "காய்ச்சல்", "ஆவியாக்கம்", "உயர்த்தல்"],
+    "answer_en": "Fermentation",
+    "answer_ta": "காய்ச்சல்"
+  },
+  {
+    "question_en": "Which law explains the relation between temperature and volume of a gas at constant pressure?",
+    "question_ta": "நிலையான அழுத்தத்தில் வாயுவின் வெப்பநிலை மற்றும் அளவு தொடர்பை விளக்கும் சட்டம் எது?",
+    "options_en": ["Boyle’s law", "Charles’ law", "Avogadro’s law", "Dalton’s law"],
+    "options_ta": ["பாய்லின் சட்டம்", "சார்ல்ஸ் சட்டம்", "அவோகாட்ரோ சட்டம்", "டால்டன் சட்டம்"],
+    "answer_en": "Charles’ law",
+    "answer_ta": "சார்ல்ஸ் சட்டம்"
+  },
+  {
+    "question_en": "Which part of the human body is affected by tuberculosis?",
+    "question_ta": "காசநோய் மனித உடலில் எந்தப் பகுதியை பாதிக்கிறது?",
+    "options_en": ["Heart", "Lungs", "Liver", "Kidney"],
+    "options_ta": ["இதயம்", "நுரையீரல்", "ஈரல்", "சிறுநீரகம்"],
+    "answer_en": "Lungs",
+    "answer_ta": "நுரையீரல்"
+  },
+  {
+    "question_en": "Which device converts chemical energy into electrical energy?",
+    "question_ta": "வேதியியல் ஆற்றலை மின்சார ஆற்றலாக மாற்றும் கருவி எது?",
+    "options_en": ["Battery", "Generator", "Transformer", "Solar cell"],
+    "options_ta": ["பேட்டரி", "ஜெனரேட்டர்", "டிரான்ஸ்பார்மர்", "சோலார் செல்"],
+    "answer_en": "Battery",
+    "answer_ta": "பேட்டரி"
+  },
+  {
+    "question_en": "Which acid is used in car batteries?",
+    "question_ta": "கார் பேட்டரிகளில் எது அமிலமாக பயன்படுத்தப்படுகிறது?",
+    "options_en": ["Nitric acid", "Sulphuric acid", "Hydrochloric acid", "Carbonic acid"],
+    "options_ta": ["நைட்ரிக் அமிலம்", "சல்பியூரிக் அமிலம்", "ஹைட்ரோகுளோரிக் அமிலம்", "கார்போனிக் அமிலம்"],
+    "answer_en": "Sulphuric acid",
+    "answer_ta": "சல்பியூரிக் அமிலம்"
+  },
+  {
+    "question_en": "Which scientist discovered the neutron?",
+    "question_ta": "நியூட்ரானை கண்டுபிடித்த விஞ்ஞானி யார்?",
+    "options_en": ["Rutherford", "Chadwick", "Bohr", "Thomson"],
+    "options_ta": ["ரதர்போர்ட்", "சாட்விக்", "போர்", "தாம்சன்"],
+    "answer_en": "Chadwick",
+    "answer_ta": "சாட்விக்"
+  },
+  {
+    "question_en": "Which blood cells help in clotting?",
+    "question_ta": "இரத்த உறைதலை எது உதவுகிறது?",
+    "options_en": ["RBC", "WBC", "Platelets", "Plasma"],
+    "options_ta": ["சிவப்பு இரத்த அணுக்கள்", "வெள்ளை இரத்த அணுக்கள்", "தகடுகள்", "பிளாஸ்மா"],
+    "answer_en": "Platelets",
+    "answer_ta": "தகடுகள்"
+  },
+  {
+    "question_en": "Which type of energy is possessed by a moving body?",
+    "question_ta": "நகரும் பொருள் எத்தகைய ஆற்றலைக் கொண்டுள்ளது?",
+    "options_en": ["Potential energy", "Kinetic energy", "Chemical energy", "Heat energy"],
+    "options_ta": ["பொறுத்த ஆற்றல்", "இயக்க ஆற்றல்", "வேதியியல் ஆற்றல்", "வெப்ப ஆற்றல்"],
+    "answer_en": "Kinetic energy",
+    "answer_ta": "இயக்க ஆற்றல்"
+  },
+  {
+    "question_en": "The scientist who proposed the atomic theory is?",
+    "question_ta": "அணுக் கோட்பாட்டை முன்வைத்த விஞ்ஞானி யார்?",
+    "options_en": ["Dalton", "Bohr", "Rutherford", "Einstein"],
+    "options_ta": ["டால்டன்", "போர்", "ரதர்போர்ட்", "ஐன்ஸ்டீன்"],
+    "answer_en": "Dalton",
+    "answer_ta": "டால்டன்"
+  },
+  {
+    "question_en": "The device used to measure electric potential difference is?",
+    "question_ta": "மின்னழுத்த வேறுபாட்டை அளவிடும் கருவி எது?",
+    "options_en": ["Voltmeter", "Ammeter", "Galvanometer", "Ohmmeter"],
+    "options_ta": ["வோல்ட்மீட்டர்", "அமீட்டர்", "கல்வனோமீட்டர்", "ஓம்மீட்டர்"],
+    "answer_en": "Voltmeter",
+    "answer_ta": "வோல்ட்மீட்டர்"
+  },
+  {
+    "question_en": "Which organelle is known as the powerhouse of the cell?",
+    "question_ta": "எந்த செல்கூறு செல்லின் மின் நிலையம் என்று அழைக்கப்படுகிறது?",
+    "options_en": ["Nucleus", "Mitochondria", "Chloroplast", "Ribosome"],
+    "options_ta": ["நியூக்ளியஸ்", "மைட்டோகாண்ட்ரியா", "குளோரோபிளாஸ்ட்", "ரைபோசோம்"],
+    "answer_en": "Mitochondria",
+    "answer_ta": "மைட்டோகாண்ட்ரியா"
+  },
+  {
+    "question_en": "The process of water movement through a semi-permeable membrane is?",
+    "question_ta": "அரை ஊடுருவும் ஓரம் வழியாக நீர் நகரும் செயல்முறை எது?",
+    "options_en": ["Diffusion", "Osmosis", "Transpiration", "Filtration"],
+    "options_ta": ["விரிதல்", "ஒஸ்மோசிஸ்", "வியர்வை", "வடிகட்டி பிரித்தல்"],
+    "answer_en": "Osmosis",
+    "answer_ta": "ஒஸ்மோசிஸ்"
+  },
+  {
+    "question_en": "Which scientist discovered the electron?",
+    "question_ta": "எலக்ட்ரானை கண்டுபிடித்த விஞ்ஞானி யார்?",
+    "options_en": ["Rutherford", "Bohr", "Thomson", "Einstein"],
+    "options_ta": ["ரதர்போர்ட்", "போர்", "தாம்சன்", "ஐன்ஸ்டீன்"],
+    "answer_en": "Thomson",
+    "answer_ta": "தாம்சன்"
+  }
+]

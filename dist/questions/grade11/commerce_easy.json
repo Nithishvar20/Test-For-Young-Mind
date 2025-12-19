@@ -1,0 +1,378 @@
+[
+  {
+    "question_en": "Which of the following is not a characteristic of sole proprietorship?",
+    "question_ta": "கீழ்கண்டவற்றில் எது தனி உரிமைத்தொழிலின் பண்பல்ல?",
+    "options_en": ["Unlimited liability", "Separate legal entity", "Direct motivation", "Quick decision making"],
+    "options_ta": ["வரையறையற்ற பொறுப்பு", "சிறப்பு சட்ட அங்கீகாரம்", "நேரடி ஊக்குவிப்பு", "விரைவான முடிவு எடுப்பு"],
+    "answer_en": "Separate legal entity",
+    "answer_ta": "சிறப்பு சட்ட அங்கீகாரம்"
+  },
+  {
+    "question_en": "Which document is known as the charter of the company?",
+    "question_ta": "நிறுவனத்தின் சாசனம் என அழைக்கப்படும் ஆவணம் எது?",
+    "options_en": ["Articles of Association", "Memorandum of Association", "Prospectus", "Annual Report"],
+    "options_ta": ["கூட்டறிக்கை விதிகள்", "கூட்டறிக்கை நினைவுப்பதிவு", "விழிப்புணர்வு", "ஆண்டறிக்கை"],
+    "answer_en": "Memorandum of Association",
+    "answer_ta": "கூட்டறிக்கை நினைவுப்பதிவு"
+  },
+  {
+    "question_en": "Who regulates the stock exchanges in India?",
+    "question_ta": "இந்தியாவில் பங்குச் சந்தைகளை யார் ஒழுங்குபடுத்துகிறார்கள்?",
+    "options_en": ["RBI", "SEBI", "IRDAI", "Finance Ministry"],
+    "options_ta": ["இந்திய ரிசர்வ் வங்கி", "சீபி (SEBI)", "காப்பீட்டு ஒழுங்குமுறை ஆணையம்", "நிதி அமைச்சகம்"],
+    "answer_en": "SEBI",
+    "answer_ta": "சீபி (SEBI)"
+  },
+  {
+    "question_en": "Double taxation is a disadvantage of which form of business organization?",
+    "question_ta": "இரட்டை வரிவிதிப்பு எது போன்ற தொழில் அமைப்பின் குறையாகும்?",
+    "options_en": ["Partnership", "Sole proprietorship", "Company", "HUF"],
+    "options_ta": ["கூட்டாண்மை", "தனி உரிமை", "நிறுவனம்", "இந்துகுடும்ப நிறுவனம்"],
+    "answer_en": "Company",
+    "answer_ta": "நிறுவனம்"
+  },
+  {
+    "question_en": "Which of the following is not a document of partnership firm?",
+    "question_ta": "கீழ்கண்டவற்றில் எது கூட்டாண்மை நிறுவன ஆவணம் அல்ல?",
+    "options_en": ["Partnership Deed", "Certificate of Incorporation", "Profit sharing ratio", "Capital contribution"],
+    "options_ta": ["கூட்டாண்மை பத்திரம்", "நிறுவல் சான்றிதழ்", "லாபப் பங்கீடு விகிதம்", "மூலதன பங்களிப்பு"],
+    "answer_en": "Certificate of Incorporation",
+    "answer_ta": "நிறுவல் சான்றிதழ்"
+  },
+  {
+    "question_en": "Which type of partner contributes capital but does not take part in business?",
+    "question_ta": "மூலதனத்தை பங்களிப்பவர் ஆனால் வணிகத்தில் பங்கேற்காத பங்குதாரர் யார்?",
+    "options_en": ["Active partner", "Sleeping partner", "Nominal partner", "Minor partner"],
+    "options_ta": ["செயலில் உள்ள பங்குதாரர்", "தூங்கும் பங்குதாரர்", "பெயரளவு பங்குதாரர்", "சிறார்பங்குதாரர்"],
+    "answer_en": "Sleeping partner",
+    "answer_ta": "தூங்கும் பங்குதாரர்"
+  },
+  {
+    "question_en": "Which business form is most suitable for large scale operations?",
+    "question_ta": "பெரும் அளவிலான செயல்பாடுகளுக்கு எது மிகச் சரியான தொழில் அமைப்பு?",
+    "options_en": ["Sole proprietorship", "Partnership", "Joint stock company", "Joint Hindu family business"],
+    "options_ta": ["தனி உரிமை", "கூட்டாண்மை", "கூட்டு பங்கு நிறுவனம்", "இந்துகுடும்ப வணிகம்"],
+    "answer_en": "Joint stock company",
+    "answer_ta": "கூட்டு பங்கு நிறுவனம்"
+  },
+  {
+    "question_en": "Which of the following is not a type of cooperative society?",
+    "question_ta": "கீழ்கண்டவற்றில் எது கூட்டுறவு சங்க வகை அல்ல?",
+    "options_en": ["Credit society", "Marketing society", "Consumer society", "Private society"],
+    "options_ta": ["கடன் சங்கம்", "மார்க்கெட்டிங் சங்கம்", "நுகர்வோர் சங்கம்", "தனியார் சங்கம்"],
+    "answer_en": "Private society",
+    "answer_ta": "தனியார் சங்கம்"
+  },
+  {
+    "question_en": "Which is the oldest form of business organization?",
+    "question_ta": "எந்தது பழமையான தொழில் அமைப்பாகும்?",
+    "options_en": ["Sole proprietorship", "Partnership", "Joint stock company", "Cooperative society"],
+    "options_ta": ["தனி உரிமை", "கூட்டாண்மை", "கூட்டு பங்கு நிறுவனம்", "கூட்டுறவு சங்கம்"],
+    "answer_en": "Sole proprietorship",
+    "answer_ta": "தனி உரிமை"
+  },
+  {
+    "question_en": "Which type of risk is not insurable?",
+    "question_ta": "எந்த வகை அபாயம் காப்பீடு செய்ய முடியாதது?",
+    "options_en": ["Pure risk", "Speculative risk", "Financial risk", "Operational risk"],
+    "options_ta": ["சுத்த அபாயம்", "ஊக அபாயம்", "நிதி அபாயம்", "செயல்பாட்டு அபாயம்"],
+    "answer_en": "Speculative risk",
+    "answer_ta": "ஊக அபாயம்"
+  },
+  {
+    "question_en": "Which principle of insurance states that insured must take reasonable care?",
+    "question_ta": "காப்பீட்டின் எந்தக் கொள்கை காப்பீட்டாளர் நியாயமான கவனத்தை எடுக்க வேண்டும் என்கிறது?",
+    "options_en": ["Insurable interest", "Utmost good faith", "Proximate cause", "Mitigation of loss"],
+    "options_ta": ["காப்பீடு செய்யக்கூடிய நலன்", "அதிகபட்ச நல்லநம்பிக்கை", "அருகிய காரணம்", "இழப்பை குறைத்தல்"],
+    "answer_en": "Mitigation of loss",
+    "answer_ta": "இழப்பை குறைத்தல்"
+  },
+  {
+    "question_en": "Which type of banking provides only basic services without physical branches?",
+    "question_ta": "எந்த வகை வங்கி உடல் கிளைகள் இல்லாமல் அடிப்படை சேவைகளை மட்டுமே வழங்குகிறது?",
+    "options_en": ["Retail banking", "Virtual banking", "Universal banking", "Development banking"],
+    "options_ta": ["சில்லறை வங்கி", "மெய்நிகர் வங்கி", "பன்முக வங்கி", "வளர்ச்சி வங்கி"],
+    "answer_en": "Virtual banking",
+    "answer_ta": "மெய்நிகர் வங்கி"
+  },
+  {
+    "question_en": "Which document is required to start a public company?",
+    "question_ta": "ஒரு பொது நிறுவனத்தைத் தொடங்க எந்த ஆவணம் தேவை?",
+    "options_en": ["Prospectus", "Partnership deed", "Trade license", "Aadhaar"],
+    "options_ta": ["விழிப்புணர்வு", "கூட்டாண்மை பத்திரம்", "வர்த்தக உரிமம்", "ஆதார்"],
+    "answer_en": "Prospectus",
+    "answer_ta": "விழிப்புணர்வு"
+  },
+  {
+    "question_en": "Which of the following is not a business service?",
+    "question_ta": "கீழ்கண்டவற்றில் எது வணிக சேவை அல்ல?",
+    "options_en": ["Banking", "Insurance", "Warehousing", "Manufacturing"],
+    "options_ta": ["வங்கி", "காப்பீடு", "கிடங்கு", "உற்பத்தி"],
+    "answer_en": "Manufacturing",
+    "answer_ta": "உற்பத்தி"
+  },
+  {
+    "question_en": "Which of the following is a capital market instrument?",
+    "question_ta": "கீழ்கண்டவற்றில் எது மூலதன சந்தை கருவியாகும்?",
+    "options_en": ["Commercial paper", "Treasury bill", "Debenture", "Certificate of deposit"],
+    "options_ta": ["கமர்ஷியல் பேப்பர்", "திரேஷுரி பில்", "டெபெஞ்சர்", "வைப்பு சான்றிதழ்"],
+    "answer_en": "Debenture",
+    "answer_ta": "டெபெஞ்சர்"
+  },
+  {
+    "question_en": "Which function of management ensures right people at right job?",
+    "question_ta": "நிர்வாகத்தின் எந்தச் செயல்பாடு சரியான பணிக்கு சரியான நபர்களை உறுதி செய்கிறது?",
+    "options_en": ["Planning", "Staffing", "Controlling", "Directing"],
+    "options_ta": ["திட்டமிடல்", "பணியாளர் நியமனம்", "கட்டுப்படுத்தல்", "வழிநடத்தல்"],
+    "answer_en": "Staffing",
+    "answer_ta": "பணியாளர் நியமனம்"
+  },
+  {
+    "question_en": "Who introduced the concept of ‘Scientific Management’?",
+    "question_ta": "‘அறிவியல் மேலாண்மை’ என்ற கருத்தை யார் அறிமுகப்படுத்தினார்?",
+    "options_en": ["Henry Fayol", "F.W. Taylor", "Max Weber", "Peter Drucker"],
+    "options_ta": ["ஹென்றி ஃபயோல்", "எப்.டபிள்யூ. டெய்லர்", "மேக்ஸ் வெபர்", "பீட்டர் ட்ரக்கர்"],
+    "answer_en": "F.W. Taylor",
+    "answer_ta": "எப்.டபிள்யூ. டெய்லர்"
+  },
+  {
+    "question_en": "Which management principle emphasizes ‘unity of command’?",
+    "question_ta": "எந்த மேலாண்மை கொள்கை ‘கட்டளை ஒற்றுமை’ என்பதை வலியுறுத்துகிறது?",
+    "options_en": ["Scalar chain", "Unity of direction", "Unity of command", "Centralisation"],
+    "options_ta": ["ஸ்கேலர் சங்கிலி", "திசை ஒற்றுமை", "கட்டளை ஒற்றுமை", "மையப்படுத்தல்"],
+    "answer_en": "Unity of command",
+    "answer_ta": "கட்டளை ஒற்றுமை"
+  },
+  {
+    "question_en": "Which of the following is not a characteristic of sole proprietorship?",
+    "question_ta": "கீழ்கண்டவற்றில் எது தனி உரிமைத்தொழிலின் பண்பல்ல?",
+    "options_en": ["Unlimited liability", "Separate legal entity", "Direct motivation", "Quick decision making"],
+    "options_ta": ["வரையறையற்ற பொறுப்பு", "சிறப்பு சட்ட அங்கீகாரம்", "நேரடி ஊக்குவிப்பு", "விரைவான முடிவு எடுப்பு"],
+    "answer_en": "Separate legal entity",
+    "answer_ta": "சிறப்பு சட்ட அங்கீகாரம்"
+  },
+  {
+    "question_en": "Which document is known as the charter of the company?",
+    "question_ta": "நிறுவனத்தின் சாசனம் என அழைக்கப்படும் ஆவணம் எது?",
+    "options_en": ["Articles of Association", "Memorandum of Association", "Prospectus", "Annual Report"],
+    "options_ta": ["கூட்டறிக்கை விதிகள்", "கூட்டறிக்கை நினைவுப்பதிவு", "விழிப்புணர்வு", "ஆண்டறிக்கை"],
+    "answer_en": "Memorandum of Association",
+    "answer_ta": "கூட்டறிக்கை நினைவுப்பதிவு"
+  },
+  {
+    "question_en": "Who regulates the stock exchanges in India?",
+    "question_ta": "இந்தியாவில் பங்குச் சந்தைகளை யார் ஒழுங்குபடுத்துகிறார்கள்?",
+    "options_en": ["RBI", "SEBI", "IRDAI", "Finance Ministry"],
+    "options_ta": ["இந்திய ரிசர்வ் வங்கி", "சீபி (SEBI)", "காப்பீட்டு ஒழுங்குமுறை ஆணையம்", "நிதி அமைச்சகம்"],
+    "answer_en": "SEBI",
+    "answer_ta": "சீபி (SEBI)"
+  },
+  {
+    "question_en": "Double taxation is a disadvantage of which form of business organization?",
+    "question_ta": "இரட்டை வரிவிதிப்பு எது போன்ற தொழில் அமைப்பின் குறையாகும்?",
+    "options_en": ["Partnership", "Sole proprietorship", "Company", "HUF"],
+    "options_ta": ["கூட்டாண்மை", "தனி உரிமை", "நிறுவனம்", "இந்துகுடும்ப நிறுவனம்"],
+    "answer_en": "Company",
+    "answer_ta": "நிறுவனம்"
+  },
+  {
+    "question_en": "Which of the following is not a document of partnership firm?",
+    "question_ta": "கீழ்கண்டவற்றில் எது கூட்டாண்மை நிறுவன ஆவணம் அல்ல?",
+    "options_en": ["Partnership Deed", "Certificate of Incorporation", "Profit sharing ratio", "Capital contribution"],
+    "options_ta": ["கூட்டாண்மை பத்திரம்", "நிறுவல் சான்றிதழ்", "லாபப் பங்கீடு விகிதம்", "மூலதன பங்களிப்பு"],
+    "answer_en": "Certificate of Incorporation",
+    "answer_ta": "நிறுவல் சான்றிதழ்"
+  },
+  {
+    "question_en": "Which type of partner contributes capital but does not take part in business?",
+    "question_ta": "மூலதனத்தை பங்களிப்பவர் ஆனால் வணிகத்தில் பங்கேற்காத பங்குதாரர் யார்?",
+    "options_en": ["Active partner", "Sleeping partner", "Nominal partner", "Minor partner"],
+    "options_ta": ["செயலில் உள்ள பங்குதாரர்", "தூங்கும் பங்குதாரர்", "பெயரளவு பங்குதாரர்", "சிறார்பங்குதாரர்"],
+    "answer_en": "Sleeping partner",
+    "answer_ta": "தூங்கும் பங்குதாரர்"
+  },
+  {
+    "question_en": "Which business form is most suitable for large scale operations?",
+    "question_ta": "பெரும் அளவிலான செயல்பாடுகளுக்கு எது மிகச் சரியான தொழில் அமைப்பு?",
+    "options_en": ["Sole proprietorship", "Partnership", "Joint stock company", "Joint Hindu family business"],
+    "options_ta": ["தனி உரிமை", "கூட்டாண்மை", "கூட்டு பங்கு நிறுவனம்", "இந்துகுடும்ப வணிகம்"],
+    "answer_en": "Joint stock company",
+    "answer_ta": "கூட்டு பங்கு நிறுவனம்"
+  },
+  {
+    "question_en": "Which of the following is not a type of cooperative society?",
+    "question_ta": "கீழ்கண்டவற்றில் எது கூட்டுறவு சங்க வகை அல்ல?",
+    "options_en": ["Credit society", "Marketing society", "Consumer society", "Private society"],
+    "options_ta": ["கடன் சங்கம்", "மார்க்கெட்டிங் சங்கம்", "நுகர்வோர் சங்கம்", "தனியார் சங்கம்"],
+    "answer_en": "Private society",
+    "answer_ta": "தனியார் சங்கம்"
+  },
+  {
+    "question_en": "Which is the oldest form of business organization?",
+    "question_ta": "எந்தது பழமையான தொழில் அமைப்பாகும்?",
+    "options_en": ["Sole proprietorship", "Partnership", "Joint stock company", "Cooperative society"],
+    "options_ta": ["தனி உரிமை", "கூட்டாண்மை", "கூட்டு பங்கு நிறுவனம்", "கூட்டுறவு சங்கம்"],
+    "answer_en": "Sole proprietorship",
+    "answer_ta": "தனி உரிமை"
+  },
+  {
+    "question_en": "Which type of risk is not insurable?",
+    "question_ta": "எந்த வகை அபாயம் காப்பீடு செய்ய முடியாதது?",
+    "options_en": ["Pure risk", "Speculative risk", "Financial risk", "Operational risk"],
+    "options_ta": ["சுத்த அபாயம்", "ஊக அபாயம்", "நிதி அபாயம்", "செயல்பாட்டு அபாயம்"],
+    "answer_en": "Speculative risk",
+    "answer_ta": "ஊக அபாயம்"
+  },
+  {
+    "question_en": "Which principle of insurance states that insured must take reasonable care?",
+    "question_ta": "காப்பீட்டின் எந்தக் கொள்கை காப்பீட்டாளர் நியாயமான கவனத்தை எடுக்க வேண்டும் என்கிறது?",
+    "options_en": ["Insurable interest", "Utmost good faith", "Proximate cause", "Mitigation of loss"],
+    "options_ta": ["காப்பீடு செய்யக்கூடிய நலன்", "அதிகபட்ச நல்லநம்பிக்கை", "அருகிய காரணம்", "இழப்பை குறைத்தல்"],
+    "answer_en": "Mitigation of loss",
+    "answer_ta": "இழப்பை குறைத்தல்"
+  },
+  {
+    "question_en": "Which type of banking provides only basic services without physical branches?",
+    "question_ta": "எந்த வகை வங்கி உடல் கிளைகள் இல்லாமல் அடிப்படை சேவைகளை மட்டுமே வழங்குகிறது?",
+    "options_en": ["Retail banking", "Virtual banking", "Universal banking", "Development banking"],
+    "options_ta": ["சில்லறை வங்கி", "மெய்நிகர் வங்கி", "பன்முக வங்கி", "வளர்ச்சி வங்கி"],
+    "answer_en": "Virtual banking",
+    "answer_ta": "மெய்நிகர் வங்கி"
+  },
+  {
+    "question_en": "Which document is required to start a public company?",
+    "question_ta": "ஒரு பொது நிறுவனத்தைத் தொடங்க எந்த ஆவணம் தேவை?",
+    "options_en": ["Prospectus", "Partnership deed", "Trade license", "Aadhaar"],
+    "options_ta": ["விழிப்புணர்வு", "கூட்டாண்மை பத்திரம்", "வர்த்தக உரிமம்", "ஆதார்"],
+    "answer_en": "Prospectus",
+    "answer_ta": "விழிப்புணர்வு"
+  },
+  {
+    "question_en": "Which of the following is not a business service?",
+    "question_ta": "கீழ்கண்டவற்றில் எது வணிக சேவை அல்ல?",
+    "options_en": ["Banking", "Insurance", "Warehousing", "Manufacturing"],
+    "options_ta": ["வங்கி", "காப்பீடு", "கிடங்கு", "உற்பத்தி"],
+    "answer_en": "Manufacturing",
+    "answer_ta": "உற்பத்தி"
+  },
+  {
+    "question_en": "Which of the following is a capital market instrument?",
+    "question_ta": "கீழ்கண்டவற்றில் எது மூலதன சந்தை கருவியாகும்?",
+    "options_en": ["Commercial paper", "Treasury bill", "Debenture", "Certificate of deposit"],
+    "options_ta": ["கமர்ஷியல் பேப்பர்", "திரேஷுரி பில்", "டெபெஞ்சர்", "வைப்பு சான்றிதழ்"],
+    "answer_en": "Debenture",
+    "answer_ta": "டெபெஞ்சர்"
+  },
+  {
+    "question_en": "Which function of management ensures right people at right job?",
+    "question_ta": "நிர்வாகத்தின் எந்தச் செயல்பாடு சரியான பணிக்கு சரியான நபர்களை உறுதி செய்கிறது?",
+    "options_en": ["Planning", "Staffing", "Controlling", "Directing"],
+    "options_ta": ["திட்டமிடல்", "பணியாளர் நியமனம்", "கட்டுப்படுத்தல்", "வழிநடத்தல்"],
+    "answer_en": "Staffing",
+    "answer_ta": "பணியாளர் நியமனம்"
+  },
+  {
+    "question_en": "Who introduced the concept of ‘Scientific Management’?",
+    "question_ta": "‘அறிவியல் மேலாண்மை’ என்ற கருத்தை யார் அறிமுகப்படுத்தினார்?",
+    "options_en": ["Henry Fayol", "F.W. Taylor", "Max Weber", "Peter Drucker"],
+    "options_ta": ["ஹென்றி ஃபயோல்", "எப்.டபிள்யூ. டெய்லர்", "மேக்ஸ் வெபர்", "பீட்டர் ட்ரக்கர்"],
+    "answer_en": "F.W. Taylor",
+    "answer_ta": "எப்.டபிள்யூ. டெய்லர்"
+  },
+  {
+    "question_en": "Which management principle emphasizes ‘unity of command’?",
+    "question_ta": "எந்த மேலாண்மை கொள்கை ‘கட்டளை ஒற்றுமை’ என்பதை வலியுறுத்துகிறது?",
+    "options_en": ["Scalar chain", "Unity of direction", "Unity of command", "Centralisation"],
+    "options_ta": ["ஸ்கேலர் சங்கிலி", "திசை ஒற்றுமை", "கட்டளை ஒற்றுமை", "மையப்படுத்தல்"],
+    "answer_en": "Unity of command",
+    "answer_ta": "கட்டளை ஒற்றுமை"
+  },
+  {
+    "question_en": "Which of the following is a mode of foreign direct investment?",
+    "question_ta": "பின்வருவன்களில் எது நேரடி வெளிநாட்டு முதலீட்டின் ஒரு முறை?",
+    "options_en": ["Portfolio investment", "Joint venture", "Foreign portfolio bonds", "Foreign mutual funds"],
+    "options_ta": ["போர்ட்ஃபோலியோ முதலீடு", "இணை முயற்சி", "வெளிநாட்டு போர்ட்ஃபோலியோ பாஸ்", "வெளிநாட்டு ம்யூச்சுவல் ஃபண்டுகள்"],
+    "answer_en": "Joint venture",
+    "answer_ta": "இணை முயற்சி"
+  },
+  {
+    "question_en": "Which international body deals with trade rules among countries?",
+    "question_ta": "நாடுகளுக்கு இடையேயான வர்த்தக விதிகளைக் கையாளும் சர்வ்டி அமைப்பு எது?",
+    "options_en": ["IMF", "WTO", "World Bank", "UNESCO"],
+    "options_ta": ["IMF", "WTO", "உலக வங்கி", "UNESCO"],
+    "answer_en": "WTO",
+    "answer_ta": "WTO"
+  },
+  {
+    "question_en": "Which is an example of negotiable instrument?",
+    "question_ta": "பரிமாற்றபடக்கமான ஆவணத்தின் உதாரணம் எது?",
+    "options_en": ["Invoice", "Cheque", "Receipt", "Quotation"],
+    "options_ta": ["விலைப்பட்டியல்", "காசோலை", "ரிசீட்", "கோடிஷன்"],
+    "answer_en": "Cheque",
+    "answer_ta": "காசோலை"
+  },
+  {
+    "question_en": "Which tax was subsumed into GST in India?",
+    "question_ta": "இந்தியாவில் எது GST-இல் ஒருங்கிணைக்கப்பட்டது?",
+    "options_en": ["Income Tax", "Excise Duty", "Wealth Tax", "Property Tax"],
+    "options_ta": ["வருமானவரி", "சூதான வரி", "பணம் செல்வ வரி", "உற்பத்தியாளர் வரி"],
+    "answer_en": "Excise Duty",
+    "answer_ta": "சூதான வரி"
+  },
+  {
+    "question_en": "Which e-commerce model involves transactions between businesses?",
+    "question_ta": "எந்த மின்னணு வர்த்தக மாதிரி நிறுவனங்களுக்கிடையிலான பரிவர்த்தனையை கொண்டுள்ளது?",
+    "options_en": ["B2B", "B2C", "C2C", "C2B"],
+    "options_ta": ["B2B", "B2C", "C2C", "C2B"],
+    "answer_en": "B2B",
+    "answer_ta": "B2B"
+  },
+  {
+    "question_en": "What does ‘FDI’ stand for?",
+    "question_ta": "‘FDI’ என்பது என்னை குறிக்கும்?",
+    "options_en": ["Foreign Debt Investment", "Foreign Direct Investment", "Financial Domestic Investment", "Federal Direct Investment"],
+    "options_ta": ["வெளிநாட்டு கடன் முதலீடு", "வெளிநாட்டு நேரடி முதலீடு", "நிதி உள்ளக முதலீடு", "சூடான நேரடி முதலீடு"],
+    "answer_en": "Foreign Direct Investment",
+    "answer_ta": "வெளிநாட்டு நேரடி முதலீடு"
+  },
+  {
+    "question_en": "Which is a non-banking financial company (NBFC) activity?",
+    "question_ta": "வங்கி அல்லா நிதி நிறுவனத்தின் (NBFC) செயல்பாட்டில் எது அடங்கும்?",
+    "options_en": ["Accepting deposits withdrawable by cheque", "Providing loans and advances", "Issuing currency", "Maintaining reserve ratio"],
+    "options_ta": ["சோறு çek மூலம் திரும்ப பெறக்கூடிய வைப்பு ஏற்றுக்கொள்வது", "கடன்கள் மற்றும் முன்வைப்பு வழங்குதல்", "நாணயத்தை கூர்தல்", "ஒதுக்கீட்டு விகிதம் பேணுதல்"],
+    "answer_en": "Providing loans and advances",
+    "answer_ta": "கடன்கள் மற்றும் முன்வைப்பு வழங்குதல்"
+  },
+  {
+    "question_en": "Which index is a barometer of Indian stock market (sensex related)?",
+    "question_ta": "இந்திய பங்கு சந்தையின் பரிமாணத்தை அடையாளப்படுத்தும் குறியீடு எது (sensex உடன் தொடர்புடையது)?",
+    "options_en": ["Nifty 50", "Sensex (BSE)", "Dow Jones", "FTSE 100"],
+    "options_ta": ["நிஃப்டி 50", "சென்செக்ஸ் (BSE)", "டவ் ஜோன்ஸ்", "FTSE 100"],
+    "answer_en": "Sensex (BSE)",
+    "answer_ta": "சென்செக்ஸ் (BSE)"
+  },
+  {
+    "question_en": "Which is a primary market activity?",
+    "question_ta": "எது முதன்மை சந்தை செயல்பாடு?",
+    "options_en": ["Trading of existing shares", "Issuance of new shares (IPO)", "Stockbroking", "Secondary market trading"],
+    "options_ta": ["உள்ளாட்சி பங்குகள் வர்த்தகம்", "புதிய பங்குகள் வெளியீடு (IPO)", "பங்கு சலுபாக்குதல்", "இரண்டமை மறை சந்தை வர்த்தகம்"],
+    "answer_en": "Issuance of new shares (IPO)",
+    "answer_ta": "புதிய பங்குகள் வெளியீடு (IPO)"
+  },
+  {
+    "question_en": "Which policy tool is used by RBI to control money supply by changing bank reserves?",
+    "question_ta": "வங்கி பணவளத்தை மாற்றுவதன் மூலம் பணவகை கட்டுப்படுத்த RBI எந்த கொள்கை கருவியை பயன்படுத்துகிறது?",
+    "options_en": ["Open Market Operations", "CRR/SLR changes", "Moral suasion", "Fiscal deficit control"],
+    "options_ta": ["திறந்த சந்தை செயல்பாடுகள்", "CRR/SLR மாற்றங்கள்", "நெறிமுறை அழுத்தம்", "நிதி деஃபிசிட் கட்டுப்பாடு"],
+    "answer_en": "CRR/SLR changes",
+    "answer_ta": "CRR/SLR மாற்றங்கள்"
+  },
+  {
+    "question_en": "Which document contains terms and conditions for accepting deposits in a bank?",
+    "question_ta": "வங்கியில் வைப்புகளை ஏற்கும் விதிமுறைகள் மற்றும் நிபந்தனைகள் எந்த ஆவணத்தில் உள்ளன?",
+    "options_en": ["Passbook", "Deposit receipt", "Bank’s deposit policy / agreement", "Cheque book"],
+    "options_ta": ["பாஸ்புக்", "வைப்பு ரிசீட்", "வங்கியின் வைப்பு கொள்கை/ஒப்பந்தம்", "காசோலை புத்தகம்"],
+    "answer_en": "Bank’s deposit policy / agreement",
+    "answer_ta": "வங்கியின் வைப்பு கொள்கை/ஒப்பந்தம்"
+  }
+]

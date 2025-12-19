@@ -1,0 +1,902 @@
+[
+  {
+    "question_en": "Combine using relative clause: 'I met a man. He is a doctor.'",
+    "question_ta": "relative clause பயன்படுத்தி இணைத்தல்: 'I met a man. He is a doctor.'",
+    "options_en": [
+      "I met a man who is a doctor.",
+      "I met a man whom is a doctor.",
+      "I met a man which is a doctor.",
+      "I met a man be a doctor."
+    ],
+    "options_ta": [
+      "நான் ஒரு மனிதரை சந்தித்தேன் அவர் டாக்டர்",
+      "பிழை",
+      "பிழை",
+      "பிழை"
+    ],
+    "answer_en": "I met a man who is a doctor.",
+    "answer_ta": "I met a man who is a doctor."
+  },
+  {
+    "question_en": "Why is Don Quixote considered a tragicomic figure?",
+    "question_ta": "டான் க்விக்க்ஸோட் ஏன் த்ராஜிகோமிக் பாத்திரம் என்று கருதப்படுகிறார்?",
+    "options_en": [
+      "He is purely evil",
+      "He is both foolish and noble in intentions",
+      "He is a king",
+      "He is a villain"
+    ],
+    "options_ta": [
+      "அவன் pura evil",
+      "அவன் முட்டாள் மற்றும் உயர்ந்த நோக்கங்கள் இரண்டையும் கொண்டவர்",
+      "அவன் ஒரு மன்னர்",
+      "அவன் குற்றவதி"
+    ],
+    "answer_en": "He is both foolish and noble in intentions",
+    "answer_ta": "அவன் முட்டாள் மற்றும் உயர்ந்த நோக்கங்கள் இரண்டையும் கொண்டவர்"
+  },
+  {
+    "question_en": "Combine using relative clause: 'I met a man. He is a doctor.'",
+    "question_ta": "relative clause பயன்படுத்தி இணைத்தல்: 'I met a man. He is a doctor.'",
+    "options_en": [
+      "I met a man whom is a doctor.",
+      "I met a man who is a doctor.",
+      "I met a man be a doctor.",
+      "I met a man which is a doctor."
+    ],
+    "options_ta": [
+      "பிழை",
+      "நான் ஒரு மனிதரை சந்தித்தேன் அவர் டாக்டர்",
+      "பிழை",
+      "பிழை"
+    ],
+    "answer_en": "I met a man who is a doctor.",
+    "answer_ta": "I met a man who is a doctor."
+  },
+  {
+    "question_en": "Infer meaning: If a character 'sags his shoulders', he is likely to be ___",
+    "question_ta": "ஒரு பாத்திரம் 'அவன் தோள்களை கீழே தள்ளுகிறான்' என்றால் அவர் எப்படிப் இருப்பார்?",
+    "options_en": [
+      "angry",
+      "very happy",
+      "disappointed or sad",
+      "energetic"
+    ],
+    "options_ta": [
+      "கோபமாக",
+      "மிக சந்தோஷமாக",
+      "விஷமா அல்லது சோகமாக",
+      "ஆற்றல்மிக்க"
+    ],
+    "answer_en": "disappointed or sad",
+    "answer_ta": "disappointed or sad"
+  },
+  {
+    "question_en": "Combine using relative clause: 'I met a man. He is a doctor.'",
+    "question_ta": "relative clause பயன்படுத்தி இணைத்தல்: 'I met a man. He is a doctor.'",
+    "options_en": [
+      "I met a man which is a doctor.",
+      "I met a man who is a doctor.",
+      "I met a man whom is a doctor.",
+      "I met a man be a doctor."
+    ],
+    "options_ta": [
+      "பிழை",
+      "நான் ஒரு மனிதரை சந்தித்தேன் அவர் டாக்டர்",
+      "பிழை",
+      "பிழை"
+    ],
+    "answer_en": "I met a man who is a doctor.",
+    "answer_ta": "I met a man who is a doctor."
+  },
+  {
+    "question_en": "Combine using relative clause: 'I met a man. He is a doctor.'",
+    "question_ta": "relative clause பயன்படுத்தி இணைத்தல்: 'I met a man. He is a doctor.'",
+    "options_en": [
+      "I met a man whom is a doctor.",
+      "I met a man be a doctor.",
+      "I met a man who is a doctor.",
+      "I met a man which is a doctor."
+    ],
+    "options_ta": [
+      "பிழை",
+      "பிழை",
+      "நான் ஒரு மனிதரை சந்தித்தேன் அவர் டாக்டர்",
+      "பிழை"
+    ],
+    "answer_en": "I met a man who is a doctor.",
+    "answer_ta": "I met a man who is a doctor."
+  },
+  {
+    "question_en": "Combine using relative clause: 'I met a man. He is a doctor.'",
+    "question_ta": "relative clause பயன்படுத்தி இணைத்தல்: 'I met a man. He is a doctor.'",
+    "options_en": [
+      "I met a man which is a doctor.",
+      "I met a man who is a doctor.",
+      "I met a man be a doctor.",
+      "I met a man whom is a doctor."
+    ],
+    "options_ta": [
+      "பிழை",
+      "நான் ஒரு மனிதரை சந்தித்தேன் அவர் டாக்டர்",
+      "பிழை",
+      "பிழை"
+    ],
+    "answer_en": "I met a man who is a doctor.",
+    "answer_ta": "I met a man who is a doctor."
+  },
+  {
+    "question_en": "Combine using relative clause: 'I met a man. He is a doctor.'",
+    "question_ta": "relative clause பயன்படுத்தி இணைத்தல்: 'I met a man. He is a doctor.'",
+    "options_en": [
+      "I met a man who is a doctor.",
+      "I met a man which is a doctor.",
+      "I met a man whom is a doctor.",
+      "I met a man be a doctor."
+    ],
+    "options_ta": [
+      "நான் ஒரு மனிதரை சந்தித்தேன் அவர் டாக்டர்",
+      "பிழை",
+      "பிழை",
+      "பிழை"
+    ],
+    "answer_en": "I met a man who is a doctor.",
+    "answer_ta": "I met a man who is a doctor."
+  },
+  {
+    "question_en": "Edit the sentence for error: 'She don't like coffee.'",
+    "question_ta": "பிழையைத் திருத்து: 'She don't like coffee.'",
+    "options_en": [
+      "She don't likes coffee.",
+      "She don't like coffees.",
+      "She doesn't like coffee.",
+      "She doesn't likes coffee."
+    ],
+    "options_ta": [
+      "பிழை",
+      "பிழை",
+      "She doesn't like coffee.",
+      "பிழை"
+    ],
+    "answer_en": "She doesn't like coffee.",
+    "answer_ta": "She doesn't like coffee."
+  },
+  {
+    "question_en": "Edit the sentence for error: 'She don't like coffee.'",
+    "question_ta": "பிழையைத் திருத்து: 'She don't like coffee.'",
+    "options_en": [
+      "She doesn't like coffee.",
+      "She don't likes coffee.",
+      "She doesn't likes coffee.",
+      "She don't like coffees."
+    ],
+    "options_ta": [
+      "She doesn't like coffee.",
+      "பிழை",
+      "பிழை",
+      "பிழை"
+    ],
+    "answer_en": "She doesn't like coffee.",
+    "answer_ta": "She doesn't like coffee."
+  },
+  {
+    "question_en": "Why is Don Quixote considered a tragicomic figure?",
+    "question_ta": "டான் க்விக்க்ஸோட் ஏன் த்ராஜிகோமிக் பாத்திரம் என்று கருதப்படுகிறார்?",
+    "options_en": [
+      "He is a king",
+      "He is both foolish and noble in intentions",
+      "He is purely evil",
+      "He is a villain"
+    ],
+    "options_ta": [
+      "அவன் ஒரு மன்னர்",
+      "அவன் முட்டாள் மற்றும் உயர்ந்த நோக்கங்கள் இரண்டையும் கொண்டவர்",
+      "அவன் pura evil",
+      "அவன் குற்றவதி"
+    ],
+    "answer_en": "He is both foolish and noble in intentions",
+    "answer_ta": "அவன் முட்டாள் மற்றும் உயர்ந்த நோக்கங்கள் இரண்டையும் கொண்டவர்"
+  },
+  {
+    "question_en": "Infer meaning: If a character 'sags his shoulders', he is likely to be ___",
+    "question_ta": "ஒரு பாத்திரம் 'அவன் தோள்களை கீழே தள்ளுகிறான்' என்றால் அவர் எப்படிப் இருப்பார்?",
+    "options_en": [
+      "energetic",
+      "very happy",
+      "disappointed or sad",
+      "angry"
+    ],
+    "options_ta": [
+      "ஆற்றல்மிக்க",
+      "மிக சந்தோஷமாக",
+      "விஷமா அல்லது சோகமாக",
+      "கோபமாக"
+    ],
+    "answer_en": "disappointed or sad",
+    "answer_ta": "disappointed or sad"
+  },
+  {
+    "question_en": "Combine using relative clause: 'I met a man. He is a doctor.'",
+    "question_ta": "relative clause பயன்படுத்தி இணைத்தல்: 'I met a man. He is a doctor.'",
+    "options_en": [
+      "I met a man whom is a doctor.",
+      "I met a man which is a doctor.",
+      "I met a man be a doctor.",
+      "I met a man who is a doctor."
+    ],
+    "options_ta": [
+      "பிழை",
+      "பிழை",
+      "பிழை",
+      "நான் ஒரு மனிதரை சந்தித்தேன் அவர் டாக்டர்"
+    ],
+    "answer_en": "I met a man who is a doctor.",
+    "answer_ta": "I met a man who is a doctor."
+  },
+  {
+    "question_en": "Transform to passive: 'People speak English all over the world.'",
+    "question_ta": "Passive ஆக மாற்றவும்: 'People speak English all over the world.'",
+    "options_en": [
+      "English is spoken all over the world.",
+      "English speaks all over the world.",
+      "Spoken English is all over the world.",
+      "English is speaking all over the world."
+    ],
+    "options_ta": [
+      "ஆங்கிலம் உலகம் முழுவதும் பேசப்படுகிறது",
+      "பிழை",
+      "பிழை",
+      "பிழை"
+    ],
+    "answer_en": "English is spoken all over the world.",
+    "answer_ta": "English is spoken all over the world."
+  },
+  {
+    "question_en": "Edit the sentence for error: 'She don't like coffee.'",
+    "question_ta": "பிழையைத் திருத்து: 'She don't like coffee.'",
+    "options_en": [
+      "She don't likes coffee.",
+      "She doesn't like coffee.",
+      "She don't like coffees.",
+      "She doesn't likes coffee."
+    ],
+    "options_ta": [
+      "பிழை",
+      "She doesn't like coffee.",
+      "பிழை",
+      "பிழை"
+    ],
+    "answer_en": "She doesn't like coffee.",
+    "answer_ta": "She doesn't like coffee."
+  },
+  {
+    "question_en": "Transform to passive: 'People speak English all over the world.'",
+    "question_ta": "Passive ஆக மாற்றவும்: 'People speak English all over the world.'",
+    "options_en": [
+      "English is spoken all over the world.",
+      "English is speaking all over the world.",
+      "English speaks all over the world.",
+      "Spoken English is all over the world."
+    ],
+    "options_ta": [
+      "ஆங்கிலம் உலகம் முழுவதும் பேசப்படுகிறது",
+      "பிழை",
+      "பிழை",
+      "பிழை"
+    ],
+    "answer_en": "English is spoken all over the world.",
+    "answer_ta": "English is spoken all over the world."
+  },
+  {
+    "question_en": "Infer meaning: If a character 'sags his shoulders', he is likely to be ___",
+    "question_ta": "ஒரு பாத்திரம் 'அவன் தோள்களை கீழே தள்ளுகிறான்' என்றால் அவர் எப்படிப் இருப்பார்?",
+    "options_en": [
+      "energetic",
+      "very happy",
+      "disappointed or sad",
+      "angry"
+    ],
+    "options_ta": [
+      "ஆற்றல்மிக்க",
+      "மிக சந்தோஷமாக",
+      "விஷமா அல்லது சோகமாக",
+      "கோபமாக"
+    ],
+    "answer_en": "disappointed or sad",
+    "answer_ta": "disappointed or sad"
+  },
+  {
+    "question_en": "Combine using relative clause: 'I met a man. He is a doctor.'",
+    "question_ta": "relative clause பயன்படுத்தி இணைத்தல்: 'I met a man. He is a doctor.'",
+    "options_en": [
+      "I met a man be a doctor.",
+      "I met a man whom is a doctor.",
+      "I met a man which is a doctor.",
+      "I met a man who is a doctor."
+    ],
+    "options_ta": [
+      "பிழை",
+      "பிழை",
+      "பிழை",
+      "நான் ஒரு மனிதரை சந்தித்தேன் அவர் டாக்டர்"
+    ],
+    "answer_en": "I met a man who is a doctor.",
+    "answer_ta": "I met a man who is a doctor."
+  },
+  {
+    "question_en": "Transform to passive: 'People speak English all over the world.'",
+    "question_ta": "Passive ஆக மாற்றவும்: 'People speak English all over the world.'",
+    "options_en": [
+      "English is spoken all over the world.",
+      "Spoken English is all over the world.",
+      "English speaks all over the world.",
+      "English is speaking all over the world."
+    ],
+    "options_ta": [
+      "ஆங்கிலம் உலகம் முழுவதும் பேசப்படுகிறது",
+      "பிழை",
+      "பிழை",
+      "பிழை"
+    ],
+    "answer_en": "English is spoken all over the world.",
+    "answer_ta": "English is spoken all over the world."
+  },
+  {
+    "question_en": "Edit the sentence for error: 'She don't like coffee.'",
+    "question_ta": "பிழையைத் திருத்து: 'She don't like coffee.'",
+    "options_en": [
+      "She don't like coffees.",
+      "She don't likes coffee.",
+      "She doesn't likes coffee.",
+      "She doesn't like coffee."
+    ],
+    "options_ta": [
+      "பிழை",
+      "பிழை",
+      "பிழை",
+      "She doesn't like coffee."
+    ],
+    "answer_en": "She doesn't like coffee.",
+    "answer_ta": "She doesn't like coffee."
+  },
+  {
+    "question_en": "Combine using relative clause: 'I met a man. He is a doctor.'",
+    "question_ta": "relative clause பயன்படுத்தி இணைத்தல்: 'I met a man. He is a doctor.'",
+    "options_en": [
+      "I met a man which is a doctor.",
+      "I met a man be a doctor.",
+      "I met a man who is a doctor.",
+      "I met a man whom is a doctor."
+    ],
+    "options_ta": [
+      "பிழை",
+      "பிழை",
+      "நான் ஒரு மனிதரை சந்தித்தேன் அவர் டாக்டர்",
+      "பிழை"
+    ],
+    "answer_en": "I met a man who is a doctor.",
+    "answer_ta": "I met a man who is a doctor."
+  },
+  {
+    "question_en": "Why is Don Quixote considered a tragicomic figure?",
+    "question_ta": "டான் க்விக்க்ஸோட் ஏன் த்ராஜிகோமிக் பாத்திரம் என்று கருதப்படுகிறார்?",
+    "options_en": [
+      "He is a king",
+      "He is both foolish and noble in intentions",
+      "He is a villain",
+      "He is purely evil"
+    ],
+    "options_ta": [
+      "அவன் ஒரு மன்னர்",
+      "அவன் முட்டாள் மற்றும் உயர்ந்த நோக்கங்கள் இரண்டையும் கொண்டவர்",
+      "அவன் குற்றவதி",
+      "அவன் pura evil"
+    ],
+    "answer_en": "He is both foolish and noble in intentions",
+    "answer_ta": "அவன் முட்டாள் மற்றும் உயர்ந்த நோக்கங்கள் இரண்டையும் கொண்டவர்"
+  },
+  {
+    "question_en": "Transform to passive: 'People speak English all over the world.'",
+    "question_ta": "Passive ஆக மாற்றவும்: 'People speak English all over the world.'",
+    "options_en": [
+      "English is spoken all over the world.",
+      "English is speaking all over the world.",
+      "English speaks all over the world.",
+      "Spoken English is all over the world."
+    ],
+    "options_ta": [
+      "ஆங்கிலம் உலகம் முழுவதும் பேசப்படுகிறது",
+      "பிழை",
+      "பிழை",
+      "பிழை"
+    ],
+    "answer_en": "English is spoken all over the world.",
+    "answer_ta": "English is spoken all over the world."
+  },
+  {
+    "question_en": "Transform to passive: 'People speak English all over the world.'",
+    "question_ta": "Passive ஆக மாற்றவும்: 'People speak English all over the world.'",
+    "options_en": [
+      "Spoken English is all over the world.",
+      "English speaks all over the world.",
+      "English is speaking all over the world.",
+      "English is spoken all over the world."
+    ],
+    "options_ta": [
+      "பிழை",
+      "பிழை",
+      "பிழை",
+      "ஆங்கிலம் உலகம் முழுவதும் பேசப்படுகிறது"
+    ],
+    "answer_en": "English is spoken all over the world.",
+    "answer_ta": "English is spoken all over the world."
+  },
+  {
+    "question_en": "Combine using relative clause: 'I met a man. He is a doctor.'",
+    "question_ta": "relative clause பயன்படுத்தி இணைத்தல்: 'I met a man. He is a doctor.'",
+    "options_en": [
+      "I met a man be a doctor.",
+      "I met a man which is a doctor.",
+      "I met a man who is a doctor.",
+      "I met a man whom is a doctor."
+    ],
+    "options_ta": [
+      "பிழை",
+      "பிழை",
+      "நான் ஒரு மனிதரை சந்தித்தேன் அவர் டாக்டர்",
+      "பிழை"
+    ],
+    "answer_en": "I met a man who is a doctor.",
+    "answer_ta": "I met a man who is a doctor."
+  },
+  {
+    "question_en": "Why is Don Quixote considered a tragicomic figure?",
+    "question_ta": "டான் க்விக்க்ஸோட் ஏன் த்ராஜிகோமிக் பாத்திரம் என்று கருதப்படுகிறார்?",
+    "options_en": [
+      "He is a villain",
+      "He is a king",
+      "He is purely evil",
+      "He is both foolish and noble in intentions"
+    ],
+    "options_ta": [
+      "அவன் குற்றவதி",
+      "அவன் ஒரு மன்னர்",
+      "அவன் pura evil",
+      "அவன் முட்டாள் மற்றும் உயர்ந்த நோக்கங்கள் இரண்டையும் கொண்டவர்"
+    ],
+    "answer_en": "He is both foolish and noble in intentions",
+    "answer_ta": "அவன் முட்டாள் மற்றும் உயர்ந்த நோக்கங்கள் இரண்டையும் கொண்டவர்"
+  },
+  {
+    "question_en": "Infer meaning: If a character 'sags his shoulders', he is likely to be ___",
+    "question_ta": "ஒரு பாத்திரம் 'அவன் தோள்களை கீழே தள்ளுகிறான்' என்றால் அவர் எப்படிப் இருப்பார்?",
+    "options_en": [
+      "angry",
+      "energetic",
+      "disappointed or sad",
+      "very happy"
+    ],
+    "options_ta": [
+      "கோபமாக",
+      "ஆற்றல்மிக்க",
+      "விஷமா அல்லது சோகமாக",
+      "மிக சந்தோஷமாக"
+    ],
+    "answer_en": "disappointed or sad",
+    "answer_ta": "disappointed or sad"
+  },
+  {
+    "question_en": "Infer meaning: If a character 'sags his shoulders', he is likely to be ___",
+    "question_ta": "ஒரு பாத்திரம் 'அவன் தோள்களை கீழே தள்ளுகிறான்' என்றால் அவர் எப்படிப் இருப்பார்?",
+    "options_en": [
+      "disappointed or sad",
+      "very happy",
+      "angry",
+      "energetic"
+    ],
+    "options_ta": [
+      "விஷமா அல்லது சோகமாக",
+      "மிக சந்தோஷமாக",
+      "கோபமாக",
+      "ஆற்றல்மிக்க"
+    ],
+    "answer_en": "disappointed or sad",
+    "answer_ta": "disappointed or sad"
+  },
+  {
+    "question_en": "Infer meaning: If a character 'sags his shoulders', he is likely to be ___",
+    "question_ta": "ஒரு பாத்திரம் 'அவன் தோள்களை கீழே தள்ளுகிறான்' என்றால் அவர் எப்படிப் இருப்பார்?",
+    "options_en": [
+      "energetic",
+      "very happy",
+      "disappointed or sad",
+      "angry"
+    ],
+    "options_ta": [
+      "ஆற்றல்மிக்க",
+      "மிக சந்தோஷமாக",
+      "விஷமா அல்லது சோகமாக",
+      "கோபமாக"
+    ],
+    "answer_en": "disappointed or sad",
+    "answer_ta": "disappointed or sad"
+  },
+  {
+    "question_en": "Transform to passive: 'People speak English all over the world.'",
+    "question_ta": "Passive ஆக மாற்றவும்: 'People speak English all over the world.'",
+    "options_en": [
+      "English is spoken all over the world.",
+      "English speaks all over the world.",
+      "Spoken English is all over the world.",
+      "English is speaking all over the world."
+    ],
+    "options_ta": [
+      "ஆங்கிலம் உலகம் முழுவதும் பேசப்படுகிறது",
+      "பிழை",
+      "பிழை",
+      "பிழை"
+    ],
+    "answer_en": "English is spoken all over the world.",
+    "answer_ta": "English is spoken all over the world."
+  },
+  {
+    "question_en": "Combine using relative clause: 'I met a man. He is a doctor.'",
+    "question_ta": "relative clause பயன்படுத்தி இணைத்தல்: 'I met a man. He is a doctor.'",
+    "options_en": [
+      "I met a man who is a doctor.",
+      "I met a man which is a doctor.",
+      "I met a man whom is a doctor.",
+      "I met a man be a doctor."
+    ],
+    "options_ta": [
+      "நான் ஒரு மனிதரை சந்தித்தேன் அவர் டாக்டர்",
+      "பிழை",
+      "பிழை",
+      "பிழை"
+    ],
+    "answer_en": "I met a man who is a doctor.",
+    "answer_ta": "I met a man who is a doctor."
+  },
+  {
+    "question_en": "Edit the sentence for error: 'She don't like coffee.'",
+    "question_ta": "பிழையைத் திருத்து: 'She don't like coffee.'",
+    "options_en": [
+      "She doesn't likes coffee.",
+      "She don't like coffees.",
+      "She don't likes coffee.",
+      "She doesn't like coffee."
+    ],
+    "options_ta": [
+      "பிழை",
+      "பிழை",
+      "பிழை",
+      "She doesn't like coffee."
+    ],
+    "answer_en": "She doesn't like coffee.",
+    "answer_ta": "She doesn't like coffee."
+  },
+  {
+    "question_en": "Edit the sentence for error: 'She don't like coffee.'",
+    "question_ta": "பிழையைத் திருத்து: 'She don't like coffee.'",
+    "options_en": [
+      "She doesn't like coffee.",
+      "She don't likes coffee.",
+      "She don't like coffees.",
+      "She doesn't likes coffee."
+    ],
+    "options_ta": [
+      "She doesn't like coffee.",
+      "பிழை",
+      "பிழை",
+      "பிழை"
+    ],
+    "answer_en": "She doesn't like coffee.",
+    "answer_ta": "She doesn't like coffee."
+  },
+  {
+    "question_en": "Edit the sentence for error: 'She don't like coffee.'",
+    "question_ta": "பிழையைத் திருத்து: 'She don't like coffee.'",
+    "options_en": [
+      "She doesn't likes coffee.",
+      "She doesn't like coffee.",
+      "She don't like coffees.",
+      "She don't likes coffee."
+    ],
+    "options_ta": [
+      "பிழை",
+      "She doesn't like coffee.",
+      "பிழை",
+      "பிழை"
+    ],
+    "answer_en": "She doesn't like coffee.",
+    "answer_ta": "She doesn't like coffee."
+  },
+  {
+    "question_en": "Why is Don Quixote considered a tragicomic figure?",
+    "question_ta": "டான் க்விக்க்ஸோட் ஏன் த்ராஜிகோமிக் பாத்திரம் என்று கருதப்படுகிறார்?",
+    "options_en": [
+      "He is both foolish and noble in intentions",
+      "He is a king",
+      "He is purely evil",
+      "He is a villain"
+    ],
+    "options_ta": [
+      "அவன் முட்டாள் மற்றும் உயர்ந்த நோக்கங்கள் இரண்டையும் கொண்டவர்",
+      "அவன் ஒரு மன்னர்",
+      "அவன் pura evil",
+      "அவன் குற்றவதி"
+    ],
+    "answer_en": "He is both foolish and noble in intentions",
+    "answer_ta": "அவன் முட்டாள் மற்றும் உயர்ந்த நோக்கங்கள் இரண்டையும் கொண்டவர்"
+  },
+  {
+    "question_en": "Infer meaning: If a character 'sags his shoulders', he is likely to be ___",
+    "question_ta": "ஒரு பாத்திரம் 'அவன் தோள்களை கீழே தள்ளுகிறான்' என்றால் அவர் எப்படிப் இருப்பார்?",
+    "options_en": [
+      "energetic",
+      "very happy",
+      "angry",
+      "disappointed or sad"
+    ],
+    "options_ta": [
+      "ஆற்றல்மிக்க",
+      "மிக சந்தோஷமாக",
+      "கோபமாக",
+      "விஷமா அல்லது சோகமாக"
+    ],
+    "answer_en": "disappointed or sad",
+    "answer_ta": "disappointed or sad"
+  },
+  {
+    "question_en": "Why is Don Quixote considered a tragicomic figure?",
+    "question_ta": "டான் க்விக்க்ஸோட் ஏன் த்ராஜிகோமிக் பாத்திரம் என்று கருதப்படுகிறார்?",
+    "options_en": [
+      "He is a villain",
+      "He is both foolish and noble in intentions",
+      "He is a king",
+      "He is purely evil"
+    ],
+    "options_ta": [
+      "அவன் குற்றவதி",
+      "அவன் முட்டாள் மற்றும் உயர்ந்த நோக்கங்கள் இரண்டையும் கொண்டவர்",
+      "அவன் ஒரு மன்னர்",
+      "அவன் pura evil"
+    ],
+    "answer_en": "He is both foolish and noble in intentions",
+    "answer_ta": "அவன் முட்டாள் மற்றும் உயர்ந்த நோக்கங்கள் இரண்டையும் கொண்டவர்"
+  },
+  {
+    "question_en": "Transform to passive: 'People speak English all over the world.'",
+    "question_ta": "Passive ஆக மாற்றவும்: 'People speak English all over the world.'",
+    "options_en": [
+      "Spoken English is all over the world.",
+      "English is speaking all over the world.",
+      "English speaks all over the world.",
+      "English is spoken all over the world."
+    ],
+    "options_ta": [
+      "பிழை",
+      "பிழை",
+      "பிழை",
+      "ஆங்கிலம் உலகம் முழுவதும் பேசப்படுகிறது"
+    ],
+    "answer_en": "English is spoken all over the world.",
+    "answer_ta": "English is spoken all over the world."
+  },
+  {
+    "question_en": "Combine using relative clause: 'I met a man. He is a doctor.'",
+    "question_ta": "relative clause பயன்படுத்தி இணைத்தல்: 'I met a man. He is a doctor.'",
+    "options_en": [
+      "I met a man which is a doctor.",
+      "I met a man be a doctor.",
+      "I met a man who is a doctor.",
+      "I met a man whom is a doctor."
+    ],
+    "options_ta": [
+      "பிழை",
+      "பிழை",
+      "நான் ஒரு மனிதரை சந்தித்தேன் அவர் டாக்டர்",
+      "பிழை"
+    ],
+    "answer_en": "I met a man who is a doctor.",
+    "answer_ta": "I met a man who is a doctor."
+  },
+  {
+    "question_en": "Combine using relative clause: 'I met a man. He is a doctor.'",
+    "question_ta": "relative clause பயன்படுத்தி இணைத்தல்: 'I met a man. He is a doctor.'",
+    "options_en": [
+      "I met a man be a doctor.",
+      "I met a man who is a doctor.",
+      "I met a man whom is a doctor.",
+      "I met a man which is a doctor."
+    ],
+    "options_ta": [
+      "பிழை",
+      "நான் ஒரு மனிதரை சந்தித்தேன் அவர் டாக்டர்",
+      "பிழை",
+      "பிழை"
+    ],
+    "answer_en": "I met a man who is a doctor.",
+    "answer_ta": "I met a man who is a doctor."
+  },
+  {
+    "question_en": "Transform to passive: 'People speak English all over the world.'",
+    "question_ta": "Passive ஆக மாற்றவும்: 'People speak English all over the world.'",
+    "options_en": [
+      "English is spoken all over the world.",
+      "English speaks all over the world.",
+      "English is speaking all over the world.",
+      "Spoken English is all over the world."
+    ],
+    "options_ta": [
+      "ஆங்கிலம் உலகம் முழுவதும் பேசப்படுகிறது",
+      "பிழை",
+      "பிழை",
+      "பிழை"
+    ],
+    "answer_en": "English is spoken all over the world.",
+    "answer_ta": "English is spoken all over the world."
+  },
+  {
+    "question_en": "Infer meaning: If a character 'sags his shoulders', he is likely to be ___",
+    "question_ta": "ஒரு பாத்திரம் 'அவன் தோள்களை கீழே தள்ளுகிறான்' என்றால் அவர் எப்படிப் இருப்பார்?",
+    "options_en": [
+      "angry",
+      "energetic",
+      "very happy",
+      "disappointed or sad"
+    ],
+    "options_ta": [
+      "கோபமாக",
+      "ஆற்றல்மிக்க",
+      "மிக சந்தோஷமாக",
+      "விஷமா அல்லது சோகமாக"
+    ],
+    "answer_en": "disappointed or sad",
+    "answer_ta": "disappointed or sad"
+  },
+  {
+    "question_en": "Infer meaning: If a character 'sags his shoulders', he is likely to be ___",
+    "question_ta": "ஒரு பாத்திரம் 'அவன் தோள்களை கீழே தள்ளுகிறான்' என்றால் அவர் எப்படிப் இருப்பார்?",
+    "options_en": [
+      "very happy",
+      "energetic",
+      "disappointed or sad",
+      "angry"
+    ],
+    "options_ta": [
+      "மிக சந்தோஷமாக",
+      "ஆற்றல்மிக்க",
+      "விஷமா அல்லது சோகமாக",
+      "கோபமாக"
+    ],
+    "answer_en": "disappointed or sad",
+    "answer_ta": "disappointed or sad"
+  },
+  {
+    "question_en": "Why is Don Quixote considered a tragicomic figure?",
+    "question_ta": "டான் க்விக்க்ஸோட் ஏன் த்ராஜிகோமிக் பாத்திரம் என்று கருதப்படுகிறார்?",
+    "options_en": [
+      "He is purely evil",
+      "He is both foolish and noble in intentions",
+      "He is a villain",
+      "He is a king"
+    ],
+    "options_ta": [
+      "அவன் pura evil",
+      "அவன் முட்டாள் மற்றும் உயர்ந்த நோக்கங்கள் இரண்டையும் கொண்டவர்",
+      "அவன் குற்றவதி",
+      "அவன் ஒரு மன்னர்"
+    ],
+    "answer_en": "He is both foolish and noble in intentions",
+    "answer_ta": "அவன் முட்டாள் மற்றும் உயர்ந்த நோக்கங்கள் இரண்டையும் கொண்டவர்"
+  },
+  {
+    "question_en": "Combine using relative clause: 'I met a man. He is a doctor.'",
+    "question_ta": "relative clause பயன்படுத்தி இணைத்தல்: 'I met a man. He is a doctor.'",
+    "options_en": [
+      "I met a man which is a doctor.",
+      "I met a man whom is a doctor.",
+      "I met a man be a doctor.",
+      "I met a man who is a doctor."
+    ],
+    "options_ta": [
+      "பிழை",
+      "பிழை",
+      "பிழை",
+      "நான் ஒரு மனிதரை சந்தித்தேன் அவர் டாக்டர்"
+    ],
+    "answer_en": "I met a man who is a doctor.",
+    "answer_ta": "I met a man who is a doctor."
+  },
+  {
+    "question_en": "Infer meaning: If a character 'sags his shoulders', he is likely to be ___",
+    "question_ta": "ஒரு பாத்திரம் 'அவன் தோள்களை கீழே தள்ளுகிறான்' என்றால் அவர் எப்படிப் இருப்பார்?",
+    "options_en": [
+      "energetic",
+      "disappointed or sad",
+      "angry",
+      "very happy"
+    ],
+    "options_ta": [
+      "ஆற்றல்மிக்க",
+      "விஷமா அல்லது சோகமாக",
+      "கோபமாக",
+      "மிக சந்தோஷமாக"
+    ],
+    "answer_en": "disappointed or sad",
+    "answer_ta": "disappointed or sad"
+  },
+  {
+    "question_en": "Why is Don Quixote considered a tragicomic figure?",
+    "question_ta": "டான் க்விக்க்ஸோட் ஏன் த்ராஜிகோமிக் பாத்திரம் என்று கருதப்படுகிறார்?",
+    "options_en": [
+      "He is a villain",
+      "He is both foolish and noble in intentions",
+      "He is a king",
+      "He is purely evil"
+    ],
+    "options_ta": [
+      "அவன் குற்றவதி",
+      "அவன் முட்டாள் மற்றும் உயர்ந்த நோக்கங்கள் இரண்டையும் கொண்டவர்",
+      "அவன் ஒரு மன்னர்",
+      "அவன் pura evil"
+    ],
+    "answer_en": "He is both foolish and noble in intentions",
+    "answer_ta": "அவன் முட்டாள் மற்றும் உயர்ந்த நோக்கங்கள் இரண்டையும் கொண்டவர்"
+  },
+  {
+    "question_en": "Why is Don Quixote considered a tragicomic figure?",
+    "question_ta": "டான் க்விக்க்ஸோட் ஏன் த்ராஜிகோமிக் பாத்திரம் என்று கருதப்படுகிறார்?",
+    "options_en": [
+      "He is purely evil",
+      "He is a king",
+      "He is a villain",
+      "He is both foolish and noble in intentions"
+    ],
+    "options_ta": [
+      "அவன் pura evil",
+      "அவன் ஒரு மன்னர்",
+      "அவன் குற்றவதி",
+      "அவன் முட்டாள் மற்றும் உயர்ந்த நோக்கங்கள் இரண்டையும் கொண்டவர்"
+    ],
+    "answer_en": "He is both foolish and noble in intentions",
+    "answer_ta": "அவன் முட்டாள் மற்றும் உயர்ந்த நோக்கங்கள் இரண்டையும் கொண்டவர்"
+  },
+  {
+    "question_en": "Edit the sentence for error: 'She don't like coffee.'",
+    "question_ta": "பிழையைத் திருத்து: 'She don't like coffee.'",
+    "options_en": [
+      "She doesn't likes coffee.",
+      "She don't like coffees.",
+      "She don't likes coffee.",
+      "She doesn't like coffee."
+    ],
+    "options_ta": [
+      "பிழை",
+      "பிழை",
+      "பிழை",
+      "She doesn't like coffee."
+    ],
+    "answer_en": "She doesn't like coffee.",
+    "answer_ta": "She doesn't like coffee."
+  },
+  {
+    "question_en": "Edit the sentence for error: 'She don't like coffee.'",
+    "question_ta": "பிழையைத் திருத்து: 'She don't like coffee.'",
+    "options_en": [
+      "She doesn't likes coffee.",
+      "She don't likes coffee.",
+      "She don't like coffees.",
+      "She doesn't like coffee."
+    ],
+    "options_ta": [
+      "பிழை",
+      "பிழை",
+      "பிழை",
+      "She doesn't like coffee."
+    ],
+    "answer_en": "She doesn't like coffee.",
+    "answer_ta": "She doesn't like coffee."
+  }
+]

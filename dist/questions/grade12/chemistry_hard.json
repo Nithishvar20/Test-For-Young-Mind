@@ -1,0 +1,632 @@
+[
+  {
+    "question_en": "ΔG° for a reaction is negative. What does it indicate about spontaneity?",
+    "question_ta": "ஒரு வினைக்கான ΔG° எதிர்மறை என்றால் அது தானியங்கி (spontaneous) என்பதை என்னக் குறிக்கின்றது?",
+    "options_en": [
+      "Cannot say",
+      "Reaction is spontaneous under standard conditions",
+      "Reaction is non-spontaneous",
+      "Reaction is at equilibrium"
+    ],
+    "options_ta": [
+      "சரி சொல்லமுடியாது",
+      "சாதாரண நிபந்தனையில் செயல் தானியங்கி",
+      "செயல் தானியங்கி அல்ல",
+      "சமநிலையில் உள்ளது"
+    ],
+    "answer_en": "Reaction is spontaneous under standard conditions",
+    "answer_ta": "சாதாரண நிபந்தனையில் செயல் தானியங்கி"
+  },
+  {
+    "question_en": "Which principle explains distribution of a solute between two immiscible solvents?",
+    "question_ta": "இரு கலக்கமற்ற கரைகளுக்கிடையில் கரையூட்டின் பகிர்வு யாரை விளக்குகிறது?",
+    "options_en": [
+      "Partition law (Nernst distribution law)",
+      "Raoult's law",
+      "Henry's law",
+      "Le Chatelier's principle"
+    ],
+    "options_ta": [
+      "பகிர்வு சட்டம் (நெர்ன்ஸ்ட் விநியோகம்)",
+      "ரால்ட் சட்டம்",
+      "ஹென்றி சட்டம்",
+      "லேசாட்லியேன் கொள்கை"
+    ],
+    "answer_en": "Partition law (Nernst distribution law)",
+    "answer_ta": "பகிர்வு சட்டம் (நெர்ன்ஸ்ட் விநியோகம்)"
+  },
+  {
+    "question_en": "Which type of isomerism is shown by but-1-ene and but-2-ene?",
+    "question_ta": "but-1-ene மற்றும் but-2-ene எந்த வகை இடமாற்றம் (isomerism) காட்டுகின்றன?",
+    "options_en": [
+      "Position isomerism",
+      "Optical isomerism",
+      "Functional isomerism",
+      "Chain isomerism"
+    ],
+    "options_ta": [
+      "அமைவுக்கான இடமாற்றம்",
+      "ஒப்டிக்கல் இடமாற்றம்",
+      "செயல்முறை இடமாற்றம்",
+      "சங்கிலி இடமாற்றம்"
+    ],
+    "answer_en": "Position isomerism",
+    "answer_ta": "அமைவுக்கான இடமாற்றம்"
+  },
+  {
+    "question_en": "In electrochemistry, standard hydrogen electrode potential is defined as zero. This implies:",
+    "question_ta": "மின் இரசாயனத்தில் (electrochemistry) மான இடைச் சுற்று ஹைட்ரஜன் எலக்ட்ரோடு (SHE) மின்சார திறன் பூஜ்ஜியம் என்று வரையறுக்கப்பட்டுள்ளது. இதனால் என்ன அர்த்தம்?",
+    "options_en": [
+      "Absolute potentials are zero",
+      "SHE does not exist",
+      "All electrodes have same potential",
+      "Other electrode potentials measured relative to SHE"
+    ],
+    "options_ta": [
+      "முழுமையான திறன்கள் பூஜ்ஜியம்",
+      "SHE இல்லை",
+      "அனைத்து எலக்ட்ரோடுகளுக்கும் ஒரே திறன் உள்ளது",
+      "மறை எலக்ட்ரோட்களின் மின்சார திறன் SHE உடன் ஒப்பிடப்படுகிறது"
+    ],
+    "answer_en": "Other electrode potentials measured relative to SHE",
+    "answer_ta": "மறை எலக்ட்ரோட்களின் மின்சார திறன் SHE உடன் ஒப்பிடப்படுகிறது"
+  },
+  {
+    "question_en": "Which rotamer concept relates to conformational isomerism?",
+    "question_ta": "சந்தர்ப்ப இடமாற்றம் (conformational isomerism) தொடர்பான கருத்து எது?",
+    "options_en": [
+      "Rotation around single bond",
+      "Different elements",
+      "Change in connectivity",
+      "Change in molecular formula"
+    ],
+    "options_ta": [
+      "ஒற்றை பிணை சுற்றியுள்ள சுழற்சி",
+      "விதவிதமான மூலக்கூறுகள்",
+      "கணக்கீடுகளின் மாற்றம்",
+      "அணுக்களின் மாற்றம்"
+    ],
+    "answer_en": "Rotation around single bond",
+    "answer_ta": "ஒற்றை பிணை சுற்றியுள்ள சுழற்சி"
+  },
+  {
+    "question_en": "Which reaction is electrophilic aromatic substitution?",
+    "question_ta": "எந்த எதிர்வினை மின் தாக்குதல் அரோமடிக் (electrophilic aromatic) மாற்றம் ஆகும்?",
+    "options_en": [
+      "Free radical halogenation of methane",
+      "Nitration of benzene",
+      "E2 elimination",
+      "SN2 reaction of methyl bromide"
+    ],
+    "options_ta": [
+      "மீதேன் ஹாலோஜனேஷன்",
+      "பென்சீன் நைட்ரேஷன்",
+      "E2 நீக்கல்",
+      "SN2 மாறுதல்"
+    ],
+    "answer_en": "Nitration of benzene",
+    "answer_ta": "பென்சீன் நைட்ரேஷன்"
+  },
+  {
+    "question_en": "Which technique provides molecular mass by fragmentation pattern?",
+    "question_ta": "பிரிதி முறை மூலம் எந்த தொழில்நுட்பம் மூலக்கூறு பரிமாணத்தை வழங்குகிறது?",
+    "options_en": [
+      "UV-Vis spectroscopy",
+      "Infrared spectroscopy",
+      "NMR spectroscopy",
+      "Mass spectrometry"
+    ],
+    "options_ta": [
+      "UV-Vis",
+      "இன்ஃப்ரா ரெட் ஸ்பெக்ட்ரோஸ்கோபி",
+      "NMR",
+      "மாஸ் ஸ்பெக்ட்ரோமெட்ரி"
+    ],
+    "answer_en": "Mass spectrometry",
+    "answer_ta": "மாஸ் ஸ்பெக்ட்ரோமெட்ரி"
+  },
+  {
+    "question_en": "Which orbital interaction explains π bonding in ethene?",
+    "question_ta": "எத்தனில் π பிணைப்பு பற்றி எந்த ஆர்பிட்டல் இடையேயான தொடர்பு விளக்குகிறது?",
+    "options_en": [
+      "d-orbital overlap",
+      "Non-bonding interaction",
+      "Head-on overlap of s-orbitals",
+      "Side-by-side overlap of p-orbitals"
+    ],
+    "options_ta": [
+      "d-ஆர்பிட்டல் ஒட்டுமொத்தம்",
+      "பிணையல்லாத தொடர்பு",
+      "s-ஆர்பிட்டல்களின் தலைமுனை ஒட்டுமொத்தம்",
+      "p-ஆர்பிட்டல்களின் பக்கம்வழி ஒட்டுமொத்தம்"
+    ],
+    "answer_en": "Side-by-side overlap of p-orbitals",
+    "answer_ta": "p-ஆர்பிட்டல்களின் பக்கம்வழி ஒட்டுமொத்தம்"
+  },
+  {
+    "question_en": "Which is the rate-determining step in a multi-step reaction?",
+    "question_ta": "பல படிக்கட்டான வினையில் வேகத்தை தீர்மானிக்கும் படி என்ன?",
+    "options_en": [
+      "The last step always",
+      "The first step always",
+      "The slowest step",
+      "Any random step"
+    ],
+    "options_ta": [
+      "என்றும் கடைசி படி",
+      "என்றும் முதல் படி",
+      "மிகவும் மெதுவான படி",
+      "எதுவும் சராசரி படி"
+    ],
+    "answer_en": "The slowest step",
+    "answer_ta": "மிகவும் மெதுவான படி"
+  },
+  {
+    "question_en": "Which statement about colligative properties is true?",
+    "question_ta": "கொலிகேட்டிவ் பண்புகள் பற்றி எந்த கூற்று உண்மை?",
+    "options_en": [
+      "Depends on color",
+      "Depends only on number of solute particles, not their nature",
+      "Depends on taste",
+      "Depends on nature of solute"
+    ],
+    "options_ta": [
+      "வண்ணத்தை சார்ந்தவை",
+      "கரையூட்ட நுண்ணான்களின் எண்ணிக்கையை மட்டும் சார்ந்தவை",
+      "இனிப்பை சார்ந்தவை",
+      "கரையூட்டத்தின் தன்மையை சார்ந்தவை"
+    ],
+    "answer_en": "Depends only on number of solute particles, not their nature",
+    "answer_ta": "கரையூட்ட நுண்ணான்களின் எண்ணிக்கையை மட்டும் சார்ந்தவை"
+  },
+  {
+    "question_en": "Which is true for Raoult's law in ideal solutions?",
+    "question_ta": "இடைக் கரையூட்டியில் Raoult's சட்டம் பற்றி எந்தது உண்மை?",
+    "options_en": [
+      "Vapour pressure independent of composition",
+      "Not applicable",
+      "Vapour pressure of solvent is proportional to its mole fraction",
+      "Vapour pressure equals zero"
+    ],
+    "options_ta": [
+      "அறிகுறி சீரற்றது",
+      "பயன்பாடில்லை",
+      "ஓர் கரையூட்டியில் கரையூட்டத்தின் முழு அழுத்தம் அதன் மோலப் பங்கு சார்ந்தது",
+      "வெப்பநிலை பூஜ்ஜியம்"
+    ],
+    "answer_en": "Vapour pressure of solvent is proportional to its mole fraction",
+    "answer_ta": "ஓர் கரையூட்டியில் கரையூட்டத்தின் முழு அழுத்தம் அதன் மோலப் பங்கு சார்ந்தது"
+  },
+  {
+    "question_en": "Which phenomenon causes blue shift in UV-Vis spectra?",
+    "question_ta": "UV-Vis ஸ்பெக்ட்ரத்தில் நீலம் கடத்தலுக்கு என்ன காரணம்?",
+    "options_en": [
+      "Increase in energy gap (hypsochromic shift)",
+      "No change",
+      "Decrease in energy gap",
+      "Particle size increase"
+    ],
+    "options_ta": [
+      "ஆற்றல் இடைவெளி அதிகரிக்கிறது (hypsochromic shift)",
+      "மாற்றமில்லை",
+      "ஆற்றல் இடைவெளி குறைகிறது",
+      "துகள்மானம் அதிகரிப்பு"
+    ],
+    "answer_en": "Increase in energy gap (hypsochromic shift)",
+    "answer_ta": "ஆற்றல் இடைவெளி அதிகரிக்கிறது (hypsochromic shift)"
+  },
+  {
+    "question_en": "Which is the main product of ozonolysis of an alkene (oxidative workup)?",
+    "question_ta": "ஒரு அல்கீனின் ஓசானோலிசிஸ் (oxidative workup) பிரதான தயாரிப்பு எது?",
+    "options_en": [
+      "Alkanes",
+      "Carbonyl compounds (aldehydes/ketones -> carboxylic acids on oxidation)",
+      "Alcohols",
+      "Amines"
+    ],
+    "options_ta": [
+      "அல்கேன்கள்",
+      "கார்போனில் சேர்மங்கள்",
+      "ஆல்கஹால்கள்",
+      "அமின்கள்"
+    ],
+    "answer_en": "Carbonyl compounds (aldehydes/ketones -> carboxylic acids on oxidation)",
+    "answer_ta": "கார்போனில் சேர்மங்கள்"
+  },
+  {
+    "question_en": "Which is true about SN1 reaction?",
+    "question_ta": "SN1 வினை பற்றி எந்தது உண்மை?",
+    "options_en": [
+      "Concerted mechanism",
+      "Rate depends only on substrate concentration (unimolecular)",
+      "Rate depends on nucleophile concentration",
+      "Always gives inversion"
+    ],
+    "options_ta": [
+      "ஒன்றிணைந்த முறை",
+      "விகிதம் yalnız சப்ஸ்ட்ரேட் செறிவேதம் மட்டுமே பராமரிக்கிறது",
+      "விகிதம் நியூக்லியோபைலில் சார்ந்தது",
+      "எப்போதும் பிணைய மாற்றம் மட்டும்"
+    ],
+    "answer_en": "Rate depends only on substrate concentration (unimolecular)",
+    "answer_ta": "விகிதம் yalnız சப்ஸ்ட்ரேட் செறிவேதம் மட்டுமே பராமரிக்கிறது"
+  },
+  {
+    "question_en": "Which condition favours E2 elimination over SN2?",
+    "question_ta": "E2 நீக்கல் SN2-ஐவிட எது சாதகமாக அமைகிறது?",
+    "options_en": [
+      "Weak base and primary substrate",
+      "Strong base and secondary/tertiary substrate",
+      "Polar protic solvent only",
+      "No base present"
+    ],
+    "options_ta": [
+      "பயலாக அடிப்படை மற்றும் முதன்மை",
+      "வலுவான அடிப்படை மற்றும் இரண்டாம்/மூன்றாம் நிலை சப்ஸ்ட்ரேட்",
+      "பாலர் புரோட்டிக் கரிகூறி மட்டுமே",
+      "பேஸ் இல்லாமல்"
+    ],
+    "answer_en": "Strong base and secondary/tertiary substrate",
+    "answer_ta": "வலுவான அடிப்படை மற்றும் இரண்டாம்/மூன்றாம் நிலை சப்ஸ்ட்ரேட்"
+  },
+  {
+    "question_en": "Which spectroscopy gives information about functional groups?",
+    "question_ta": "எந்த ஸ்பெக்ட்ரோஸ்கோபி செயற்கை குழுக்களை (functional groups) பற்றி தகவல் தருகிறது?",
+    "options_en": [
+      "NMR (gives environment of H/C)",
+      "Infrared (IR) spectroscopy",
+      "Mass spectrometry",
+      "UV-Vis spectroscopy"
+    ],
+    "options_ta": [
+      "NMR",
+      "இன்ஃப்ரா ரெட் (IR) ஸ்பெக்ட்ரோஸ்கோபி",
+      "மாஸ் ஸ்பெக்ட்ரோமெட்ரி",
+      "UV-Vis"
+    ],
+    "answer_en": "Infrared (IR) spectroscopy",
+    "answer_ta": "இன்ஃப்ரா ரெட் (IR) ஸ்பெக்ட்ரோஸ்கோபி"
+  },
+  {
+    "question_en": "Which catalyst is used in hydrogenation of vegetable oils?",
+    "question_ta": "உணவுக் எண்ணெய்களை ஹைட்ரஜனேட் செய்வதில் எந்தக் கேடலிஸ்ட் பயன்படுத்தப்படுகிறது?",
+    "options_en": [
+      "Platinum (Pt)",
+      "Nickel (Ni)",
+      "Enzyme lipase",
+      "Copper (Cu)"
+    ],
+    "options_ta": [
+      "பிளாட்டினம்",
+      "நிக்கல்",
+      "என்ன்சைம் லிபேஸ்",
+      "தாமிரம்"
+    ],
+    "answer_en": "Nickel (Ni)",
+    "answer_ta": "நிக்கல்"
+  },
+  {
+    "question_en": "Which type of isomerism arises due to different arrangement in space (stereoisomerism)?",
+    "question_ta": "இடப்பார்வை காரணமாக உருவாகும் இடமாற்றம் (stereoisomerism) எது?",
+    "options_en": [
+      "Positional isomerism",
+      "Geometric and optical isomerism",
+      "Chain isomerism",
+      "Functional isomerism"
+    ],
+    "options_ta": [
+      "அமைவு இடமாற்றம்",
+      "ஜியோமெட்ரிக் மற்றும் ஒப்டிக்கல் இடமாற்றம்",
+      "சங்கிலி இடமாற்றம்",
+      "செயல்முறை இடமாற்றம்"
+    ],
+    "answer_en": "Geometric and optical isomerism",
+    "answer_ta": "ஜியோமெட்ரிக் மற்றும் ஒப்டிக்கல் இடமாற்றம்"
+  },
+  {
+    "question_en": "Which phenomenon explains increased boiling point for solutions?",
+    "question_ta": "தீர்வுகளுக்கு அதிகரித்த கொதிக்கும் புள்ளி என்னும் விளக்கம்?",
+    "options_en": [
+      "Boiling point lowering",
+      "Density increase",
+      "Color change",
+      "Boiling point elevation (colligative property)"
+    ],
+    "options_ta": [
+      "கோதுமை குறைவு",
+      "அடர்த்தி அதிகரிப்பு",
+      "வண்ண மாற்றம்",
+      "கோதுமை உயர்வு (colligative property)"
+    ],
+    "answer_en": "Boiling point elevation (colligative property)",
+    "answer_ta": "கோதுமை உயர்வு (colligative property)"
+  },
+  {
+    "question_en": "Which is most basic among these oxides?",
+    "question_ta": "இவற்றில் எந்த ஆக்சைடு மிக அடிப்படை?",
+    "options_en": [
+      "Na2O",
+      "P2O5",
+      "SO2",
+      "CO2"
+    ],
+    "options_ta": [
+      "Na2O",
+      "P2O5",
+      "SO2",
+      "CO2"
+    ],
+    "answer_en": "Na2O",
+    "answer_ta": "Na2O"
+  },
+  {
+    "question_en": "Which metal forms complex with EDTA strongly?",
+    "question_ta": "EDTA உடன் வலுவாக சேர்ந்து சமநிலையை ஏற்படுத்தும் உலோகம் எது?",
+    "options_en": [
+      "K+",
+      "Na+",
+      "Mg2+",
+      "Cu2+ and Fe3+ (transition metals)"
+    ],
+    "options_ta": [
+      "K+",
+      "Na+",
+      "Mg2+",
+      "Cu2+ மற்றும் Fe3+ (டிரான்ஷன் மெட்டல்ஸ்)"
+    ],
+    "answer_en": "Cu2+ and Fe3+ (transition metals)",
+    "answer_ta": "Cu2+ மற்றும் Fe3+ (டிரான்ஷன் மெட்டல்ஸ்)"
+  },
+  {
+    "question_en": "Which type of defect is Schottky defect?",
+    "question_ta": "ஷோட்கி தவறு (Schottky defect) எந்த வகைதவறு?",
+    "options_en": [
+      "Electronic defect",
+      "Substitutional defect",
+      "Interstitial defect",
+      "Vacancy defect with paired cation and anion missing"
+    ],
+    "options_ta": [
+      "மின்னணு குறைவு",
+      "மாற்று குறைவு",
+      "இணை இடம் குறைவு",
+      "இணையப்பட்ட குறைவு (இணை காசியம் மற்றும் அயன் காணப்படவில்லை)"
+    ],
+    "answer_en": "Vacancy defect with paired cation and anion missing",
+    "answer_ta": "இணையப்பட்ட குறைவு (இணை காசியம் மற்றும் அயன் காணப்படவில்லை)"
+  },
+  {
+    "question_en": "Which is true for buffer pH when acid is added?",
+    "question_ta": "அமிலம் சேர்க்கும்போது பஃபர் pH பற்றி எந்தது உண்மை?",
+    "options_en": [
+      "Buffer destroyed immediately",
+      "pH changes drastically",
+      "pH changes slightly, resists change",
+      "pH becomes zero"
+    ],
+    "options_ta": [
+      "பஃபர் உடனடியாக அழிக்கப்படுகிறது",
+      "pH கடுமையாக மாறும்",
+      "pH கொஞ்சம் மாறும், மாற்றத்தை எதிர்க்கிறது",
+      "pH பூஜ்ஜியம் ஆகிறது"
+    ],
+    "answer_en": "pH changes slightly, resists change",
+    "answer_ta": "pH கொஞ்சம் மாறும், மாற்றத்தை எதிர்க்கிறது"
+  },
+  {
+    "question_en": "Which is formed when ethanol is oxidized mildly (primary alcohol)?",
+    "question_ta": "ஒரு முதன்மை ஆல்கஹால் (ethanol) லை சிறிது ஆக்சைடு செய்தால் என்ன உருவாகும்?",
+    "options_en": [
+      "Methanol",
+      "Acetaldehyde (ethanal)",
+      "Acetic acid",
+      "Ethene"
+    ],
+    "options_ta": [
+      "மீதனால்",
+      "அசிட்டால்டிஹைடு (எத்தனல்)",
+      "அசிட்டிக் அமிலம்",
+      "எத்தீன்"
+    ],
+    "answer_en": "Acetaldehyde (ethanal)",
+    "answer_ta": "அசிட்டால்டிஹைடு (எத்தனல்)"
+  },
+  {
+    "question_en": "Which is correct statement about Le Chatelier's principle with temperature increase for exothermic reaction?",
+    "question_ta": "வெப்பநிலை அதிகரிக்கும்போது நீடித்த விளைவான (exothermic) எதிர்வினைக்கு லேசாட்லியேன் விதி பற்றி எந்த கூற்று சரி?",
+    "options_en": [
+      "Shifts to right",
+      "No change",
+      "Equilibrium shifts to left (to absorb heat)",
+      "System explodes"
+    ],
+    "options_ta": [
+      "வலது பக்கம் மாறும்",
+      "மாற்றமில்லை",
+      "இ equilibrium இடது பக்கம் மாறும் (வெப்பத்தை உறிஞ்ச)",
+      "அமைப்பு வெடிக்கும்"
+    ],
+    "answer_en": "Equilibrium shifts to left (to absorb heat)",
+    "answer_ta": "இ equilibrium இடது பக்கம் மாறும் (வெப்பத்தை உறிஞ்ச)"
+  },
+  {
+    "question_en": "Which statement is true about catalysts?",
+    "question_ta": "கேடலிஸ்ட் பற்றி எந்த கூற்று உண்மையே?",
+    "options_en": [
+      "Catalysts increase activation energy",
+      "Catalysts change equilibrium constant",
+      "Catalysts lower activation energy and are not consumed",
+      "Catalysts are reactants"
+    ],
+    "options_ta": [
+      "கேடலிஸ்ட் செயல்பாட்டை உயர்த்தும்",
+      "கேடலிஸ்ட் சமநிலைக் குறியீட்டை மாற்றும்",
+      "கேடலிஸ்ட் செயல்பாட்டை குறைக்கின்றன மற்றும் நாசமில்லை",
+      "கேடலிஸ்ட் மறுவினவுகளில் சேரும்"
+    ],
+    "answer_en": "Catalysts lower activation energy and are not consumed",
+    "answer_ta": "கேடலிஸ்ட் செயல்பாட்டை குறைக்கின்றன மற்றும் நாசமில்லை"
+  },
+  {
+    "question_en": "Which statement is true about catalysts? (variant 1)",
+    "question_ta": "கேடலிஸ்ட் பற்றி எந்த கூற்று உண்மையே? (விருப்பம் 1)",
+    "options_en": [
+      "Catalysts lower activation energy and are not consumed",
+      "Catalysts increase activation energy",
+      "Catalysts change equilibrium constant",
+      "Catalysts are reactants"
+    ],
+    "options_ta": [
+      "கேடலிஸ்ட் செயல்பாட்டை குறைக்கின்றன மற்றும் நாசமில்லை",
+      "கேடலிஸ்ட் செயல்பாட்டை உயர்த்தும்",
+      "கேடலிஸ்ட் சமநிலைக் குறியீட்டை மாற்றும்",
+      "கேடலிஸ்ட் மறுவினவுகளில் சேரும்"
+    ],
+    "answer_en": "Catalysts lower activation energy and are not consumed",
+    "answer_ta": "கேடலிஸ்ட் செயல்பாட்டை குறைக்கின்றன மற்றும் நாசமில்லை"
+  },
+  {
+    "question_en": "Which statement is true about catalysts? (variant 1) (variant 2)",
+    "question_ta": "கேடலிஸ்ட் பற்றி எந்த கூற்று உண்மையே? (விருப்பம் 1) (விருப்பம் 2)",
+    "options_en": [
+      "Catalysts are reactants",
+      "Catalysts increase activation energy",
+      "Catalysts change equilibrium constant",
+      "Catalysts lower activation energy and are not consumed"
+    ],
+    "options_ta": [
+      "கேடலிஸ்ட் மறுவினவுகளில் சேரும்",
+      "கேடலிஸ்ட் செயல்பாட்டை உயர்த்தும்",
+      "கேடலிஸ்ட் சமநிலைக் குறியீட்டை மாற்றும்",
+      "கேடலிஸ்ட் செயல்பாட்டை குறைக்கின்றன மற்றும் நாசமில்லை"
+    ],
+    "answer_en": "Catalysts lower activation energy and are not consumed",
+    "answer_ta": "கேடலிஸ்ட் செயல்பாட்டை குறைக்கின்றன மற்றும் நாசமில்லை"
+  },
+  {
+    "question_en": "Which statement is true about catalysts? (variant 1) (variant 2) (variant 3)",
+    "question_ta": "கேடலிஸ்ட் பற்றி எந்த கூற்று உண்மையே? (விருப்பம் 1) (விருப்பம் 2) (விருப்பம் 3)",
+    "options_en": [
+      "Catalysts lower activation energy and are not consumed",
+      "Catalysts are reactants",
+      "Catalysts increase activation energy",
+      "Catalysts change equilibrium constant"
+    ],
+    "options_ta": [
+      "கேடலிஸ்ட் செயல்பாட்டை குறைக்கின்றன மற்றும் நாசமில்லை",
+      "கேடலிஸ்ட் மறுவினவுகளில் சேரும்",
+      "கேடலிஸ்ட் செயல்பாட்டை உயர்த்தும்",
+      "கேடலிஸ்ட் சமநிலைக் குறியீட்டை மாற்றும்"
+    ],
+    "answer_en": "Catalysts lower activation energy and are not consumed",
+    "answer_ta": "கேடலிஸ்ட் செயல்பாட்டை குறைக்கின்றன மற்றும் நாசமில்லை"
+  },
+  {
+    "question_en": "Which statement is true about catalysts? (variant 1) (variant 2) (variant 3) (variant 4)",
+    "question_ta": "கேடலிஸ்ட் பற்றி எந்த கூற்று உண்மையே? (விருப்பம் 1) (விருப்பம் 2) (விருப்பம் 3) (விருப்பம் 4)",
+    "options_en": [
+      "Catalysts increase activation energy",
+      "Catalysts are reactants",
+      "Catalysts lower activation energy and are not consumed",
+      "Catalysts change equilibrium constant"
+    ],
+    "options_ta": [
+      "கேடலிஸ்ட் செயல்பாட்டை உயர்த்தும்",
+      "கேடலிஸ்ட் மறுவினவுகளில் சேரும்",
+      "கேடலிஸ்ட் செயல்பாட்டை குறைக்கின்றன மற்றும் நாசமில்லை",
+      "கேடலிஸ்ட் சமநிலைக் குறியீட்டை மாற்றும்"
+    ],
+    "answer_en": "Catalysts lower activation energy and are not consumed",
+    "answer_ta": "கேடலிஸ்ட் செயல்பாட்டை குறைக்கின்றன மற்றும் நாசமில்லை"
+  },
+  {
+    "question_en": "Which statement is true about catalysts? (variant 1) (variant 2) (variant 3) (variant 4) (variant 5)",
+    "question_ta": "கேடலிஸ்ட் பற்றி எந்த கூற்று உண்மையே? (விருப்பம் 1) (விருப்பம் 2) (விருப்பம் 3) (விருப்பம் 4) (விருப்பம் 5)",
+    "options_en": [
+      "Catalysts change equilibrium constant",
+      "Catalysts are reactants",
+      "Catalysts lower activation energy and are not consumed",
+      "Catalysts increase activation energy"
+    ],
+    "options_ta": [
+      "கேடலிஸ்ட் சமநிலைக் குறியீட்டை மாற்றும்",
+      "கேடலிஸ்ட் மறுவினவுகளில் சேரும்",
+      "கேடலிஸ்ட் செயல்பாட்டை குறைக்கின்றன மற்றும் நாசமில்லை",
+      "கேடலிஸ்ட் செயல்பாட்டை உயர்த்தும்"
+    ],
+    "answer_en": "Catalysts lower activation energy and are not consumed",
+    "answer_ta": "கேடலிஸ்ட் செயல்பாட்டை குறைக்கின்றன மற்றும் நாசமில்லை"
+  },
+  {
+    "question_en": "Which statement is true about catalysts? (variant 1) (variant 2) (variant 3) (variant 4) (variant 5) (variant 6)",
+    "question_ta": "கேடலிஸ்ட் பற்றி எந்த கூற்று உண்மையே? (விருப்பம் 1) (விருப்பம் 2) (விருப்பம் 3) (விருப்பம் 4) (விருப்பம் 5) (விருப்பம் 6)",
+    "options_en": [
+      "Catalysts increase activation energy",
+      "Catalysts are reactants",
+      "Catalysts lower activation energy and are not consumed",
+      "Catalysts change equilibrium constant"
+    ],
+    "options_ta": [
+      "கேடலிஸ்ட் செயல்பாட்டை உயர்த்தும்",
+      "கேடலிஸ்ட் மறுவினவுகளில் சேரும்",
+      "கேடலிஸ்ட் செயல்பாட்டை குறைக்கின்றன மற்றும் நாசமில்லை",
+      "கேடலிஸ்ட் சமநிலைக் குறியீட்டை மாற்றும்"
+    ],
+    "answer_en": "Catalysts lower activation energy and are not consumed",
+    "answer_ta": "கேடலிஸ்ட் செயல்பாட்டை குறைக்கின்றன மற்றும் நாசமில்லை"
+  },
+  {
+    "question_en": "Which statement is true about catalysts? (variant 1) (variant 2) (variant 3) (variant 4) (variant 5) (variant 6) (variant 7)",
+    "question_ta": "கேடலிஸ்ட் பற்றி எந்த கூற்று உண்மையே? (விருப்பம் 1) (விருப்பம் 2) (விருப்பம் 3) (விருப்பம் 4) (விருப்பம் 5) (விருப்பம் 6) (விருப்பம் 7)",
+    "options_en": [
+      "Catalysts lower activation energy and are not consumed",
+      "Catalysts change equilibrium constant",
+      "Catalysts increase activation energy",
+      "Catalysts are reactants"
+    ],
+    "options_ta": [
+      "கேடலிஸ்ட் செயல்பாட்டை குறைக்கின்றன மற்றும் நாசமில்லை",
+      "கேடலிஸ்ட் சமநிலைக் குறியீட்டை மாற்றும்",
+      "கேடலிஸ்ட் செயல்பாட்டை உயர்த்தும்",
+      "கேடலிஸ்ட் மறுவினவுகளில் சேரும்"
+    ],
+    "answer_en": "Catalysts lower activation energy and are not consumed",
+    "answer_ta": "கேடலிஸ்ட் செயல்பாட்டை குறைக்கின்றன மற்றும் நாசமில்லை"
+  },
+  {
+    "question_en": "Which statement is true about catalysts? (variant 1) (variant 2) (variant 3) (variant 4) (variant 5) (variant 6) (variant 7) (variant 8)",
+    "question_ta": "கேடலிஸ்ட் பற்றி எந்த கூற்று உண்மையே? (விருப்பம் 1) (விருப்பம் 2) (விருப்பம் 3) (விருப்பம் 4) (விருப்பம் 5) (விருப்பம் 6) (விருப்பம் 7) (விருப்பம் 8)",
+    "options_en": [
+      "Catalysts are reactants",
+      "Catalysts increase activation energy",
+      "Catalysts change equilibrium constant",
+      "Catalysts lower activation energy and are not consumed"
+    ],
+    "options_ta": [
+      "கேடலிஸ்ட் மறுவினவுகளில் சேரும்",
+      "கேடலிஸ்ட் செயல்பாட்டை உயர்த்தும்",
+      "கேடலிஸ்ட் சமநிலைக் குறியீட்டை மாற்றும்",
+      "கேடலிஸ்ட் செயல்பாட்டை குறைக்கின்றன மற்றும் நாசமில்லை"
+    ],
+    "answer_en": "Catalysts lower activation energy and are not consumed",
+    "answer_ta": "கேடலிஸ்ட் செயல்பாட்டை குறைக்கின்றன மற்றும் நாசமில்லை"
+  },
+  {
+    "question_en": "Which statement is true about catalysts? (variant 1) (variant 2) (variant 3) (variant 4) (variant 5) (variant 6) (variant 7) (variant 8) (variant 9)",
+    "question_ta": "கேடலிஸ்ட் பற்றி எந்த கூற்று உண்மையே? (விருப்பம் 1) (விருப்பம் 2) (விருப்பம் 3) (விருப்பம் 4) (விருப்பம் 5) (விருப்பம் 6) (விருப்பம் 7) (விருப்பம் 8) (விருப்பம் 9)",
+    "options_en": [
+      "Catalysts lower activation energy and are not consumed",
+      "Catalysts are reactants",
+      "Catalysts increase activation energy",
+      "Catalysts change equilibrium constant"
+    ],
+    "options_ta": [
+      "கேடலிஸ்ட் செயல்பாட்டை குறைக்கின்றன மற்றும் நாசமில்லை",
+      "கேடலிஸ்ட் மறுவினவுகளில் சேரும்",
+      "கேடலிஸ்ட் செயல்பாட்டை உயர்த்தும்",
+      "கேடலிஸ்ட் சமநிலைக் குறியீட்டை மாற்றும்"
+    ],
+    "answer_en": "Catalysts lower activation energy and are not consumed",
+    "answer_ta": "கேடலிஸ்ட் செயல்பாட்டை குறைக்கின்றன மற்றும் நாசமில்லை"
+  }
+]

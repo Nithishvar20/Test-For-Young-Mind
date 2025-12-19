@@ -1,0 +1,258 @@
+[
+  {
+    "question_en": "Who proposed the three laws of motion?",
+    "question_ta": "இயக்க விதிகளை மூன்றையும் முன்வைத்தவர் யார்?",
+    "options_en": ["Einstein", "Newton", "Galileo", "Aristotle"],
+    "options_ta": ["ஐன்ஸ்டீன்", "நியூட்டன்", "கலிலியோ", "அரிஸ்டாட்டில்"],
+    "answer_en": "Newton",
+    "answer_ta": "நியூட்டன்"
+  },
+  {
+    "question_en": "The property of a body to resist change in its state is called:",
+    "question_ta": "ஒரு பொருளின் நிலை மாற்றத்தை எதிர்க்கும் தன்மை எது?",
+    "options_en": ["Momentum", "Velocity", "Inertia", "Force"],
+    "options_ta": ["மோமெண்டம்", "வேகம்", "இனெர்ஷியா", "வலு"],
+    "answer_en": "Inertia",
+    "answer_ta": "இனெர்ஷியா"
+  },
+  {
+    "question_en": "Which law is also called the 'Law of Inertia'?",
+    "question_ta": "எந்த விதி 'இனெர்ஷியா விதி' என அழைக்கப்படுகிறது?",
+    "options_en": ["Law of Gravitation", "Newton’s Third Law", "Newton’s First Law", "Newton’s Second Law"],
+    "options_ta": ["ஈர்ப்பு விதி", "நியூட்டனின் மூன்றாம் விதி", "நியூட்டனின் முதல் விதி", "நியூட்டனின் இரண்டாம் விதி"],
+    "answer_en": "Newton’s First Law",
+    "answer_ta": "நியூட்டனின் முதல் விதி"
+  },
+  {
+    "question_en": "The unit of force is:",
+    "question_ta": "வலுவின் அலகு எது?",
+    "options_en": ["Watt", "Pascal", "Newton", "Joule"],
+    "options_ta": ["வாட்", "பாஸ்கல்", "நியூட்டன்", "ஜூல்"],
+    "answer_en": "Newton",
+    "answer_ta": "நியூட்டன்"
+  },
+  {
+    "question_en": "Which law explains the working of a rocket?",
+    "question_ta": "ஒரு ராக்கெட் இயங்குவதை விளக்கும் விதி எது?",
+    "options_en": ["Newton’s First Law", "Law of Gravitation", "Newton’s Third Law", "Newton’s Second Law"],
+    "options_ta": ["நியூட்டனின் முதல் விதி", "ஈர்ப்பு விதி", "நியூட்டனின் மூன்றாம் விதி", "நியூட்டனின் இரண்டாம் விதி"],
+    "answer_en": "Newton’s Third Law",
+    "answer_ta": "நியூட்டனின் மூன்றாம் விதி"
+  },
+  {
+    "question_en": "The momentum of a body is defined as:",
+    "question_ta": "ஒரு பொருளின் மோமெண்டம் எவ்வாறு வரையறுக்கப்படுகிறது?",
+    "options_en": ["Work × Distance", "Mass × Velocity", "Force × Time", "Energy ÷ Mass"],
+    "options_ta": ["வேலை × தூரம்", "இடை × வேகம்", "வலு × நேரம்", "ஆற்றல் ÷ நிறை"],
+    "answer_en": "Mass × Velocity",
+    "answer_ta": "இடை × வேகம்"
+  },
+  {
+    "question_en": "The path of light is called:",
+    "question_ta": "ஒளியின் பாதை எவ்வாறு அழைக்கப்படுகிறது?",
+    "options_en": ["Beam", "Photon", "Ray", "Wave"],
+    "options_ta": ["கோணம்", "போட்டான்", "கதிர்", "அலை"],
+    "answer_en": "Ray",
+    "answer_ta": "கதிர்"
+  },
+  {
+    "question_en": "The speed of light in vacuum is approximately:",
+    "question_ta": "வெற்றிடத்தில் ஒளியின் வேகம் சுமார் எவ்வளவு?",
+    "options_en": ["3 × 10^2 m/s", "3 × 10^8 m/s", "3 × 10^4 m/s", "3 × 10^6 m/s"],
+    "options_ta": ["3 × 10^2 மீ/விநா", "3 × 10^8 மீ/விநா", "3 × 10^4 மீ/விநா", "3 × 10^6 மீ/விநா"],
+    "answer_en": "3 × 10^8 m/s",
+    "answer_ta": "3 × 10^8 மீ/விநா"
+  },
+  {
+    "question_en": "The splitting of white light into seven colours is called:",
+    "question_ta": "வெள்ளை ஒளி ஏழு நிறங்களாகப் பிரிவது எவ்வாறு அழைக்கப்படுகிறது?",
+    "options_en": ["Refraction", "Dispersion", "Scattering", "Reflection"],
+    "options_ta": ["விலக்கு", "சிதறல்", "பரவல்", "பிரிதல்"],
+    "answer_en": "Dispersion",
+    "answer_ta": "சிதறல்"
+  },
+  {
+    "question_en": "The image formed by a plane mirror is always:",
+    "question_ta": "சமத்திரை கண்ணாடி உருவாக்கும் படம் எப்போதும் எப்படியாக இருக்கும்?",
+    "options_en": ["Virtual and Inverted", "Real and Inverted", "Virtual and Erect", "Real and Erect"],
+    "options_ta": ["கற்பனை மற்றும் தலைகீழ்", "உண்மை மற்றும் தலைகீழ்", "கற்பனை மற்றும் நேர்", "உண்மை மற்றும் நேர்"],
+    "answer_en": "Virtual and Erect",
+    "answer_ta": "கற்பனை மற்றும் நேர்"
+  },
+  {
+    "question_en": "The SI unit of temperature is:",
+    "question_ta": "வெப்பநிலையின் SI அலகு எது?",
+    "options_en": ["Joule", "Celsius", "Kelvin", "Fahrenheit"],
+    "options_ta": ["ஜூல்", "செல்சியஸ்", "கெல்வின்", "ஃபாரன்ஹீட்"],
+    "answer_en": "Kelvin",
+    "answer_ta": "கெல்வின்"
+  },
+  {
+    "question_en": "Heat transfer by direct contact is called:",
+    "question_ta": "நேரடி தொடுதலால் வெப்பம் பரவுவதை எவ்வாறு அழைக்கப்படுகிறது?",
+    "options_en": ["Radiation", "Conduction", "Evaporation", "Convection"],
+    "options_ta": ["கதிர்வீச்சு", "கடத்தல்", "ஆவியாக்கம்", "சுழற்சி"],
+    "answer_en": "Conduction",
+    "answer_ta": "கடத்தல்"
+  },
+  {
+    "question_en": "Which device measures electric current?",
+    "question_ta": "மின்சார ஓட்டத்தை அளக்கும் கருவி எது?",
+    "options_en": ["Wattmeter", "Ohmmeter", "Ammeter", "Voltmeter"],
+    "options_ta": ["வாட்ட்மீட்டர்", "ஓம்மீட்டர்", "அம்மீட்டர்", "வோல்ட்மீட்டர்"],
+    "answer_en": "Ammeter",
+    "answer_ta": "அம்மீட்டர்"
+  },
+  {
+    "question_en": "The unit of resistance is:",
+    "question_ta": "எதிர்ப்பின் அலகு எது?",
+    "options_en": ["Ohm", "Volt", "Ampere", "Watt"],
+    "options_ta": ["ஓம்", "வோல்ட்", "அம்பியர்", "வாட்"],
+    "answer_en": "Ohm",
+    "answer_ta": "ஓம்"
+  },
+  {
+    "question_en": "The frequency of sound is measured in:",
+    "question_ta": "ஒலியின் அதிர்வெண் எதில் அளக்கப்படுகிறது?",
+    "options_en": ["Decibel", "Hertz", "Newton", "Watt"],
+    "options_ta": ["டெசிபல்", "ஹெர்ட்ஸ்", "நியூட்டன்", "வாட்"],
+    "answer_en": "Hertz",
+    "answer_ta": "ஹெர்ட்ஸ்"
+  },
+  {
+    "question_en": "Which type of mirror is used in a car’s rear-view mirror?",
+    "question_ta": "கார் பின்புறக் கண்ணாடியில் பயன்படுத்தப்படும் கண்ணாடி எது?",
+    "options_en": ["Plane mirror", "Concave mirror", "Convex mirror", "Cylindrical mirror"],
+    "options_ta": ["சமத்திரை கண்ணாடி", "உள்புற வளைந்த கண்ணாடி", "வெளிப்புற வளைந்த கண்ணாடி", "உருளை கண்ணாடி"],
+    "answer_en": "Convex mirror",
+    "answer_ta": "வெளிப்புற வளைந்த கண்ணாடி"
+  },
+  {
+    "question_en": "Which type of lens is used to correct short-sightedness?",
+    "question_ta": "குறுகிய பார்வையை சரி செய்ய எந்த வகை லென்ஸ் பயன்படுத்தப்படுகிறது?",
+    "options_en": ["Convex lens", "Concave lens", "Cylindrical lens", "Plano-convex lens"],
+    "options_ta": ["வெளிநுழை லென்ஸ்", "உள்நுழை லென்ஸ்", "உருளை லென்ஸ்", "சம-வெளிநுழை லென்ஸ்"],
+    "answer_en": "Concave lens",
+    "answer_ta": "உள்நுழை லென்ஸ்"
+  },
+  {
+    "question_en": "The filament of an electric bulb is made of:",
+    "question_ta": "மின்விளக்கின் இழை எந்த உலோகத்தால் செய்யப்படுகிறது?",
+    "options_en": ["Copper", "Tungsten", "Iron", "Aluminium"],
+    "options_ta": ["செம்பு", "டங்க்ஸ்டன்", "இரும்பு", "அலுமினியம்"],
+    "answer_en": "Tungsten",
+    "answer_ta": "டங்க்ஸ்டன்"
+  },
+  {
+    "question_en": "The loudness of sound is measured in:",
+    "question_ta": "ஒலியின் சத்தம் எதில் அளக்கப்படுகிறது?",
+    "options_en": ["Hertz", "Newton", "Decibel", "Joule"],
+    "options_ta": ["ஹெர்ட்ஸ்", "நியூட்டன்", "டெசிபல்", "ஜூல்"],
+    "answer_en": "Decibel",
+    "answer_ta": "டெசிபல்"
+  },
+  {
+    "question_en": "The device used to protect circuits from overcurrent is:",
+    "question_ta": "மின்சார சுற்றுகளை அதிக மின்னோட்டத்திலிருந்து பாதுகாக்கும் கருவி எது?",
+    "options_en": ["Transformer", "Fuse", "Battery", "Resistor"],
+    "options_ta": ["மாற்றி", "ஃப்யூஸ்", "மின்கலம்", "எதிர்ப்பு"],
+    "answer_en": "Fuse",
+    "answer_ta": "ஃப்யூஸ்"
+  },
+  {
+    "question_en": "Which sound cannot be heard by humans?",
+    "question_ta": "மனிதர்களால் கேட்க முடியாத ஒலி எது?",
+    "options_en": ["Ultrasound", "Both", "Infrasound", "None"],
+    "options_ta": ["அல்ட்ராசவுண்ட்", "இரண்டும்", "இன்ஃப்ராசவுண்ட்", "ஒன்றுமில்லை"],
+    "answer_en": "Both",
+    "answer_ta": "இரண்டும்"
+  },
+  {
+    "question_en": "Which device converts sound energy into electrical energy?",
+    "question_ta": "ஒலி ஆற்றலை மின்சார ஆற்றலாக மாற்றும் கருவி எது?",
+    "options_en": ["Microphone", "Speaker", "Transformer", "Battery"],
+    "options_ta": ["மைக்ரோஃபோன்", "ஸ்பீக்கர்", "மாற்றி", "மின்கலம்"],
+    "answer_en": "Microphone",
+    "answer_ta": "மைக்ரோஃபோன்"
+  },
+  {
+    "question_en": "In a nuclear reaction, energy is released due to:",
+    "question_ta": "அணுக்கரு வினையில் ஆற்றல் எதனால் வெளிவருகிறது?",
+    "options_en": ["Fusion only", "Mass defect", "Fission only", "Chemical change"],
+    "options_ta": ["இணைவு மட்டும்", "இடை குறைவு", "பிளவு மட்டும்", "வேதியியல் மாற்றம்"],
+    "answer_en": "Mass defect",
+    "answer_ta": "இடை குறைவு"
+  },
+  {
+    "question_en": "The nucleus of an atom contains:",
+    "question_ta": "ஒரு அணுவின் அணுக்கருவில் எவை உள்ளன?",
+    "options_en": ["Electrons and Neutrons", "Protons and Neutrons", "Electrons and Protons", "Only Electrons"],
+    "options_ta": ["எலக்ட்ரான்கள் மற்றும் நியூட்ரான்கள்", "புரோட்டான்கள் மற்றும் நியூட்ரான்கள்", "எலக்ட்ரான்கள் மற்றும் புரோட்டான்கள்", "எலக்ட்ரான்கள் மட்டும்"],
+    "answer_en": "Protons and Neutrons",
+    "answer_ta": "புரோட்டான்கள் மற்றும் நியூட்ரான்கள்"
+  },
+  {
+    "question_en": "The SI unit of electric charge is:",
+    "question_ta": "மின்சாரச் சுமையின் SI அலகு எது?",
+    "options_en": ["Coulomb", "Volt", "Ampere", "Ohm"],
+    "options_ta": ["கூலம்ப்", "வோல்ட்", "அம்பியர்", "ஓம்"],
+    "answer_en": "Coulomb",
+    "answer_ta": "கூலம்ப்"
+  },
+  {
+    "question_en": "Which energy is possessed by a body due to its motion?",
+    "question_ta": "ஒரு பொருளின் இயக்கத்தால் உருவாகும் ஆற்றல் எது?",
+    "options_en": ["Heat energy", "Potential energy", "Nuclear energy", "Kinetic energy"],
+    "options_ta": ["வெப்ப ஆற்றல்", "நிலை ஆற்றல்", "அணு ஆற்றல்", "இயக்க ஆற்றல்"],
+    "answer_en": "Kinetic energy",
+    "answer_ta": "இயக்க ஆற்றல்"
+  },
+  {
+    "question_en": "The transformer works on the principle of:",
+    "question_ta": "மாற்றி எந்த அடிப்படையில் செயல்படுகிறது?",
+    "options_en": ["Electromagnetic induction", "Photoelectric effect", "Thermal expansion", "Reflection of light"],
+    "options_ta": ["மின்காந்தத் தூண்டல்", "ஒளி மின்பயன்", "வெப்ப விரிவு", "ஒளி பிரதிபலிப்பு"],
+    "answer_en": "Electromagnetic induction",
+    "answer_ta": "மின்காந்தத் தூண்டல்"
+  },
+  {
+    "question_en": "The device used to convert AC to DC is:",
+    "question_ta": "ஏ.சி. மின்னோட்டத்தை டி.சி. மின்னோட்டமாக மாற்றும் கருவி எது?",
+    "options_en": ["Amplifier", "Rectifier", "Generator", "Transformer"],
+    "options_ta": ["அம்ப்ளிஃபையர்", "ரெக்டிஃபையர்", "ஜெனரேட்டர்", "மாற்றி"],
+    "answer_en": "Rectifier",
+    "answer_ta": "ரெக்டிஃபையர்"
+  },
+  {
+    "question_en": "Which part of the human ear helps in balance?",
+    "question_ta": "மனிதக் காதின் எந்த பகுதி சமநிலையை உதவுகிறது?",
+    "options_en": ["Eardrum", "Cochlea", "Semi-circular canals", "Auditory nerve"],
+    "options_ta": ["காது மறை", "கோக்ளியா", "அரை வட்ட கால்வாய்", "கேட்கும் நரம்பு"],
+    "answer_en": "Semi-circular canals",
+    "answer_ta": "அரை வட்ட கால்வாய்"
+  },
+  {
+    "question_en": "The number of protons in an atom is equal to:",
+    "question_ta": "ஒரு அணுவில் உள்ள புரோட்டான்களின் எண்ணிக்கை எதற்கு சமம்?",
+    "options_en": ["Charge", "Mass number", "Atomic number", "Neutron number"],
+    "options_ta": ["மின்னேற்றம்", "இடை எண்", "அணு எண்", "நியூட்ரான் எண்"],
+    "answer_en": "Atomic number",
+    "answer_ta": "அணு எண்"
+  },
+  {
+    "question_en": "Which energy source is renewable?",
+    "question_ta": "புதுப்பிக்கக்கூடிய ஆற்றல் மூலமாக எது உள்ளது?",
+    "options_en": ["Solar energy", "Coal", "Natural gas", "Petroleum"],
+    "options_ta": ["சூரிய ஆற்றல்", "நிலக்கரி", "இயற்கை எரிவாயு", "பெட்ரோலியம்"],
+    "answer_en": "Solar energy",
+    "answer_ta": "சூரிய ஆற்றல்"
+  },
+  {
+    "question_en": "Sound cannot travel through:",
+    "question_ta": "ஒலி எதன் வழியாக பயணம் செய்ய முடியாது?",
+    "options_en": ["Vacuum", "Air", "Water", "Solid"],
+    "options_ta": ["வெற்றிடம்", "காற்று", "நீர்", "திண்மம்"],
+    "answer_en": "Vacuum",
+    "answer_ta": "வெற்றிடம்"
+  }
+]

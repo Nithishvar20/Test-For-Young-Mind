@@ -1,0 +1,902 @@
+[
+  {
+    "question_en": "A man bought item for Rs.550, sold for Rs.650. Profit%=?",
+    "question_ta": "ஒரு மனிதர் ரூ.550 க்கு வாங்கி ரூ.650 க்கு விற்றார். லாப சதவீதம் எவ்வளவு?",
+    "options_en": [
+      "18%",
+      "23%",
+      "13%",
+      "28%"
+    ],
+    "options_ta": [
+      "18%",
+      "23%",
+      "13%",
+      "28%"
+    ],
+    "answer_en": "18%",
+    "answer_ta": "18%"
+  },
+  {
+    "question_en": "A man bought item for Rs.1050, sold for Rs.1150. Profit%=?",
+    "question_ta": "ஒரு மனிதர் ரூ.1050 க்கு வாங்கி ரூ.1150 க்கு விற்றார். லாப சதவீதம் எவ்வளவு?",
+    "options_en": [
+      "5%",
+      "20%",
+      "10%",
+      "15%"
+    ],
+    "options_ta": [
+      "5%",
+      "20%",
+      "10%",
+      "15%"
+    ],
+    "answer_en": "10%",
+    "answer_ta": "10%"
+  },
+  {
+    "question_en": "A man bought item for Rs.1150, sold for Rs.1250. Profit%=?",
+    "question_ta": "ஒரு மனிதர் ரூ.1150 க்கு வாங்கி ரூ.1250 க்கு விற்றார். லாப சதவீதம் எவ்வளவு?",
+    "options_en": [
+      "4%",
+      "9%",
+      "19%",
+      "14%"
+    ],
+    "options_ta": [
+      "4%",
+      "9%",
+      "19%",
+      "14%"
+    ],
+    "answer_en": "9%",
+    "answer_ta": "9%"
+  },
+  {
+    "question_en": "A man bought item for Rs.1100, sold for Rs.1200. Profit%=?",
+    "question_ta": "ஒரு மனிதர் ரூ.1100 க்கு வாங்கி ரூ.1200 க்கு விற்றார். லாப சதவீதம் எவ்வளவு?",
+    "options_en": [
+      "4%",
+      "9%",
+      "14%",
+      "19%"
+    ],
+    "options_ta": [
+      "4%",
+      "9%",
+      "14%",
+      "19%"
+    ],
+    "answer_en": "9%",
+    "answer_ta": "9%"
+  },
+  {
+    "question_en": "A man bought item for Rs.1000, sold for Rs.1100. Profit%=?",
+    "question_ta": "ஒரு மனிதர் ரூ.1000 க்கு வாங்கி ரூ.1100 க்கு விற்றார். லாப சதவீதம் எவ்வளவு?",
+    "options_en": [
+      "10%",
+      "5%",
+      "15%",
+      "20%"
+    ],
+    "options_ta": [
+      "10%",
+      "5%",
+      "15%",
+      "20%"
+    ],
+    "answer_en": "10%",
+    "answer_ta": "10%"
+  },
+  {
+    "question_en": "A man bought item for Rs.450, sold for Rs.550. Profit%=?",
+    "question_ta": "ஒரு மனிதர் ரூ.450 க்கு வாங்கி ரூ.550 க்கு விற்றார். லாப சதவீதம் எவ்வளவு?",
+    "options_en": [
+      "27%",
+      "32%",
+      "17%",
+      "22%"
+    ],
+    "options_ta": [
+      "27%",
+      "32%",
+      "17%",
+      "22%"
+    ],
+    "answer_en": "22%",
+    "answer_ta": "22%"
+  },
+  {
+    "question_en": "A man bought item for Rs.500, sold for Rs.600. Profit%=?",
+    "question_ta": "ஒரு மனிதர் ரூ.500 க்கு வாங்கி ரூ.600 க்கு விற்றார். லாப சதவீதம் எவ்வளவு?",
+    "options_en": [
+      "20%",
+      "15%",
+      "30%",
+      "25%"
+    ],
+    "options_ta": [
+      "20%",
+      "15%",
+      "30%",
+      "25%"
+    ],
+    "answer_en": "20%",
+    "answer_ta": "20%"
+  },
+  {
+    "question_en": "A man bought item for Rs.450, sold for Rs.550. Profit%=?",
+    "question_ta": "ஒரு மனிதர் ரூ.450 க்கு வாங்கி ரூ.550 க்கு விற்றார். லாப சதவீதம் எவ்வளவு?",
+    "options_en": [
+      "22%",
+      "32%",
+      "27%",
+      "17%"
+    ],
+    "options_ta": [
+      "22%",
+      "32%",
+      "27%",
+      "17%"
+    ],
+    "answer_en": "22%",
+    "answer_ta": "22%"
+  },
+  {
+    "question_en": "A man bought item for Rs.650, sold for Rs.750. Profit%=?",
+    "question_ta": "ஒரு மனிதர் ரூ.650 க்கு வாங்கி ரூ.750 க்கு விற்றார். லாப சதவீதம் எவ்வளவு?",
+    "options_en": [
+      "10%",
+      "25%",
+      "20%",
+      "15%"
+    ],
+    "options_ta": [
+      "10%",
+      "25%",
+      "20%",
+      "15%"
+    ],
+    "answer_en": "15%",
+    "answer_ta": "15%"
+  },
+  {
+    "question_en": "A man bought item for Rs.450, sold for Rs.550. Profit%=?",
+    "question_ta": "ஒரு மனிதர் ரூ.450 க்கு வாங்கி ரூ.550 க்கு விற்றார். லாப சதவீதம் எவ்வளவு?",
+    "options_en": [
+      "17%",
+      "32%",
+      "27%",
+      "22%"
+    ],
+    "options_ta": [
+      "17%",
+      "32%",
+      "27%",
+      "22%"
+    ],
+    "answer_en": "22%",
+    "answer_ta": "22%"
+  },
+  {
+    "question_en": "A man bought item for Rs.1150, sold for Rs.1250. Profit%=?",
+    "question_ta": "ஒரு மனிதர் ரூ.1150 க்கு வாங்கி ரூ.1250 க்கு விற்றார். லாப சதவீதம் எவ்வளவு?",
+    "options_en": [
+      "4%",
+      "9%",
+      "19%",
+      "14%"
+    ],
+    "options_ta": [
+      "4%",
+      "9%",
+      "19%",
+      "14%"
+    ],
+    "answer_en": "9%",
+    "answer_ta": "9%"
+  },
+  {
+    "question_en": "A man bought item for Rs.850, sold for Rs.950. Profit%=?",
+    "question_ta": "ஒரு மனிதர் ரூ.850 க்கு வாங்கி ரூ.950 க்கு விற்றார். லாப சதவீதம் எவ்வளவு?",
+    "options_en": [
+      "22%",
+      "12%",
+      "17%",
+      "7%"
+    ],
+    "options_ta": [
+      "22%",
+      "12%",
+      "17%",
+      "7%"
+    ],
+    "answer_en": "12%",
+    "answer_ta": "12%"
+  },
+  {
+    "question_en": "A man bought item for Rs.800, sold for Rs.900. Profit%=?",
+    "question_ta": "ஒரு மனிதர் ரூ.800 க்கு வாங்கி ரூ.900 க்கு விற்றார். லாப சதவீதம் எவ்வளவு?",
+    "options_en": [
+      "7%",
+      "17%",
+      "12%",
+      "22%"
+    ],
+    "options_ta": [
+      "7%",
+      "17%",
+      "12%",
+      "22%"
+    ],
+    "answer_en": "12%",
+    "answer_ta": "12%"
+  },
+  {
+    "question_en": "A man bought item for Rs.950, sold for Rs.1050. Profit%=?",
+    "question_ta": "ஒரு மனிதர் ரூ.950 க்கு வாங்கி ரூ.1050 க்கு விற்றார். லாப சதவீதம் எவ்வளவு?",
+    "options_en": [
+      "16%",
+      "11%",
+      "6%",
+      "21%"
+    ],
+    "options_ta": [
+      "16%",
+      "11%",
+      "6%",
+      "21%"
+    ],
+    "answer_en": "11%",
+    "answer_ta": "11%"
+  },
+  {
+    "question_en": "A man bought item for Rs.1150, sold for Rs.1250. Profit%=?",
+    "question_ta": "ஒரு மனிதர் ரூ.1150 க்கு வாங்கி ரூ.1250 க்கு விற்றார். லாப சதவீதம் எவ்வளவு?",
+    "options_en": [
+      "9%",
+      "4%",
+      "14%",
+      "19%"
+    ],
+    "options_ta": [
+      "9%",
+      "4%",
+      "14%",
+      "19%"
+    ],
+    "answer_en": "9%",
+    "answer_ta": "9%"
+  },
+  {
+    "question_en": "A man bought item for Rs.600, sold for Rs.700. Profit%=?",
+    "question_ta": "ஒரு மனிதர் ரூ.600 க்கு வாங்கி ரூ.700 க்கு விற்றார். லாப சதவீதம் எவ்வளவு?",
+    "options_en": [
+      "12%",
+      "22%",
+      "27%",
+      "17%"
+    ],
+    "options_ta": [
+      "12%",
+      "22%",
+      "27%",
+      "17%"
+    ],
+    "answer_en": "17%",
+    "answer_ta": "17%"
+  },
+  {
+    "question_en": "A man bought item for Rs.650, sold for Rs.750. Profit%=?",
+    "question_ta": "ஒரு மனிதர் ரூ.650 க்கு வாங்கி ரூ.750 க்கு விற்றார். லாப சதவீதம் எவ்வளவு?",
+    "options_en": [
+      "15%",
+      "10%",
+      "25%",
+      "20%"
+    ],
+    "options_ta": [
+      "15%",
+      "10%",
+      "25%",
+      "20%"
+    ],
+    "answer_en": "15%",
+    "answer_ta": "15%"
+  },
+  {
+    "question_en": "A man bought item for Rs.1100, sold for Rs.1200. Profit%=?",
+    "question_ta": "ஒரு மனிதர் ரூ.1100 க்கு வாங்கி ரூ.1200 க்கு விற்றார். லாப சதவீதம் எவ்வளவு?",
+    "options_en": [
+      "4%",
+      "14%",
+      "9%",
+      "19%"
+    ],
+    "options_ta": [
+      "4%",
+      "14%",
+      "9%",
+      "19%"
+    ],
+    "answer_en": "9%",
+    "answer_ta": "9%"
+  },
+  {
+    "question_en": "A man bought item for Rs.600, sold for Rs.700. Profit%=?",
+    "question_ta": "ஒரு மனிதர் ரூ.600 க்கு வாங்கி ரூ.700 க்கு விற்றார். லாப சதவீதம் எவ்வளவு?",
+    "options_en": [
+      "17%",
+      "12%",
+      "27%",
+      "22%"
+    ],
+    "options_ta": [
+      "17%",
+      "12%",
+      "27%",
+      "22%"
+    ],
+    "answer_en": "17%",
+    "answer_ta": "17%"
+  },
+  {
+    "question_en": "A man bought item for Rs.950, sold for Rs.1050. Profit%=?",
+    "question_ta": "ஒரு மனிதர் ரூ.950 க்கு வாங்கி ரூ.1050 க்கு விற்றார். லாப சதவீதம் எவ்வளவு?",
+    "options_en": [
+      "21%",
+      "11%",
+      "6%",
+      "16%"
+    ],
+    "options_ta": [
+      "21%",
+      "11%",
+      "6%",
+      "16%"
+    ],
+    "answer_en": "11%",
+    "answer_ta": "11%"
+  },
+  {
+    "question_en": "A man bought item for Rs.700, sold for Rs.800. Profit%=?",
+    "question_ta": "ஒரு மனிதர் ரூ.700 க்கு வாங்கி ரூ.800 க்கு விற்றார். லாப சதவீதம் எவ்வளவு?",
+    "options_en": [
+      "9%",
+      "14%",
+      "19%",
+      "24%"
+    ],
+    "options_ta": [
+      "9%",
+      "14%",
+      "19%",
+      "24%"
+    ],
+    "answer_en": "14%",
+    "answer_ta": "14%"
+  },
+  {
+    "question_en": "A man bought item for Rs.950, sold for Rs.1050. Profit%=?",
+    "question_ta": "ஒரு மனிதர் ரூ.950 க்கு வாங்கி ரூ.1050 க்கு விற்றார். லாப சதவீதம் எவ்வளவு?",
+    "options_en": [
+      "16%",
+      "11%",
+      "6%",
+      "21%"
+    ],
+    "options_ta": [
+      "16%",
+      "11%",
+      "6%",
+      "21%"
+    ],
+    "answer_en": "11%",
+    "answer_ta": "11%"
+  },
+  {
+    "question_en": "A man bought item for Rs.700, sold for Rs.800. Profit%=?",
+    "question_ta": "ஒரு மனிதர் ரூ.700 க்கு வாங்கி ரூ.800 க்கு விற்றார். லாப சதவீதம் எவ்வளவு?",
+    "options_en": [
+      "9%",
+      "19%",
+      "14%",
+      "24%"
+    ],
+    "options_ta": [
+      "9%",
+      "19%",
+      "14%",
+      "24%"
+    ],
+    "answer_en": "14%",
+    "answer_ta": "14%"
+  },
+  {
+    "question_en": "A man bought item for Rs.950, sold for Rs.1050. Profit%=?",
+    "question_ta": "ஒரு மனிதர் ரூ.950 க்கு வாங்கி ரூ.1050 க்கு விற்றார். லாப சதவீதம் எவ்வளவு?",
+    "options_en": [
+      "16%",
+      "6%",
+      "21%",
+      "11%"
+    ],
+    "options_ta": [
+      "16%",
+      "6%",
+      "21%",
+      "11%"
+    ],
+    "answer_en": "11%",
+    "answer_ta": "11%"
+  },
+  {
+    "question_en": "A man bought item for Rs.800, sold for Rs.900. Profit%=?",
+    "question_ta": "ஒரு மனிதர் ரூ.800 க்கு வாங்கி ரூ.900 க்கு விற்றார். லாப சதவீதம் எவ்வளவு?",
+    "options_en": [
+      "17%",
+      "12%",
+      "22%",
+      "7%"
+    ],
+    "options_ta": [
+      "17%",
+      "12%",
+      "22%",
+      "7%"
+    ],
+    "answer_en": "12%",
+    "answer_ta": "12%"
+  },
+  {
+    "question_en": "A man bought item for Rs.1100, sold for Rs.1200. Profit%=?",
+    "question_ta": "ஒரு மனிதர் ரூ.1100 க்கு வாங்கி ரூ.1200 க்கு விற்றார். லாப சதவீதம் எவ்வளவு?",
+    "options_en": [
+      "4%",
+      "19%",
+      "14%",
+      "9%"
+    ],
+    "options_ta": [
+      "4%",
+      "19%",
+      "14%",
+      "9%"
+    ],
+    "answer_en": "9%",
+    "answer_ta": "9%"
+  },
+  {
+    "question_en": "A man bought item for Rs.750, sold for Rs.850. Profit%=?",
+    "question_ta": "ஒரு மனிதர் ரூ.750 க்கு வாங்கி ரூ.850 க்கு விற்றார். லாப சதவீதம் எவ்வளவு?",
+    "options_en": [
+      "23%",
+      "18%",
+      "13%",
+      "8%"
+    ],
+    "options_ta": [
+      "23%",
+      "18%",
+      "13%",
+      "8%"
+    ],
+    "answer_en": "13%",
+    "answer_ta": "13%"
+  },
+  {
+    "question_en": "A man bought item for Rs.900, sold for Rs.1000. Profit%=?",
+    "question_ta": "ஒரு மனிதர் ரூ.900 க்கு வாங்கி ரூ.1000 க்கு விற்றார். லாப சதவீதம் எவ்வளவு?",
+    "options_en": [
+      "11%",
+      "16%",
+      "21%",
+      "6%"
+    ],
+    "options_ta": [
+      "11%",
+      "16%",
+      "21%",
+      "6%"
+    ],
+    "answer_en": "11%",
+    "answer_ta": "11%"
+  },
+  {
+    "question_en": "A man bought item for Rs.650, sold for Rs.750. Profit%=?",
+    "question_ta": "ஒரு மனிதர் ரூ.650 க்கு வாங்கி ரூ.750 க்கு விற்றார். லாப சதவீதம் எவ்வளவு?",
+    "options_en": [
+      "25%",
+      "10%",
+      "15%",
+      "20%"
+    ],
+    "options_ta": [
+      "25%",
+      "10%",
+      "15%",
+      "20%"
+    ],
+    "answer_en": "15%",
+    "answer_ta": "15%"
+  },
+  {
+    "question_en": "A man bought item for Rs.900, sold for Rs.1000. Profit%=?",
+    "question_ta": "ஒரு மனிதர் ரூ.900 க்கு வாங்கி ரூ.1000 க்கு விற்றார். லாப சதவீதம் எவ்வளவு?",
+    "options_en": [
+      "16%",
+      "11%",
+      "21%",
+      "6%"
+    ],
+    "options_ta": [
+      "16%",
+      "11%",
+      "21%",
+      "6%"
+    ],
+    "answer_en": "11%",
+    "answer_ta": "11%"
+  },
+  {
+    "question_en": "A man bought item for Rs.700, sold for Rs.800. Profit%=?",
+    "question_ta": "ஒரு மனிதர் ரூ.700 க்கு வாங்கி ரூ.800 க்கு விற்றார். லாப சதவீதம் எவ்வளவு?",
+    "options_en": [
+      "24%",
+      "19%",
+      "14%",
+      "9%"
+    ],
+    "options_ta": [
+      "24%",
+      "19%",
+      "14%",
+      "9%"
+    ],
+    "answer_en": "14%",
+    "answer_ta": "14%"
+  },
+  {
+    "question_en": "A man bought item for Rs.600, sold for Rs.700. Profit%=?",
+    "question_ta": "ஒரு மனிதர் ரூ.600 க்கு வாங்கி ரூ.700 க்கு விற்றார். லாப சதவீதம் எவ்வளவு?",
+    "options_en": [
+      "27%",
+      "12%",
+      "17%",
+      "22%"
+    ],
+    "options_ta": [
+      "27%",
+      "12%",
+      "17%",
+      "22%"
+    ],
+    "answer_en": "17%",
+    "answer_ta": "17%"
+  },
+  {
+    "question_en": "A man bought item for Rs.400, sold for Rs.500. Profit%=?",
+    "question_ta": "ஒரு மனிதர் ரூ.400 க்கு வாங்கி ரூ.500 க்கு விற்றார். லாப சதவீதம் எவ்வளவு?",
+    "options_en": [
+      "30%",
+      "25%",
+      "20%",
+      "35%"
+    ],
+    "options_ta": [
+      "30%",
+      "25%",
+      "20%",
+      "35%"
+    ],
+    "answer_en": "25%",
+    "answer_ta": "25%"
+  },
+  {
+    "question_en": "A man bought item for Rs.500, sold for Rs.600. Profit%=?",
+    "question_ta": "ஒரு மனிதர் ரூ.500 க்கு வாங்கி ரூ.600 க்கு விற்றார். லாப சதவீதம் எவ்வளவு?",
+    "options_en": [
+      "30%",
+      "15%",
+      "20%",
+      "25%"
+    ],
+    "options_ta": [
+      "30%",
+      "15%",
+      "20%",
+      "25%"
+    ],
+    "answer_en": "20%",
+    "answer_ta": "20%"
+  },
+  {
+    "question_en": "A man bought item for Rs.900, sold for Rs.1000. Profit%=?",
+    "question_ta": "ஒரு மனிதர் ரூ.900 க்கு வாங்கி ரூ.1000 க்கு விற்றார். லாப சதவீதம் எவ்வளவு?",
+    "options_en": [
+      "11%",
+      "6%",
+      "21%",
+      "16%"
+    ],
+    "options_ta": [
+      "11%",
+      "6%",
+      "21%",
+      "16%"
+    ],
+    "answer_en": "11%",
+    "answer_ta": "11%"
+  },
+  {
+    "question_en": "A man bought item for Rs.400, sold for Rs.500. Profit%=?",
+    "question_ta": "ஒரு மனிதர் ரூ.400 க்கு வாங்கி ரூ.500 க்கு விற்றார். லாப சதவீதம் எவ்வளவு?",
+    "options_en": [
+      "30%",
+      "20%",
+      "25%",
+      "35%"
+    ],
+    "options_ta": [
+      "30%",
+      "20%",
+      "25%",
+      "35%"
+    ],
+    "answer_en": "25%",
+    "answer_ta": "25%"
+  },
+  {
+    "question_en": "A man bought item for Rs.750, sold for Rs.850. Profit%=?",
+    "question_ta": "ஒரு மனிதர் ரூ.750 க்கு வாங்கி ரூ.850 க்கு விற்றார். லாப சதவீதம் எவ்வளவு?",
+    "options_en": [
+      "18%",
+      "8%",
+      "23%",
+      "13%"
+    ],
+    "options_ta": [
+      "18%",
+      "8%",
+      "23%",
+      "13%"
+    ],
+    "answer_en": "13%",
+    "answer_ta": "13%"
+  },
+  {
+    "question_en": "A man bought item for Rs.1150, sold for Rs.1250. Profit%=?",
+    "question_ta": "ஒரு மனிதர் ரூ.1150 க்கு வாங்கி ரூ.1250 க்கு விற்றார். லாப சதவீதம் எவ்வளவு?",
+    "options_en": [
+      "14%",
+      "4%",
+      "19%",
+      "9%"
+    ],
+    "options_ta": [
+      "14%",
+      "4%",
+      "19%",
+      "9%"
+    ],
+    "answer_en": "9%",
+    "answer_ta": "9%"
+  },
+  {
+    "question_en": "A man bought item for Rs.1000, sold for Rs.1100. Profit%=?",
+    "question_ta": "ஒரு மனிதர் ரூ.1000 க்கு வாங்கி ரூ.1100 க்கு விற்றார். லாப சதவீதம் எவ்வளவு?",
+    "options_en": [
+      "10%",
+      "20%",
+      "5%",
+      "15%"
+    ],
+    "options_ta": [
+      "10%",
+      "20%",
+      "5%",
+      "15%"
+    ],
+    "answer_en": "10%",
+    "answer_ta": "10%"
+  },
+  {
+    "question_en": "A man bought item for Rs.450, sold for Rs.550. Profit%=?",
+    "question_ta": "ஒரு மனிதர் ரூ.450 க்கு வாங்கி ரூ.550 க்கு விற்றார். லாப சதவீதம் எவ்வளவு?",
+    "options_en": [
+      "17%",
+      "32%",
+      "22%",
+      "27%"
+    ],
+    "options_ta": [
+      "17%",
+      "32%",
+      "22%",
+      "27%"
+    ],
+    "answer_en": "22%",
+    "answer_ta": "22%"
+  },
+  {
+    "question_en": "A man bought item for Rs.1000, sold for Rs.1100. Profit%=?",
+    "question_ta": "ஒரு மனிதர் ரூ.1000 க்கு வாங்கி ரூ.1100 க்கு விற்றார். லாப சதவீதம் எவ்வளவு?",
+    "options_en": [
+      "10%",
+      "20%",
+      "15%",
+      "5%"
+    ],
+    "options_ta": [
+      "10%",
+      "20%",
+      "15%",
+      "5%"
+    ],
+    "answer_en": "10%",
+    "answer_ta": "10%"
+  },
+  {
+    "question_en": "A man bought item for Rs.500, sold for Rs.600. Profit%=?",
+    "question_ta": "ஒரு மனிதர் ரூ.500 க்கு வாங்கி ரூ.600 க்கு விற்றார். லாப சதவீதம் எவ்வளவு?",
+    "options_en": [
+      "15%",
+      "20%",
+      "25%",
+      "30%"
+    ],
+    "options_ta": [
+      "15%",
+      "20%",
+      "25%",
+      "30%"
+    ],
+    "answer_en": "20%",
+    "answer_ta": "20%"
+  },
+  {
+    "question_en": "A man bought item for Rs.1050, sold for Rs.1150. Profit%=?",
+    "question_ta": "ஒரு மனிதர் ரூ.1050 க்கு வாங்கி ரூ.1150 க்கு விற்றார். லாப சதவீதம் எவ்வளவு?",
+    "options_en": [
+      "10%",
+      "15%",
+      "5%",
+      "20%"
+    ],
+    "options_ta": [
+      "10%",
+      "15%",
+      "5%",
+      "20%"
+    ],
+    "answer_en": "10%",
+    "answer_ta": "10%"
+  },
+  {
+    "question_en": "A man bought item for Rs.900, sold for Rs.1000. Profit%=?",
+    "question_ta": "ஒரு மனிதர் ரூ.900 க்கு வாங்கி ரூ.1000 க்கு விற்றார். லாப சதவீதம் எவ்வளவு?",
+    "options_en": [
+      "6%",
+      "21%",
+      "16%",
+      "11%"
+    ],
+    "options_ta": [
+      "6%",
+      "21%",
+      "16%",
+      "11%"
+    ],
+    "answer_en": "11%",
+    "answer_ta": "11%"
+  },
+  {
+    "question_en": "A man bought item for Rs.450, sold for Rs.550. Profit%=?",
+    "question_ta": "ஒரு மனிதர் ரூ.450 க்கு வாங்கி ரூ.550 க்கு விற்றார். லாப சதவீதம் எவ்வளவு?",
+    "options_en": [
+      "32%",
+      "27%",
+      "17%",
+      "22%"
+    ],
+    "options_ta": [
+      "32%",
+      "27%",
+      "17%",
+      "22%"
+    ],
+    "answer_en": "22%",
+    "answer_ta": "22%"
+  },
+  {
+    "question_en": "A man bought item for Rs.1100, sold for Rs.1200. Profit%=?",
+    "question_ta": "ஒரு மனிதர் ரூ.1100 க்கு வாங்கி ரூ.1200 க்கு விற்றார். லாப சதவீதம் எவ்வளவு?",
+    "options_en": [
+      "19%",
+      "14%",
+      "4%",
+      "9%"
+    ],
+    "options_ta": [
+      "19%",
+      "14%",
+      "4%",
+      "9%"
+    ],
+    "answer_en": "9%",
+    "answer_ta": "9%"
+  },
+  {
+    "question_en": "A man bought item for Rs.850, sold for Rs.950. Profit%=?",
+    "question_ta": "ஒரு மனிதர் ரூ.850 க்கு வாங்கி ரூ.950 க்கு விற்றார். லாப சதவீதம் எவ்வளவு?",
+    "options_en": [
+      "12%",
+      "22%",
+      "7%",
+      "17%"
+    ],
+    "options_ta": [
+      "12%",
+      "22%",
+      "7%",
+      "17%"
+    ],
+    "answer_en": "12%",
+    "answer_ta": "12%"
+  },
+  {
+    "question_en": "A man bought item for Rs.600, sold for Rs.700. Profit%=?",
+    "question_ta": "ஒரு மனிதர் ரூ.600 க்கு வாங்கி ரூ.700 க்கு விற்றார். லாப சதவீதம் எவ்வளவு?",
+    "options_en": [
+      "27%",
+      "17%",
+      "12%",
+      "22%"
+    ],
+    "options_ta": [
+      "27%",
+      "17%",
+      "12%",
+      "22%"
+    ],
+    "answer_en": "17%",
+    "answer_ta": "17%"
+  },
+  {
+    "question_en": "A man bought item for Rs.650, sold for Rs.750. Profit%=?",
+    "question_ta": "ஒரு மனிதர் ரூ.650 க்கு வாங்கி ரூ.750 க்கு விற்றார். லாப சதவீதம் எவ்வளவு?",
+    "options_en": [
+      "25%",
+      "20%",
+      "15%",
+      "10%"
+    ],
+    "options_ta": [
+      "25%",
+      "20%",
+      "15%",
+      "10%"
+    ],
+    "answer_en": "15%",
+    "answer_ta": "15%"
+  },
+  {
+    "question_en": "A man bought item for Rs.800, sold for Rs.900. Profit%=?",
+    "question_ta": "ஒரு மனிதர் ரூ.800 க்கு வாங்கி ரூ.900 க்கு விற்றார். லாப சதவீதம் எவ்வளவு?",
+    "options_en": [
+      "12%",
+      "7%",
+      "22%",
+      "17%"
+    ],
+    "options_ta": [
+      "12%",
+      "7%",
+      "22%",
+      "17%"
+    ],
+    "answer_en": "12%",
+    "answer_ta": "12%"
+  }
+]

@@ -1,0 +1,902 @@
+[
+  {
+    "question_en": "Who is known as the Father of the Nation in India?",
+    "question_ta": "இந்தியாவின் தேசத் தந்தை யார்?",
+    "options_en": [
+      "Mahatma Gandhi",
+      "Jawaharlal Nehru",
+      "Subhas Chandra Bose",
+      "B. R. Ambedkar"
+    ],
+    "options_ta": [
+      "மகாத்மா காந்தி",
+      "ஜவஹர்லால் நேரு",
+      "சுபாஷ் சந்திரபோஸ்",
+      "பி. ஆர். அம்பேத்கர்"
+    ],
+    "answer_en": "Mahatma Gandhi",
+    "answer_ta": "மகாத்மா காந்தி"
+  },
+  {
+    "question_en": "In which year did India gain Independence?",
+    "question_ta": "இந்தியா எந்த ஆண்டு சுதந்திரம் பெற்றது?",
+    "options_en": [
+      "1945",
+      "1947",
+      "1950",
+      "1939"
+    ],
+    "options_ta": [
+      "1945",
+      "1947",
+      "1950",
+      "1939"
+    ],
+    "answer_en": "1947",
+    "answer_ta": "1947"
+  },
+  {
+    "question_en": "Who was the first Prime Minister of India?",
+    "question_ta": "இந்தியாவின் முதல் பிரதமர் யார்?",
+    "options_en": [
+      "Sardar Patel",
+      "Rajendra Prasad",
+      "Jawaharlal Nehru",
+      "C. Rajagopalachari"
+    ],
+    "options_ta": [
+      "சர்தார் பட்டேல்",
+      "ராஜேந்திர பிரசாத்",
+      "ஜவஹர்லால் நேரு",
+      "சி. ராஜகோபாலச்சாரி"
+    ],
+    "answer_en": "Jawaharlal Nehru",
+    "answer_ta": "ஜவஹர்லால் நேரு"
+  },
+  {
+    "question_en": "Who was the Chairman of the Drafting Committee of the Indian Constitution?",
+    "question_ta": "இந்திய அரசியலமைப்பை தயார் செய்த குழுவின் தலைவர் யார்?",
+    "options_en": [
+      "Jawaharlal Nehru",
+      "S. Radhakrishnan",
+      "Mahatma Gandhi",
+      "Dr. B. R. Ambedkar"
+    ],
+    "options_ta": [
+      "ஜவஹர்லால் நேரு",
+      "ஸ். இராதாகிருஷ்ணன்",
+      "மகாத்மா காந்தி",
+      "டாக்டர் பி. ஆர். அம்பேத்கர்"
+    ],
+    "answer_en": "Dr. B. R. Ambedkar",
+    "answer_ta": "டாக்டர் பி. ஆர். அம்பேத்கர்"
+  },
+  {
+    "question_en": "What is the capital of Tamil Nadu?",
+    "question_ta": "தமிழ்நாட்டின் தலைநகரம் எது?",
+    "options_en": [
+      "Chennai",
+      "Madurai",
+      "Coimbatore",
+      "Tiruchirappalli"
+    ],
+    "options_ta": [
+      "சென்னை",
+      "மதுரை",
+      "கோயம்புத்தூர்",
+      "திருச்சி"
+    ],
+    "answer_en": "Chennai",
+    "answer_ta": "சென்னை"
+  },
+  {
+    "question_en": "Which ocean lies to the south of India?",
+    "question_ta": "இந்தியாவின் தெற்கில் எந்த பெருங்கடல் உள்ளது?",
+    "options_en": [
+      "Atlantic Ocean",
+      "Indian Ocean",
+      "Pacific Ocean",
+      "Arctic Ocean"
+    ],
+    "options_ta": [
+      "அட்லாண்டிக் பெருங்கடல்",
+      "இந்தியப் பெருங்கடல்",
+      "பசிபிக் பெருங்கடல்",
+      "ஆர்க்டிக் கடல்"
+    ],
+    "answer_en": "Indian Ocean",
+    "answer_ta": "இந்தியப் பெருங்கடல்"
+  },
+  {
+    "question_en": "Which is the longest river in India?",
+    "question_ta": "இந்தியாவில் எந்த நதி நீளமாக உள்ளது?",
+    "options_en": [
+      "Godavari",
+      "Narmada",
+      "Ganga",
+      "Brahmaputra"
+    ],
+    "options_ta": [
+      "கோதாவரி",
+      "நர்மதா",
+      "கங்கை",
+      "பிரம்மபுத்திரா"
+    ],
+    "answer_en": "Ganga",
+    "answer_ta": "கங்கை"
+  },
+  {
+    "question_en": "Which mountain is the highest peak in India?",
+    "question_ta": "இந்தியாவில் மிக உயரமான மலை உச்சி எது?",
+    "options_en": [
+      "Mount Everest",
+      "K2",
+      "Nanda Devi",
+      "Kanchenjunga"
+    ],
+    "options_ta": [
+      "எவரெஸ்ட் மலை",
+      "கே2",
+      "நந்தா தேவி",
+      "காஞ்சன்ஜங்கா"
+    ],
+    "answer_en": "Kanchenjunga",
+    "answer_ta": "காஞ்சன்ஜங்கா"
+  },
+  {
+    "question_en": "Which is the national animal of India?",
+    "question_ta": "இந்தியாவின் தேசிய விலங்கு எது?",
+    "options_en": [
+      "Tiger",
+      "Elephant",
+      "Lion",
+      "Peacock"
+    ],
+    "options_ta": [
+      "புலி",
+      "யானை",
+      "சிங்கம்",
+      "மயில்"
+    ],
+    "answer_en": "Tiger",
+    "answer_ta": "புலி"
+  },
+  {
+    "question_en": "What is the national bird of India?",
+    "question_ta": "இந்தியாவின் தேசிய பறவை எது?",
+    "options_en": [
+      "Sparrow",
+      "Peacock",
+      "Crow",
+      "Eagle"
+    ],
+    "options_ta": [
+      "சிட்டுக்குருவி",
+      "மயில்",
+      "காகம்",
+      "இகு"
+    ],
+    "answer_en": "Peacock",
+    "answer_ta": "மயில்"
+  },
+  {
+    "question_en": "Who led the Salt Satyagraha (Dandi March) in 1930?",
+    "question_ta": "1930-இல் உப்பு சத்தியகிரகாவை (டாண்டி நடை) யார் தலைமையிட்டார்?",
+    "options_en": [
+      "Subhas Chandra Bose",
+      "Jawaharlal Nehru",
+      "Mahatma Gandhi",
+      "Sardar Patel"
+    ],
+    "options_ta": [
+      "சுபாஷ் சந்திரபோஸ்",
+      "ஜவஹர்லால் நேரு",
+      "மகாத்மா காந்தி",
+      "சர்தார் பட்டேல்"
+    ],
+    "answer_en": "Mahatma Gandhi",
+    "answer_ta": "மகாத்மா காந்தி"
+  },
+  {
+    "question_en": "When is Republic Day celebrated in India?",
+    "question_ta": "இந்தியாவில் குடியரசு தினம் எப்போது கொண்டாடப்படுகிறது?",
+    "options_en": [
+      "15 August",
+      "2 October",
+      "1 January",
+      "26 January"
+    ],
+    "options_ta": [
+      "15 ஆகஸ்ட்",
+      "2 அக்டோபர்",
+      "1 ஜனவரி",
+      "26 ஜனவரி"
+    ],
+    "answer_en": "26 January",
+    "answer_ta": "26 ஜனவரி"
+  },
+  {
+    "question_en": "Which document is the supreme law of India?",
+    "question_ta": "இந்தியாவின் மிகப் பரவலான சட்ட ஆவணம் எது?",
+    "options_en": [
+      "The Constitution",
+      "Indian Penal Code",
+      "President's Orders",
+      "Parliamentary Acts"
+    ],
+    "options_ta": [
+      "அரசியலமைப்பு",
+      "இந்திய குற்ற சட்டம்",
+      "குடியரசுத் தலைவரின் உத்தரவு",
+      "பாராளுமன்றச் சட்டங்கள்"
+    ],
+    "answer_en": "The Constitution",
+    "answer_ta": "அரசியலமைப்பு"
+  },
+  {
+    "question_en": "Who is the head of the state in India?",
+    "question_ta": "இந்தியாவில் மாநிலத் தலைவர் யார்?",
+    "options_en": [
+      "Prime Minister",
+      "President",
+      "Chief Justice",
+      "Governor"
+    ],
+    "options_ta": [
+      "பிரதமர்",
+      "குடியரசுத் தலைவர்",
+      "சீன்ஜஸ்ட்",
+      "முதல்வர்"
+    ],
+    "answer_en": "President",
+    "answer_ta": "குடியரசுத் தலைவர்"
+  },
+  {
+    "question_en": "Which body makes laws at the national level in India?",
+    "question_ta": "இந்தியாவில் தேசிய மட்டத்தில் சட்டங்களை தயாரிக்கும் அமைப்பு எது?",
+    "options_en": [
+      "State Assembly",
+      "Supreme Court",
+      "Parliament",
+      "Election Commission"
+    ],
+    "options_ta": [
+      "மாநில சட்டமன்றம்",
+      "சுப்ரீம் கோர்ட்",
+      "பாராளுமன்றம்",
+      "தேர்தல் ஆணையம்"
+    ],
+    "answer_en": "Parliament",
+    "answer_ta": "பாராளுமன்றம்"
+  },
+  {
+    "question_en": "What do we call the basic rights guaranteed by the Constitution?",
+    "question_ta": "அமைச்சு உறுதி செய்கின்ற அடிப்படை உரிமைகளை என்ன பெயர்?",
+    "options_en": [
+      "Fundamental Duties",
+      "Directive Principles",
+      "Legal Remedies",
+      "Fundamental Rights"
+    ],
+    "options_ta": [
+      "அடிப்படை கடமைகள்",
+      "திட்டக் கொள்கைகள்",
+      "சட்டரீதியான தீர்வுகள்",
+      "அடிப்படை உரிமைகள்"
+    ],
+    "answer_en": "Fundamental Rights",
+    "answer_ta": "அடிப்படை உரிமைகள்"
+  },
+  {
+    "question_en": "What is the currency of India?",
+    "question_ta": "இந்தியாவின் வழக்குப் பணம் எது?",
+    "options_en": [
+      "Rupee",
+      "Dollar",
+      "Pound",
+      "Euro"
+    ],
+    "options_ta": [
+      "ரூபாய்",
+      "டாலர்",
+      "பவுண்ட்",
+      "யூரோ"
+    ],
+    "answer_en": "Rupee",
+    "answer_ta": "ரூபாய்"
+  },
+  {
+    "question_en": "Which is the largest state in India by area?",
+    "question_ta": "பரப்பளவின்பால் இந்தியாவின் மிகப்பெரிய மாநிலம் எது?",
+    "options_en": [
+      "Maharashtra",
+      "Rajasthan",
+      "Uttar Pradesh",
+      "Madhya Pradesh"
+    ],
+    "options_ta": [
+      "மஹாராஷ்டிரா",
+      "ராஜஸ்தான்",
+      "உத்தரப் பிரதேசம்",
+      "மத்தியப் பிரதேசம்"
+    ],
+    "answer_en": "Rajasthan",
+    "answer_ta": "ராஜஸ்தான்"
+  },
+  {
+    "question_en": "Which is the smallest state in India by area?",
+    "question_ta": "பரப்பளவின்பால் இந்தியாவின் மிகச் சிறிய மாநிலம் எது?",
+    "options_en": [
+      "Sikkim",
+      "Tripura",
+      "Goa",
+      "Manipur"
+    ],
+    "options_ta": [
+      "சிக்கிம்",
+      "திரிபுரா",
+      "கோவா",
+      "மணிப்பூர்"
+    ],
+    "answer_en": "Goa",
+    "answer_ta": "கோவா"
+  },
+  {
+    "question_en": "Which is the largest continent in the world?",
+    "question_ta": "உலகின் மிகப்பெரிய கண்டம் எது?",
+    "options_en": [
+      "Africa",
+      "Europe",
+      "North America",
+      "Asia"
+    ],
+    "options_ta": [
+      "ஆப்பிரிக்கா",
+      "யூரோப்",
+      "வட அமெரிக்கா",
+      "ஆசியா"
+    ],
+    "answer_en": "Asia",
+    "answer_ta": "ஆசியா"
+  },
+  {
+    "question_en": "Which planet is known as the Red Planet?",
+    "question_ta": "சிவப்பு கிரகம் என்றழைக்கப்படும் கிரகம் எது?",
+    "options_en": [
+      "Mars",
+      "Venus",
+      "Saturn",
+      "Mercury"
+    ],
+    "options_ta": [
+      "செவ்வாய்",
+      "வென்னைஸ்",
+      "சனி",
+      "புதன்"
+    ],
+    "answer_en": "Mars",
+    "answer_ta": "செவ்வாய்"
+  },
+  {
+    "question_en": "Who discovered the sea route to India?",
+    "question_ta": "இந்தியாவுக்கு கடல்வழி கண்டுபிடித்தவர் யார்?",
+    "options_en": [
+      "Christopher Columbus",
+      "Vasco da Gama",
+      "Bartholomeu Diaz",
+      "Ferdinand Magellan"
+    ],
+    "options_ta": [
+      "கிறிஸ்டோபர் கொலம்பஸ்",
+      "வாஸ்கோ டி காமா",
+      "பர்தோலோமியூ தியாஸ்",
+      "பெர்டினாண்ட் மேகலான்"
+    ],
+    "answer_en": "Vasco da Gama",
+    "answer_ta": "வாஸ்கோ டி காமா"
+  },
+  {
+    "question_en": "Which is the national flower of India?",
+    "question_ta": "இந்தியாவின் தேசிய மலர் எது?",
+    "options_en": [
+      "Rose",
+      "Lily",
+      "Lotus",
+      "Marigold"
+    ],
+    "options_ta": [
+      "ரோஜா",
+      "லில்லி",
+      "தாமரை",
+      "சாமந்தி"
+    ],
+    "answer_en": "Lotus",
+    "answer_ta": "தாமரை"
+  },
+  {
+    "question_en": "Which is the national fruit of India?",
+    "question_ta": "இந்தியாவின் தேசிய பழம் எது?",
+    "options_en": [
+      "Apple",
+      "Banana",
+      "Orange",
+      "Mango"
+    ],
+    "options_ta": [
+      "ஆப்பிள்",
+      "வாழை",
+      "ஆரஞ்சு",
+      "மாம்பழம்"
+    ],
+    "answer_en": "Mango",
+    "answer_ta": "மாம்பழம்"
+  },
+  {
+    "question_en": "Which river forms the largest delta in India?",
+    "question_ta": "இந்தியாவில் எந்த நதி மிகப்பெரிய டெல்டாவை உருவாக்குகிறது?",
+    "options_en": [
+      "Ganga-Brahmaputra",
+      "Godavari",
+      "Mahanadi",
+      "Krishna"
+    ],
+    "options_ta": [
+      "கங்கை-பிரம்மபுத்திரா",
+      "கோதாவரி",
+      "மகாநதி",
+      "கிருஷ்ணா"
+    ],
+    "answer_en": "Ganga-Brahmaputra",
+    "answer_ta": "கங்கை-பிரம்மபுத்திரா"
+  },
+  {
+    "question_en": "What is the term of Lok Sabha in India?",
+    "question_ta": "லோக் சபாவின் பதவி காலம் எவ்வளவு?",
+    "options_en": [
+      "4 years",
+      "5 years",
+      "6 years",
+      "3 years"
+    ],
+    "options_ta": [
+      "4 ஆண்டுகள்",
+      "5 ஆண்டுகள்",
+      "6 ஆண்டுகள்",
+      "3 ஆண்டுகள்"
+    ],
+    "answer_en": "5 years",
+    "answer_ta": "5 ஆண்டுகள்"
+  },
+  {
+    "question_en": "Which body conducts elections in India?",
+    "question_ta": "இந்தியாவில் தேர்தல்களை நடத்துவது எது?",
+    "options_en": [
+      "Parliament",
+      "Supreme Court",
+      "Election Commission",
+      "Cabinet Secretariat"
+    ],
+    "options_ta": [
+      "பாராளுமன்றம்",
+      "சுப்ரீம் கோர்ட்",
+      "தேர்தல் ஆணையம்",
+      "அமைச்சரவை செயலகம்"
+    ],
+    "answer_en": "Election Commission",
+    "answer_ta": "தேர்தல் ஆணையம்"
+  },
+  {
+    "question_en": "How often is the Census conducted in India?",
+    "question_ta": "இந்தியாவில் மக்கள் கணக்கெடுப்பு எந்த இடைவெளியில் நடத்தப்படுகிறது?",
+    "options_en": [
+      "5 years",
+      "15 years",
+      "20 years",
+      "10 years"
+    ],
+    "options_ta": [
+      "5 ஆண்டுகள்",
+      "15 ஆண்டுகள்",
+      "20 ஆண்டுகள்",
+      "10 ஆண்டுகள்"
+    ],
+    "answer_en": "10 years",
+    "answer_ta": "10 ஆண்டுகள்"
+  },
+  {
+    "question_en": "What does GDP measure?",
+    "question_ta": "GDP என்பது எதை அளக்கிறது?",
+    "options_en": [
+      "Economic production",
+      "Population",
+      "Area",
+      "Literacy rate"
+    ],
+    "options_ta": [
+      "பொருளாதார உற்பத்தி",
+      "மக்கள் தொகை",
+      "பரப்பு",
+      "வீதி வாசிப்பு"
+    ],
+    "answer_en": "Economic production",
+    "answer_ta": "பொருளாதார உற்பத்தி"
+  },
+  {
+    "question_en": "Which bank is the central bank of India?",
+    "question_ta": "இந்தியாவின் மைய வங்கி எது?",
+    "options_en": [
+      "State Bank of India",
+      "Reserve Bank of India",
+      "Punjab National Bank",
+      "Canara Bank"
+    ],
+    "options_ta": [
+      "இந்திய மாநில வங்கி",
+      "இந்திய ரிசர்வ் வங்கி",
+      "பஞ்சாப் நேஷனல் வங்கி",
+      "கனரா வங்கி"
+    ],
+    "answer_en": "Reserve Bank of India",
+    "answer_ta": "இந்திய ரிசர்வ் வங்கி"
+  },
+  {
+    "question_en": "Which sector includes farming and fishing?",
+    "question_ta": "விவசாயமும் மீன்பிடிப்பும் எந்தத் துறையில் சேர்கின்றன?",
+    "options_en": [
+      "Secondary sector",
+      "Tertiary sector",
+      "Primary sector",
+      "Quaternary sector"
+    ],
+    "options_ta": [
+      "இரண்டாம் நிலை துறை",
+      "மூன்றாம் நிலை துறை",
+      "முதன்மைத் துறை",
+      "நான்காம் நிலை துறை"
+    ],
+    "answer_en": "Primary sector",
+    "answer_ta": "முதன்மைத் துறை"
+  },
+  {
+    "question_en": "What is unemployment?",
+    "question_ta": "தொழில் இல்லாமை என்றால் என்ன?",
+    "options_en": [
+      "Having two jobs",
+      "Being retired",
+      "Working part-time",
+      "Not having a job despite willingness"
+    ],
+    "options_ta": [
+      "இரு வேலைகளை உடையது",
+      "ஓய்வு அடைவது",
+      "பகுதி நேர வேலை",
+      "வேலை செய்ய விரும்பினாலும் வேலை இல்லாத நிலை"
+    ],
+    "answer_en": "Not having a job despite willingness",
+    "answer_ta": "வேலை செய்ய விரும்பினாலும் வேலை இல்லாத நிலை"
+  },
+  {
+    "question_en": "Which office is often called the 'Nerve Centre' of government?",
+    "question_ta": "அரசின் 'நர்வே சென்டர்' என்றழைக்கப்படுவது எந்த அலுவலகம்?",
+    "options_en": [
+      "Cabinet Secretariat",
+      "Prime Minister's Office",
+      "Parliament",
+      "Supreme Court"
+    ],
+    "options_ta": [
+      "அமைச்சரவை செயலகம்",
+      "பிரதமர் அலுவலகம்",
+      "பாராளுமன்றம்",
+      "சுப்ரீம் கோர்ட்"
+    ],
+    "answer_en": "Cabinet Secretariat",
+    "answer_ta": "அமைச்சரவை செயலகம்"
+  },
+  {
+    "question_en": "Which movement demanded 'Quit India' in 1942?",
+    "question_ta": "1942-இல் 'குயிட் இந்தியா' என்ற கோரிக்கை கொண்ட இயக்கம் எது?",
+    "options_en": [
+      "Non-Cooperation Movement",
+      "Quit India Movement",
+      "Civil Disobedience Movement",
+      "Swadeshi Movement"
+    ],
+    "options_ta": [
+      "இணைதடுப்பு இயக்கம்",
+      "குயிட் இந்தியா இயக்கம்",
+      "நாகரீக அசக்தி இயக்கம்",
+      "சுவதேசி இயக்கம்"
+    ],
+    "answer_en": "Quit India Movement",
+    "answer_ta": "குயிட் இந்தியா இயக்கம்"
+  },
+  {
+    "question_en": "Which international body aims to maintain world peace?",
+    "question_ta": "உலக அமைதியை பேண எந்த சர்வதேச அமைப்பு உதவுகிறது?",
+    "options_en": [
+      "World Bank",
+      "IMF",
+      "United Nations",
+      "WHO"
+    ],
+    "options_ta": [
+      "உலக வங்கி",
+      "அதிக நிதி நிறுவனம்",
+      "ஐக்கிய நாடுகள்",
+      "உலக சுகாதார அமைப்பு"
+    ],
+    "answer_en": "United Nations",
+    "answer_ta": "ஐக்கிய நாடுகள்"
+  },
+  {
+    "question_en": "Which of the following is an example of tertiary sector?",
+    "question_ta": "பின்வருவனவற்றில் மூன்றாம் நிலை துறைக்கு எடுத்துக்காட்டு எது?",
+    "options_en": [
+      "Agriculture",
+      "Manufacturing",
+      "Mining",
+      "Banking"
+    ],
+    "options_ta": [
+      "விவசாயம்",
+      "உற்பத்தி",
+      "கணிமம்",
+      "வங்கியியல்"
+    ],
+    "answer_en": "Banking",
+    "answer_ta": "வங்கியியல்"
+  },
+  {
+    "question_en": "Which freedom is related to expression and speech?",
+    "question_ta": "பேச்சு மற்றும் வெளிப்பாட்டுச் சுதந்திரம் எந்த உரிமையை குறிக்கிறது?",
+    "options_en": [
+      "Right to Freedom of Speech and Expression",
+      "Right to Equality",
+      "Right against Exploitation",
+      "Cultural and Educational Rights"
+    ],
+    "options_ta": [
+      "பேச்சு மற்றும் வெளிப்பாட்டு உரிமை",
+      "சமத்துவ உரிமை",
+      "பயன்பாட்டு எதிர்ப்பு உரிமை",
+      "கலாசார மற்றும் கல்விச் உரிமைகள்"
+    ],
+    "answer_en": "Right to Freedom of Speech and Expression",
+    "answer_ta": "பேச்சு மற்றும் வெளிப்பாட்டு உரிமை"
+  },
+  {
+    "question_en": "What is the minimum age to become a Member of Lok Sabha?",
+    "question_ta": "லோக் சபா உறுப்பினராக ஆக குறைந்தபட்ச வயது என்ன?",
+    "options_en": [
+      "18 years",
+      "25 years",
+      "21 years",
+      "30 years"
+    ],
+    "options_ta": [
+      "18 வயது",
+      "25 வயது",
+      "21 வயது",
+      "30 வயது"
+    ],
+    "answer_en": "25 years",
+    "answer_ta": "25 வயது"
+  },
+  {
+    "question_en": "Which economic activity forms part of the informal sector?",
+    "question_ta": "பின்வருவனவற்றில் எது அமைதியற்ற (Informal) துறைக்கு உதாரணமாகும்?",
+    "options_en": [
+      "Large-scale manufacturing",
+      "Stock market trading",
+      "Street vending",
+      "Banking"
+    ],
+    "options_ta": [
+      "பெரு அளவிலான உற்பத்தி",
+      "பங்கு சந்தை வர்த்தகம்",
+      "தெருவிற்பனை",
+      "வங்கியியல்"
+    ],
+    "answer_en": "Street vending",
+    "answer_ta": "தெருவிற்பனை"
+  },
+  {
+    "question_en": "Which is a renewable source of energy?",
+    "question_ta": "எது மறுதயமாக்கக்கூடிய (renewable) ஆற்றல் மூலம்?",
+    "options_en": [
+      "Coal",
+      "Petroleum",
+      "Natural Gas",
+      "Solar"
+    ],
+    "options_ta": [
+      "கோல்",
+      "பெட்ரோலியம்",
+      "இயற்கை வாயு",
+      "சூரிய"
+    ],
+    "answer_en": "Solar",
+    "answer_ta": "சூரிய"
+  },
+  {
+    "question_en": "What does 'per capita' income mean?",
+    "question_ta": "'பர் கேபிட்டா' வருமானம் என்றால் என்ன?",
+    "options_en": [
+      "Income per person",
+      "Total national income",
+      "Total exports",
+      "Government expenditure"
+    ],
+    "options_ta": [
+      "ஒரு நபருக்கான சராசரி வருமானம்",
+      "மொத்த தேசிய வருவாய்",
+      "மொத்த இறக்குமதிகள்",
+      "அரசு செலவுகள்"
+    ],
+    "answer_en": "Income per person",
+    "answer_ta": "ஒரு நபருக்கான சராசரி வருமானம்"
+  },
+  {
+    "question_en": "What is literacy rate?",
+    "question_ta": "அறிவுத்திறன் விகிதம் (Literacy rate) என்பது என்ன?",
+    "options_en": [
+      "Percentage of people employed",
+      "Percentage of people who can read and write",
+      "Percentage of children",
+      "Percentage below poverty line"
+    ],
+    "options_ta": [
+      "வேலை செய்பவர்களின் சதவீதம்",
+      "படிக்கவும் எழுதவும் தெரிந்தவர்களின் சதவீதம்",
+      "குழந்தைகள் சதவீதம்",
+      "வறுமை வரம்புக்குட்பட்டவர்களின் சதவீதம்"
+    ],
+    "answer_en": "Percentage of people who can read and write",
+    "answer_ta": "படிக்கவும் எழுதவும் தெரிந்தவர்களின் சதவீதம்"
+  },
+  {
+    "question_en": "What is inflation?",
+    "question_ta": "பணவிலை உயர்வை (Inflation) என்ன என்று அழைக்கின்றனர்?",
+    "options_en": [
+      "Decrease in prices",
+      "No change in prices",
+      "Increase in general price level",
+      "Government subsidy"
+    ],
+    "options_ta": [
+      "விலைகளின் குறைவு",
+      "விலைகளில் மாற்றமில்லை",
+      "பொதுவான விலைகளின் உயர்வு",
+      "அரசு உதவி"
+    ],
+    "answer_en": "Increase in general price level",
+    "answer_ta": "பொதுவான விலைகளின் உயர்வு"
+  },
+  {
+    "question_en": "Which sector includes manufacturing?",
+    "question_ta": "பின்வருவன்களில் எது உற்பத்தி (manufacturing) துறையாகும்?",
+    "options_en": [
+      "Primary sector",
+      "Tertiary sector",
+      "Quaternary sector",
+      "Secondary sector"
+    ],
+    "options_ta": [
+      "முதன்மைத் துறை",
+      "மூன்றாம் நிலைத்துறை",
+      "நான்காம் நிலைத்துறை",
+      "இரண்டாம் நிலைத்துறை"
+    ],
+    "answer_en": "Secondary sector",
+    "answer_ta": "இரண்டாம் நிலைத்துறை"
+  },
+  {
+    "question_en": "Which one is the basic unit of local self-government in villages?",
+    "question_ta": "கிராமங்களில் உள்ள உள்ளூராட்சி அடிப்படை அலகு எது?",
+    "options_en": [
+      "Gram Sabha",
+      "Municipal Corporation",
+      "Panchayat Samiti",
+      "Zilla Parishad"
+    ],
+    "options_ta": [
+      "கிராம சபை",
+      "நகராட்சி நிறுவனம்",
+      "பஞ்சாயத்து சமிதி",
+      "மாவட்ட பரிஷத்"
+    ],
+    "answer_en": "Gram Sabha",
+    "answer_ta": "கிராம சபை"
+  },
+  {
+    "question_en": "Which is the primary language of the Indian Parliament's live proceedings?",
+    "question_ta": "இந்திய பாராளுமன்றத்தின் நேரடிசெய்திகளில் முதன்மையான மொழி எது?",
+    "options_en": [
+      "Tamil",
+      "Hindi",
+      "English",
+      "French"
+    ],
+    "options_ta": [
+      "தமிழ்",
+      "ஹிந்தி",
+      "ஆங்கிலம்",
+      "பிரெஞ்சு"
+    ],
+    "answer_en": "Hindi",
+    "answer_ta": "ஹிந்தி"
+  },
+  {
+    "question_en": "Which day is celebrated as Independence Day in India?",
+    "question_ta": "இந்தியாவில் சுதந்திர தினமாக எந்த நாள் கொண்டாடப்படுகிறது?",
+    "options_en": [
+      "26 January",
+      "2 October",
+      "15 August",
+      "1 May"
+    ],
+    "options_ta": [
+      "26 ஜனவரி",
+      "2 அக்டோபர்",
+      "15 ஆகஸ்ட்",
+      "1 மே"
+    ],
+    "answer_en": "15 August",
+    "answer_ta": "15 ஆகஸ்ட்"
+  },
+  {
+    "question_en": "Which is the supreme judicial body in India?",
+    "question_ta": "இந்தியாவின் அத்திகார நீதிமன்றம் எது?",
+    "options_en": [
+      "High Court",
+      "District Court",
+      "Family Court",
+      "Supreme Court"
+    ],
+    "options_ta": [
+      "அதிகநீதிமன்றம்",
+      "மாவட்டு நீதிமன்றம்",
+      "குடும்ப நீதிமன்றம்",
+      "சுப்ரீம் கோர்ட்"
+    ],
+    "answer_en": "Supreme Court",
+    "answer_ta": "சுப்ரீம் கோர்ட்"
+  },
+  {
+    "question_en": "Which freedom fighter is associated with the slogan 'Give me blood and I will give you freedom'?",
+    "question_ta": "'எனக்கு இரத்தம் கொடுங்கள், நான் உங்களுக்கு சுதந்திரம் தருவேன்' என்ற கூற்று யாருக்கும் சொந்தமா?",
+    "options_en": [
+      "Subhas Chandra Bose",
+      "Mahatma Gandhi",
+      "Bhagat Singh",
+      "Bal Gangadhar Tilak"
+    ],
+    "options_ta": [
+      "சுபாஷ் சந்திரபோஸ்",
+      "மகாத்மா காந்தி",
+      "பாகத் சிங்",
+      "பல்கண்ணாதர் டிலக்"
+    ],
+    "answer_en": "Subhas Chandra Bose",
+    "answer_ta": "சுபாஷ் சந்திரபோஸ்"
+  },
+  {
+    "question_en": "Which resource is used to generate hydroelectric power?",
+    "question_ta": "ஹைட்ரோஎலெக்ட்ரிக் சக்தி உற்பத்திக்கு எந்த வளம் பயன்படுகிறது?",
+    "options_en": [
+      "Coal",
+      "River/Water",
+      "Wind",
+      "Solar"
+    ],
+    "options_ta": [
+      "கோல்",
+      "நதி/நீர்",
+      "காற்று",
+      "சூரிய"
+    ],
+    "answer_en": "River/Water",
+    "answer_ta": "நதி/நீர்"
+  }
+]

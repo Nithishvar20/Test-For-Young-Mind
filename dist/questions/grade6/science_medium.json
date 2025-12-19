@@ -1,0 +1,902 @@
+[
+  {
+    "question_en": "Which pair shows like poles?",
+    "question_ta": "இதே துருவங்களை காட்டுவது எது?",
+    "options_en": [
+      "South-North",
+      "North-North",
+      "East-West",
+      "North-South"
+    ],
+    "options_ta": [
+      "தென்-வட",
+      "வட-வட",
+      "கிழக்கு-மேற்கு",
+      "வட-தென்"
+    ],
+    "answer_en": "North-North",
+    "answer_ta": "வட-வட"
+  },
+  {
+    "question_en": "What is the boiling point of water?",
+    "question_ta": "தண்ணீரின் கொதிநிலை?",
+    "options_en": [
+      "0°C",
+      "212°C",
+      "50°C",
+      "100°C"
+    ],
+    "options_ta": [
+      "0°C",
+      "212°C",
+      "50°C",
+      "100°C"
+    ],
+    "answer_en": "100°C",
+    "answer_ta": "100°C"
+  },
+  {
+    "question_en": "Which blood cells fight diseases?",
+    "question_ta": "நோய்களை எதிர்க்கும் இரத்த அணுக்கள்?",
+    "options_en": [
+      "WBC",
+      "Plasma",
+      "RBC",
+      "Platelets"
+    ],
+    "options_ta": [
+      "வெள்ளையணுக்கள்",
+      "பிளாஸ்மா",
+      "சிவப்பணுக்கள்",
+      "தகடணுக்கள்"
+    ],
+    "answer_en": "WBC",
+    "answer_ta": "வெள்ளையணுக்கள்"
+  },
+  {
+    "question_en": "Which process forms clouds?",
+    "question_ta": "மேகங்கள் உருவாகும் செயல்முறை?",
+    "options_en": [
+      "Condensation",
+      "Sublimation",
+      "Filtration",
+      "Evaporation"
+    ],
+    "options_ta": [
+      "தொகுப்பு",
+      "உயர்வாக்கம்",
+      "வடிகட்டல்",
+      "ஆவியாக்கம்"
+    ],
+    "answer_en": "Condensation",
+    "answer_ta": "தொகுப்பு"
+  },
+  {
+    "question_en": "Which organ is called the powerhouse of cell?",
+    "question_ta": "செலின் மின்நிலையம் என்று அழைக்கப்படும் உறுப்பு?",
+    "options_en": [
+      "Nucleus",
+      "Ribosome",
+      "Cytoplasm",
+      "Mitochondria"
+    ],
+    "options_ta": [
+      "அணுக்கரு",
+      "ரிபோசோம்",
+      "உயிரணுத் திரவம்",
+      "மைட்டோகாண்ட்ரியா"
+    ],
+    "answer_en": "Mitochondria",
+    "answer_ta": "மைட்டோகாண்ட்ரியா"
+  },
+  {
+    "question_en": "Which mirror is used in vehicles as rear view?",
+    "question_ta": "வாகனங்களில் பின்புற கண்ணாடியாக பயன்படுத்தப்படும் கண்ணாடி?",
+    "options_en": [
+      "None",
+      "Plane",
+      "Concave",
+      "Convex"
+    ],
+    "options_ta": [
+      "எதுவுமில்லை",
+      "தடிமான",
+      "உள்தாழ்வான",
+      "வளையோட்ட"
+    ],
+    "answer_en": "Convex",
+    "answer_ta": "வளையோட்ட"
+  },
+  {
+    "question_en": "Which organ is called the powerhouse of cell?",
+    "question_ta": "செலின் மின்நிலையம் என்று அழைக்கப்படும் உறுப்பு?",
+    "options_en": [
+      "Nucleus",
+      "Cytoplasm",
+      "Mitochondria",
+      "Ribosome"
+    ],
+    "options_ta": [
+      "அணுக்கரு",
+      "உயிரணுத் திரவம்",
+      "மைட்டோகாண்ட்ரியா",
+      "ரிபோசோம்"
+    ],
+    "answer_en": "Mitochondria",
+    "answer_ta": "மைட்டோகாண்ட்ரியா"
+  },
+  {
+    "question_en": "Which organ is called the powerhouse of cell?",
+    "question_ta": "செலின் மின்நிலையம் என்று அழைக்கப்படும் உறுப்பு?",
+    "options_en": [
+      "Nucleus",
+      "Mitochondria",
+      "Ribosome",
+      "Cytoplasm"
+    ],
+    "options_ta": [
+      "அணுக்கரு",
+      "மைட்டோகாண்ட்ரியா",
+      "ரிபோசோம்",
+      "உயிரணுத் திரவம்"
+    ],
+    "answer_en": "Mitochondria",
+    "answer_ta": "மைட்டோகாண்ட்ரியா"
+  },
+  {
+    "question_en": "What happens to metals on heating?",
+    "question_ta": "உலோகங்கள் சூடாக்கப்படும் போது என்ன ஆகும்?",
+    "options_en": [
+      "Expand",
+      "Melt",
+      "Contract",
+      "No change"
+    ],
+    "options_ta": [
+      "விரிவடையும்",
+      "உருகும்",
+      "சுருங்கும்",
+      "மாற்றமில்லை"
+    ],
+    "answer_en": "Expand",
+    "answer_ta": "விரிவடையும்"
+  },
+  {
+    "question_en": "Which organ is called the powerhouse of cell?",
+    "question_ta": "செலின் மின்நிலையம் என்று அழைக்கப்படும் உறுப்பு?",
+    "options_en": [
+      "Mitochondria",
+      "Nucleus",
+      "Cytoplasm",
+      "Ribosome"
+    ],
+    "options_ta": [
+      "மைட்டோகாண்ட்ரியா",
+      "அணுக்கரு",
+      "உயிரணுத் திரவம்",
+      "ரிபோசோம்"
+    ],
+    "answer_en": "Mitochondria",
+    "answer_ta": "மைட்டோகாண்ட்ரியா"
+  },
+  {
+    "question_en": "Which mirror is used in vehicles as rear view?",
+    "question_ta": "வாகனங்களில் பின்புற கண்ணாடியாக பயன்படுத்தப்படும் கண்ணாடி?",
+    "options_en": [
+      "Plane",
+      "Concave",
+      "Convex",
+      "None"
+    ],
+    "options_ta": [
+      "தடிமான",
+      "உள்தாழ்வான",
+      "வளையோட்ட",
+      "எதுவுமில்லை"
+    ],
+    "answer_en": "Convex",
+    "answer_ta": "வளையோட்ட"
+  },
+  {
+    "question_en": "Which mirror is used in vehicles as rear view?",
+    "question_ta": "வாகனங்களில் பின்புற கண்ணாடியாக பயன்படுத்தப்படும் கண்ணாடி?",
+    "options_en": [
+      "Concave",
+      "Convex",
+      "None",
+      "Plane"
+    ],
+    "options_ta": [
+      "உள்தாழ்வான",
+      "வளையோட்ட",
+      "எதுவுமில்லை",
+      "தடிமான"
+    ],
+    "answer_en": "Convex",
+    "answer_ta": "வளையோட்ட"
+  },
+  {
+    "question_en": "Which mirror is used in vehicles as rear view?",
+    "question_ta": "வாகனங்களில் பின்புற கண்ணாடியாக பயன்படுத்தப்படும் கண்ணாடி?",
+    "options_en": [
+      "None",
+      "Concave",
+      "Convex",
+      "Plane"
+    ],
+    "options_ta": [
+      "எதுவுமில்லை",
+      "உள்தாழ்வான",
+      "வளையோட்ட",
+      "தடிமான"
+    ],
+    "answer_en": "Convex",
+    "answer_ta": "வளையோட்ட"
+  },
+  {
+    "question_en": "Which organ is called the powerhouse of cell?",
+    "question_ta": "செலின் மின்நிலையம் என்று அழைக்கப்படும் உறுப்பு?",
+    "options_en": [
+      "Nucleus",
+      "Ribosome",
+      "Cytoplasm",
+      "Mitochondria"
+    ],
+    "options_ta": [
+      "அணுக்கரு",
+      "ரிபோசோம்",
+      "உயிரணுத் திரவம்",
+      "மைட்டோகாண்ட்ரியா"
+    ],
+    "answer_en": "Mitochondria",
+    "answer_ta": "மைட்டோகாண்ட்ரியா"
+  },
+  {
+    "question_en": "Which mirror is used in vehicles as rear view?",
+    "question_ta": "வாகனங்களில் பின்புற கண்ணாடியாக பயன்படுத்தப்படும் கண்ணாடி?",
+    "options_en": [
+      "Plane",
+      "Convex",
+      "Concave",
+      "None"
+    ],
+    "options_ta": [
+      "தடிமான",
+      "வளையோட்ட",
+      "உள்தாழ்வான",
+      "எதுவுமில்லை"
+    ],
+    "answer_en": "Convex",
+    "answer_ta": "வளையோட்ட"
+  },
+  {
+    "question_en": "Which mirror is used in vehicles as rear view?",
+    "question_ta": "வாகனங்களில் பின்புற கண்ணாடியாக பயன்படுத்தப்படும் கண்ணாடி?",
+    "options_en": [
+      "None",
+      "Convex",
+      "Concave",
+      "Plane"
+    ],
+    "options_ta": [
+      "எதுவுமில்லை",
+      "வளையோட்ட",
+      "உள்தாழ்வான",
+      "தடிமான"
+    ],
+    "answer_en": "Convex",
+    "answer_ta": "வளையோட்ட"
+  },
+  {
+    "question_en": "Which mirror is used in vehicles as rear view?",
+    "question_ta": "வாகனங்களில் பின்புற கண்ணாடியாக பயன்படுத்தப்படும் கண்ணாடி?",
+    "options_en": [
+      "Concave",
+      "None",
+      "Convex",
+      "Plane"
+    ],
+    "options_ta": [
+      "உள்தாழ்வான",
+      "எதுவுமில்லை",
+      "வளையோட்ட",
+      "தடிமான"
+    ],
+    "answer_en": "Convex",
+    "answer_ta": "வளையோட்ட"
+  },
+  {
+    "question_en": "Which organ is called the powerhouse of cell?",
+    "question_ta": "செலின் மின்நிலையம் என்று அழைக்கப்படும் உறுப்பு?",
+    "options_en": [
+      "Mitochondria",
+      "Nucleus",
+      "Ribosome",
+      "Cytoplasm"
+    ],
+    "options_ta": [
+      "மைட்டோகாண்ட்ரியா",
+      "அணுக்கரு",
+      "ரிபோசோம்",
+      "உயிரணுத் திரவம்"
+    ],
+    "answer_en": "Mitochondria",
+    "answer_ta": "மைட்டோகாண்ட்ரியா"
+  },
+  {
+    "question_en": "What happens to metals on heating?",
+    "question_ta": "உலோகங்கள் சூடாக்கப்படும் போது என்ன ஆகும்?",
+    "options_en": [
+      "Melt",
+      "Contract",
+      "Expand",
+      "No change"
+    ],
+    "options_ta": [
+      "உருகும்",
+      "சுருங்கும்",
+      "விரிவடையும்",
+      "மாற்றமில்லை"
+    ],
+    "answer_en": "Expand",
+    "answer_ta": "விரிவடையும்"
+  },
+  {
+    "question_en": "Which organ is called the powerhouse of cell?",
+    "question_ta": "செலின் மின்நிலையம் என்று அழைக்கப்படும் உறுப்பு?",
+    "options_en": [
+      "Nucleus",
+      "Ribosome",
+      "Cytoplasm",
+      "Mitochondria"
+    ],
+    "options_ta": [
+      "அணுக்கரு",
+      "ரிபோசோம்",
+      "உயிரணுத் திரவம்",
+      "மைட்டோகாண்ட்ரியா"
+    ],
+    "answer_en": "Mitochondria",
+    "answer_ta": "மைட்டோகாண்ட்ரியா"
+  },
+  {
+    "question_en": "What happens to metals on heating?",
+    "question_ta": "உலோகங்கள் சூடாக்கப்படும் போது என்ன ஆகும்?",
+    "options_en": [
+      "Expand",
+      "Contract",
+      "Melt",
+      "No change"
+    ],
+    "options_ta": [
+      "விரிவடையும்",
+      "சுருங்கும்",
+      "உருகும்",
+      "மாற்றமில்லை"
+    ],
+    "answer_en": "Expand",
+    "answer_ta": "விரிவடையும்"
+  },
+  {
+    "question_en": "Which organ is called the powerhouse of cell?",
+    "question_ta": "செலின் மின்நிலையம் என்று அழைக்கப்படும் உறுப்பு?",
+    "options_en": [
+      "Ribosome",
+      "Mitochondria",
+      "Cytoplasm",
+      "Nucleus"
+    ],
+    "options_ta": [
+      "ரிபோசோம்",
+      "மைட்டோகாண்ட்ரியா",
+      "உயிரணுத் திரவம்",
+      "அணுக்கரு"
+    ],
+    "answer_en": "Mitochondria",
+    "answer_ta": "மைட்டோகாண்ட்ரியா"
+  },
+  {
+    "question_en": "What happens to metals on heating?",
+    "question_ta": "உலோகங்கள் சூடாக்கப்படும் போது என்ன ஆகும்?",
+    "options_en": [
+      "Contract",
+      "Melt",
+      "No change",
+      "Expand"
+    ],
+    "options_ta": [
+      "சுருங்கும்",
+      "உருகும்",
+      "மாற்றமில்லை",
+      "விரிவடையும்"
+    ],
+    "answer_en": "Expand",
+    "answer_ta": "விரிவடையும்"
+  },
+  {
+    "question_en": "What happens to metals on heating?",
+    "question_ta": "உலோகங்கள் சூடாக்கப்படும் போது என்ன ஆகும்?",
+    "options_en": [
+      "No change",
+      "Contract",
+      "Melt",
+      "Expand"
+    ],
+    "options_ta": [
+      "மாற்றமில்லை",
+      "சுருங்கும்",
+      "உருகும்",
+      "விரிவடையும்"
+    ],
+    "answer_en": "Expand",
+    "answer_ta": "விரிவடையும்"
+  },
+  {
+    "question_en": "Which organ is called the powerhouse of cell?",
+    "question_ta": "செலின் மின்நிலையம் என்று அழைக்கப்படும் உறுப்பு?",
+    "options_en": [
+      "Ribosome",
+      "Mitochondria",
+      "Nucleus",
+      "Cytoplasm"
+    ],
+    "options_ta": [
+      "ரிபோசோம்",
+      "மைட்டோகாண்ட்ரியா",
+      "அணுக்கரு",
+      "உயிரணுத் திரவம்"
+    ],
+    "answer_en": "Mitochondria",
+    "answer_ta": "மைட்டோகாண்ட்ரியா"
+  },
+  {
+    "question_en": "Which mirror is used in vehicles as rear view?",
+    "question_ta": "வாகனங்களில் பின்புற கண்ணாடியாக பயன்படுத்தப்படும் கண்ணாடி?",
+    "options_en": [
+      "Plane",
+      "Convex",
+      "None",
+      "Concave"
+    ],
+    "options_ta": [
+      "தடிமான",
+      "வளையோட்ட",
+      "எதுவுமில்லை",
+      "உள்தாழ்வான"
+    ],
+    "answer_en": "Convex",
+    "answer_ta": "வளையோட்ட"
+  },
+  {
+    "question_en": "Which organ is called the powerhouse of cell?",
+    "question_ta": "செலின் மின்நிலையம் என்று அழைக்கப்படும் உறுப்பு?",
+    "options_en": [
+      "Nucleus",
+      "Ribosome",
+      "Cytoplasm",
+      "Mitochondria"
+    ],
+    "options_ta": [
+      "அணுக்கரு",
+      "ரிபோசோம்",
+      "உயிரணுத் திரவம்",
+      "மைட்டோகாண்ட்ரியா"
+    ],
+    "answer_en": "Mitochondria",
+    "answer_ta": "மைட்டோகாண்ட்ரியா"
+  },
+  {
+    "question_en": "What happens to metals on heating?",
+    "question_ta": "உலோகங்கள் சூடாக்கப்படும் போது என்ன ஆகும்?",
+    "options_en": [
+      "Contract",
+      "Melt",
+      "Expand",
+      "No change"
+    ],
+    "options_ta": [
+      "சுருங்கும்",
+      "உருகும்",
+      "விரிவடையும்",
+      "மாற்றமில்லை"
+    ],
+    "answer_en": "Expand",
+    "answer_ta": "விரிவடையும்"
+  },
+  {
+    "question_en": "Which organ is called the powerhouse of cell?",
+    "question_ta": "செலின் மின்நிலையம் என்று அழைக்கப்படும் உறுப்பு?",
+    "options_en": [
+      "Cytoplasm",
+      "Ribosome",
+      "Nucleus",
+      "Mitochondria"
+    ],
+    "options_ta": [
+      "உயிரணுத் திரவம்",
+      "ரிபோசோம்",
+      "அணுக்கரு",
+      "மைட்டோகாண்ட்ரியா"
+    ],
+    "answer_en": "Mitochondria",
+    "answer_ta": "மைட்டோகாண்ட்ரியா"
+  },
+  {
+    "question_en": "Which mirror is used in vehicles as rear view?",
+    "question_ta": "வாகனங்களில் பின்புற கண்ணாடியாக பயன்படுத்தப்படும் கண்ணாடி?",
+    "options_en": [
+      "Plane",
+      "Convex",
+      "None",
+      "Concave"
+    ],
+    "options_ta": [
+      "தடிமான",
+      "வளையோட்ட",
+      "எதுவுமில்லை",
+      "உள்தாழ்வான"
+    ],
+    "answer_en": "Convex",
+    "answer_ta": "வளையோட்ட"
+  },
+  {
+    "question_en": "What happens to metals on heating?",
+    "question_ta": "உலோகங்கள் சூடாக்கப்படும் போது என்ன ஆகும்?",
+    "options_en": [
+      "Expand",
+      "Melt",
+      "Contract",
+      "No change"
+    ],
+    "options_ta": [
+      "விரிவடையும்",
+      "உருகும்",
+      "சுருங்கும்",
+      "மாற்றமில்லை"
+    ],
+    "answer_en": "Expand",
+    "answer_ta": "விரிவடையும்"
+  },
+  {
+    "question_en": "Which organ is called the powerhouse of cell?",
+    "question_ta": "செலின் மின்நிலையம் என்று அழைக்கப்படும் உறுப்பு?",
+    "options_en": [
+      "Nucleus",
+      "Cytoplasm",
+      "Ribosome",
+      "Mitochondria"
+    ],
+    "options_ta": [
+      "அணுக்கரு",
+      "உயிரணுத் திரவம்",
+      "ரிபோசோம்",
+      "மைட்டோகாண்ட்ரியா"
+    ],
+    "answer_en": "Mitochondria",
+    "answer_ta": "மைட்டோகாண்ட்ரியா"
+  },
+  {
+    "question_en": "What happens to metals on heating?",
+    "question_ta": "உலோகங்கள் சூடாக்கப்படும் போது என்ன ஆகும்?",
+    "options_en": [
+      "Expand",
+      "No change",
+      "Melt",
+      "Contract"
+    ],
+    "options_ta": [
+      "விரிவடையும்",
+      "மாற்றமில்லை",
+      "உருகும்",
+      "சுருங்கும்"
+    ],
+    "answer_en": "Expand",
+    "answer_ta": "விரிவடையும்"
+  },
+  {
+    "question_en": "Which mirror is used in vehicles as rear view?",
+    "question_ta": "வாகனங்களில் பின்புற கண்ணாடியாக பயன்படுத்தப்படும் கண்ணாடி?",
+    "options_en": [
+      "Convex",
+      "Plane",
+      "None",
+      "Concave"
+    ],
+    "options_ta": [
+      "வளையோட்ட",
+      "தடிமான",
+      "எதுவுமில்லை",
+      "உள்தாழ்வான"
+    ],
+    "answer_en": "Convex",
+    "answer_ta": "வளையோட்ட"
+  },
+  {
+    "question_en": "Which mirror is used in vehicles as rear view?",
+    "question_ta": "வாகனங்களில் பின்புற கண்ணாடியாக பயன்படுத்தப்படும் கண்ணாடி?",
+    "options_en": [
+      "Convex",
+      "None",
+      "Concave",
+      "Plane"
+    ],
+    "options_ta": [
+      "வளையோட்ட",
+      "எதுவுமில்லை",
+      "உள்தாழ்வான",
+      "தடிமான"
+    ],
+    "answer_en": "Convex",
+    "answer_ta": "வளையோட்ட"
+  },
+  {
+    "question_en": "Which organ is called the powerhouse of cell?",
+    "question_ta": "செலின் மின்நிலையம் என்று அழைக்கப்படும் உறுப்பு?",
+    "options_en": [
+      "Mitochondria",
+      "Ribosome",
+      "Nucleus",
+      "Cytoplasm"
+    ],
+    "options_ta": [
+      "மைட்டோகாண்ட்ரியா",
+      "ரிபோசோம்",
+      "அணுக்கரு",
+      "உயிரணுத் திரவம்"
+    ],
+    "answer_en": "Mitochondria",
+    "answer_ta": "மைட்டோகாண்ட்ரியா"
+  },
+  {
+    "question_en": "What happens to metals on heating?",
+    "question_ta": "உலோகங்கள் சூடாக்கப்படும் போது என்ன ஆகும்?",
+    "options_en": [
+      "Melt",
+      "Contract",
+      "No change",
+      "Expand"
+    ],
+    "options_ta": [
+      "உருகும்",
+      "சுருங்கும்",
+      "மாற்றமில்லை",
+      "விரிவடையும்"
+    ],
+    "answer_en": "Expand",
+    "answer_ta": "விரிவடையும்"
+  },
+  {
+    "question_en": "What happens to metals on heating?",
+    "question_ta": "உலோகங்கள் சூடாக்கப்படும் போது என்ன ஆகும்?",
+    "options_en": [
+      "Contract",
+      "Melt",
+      "No change",
+      "Expand"
+    ],
+    "options_ta": [
+      "சுருங்கும்",
+      "உருகும்",
+      "மாற்றமில்லை",
+      "விரிவடையும்"
+    ],
+    "answer_en": "Expand",
+    "answer_ta": "விரிவடையும்"
+  },
+  {
+    "question_en": "Which organ is called the powerhouse of cell?",
+    "question_ta": "செலின் மின்நிலையம் என்று அழைக்கப்படும் உறுப்பு?",
+    "options_en": [
+      "Cytoplasm",
+      "Ribosome",
+      "Nucleus",
+      "Mitochondria"
+    ],
+    "options_ta": [
+      "உயிரணுத் திரவம்",
+      "ரிபோசோம்",
+      "அணுக்கரு",
+      "மைட்டோகாண்ட்ரியா"
+    ],
+    "answer_en": "Mitochondria",
+    "answer_ta": "மைட்டோகாண்ட்ரியா"
+  },
+  {
+    "question_en": "What happens to metals on heating?",
+    "question_ta": "உலோகங்கள் சூடாக்கப்படும் போது என்ன ஆகும்?",
+    "options_en": [
+      "Contract",
+      "Melt",
+      "No change",
+      "Expand"
+    ],
+    "options_ta": [
+      "சுருங்கும்",
+      "உருகும்",
+      "மாற்றமில்லை",
+      "விரிவடையும்"
+    ],
+    "answer_en": "Expand",
+    "answer_ta": "விரிவடையும்"
+  },
+  {
+    "question_en": "Which organ is called the powerhouse of cell?",
+    "question_ta": "செலின் மின்நிலையம் என்று அழைக்கப்படும் உறுப்பு?",
+    "options_en": [
+      "Ribosome",
+      "Nucleus",
+      "Mitochondria",
+      "Cytoplasm"
+    ],
+    "options_ta": [
+      "ரிபோசோம்",
+      "அணுக்கரு",
+      "மைட்டோகாண்ட்ரியா",
+      "உயிரணுத் திரவம்"
+    ],
+    "answer_en": "Mitochondria",
+    "answer_ta": "மைட்டோகாண்ட்ரியா"
+  },
+  {
+    "question_en": "What happens to metals on heating?",
+    "question_ta": "உலோகங்கள் சூடாக்கப்படும் போது என்ன ஆகும்?",
+    "options_en": [
+      "Contract",
+      "No change",
+      "Melt",
+      "Expand"
+    ],
+    "options_ta": [
+      "சுருங்கும்",
+      "மாற்றமில்லை",
+      "உருகும்",
+      "விரிவடையும்"
+    ],
+    "answer_en": "Expand",
+    "answer_ta": "விரிவடையும்"
+  },
+  {
+    "question_en": "What happens to metals on heating?",
+    "question_ta": "உலோகங்கள் சூடாக்கப்படும் போது என்ன ஆகும்?",
+    "options_en": [
+      "Melt",
+      "No change",
+      "Expand",
+      "Contract"
+    ],
+    "options_ta": [
+      "உருகும்",
+      "மாற்றமில்லை",
+      "விரிவடையும்",
+      "சுருங்கும்"
+    ],
+    "answer_en": "Expand",
+    "answer_ta": "விரிவடையும்"
+  },
+  {
+    "question_en": "Which mirror is used in vehicles as rear view?",
+    "question_ta": "வாகனங்களில் பின்புற கண்ணாடியாக பயன்படுத்தப்படும் கண்ணாடி?",
+    "options_en": [
+      "None",
+      "Plane",
+      "Concave",
+      "Convex"
+    ],
+    "options_ta": [
+      "எதுவுமில்லை",
+      "தடிமான",
+      "உள்தாழ்வான",
+      "வளையோட்ட"
+    ],
+    "answer_en": "Convex",
+    "answer_ta": "வளையோட்ட"
+  },
+  {
+    "question_en": "Which organ is called the powerhouse of cell?",
+    "question_ta": "செலின் மின்நிலையம் என்று அழைக்கப்படும் உறுப்பு?",
+    "options_en": [
+      "Ribosome",
+      "Nucleus",
+      "Cytoplasm",
+      "Mitochondria"
+    ],
+    "options_ta": [
+      "ரிபோசோம்",
+      "அணுக்கரு",
+      "உயிரணுத் திரவம்",
+      "மைட்டோகாண்ட்ரியா"
+    ],
+    "answer_en": "Mitochondria",
+    "answer_ta": "மைட்டோகாண்ட்ரியா"
+  },
+  {
+    "question_en": "What happens to metals on heating?",
+    "question_ta": "உலோகங்கள் சூடாக்கப்படும் போது என்ன ஆகும்?",
+    "options_en": [
+      "No change",
+      "Melt",
+      "Expand",
+      "Contract"
+    ],
+    "options_ta": [
+      "மாற்றமில்லை",
+      "உருகும்",
+      "விரிவடையும்",
+      "சுருங்கும்"
+    ],
+    "answer_en": "Expand",
+    "answer_ta": "விரிவடையும்"
+  },
+  {
+    "question_en": "Which mirror is used in vehicles as rear view?",
+    "question_ta": "வாகனங்களில் பின்புற கண்ணாடியாக பயன்படுத்தப்படும் கண்ணாடி?",
+    "options_en": [
+      "Convex",
+      "None",
+      "Plane",
+      "Concave"
+    ],
+    "options_ta": [
+      "வளையோட்ட",
+      "எதுவுமில்லை",
+      "தடிமான",
+      "உள்தாழ்வான"
+    ],
+    "answer_en": "Convex",
+    "answer_ta": "வளையோட்ட"
+  },
+  {
+    "question_en": "Which mirror is used in vehicles as rear view?",
+    "question_ta": "வாகனங்களில் பின்புற கண்ணாடியாக பயன்படுத்தப்படும் கண்ணாடி?",
+    "options_en": [
+      "Concave",
+      "Convex",
+      "Plane",
+      "None"
+    ],
+    "options_ta": [
+      "உள்தாழ்வான",
+      "வளையோட்ட",
+      "தடிமான",
+      "எதுவுமில்லை"
+    ],
+    "answer_en": "Convex",
+    "answer_ta": "வளையோட்ட"
+  },
+  {
+    "question_en": "Which mirror is used in vehicles as rear view?",
+    "question_ta": "வாகனங்களில் பின்புற கண்ணாடியாக பயன்படுத்தப்படும் கண்ணாடி?",
+    "options_en": [
+      "Plane",
+      "None",
+      "Concave",
+      "Convex"
+    ],
+    "options_ta": [
+      "தடிமான",
+      "எதுவுமில்லை",
+      "உள்தாழ்வான",
+      "வளையோட்ட"
+    ],
+    "answer_en": "Convex",
+    "answer_ta": "வளையோட்ட"
+  },
+  {
+    "question_en": "What happens to metals on heating?",
+    "question_ta": "உலோகங்கள் சூடாக்கப்படும் போது என்ன ஆகும்?",
+    "options_en": [
+      "No change",
+      "Expand",
+      "Melt",
+      "Contract"
+    ],
+    "options_ta": [
+      "மாற்றமில்லை",
+      "விரிவடையும்",
+      "உருகும்",
+      "சுருங்கும்"
+    ],
+    "answer_en": "Expand",
+    "answer_ta": "விரிவடையும்"
+  }
+]

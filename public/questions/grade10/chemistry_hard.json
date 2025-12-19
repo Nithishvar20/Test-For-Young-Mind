@@ -1,0 +1,298 @@
+[
+  {
+    "question_en": "Calculate the pH of a 0.001 M HCl solution (approx).",
+    "question_ta": "0.001 M HCl தீர்வின் pH ஐ கணக்கிடு (சுமார்).",
+    "options_en": ["7", "1", "3", "11"],
+    "options_ta": ["7", "1", "3", "11"],
+    "answer_en": "3",
+    "answer_ta": "3"
+  },
+  {
+    "question_en": "Which of the following is a condensation polymer?",
+    "question_ta": "கீழ்க்கண்டவற்றில் எது ஒரு குடலமைப்பு பத்தொடை (Condensation polymer)?",
+    "options_en": ["Polyethylene", "Nylon-6,6", "Polystyrene", "Polypropylene"],
+    "options_ta": ["பாலிஈத்தியீன்", "நைலான்-6,6", "பாலிஸ்டைரின்", "பாலிபுரோபிலீன்"],
+    "answer_en": "Nylon-6,6",
+    "answer_ta": "நைலான்-6,6"
+  },
+  {
+    "question_en": "Which is the correct structural formula of ethanol?",
+    "question_ta": "ஈத்தானாலின் சரியான தொகுதி (Structural) சூத்திரம் எது?",
+    "options_en": ["CH₃–CH₂–OH", "CH₃–CH₃", "CH₂=CH₂", "CH₃–OH"],
+    "options_ta": ["CH₃–CH₂–OH", "CH₃–CH₃", "CH₂=CH₂", "CH₃–OH"],
+    "answer_en": "CH₃–CH₂–OH",
+    "answer_ta": "CH₃–CH₂–OH"
+  },
+  {
+    "question_en": "In electrolysis of molten NaCl, the product at the cathode is:",
+    "question_ta": "உருகிய NaCl இன் மின்கவலையில் கடோதின் மீது தயாராகும் உற்பத்தி எது?",
+    "options_en": ["Sodium metal", "Chlorine gas", "Sodium hydroxide", "Hydrogen"],
+    "options_ta": ["சோடியம் உலோகம்", "குளோரைன் வாயு", "சோடியம் ஹைட்ராக்சைடு", "ஹைட்ரஜன்"],
+    "answer_en": "Sodium metal",
+    "answer_ta": "சோடியம் உலோகம்"
+  },
+  {
+    "question_en": "Which of these statements about isotopes is correct?",
+    "question_ta": "ஐசோடோப்கள் பற்றிய இவற்றுள் எது சரியானது?",
+    "options_en": ["Different chemical properties always", "Same number of neutrons", "Different atomic number, same mass number", "Same atomic number, different mass number"],
+    "options_ta": ["எப்போதும் வேறு வேதியியல் பண்புகள்", "அதே நியூட்ரான் எண்ணிக்கை", "வேறுபட்ட அணுசாரம் எண்ணிக்கை, ஒரே மொத்த எண்", "ஒரே அணுசாரம் எண்ணிக்கை, வேறுபட்ட மொத்த எண்"],
+    "answer_en": "Same atomic number, different mass number",
+    "answer_ta": "ஒரே அணுசாரம் எண்ணிக்கை, வேறுபட்ட மொத்த எண்"
+  },
+  {
+    "question_en": "Which oxide of nitrogen is most responsible for acid rain?",
+    "question_ta": "அமிலமழைக்கு அதிக பொறுப்பு உள்ள நைட்ரஜனின் எந்த ஆக்சைடு?",
+    "options_en": ["NO₂", "N₂", "N₂O", "NH₃"],
+    "options_ta": ["NO₂", "N₂", "N₂O", "NH₃"],
+    "answer_en": "NO₂",
+    "answer_ta": "NO₂"
+  },
+  {
+    "question_en": "Which of the following is a Lewis acid?",
+    "question_ta": "கீழ்காணும் எது லீவிஸ் அமிலம்?",
+    "options_en": ["H₂O", "OH⁻", "NH₃", "BF₃"],
+    "options_ta": ["H₂O", "OH⁻", "NH₃", "BF₃"],
+    "answer_en": "BF₃",
+    "answer_ta": "BF₃"
+  },
+  {
+    "question_en": "Which technique separates compounds based on solubility and capillary action?",
+    "question_ta": "தண்ணீரில் கரியச்சிறப்பு மற்றும் கேபிலரி இயக்கத்தின் அடிப்படையில் சேர்மங்களை பிரிக்கும் நுட்பம் எது?",
+    "options_en": ["Distillation", "Chromatography", "Crystallization", "Filtration"],
+    "options_ta": ["இலறுதல்", "க்ரோமானோக்ராஃபி", "கண்மூட்டுதல்", "விலக்கு"],
+    "answer_en": "Chromatography",
+    "answer_ta": "க்ரோமானோக்ராஃபி"
+  },
+  {
+    "question_en": "Which of these has the highest electronegativity (Pauling scale)?",
+    "question_ta": "இவற்றில் யது மிக உயர்ந்த ஈலக்ட்ரோநெகாட்டிவிட்டி (பாலிங் அளவீடு) கொண்டது?",
+    "options_en": ["Nitrogen", "Oxygen", "Fluorine", "Chlorine"],
+    "options_ta": ["நைட்ரஜன்", "ஆக்சிஜன்", "ப்ளூரைன்", "குளோரைன்"],
+    "answer_en": "Fluorine",
+    "answer_ta": "ப்ளூரைன்"
+  },
+  {
+    "question_en": "Which process yields ethanol from fermentation of glucose?",
+    "question_ta": "க்லூகோசின் ஃபெர்மெண்டேஷனில் ஈதானால் எப்படி உருவாகிறது?",
+    "options_en": ["Hydration", "Anaerobic fermentation", "Combustion", "Electrolysis"],
+    "options_ta": ["ஹைட்ரேஷன்", "ஆனேரோபிக் ஃபெர்மெண்டேஷன்", "எரிதல்", "மின்கவலை"],
+    "answer_en": "Anaerobic fermentation",
+    "answer_ta": "ஆனேரோபிக் ஃபெர்மெண்டேஷன்"
+  },
+  {
+    "question_en": "Which compound is responsible for the greenhouse effect among the following?",
+    "question_ta": "கீழ்காணும் ஒன்றுகளில் எது கிரீன் ஹவுஸ் விளைவிற்கு காரணமாக உள்ளது?",
+    "options_en": ["Argon (Ar)", "Oxygen (O₂)", "Nitrogen (N₂)", "Carbon dioxide (CO₂)"],
+    "options_ta": ["ஆர்கான் (Ar)", "ஆக்சிஜன் (O₂)", "நைட்ரஜன் (N₂)", "கார்பன் டை ஆக்சைடு (CO₂)"],
+    "answer_en": "Carbon dioxide (CO₂)",
+    "answer_ta": "கார்பன் டை ஆக்சைடு (CO₂)"
+  },
+  {
+    "question_en": "Order these in increasing order of ionic character: H–Cl, H–F, H–Br",
+    "question_ta": "இவற்றை ஐனிக் தன்மைக் குறைவாக இருந்து அதிகமாக வரிசைப்படுத்துக: H–Cl, H–F, H–Br",
+    "options_en": ["H–Br < H–Cl < H–F", "H–F < H–Cl < H–Br", "H–Cl < H–Br < H–F", "H–F < H–Br < H–Cl"],
+    "options_ta": ["H–Br < H–Cl < H–F", "H–F < H–Cl < H–Br", "H–Cl < H–Br < H–F", "H–F < H–Br < H–Cl"],
+    "answer_en": "H–Br < H–Cl < H–F",
+    "answer_ta": "H–Br < H–Cl < H–F"
+  },
+  {
+    "question_en": "Which element shows variable oxidation states most commonly in transition metals?",
+    "question_ta": "நடுத்து (Transition) உலோகங்களில் எது பொதுவாக மாறும் ஆக்சிடேஷன் நிலையை காட்டுகிறது?",
+    "options_en": ["Helium (He)", "Iron (Fe)", "Sodium (Na)", "Calcium (Ca)"],
+    "options_ta": ["ஹீலியம் (He)", "இரும்பு (Fe)", "சோடியம் (Na)", "கால்சியம் (Ca)"],
+    "answer_en": "Iron (Fe)",
+    "answer_ta": "இரும்பு (Fe)"
+  },
+  {
+    "question_en": "Which organic functional group is present in acetone (CH₃–CO–CH₃)?",
+    "question_ta": "அசிடோன் (CH₃–CO–CH₃) இல் உள்ள கார்மீக செயல்பாட்டு குழு எது?",
+    "options_en": ["Aldehyde", "Alcohol", "Ketone", "Ether"],
+    "options_ta": ["அல்டிஹைடு", "ஆல்கஹால்", "கீடோன்", "ஈதர்"],
+    "answer_en": "Ketone",
+    "answer_ta": "கீடோன்"
+  },
+  {
+    "question_en": "Which reagent converts an alkene into an alcohol (hydration)?",
+    "question_ta": "ஒரு அல்கீனைக் குடலாக்கி (ஹைட்ரேஷன்) ஒரு ஆல்கஹாலாக மாற்ற எந்த திரவம் பயன்படும்?",
+    "options_en": ["Water in presence of acid", "Ozone", "Potassium permanganate cold", "Hydrogen gas with catalyst"],
+    "options_ta": ["அமிலத்துடன் நீர்", "ஓசோன்", "குளிர்ந்த பொட்டாசியம் பெர்மங்கனேட்", "அ催ானிக் ஹைட்ரஜன் & கேட்டலிஸ்ட்"],
+    "answer_en": "Water in presence of acid",
+    "answer_ta": "அமிலத்துடன் நீர்"
+  },
+  {
+    "question_en": "Which electrochemical process is used to refine copper (purify copper)?",
+    "question_ta": "செம்பை தூய்மைப்படுத்த எதுவாக மின் ரியாக்டர்கள் பயன்படுத்தப்படுகின்றன?",
+    "options_en": ["Electroplating", "Galvanization", "Electrorefining", "Electrolysis of water"],
+    "options_ta": ["மின் பூச்சு", "கால்வனைசேஷன்", "மின்தீர்ப்பு", "நீரின் மின்கவலை"],
+    "answer_en": "Electrorefining",
+    "answer_ta": "மின்தீர்ப்பு"
+  },
+  {
+    "question_en": "Which is the conjugate base of HSO₄⁻?",
+    "question_ta": "HSO₄⁻ இன் கூட்டணி (conjugate) அடிப்படை எது?",
+    "options_en": ["HSO₃⁻", "SO₄²⁻", "H₂SO₄", "OH⁻"],
+    "options_ta": ["HSO₃⁻", "SO₄²⁻", "H₂SO₄", "OH⁻"],
+    "answer_en": "SO₄²⁻",
+    "answer_ta": "SO₄²⁻"
+  },
+  {
+    "question_en": "In a galvanic cell (voltaic cell), oxidation occurs at the:",
+    "question_ta": "ஒரு கணாலிக் செல் (வோல்டெயிக் செல்) இல் ஆக்க்சிடேஷன் எங்கே நடக்கும்?",
+    "options_en": ["Cathode", "Salt bridge", "External wire", "Anode"],
+    "options_ta": ["கதோடு", "சால்ட் பாலம்", "வெளிப்புற தம்பு", "அனோடு"],
+    "answer_en": "Anode",
+    "answer_ta": "அனோடு"
+  },
+  {
+    "question_en": "Which is the correct IUPAC name for CH₃–COOH?",
+    "question_ta": "CH₃–COOH இன் சரியான IUPAC பெயர் என்ன?",
+    "options_en": ["Ethanoic acid", "Methanoic acid", "Acetaldehyde", "Ethanol"],
+    "options_ta": ["ஈத்தானோயிக் அமிலம்", "மேதானோயிக் அமிலம்", "அசெடால்டஹைடு", "ஈத்தானால்"],
+    "answer_en": "Ethanoic acid",
+    "answer_ta": "ஈத்தானோயிக் அமிலம்"
+  },
+  {
+    "question_en": "Which technique provides molecular-level information and uses X-ray scattering?",
+    "question_ta": "மூலக்கூறு அளவு தகவல்களை வழங்கி எக்ஸ்-கதிர் விநியோகத்தை பயன்படுத்தும் நுட்பம் எது?",
+    "options_en": ["Infrared spectroscopy", "Mass spectrometry", "X-ray crystallography", "UV-Vis spectroscopy"],
+    "options_ta": ["இன்ஃப்ராரெட் ஸ்பெக்ட்ரோஸ்கோபி", "மாஸ் ஸ்பெக்ட்ரோமெட்ரி", "எக்ஸ்-கதிர் கிரிஸ்டலோகிராஃபி", "UV-விச் ஸ்பெக்ட்ரோஸ்கோபி"],
+    "answer_en": "X-ray crystallography",
+    "answer_ta": "எக்ஸ்-கதிர் கிரிஸ்டலோகிராஃபி"
+  },
+  {
+    "question_en": "Which is the strongest acid among these in aqueous solution?",
+    "question_ta": "இந்த நீர் தீர்வில் எது மிக சக்திஷாலியான அமிலம்?",
+    "options_en": ["CH₃COOH", "HNO₃", "H₂SO₄", "HCl"],
+    "options_ta": ["CH₃COOH", "HNO₃", "H₂SO₄", "HCl"],
+    "answer_en": "H₂SO₄",
+    "answer_ta": "H₂SO₄"
+  },
+  {
+    "question_en": "Which gas causes the bleaching action of bleaching powder (calcium hypochlorite)?",
+    "question_ta": "பிளீச்சிங் பொடிக்கு (கால்சியம் ஹைப்போகுளோரைட்) பிளீச்சிங் செயலை ஏற்படுத்தும் வாயு எது?",
+    "options_en": ["Sulphur dioxide (SO₂)", "Chlorine (Cl₂)", "Ozone (O₃)", "Nitrogen dioxide (NO₂)"],
+    "options_ta": ["சல்பர் டை ஆக்சைடு (SO₂)", "குளோரைன் (Cl₂)", "ஓசோன் (O₃)", "நைட்ரஜன் டை ஆக்சைடு (NO₂)"],
+    "answer_en": "Chlorine (Cl₂)",
+    "answer_ta": "குளோரைன் (Cl₂)"
+  },
+  {
+    "question_en": "Which is the main reason for hard water causing scale in boilers?",
+    "question_ta": "தோட்டு நீர் (Hard water) ரித்துகளுக்கு காரணமா என்னால் boiler களில் scale உருவாகிறது?",
+    "options_en": ["Presence of chlorine gas", "High sodium content", "High dissolved oxygen", "Presence of calcium and magnesium salts"],
+    "options_ta": ["குளோரைன் வாயு இருப்பது", "அதிக சோடியம் உள்ளடக்கம்", "அதிக நீரில் கரைந்த ஆக்சிஜன்", "கால்சியம் மற்றும் மக்னீசியம் உப்புகள்"],
+    "answer_en": "Presence of calcium and magnesium salts",
+    "answer_ta": "கால்சியம் மற்றும் மக்னீசியம் உப்புகள்"
+  },
+  {
+    "question_en": "Which process converts alkenes to alkyl halides?",
+    "question_ta": "அல்கீன்களை அல்கில் ஹேலைட்கள் ஆக மாற்றும் செயல் எது?",
+    "options_en": ["Oxidation", "Addition of HBr", "Dehydrogenation", "Hydrogenation"],
+    "options_ta": ["ஆக்சிடேஷன்", "HBr சேர்ப்பு", "ஹைட்ரஜன் நீக்கம்", "ஹைட்ரஜனேஷன்"],
+    "answer_en": "Addition of HBr",
+    "answer_ta": "HBr சேர்ப்பு"
+  },
+  {
+    "question_en": "Which method is used to obtain light metals like aluminium from their ores?",
+    "question_ta": "அலுமினியம் போன்ற வெளிச்ச உலோகங்களை அதன் கனிகளை (ores) இருந்து எடுக்க எந்த முறை பயன்படுத்தப்படுகிறது?",
+    "options_en": ["Hydrometallurgy", "Thermal decomposition", "Roasting", "Electrolytic reduction"],
+    "options_ta": ["ஹைட்ரோமெடாலஜி", "வெப்ப முறை ஒழுங்கு", "ரோஸ்டிங்", "மின்ன்கவலை குறைப்பு"],
+    "answer_en": "Electrolytic reduction",
+    "answer_ta": "மின்ன்கவலை குறைப்பு"
+  },
+  {
+    "question_en": "Which of these molecules is planar and aromatic?",
+    "question_ta": "இவற்றில் எந்த மூலக்கூறு திட்டவட்டமானதும் அரோமாட்டிக் ஆகும்?",
+    "options_en": ["Cyclohexane", "Benzene", "Ethane", "Propane"],
+    "options_ta": ["சைகிளோக்சேன்", "பென்ஸின்", "ஈத்தேன்", "புரோபேன்"],
+    "answer_en": "Benzene",
+    "answer_ta": "பென்ஸின்"
+  },
+  {
+    "question_en": "Which term describes the minimum energy required to remove an electron from gaseous atom?",
+    "question_ta": "வாயு நிலை அணுவிலிருந்து ஒரு மினிடையை எடுத்தேற்ப வெளியேற்றுவதற்கான குறைந்தபட்ச ஆற்றலை எந்த சொல்லால் குறிப்பிடுகிறார்கள்?",
+    "options_en": ["Electron affinity", "Reducing potential", "Electronegativity", "Ionization energy"],
+    "options_ta": ["மினிடை ஈர்ப்பு", "குறைப்புப் பொறுப்பு", "ஈலக்ட்ரோநெகாட்டிவிட்டி", "அயனீசன் ஆற்றல்"],
+    "answer_en": "Ionization energy",
+    "answer_ta": "அயனீசன் ஆற்றல்"
+  },
+  {
+    "question_en": "Which compound shows tautomerism between keto and enol forms?",
+    "question_ta": "கீட்டோ மற்றும் எனால் வடிவங்களுக்கு இடையே டாட்டோமரிசம் காட்டும் சேர்மம் எது?",
+    "options_en": ["Ethanol", "Acetone", "Methane", "Ethane"],
+    "options_ta": ["ஈத்தானால்", "அசிடோன்", "மீதேன்", "ஈத்தேன்"],
+    "answer_en": "Acetone",
+    "answer_ta": "அசிடோன்"
+  },
+  {
+    "question_en": "Which catalyst is used in the Haber process for ammonia synthesis?",
+    "question_ta": "அமோனியா (NH₃) தயாரிக்க ஹேபர் செயல்முறையில் (Haber process) எந்த கேட்டலிஸ்ட் பயன்படுத்தப்படுகிறது?",
+    "options_en": ["Copper", "Iron (Fe) with promoters", "Nickel", "Platinum"],
+    "options_ta": ["செம்பு", "இரும்பு (Fe) உடன் ப்ரோமோட்டர்கள்", "நிக்கல்", "பிளாட்டினம்"],
+    "answer_en": "Iron (Fe) with promoters",
+    "answer_ta": "இரும்பு (Fe) உடன் ப்ரோமோட்டர்கள்"
+  },
+  {
+    "question_en": "Which of the following techniques is used for determining molecular mass by fragmentation pattern?",
+    "question_ta": "மாலிக்யூலர் எடையை துண்டுகள் முறையே நிர்ணயிக்க எந்த நுட்பம் பயன்படுகிறது?",
+    "options_en": ["NMR spectroscopy", "Mass spectrometry", "Infrared spectroscopy", "UV-Vis spectroscopy"],
+    "options_ta": ["NMR ஸ்பெக்ட்ரோஸ்கோபி", "மாஸ் ஸ்பெக்ட்ரோமெட்ரி", "இன்ஃப்ராரெட் ஸ்பெக்ட்ரோஸ்கோபி", "UV-விச் ஸ்பெக்ட்ரோஸ்கோபி"],
+    "answer_en": "Mass spectrometry",
+    "answer_ta": "மாஸ் ஸ்பெக்ட்ரோமெட்ரி"
+  },
+  {
+    "question_en": "Which is the Bronsted-Lowry definition of a base?",
+    "question_ta": "ஒரு அடிப்படை (base) பற்றி Bronsted-Lowry வரையறை என்ன?",
+    "options_en": ["Electron pair donor", "Proton donor", "Proton acceptor", "Electron pair acceptor"],
+    "options_ta": ["மின்சார ஜோடி வழங்குபவர்", "ப்ரோட்டான் வழங்குபவர்", "ப்ரோட்டான் ஏற்றுக்கொள்ளுபவர்", "மின்சார ஜோடி ஏற்றுக்கொள்ளுபவர்"],
+    "answer_en": "Proton acceptor",
+    "answer_ta": "ப்ரோட்டான் ஏற்றுக்கொள்ளுபவர்"
+  },
+  {
+    "question_en": "Which of the following is an example of a biodegradable polymer?",
+    "question_ta": "கீழ்க்கண்டவற்றில் எது உயிரணுக்குரிய (biodegradable) பாலிமர் உதாரணம்?",
+    "options_en": ["PVC", "Polylactic acid (PLA)", "Polystyrene", "Polyethylene"],
+    "options_ta": ["PVC", "பாலிலாக்டிக் அமிலம் (PLA)", "பாலிஸ்டைரின்", "பாலிஈத்தியீன்"],
+    "answer_en": "Polylactic acid (PLA)",
+    "answer_ta": "பாலிலாக்டிக் அமிலம் (PLA)"
+  },
+  {
+    "question_en": "Which reagent is used for nitration of benzene to form nitrobenzene?",
+    "question_ta": "பென்சினை நைட்ரோபென்சேன் ஆக மாற்ற பென்சின் நைட்ரேஷனுக்கு எந்த திரவம் பயன்படுகிறது?",
+    "options_en": ["KMnO₄ cold", "Conc. HNO₃ + Conc. H₂SO₄", "Ozone", "Dilute HCl"],
+    "options_ta": ["குளிர்ந்த KMnO₄", "கன்சன்ட்ரேட் HNO₃ + கன்சன்ட்ரேட் H₂SO₄", "ஓசோன்", "மங்கலமான HCl"],
+    "answer_en": "Conc. HNO₃ + Conc. H₂SO₄",
+    "answer_ta": "கன்சன்ட்ரேட் HNO₃ + கன்சன்ட்ரேட் H₂SO₄"
+  },
+  {
+    "question_en": "Which property of benzene makes it less reactive in addition reactions?",
+    "question_ta": "பென்சினின் எந்த பண்பு அதைப் கூட்டுதல் (addition) வினைகளில் குறைவான செயல்பாட்டாளராக ஆக்கிறது?",
+    "options_en": ["High acidity", "Ionic bonding", "Resonance (delocalized π electrons)", "High polarity"],
+    "options_ta": ["உயர் அமிலத்தன்மை", "ஐனிக் பந்தம்", "தொகுக்கம் (விலகிய π மினிடைகள்)", "அதிக திசைசார்பு"],
+    "answer_en": "Resonance (delocalized π electrons)",
+    "answer_ta": "தொகுக்கம் (விலகிய π மினிடைகள்)"
+  },
+  {
+    "question_en": "Which compound is used as a preservative in pickles and is acidic?",
+    "question_ta": "அச்சு சமையலில் (pickles) பாதுகாப்பாக பயன்படுத்தப்படும் அமில அடிப்படை சேர்மம் எது?",
+    "options_en": ["Sodium hydroxide", "Calcium carbonate", "Ammonia", "Acetic acid"],
+    "options_ta": ["சோடியம் ஹைட்ராக்சைடு", "கால்சியம் கார்போனேட்", "அமோனியா", "அசெடிக் அமிலம்"],
+    "answer_en": "Acetic acid",
+    "answer_ta": "அசெடிக் அமிலம்"
+  },
+  {
+    "question_en": "Which metal is obtained by the thermite reaction (example: Fe₂O₃ + Al → Fe + Al₂O₃)?",
+    "question_ta": "தெர்மைட் வினையில் (Fe₂O₃ + Al → Fe + Al₂O₃) எந்த உலோகம் பெறப்படுகிறது?",
+    "options_en": ["Zinc (Zn)", "Aluminium (Al)", "Iron (Fe)", "Copper (Cu)"],
+    "options_ta": ["ஜிங்க் (Zn)", "அலுமினியம் (Al)", "இரும்பு (Fe)", "செம்பு (Cu)"],
+    "answer_en": "Iron (Fe)",
+    "answer_ta": "இரும்பு (Fe)"
+  },
+  {
+    "question_en": "Which statement correctly describes Le Chatelier's principle?",
+    "question_ta": "லே ஷாட்ஃலியர் கோட்பாட்டை சரியாக விவரிக்கும் விளக்கம் எது?",
+    "options_en": ["System only changes temperature", "System accelerates change", "System stays unchanged", "System shifts to counteract imposed change"],
+    "options_ta": ["அமைப்பு வெப்பநிலையை மட்டுமே மாற்றும்", "அமைப்பு மாற்றத்தை வேகப்படுத்தும்", "அமைப்பு மாறவில்லை இருக்கும்", "அமைப்பு விதிக்கப்பட்ட மாற்றத்தை எதிர்க்க நகரும்"],
+    "answer_en": "System shifts to counteract imposed change",
+    "answer_ta": "அமைப்பு விதிக்கப்பட்ட மாற்றத்தை எதிர்க்க நகரும்"
+  }
+]

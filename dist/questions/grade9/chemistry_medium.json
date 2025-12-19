@@ -1,0 +1,250 @@
+[
+  {
+    "question_en": "Which subatomic particle determines the chemical properties of an element?",
+    "question_ta": "ஒரு தனிமத்தின் வேதியியல் பண்புகளை தீர்மானிப்பது எந்த அணுத் துகள்?",
+    "options_en": ["Proton", "Electron", "Neutron", "Nucleus"],
+    "options_ta": ["புரோட்டான்", "எலக்ட்ரான்", "நியூட்ரான்", "மையம்"],
+    "answer_en": "Electron",
+    "answer_ta": "எலக்ட்ரான்"
+  },
+  {
+    "question_en": "Which gas is produced when calcium carbonate reacts with hydrochloric acid?",
+    "question_ta": "கால்சியம் கார்பனேட் ஹைட்ரோகுளோரிக் அமிலத்துடன் வினைபுரிந்தால் உருவாகும் வாயு எது?",
+    "options_en": ["Carbon dioxide", "Hydrogen", "Oxygen", "Nitrogen"],
+    "options_ta": ["கார்பன் டைஆக்சைடு", "ஹைட்ரஜன்", "ஆக்சிஜன்", "நைட்ரஜன்"],
+    "answer_en": "Carbon dioxide",
+    "answer_ta": "கார்பன் டைஆக்சைடு"
+  },
+  {
+    "question_en": "The bond in NaCl is",
+    "question_ta": "NaCl இல் உள்ள பிணைப்பு எது?",
+    "options_en": ["Covalent bond", "Ionic bond", "Metallic bond", "Hydrogen bond"],
+    "options_ta": ["ஒற்றை பிணைப்பு", "அயோனிக் பிணைப்பு", "உலோக பிணைப்பு", "ஹைட்ரஜன் பிணைப்பு"],
+    "answer_en": "Ionic bond",
+    "answer_ta": "அயோனிக் பிணைப்பு"
+  },
+  {
+    "question_en": "Which element has the highest electronegativity?",
+    "question_ta": "அதிக மின்முனைவு (electronegativity) உடைய தனிமம் எது?",
+    "options_en": ["Oxygen", "Chlorine", "Fluorine", "Nitrogen"],
+    "options_ta": ["ஆக்சிஜன்", "குளோரைன்", "ஃப்ளூரின்", "நைட்ரஜன்"],
+    "answer_en": "Fluorine",
+    "answer_ta": "ஃப்ளூரின்"
+  },
+  {
+    "question_en": "Which type of reaction is 2Mg + O2 → 2MgO?",
+    "question_ta": "2Mg + O2 → 2MgO இந்த வினை எவ்வகை வினை?",
+    "options_en": ["Decomposition", "Displacement", "Combination", "Neutralisation"],
+    "options_ta": ["பிரிப்பு வினை", "மாற்று வினை", "இணைவு வினை", "நியூட்ரலிசேஷன்"],
+    "answer_en": "Combination",
+    "answer_ta": "இணைவு வினை"
+  },
+  {
+    "question_en": "The process of coating iron with zinc to prevent rusting is",
+    "question_ta": "இரும்பு கம்பிகளை எரிதல் தடுக்க துத்தநாகத்தால் (zinc) பூசும் செயல்முறை எது?",
+    "options_en": ["Electroplating", "Alloying", "Galvanisation", "Rustproofing"],
+    "options_ta": ["மின்இணைப்பு", "கலப்பிணைவு", "கல்வனைசேஷன்", "துருப்பிடிக்காதல்"],
+    "answer_en": "Galvanisation",
+    "answer_ta": "கல்வனைசேஷன்"
+  },
+  {
+    "question_en": "Which is the chemical name of washing soda?",
+    "question_ta": "வாசிங்சோடாவின் வேதியியல் பெயர் என்ன?",
+    "options_en": ["Sodium carbonate", "Sodium bicarbonate", "Sodium hydroxide", "Potassium carbonate"],
+    "options_ta": ["சோடியம் கார்பனேட்", "சோடியம் பைக்கார்பனேட்", "சோடியம் ஹைட்ராக்சைடு", "பொட்டாசியம் கார்பனேட்"],
+    "answer_en": "Sodium carbonate",
+    "answer_ta": "சோடியம் கார்பனேட்"
+  },
+  {
+    "question_en": "Which metal is the best conductor of electricity?",
+    "question_ta": "எந்த உலோகம் சிறந்த மின்கடத்தியாகும்?",
+    "options_en": ["Iron", "Copper", "Silver", "Aluminium"],
+    "options_ta": ["இரும்பு", "தாமிரம்", "வெள்ளி", "அலுமினியம்"],
+    "answer_en": "Silver",
+    "answer_ta": "வெள்ளி"
+  },
+  {
+    "question_en": "Which gas is used in fire extinguishers?",
+    "question_ta": "தீ அணைப்பியில் பயன்படுத்தப்படும் வாயு எது?",
+    "options_en": ["Oxygen", "Carbon dioxide", "Nitrogen", "Hydrogen"],
+    "options_ta": ["ஆக்சிஜன்", "கார்பன் டைஆக்சைடு", "நைட்ரஜன்", "ஹைட்ரஜன்"],
+    "answer_en": "Carbon dioxide",
+    "answer_ta": "கார்பன் டைஆக்சைடு"
+  },
+  {
+    "question_en": "The common ore of aluminium is",
+    "question_ta": "அலுமினியத்தின் பொதுவான கனிமம் எது?",
+    "options_en": ["Bauxite", "Haematite", "Galena", "Magnetite"],
+    "options_ta": ["பாக்சைட்", "ஹீமடைட்", "கலீனா", "காந்தக்கல்"],
+    "answer_en": "Bauxite",
+    "answer_ta": "பாக்சைட்"
+  },
+  {
+    "question_en": "Which acid is present in vinegar?",
+    "question_ta": "வினிகரிலுள்ள அமிலம் எது?",
+    "options_en": ["Oxalic acid", "Acetic acid", "Formic acid", "Citric acid"],
+    "options_ta": ["ஆக்ஸலிக் அமிலம்", "அசிட்டிக் அமிலம்", "பார்மிக் அமிலம்", "சிட்ரிக் அமிலம்"],
+    "answer_en": "Acetic acid",
+    "answer_ta": "அசிட்டிக் அமிலம்"
+  },
+  {
+    "question_en": "The rusting of iron is a type of",
+    "question_ta": "இரும்பின் துருப்பிடித்தல் எவ்வகை வினை?",
+    "options_en": ["Reduction", "Oxidation", "Neutralisation", "Combination"],
+    "options_ta": ["இறக்க வினை", "ஆக்சிடேஷன்", "நியூட்ரலிசேஷன்", "இணைவு"],
+    "answer_en": "Oxidation",
+    "answer_ta": "ஆக்சிடேஷன்"
+  },
+  {
+    "question_en": "Which gas is produced by plants during photosynthesis?",
+    "question_ta": "ஒளிச்சேர்க்கையின் போது தாவரங்கள் உற்பத்தி செய்யும் வாயு எது?",
+    "options_en": ["Oxygen", "Carbon dioxide", "Hydrogen", "Nitrogen"],
+    "options_ta": ["ஆக்சிஜன்", "கார்பன் டைஆக்சைடு", "ஹைட்ரஜன்", "நைட்ரஜன்"],
+    "answer_en": "Oxygen",
+    "answer_ta": "ஆக்சிஜன்"
+  },
+  {
+    "question_en": "The atomic mass unit is defined based on",
+    "question_ta": "அணுத் திணிவு அலகு எந்த அடிப்படையில் வரையறுக்கப்படுகிறது?",
+    "options_en": ["Carbon-12 isotope", "Hydrogen atom", "Oxygen molecule", "Helium atom"],
+    "options_ta": ["கார்பன்-12 ஐசோடோப்", "ஹைட்ரஜன் அணு", "ஆக்சிஜன் மூலக்கூறு", "ஹீலியம் அணு"],
+    "answer_en": "Carbon-12 isotope",
+    "answer_ta": "கார்பன்-12 ஐசோடோப்"
+  },
+  {
+    "question_en": "Which element is used in making semiconductor devices?",
+    "question_ta": "செமிகண்டக்டர் சாதனங்களை தயாரிக்க பயன்படுத்தப்படும் தனிமம் எது?",
+    "options_en": ["Carbon", "Silicon", "Aluminium", "Zinc"],
+    "options_ta": ["கார்பன்", "சிலிகான்", "அலுமினியம்", "சிங்க்"],
+    "answer_en": "Silicon",
+    "answer_ta": "சிலிகான்"
+  },
+  {
+    "question_en": "Which law states that mass is neither created nor destroyed in a chemical reaction?",
+    "question_ta": "வேதியியல் வினையில் திணிவு neither உருவாக்கப்படாது nor அழிக்கப்படாது எனக் கூறும் சட்டம் எது?",
+    "options_en": ["Dalton’s law", "Boyle’s law", "Law of conservation of mass", "Avogadro’s law"],
+    "options_ta": ["டால்டன் சட்டம்", "பாய்ல் சட்டம்", "திணிவு நிலைத்திருக்கும் சட்டம்", "அவோகாட்ரோ சட்டம்"],
+    "answer_en": "Law of conservation of mass",
+    "answer_ta": "திணிவு நிலைத்திருக்கும் சட்டம்"
+  },
+  {
+    "question_en": "Which acid is found in lemon?",
+    "question_ta": "எலுமிச்சையில் காணப்படும் அமிலம் எது?",
+    "options_en": ["Acetic acid", "Citric acid", "Formic acid", "Sulphuric acid"],
+    "options_ta": ["அசிட்டிக் அமிலம்", "சிட்ரிக் அமிலம்", "பார்மிக் அமிலம்", "சல்பியூரிக் அமிலம்"],
+    "answer_en": "Citric acid",
+    "answer_ta": "சிட்ரிக் அமிலம்"
+  },
+  {
+    "question_en": "Which metal is extracted from haematite ore?",
+    "question_ta": "ஹீமடைட் கனிமத்திலிருந்து எடுக்கப்படும் உலோகம் எது?",
+    "options_en": ["Aluminium", "Copper", "Iron", "Zinc"],
+    "options_ta": ["அலுமினியம்", "தாமிரம்", "இரும்பு", "சிங்க்"],
+    "answer_en": "Iron",
+    "answer_ta": "இரும்பு"
+  },
+  {
+    "question_en": "Which process is used for separating dyes and pigments?",
+    "question_ta": "நிறப்பூச்சுகள் மற்றும் வண்ணங்களைப் பிரிப்பதற்கு எந்த செயல்முறை பயன்படுத்தப்படுகிறது?",
+    "options_en": ["Chromatography", "Filtration", "Evaporation", "Sedimentation"],
+    "options_ta": ["குரோமாடோக்ராஃபி", "சுற்றறிதல்", "ஆவியாக்கம்", "அடைத்தல்"],
+    "answer_en": "Chromatography",
+    "answer_ta": "குரோமாடோக்ராஃபி"
+  },
+  {
+    "question_en": "Which part of the atom was discovered by J.J. Thomson?",
+    "question_ta": "J.J. தாம்சன் கண்டறிந்த அணுத் தொகுதி எது?",
+    "options_en": ["Nucleus", "Electron", "Proton", "Neutron"],
+    "options_ta": ["மையம்", "எலக்ட்ரான்", "புரோட்டான்", "நியூட்ரான்"],
+    "answer_en": "Electron",
+    "answer_ta": "எலக்ட்ரான்"
+  },
+  {
+    "question_en": "Which of the following is an endothermic process?",
+    "question_ta": "பின்வருவனவற்றில் எது வெப்பஉள்வாங்கும் (endothermic) செயல்முறை?",
+    "options_en": ["Combustion of fuel", "Melting of ice", "Rusting of iron", "Neutralisation"],
+    "options_ta": ["எரிபொருள் எரிதல்", "பனிக்கட்டி உருகுதல்", "இரும்பு துருப்பிடித்தல்", "நியூட்ரலிசேஷன்"],
+    "answer_en": "Melting of ice",
+    "answer_ta": "பனிக்கட்டி உருகுதல்"
+  },
+  {
+    "question_en": "Which element has the symbol ‘K’?",
+    "question_ta": "‘K’ குறியீடு கொண்ட தனிமம் எது?",
+    "options_en": ["Sodium", "Potassium", "Calcium", "Magnesium"],
+    "options_ta": ["சோடியம்", "பொட்டாசியம்", "கால்சியம்", "மக்னீசியம்"],
+    "answer_en": "Potassium",
+    "answer_ta": "பொட்டாசியம்"
+  },
+  {
+    "question_en": "What is the molecular formula of methane?",
+    "question_ta": "மீத்தேனின் வேதியியல் வாய்பாடு எது?",
+    "options_en": ["C2H6", "CH4", "C2H2", "C3H8"],
+    "options_ta": ["C2H6", "CH4", "C2H2", "C3H8"],
+    "answer_en": "CH4",
+    "answer_ta": "CH4"
+  },
+  {
+    "question_en": "Which solution turns red litmus to blue?",
+    "question_ta": "சிவப்பு லிட்மஸை நீலமாக மாற்றும் தீர்வு எது?",
+    "options_en": ["Acidic solution", "Neutral solution", "Basic solution", "Salt solution"],
+    "options_ta": ["அமிலத் தீர்வு", "நியூட்ரல் தீர்வு", "அடிப்பான தீர்வு", "உப்புத் தீர்வு"],
+    "answer_en": "Basic solution",
+    "answer_ta": "அடிப்பான தீர்வு"
+  },
+  {
+    "question_en": "Which element is a metalloid?",
+    "question_ta": "பின்வரும் தனிமங்களில் எது உலோகம் மற்றும் அலோகம் இரண்டின் பண்புகளும் உடையது (மெட்டலாய்டு)?",
+    "options_en": ["Silicon", "Oxygen", "Sodium", "Sulphur"],
+    "options_ta": ["சிலிகான்", "ஆக்சிஜன்", "சோடியம்", "சல்பர்"],
+    "answer_en": "Silicon",
+    "answer_ta": "சிலிகான்"
+  },
+  {
+    "question_en": "Which is the lightest noble gas?",
+    "question_ta": "மிகக் குறைந்த எடையுடைய நொபிள் வாயு எது?",
+    "options_en": ["Helium", "Neon", "Argon", "Krypton"],
+    "options_ta": ["ஹீலியம்", "நியான்", "ஆர்கான்", "கிரிப்டான்"],
+    "answer_en": "Helium",
+    "answer_ta": "ஹீலியம்"
+  },
+  {
+    "question_en": "Which metal reacts vigorously with water?",
+    "question_ta": "நீருடன் மிக விறுவிறுப்பாக வினைபுரியும் உலோகம் எது?",
+    "options_en": ["Copper", "Aluminium", "Potassium", "Silver"],
+    "options_ta": ["தாமிரம்", "அலுமினியம்", "பொட்டாசியம்", "வெள்ளி"],
+    "answer_en": "Potassium",
+    "answer_ta": "பொட்டாசியம்"
+  },
+  {
+    "question_en": "Which acid is called battery acid?",
+    "question_ta": "பேட்டரி அமிலம் என்று அழைக்கப்படும் அமிலம் எது?",
+    "options_en": ["Sulphuric acid", "Nitric acid", "Hydrochloric acid", "Phosphoric acid"],
+    "options_ta": ["சல்பியூரிக் அமிலம்", "நைட்ரிக் அமிலம்", "ஹைட்ரோகுளோரிக் அமிலம்", "பாஸ்போரிக் அமிலம்"],
+    "answer_en": "Sulphuric acid",
+    "answer_ta": "சல்பியூரிக் அமிலம்"
+  },
+  {
+    "question_en": "Which is the gas used in Haber’s process to produce ammonia?",
+    "question_ta": "அமோனியாவை உற்பத்தி செய்ய ஹேபர் முறையில் பயன்படுத்தப்படும் வாயுக்கள் எவை?",
+    "options_en": ["Nitrogen and hydrogen", "Oxygen and nitrogen", "Carbon and oxygen", "Hydrogen and oxygen"],
+    "options_ta": ["நைட்ரஜன் மற்றும் ஹைட்ரஜன்", "ஆக்சிஜன் மற்றும் நைட்ரஜன்", "கார்பன் மற்றும் ஆக்சிஜன்", "ஹைட்ரஜன் மற்றும் ஆக்சிஜன்"],
+    "answer_en": "Nitrogen and hydrogen",
+    "answer_ta": "நைட்ரஜன் மற்றும் ஹைட்ரஜன்"
+  },
+  {
+    "question_en": "Which compound is used for bleaching paper and cloth?",
+    "question_ta": "காகிதம் மற்றும் துணிகளை வெண்மைப்படுத்தப் பயன்படுத்தப்படும் சேர்மம் எது?",
+    "options_en": ["NaCl", "NaOH", "CaOCl2", "CaCO3"],
+    "options_ta": ["NaCl", "NaOH", "CaOCl2", "CaCO3"],
+    "answer_en": "CaOCl2",
+    "answer_ta": "CaOCl2"
+  },
+  {
+    "question_en": "Which acid is found in ant sting?",
+    "question_ta": "எறும்பின் கடியில் காணப்படும் அமிலம் எது?",
+    "options_en": ["Formic acid", "Sulphuric acid", "Acetic acid", "Citric acid"],
+    "options_ta": ["பார்மிக் அமிலம்", "சல்பியூரிக் அமிலம்", "அசிட்டிக் அமிலம்", "சிட்ரிக் அமிலம்"],
+    "answer_en": "Formic acid",
+    "answer_ta": "பார்மிக் அமிலம்"
+  }
+]

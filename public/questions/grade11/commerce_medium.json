@@ -1,0 +1,266 @@
+[
+  {
+    "question_en": "Which business activity is concerned with production of goods?",
+    "question_ta": "எந்த வணிகச் செயல் பொருட்களை உற்பத்தி செய்வதுடன் தொடர்புடையது?",
+    "options_en": ["Commerce", "Industry", "Trade", "Banking"],
+    "options_ta": ["வர்த்தகம்", "தொழில்", "வாணிபம்", "வங்கி"],
+    "answer_en": "Industry",
+    "answer_ta": "தொழில்"
+  },
+  {
+    "question_en": "Internal trade takes place within?",
+    "question_ta": "உள்நாட்டு வர்த்தகம் எங்கு நடைபெறுகிறது?",
+    "options_en": ["One country", "Two countries", "Across continents", "Global level"],
+    "options_ta": ["ஒரு நாடு", "இரண்டு நாடுகள்", "கண்டங்களைக் கடந்து", "உலகளாவிய அளவில்"],
+    "answer_en": "One country",
+    "answer_ta": "ஒரு நாடு"
+  },
+  {
+    "question_en": "Which of the following is an example of secondary industry?",
+    "question_ta": "கீழ்கண்டவற்றில் எது இரண்டாம் நிலை தொழிலின் உதாரணம்?",
+    "options_en": ["Mining", "Fishing", "Textile mill", "Agriculture"],
+    "options_ta": ["சுரங்கம்", "மீன்பிடி", "நூல் ஆலை", "விவசாயம்"],
+    "answer_en": "Textile mill",
+    "answer_ta": "நூல் ஆலை"
+  },
+  {
+    "question_en": "Which document contains rules for internal management of a company?",
+    "question_ta": "நிறுவனத்தின் உள்நிர்வாக விதிமுறைகள் எந்த ஆவணத்தில் உள்ளன?",
+    "options_en": ["Memorandum of Association", "Articles of Association", "Prospectus", "Annual Report"],
+    "options_ta": ["கூட்டறிக்கை நினைவுப்பதிவு", "கூட்டறிக்கை விதிகள்", "விழிப்புணர்வு", "ஆண்டறிக்கை"],
+    "answer_en": "Articles of Association",
+    "answer_ta": "கூட்டறிக்கை விதிகள்"
+  },
+  {
+    "question_en": "Which is the main aim of warehousing?",
+    "question_ta": "கிடங்கு வசதியின் முக்கிய நோக்கம் என்ன?",
+    "options_en": ["Storage", "Financing", "Insurance", "Marketing"],
+    "options_ta": ["சேமிப்பு", "நிதி", "காப்பீடு", "விற்பனை"],
+    "answer_en": "Storage",
+    "answer_ta": "சேமிப்பு"
+  },
+  {
+    "question_en": "Which form of business has unlimited liability?",
+    "question_ta": "எந்த வகை வணிக அமைப்பில் வரையறையற்ற பொறுப்பு உள்ளது?",
+    "options_en": ["Company", "Cooperative society", "Sole proprietorship", "Public enterprise"],
+    "options_ta": ["நிறுவனம்", "கூட்டுறவு சங்கம்", "தனி உரிமை", "பொது நிறுவனம்"],
+    "answer_en": "Sole proprietorship",
+    "answer_ta": "தனி உரிமை"
+  },
+  {
+    "question_en": "Who are the real owners of a company?",
+    "question_ta": "ஒரு நிறுவனத்தின் உண்மையான உரிமையாளர்கள் யார்?",
+    "options_en": ["Directors", "Managers", "Shareholders", "Employees"],
+    "options_ta": ["இயக்குநர்கள்", "மேலாளர்கள்", "பங்குதாரர்கள்", "ஊழியர்கள்"],
+    "answer_en": "Shareholders",
+    "answer_ta": "பங்குதாரர்கள்"
+  },
+  {
+    "question_en": "Which cooperative society provides goods at fair price?",
+    "question_ta": "நியாயமான விலையில் பொருட்களை வழங்கும் கூட்டுறவு சங்கம் எது?",
+    "options_en": ["Credit society", "Consumer society", "Producer society", "Marketing society"],
+    "options_ta": ["கடன் சங்கம்", "நுகர்வோர் சங்கம்", "உற்பத்தியாளர் சங்கம்", "மார்க்கெட்டிங் சங்கம்"],
+    "answer_en": "Consumer society",
+    "answer_ta": "நுகர்வோர் சங்கம்"
+  },
+  {
+    "question_en": "Which principle of insurance says insured should not profit from insurance?",
+    "question_ta": "காப்பீட்டின் எந்தக் கொள்கை காப்பீட்டிலிருந்து காப்பீட்டாளர் லாபம் அடையக்கூடாது என்கிறது?",
+    "options_en": ["Utmost good faith", "Indemnity", "Insurable interest", "Contribution"],
+    "options_ta": ["அதிகபட்ச நல்லநம்பிக்கை", "ஈடு கொடுப்பது", "காப்பீடு செய்யக்கூடிய நலன்", "பங்களிப்பு"],
+    "answer_en": "Indemnity",
+    "answer_ta": "ஈடு கொடுப்பது"
+  },
+  {
+    "question_en": "Which type of communication uses formal channels in organisation?",
+    "question_ta": "எந்த வகை தகவல் தொடர்பு நிறுவனத்தில் அதிகாரப்பூர்வ வழிகளைப் பயன்படுத்துகிறது?",
+    "options_en": ["Formal communication", "Informal communication", "Grapevine", "Casual"],
+    "options_ta": ["அதிகாரப்பூர்வ தொடர்பு", "அனுசரண தொடர்பு", "வதந்தி", "சாதாரணம்"],
+    "answer_en": "Formal communication",
+    "answer_ta": "அதிகாரப்பூர்வ தொடர்பு"
+  },
+  {
+    "question_en": "Which principle of management is violated when a worker gets orders from multiple bosses?",
+    "question_ta": "ஒரு தொழிலாளி பல மேற்பார்வையாளர்களிடமிருந்து உத்தரவுகள் பெறும்போது எந்த மேலாண்மை கொள்கை மீறப்படுகிறது?",
+    "options_en": ["Unity of direction", "Unity of command", "Centralisation", "Division of work"],
+    "options_ta": ["திசை ஒற்றுமை", "கட்டளை ஒற்றுமை", "மையப்படுத்தல்", "வேலைப் பிரிவு"],
+    "answer_en": "Unity of command",
+    "answer_ta": "கட்டளை ஒற்றுமை"
+  },
+  {
+    "question_en": "Which is an example of tertiary industry?",
+    "question_ta": "மூன்றாம் நிலை தொழிலின் உதாரணம் எது?",
+    "options_en": ["Iron and steel", "Textile", "Banking", "Mining"],
+    "options_ta": ["இரும்பு மற்றும் எஃகு", "நூல்", "வங்கி", "சுரங்கம்"],
+    "answer_en": "Banking",
+    "answer_ta": "வங்கி"
+  },
+  {
+    "question_en": "Which document is issued by a company inviting public to buy shares?",
+    "question_ta": "பங்குகளை வாங்க பொதுமக்களை அழைக்கும் நிறுவன ஆவணம் எது?",
+    "options_en": ["Prospectus", "Memorandum", "Articles", "Resolution"],
+    "options_ta": ["விழிப்புணர்வு", "நினைவுப்பதிவு", "விதிகள்", "தீர்மானம்"],
+    "answer_en": "Prospectus",
+    "answer_ta": "விழிப்புணர்வு"
+  },
+  {
+    "question_en": "Which type of trade is between two countries?",
+    "question_ta": "எந்த வகை வர்த்தகம் இரண்டு நாடுகளுக்கிடையே நடக்கிறது?",
+    "options_en": ["Internal trade", "External trade", "Retail trade", "Wholesale trade"],
+    "options_ta": ["உள்நாட்டு வர்த்தகம்", "வெளிநாட்டு வர்த்தகம்", "சில்லறை விற்பனை", "மொத்த விற்பனை"],
+    "answer_en": "External trade",
+    "answer_ta": "வெளிநாட்டு வர்த்தகம்"
+  },
+  {
+    "question_en": "Which principle of insurance says cause of loss must be nearest?",
+    "question_ta": "காப்பீட்டின் எந்தக் கொள்கை இழப்பின் காரணம் அருகியதாக இருக்க வேண்டும் என்கிறது?",
+    "options_en": ["Contribution", "Proximate cause", "Utmost good faith", "Subrogation"],
+    "options_ta": ["பங்களிப்பு", "அருகிய காரணம்", "அதிகபட்ச நல்லநம்பிக்கை", "மாற்று உரிமை"],
+    "answer_en": "Proximate cause",
+    "answer_ta": "அருகிய காரணம்"
+  },
+  {
+    "question_en": "Which of the following is a social objective of business?",
+    "question_ta": "கீழ்கண்டவற்றில் எது வணிகத்தின் சமூக நோக்கம்?",
+    "options_en": ["Profit maximisation", "Innovation", "Consumer satisfaction", "Market share"],
+    "options_ta": ["அதிகபட்ச லாபம்", "புதிய கண்டுபிடிப்பு", "நுகர்வோர் திருப்தி", "சந்தை பங்கு"],
+    "answer_en": "Consumer satisfaction",
+    "answer_ta": "நுகர்வோர் திருப்தி"
+  },
+  {
+    "question_en": "Which is the main objective of business?",
+    "question_ta": "வணிகத்தின் முக்கிய நோக்கம் எது?",
+    "options_en": ["Profit earning", "Employment", "Social service", "Wealth distribution"],
+    "options_ta": ["லாபம் ஈட்டுதல்", "வேலை வாய்ப்பு", "சமூக சேவை", "செல்வ விநியோகம்"],
+    "answer_en": "Profit earning",
+    "answer_ta": "லாபம் ஈட்டுதல்"
+  },
+  {
+    "question_en": "Which is an example of auxiliary to trade?",
+    "question_ta": "வர்த்தகத்திற்கு துணை உதாரணம் எது?",
+    "options_en": ["Industry", "Transport", "Production", "Mining"],
+    "options_ta": ["தொழில்", "போக்குவரத்து", "உற்பத்தி", "சுரங்கம்"],
+    "answer_en": "Transport",
+    "answer_ta": "போக்குவரத்து"
+  },
+  {
+    "question_en": "Which is the most important document of a partnership firm?",
+    "question_ta": "கூட்டாண்மை நிறுவனத்தின் மிக முக்கிய ஆவணம் எது?",
+    "options_en": ["Certificate of incorporation", "Partnership deed", "Articles of association", "Trade license"],
+    "options_ta": ["நிறுவல் சான்றிதழ்", "கூட்டாண்மை பத்திரம்", "விதிகள்", "வர்த்தக உரிமம்"],
+    "answer_en": "Partnership deed",
+    "answer_ta": "கூட்டாண்மை பத்திரம்"
+  },
+  {
+    "question_en": "Who is the first auditor of a company?",
+    "question_ta": "ஒரு நிறுவனத்தின் முதல் தணிக்கையாளர் யார்?",
+    "options_en": ["Board of directors", "Registrar of companies", "Shareholders", "Government"],
+    "options_ta": ["இயக்குநர்கள் குழு", "நிறுவன பதிவாளர்", "பங்குதாரர்கள்", "அரசு"],
+    "answer_en": "Board of directors",
+    "answer_ta": "இயக்குநர்கள் குழு"
+  },
+  {
+    "question_en": "Which principle of management suggests equal pay for equal work?",
+    "question_ta": "எந்த மேலாண்மை கொள்கை சம வேலைக்கு சம ஊதியம் வேண்டும் என்கிறது?",
+    "options_en": ["Equity", "Remuneration", "Discipline", "Centralisation"],
+    "options_ta": ["சமநிலை", "ஊதியம்", "ஒழுக்கம்", "மையப்படுத்தல்"],
+    "answer_en": "Remuneration",
+    "answer_ta": "ஊதியம்"
+  },
+  {
+    "question_en": "Which form of organisation is created by a special Act of Parliament?",
+    "question_ta": "சிறப்பு பாராளுமன்றச் சட்டத்தின் மூலம் உருவாக்கப்படும் அமைப்பு எது?",
+    "options_en": ["Departmental undertaking", "Public corporation", "Private company", "Cooperative society"],
+    "options_ta": ["துறை நிறுவனம்", "பொது நிறுவனம்", "தனியார் நிறுவனம்", "கூட்டுறவு சங்கம்"],
+    "answer_en": "Public corporation",
+    "answer_ta": "பொது நிறுவனம்"
+  },
+  {
+    "question_en": "Which type of partner is liable only to the extent of capital invested?",
+    "question_ta": "முதலீடு செய்த மூலதனத்திற்கு மட்டுமே பொறுப்பான பங்குதாரர் யார்?",
+    "options_en": ["Active partner", "Limited partner", "Sleeping partner", "Minor partner"],
+    "options_ta": ["செயலில் உள்ளவர்", "வரையறுக்கப்பட்டவர்", "தூங்குபவர்", "சிறுவயது பங்குதாரர்"],
+    "answer_en": "Limited partner",
+    "answer_ta": "வரையறுக்கப்பட்டவர்"
+  },
+  {
+    "question_en": "Which is the apex organisation of cooperative societies in India?",
+    "question_ta": "இந்தியாவில் கூட்டுறவு சங்கங்களின் உச்ச அமைப்பு எது?",
+    "options_en": ["NABARD", "NCUI", "RBI", "IRDAI"],
+    "options_ta": ["நபார்டு", "என்சியுஐ", "இந்திய ரிசர்வ் வங்கி", "காப்பீட்டு ஆணையம்"],
+    "answer_en": "NCUI",
+    "answer_ta": "என்சியுஐ"
+  },
+  {
+    "question_en": "Which is an example of service business?",
+    "question_ta": "சேவை வணிகத்தின் உதாரணம் எது?",
+    "options_en": ["Banking", "Textiles", "Sugar factory", "Steel plant"],
+    "options_ta": ["வங்கி", "நூல்", "சர்க்கரை ஆலையம்", "எஃகு ஆலை"],
+    "answer_en": "Banking",
+    "answer_ta": "வங்கி"
+  },
+  {
+    "question_en": "Which is an advantage of sole proprietorship?",
+    "question_ta": "தனி உரிமைத்தொழிலின் நன்மை எது?",
+    "options_en": ["Limited liability", "Quick decision making", "Large capital", "Separate entity"],
+    "options_ta": ["வரையறுக்கப்பட்ட பொறுப்பு", "விரைவான முடிவு எடுப்பு", "பெரிய மூலதனம்", "தனி அங்கீகாரம்"],
+    "answer_en": "Quick decision making",
+    "answer_ta": "விரைவான முடிவு எடுப்பு"
+  },
+  {
+    "question_en": "Which cooperative society supplies inputs to farmers?",
+    "question_ta": "விவசாயிகளுக்கு உள்ளீடுகளை வழங்கும் கூட்டுறவு சங்கம் எது?",
+    "options_en": ["Producer society", "Credit society", "Marketing society", "Farming society"],
+    "options_ta": ["உற்பத்தியாளர் சங்கம்", "கடன் சங்கம்", "மார்க்கெட்டிங் சங்கம்", "விவசாய சங்கம்"],
+    "answer_en": "Producer society",
+    "answer_ta": "உற்பத்தியாளர் சங்கம்"
+  },
+  {
+    "question_en": "Which is the governing body of a company?",
+    "question_ta": "ஒரு நிறுவனத்தின் ஆளும் அமைப்பு எது?",
+    "options_en": ["Shareholders", "Board of directors", "Managers", "Registrar"],
+    "options_ta": ["பங்குதாரர்கள்", "இயக்குநர்கள் குழு", "மேலாளர்கள்", "பதிவாளர்"],
+    "answer_en": "Board of directors",
+    "answer_ta": "இயக்குநர்கள் குழு"
+  },
+  {
+    "question_en": "Which insurance principle avoids double claim?",
+    "question_ta": "எந்த காப்பீட்டு கொள்கை இரட்டை கோரிக்கையைத் தவிர்க்கிறது?",
+    "options_en": ["Contribution", "Subrogation", "Indemnity", "Utmost good faith"],
+    "options_ta": ["பங்களிப்பு", "மாற்று உரிமை", "ஈடு", "அதிகபட்ச நல்லநம்பிக்கை"],
+    "answer_en": "Contribution",
+    "answer_ta": "பங்களிப்பு"
+  },
+  {
+    "question_en": "Which is the main objective of SEBI?",
+    "question_ta": "சீபியின் (SEBI) முக்கிய நோக்கம் எது?",
+    "options_en": ["Control credit", "Protect investors", "Issue currency", "Provide loans"],
+    "options_ta": ["கடனை கட்டுப்படுத்துதல்", "முதலீட்டாளர்களை பாதுகாத்தல்", "நாணயத்தை வெளியிடுதல்", "கடன் வழங்குதல்"],
+    "answer_en": "Protect investors",
+    "answer_ta": "முதலீட்டாளர்களை பாதுகாத்தல்"
+  },
+  {
+    "question_en": "Which management principle relates to fair treatment of employees?",
+    "question_ta": "ஊழியர்களுக்கு நியாயமான அணுகுமுறை தொடர்பான மேலாண்மை கொள்கை எது?",
+    "options_en": ["Equity", "Discipline", "Remuneration", "Scalar chain"],
+    "options_ta": ["சமநிலை", "ஒழுக்கம்", "ஊதியம்", "ஸ்கேலர் சங்கிலி"],
+    "answer_en": "Equity",
+    "answer_ta": "சமநிலை"
+  },
+  {
+    "question_en": "Which organisation provides long-term finance for industries in India?",
+    "question_ta": "இந்திய தொழில்களுக்கு நீண்டகால நிதி வழங்கும் அமைப்பு எது?",
+    "options_en": ["SIDBI", "IDBI", "RBI", "IRDAI"],
+    "options_ta": ["சிட்பி", "ஐடிபி", "இந்திய ரிசர்வ் வங்கி", "காப்பீட்டு ஆணையம்"],
+    "answer_en": "IDBI",
+    "answer_ta": "ஐடிபி"
+  },
+  {
+    "question_en": "Which international organisation promotes global trade?",
+    "question_ta": "உலகளாவிய வர்த்தகத்தை ஊக்குவிக்கும் சர்வதேச அமைப்பு எது?",
+    "options_en": ["UNICEF", "WTO", "WHO", "IMF"],
+    "options_ta": ["யூனிசெஃப்", "WTO", "WHO", "IMF"],
+    "answer_en": "WTO",
+    "answer_ta": "WTO"
+  }
+]

@@ -1,0 +1,902 @@
+[
+  {
+    "question_en": "Who wrote 'The Merchant of Venice'?",
+    "question_ta": "‘தி மெர்சன்ட் ஆஃப் வெனிஸ்’ யாரால் எழுதப்பட்டது?",
+    "options_en": [
+      "Shakespeare",
+      "Keats",
+      "Milton",
+      "Wordsworth"
+    ],
+    "options_ta": [
+      "ஷேக்ஸ்பியர்",
+      "கீட்ஸ்",
+      "மில்டன்",
+      "வர்ட்ஸ்வொர்த்"
+    ],
+    "answer_en": "Shakespeare",
+    "answer_ta": "ஷேக்ஸ்பியர்"
+  },
+  {
+    "question_en": "What is the national bird of India?",
+    "question_ta": "இந்தியாவின் தேசியப் பறவை எது?",
+    "options_en": [
+      "Sparrow",
+      "Crow",
+      "Parrot",
+      "Peacock"
+    ],
+    "options_ta": [
+      "சிட்டுக்குருவி",
+      "காகம்",
+      "கிளி",
+      "மயில்"
+    ],
+    "answer_en": "Peacock",
+    "answer_ta": "மயில்"
+  },
+  {
+    "question_en": "Who is the author of 'My Experiments with Truth'?",
+    "question_ta": "‘மை எக்ஸ்பெரிமென்ட்ஸ் வித் ட்ருத்’ நூலாசிரியர் யார்?",
+    "options_en": [
+      "Rabindranath Tagore",
+      "Mahatma Gandhi",
+      "Subramania Bharati",
+      "Jawaharlal Nehru"
+    ],
+    "options_ta": [
+      "ரபீந்திரநாத் தாகூர்",
+      "மகாத்மா காந்தி",
+      "சுப்பிரமணிய பாரதி",
+      "ஜவஹர்லால் நேரு"
+    ],
+    "answer_en": "Mahatma Gandhi",
+    "answer_ta": "மகாத்மா காந்தி"
+  },
+  {
+    "question_en": "Who wrote 'The Merchant of Venice'?",
+    "question_ta": "‘தி மெர்சன்ட் ஆஃப் வெனிஸ்’ யாரால் எழுதப்பட்டது?",
+    "options_en": [
+      "Milton",
+      "Wordsworth",
+      "Keats",
+      "Shakespeare"
+    ],
+    "options_ta": [
+      "மில்டன்",
+      "வர்ட்ஸ்வொர்த்",
+      "கீட்ஸ்",
+      "ஷேக்ஸ்பியர்"
+    ],
+    "answer_en": "Shakespeare",
+    "answer_ta": "ஷேக்ஸ்பியர்"
+  },
+  {
+    "question_en": "What is the national bird of India?",
+    "question_ta": "இந்தியாவின் தேசியப் பறவை எது?",
+    "options_en": [
+      "Sparrow",
+      "Peacock",
+      "Parrot",
+      "Crow"
+    ],
+    "options_ta": [
+      "சிட்டுக்குருவி",
+      "மயில்",
+      "கிளி",
+      "காகம்"
+    ],
+    "answer_en": "Peacock",
+    "answer_ta": "மயில்"
+  },
+  {
+    "question_en": "Who is the author of 'My Experiments with Truth'?",
+    "question_ta": "‘மை எக்ஸ்பெரிமென்ட்ஸ் வித் ட்ருத்’ நூலாசிரியர் யார்?",
+    "options_en": [
+      "Rabindranath Tagore",
+      "Jawaharlal Nehru",
+      "Mahatma Gandhi",
+      "Subramania Bharati"
+    ],
+    "options_ta": [
+      "ரபீந்திரநாத் தாகூர்",
+      "ஜவஹர்லால் நேரு",
+      "மகாத்மா காந்தி",
+      "சுப்பிரமணிய பாரதி"
+    ],
+    "answer_en": "Mahatma Gandhi",
+    "answer_ta": "மகாத்மா காந்தி"
+  },
+  {
+    "question_en": "Who wrote 'The Merchant of Venice'?",
+    "question_ta": "‘தி மெர்சன்ட் ஆஃப் வெனிஸ்’ யாரால் எழுதப்பட்டது?",
+    "options_en": [
+      "Shakespeare",
+      "Keats",
+      "Milton",
+      "Wordsworth"
+    ],
+    "options_ta": [
+      "ஷேக்ஸ்பியர்",
+      "கீட்ஸ்",
+      "மில்டன்",
+      "வர்ட்ஸ்வொர்த்"
+    ],
+    "answer_en": "Shakespeare",
+    "answer_ta": "ஷேக்ஸ்பியர்"
+  },
+  {
+    "question_en": "What is the national bird of India?",
+    "question_ta": "இந்தியாவின் தேசியப் பறவை எது?",
+    "options_en": [
+      "Crow",
+      "Sparrow",
+      "Parrot",
+      "Peacock"
+    ],
+    "options_ta": [
+      "காகம்",
+      "சிட்டுக்குருவி",
+      "கிளி",
+      "மயில்"
+    ],
+    "answer_en": "Peacock",
+    "answer_ta": "மயில்"
+  },
+  {
+    "question_en": "Who is the author of 'My Experiments with Truth'?",
+    "question_ta": "‘மை எக்ஸ்பெரிமென்ட்ஸ் வித் ட்ருத்’ நூலாசிரியர் யார்?",
+    "options_en": [
+      "Subramania Bharati",
+      "Jawaharlal Nehru",
+      "Rabindranath Tagore",
+      "Mahatma Gandhi"
+    ],
+    "options_ta": [
+      "சுப்பிரமணிய பாரதி",
+      "ஜவஹர்லால் நேரு",
+      "ரபீந்திரநாத் தாகூர்",
+      "மகாத்மா காந்தி"
+    ],
+    "answer_en": "Mahatma Gandhi",
+    "answer_ta": "மகாத்மா காந்தி"
+  },
+  {
+    "question_en": "Who wrote 'The Merchant of Venice'?",
+    "question_ta": "‘தி மெர்சன்ட் ஆஃப் வெனிஸ்’ யாரால் எழுதப்பட்டது?",
+    "options_en": [
+      "Shakespeare",
+      "Milton",
+      "Wordsworth",
+      "Keats"
+    ],
+    "options_ta": [
+      "ஷேக்ஸ்பியர்",
+      "மில்டன்",
+      "வர்ட்ஸ்வொர்த்",
+      "கீட்ஸ்"
+    ],
+    "answer_en": "Shakespeare",
+    "answer_ta": "ஷேக்ஸ்பியர்"
+  },
+  {
+    "question_en": "What is the national bird of India?",
+    "question_ta": "இந்தியாவின் தேசியப் பறவை எது?",
+    "options_en": [
+      "Sparrow",
+      "Peacock",
+      "Crow",
+      "Parrot"
+    ],
+    "options_ta": [
+      "சிட்டுக்குருவி",
+      "மயில்",
+      "காகம்",
+      "கிளி"
+    ],
+    "answer_en": "Peacock",
+    "answer_ta": "மயில்"
+  },
+  {
+    "question_en": "Who is the author of 'My Experiments with Truth'?",
+    "question_ta": "‘மை எக்ஸ்பெரிமென்ட்ஸ் வித் ட்ருத்’ நூலாசிரியர் யார்?",
+    "options_en": [
+      "Rabindranath Tagore",
+      "Mahatma Gandhi",
+      "Jawaharlal Nehru",
+      "Subramania Bharati"
+    ],
+    "options_ta": [
+      "ரபீந்திரநாத் தாகூர்",
+      "மகாத்மா காந்தி",
+      "ஜவஹர்லால் நேரு",
+      "சுப்பிரமணிய பாரதி"
+    ],
+    "answer_en": "Mahatma Gandhi",
+    "answer_ta": "மகாத்மா காந்தி"
+  },
+  {
+    "question_en": "Who wrote 'The Merchant of Venice'?",
+    "question_ta": "‘தி மெர்சன்ட் ஆஃப் வெனிஸ்’ யாரால் எழுதப்பட்டது?",
+    "options_en": [
+      "Shakespeare",
+      "Wordsworth",
+      "Keats",
+      "Milton"
+    ],
+    "options_ta": [
+      "ஷேக்ஸ்பியர்",
+      "வர்ட்ஸ்வொர்த்",
+      "கீட்ஸ்",
+      "மில்டன்"
+    ],
+    "answer_en": "Shakespeare",
+    "answer_ta": "ஷேக்ஸ்பியர்"
+  },
+  {
+    "question_en": "What is the national bird of India?",
+    "question_ta": "இந்தியாவின் தேசியப் பறவை எது?",
+    "options_en": [
+      "Sparrow",
+      "Peacock",
+      "Crow",
+      "Parrot"
+    ],
+    "options_ta": [
+      "சிட்டுக்குருவி",
+      "மயில்",
+      "காகம்",
+      "கிளி"
+    ],
+    "answer_en": "Peacock",
+    "answer_ta": "மயில்"
+  },
+  {
+    "question_en": "Who is the author of 'My Experiments with Truth'?",
+    "question_ta": "‘மை எக்ஸ்பெரிமென்ட்ஸ் வித் ட்ருத்’ நூலாசிரியர் யார்?",
+    "options_en": [
+      "Rabindranath Tagore",
+      "Jawaharlal Nehru",
+      "Subramania Bharati",
+      "Mahatma Gandhi"
+    ],
+    "options_ta": [
+      "ரபீந்திரநாத் தாகூர்",
+      "ஜவஹர்லால் நேரு",
+      "சுப்பிரமணிய பாரதி",
+      "மகாத்மா காந்தி"
+    ],
+    "answer_en": "Mahatma Gandhi",
+    "answer_ta": "மகாத்மா காந்தி"
+  },
+  {
+    "question_en": "Who wrote 'The Merchant of Venice'?",
+    "question_ta": "‘தி மெர்சன்ட் ஆஃப் வெனிஸ்’ யாரால் எழுதப்பட்டது?",
+    "options_en": [
+      "Wordsworth",
+      "Milton",
+      "Keats",
+      "Shakespeare"
+    ],
+    "options_ta": [
+      "வர்ட்ஸ்வொர்த்",
+      "மில்டன்",
+      "கீட்ஸ்",
+      "ஷேக்ஸ்பியர்"
+    ],
+    "answer_en": "Shakespeare",
+    "answer_ta": "ஷேக்ஸ்பியர்"
+  },
+  {
+    "question_en": "What is the national bird of India?",
+    "question_ta": "இந்தியாவின் தேசியப் பறவை எது?",
+    "options_en": [
+      "Peacock",
+      "Crow",
+      "Sparrow",
+      "Parrot"
+    ],
+    "options_ta": [
+      "மயில்",
+      "காகம்",
+      "சிட்டுக்குருவி",
+      "கிளி"
+    ],
+    "answer_en": "Peacock",
+    "answer_ta": "மயில்"
+  },
+  {
+    "question_en": "Who is the author of 'My Experiments with Truth'?",
+    "question_ta": "‘மை எக்ஸ்பெரிமென்ட்ஸ் வித் ட்ருத்’ நூலாசிரியர் யார்?",
+    "options_en": [
+      "Jawaharlal Nehru",
+      "Subramania Bharati",
+      "Mahatma Gandhi",
+      "Rabindranath Tagore"
+    ],
+    "options_ta": [
+      "ஜவஹர்லால் நேரு",
+      "சுப்பிரமணிய பாரதி",
+      "மகாத்மா காந்தி",
+      "ரபீந்திரநாத் தாகூர்"
+    ],
+    "answer_en": "Mahatma Gandhi",
+    "answer_ta": "மகாத்மா காந்தி"
+  },
+  {
+    "question_en": "Who wrote 'The Merchant of Venice'?",
+    "question_ta": "‘தி மெர்சன்ட் ஆஃப் வெனிஸ்’ யாரால் எழுதப்பட்டது?",
+    "options_en": [
+      "Milton",
+      "Keats",
+      "Wordsworth",
+      "Shakespeare"
+    ],
+    "options_ta": [
+      "மில்டன்",
+      "கீட்ஸ்",
+      "வர்ட்ஸ்வொர்த்",
+      "ஷேக்ஸ்பியர்"
+    ],
+    "answer_en": "Shakespeare",
+    "answer_ta": "ஷேக்ஸ்பியர்"
+  },
+  {
+    "question_en": "What is the national bird of India?",
+    "question_ta": "இந்தியாவின் தேசியப் பறவை எது?",
+    "options_en": [
+      "Peacock",
+      "Parrot",
+      "Crow",
+      "Sparrow"
+    ],
+    "options_ta": [
+      "மயில்",
+      "கிளி",
+      "காகம்",
+      "சிட்டுக்குருவி"
+    ],
+    "answer_en": "Peacock",
+    "answer_ta": "மயில்"
+  },
+  {
+    "question_en": "Who is the author of 'My Experiments with Truth'?",
+    "question_ta": "‘மை எக்ஸ்பெரிமென்ட்ஸ் வித் ட்ருத்’ நூலாசிரியர் யார்?",
+    "options_en": [
+      "Jawaharlal Nehru",
+      "Mahatma Gandhi",
+      "Subramania Bharati",
+      "Rabindranath Tagore"
+    ],
+    "options_ta": [
+      "ஜவஹர்லால் நேரு",
+      "மகாத்மா காந்தி",
+      "சுப்பிரமணிய பாரதி",
+      "ரபீந்திரநாத் தாகூர்"
+    ],
+    "answer_en": "Mahatma Gandhi",
+    "answer_ta": "மகாத்மா காந்தி"
+  },
+  {
+    "question_en": "Who wrote 'The Merchant of Venice'?",
+    "question_ta": "‘தி மெர்சன்ட் ஆஃப் வெனிஸ்’ யாரால் எழுதப்பட்டது?",
+    "options_en": [
+      "Wordsworth",
+      "Shakespeare",
+      "Keats",
+      "Milton"
+    ],
+    "options_ta": [
+      "வர்ட்ஸ்வொர்த்",
+      "ஷேக்ஸ்பியர்",
+      "கீட்ஸ்",
+      "மில்டன்"
+    ],
+    "answer_en": "Shakespeare",
+    "answer_ta": "ஷேக்ஸ்பியர்"
+  },
+  {
+    "question_en": "What is the national bird of India?",
+    "question_ta": "இந்தியாவின் தேசியப் பறவை எது?",
+    "options_en": [
+      "Peacock",
+      "Crow",
+      "Parrot",
+      "Sparrow"
+    ],
+    "options_ta": [
+      "மயில்",
+      "காகம்",
+      "கிளி",
+      "சிட்டுக்குருவி"
+    ],
+    "answer_en": "Peacock",
+    "answer_ta": "மயில்"
+  },
+  {
+    "question_en": "Who is the author of 'My Experiments with Truth'?",
+    "question_ta": "‘மை எக்ஸ்பெரிமென்ட்ஸ் வித் ட்ருத்’ நூலாசிரியர் யார்?",
+    "options_en": [
+      "Mahatma Gandhi",
+      "Jawaharlal Nehru",
+      "Rabindranath Tagore",
+      "Subramania Bharati"
+    ],
+    "options_ta": [
+      "மகாத்மா காந்தி",
+      "ஜவஹர்லால் நேரு",
+      "ரபீந்திரநாத் தாகூர்",
+      "சுப்பிரமணிய பாரதி"
+    ],
+    "answer_en": "Mahatma Gandhi",
+    "answer_ta": "மகாத்மா காந்தி"
+  },
+  {
+    "question_en": "Who wrote 'The Merchant of Venice'?",
+    "question_ta": "‘தி மெர்சன்ட் ஆஃப் வெனிஸ்’ யாரால் எழுதப்பட்டது?",
+    "options_en": [
+      "Shakespeare",
+      "Milton",
+      "Keats",
+      "Wordsworth"
+    ],
+    "options_ta": [
+      "ஷேக்ஸ்பியர்",
+      "மில்டன்",
+      "கீட்ஸ்",
+      "வர்ட்ஸ்வொர்த்"
+    ],
+    "answer_en": "Shakespeare",
+    "answer_ta": "ஷேக்ஸ்பியர்"
+  },
+  {
+    "question_en": "What is the national bird of India?",
+    "question_ta": "இந்தியாவின் தேசியப் பறவை எது?",
+    "options_en": [
+      "Sparrow",
+      "Parrot",
+      "Peacock",
+      "Crow"
+    ],
+    "options_ta": [
+      "சிட்டுக்குருவி",
+      "கிளி",
+      "மயில்",
+      "காகம்"
+    ],
+    "answer_en": "Peacock",
+    "answer_ta": "மயில்"
+  },
+  {
+    "question_en": "Who is the author of 'My Experiments with Truth'?",
+    "question_ta": "‘மை எக்ஸ்பெரிமென்ட்ஸ் வித் ட்ருத்’ நூலாசிரியர் யார்?",
+    "options_en": [
+      "Subramania Bharati",
+      "Jawaharlal Nehru",
+      "Mahatma Gandhi",
+      "Rabindranath Tagore"
+    ],
+    "options_ta": [
+      "சுப்பிரமணிய பாரதி",
+      "ஜவஹர்லால் நேரு",
+      "மகாத்மா காந்தி",
+      "ரபீந்திரநாத் தாகூர்"
+    ],
+    "answer_en": "Mahatma Gandhi",
+    "answer_ta": "மகாத்மா காந்தி"
+  },
+  {
+    "question_en": "Who wrote 'The Merchant of Venice'?",
+    "question_ta": "‘தி மெர்சன்ட் ஆஃப் வெனிஸ்’ யாரால் எழுதப்பட்டது?",
+    "options_en": [
+      "Wordsworth",
+      "Keats",
+      "Milton",
+      "Shakespeare"
+    ],
+    "options_ta": [
+      "வர்ட்ஸ்வொர்த்",
+      "கீட்ஸ்",
+      "மில்டன்",
+      "ஷேக்ஸ்பியர்"
+    ],
+    "answer_en": "Shakespeare",
+    "answer_ta": "ஷேக்ஸ்பியர்"
+  },
+  {
+    "question_en": "What is the national bird of India?",
+    "question_ta": "இந்தியாவின் தேசியப் பறவை எது?",
+    "options_en": [
+      "Crow",
+      "Peacock",
+      "Sparrow",
+      "Parrot"
+    ],
+    "options_ta": [
+      "காகம்",
+      "மயில்",
+      "சிட்டுக்குருவி",
+      "கிளி"
+    ],
+    "answer_en": "Peacock",
+    "answer_ta": "மயில்"
+  },
+  {
+    "question_en": "Who is the author of 'My Experiments with Truth'?",
+    "question_ta": "‘மை எக்ஸ்பெரிமென்ட்ஸ் வித் ட்ருத்’ நூலாசிரியர் யார்?",
+    "options_en": [
+      "Rabindranath Tagore",
+      "Subramania Bharati",
+      "Jawaharlal Nehru",
+      "Mahatma Gandhi"
+    ],
+    "options_ta": [
+      "ரபீந்திரநாத் தாகூர்",
+      "சுப்பிரமணிய பாரதி",
+      "ஜவஹர்லால் நேரு",
+      "மகாத்மா காந்தி"
+    ],
+    "answer_en": "Mahatma Gandhi",
+    "answer_ta": "மகாத்மா காந்தி"
+  },
+  {
+    "question_en": "Who wrote 'The Merchant of Venice'?",
+    "question_ta": "‘தி மெர்சன்ட் ஆஃப் வெனிஸ்’ யாரால் எழுதப்பட்டது?",
+    "options_en": [
+      "Shakespeare",
+      "Keats",
+      "Milton",
+      "Wordsworth"
+    ],
+    "options_ta": [
+      "ஷேக்ஸ்பியர்",
+      "கீட்ஸ்",
+      "மில்டன்",
+      "வர்ட்ஸ்வொர்த்"
+    ],
+    "answer_en": "Shakespeare",
+    "answer_ta": "ஷேக்ஸ்பியர்"
+  },
+  {
+    "question_en": "What is the national bird of India?",
+    "question_ta": "இந்தியாவின் தேசியப் பறவை எது?",
+    "options_en": [
+      "Parrot",
+      "Sparrow",
+      "Crow",
+      "Peacock"
+    ],
+    "options_ta": [
+      "கிளி",
+      "சிட்டுக்குருவி",
+      "காகம்",
+      "மயில்"
+    ],
+    "answer_en": "Peacock",
+    "answer_ta": "மயில்"
+  },
+  {
+    "question_en": "Who is the author of 'My Experiments with Truth'?",
+    "question_ta": "‘மை எக்ஸ்பெரிமென்ட்ஸ் வித் ட்ருத்’ நூலாசிரியர் யார்?",
+    "options_en": [
+      "Subramania Bharati",
+      "Mahatma Gandhi",
+      "Jawaharlal Nehru",
+      "Rabindranath Tagore"
+    ],
+    "options_ta": [
+      "சுப்பிரமணிய பாரதி",
+      "மகாத்மா காந்தி",
+      "ஜவஹர்லால் நேரு",
+      "ரபீந்திரநாத் தாகூர்"
+    ],
+    "answer_en": "Mahatma Gandhi",
+    "answer_ta": "மகாத்மா காந்தி"
+  },
+  {
+    "question_en": "Who wrote 'The Merchant of Venice'?",
+    "question_ta": "‘தி மெர்சன்ட் ஆஃப் வெனிஸ்’ யாரால் எழுதப்பட்டது?",
+    "options_en": [
+      "Shakespeare",
+      "Wordsworth",
+      "Milton",
+      "Keats"
+    ],
+    "options_ta": [
+      "ஷேக்ஸ்பியர்",
+      "வர்ட்ஸ்வொர்த்",
+      "மில்டன்",
+      "கீட்ஸ்"
+    ],
+    "answer_en": "Shakespeare",
+    "answer_ta": "ஷேக்ஸ்பியர்"
+  },
+  {
+    "question_en": "What is the national bird of India?",
+    "question_ta": "இந்தியாவின் தேசியப் பறவை எது?",
+    "options_en": [
+      "Sparrow",
+      "Peacock",
+      "Parrot",
+      "Crow"
+    ],
+    "options_ta": [
+      "சிட்டுக்குருவி",
+      "மயில்",
+      "கிளி",
+      "காகம்"
+    ],
+    "answer_en": "Peacock",
+    "answer_ta": "மயில்"
+  },
+  {
+    "question_en": "Who is the author of 'My Experiments with Truth'?",
+    "question_ta": "‘மை எக்ஸ்பெரிமென்ட்ஸ் வித் ட்ருத்’ நூலாசிரியர் யார்?",
+    "options_en": [
+      "Subramania Bharati",
+      "Mahatma Gandhi",
+      "Jawaharlal Nehru",
+      "Rabindranath Tagore"
+    ],
+    "options_ta": [
+      "சுப்பிரமணிய பாரதி",
+      "மகாத்மா காந்தி",
+      "ஜவஹர்லால் நேரு",
+      "ரபீந்திரநாத் தாகூர்"
+    ],
+    "answer_en": "Mahatma Gandhi",
+    "answer_ta": "மகாத்மா காந்தி"
+  },
+  {
+    "question_en": "Who wrote 'The Merchant of Venice'?",
+    "question_ta": "‘தி மெர்சன்ட் ஆஃப் வெனிஸ்’ யாரால் எழுதப்பட்டது?",
+    "options_en": [
+      "Keats",
+      "Shakespeare",
+      "Wordsworth",
+      "Milton"
+    ],
+    "options_ta": [
+      "கீட்ஸ்",
+      "ஷேக்ஸ்பியர்",
+      "வர்ட்ஸ்வொர்த்",
+      "மில்டன்"
+    ],
+    "answer_en": "Shakespeare",
+    "answer_ta": "ஷேக்ஸ்பியர்"
+  },
+  {
+    "question_en": "What is the national bird of India?",
+    "question_ta": "இந்தியாவின் தேசியப் பறவை எது?",
+    "options_en": [
+      "Crow",
+      "Sparrow",
+      "Parrot",
+      "Peacock"
+    ],
+    "options_ta": [
+      "காகம்",
+      "சிட்டுக்குருவி",
+      "கிளி",
+      "மயில்"
+    ],
+    "answer_en": "Peacock",
+    "answer_ta": "மயில்"
+  },
+  {
+    "question_en": "Who is the author of 'My Experiments with Truth'?",
+    "question_ta": "‘மை எக்ஸ்பெரிமென்ட்ஸ் வித் ட்ருத்’ நூலாசிரியர் யார்?",
+    "options_en": [
+      "Mahatma Gandhi",
+      "Rabindranath Tagore",
+      "Jawaharlal Nehru",
+      "Subramania Bharati"
+    ],
+    "options_ta": [
+      "மகாத்மா காந்தி",
+      "ரபீந்திரநாத் தாகூர்",
+      "ஜவஹர்லால் நேரு",
+      "சுப்பிரமணிய பாரதி"
+    ],
+    "answer_en": "Mahatma Gandhi",
+    "answer_ta": "மகாத்மா காந்தி"
+  },
+  {
+    "question_en": "Who wrote 'The Merchant of Venice'?",
+    "question_ta": "‘தி மெர்சன்ட் ஆஃப் வெனிஸ்’ யாரால் எழுதப்பட்டது?",
+    "options_en": [
+      "Milton",
+      "Shakespeare",
+      "Keats",
+      "Wordsworth"
+    ],
+    "options_ta": [
+      "மில்டன்",
+      "ஷேக்ஸ்பியர்",
+      "கீட்ஸ்",
+      "வர்ட்ஸ்வொர்த்"
+    ],
+    "answer_en": "Shakespeare",
+    "answer_ta": "ஷேக்ஸ்பியர்"
+  },
+  {
+    "question_en": "What is the national bird of India?",
+    "question_ta": "இந்தியாவின் தேசியப் பறவை எது?",
+    "options_en": [
+      "Sparrow",
+      "Peacock",
+      "Parrot",
+      "Crow"
+    ],
+    "options_ta": [
+      "சிட்டுக்குருவி",
+      "மயில்",
+      "கிளி",
+      "காகம்"
+    ],
+    "answer_en": "Peacock",
+    "answer_ta": "மயில்"
+  },
+  {
+    "question_en": "Who is the author of 'My Experiments with Truth'?",
+    "question_ta": "‘மை எக்ஸ்பெரிமென்ட்ஸ் வித் ட்ருத்’ நூலாசிரியர் யார்?",
+    "options_en": [
+      "Subramania Bharati",
+      "Jawaharlal Nehru",
+      "Mahatma Gandhi",
+      "Rabindranath Tagore"
+    ],
+    "options_ta": [
+      "சுப்பிரமணிய பாரதி",
+      "ஜவஹர்லால் நேரு",
+      "மகாத்மா காந்தி",
+      "ரபீந்திரநாத் தாகூர்"
+    ],
+    "answer_en": "Mahatma Gandhi",
+    "answer_ta": "மகாத்மா காந்தி"
+  },
+  {
+    "question_en": "Who wrote 'The Merchant of Venice'?",
+    "question_ta": "‘தி மெர்சன்ட் ஆஃப் வெனிஸ்’ யாரால் எழுதப்பட்டது?",
+    "options_en": [
+      "Shakespeare",
+      "Milton",
+      "Wordsworth",
+      "Keats"
+    ],
+    "options_ta": [
+      "ஷேக்ஸ்பியர்",
+      "மில்டன்",
+      "வர்ட்ஸ்வொர்த்",
+      "கீட்ஸ்"
+    ],
+    "answer_en": "Shakespeare",
+    "answer_ta": "ஷேக்ஸ்பியர்"
+  },
+  {
+    "question_en": "What is the national bird of India?",
+    "question_ta": "இந்தியாவின் தேசியப் பறவை எது?",
+    "options_en": [
+      "Sparrow",
+      "Parrot",
+      "Peacock",
+      "Crow"
+    ],
+    "options_ta": [
+      "சிட்டுக்குருவி",
+      "கிளி",
+      "மயில்",
+      "காகம்"
+    ],
+    "answer_en": "Peacock",
+    "answer_ta": "மயில்"
+  },
+  {
+    "question_en": "Who is the author of 'My Experiments with Truth'?",
+    "question_ta": "‘மை எக்ஸ்பெரிமென்ட்ஸ் வித் ட்ருத்’ நூலாசிரியர் யார்?",
+    "options_en": [
+      "Rabindranath Tagore",
+      "Subramania Bharati",
+      "Mahatma Gandhi",
+      "Jawaharlal Nehru"
+    ],
+    "options_ta": [
+      "ரபீந்திரநாத் தாகூர்",
+      "சுப்பிரமணிய பாரதி",
+      "மகாத்மா காந்தி",
+      "ஜவஹர்லால் நேரு"
+    ],
+    "answer_en": "Mahatma Gandhi",
+    "answer_ta": "மகாத்மா காந்தி"
+  },
+  {
+    "question_en": "Who wrote 'The Merchant of Venice'?",
+    "question_ta": "‘தி மெர்சன்ட் ஆஃப் வெனிஸ்’ யாரால் எழுதப்பட்டது?",
+    "options_en": [
+      "Milton",
+      "Wordsworth",
+      "Keats",
+      "Shakespeare"
+    ],
+    "options_ta": [
+      "மில்டன்",
+      "வர்ட்ஸ்வொர்த்",
+      "கீட்ஸ்",
+      "ஷேக்ஸ்பியர்"
+    ],
+    "answer_en": "Shakespeare",
+    "answer_ta": "ஷேக்ஸ்பியர்"
+  },
+  {
+    "question_en": "What is the national bird of India?",
+    "question_ta": "இந்தியாவின் தேசியப் பறவை எது?",
+    "options_en": [
+      "Sparrow",
+      "Crow",
+      "Peacock",
+      "Parrot"
+    ],
+    "options_ta": [
+      "சிட்டுக்குருவி",
+      "காகம்",
+      "மயில்",
+      "கிளி"
+    ],
+    "answer_en": "Peacock",
+    "answer_ta": "மயில்"
+  },
+  {
+    "question_en": "Who is the author of 'My Experiments with Truth'?",
+    "question_ta": "‘மை எக்ஸ்பெரிமென்ட்ஸ் வித் ட்ருத்’ நூலாசிரியர் யார்?",
+    "options_en": [
+      "Subramania Bharati",
+      "Rabindranath Tagore",
+      "Mahatma Gandhi",
+      "Jawaharlal Nehru"
+    ],
+    "options_ta": [
+      "சுப்பிரமணிய பாரதி",
+      "ரபீந்திரநாத் தாகூர்",
+      "மகாத்மா காந்தி",
+      "ஜவஹர்லால் நேரு"
+    ],
+    "answer_en": "Mahatma Gandhi",
+    "answer_ta": "மகாத்மா காந்தி"
+  },
+  {
+    "question_en": "Who wrote 'The Merchant of Venice'?",
+    "question_ta": "‘தி மெர்சன்ட் ஆஃப் வெனிஸ்’ யாரால் எழுதப்பட்டது?",
+    "options_en": [
+      "Wordsworth",
+      "Keats",
+      "Milton",
+      "Shakespeare"
+    ],
+    "options_ta": [
+      "வர்ட்ஸ்வொர்த்",
+      "கீட்ஸ்",
+      "மில்டன்",
+      "ஷேக்ஸ்பியர்"
+    ],
+    "answer_en": "Shakespeare",
+    "answer_ta": "ஷேக்ஸ்பியர்"
+  },
+  {
+    "question_en": "What is the national bird of India?",
+    "question_ta": "இந்தியாவின் தேசியப் பறவை எது?",
+    "options_en": [
+      "Sparrow",
+      "Peacock",
+      "Crow",
+      "Parrot"
+    ],
+    "options_ta": [
+      "சிட்டுக்குருவி",
+      "மயில்",
+      "காகம்",
+      "கிளி"
+    ],
+    "answer_en": "Peacock",
+    "answer_ta": "மயில்"
+  }
+]

@@ -1,0 +1,242 @@
+[
+  {
+    "question_en": "What is the central theme of the prose 'The Portrait of a Lady'?",
+    "question_ta": "'தி போர்ட்ரெய்ட் ஆஃப் எ லேடி' என்ற உரையின் மையக் கரு என்ன?",
+    "options_en": ["Bond between grandmother and grandson", "Life in a village", "Love of nature", "Indian independence struggle"],
+    "options_ta": ["பாட்டி-மருமகன் உறவு", "ஊர்க் வாழ்க்கை", "இயற்கை மீது அன்பு", "இந்திய சுதந்திரப் போராட்டம்"],
+    "answer_en": "Bond between grandmother and grandson",
+    "answer_ta": "பாட்டி-மருமகன் உறவு"
+  },
+  {
+    "question_en": "In the poem 'A Thing of Beauty', what is beauty compared to?",
+    "question_ta": "'அ திங் ஆஃப் பியூட்டி' என்ற கவிதையில், அழகு எதற்கு ஒப்பிடப்பட்டுள்ளது?",
+    "options_en": ["A shady tree", "A constant source of joy", "A fading flower", "An illusion"],
+    "options_ta": ["ஒரு நிழலான மரம்", "நிலையான மகிழ்ச்சி ஊற்றாக", "ஒரு வாடும் மலர்", "ஒரு மாயை"],
+    "answer_en": "A constant source of joy",
+    "answer_ta": "நிலையான மகிழ்ச்சி ஊற்றாக"
+  },
+  {
+    "question_en": "In 'The Queen of Boxing', what quality of Mary Kom is highlighted?",
+    "question_ta": "'தி க்வீன் ஆஃப் பாக்சிங்' இல், மேரி கோமின் எந்த குணம் வலியுறுத்தப்பட்டுள்ளது?",
+    "options_en": ["Her physical strength only", "Her determination and hard work", "Her family wealth", "Her luck"],
+    "options_ta": ["அவளின் உடல் வலிமை மட்டும்", "அவளின் உறுதி மற்றும் கடின உழைப்பு", "அவளின் குடும்ப செல்வம்", "அவளின் அதிர்ஷ்டம்"],
+    "answer_en": "Her determination and hard work",
+    "answer_ta": "அவளின் உறுதி மற்றும் கடின உழைப்பு"
+  },
+  {
+    "question_en": "In 'No Men are Foreign', what does the poet urge us to remember?",
+    "question_ta": "'நோ மேன் ஆர் ஃபாரின்' இல், கவிஞர் எதை நினைவில் கொள்ளுமாறு வலியுறுத்துகிறார்?",
+    "options_en": ["Borders are man-made", "All men are brothers", "War brings peace", "Foreigners are dangerous"],
+    "options_ta": ["எல்லைகள் மனிதனால் உருவாக்கப்பட்டவை", "அனைவரும் சகோதரர்கள்", "போர் அமைதியை தரும்", "வெளிநாட்டவர்கள் ஆபத்தானவர்கள்"],
+    "answer_en": "All men are brothers",
+    "answer_ta": "அனைவரும் சகோதரர்கள்"
+  },
+  {
+    "question_en": "What message does 'The Solitary Reaper' convey?",
+    "question_ta": "'தி சாலிட்டரி ரீப்பர்' எந்த செய்தியை தெரிவிக்கிறது?",
+    "options_en": ["Hard work of peasants", "Immortality of music", "Beauty of flowers", "Importance of wealth"],
+    "options_ta": ["விவசாயிகளின் கடின உழைப்பு", "இசையின் அழியாமை", "மலர்களின் அழகு", "செல்வத்தின் முக்கியத்துவம்"],
+    "answer_en": "Immortality of music",
+    "answer_ta": "இசையின் அழியாமை"
+  },
+  {
+    "question_en": "In 'Snake', why does the poet feel guilty?",
+    "question_ta": "'ஸ்நேக்' இல் கவிஞர் ஏன் குற்ற உணர்ச்சி அடைகிறார்?",
+    "options_en": ["Because he harmed a harmless snake", "Because he ran away", "Because he killed another animal", "Because he captured the snake"],
+    "options_ta": ["தீங்கற்ற பாம்பை அவர் காயப்படுத்தியதால்", "ஓடிவிட்டதால்", "வேறு விலங்கைக் கொன்றதால்", "பாம்பை பிடித்ததால்"],
+    "answer_en": "Because he harmed a harmless snake",
+    "answer_ta": "தீங்கற்ற பாம்பை அவர் காயப்படுத்தியதால்"
+  },
+  {
+    "question_en": "In 'The Necklace', what lesson does the story teach?",
+    "question_ta": "'தி நெக்லஸ்' சிறுகதை எந்தப் பாடத்தை கற்பிக்கிறது?",
+    "options_en": ["Wealth brings happiness", "Contentment is better than greed", "Beauty is power", "Luck decides fate"],
+    "options_ta": ["செல்வம் மகிழ்ச்சியை தரும்", "திருப்தி பேராசையை விட மேல்", "அழகு சக்தி", "அதிர்ஷ்டமே விதியை தீர்மானிக்கும்"],
+    "answer_en": "Contentment is better than greed",
+    "answer_ta": "திருப்தி பேராசையை விட மேல்"
+  },
+  {
+    "question_en": "What is the central idea of 'Everest is Not the Only Peak'?",
+    "question_ta": "'எவரெஸ்ட் இஸ் நாட் த ஒன்லி பீக்' கவிதையின் மையக் கருத்து என்ன?",
+    "options_en": ["Adventure in climbing mountains", "Dignity in simple life and duty", "Scientific achievement", "Value of money"],
+    "options_ta": ["மலை ஏறுதல் சாகசம்", "எளிய வாழ்க்கையிலும் கடமையிலும் கண்ணியம்", "அறிவியல் சாதனை", "பணத்தின் மதிப்பு"],
+    "answer_en": "Dignity in simple life and duty",
+    "answer_ta": "எளிய வாழ்க்கையிலும் கடமையிலும் கண்ணியம்"
+  },
+  {
+    "question_en": "What does the poem 'Earth' by Khalil Gibran emphasize?",
+    "question_ta": "கலீல் ஜிப்ரான் எழுதிய 'அர்த்' கவிதை எதை வலியுறுத்துகிறது?",
+    "options_en": ["Man’s unity with nature", "Man’s superiority over animals", "Industrial growth", "Man’s conquest of Earth"],
+    "options_ta": ["இயற்கையுடன் மனிதனின் ஒற்றுமை", "விலங்குகளை விட மனிதனின் மேலாதிக்கம்", "தொழில்துறை வளர்ச்சி", "பூமியை வெல்லும் மனிதன்"],
+    "answer_en": "Man’s unity with nature",
+    "answer_ta": "இயற்கையுடன் மனிதனின் ஒற்றுமை"
+  },
+  {
+    "question_en": "What is the theme of 'Mending Wall'?",
+    "question_ta": "'மெண்டிங் வால்' கவிதையின் கரு என்ன?",
+    "options_en": ["Need for boundaries", "Friendship and conflict", "Value of tradition and questioning it", "Beauty of snow"],
+    "options_ta": ["எல்லைகளின் தேவையை", "நட்பு மற்றும் மோதலை", "பாரம்பரியத்தின் மதிப்பையும் அதை கேள்வி எழுப்புதலையும்", "பனியின் அழகை"],
+    "answer_en": "Value of tradition and questioning it",
+    "answer_ta": "பாரம்பரியத்தின் மதிப்பையும் அதை கேள்வி எழுப்புதலையும்"
+  },
+  {
+    "question_en": "In 'Laugh and be Merry', what is the poet’s advice?",
+    "question_ta": "'லாஃப் அண்ட் பி மெர்ரி' இல், கவிஞர் என்ன அறிவுறுத்துகிறார்?",
+    "options_en": ["To enjoy life cheerfully", "To accumulate wealth", "To avoid friends", "To live in isolation"],
+    "options_ta": ["வாழ்க்கையை மகிழ்ச்சியுடன் அனுபவிக்க", "செல்வத்தை சேர்க்க", "நண்பர்களை தவிர்க்க", "தனிமையில் வாழ"],
+    "answer_en": "To enjoy life cheerfully",
+    "answer_ta": "வாழ்க்கையை மகிழ்ச்சியுடன் அனுபவிக்க"
+  },
+  {
+    "question_en": "In 'Two Gentlemen of Verona', what do Nicola and Jacopo symbolize?",
+    "question_ta": "'டூ ஜென்டில்மென் ஆஃப் வெரோனா' இல், நிக்கோலா மற்றும் ஜாகோப்போ எதை குறிக்கின்றனர்?",
+    "options_en": ["Greed", "Courage and responsibility", "Wealth", "Fear"],
+    "options_ta": ["பேராசை", "துணிவு மற்றும் பொறுப்பு", "செல்வம்", "பயம்"],
+    "answer_en": "Courage and responsibility",
+    "answer_ta": "துணிவு மற்றும் பொறுப்பு"
+  },
+  {
+    "question_en": "What is the main message of 'The Model Millionaire'?",
+    "question_ta": "'தி மாடல் மில்லியனேர்' கதையின் முக்கியச் செய்தி என்ன?",
+    "options_en": ["Generosity brings happiness", "Money rules the world", "Beauty is greater than kindness", "Luck is everything"],
+    "options_ta": ["தாராள மனம் மகிழ்ச்சியை தருகிறது", "பணம் உலகை ஆள்கிறது", "அழகு கருணையை விட மேல்", "அதிர்ஷ்டமே அனைத்தும்"],
+    "answer_en": "Generosity brings happiness",
+    "answer_ta": "தாராள மனம் மகிழ்ச்சியை தருகிறது"
+  },
+  {
+    "question_en": "In 'The Necklace', what mistake led to years of suffering?",
+    "question_ta": "'தி நெக்லஸ்' இல், எந்தத் தவறால் பல ஆண்டுகள் துன்பம் ஏற்பட்டது?",
+    "options_en": ["Losing a diamond necklace", "Borrowing a fake necklace", "Selling the necklace", "Hiding the necklace"],
+    "options_ta": ["ஒரு வைர நெக்லஸை இழந்தது", "போலி நெக்லஸை கடன் வாங்கியது", "நெக்லஸை விற்றது", "நெக்லஸை மறைத்தது"],
+    "answer_en": "Borrowing a fake necklace",
+    "answer_ta": "போலி நெக்லஸை கடன் வாங்கியது"
+  },
+  {
+    "question_en": "In 'Snake', what does the snake symbolize?",
+    "question_ta": "'ஸ்நேக்' இல், பாம்பு எதை குறிக்கிறது?",
+    "options_en": ["Danger", "Evil", "Dignity of all creatures", "Wealth"],
+    "options_ta": ["ஆபத்து", "தீமை", "எல்லா உயிரினங்களின் கண்ணியம்", "செல்வம்"],
+    "answer_en": "Dignity of all creatures",
+    "answer_ta": "எல்லா உயிரினங்களின் கண்ணியம்"
+  },
+  {
+    "question_en": "In 'The Selfish Giant', why did spring never visit the garden initially?",
+    "question_ta": "'தி செல்ஃபிஷ் ஜெயண்ட்' இல், ஆரம்பத்தில் ஏன் வசந்தம் தோட்டத்திற்கு வரவில்லை?",
+    "options_en": ["Because it was cursed", "Because of the Giant’s selfishness", "Because of lack of water", "Because of children’s absence"],
+    "options_ta": ["அது சாபிக்கப்பட்டதால்", "மாபெரும் மனிதரின் சுயநலத்தால்", "தண்ணீர் இல்லாததால்", "குழந்தைகள் இல்லாததால்"],
+    "answer_en": "Because of the Giant’s selfishness",
+    "answer_ta": "மாபெரும் மனிதரின் சுயநலத்தால்"
+  },
+  {
+    "question_en": "What is the moral of 'The Lady or the Tiger'?",
+    "question_ta": "'தி லேடி ஆர் த டைகர்' கதையின் நெறிப்பாடம் என்ன?",
+    "options_en": ["Fate decides love", "Choices reveal human nature", "Jealousy is harmless", "Wealth wins love"],
+    "options_ta": ["விதி காதலை தீர்மானிக்கும்", "தேர்வுகள் மனித இயல்பை வெளிப்படுத்தும்", "பொறாமை தீங்கு செய்யாது", "செல்வம் காதலை வெல்லும்"],
+    "answer_en": "Choices reveal human nature",
+    "answer_ta": "தேர்வுகள் மனித இயல்பை வெளிப்படுத்தும்"
+  },
+  {
+    "question_en": "In 'Migrant Bird', what do the birds symbolize?",
+    "question_ta": "'மைக்ரண்ட் பேர்ட்' இல், பறவைகள் எதை குறிக்கின்றன?",
+    "options_en": ["Beauty of nature", "Desire for freedom", "Fear of man", "Hope for rain"],
+    "options_ta": ["இயற்கையின் அழகு", "சுதந்திரத்துக்கான ஆசை", "மனிதனைப் பற்றிய பயம்", "மழைக்கான நம்பிக்கை"],
+    "answer_en": "Desire for freedom",
+    "answer_ta": "சுதந்திரத்துக்கான ஆசை"
+  },
+  {
+    "question_en": "In 'Laugh and Be Merry', the poet compares life to?",
+    "question_ta": "'லாஃப் அண்ட் பி மெர்ரி' இல், கவிஞர் வாழ்க்கையை எதனுடன் ஒப்பிடுகிறார்?",
+    "options_en": ["A dream", "A battle", "A festival", "A journey"],
+    "options_ta": ["ஒரு கனவு", "ஒரு போர்", "ஒரு திருவிழா", "ஒரு பயணம்"],
+    "answer_en": "A festival",
+    "answer_ta": "ஒரு திருவிழா"
+  },
+  {
+    "question_en": "What is the main idea of 'Stopping by Woods on a Snowy Evening'?",
+    "question_ta": "'ஸ்டாப்பிங் பை வுட்ஸ் ஆன் எ ஸ்னோயி ஈவ்னிங்' கவிதையின் முக்கியக் கருத்து என்ன?",
+    "options_en": ["Duty before rest", "Love for forest", "Value of friendship", "Fear of snow"],
+    "options_ta": ["ஓய்வுக்கு முன் கடமை", "காட்டின் மீது அன்பு", "நட்பின் மதிப்பு", "பனியின் பயம்"],
+    "answer_en": "Duty before rest",
+    "answer_ta": "ஓய்வுக்கு முன் கடமை"
+  },
+  {
+    "question_en": "In 'The Open Window', why was Framton Nuttel shocked?",
+    "question_ta": "'தி ஓபன் விண்டோ' இல், ஃபிராம்டன் நட்டெல் ஏன் அதிர்ச்சியடைந்தார்?",
+    "options_en": ["Because the hunters returned", "Because the window was broken", "Because the girl screamed", "Because the house was empty"],
+    "options_ta": ["வேட்டைக்காரர்கள் திரும்பியதால்", "ஜன்னல் உடைந்ததால்", "சிறுமி கத்தினதால்", "வீடு காலியாக இருந்ததால்"],
+    "answer_en": "Because the hunters returned",
+    "answer_ta": "வேட்டைக்காரர்கள் திரும்பியதால்"
+  },
+  {
+    "question_en": "In 'The Man He Killed', what irony is shown?",
+    "question_ta": "'தி மேன் ஹீ கில்ல்ட்' இல், எந்த எதிர்மறை உண்மை காட்டப்படுகிறது?",
+    "options_en": ["Killing a friend in war", "Killing an enemy who could be a friend", "Killing animals for food", "Killing for money"],
+    "options_ta": ["போரில் நண்பனை கொல்வது", "நண்பனாக இருக்கக் கூடிய எதிரியை கொல்வது", "உணவுக்காக விலங்குகளை கொல்வது", "பணத்திற்காக கொல்வது"],
+    "answer_en": "Killing an enemy who could be a friend",
+    "answer_ta": "நண்பனாக இருக்கக் கூடிய எதிரியை கொல்வது"
+  },
+  {
+    "question_en": "What is the theme of 'Mending Wall'?",
+    "question_ta": "'மெண்டிங் வால்' கவிதையின் கரு என்ன?",
+    "options_en": ["Boundaries and relationships", "Nature’s beauty", "Value of money", "Freedom of man"],
+    "options_ta": ["எல்லைகள் மற்றும் உறவுகள்", "இயற்கையின் அழகு", "பணத்தின் மதிப்பு", "மனிதனின் சுதந்திரம்"],
+    "answer_en": "Boundaries and relationships",
+    "answer_ta": "எல்லைகள் மற்றும் உறவுகள்"
+  },
+  {
+    "question_en": "In 'Earth', what quality of Earth is praised?",
+    "question_ta": "'அர்த்' இல், பூமியின் எந்த குணம் பாராட்டப்படுகிறது?",
+    "options_en": ["Her tolerance and patience", "Her strength", "Her speed", "Her size"],
+    "options_ta": ["அவளின் பொறுமை மற்றும் சகிப்புத்தன்மை", "அவளின் வலிமை", "அவளின் வேகம்", "அவளின் பருமன்"],
+    "answer_en": "Her tolerance and patience",
+    "answer_ta": "அவளின் பொறுமை மற்றும் சகிப்புத்தன்மை"
+  },
+  {
+    "question_en": "In 'Everest is Not the Only Peak', what is considered greater than fame?",
+    "question_ta": "'எவரெஸ்ட் இஸ் நாட் த ஒன்லி பீக்' இல், புகழை விட எதை மேல் எனக் கருதுகிறார்கள்?",
+    "options_en": ["Wealth", "Duty and humility", "Power", "Luck"],
+    "options_ta": ["செல்வம்", "கடமை மற்றும் தாழ்மை", "அதிகாரம்", "அதிர்ஷ்டம்"],
+    "answer_en": "Duty and humility",
+    "answer_ta": "கடமை மற்றும் தாழ்மை"
+  },
+  {
+    "question_en": "In 'No Men are Foreign', what is condemned?",
+    "question_ta": "'நோ மேன் ஆர் ஃபாரின்' இல், எதை கண்டனம் செய்கிறார்?",
+    "options_en": ["War and hatred", "Love", "Peace", "Brotherhood"],
+    "options_ta": ["போர் மற்றும் வெறுப்பு", "காதல்", "அமைதி", "சகோதரத்துவம்"],
+    "answer_en": "War and hatred",
+    "answer_ta": "போர் மற்றும் வெறுப்பு"
+  },
+  {
+    "question_en": "What is the central idea of 'The Open Window'?",
+    "question_ta": "'தி ஓபன் விண்டோ' கதையின் மையக் கருத்து என்ன?",
+    "options_en": ["Power of imagination", "Power of wealth", "Importance of education", "Value of friendship"],
+    "options_ta": ["கற்பனையின் சக்தி", "செல்வத்தின் சக்தி", "கல்வியின் முக்கியத்துவம்", "நட்பின் மதிப்பு"],
+    "answer_en": "Power of imagination",
+    "answer_ta": "கற்பனையின் சக்தி"
+  },
+  {
+    "question_en": "What is the central idea of 'The Selfish Giant'?",
+    "question_ta": "'தி செல்ஃபிஷ் ஜெயண்ட்' கதையின் மையக் கருத்து என்ன?",
+    "options_en": ["Selfishness leads to suffering", "Money brings joy", "Children are selfish", "Giant is powerful"],
+    "options_ta": ["சுயநலம் துன்பத்தை தரும்", "பணம் மகிழ்ச்சியை தரும்", "குழந்தைகள் சுயநலமாக இருக்கின்றனர்", "மாபெரும் மனிதர் வலிமையானவர்"],
+    "answer_en": "Selfishness leads to suffering",
+    "answer_ta": "சுயநலம் துன்பத்தை தரும்"
+  },
+  {
+    "question_en": "In 'The Man He Killed', what is criticized?",
+    "question_ta": "'தி மேன் ஹீ கில்ல்ட்' இல், எதை விமர்சிக்கிறார்?",
+    "options_en": ["Absurdity of war", "Wealth", "Friendship", "Love"],
+    "options_ta": ["போரின் அபத்தம்", "செல்வம்", "நட்பு", "காதல்"],
+    "answer_en": "Absurdity of war",
+    "answer_ta": "போரின் அபத்தம்"
+  },
+  {
+    "question_en": "In 'Stopping by Woods...', what do the woods symbolize?",
+    "question_ta": "'ஸ்டாப்பிங் பை வுட்ஸ்...' இல், காட்டுகள் எதை குறிக்கின்றன?",
+    "options_en": ["Peace and rest", "Danger", "Wealth", "Journey"],
+    "options_ta": ["அமைதி மற்றும் ஓய்வு", "ஆபத்து", "செல்வம்", "பயணம்"],
+    "answer_en": "Peace and rest",
+    "answer_ta": "அமைதி மற்றும் ஓய்வு"
+  }
+]

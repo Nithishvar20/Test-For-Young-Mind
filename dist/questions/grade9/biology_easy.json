@@ -1,0 +1,274 @@
+[
+  {
+    "question_en": "The basic unit of life is",
+    "question_ta": "வாழ்வின் அடிப்படை அலகு எது?",
+    "options_en": ["Tissue", "Organ", "Cell", "Organism"],
+    "options_ta": ["திசு", "உறுப்பு", "அணு", "உயிரினம்"],
+    "answer_en": "Cell",
+    "answer_ta": "அணு"
+  },
+  {
+    "question_en": "Which organ pumps blood in the human body?",
+    "question_ta": "மனித உடலில் இரத்தத்தை பம்ப் செய்யும் உறுப்பு எது?",
+    "options_en": ["Liver", "Heart", "Kidney", "Lungs"],
+    "options_ta": ["கல்லீரல்", "இதயம்", "சிறுநீரகம்", "நுரையீரல்"],
+    "answer_en": "Heart",
+    "answer_ta": "இதயம்"
+  },
+  {
+    "question_en": "The green pigment in plants is",
+    "question_ta": "தாவரங்களில் காணப்படும் பச்சை நிறக் கறை எது?",
+    "options_en": ["Carotene", "Chlorophyll", "Xanthophyll", "Haemoglobin"],
+    "options_ta": ["கரோட்டின்", "குளோரோபில்", "ஜான்தோபில்", "ஹீமோகுளோபின்"],
+    "answer_en": "Chlorophyll",
+    "answer_ta": "குளோரோபில்"
+  },
+  {
+    "question_en": "Which blood cells fight against infection?",
+    "question_ta": "தொற்றுக்கு எதிராக போராடும் இரத்த அணுக்கள் எவை?",
+    "options_en": ["Red blood cells", "White blood cells", "Platelets", "Plasma"],
+    "options_ta": ["சிவப்பணுக்கள்", "வெள்ளை அணுக்கள்", "இரத்த தகடுகள்", "பிளாஸ்மா"],
+    "answer_en": "White blood cells",
+    "answer_ta": "வெள்ளை அணுக்கள்"
+  },
+  {
+    "question_en": "Which gas is released during photosynthesis?",
+    "question_ta": "ஒளிச்சேர்க்கையின் போது வெளியிடப்படும் வாயு எது?",
+    "options_en": ["Carbon dioxide", "Oxygen", "Nitrogen", "Hydrogen"],
+    "options_ta": ["கார்பன் டைஆக்சைடு", "ஆக்சிஜன்", "நைட்ரஜன்", "ஹைட்ரஜன்"],
+    "answer_en": "Oxygen",
+    "answer_ta": "ஆக்சிஜன்"
+  },
+  {
+    "question_en": "The structural unit of the kidney is",
+    "question_ta": "சிறுநீரகத்தின் கட்டமைப்பு அலகு எது?",
+    "options_en": ["Nephron", "Neuron", "Alveoli", "Atrium"],
+    "options_ta": ["நெப்ரான்", "நியூரான்", "ஆல்வியோலை", "ஆட்ரியம்"],
+    "answer_en": "Nephron",
+    "answer_ta": "நெப்ரான்"
+  },
+  {
+    "question_en": "The largest organ in the human body is",
+    "question_ta": "மனித உடலில் மிகப்பெரிய உறுப்பு எது?",
+    "options_en": ["Heart", "Skin", "Liver", "Lungs"],
+    "options_ta": ["இதயம்", "சருமம்", "கல்லீரல்", "நுரையீரல்"],
+    "answer_en": "Skin",
+    "answer_ta": "சருமம்"
+  },
+  {
+    "question_en": "Which vitamin is produced in the skin in sunlight?",
+    "question_ta": "சூரிய ஒளியில் சருமத்தில் உருவாகும் வைட்டமின் எது?",
+    "options_en": ["Vitamin A", "Vitamin D", "Vitamin C", "Vitamin K"],
+    "options_ta": ["வைட்டமின் A", "வைட்டமின் D", "வைட்டமின் C", "வைட்டமின் K"],
+    "answer_en": "Vitamin D",
+    "answer_ta": "வைட்டமின் D"
+  },
+  {
+    "question_en": "The powerhouse of the cell is",
+    "question_ta": "அணுவின் சக்தி நிலையம் எது?",
+    "options_en": ["Nucleus", "Mitochondria", "Ribosome", "Chloroplast"],
+    "options_ta": ["மையம்", "மைட்டோகாண்ட்ரியா", "ரைபோசோம்", "குளோரோபிளாஸ்ட்"],
+    "answer_en": "Mitochondria",
+    "answer_ta": "மைட்டோகாண்ட்ரியா"
+  },
+  {
+    "question_en": "Which part of the plant carries water?",
+    "question_ta": "தாவரத்தின் எந்த பகுதி தண்ணீரை எடுத்துச் செல்கிறது?",
+    "options_en": ["Phloem", "Xylem", "Leaf", "Root hair"],
+    "options_ta": ["ப்ளோயம்", "ஜைலம்", "இலை", "வேர் முடிகள்"],
+    "answer_en": "Xylem",
+    "answer_ta": "ஜைலம்"
+  },
+  {
+    "question_en": "The site of protein synthesis in the cell is",
+    "question_ta": "அணுவில் புரத உற்பத்தி நடைபெறும் இடம் எது?",
+    "options_en": ["Nucleus", "Ribosome", "Mitochondria", "Lysosome"],
+    "options_ta": ["மையம்", "ரைபோசோம்", "மைட்டோகாண்ட்ரியா", "லைசோசோம்"],
+    "answer_en": "Ribosome",
+    "answer_ta": "ரைபோசோம்"
+  },
+  {
+    "question_en": "Which organ purifies blood in the human body?",
+    "question_ta": "மனித உடலில் இரத்தத்தை சுத்திகரிக்கும் உறுப்பு எது?",
+    "options_en": ["Heart", "Kidney", "Liver", "Lungs"],
+    "options_ta": ["இதயம்", "சிறுநீரகம்", "கல்லீரல்", "நுரையீரல்"],
+    "answer_en": "Kidney",
+    "answer_ta": "சிறுநீரகம்"
+  },
+  {
+    "question_en": "Which blood cells carry oxygen?",
+    "question_ta": "ஆக்சிஜனை எடுத்துச் செல்லும் இரத்த அணுக்கள் எவை?",
+    "options_en": ["White blood cells", "Red blood cells", "Platelets", "Plasma"],
+    "options_ta": ["வெள்ளை அணுக்கள்", "சிவப்பணுக்கள்", "இரத்த தகடுகள்", "பிளாஸ்மா"],
+    "answer_en": "Red blood cells",
+    "answer_ta": "சிவப்பணுக்கள்"
+  },
+  {
+    "question_en": "The human brain is protected by",
+    "question_ta": "மனித மூளை எதனால் பாதுகாக்கப்படுகிறது?",
+    "options_en": ["Skull", "Ribs", "Vertebrae", "Spinal cord"],
+    "options_ta": ["தலையோடு", "விலாப்பட்டை", "முதுகெலும்புகள்", "முதுகுநாணி"],
+    "answer_en": "Skull",
+    "answer_ta": "தலையோடு"
+  },
+  {
+    "question_en": "Which gas do humans exhale during respiration?",
+    "question_ta": "சுவாசத்தின் போது மனிதர்கள் வெளியேற்றும் வாயு எது?",
+    "options_en": ["Oxygen", "Hydrogen", "Carbon dioxide", "Nitrogen"],
+    "options_ta": ["ஆக்சிஜன்", "ஹைட்ரஜன்", "கார்பன் டைஆக்சைடு", "நைட்ரஜன்"],
+    "answer_en": "Carbon dioxide",
+    "answer_ta": "கார்பன் டைஆக்சைடு"
+  },
+  {
+    "question_en": "The finger-like projections in small intestine are",
+    "question_ta": "சிறுகுடலில் உள்ள விரல் போன்ற மேலெழுச்சிகள் எவை?",
+    "options_en": ["Villi", "Nephrons", "Alveoli", "Bronchi"],
+    "options_ta": ["வில்லி", "நெப்ரான்", "ஆல்வியோலை", "ப்ராங்கி"],
+    "answer_en": "Villi",
+    "answer_ta": "வில்லி"
+  },
+  {
+    "question_en": "The respiratory organ of fish is",
+    "question_ta": "மீன்களின் சுவாச உறுப்பு எது?",
+    "options_en": ["Lungs", "Skin", "Gills", "Trachea"],
+    "options_ta": ["நுரையீரல்", "சருமம்", "கில்ஸ்", "குருத்துக்குழாய்"],
+    "answer_en": "Gills",
+    "answer_ta": "கில்ஸ்"
+  },
+  {
+    "question_en": "The largest gland in the human body is",
+    "question_ta": "மனித உடலில் மிகப்பெரிய சுரப்பி எது?",
+    "options_en": ["Pancreas", "Liver", "Kidney", "Salivary gland"],
+    "options_ta": ["அகப்பை", "கல்லீரல்", "சிறுநீரகம்", "நாக்குச் சுரப்பி"],
+    "answer_en": "Liver",
+    "answer_ta": "கல்லீரல்"
+  },
+  {
+    "question_en": "The tube that carries urine from kidney to bladder is",
+    "question_ta": "சிறுநீரகத்திலிருந்து சிறுநீர்ப்பையில் சிறுநீரை எடுத்துச் செல்லும் குழாய் எது?",
+    "options_en": ["Urethra", "Ureter", "Fallopian tube", "Trachea"],
+    "options_ta": ["யூரித்ரா", "யூரிட்டர்", "பலோப்பியன் குழாய்", "குருத்துக்குழாய்"],
+    "answer_en": "Ureter",
+    "answer_ta": "யூரிட்டர்"
+  },
+  {
+    "question_en": "Which blood component helps in clotting?",
+    "question_ta": "இரத்தம் உறைவதற்கு உதவும் பகுதி எது?",
+    "options_en": ["Plasma", "Platelets", "WBC", "RBC"],
+    "options_ta": ["பிளாஸ்மா", "இரத்த தகடுகள்", "வெள்ளை அணுக்கள்", "சிவப்பணுக்கள்"],
+    "answer_en": "Platelets",
+    "answer_ta": "இரத்த தகடுகள்"
+  },
+  {
+    "question_en": "The opening and closing of stomata is controlled by",
+    "question_ta": "வாயுக்களின் திறப்பு மூடுதல் எதனால் கட்டுப்படுத்தப்படுகிறது?",
+    "options_en": ["Guard cells", "Root hairs", "Phloem", "Xylem"],
+    "options_ta": ["காவலர் அணுக்கள்", "வேர் முடிகள்", "ப்ளோயம்", "ஜைலம்"],
+    "answer_en": "Guard cells",
+    "answer_ta": "காவலர் அணுக்கள்"
+  },
+  {
+    "question_en": "Which organ stores bile juice?",
+    "question_ta": "பித்தச்சாறை சேமிக்கும் உறுப்பு எது?",
+    "options_en": ["Liver", "Pancreas", "Gall bladder", "Kidney"],
+    "options_ta": ["கல்லீரல்", "அகப்பை", "பித்தப்பை", "சிறுநீரகம்"],
+    "answer_en": "Gall bladder",
+    "answer_ta": "பித்தப்பை"
+  },
+  {
+    "question_en": "The smallest structural unit of nervous system is",
+    "question_ta": "நரம்பியல் அமைப்பின் மிகச் சிறிய அலகு எது?",
+    "options_en": ["Neuron", "Axon", "Synapse", "Dendrite"],
+    "options_ta": ["நியூரான்", "ஆக்சான்", "சைனாப்ஸ்", "டெண்ட்ரைட்"],
+    "answer_en": "Neuron",
+    "answer_ta": "நியூரான்"
+  },
+  {
+    "question_en": "The blood vessel that carries blood away from the heart is",
+    "question_ta": "இதயத்திலிருந்து இரத்தத்தை எடுத்துச் செல்லும் இரத்தக் குழாய் எது?",
+    "options_en": ["Vein", "Artery", "Capillary", "Venule"],
+    "options_ta": ["சிரை", "அர்டரி", "மிகு சுரங்கம்", "சிறுசிரை"],
+    "answer_en": "Artery",
+    "answer_ta": "அர்டரி"
+  },
+  {
+    "question_en": "The plant tissue responsible for transport of food is",
+    "question_ta": "உணவை எடுத்துச் செல்லும் தாவரத் திசு எது?",
+    "options_en": ["Xylem", "Phloem", "Cortex", "Cambium"],
+    "options_ta": ["ஜைலம்", "ப்ளோயம்", "கார்டெக்ஸ்", "கேம்பியம்"],
+    "answer_en": "Phloem",
+    "answer_ta": "ப்ளோயம்"
+  },
+  {
+    "question_en": "Which vitamin prevents night blindness?",
+    "question_ta": "இரவு குருட்டுத்தனத்தைத் தடுக்கும் வைட்டமின் எது?",
+    "options_en": ["Vitamin A", "Vitamin B", "Vitamin C", "Vitamin D"],
+    "options_ta": ["வைட்டமின் A", "வைட்டமின் B", "வைட்டமின் C", "வைட்டமின் D"],
+    "answer_en": "Vitamin A",
+    "answer_ta": "வைட்டமின் A"
+  },
+  {
+    "question_en": "The process of conversion of sugar to alcohol by yeast is",
+    "question_ta": "ஈஸ்ட் சர்க்கரையை மது ஆக மாற்றும் செயல்முறை எது?",
+    "options_en": ["Respiration", "Fermentation", "Photosynthesis", "Excretion"],
+    "options_ta": ["சுவாசம்", "காளான் வினை", "ஒளிச்சேர்க்கை", "விலக்கு"],
+    "answer_en": "Fermentation",
+    "answer_ta": "காளான் வினை"
+  },
+  {
+    "question_en": "Which system controls voluntary actions?",
+    "question_ta": "சுய விருப்ப செயல்களை கட்டுப்படுத்தும் அமைப்பு எது?",
+    "options_en": ["Digestive system", "Nervous system", "Respiratory system", "Excretory system"],
+    "options_ta": ["செரிமான அமைப்பு", "நரம்பியல் அமைப்பு", "சுவாச அமைப்பு", "விலக்கு அமைப்பு"],
+    "answer_en": "Nervous system",
+    "answer_ta": "நரம்பியல் அமைப்பு"
+  },
+  {
+    "question_en": "The reproductive organ of male human is",
+    "question_ta": "ஆண் மனிதனின் இனப்பெருக்க உறுப்பு எது?",
+    "options_en": ["Ovary", "Testis", "Uterus", "Fallopian tube"],
+    "options_ta": ["கருப்பை", "விரைவு", "கருப்பை அறை", "பலோப்பியன் குழாய்"],
+    "answer_en": "Testis",
+    "answer_ta": "விரைவு"
+  },
+  {
+    "question_en": "Which blood group is called universal donor?",
+    "question_ta": "எந்த இரத்தக் குழுவை 'பொதுத் தானம் செய்பவர்' என்று அழைக்கப்படுகிறது?",
+    "options_en": ["AB", "O", "A", "B"],
+    "options_ta": ["AB", "O", "A", "B"],
+    "answer_en": "O",
+    "answer_ta": "O"
+  },
+  {
+    "question_en": "Which blood group is universal recipient?",
+    "question_ta": "எந்த இரத்தக் குழுவை 'பொது பெறுபவர்' என்று அழைக்கப்படுகிறது?",
+    "options_en": ["A", "B", "AB", "O"],
+    "options_ta": ["A", "B", "AB", "O"],
+    "answer_en": "AB",
+    "answer_ta": "AB"
+  },
+  {
+    "question_en": "The connective tissue that connects muscles to bones is",
+    "question_ta": "தசைகளையும் எலும்புகளையும் இணைக்கும் இணைப்பு திசு எது?",
+    "options_en": ["Ligament", "Tendon", "Cartilage", "Nerve"],
+    "options_ta": ["நெஞ்சுவலி (Ligament)", "நரம்புக் கட்டு (Tendon)", "உரையம் (Cartilage)", "நரம்பு"],
+    "answer_en": "Tendon",
+    "answer_ta": "நரம்புக் கட்டு (Tendon)"
+  },
+  {
+    "question_en": "The outermost covering of the plant cell is",
+    "question_ta": "தாவர அணுவின் வெளியேயுள்ள உறை எது?",
+    "options_en": ["Plasma membrane", "Cell wall", "Cytoplasm", "Nucleus"],
+    "options_ta": ["பிளாஸ்மா மெம்பிரேன்", "செல் சுவர்", "சைட்டோபிளாஸம்", "மையம்"],
+    "answer_en": "Cell wall",
+    "answer_ta": "செல் சுவர்"
+  },
+  {
+    "question_en": "The life process that provides energy is",
+    "question_ta": "ஆற்றலை வழங்கும் உயிரியல் செயல்முறை எது?",
+    "options_en": ["Respiration", "Excretion", "Circulation", "Reproduction"],
+    "options_ta": ["சுவாசம்", "விலக்கு", "சுழற்சி", "இனப்பெருக்கம்"],
+    "answer_en": "Respiration",
+    "answer_ta": "சுவாசம்"
+  }
+]

@@ -1,0 +1,250 @@
+[
+  {
+    "question_en": "Which of the following is not a branch of accounting?",
+    "question_ta": "கணக்கீட்டின் கிளைகளில் எது இல்லை?",
+    "options_en": ["Financial Accounting", "Cost Accounting", "Management Accounting", "Political Accounting"],
+    "options_ta": ["நிதி கணக்கியல்", "செலவு கணக்கியல்", "மேலாண்மை கணக்கியல்", "அரசியல் கணக்கியல்"],
+    "answer_en": "Political Accounting",
+    "answer_ta": "அரசியல் கணக்கியல்"
+  },
+  {
+    "question_en": "Which equation correctly represents the accounting equation?",
+    "question_ta": "கணக்கீட்டு சமன்பாட்டை சரியாகக் காட்டுவது எது?",
+    "options_en": ["Assets = Liabilities + Capital", "Assets = Liabilities – Capital", "Assets = Income – Expenses", "Assets = Cash only"],
+    "options_ta": ["சொத்துக்கள் = கடன்கள் + மூலதனம்", "சொத்துக்கள் = கடன்கள் – மூலதனம்", "சொத்துக்கள் = வருமானம் – செலவுகள்", "சொத்துக்கள் = பணம் மட்டும்"],
+    "answer_en": "Assets = Liabilities + Capital",
+    "answer_ta": "சொத்துக்கள் = கடன்கள் + மூலதனம்"
+  },
+  {
+    "question_en": "Which of the following is a real account?",
+    "question_ta": "பின்வருவனவற்றில் எது உண்மைக் கணக்கு?",
+    "options_en": ["Cash A/c", "Capital A/c", "Wages A/c", "Commission A/c"],
+    "options_ta": ["பணக் கணக்கு", "மூலதனக் கணக்கு", "ஊதியக் கணக்கு", "கமிஷன் கணக்கு"],
+    "answer_en": "Cash A/c",
+    "answer_ta": "பணக் கணக்கு"
+  },
+  {
+    "question_en": "Which is the primary book of accounts?",
+    "question_ta": "கணக்கீட்டின் முதன்மைப் புத்தகம் எது?",
+    "options_en": ["Ledger", "Journal", "Trial Balance", "Balance Sheet"],
+    "options_ta": ["பெருநூல்", "பதிகை", "சோதனை சமநிலை", "இறுதிச்சீட்டு"],
+    "answer_en": "Journal",
+    "answer_ta": "பதிகை"
+  },
+  {
+    "question_en": "In double entry system, every transaction has how many aspects?",
+    "question_ta": "இரட்டைக் கணக்கியல் முறையில், ஒவ்வொரு பரிவர்த்தனைக்கும் எத்தனை அம்சங்கள் உள்ளன?",
+    "options_en": ["One", "Two", "Three", "Four"],
+    "options_ta": ["ஒன்று", "இரண்டு", "மூன்று", "நான்கு"],
+    "answer_en": "Two",
+    "answer_ta": "இரண்டு"
+  },
+  {
+    "question_en": "Which of the following is not a subsidiary book?",
+    "question_ta": "பின்வருவனவற்றில் எது துணைப் புத்தகம் அல்ல?",
+    "options_en": ["Sales Book", "Cash Book", "Purchase Book", "Ledger"],
+    "options_ta": ["விற்பனைப் புத்தகம்", "பணப் புத்தகம்", "கொள்முதல் புத்தகம்", "பெருநூல்"],
+    "answer_en": "Ledger",
+    "answer_ta": "பெருநூல்"
+  },
+  {
+    "question_en": "Which side of the cash book records all receipts?",
+    "question_ta": "பணப் புத்தகத்தின் எந்தப் பக்கத்தில் அனைத்து வரவுகளும் பதிவாகின்றன?",
+    "options_en": ["Debit side", "Credit side", "Both sides", "None"],
+    "options_ta": ["பற்று பக்கம்", "கடன் பக்கம்", "இரு பக்கமும்", "யாருமில்லை"],
+    "answer_en": "Debit side",
+    "answer_ta": "பற்று பக்கம்"
+  },
+  {
+    "question_en": "Which error is not disclosed by trial balance?",
+    "question_ta": "சோதனை சமநிலை காட்டாத பிழை எது?",
+    "options_en": ["Omission of entry", "Wrong totaling", "Posting to wrong side", "Casting error"],
+    "options_ta": ["பதிவு விடுபடுதல்", "தவறான கூட்டுதல்", "தவறான பக்கத்தில் பதிவு", "கணக்கில் தவறு"],
+    "answer_en": "Omission of entry",
+    "answer_ta": "பதிவு விடுபடுதல்"
+  },
+  {
+    "question_en": "Which account is prepared to ascertain gross profit or loss?",
+    "question_ta": "மொத்த லாபம் அல்லது இழப்பை அறிய எந்தக் கணக்கு தயாரிக்கப்படுகிறது?",
+    "options_en": ["Trading Account", "Profit & Loss Account", "Balance Sheet", "Cash Account"],
+    "options_ta": ["வணிகக் கணக்கு", "லாப நஷ்டக் கணக்கு", "இறுதிச்சீட்டு", "பணக் கணக்கு"],
+    "answer_en": "Trading Account",
+    "answer_ta": "வணிகக் கணக்கு"
+  },
+  {
+    "question_en": "Outstanding expenses are shown under which head in balance sheet?",
+    "question_ta": "செலுத்தப்படாத செலவுகள் (Outstanding expenses) இறுதிச்சீட்டில் எந்தத் தலைப்பில் காட்டப்படும்?",
+    "options_en": ["Assets", "Liabilities", "Capital", "Reserves"],
+    "options_ta": ["சொத்துக்கள்", "கடன்கள்", "மூலதனம்", "ஒதுக்கீடுகள்"],
+    "answer_en": "Liabilities",
+    "answer_ta": "கடன்கள்"
+  },
+  {
+    "question_en": "Which side of a Trial Balance records assets?",
+    "question_ta": "சோதனை சமநிலையில் சொத்துக்கள் எந்தப் பக்கத்தில் பதிவாகின்றன?",
+    "options_en": ["Debit", "Credit", "Both", "None"],
+    "options_ta": ["பற்று", "கடன்", "இரண்டும்", "யாருமில்லை"],
+    "answer_en": "Debit",
+    "answer_ta": "பற்று"
+  },
+  {
+    "question_en": "Capital expenditure is shown in which statement?",
+    "question_ta": "மூலதனச் செலவுகள் எந்த அறிக்கையில் காட்டப்படும்?",
+    "options_en": ["Trading Account", "Profit and Loss A/c", "Balance Sheet", "Cash Book"],
+    "options_ta": ["வணிகக் கணக்கு", "லாப நஷ்டக் கணக்கு", "இறுதிச்சீட்டு", "பணப் புத்தகம்"],
+    "answer_en": "Balance Sheet",
+    "answer_ta": "இறுதிச்சீட்டு"
+  },
+  {
+    "question_en": "Which of the following is not a cash book?",
+    "question_ta": "பின்வருவனவற்றில் எது பணப் புத்தகமல்ல?",
+    "options_en": ["Simple cash book", "Double column cash book", "Triple column cash book", "Ledger cash book"],
+    "options_ta": ["எளிய பணப் புத்தகம்", "இரட்டை நிரல் பணப் புத்தகம்", "மூன்று நிரல் பணப் புத்தகம்", "பெருநூல் பணப் புத்தகம்"],
+    "answer_en": "Ledger cash book",
+    "answer_ta": "பெருநூல் பணப் புத்தகம்"
+  },
+  {
+    "question_en": "Which account is prepared to find net profit?",
+    "question_ta": "நிகர லாபத்தை அறிய எந்தக் கணக்கு தயாரிக்கப்படுகிறது?",
+    "options_en": ["Trading A/c", "Profit and Loss A/c", "Balance Sheet", "Journal"],
+    "options_ta": ["வணிகக் கணக்கு", "லாப நஷ்டக் கணக்கு", "இறுதிச்சீட்டு", "பதிகை"],
+    "answer_en": "Profit and Loss A/c",
+    "answer_ta": "லாப நஷ்டக் கணக்கு"
+  },
+  {
+    "question_en": "Which document is prepared at the end of an accounting year?",
+    "question_ta": "கணக்கீட்டு ஆண்டின் இறுதியில் எந்த ஆவணம் தயாரிக்கப்படுகிறது?",
+    "options_en": ["Trial Balance", "Journal", "Final Accounts", "Ledger"],
+    "options_ta": ["சோதனை சமநிலை", "பதிகை", "இறுதி கணக்குகள்", "பெருநூல்"],
+    "answer_en": "Final Accounts",
+    "answer_ta": "இறுதி கணக்குகள்"
+  },
+  {
+    "question_en": "Bank overdraft is shown under which head?",
+    "question_ta": "வங்கிக் கடன் (Overdraft) எந்தத் தலைப்பில் காட்டப்படும்?",
+    "options_en": ["Assets", "Liabilities", "Expenses", "Incomes"],
+    "options_ta": ["சொத்துக்கள்", "கடன்கள்", "செலவுகள்", "வருவாய்"],
+    "answer_en": "Liabilities",
+    "answer_ta": "கடன்கள்"
+  },
+  {
+    "question_en": "Which of the following is an intangible asset?",
+    "question_ta": "பின்வருவனவற்றில் எது அழியாத சொத்து?",
+    "options_en": ["Land", "Building", "Goodwill", "Machinery"],
+    "options_ta": ["நிலம்", "கட்டிடம்", "நற்பெயர்", "இயந்திரம்"],
+    "answer_en": "Goodwill",
+    "answer_ta": "நற்பெயர்"
+  },
+  {
+    "question_en": "Which of the following is not a current asset?",
+    "question_ta": "பின்வருவனவற்றில் எது நடப்பு சொத்தல்ல?",
+    "options_en": ["Cash", "Debtors", "Stock", "Land"],
+    "options_ta": ["பணம்", "பெறுபவர்கள்", "சரக்கு", "நிலம்"],
+    "answer_en": "Land",
+    "answer_ta": "நிலம்"
+  },
+  {
+    "question_en": "Which is an example of capital receipt?",
+    "question_ta": "மூலதன வருமானத்தின் உதாரணம் எது?",
+    "options_en": ["Sale of machinery", "Sale of goods", "Commission received", "Rent received"],
+    "options_ta": ["இயந்திரம் விற்பனை", "சரக்கு விற்பனை", "கமிஷன் வரவு", "வாடகை வரவு"],
+    "answer_en": "Sale of machinery",
+    "answer_ta": "இயந்திரம் விற்பனை"
+  },
+  {
+    "question_en": "Carriage inward is shown in which account?",
+    "question_ta": "உள்ளேற்றக் கப்பல் செலவு (Carriage inward) எந்தக் கணக்கில் காட்டப்படும்?",
+    "options_en": ["Trading A/c", "Profit & Loss A/c", "Balance Sheet", "Cash Book"],
+    "options_ta": ["வணிகக் கணக்கு", "லாப நஷ்டக் கணக்கு", "இறுதிச்சீட்டு", "பணப் புத்தகம்"],
+    "answer_en": "Trading A/c",
+    "answer_ta": "வணிகக் கணக்கு"
+  },
+  {
+    "question_en": "Which of the following errors affect the agreement of trial balance?",
+    "question_ta": "சோதனை சமநிலையின் பொருத்தத்தை பாதிக்கும் பிழை எது?",
+    "options_en": ["Partial omission", "Complete omission", "Compensating error", "Principle error"],
+    "options_ta": ["பகுதி விடுபடுதல்", "முழு விடுபடுதல்", "இணையான பிழை", "கொள்கைப் பிழை"],
+    "answer_en": "Partial omission",
+    "answer_ta": "பகுதி விடுபடுதல்"
+  },
+  {
+    "question_en": "Which statement shows financial position of a business?",
+    "question_ta": "ஒரு வணிகத்தின் நிதிநிலையை காட்டும் அறிக்கை எது?",
+    "options_en": ["Profit & Loss A/c", "Trading A/c", "Balance Sheet", "Cash Book"],
+    "options_ta": ["லாப நஷ்டக் கணக்கு", "வணிகக் கணக்கு", "இறுதிச்சீட்டு", "பணப் புத்தகம்"],
+    "answer_en": "Balance Sheet",
+    "answer_ta": "இறுதிச்சீட்டு"
+  },
+  {
+    "question_en": "Which is the main objective of financial accounting?",
+    "question_ta": "நிதி கணக்கியலின் முக்கிய நோக்கம் எது?",
+    "options_en": ["To ascertain profit or loss", "To record personal expenses", "To check cash only", "To calculate tax"],
+    "options_ta": ["லாபம் அல்லது இழப்பை அறிதல்", "தனிப்பட்ட செலவுகளை பதிவு செய்தல்", "பணம் மட்டும் சரிபார்த்தல்", "வரி கணக்கிடுதல்"],
+    "answer_en": "To ascertain profit or loss",
+    "answer_ta": "லாபம் அல்லது இழப்பை அறிதல்"
+  },
+  {
+    "question_en": "Which is an example of indirect expense?",
+    "question_ta": "அனுசரணச் செலவின் உதாரணம் எது?",
+    "options_en": ["Salary", "Wages", "Carriage inward", "Carriage outward"],
+    "options_ta": ["சம்பளம்", "ஊதியம்", "உள்ளேற்றக் கப்பல்", "வெளியேற்றக் கப்பல்"],
+    "answer_en": "Carriage outward",
+    "answer_ta": "வெளியேற்றக் கப்பல்"
+  },
+  {
+    "question_en": "Which of the following is a liability?",
+    "question_ta": "பின்வருவனவற்றில் எது கடன்?",
+    "options_en": ["Debtors", "Creditors", "Stock", "Cash"],
+    "options_ta": ["பெறுபவர்கள்", "கொடுப்பவர்கள்", "சரக்கு", "பணம்"],
+    "answer_en": "Creditors",
+    "answer_ta": "கொடுப்பவர்கள்"
+  },
+  {
+    "question_en": "Which one is a fictitious asset?",
+    "question_ta": "பொய்க்குச் சொத்தாக கருதப்படுவது எது?",
+    "options_en": ["Goodwill", "Preliminary expenses", "Debtors", "Land"],
+    "options_ta": ["நற்பெயர்", "ஆரம்ப செலவுகள்", "பெறுபவர்கள்", "நிலம்"],
+    "answer_en": "Preliminary expenses",
+    "answer_ta": "ஆரம்ப செலவுகள்"
+  },
+  {
+    "question_en": "Which book records credit purchases?",
+    "question_ta": "கடன் கொள்முதல்கள் எந்தப் புத்தகத்தில் பதிவு செய்யப்படும்?",
+    "options_en": ["Sales book", "Purchase book", "Cash book", "Ledger"],
+    "options_ta": ["விற்பனைப் புத்தகம்", "கொள்முதல் புத்தகம்", "பணப் புத்தகம்", "பெருநூல்"],
+    "answer_en": "Purchase book",
+    "answer_ta": "கொள்முதல் புத்தகம்"
+  },
+  {
+    "question_en": "Which is not an accounting software?",
+    "question_ta": "கணக்கியல் மென்பொருள் அல்லாதது எது?",
+    "options_en": ["Tally", "SAP", "Oracle", "Photoshop"],
+    "options_ta": ["டாலி", "SAP", "Oracle", "போட்டோஷாப்"],
+    "answer_en": "Photoshop",
+    "answer_ta": "போட்டோஷாப்"
+  },
+  {
+    "question_en": "Which is the modern method of preparing accounts?",
+    "question_ta": "கணக்குகளை தயாரிக்கும் நவீன முறை எது?",
+    "options_en": ["Manual system", "Computerized system", "Oral system", "Traditional system"],
+    "options_ta": ["கைமுறை", "கணினி முறை", "வாய்மொழி முறை", "பாரம்பரிய முறை"],
+    "answer_en": "Computerized system",
+    "answer_ta": "கணினி முறை"
+  },
+  {
+    "question_en": "Which document serves as evidence for business transactions?",
+    "question_ta": "வணிகப் பரிவர்த்தனைகளுக்கான சான்றாக பயன்படும் ஆவணம் எது?",
+    "options_en": ["Voucher", "Ledger", "Trial Balance", "Balance Sheet"],
+    "options_ta": ["வவுச்சர்", "பெருநூல்", "சோதனை சமநிலை", "இறுதிச்சீட்டு"],
+    "answer_en": "Voucher",
+    "answer_ta": "வவுச்சர்"
+  },
+  {
+    "question_en": "Which of the following is not an end user of accounting information?",
+    "question_ta": "கணக்கியல் தகவலின் இறுதி பயனாளி அல்லாதவர் யார்?",
+    "options_en": ["Management", "Investors", "Employees", "Weather department"],
+    "options_ta": ["மேலாண்மை", "முதலீட்டாளர்கள்", "ஊழியர்கள்", "வானிலை துறை"],
+    "answer_en": "Weather department",
+    "answer_ta": "வானிலை துறை"
+  }
+]

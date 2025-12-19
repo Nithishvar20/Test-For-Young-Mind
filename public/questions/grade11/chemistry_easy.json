@@ -1,0 +1,288 @@
+[
+  {
+    "question_en": "The atomic number of oxygen is?",
+    "question_ta": "ஆக்சிஜனின் அணு எண் என்ன?",
+    "options_en": ["6", "7", "8", "9"],
+    "options_ta": ["6", "7", "8", "9"],
+    "answer_en": "8",
+    "answer_ta": "8"
+  },
+  {
+    "question_en": "Which of the following is a noble gas?",
+    "question_ta": "பின்வருவனில் எது உயர்குடி வாயு?",
+    "options_en": ["Oxygen", "Nitrogen", "Neon", "Hydrogen"],
+    "options_ta": ["ஆக்சிஜன்", "நைட்ரஜன்", "நியான்", "ஹைட்ரஜன்"],
+    "answer_en": "Neon",
+    "answer_ta": "நியான்"
+  },
+  {
+    "question_en": "What is the symbol of Sodium?",
+    "question_ta": "சோடியத்தின் குறியீடு என்ன?",
+    "options_en": ["S", "Na", "So", "Sn"],
+    "options_ta": ["S", "Na", "So", "Sn"],
+    "answer_en": "Na",
+    "answer_ta": "Na"
+  },
+  {
+    "question_en": "Water is a compound of:",
+    "question_ta": "தண்ணீர் எந்தவற்றின் சேர்மம்?",
+    "options_en": ["Hydrogen and Oxygen", "Hydrogen and Nitrogen", "Oxygen and Carbon", "Carbon and Hydrogen"],
+    "options_ta": ["ஹைட்ரஜன் மற்றும் ஆக்சிஜன்", "ஹைட்ரஜன் மற்றும் நைட்ரஜன்", "ஆக்சிஜன் மற்றும் கார்பன்", "கார்பன் மற்றும் ஹைட்ரஜன்"],
+    "answer_en": "Hydrogen and Oxygen",
+    "answer_ta": "ஹைட்ரஜன் மற்றும் ஆக்சிஜன்"
+  },
+  {
+    "question_en": "Which one is the lightest gas?",
+    "question_ta": "எந்த வாயு மிக இலகுவானது?",
+    "options_en": ["Helium", "Oxygen", "Carbon dioxide", "Nitrogen"],
+    "options_ta": ["ஹீலியம்", "ஆக்சிஜன்", "கார்பன் டைஆக்சைடு", "நைட்ரஜன்"],
+    "answer_en": "Helium",
+    "answer_ta": "ஹீலியம்"
+  },
+  {
+    "question_en": "The chemical formula of methane is?",
+    "question_ta": "மீத்தேன் வாயுவின் வேதியியல் சூத்திரம் என்ன?",
+    "options_en": ["CH4", "C2H6", "CO2", "H2O"],
+    "options_ta": ["CH4", "C2H6", "CO2", "H2O"],
+    "answer_en": "CH4",
+    "answer_ta": "CH4"
+  },
+  {
+    "question_en": "The unit of force is?",
+    "question_ta": "விசையின் அலகு என்ன?",
+    "options_en": ["Joule", "Newton", "Watt", "Pascal"],
+    "options_ta": ["ஜூல்", "நியூட்டன்", "வாட்", "பாஸ்கல்"],
+    "answer_en": "Newton",
+    "answer_ta": "நியூட்டன்"
+  },
+  {
+    "question_en": "Which planet is known as the Red Planet?",
+    "question_ta": "எந்த கிரகம் செம்மை கிரகம் என்று அழைக்கப்படுகிறது?",
+    "options_en": ["Mercury", "Venus", "Mars", "Jupiter"],
+    "options_ta": ["புதன்", "வெள்ளி", "செவ்வாய்", "குரு"],
+    "answer_en": "Mars",
+    "answer_ta": "செவ்வாய்"
+  },
+  {
+    "question_en": "Which element is essential for respiration?",
+    "question_ta": "சுவாசத்திற்கு அவசியமான தனிமம் எது?",
+    "options_en": ["Oxygen", "Carbon", "Nitrogen", "Hydrogen"],
+    "options_ta": ["ஆக்சிஜன்", "கார்பன்", "நைட்ரஜன்", "ஹைட்ரஜன்"],
+    "answer_en": "Oxygen",
+    "answer_ta": "ஆக்சிஜன்"
+  },
+  {
+    "question_en": "Which acid is present in lemon?",
+    "question_ta": "எலுமிச்சையில் எது அமிலமாக உள்ளது?",
+    "options_en": ["Hydrochloric acid", "Citric acid", "Sulphuric acid", "Acetic acid"],
+    "options_ta": ["ஹைட்ரோகுளோரிக் அமிலம்", "சிட்ரிக் அமிலம்", "சல்பியூரிக் அமிலம்", "அசெட்டிக் அமிலம்"],
+    "answer_en": "Citric acid",
+    "answer_ta": "சிட்ரிக் அமிலம்"
+  },
+  {
+    "question_en": "The SI unit of energy is?",
+    "question_ta": "ஆற்றலின் SI அலகு என்ன?",
+    "options_en": ["Newton", "Joule", "Watt", "Pascal"],
+    "options_ta": ["நியூட்டன்", "ஜூல்", "வாட்", "பாஸ்கல்"],
+    "answer_en": "Joule",
+    "answer_ta": "ஜூல்"
+  },
+  {
+    "question_en": "Which vitamin is produced by sunlight in the human body?",
+    "question_ta": "மனித உடலில் சூரியஒளியால் உற்பத்தியாகும் விட்டமின் எது?",
+    "options_en": ["Vitamin A", "Vitamin B", "Vitamin C", "Vitamin D"],
+    "options_ta": ["விட்டமின் A", "விட்டமின் B", "விட்டமின் C", "விட்டமின் D"],
+    "answer_en": "Vitamin D",
+    "answer_ta": "விட்டமின் D"
+  },
+  {
+    "question_en": "Which metal is liquid at room temperature?",
+    "question_ta": "அறை வெப்பநிலையில் திரவமாக இருக்கும் உலோகம் எது?",
+    "options_en": ["Iron", "Mercury", "Copper", "Aluminium"],
+    "options_ta": ["இரும்பு", "பாராசுத்தம்", "செம்பு", "அலுமினியம்"],
+    "answer_en": "Mercury",
+    "answer_ta": "பாராசுத்தம்"
+  },
+  {
+    "question_en": "The process of conversion of water into vapor is called?",
+    "question_ta": "தண்ணீரை நீராவியாக மாற்றும் செயல்முறை எது?",
+    "options_en": ["Condensation", "Evaporation", "Sublimation", "Precipitation"],
+    "options_ta": ["அடர்த்தி", "ஆவியாக்கம்", "உயர்த்தல்", "மழை"],
+    "answer_en": "Evaporation",
+    "answer_ta": "ஆவியாக்கம்"
+  },
+  {
+    "question_en": "Which gas is used for respiration by aquatic animals?",
+    "question_ta": "நீர்வாழ் உயிரினங்கள் சுவாசிக்க பயன்படுத்தும் வாயு எது?",
+    "options_en": ["Carbon dioxide", "Oxygen", "Nitrogen", "Methane"],
+    "options_ta": ["கார்பன் டைஆக்சைடு", "ஆக்சிஜன்", "நைட்ரஜன்", "மீத்தேன்"],
+    "answer_en": "Oxygen",
+    "answer_ta": "ஆக்சிஜன்"
+  },
+  {
+    "question_en": "The gas used in fire extinguishers is?",
+    "question_ta": "தீ அணைப்பிகளில் பயன்படுத்தப்படும் வாயு எது?",
+    "options_en": ["Carbon dioxide", "Oxygen", "Nitrogen", "Hydrogen"],
+    "options_ta": ["கார்பன் டைஆக்சைடு", "ஆக்சிஜன்", "நைட்ரஜன்", "ஹைட்ரஜன்"],
+    "answer_en": "Carbon dioxide",
+    "answer_ta": "கார்பன் டைஆக்சைடு"
+  },
+  {
+    "question_en": "Which planet is the largest in the solar system?",
+    "question_ta": "சூரியக் குடும்பத்தில் மிகப்பெரிய கிரகம் எது?",
+    "options_en": ["Earth", "Saturn", "Jupiter", "Neptune"],
+    "options_ta": ["பூமி", "சனி", "குரு", "நெப்டியூன்"],
+    "answer_en": "Jupiter",
+    "answer_ta": "குரு"
+  },
+  {
+    "question_en": "The gas released by plants during photosynthesis is?",
+    "question_ta": "ஒளிச்சேர்க்கையின் போது தாவரங்கள் வெளியிடும் வாயு எது?",
+    "options_en": ["Oxygen", "Carbon dioxide", "Nitrogen", "Hydrogen"],
+    "options_ta": ["ஆக்சிஜன்", "கார்பன் டைஆக்சைடு", "நைட்ரஜன்", "ஹைட்ரஜன்"],
+    "answer_en": "Oxygen",
+    "answer_ta": "ஆக்சிஜன்"
+  },
+  {
+    "question_en": "Which organ pumps blood in the human body?",
+    "question_ta": "மனித உடலில் இரத்தத்தை பாய்ச்சும் உறுப்பு எது?",
+    "options_en": ["Brain", "Lungs", "Heart", "Kidney"],
+    "options_ta": ["மூளை", "நுரையீரல்", "இதயம்", "சிறுநீரகம்"],
+    "answer_en": "Heart",
+    "answer_ta": "இதயம்"
+  },
+  {
+    "question_en": "Which instrument is used to measure temperature?",
+    "question_ta": "வெப்பநிலையை அளவிட எந்த கருவி பயன்படுத்தப்படுகிறது?",
+    "options_en": ["Barometer", "Thermometer", "Ammeter", "Hygrometer"],
+    "options_ta": ["பாரோமீட்டர்", "வெப்பமானி", "அமீட்டர்", "ஈரப்பதமானி"],
+    "answer_en": "Thermometer",
+    "answer_ta": "வெப்பமானி"
+  },
+  {
+    "question_en": "Which gas is known as laughing gas?",
+    "question_ta": "எந்த வாயு நகைக்கும் வாயு என்று அழைக்கப்படுகிறது?",
+    "options_en": ["Nitrous oxide", "Carbon dioxide", "Oxygen", "Hydrogen"],
+    "options_ta": ["நைட்ரஸ் ஆக்சைடு", "கார்பன் டைஆக்சைடு", "ஆக்சிஜன்", "ஹைட்ரஜன்"],
+    "answer_en": "Nitrous oxide",
+    "answer_ta": "நைட்ரஸ் ஆக்சைடு"
+  },
+  {
+    "question_en": "Which blood cells help in fighting infections?",
+    "question_ta": "எந்த இரத்த அணுக்கள் நோய்களை எதிர்க்க உதவுகின்றன?",
+    "options_en": ["Red blood cells", "White blood cells", "Platelets", "Plasma"],
+    "options_ta": ["சிவப்பு இரத்த அணுக்கள்", "வெள்ளை இரத்த அணுக்கள்", "தகடுகள்", "பிளாஸ்மா"],
+    "answer_en": "White blood cells",
+    "answer_ta": "வெள்ளை இரத்த அணுக்கள்"
+  },
+  {
+    "question_en": "The process of conversion of solid directly into gas is?",
+    "question_ta": "திடத்தை நேரடியாக வாயுவாக மாற்றும் செயல்முறை எது?",
+    "options_en": ["Evaporation", "Sublimation", "Condensation", "Fusion"],
+    "options_ta": ["ஆவியாக்கம்", "உயர்த்தல்", "அடர்த்தி", "உருகல்"],
+    "answer_en": "Sublimation",
+    "answer_ta": "உயர்த்தல்"
+  },
+  {
+    "question_en": "The instrument used to measure atmospheric pressure is?",
+    "question_ta": "வானழுத்தத்தை அளவிட பயன்படும் கருவி எது?",
+    "options_en": ["Barometer", "Thermometer", "Hygrometer", "Manometer"],
+    "options_ta": ["பாரோமீட்டர்", "வெப்பமானி", "ஈரப்பதமானி", "மானோமீட்டர்"],
+    "answer_en": "Barometer",
+    "answer_ta": "பாரோமீட்டர்"
+  },
+  {
+    "question_en": "The boiling point of water at sea level is?",
+    "question_ta": "கடல்மட்டத்தில் தண்ணீரின் கொதிநிலை என்ன?",
+    "options_en": ["50°C", "75°C", "100°C", "150°C"],
+    "options_ta": ["50°C", "75°C", "100°C", "150°C"],
+    "answer_en": "100°C",
+    "answer_ta": "100°C"
+  },
+  {
+    "question_en": "Which planet is closest to the Sun?",
+    "question_ta": "சூரியனுக்கு மிக அருகில் உள்ள கிரகம் எது?",
+    "options_en": ["Venus", "Mercury", "Earth", "Mars"],
+    "options_ta": ["வெள்ளி", "புதன்", "பூமி", "செவ்வாய்"],
+    "answer_en": "Mercury",
+    "answer_ta": "புதன்"
+  },
+  {
+    "question_en": "The hardest substance found in the human body is?",
+    "question_ta": "மனித உடலில் காணப்படும் கடினமான பொருள் எது?",
+    "options_en": ["Bone", "Enamel", "Cartilage", "Nails"],
+    "options_ta": ["எலும்பு", "பற் தகடு (Enamel)", "முரட்டு திசு", "நகம்"],
+    "answer_en": "Enamel",
+    "answer_ta": "பற் தகடு (Enamel)"
+  },
+  {
+    "question_en": "The common salt we use in food is chemically known as?",
+    "question_ta": "உணவில் நாம் பயன்படுத்தும் சாதாரண உப்பு வேதியியல் பெயர் என்ன?",
+    "options_en": ["Sodium carbonate", "Sodium chloride", "Potassium chloride", "Magnesium sulphate"],
+    "options_ta": ["சோடியம் கார்பனேட்", "சோடியம் குளோரைடு", "பொட்டாசியம் குளோரைடு", "மக்னீசியம் சல்பேட்"],
+    "answer_en": "Sodium chloride",
+    "answer_ta": "சோடியம் குளோரைடு"
+  },
+  {
+    "question_en": "Which gas is essential for burning?",
+    "question_ta": "எரிவதற்கு அவசியமான வாயு எது?",
+    "options_en": ["Oxygen", "Carbon dioxide", "Hydrogen", "Nitrogen"],
+    "options_ta": ["ஆக்சிஜன்", "கார்பன் டைஆக்சைடு", "ஹைட்ரஜன்", "நைட்ரஜன்"],
+    "answer_en": "Oxygen",
+    "answer_ta": "ஆக்சிஜன்"
+  },
+  {
+    "question_en": "Which vitamin is abundant in citrus fruits?",
+    "question_ta": "சிட்ரஸ் பழங்களில் அதிகமாக காணப்படும் விட்டமின் எது?",
+    "options_en": ["Vitamin A", "Vitamin B", "Vitamin C", "Vitamin D"],
+    "options_ta": ["விட்டமின் A", "விட்டமின் B", "விட்டமின் C", "விட்டமின் D"],
+    "answer_en": "Vitamin C",
+    "answer_ta": "விட்டமின் C"
+  },
+  {
+    "question_en": "The gas used in balloons is?",
+    "question_ta": "பலூன்களில் பயன்படுத்தப்படும் வாயு எது?",
+    "options_en": ["Oxygen", "Carbon dioxide", "Helium", "Nitrogen"],
+    "options_ta": ["ஆக்சிஜன்", "கார்பன் டைஆக்சைடு", "ஹீலியம்", "நைட்ரஜன்"],
+    "answer_en": "Helium",
+    "answer_ta": "ஹீலியம்"
+  },
+  {
+    "question_en": "Which organ in the body purifies blood?",
+    "question_ta": "உடலில் இரத்தத்தை சுத்திகரிக்கும் உறுப்பு எது?",
+    "options_en": ["Heart", "Lungs", "Kidney", "Liver"],
+    "options_ta": ["இதயம்", "நுரையீரல்", "சிறுநீரகம்", "ஈரல்"],
+    "answer_en": "Kidney",
+    "answer_ta": "சிறுநீரகம்"
+  },
+  {
+    "question_en": "The sun is a?",
+    "question_ta": "சூரியன் எது?",
+    "options_en": ["Planet", "Star", "Satellite", "Asteroid"],
+    "options_ta": ["கிரகம்", "நட்சத்திரம்", "செயற்கைக் கோள்", "சிறுகோள்"],
+    "answer_en": "Star",
+    "answer_ta": "நட்சத்திரம்"
+  },
+  {
+    "question_en": "Which is the fastest animal on land?",
+    "question_ta": "தரையில் மிக வேகமான விலங்கு எது?",
+    "options_en": ["Horse", "Tiger", "Cheetah", "Lion"],
+    "options_ta": ["குதிரை", "புலி", "சீட்டா", "சிங்கம்"],
+    "answer_en": "Cheetah",
+    "answer_ta": "சீட்டா"
+  },
+  {
+    "question_en": "Which instrument is used to measure current?",
+    "question_ta": "மின்நடையை அளவிடும் கருவி எது?",
+    "options_en": ["Voltmeter", "Ammeter", "Ohmmeter", "Wattmeter"],
+    "options_ta": ["வோல்ட்மீட்டர்", "அமீட்டர்", "ஓம்மீட்டர்", "வாட்ட்மீட்டர்"],
+    "answer_en": "Ammeter",
+    "answer_ta": "அமீட்டர்"
+  },
+  {
+    "question_en": "Which is the smallest planet in the solar system?",
+    "question_ta": "சூரியக் குடும்பத்தில் மிகச் சிறிய கிரகம் எது?",
+    "options_en": ["Mercury", "Venus", "Earth", "Mars"],
+    "options_ta": ["புதன்", "வெள்ளி", "பூமி", "செவ்வாய்"]
+  }
+]

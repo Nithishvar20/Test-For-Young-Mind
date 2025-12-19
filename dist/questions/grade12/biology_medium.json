@@ -1,0 +1,632 @@
+[
+  {
+    "question_en": "Which phase of cell cycle is DNA replication seen in?",
+    "question_ta": "செல் சுழற்சியின் எந்த கட்டத்தில் DNA பிரதிகதி நிகழ்கிறது?",
+    "options_en": [
+      "G1 phase",
+      "G2 phase",
+      "M phase",
+      "S phase"
+    ],
+    "options_ta": [
+      "G1 கட்டம்",
+      "G2 கட்டம்",
+      "M கட்டம்",
+      "S கட்டம்"
+    ],
+    "answer_en": "S phase",
+    "answer_ta": "S கட்டம்"
+  },
+  {
+    "question_en": "Which structure in leaf is main site of photosynthesis?",
+    "question_ta": "இலைவில் புகுபசிப்பின் முக்கிய இடம் எது?",
+    "options_en": [
+      "Stomata",
+      "Epidermal cells",
+      "Vascular bundles",
+      "Mesophyll cells"
+    ],
+    "options_ta": [
+      "ஸ்டோமாடா",
+      "அதிகரிப்பு செல்கள்",
+      "நீரோடை தொகுதிகள்",
+      "மேசோஃபில் செல்கள்"
+    ],
+    "answer_en": "Mesophyll cells",
+    "answer_ta": "மேசோஃபில் செல்கள்"
+  },
+  {
+    "question_en": "Which enzyme unwinds DNA during replication?",
+    "question_ta": "பிரதி உருவாக்கத்தில் DNA-ஐ திறக்கும் என்சைம் எது?",
+    "options_en": [
+      "Helicase",
+      "Polymerase",
+      "Ligase",
+      "Topoisomerase"
+    ],
+    "options_ta": [
+      "ஹெலிகேஸ்",
+      "பாலிமரேஸ்",
+      "லைக்கேஸ்",
+      "டொபோஇசோமரேஸ்"
+    ],
+    "answer_en": "Helicase",
+    "answer_ta": "ஹெலிகேஸ்"
+  },
+  {
+    "question_en": "What is pleiotropy?",
+    "question_ta": "பிளியோட்ரோபி என்றால் என்ன?",
+    "options_en": [
+      "Genes on same chromosome",
+      "One gene influences multiple traits",
+      "Independent assortment",
+      "Multiple genes influence one trait"
+    ],
+    "options_ta": [
+      "ஒரே குரோமோசோமில் ஜீன்கள்",
+      "ஒரு ஜீன் பல பண்புகளை பாதிக்கிறது",
+      "சுயாதீன ஒழுங்கமைப்பு",
+      "பல ஜீன்கள் ஒரே பண்பை பாதிக்கின்றன"
+    ],
+    "answer_en": "One gene influences multiple traits",
+    "answer_ta": "ஒரு ஜீன் பல பண்புகளை பாதிக்கிறது"
+  },
+  {
+    "question_en": "Which of following is NOT a root function?",
+    "question_ta": "பின்வரும் எந்தம் வேர் பணி அல்ல?",
+    "options_en": [
+      "Storage",
+      "Photosynthesis",
+      "Anchorage",
+      "Absorption of water"
+    ],
+    "options_ta": [
+      "சேமிப்பு",
+      "புகுபசிப்பு",
+      "நிறுத்தம்",
+      "நீர் உறிஞ்சுதல்"
+    ],
+    "answer_en": "Photosynthesis",
+    "answer_ta": "புகுபசிப்பு"
+  },
+  {
+    "question_en": "Which method is used for plant tissue culture?",
+    "question_ta": "தாவர திசு கலாச்சாரம் எந்த முறையில் செய்யப்படுகிறது?",
+    "options_en": [
+      "In vitro culture of explants",
+      "Grafting",
+      "Layering",
+      "Cutting"
+    ],
+    "options_ta": [
+      "இன் விசு கலாசாரம்",
+      "கிராப்டிங்",
+      "லயரிங்",
+      "கட்டிங்"
+    ],
+    "answer_en": "In vitro culture of explants",
+    "answer_ta": "இன் விசு கலாசாரம்"
+  },
+  {
+    "question_en": "Example of mutualism?",
+    "question_ta": "உதவிச் சமநிலையின் ஒரு உதாரணம் எது?",
+    "options_en": [
+      "Parasitism",
+      "Mycorrhiza and plant roots",
+      "Predator-prey",
+      "Competition"
+    ],
+    "options_ta": [
+      "பராசைடிசம்",
+      "மைகோரிசா மற்றும் வேர்",
+      "விலங்கு-வேர்",
+      "போட்டி"
+    ],
+    "answer_en": "Mycorrhiza and plant roots",
+    "answer_ta": "மைகோரிசா மற்றும் வேர்"
+  },
+  {
+    "question_en": "Which technique separates DNA fragments by size?",
+    "question_ta": "DNA துண்டுகளை அளவால் பிரிக்கும் தொழில்நுட்பம் எது?",
+    "options_en": [
+      "PCR",
+      "Cloning",
+      "Restriction digestion",
+      "Gel electrophoresis"
+    ],
+    "options_ta": [
+      "PCR",
+      "கிளோனிங்",
+      "கட்டுபாடு நுகர்வு",
+      "ஜெல் எலக்ட்ரோபொரிசிஸ்"
+    ],
+    "answer_en": "Gel electrophoresis",
+    "answer_ta": "ஜெல் எலக்ட்ரோபொரிசிஸ்"
+  },
+  {
+    "question_en": "Process that increases allele frequency by chance?",
+    "question_ta": "சான்று மூலம் ஆலில் சதவிகிதம் அதிகரிக்கும் செயல்முறை எது?",
+    "options_en": [
+      "Migration",
+      "Genetic drift",
+      "Mutation",
+      "Natural selection"
+    ],
+    "options_ta": [
+      "இடமாற்றம்",
+      "மரபணு சஞ்சலம்",
+      "மியூட்டேஷன்",
+      "இயற்கை தேர்வு"
+    ],
+    "answer_en": "Genetic drift",
+    "answer_ta": "மரபணு சஞ்சலம்"
+  },
+  {
+    "question_en": "Which organ produces insulin?",
+    "question_ta": "யாதெனில் இன்சுலின் உருவாக்கம் எங்கே?",
+    "options_en": [
+      "Thyroid",
+      "Adrenal gland",
+      "Liver",
+      "Pancreas"
+    ],
+    "options_ta": [
+      "தைராய்டு",
+      "அட்ரெனல் குருதி",
+      "கல்லை",
+      "பேன்கிரியாஸ்"
+    ],
+    "answer_en": "Pancreas",
+    "answer_ta": "பேன்கிரியாஸ்"
+  },
+  {
+    "question_en": "Organelle for protein modification?",
+    "question_ta": "புரத மாற்றத்திற்கான உட்கருவி எது?",
+    "options_en": [
+      "Golgi apparatus",
+      "Mitochondria",
+      "Lysosome",
+      "Endoplasmic reticulum"
+    ],
+    "options_ta": [
+      "கால்ஜி அமைப்பு",
+      "மைட்டோகாண்ட்ரியா",
+      "லிசோசோம்",
+      "எரண்டோபிளாஸ்மிக் ரெட்டிகுலம்"
+    ],
+    "answer_en": "Golgi apparatus",
+    "answer_ta": "கால்ஜி அமைப்பு"
+  },
+  {
+    "question_en": "Phenomenon of pollutant increasing up food chain?",
+    "question_ta": "உணவுச் சங்கிலியில் மாசுபாடு அதிகரிப்பு என்ன?",
+    "options_en": [
+      "Biotransformation",
+      "Bioaccumulation",
+      "Biodegradation",
+      "Biomagnification"
+    ],
+    "options_ta": [
+      "பயோமாற்றம்",
+      "பயோஅக்குமுலேஷன்",
+      "பயோ முரணாக்கம்",
+      "பயோமைக்னிஃபிகேஷன்"
+    ],
+    "answer_en": "Biomagnification",
+    "answer_ta": "பயோமைக்னிஃபிகேஷன்"
+  },
+  {
+    "question_en": "Hardy-Weinberg equilibrium concerns what?",
+    "question_ta": "ஹார்டி-வைன்பெர்க் சமநிலை எதைக் குறித்து?",
+    "options_en": [
+      "Ecosystem productivity",
+      "Community interactions",
+      "Allele frequencies in population",
+      "Species diversity"
+    ],
+    "options_ta": [
+      "சூழல் உற்பத்தி",
+      "சமூக உறவுகள்",
+      "மக்கள் தொகையில் ஆலில் சதவிகிதம்",
+      "இன வேறுபாடு"
+    ],
+    "answer_en": "Allele frequencies in population",
+    "answer_ta": "மக்கள் தொகையில் ஆலில் சதவிகிதம்"
+  },
+  {
+    "question_en": "Which blood component carries oxygen?",
+    "question_ta": "எந்த இரத்தக் கூறு ஆக்சிஜனை கொண்டு செல்கிறது?",
+    "options_en": [
+      "Platelets",
+      "WBC",
+      "Plasma",
+      "Hemoglobin in RBC"
+    ],
+    "options_ta": [
+      "தகடு",
+      "வெள்ளை செல்கள்",
+      "பிளாஸ்மா",
+      "சிவப்பு செல்களின் ஹீமோகுளோபின்"
+    ],
+    "answer_en": "Hemoglobin in RBC",
+    "answer_ta": "சிவப்பு செல்களின் ஹீமோகுளோபின்"
+  },
+  {
+    "question_en": "Water conserving leaf adaptation?",
+    "question_ta": "நீரை சேமிக்கும் இலை அமைப்பு எது?",
+    "options_en": [
+      "Thin lamina",
+      "Thick cuticle",
+      "Hairless surface",
+      "Large stomatal density"
+    ],
+    "options_ta": [
+      "தற்சாரமான லாமினா",
+      "கடினமான துணிகை",
+      "முள் இல்லா மேற்பரப்பு",
+      "அதிக ஸ்டோமா"
+    ],
+    "answer_en": "Thick cuticle",
+    "answer_ta": "கடினமான துணிகை"
+  },
+  {
+    "question_en": "Technique that amplifies DNA segment?",
+    "question_ta": "DNA துண்டைப் பெருக்கும் தொழில்நுட்பம் எது?",
+    "options_en": [
+      "Gel electrophoresis",
+      "Cloning",
+      "Southern blot",
+      "PCR (Polymerase Chain Reaction)"
+    ],
+    "options_ta": [
+      "ஜெல் எலக்ட்ரோபொரிசிஸ்",
+      "கிளோனிங்",
+      "சதுர்ன் ப்ளாட்",
+      "PCR"
+    ],
+    "answer_en": "PCR (Polymerase Chain Reaction)",
+    "answer_ta": "PCR"
+  },
+  {
+    "question_en": "Plant hormone promoting cell elongation?",
+    "question_ta": "செல் நீளத்தை ஊக்குவிக்கும் தாவரவியல் ஹார்மோன் எது?",
+    "options_en": [
+      "Auxin",
+      "Cytokinin",
+      "Abscisic acid",
+      "Gibberellin"
+    ],
+    "options_ta": [
+      "ஆக்சின்",
+      "சைடோகைனின்",
+      "அப்ஸிசிக் அமிலம்",
+      "கிபெரலின்"
+    ],
+    "answer_en": "Auxin",
+    "answer_ta": "ஆக்சின்"
+  },
+  {
+    "question_en": "Process producing genetically identical offspring?",
+    "question_ta": "மரபணு ஒரே போலியுடைய சந்ததியை உருவாக்கும் செயல்முறை எது?",
+    "options_en": [
+      "Crossing over",
+      "Sexual reproduction",
+      "Meiosis",
+      "Asexual reproduction"
+    ],
+    "options_ta": [
+      "கிராஸிங் ஓவர்",
+      "பாலினப்பெருக்கம்",
+      "மியோசிஸ்",
+      "பாலினமற்ற இனப்பெருக்கம்"
+    ],
+    "answer_en": "Asexual reproduction",
+    "answer_ta": "பாலினமற்ற இனப்பெருக்கம்"
+  },
+  {
+    "question_en": "Gas contributing to greenhouse effect?",
+    "question_ta": "பசுமை வீட்டுக் காரணமாக அமைக்கும் வாயு எது?",
+    "options_en": [
+      "Helium",
+      "Nitrogen",
+      "Carbon dioxide",
+      "Oxygen"
+    ],
+    "options_ta": [
+      "ஹீலியம்",
+      "நைட்ரஜன்",
+      "கார்பன் டை ஆக்சைடு",
+      "ஆக்சிஜன்"
+    ],
+    "answer_en": "Carbon dioxide",
+    "answer_ta": "கார்பன் டை ஆக்சைடு"
+  },
+  {
+    "question_en": "Organelle with digestive enzymes?",
+    "question_ta": "ஜீரண என்சைம்கள் கொண்ட உட்கருவி எது?",
+    "options_en": [
+      "Golgi apparatus",
+      "Lysosome",
+      "Mitochondria",
+      "Ribosome"
+    ],
+    "options_ta": [
+      "கால்ஜி அமைப்பு",
+      "லிசோசோம்",
+      "மைட்டோகாண்ட்ரியா",
+      "ரைபோசோம்"
+    ],
+    "answer_en": "Lysosome",
+    "answer_ta": "லிசோசோம்"
+  },
+  {
+    "question_en": "Which is NOT nitrogen-fixing?",
+    "question_ta": "ஏதேனுமொரு நைட்ரஜன் உறிஞ்சிப் பணியாளர் அல்ல?",
+    "options_en": [
+      "Mushroom",
+      "Azotobacter",
+      "Cyanobacteria",
+      "Rhizobium"
+    ],
+    "options_ta": [
+      "காளான்",
+      "அசோடோபாக்டர்",
+      "சயனோபாக்டீரியா",
+      "ரிசோபியம்"
+    ],
+    "answer_en": "Mushroom",
+    "answer_ta": "காளான்"
+  },
+  {
+    "question_en": "What is karyotyping used for?",
+    "question_ta": "கேரியோடைப்பிங் எதற்காக?",
+    "options_en": [
+      "Detect chromosomal abnormalities",
+      "Estimate population size",
+      "Identify bacteria",
+      "Measure enzyme activity"
+    ],
+    "options_ta": [
+      "குரோமோசோமிய தவறுகள் கண்டறிதல்",
+      "மக்கள் எண்ணிக்கை",
+      "பாக்டீரியா அடையாளம்",
+      "என்சைம் செயல்முறை அளப்பீடு"
+    ],
+    "answer_en": "Detect chromosomal abnormalities",
+    "answer_ta": "குரோமோசோமிய தவறுகள் கண்டறிதல்"
+  },
+  {
+    "question_en": "Leaf structure minimizing water loss in xerophytes?",
+    "question_ta": "எக்ஸிராபைடுகளில் நீர் இழப்பை குறைக்கும் இலை அமைப்பு எது?",
+    "options_en": [
+      "Sunken stomata",
+      "Large air spaces",
+      "Many stomata",
+      "Thin cuticle"
+    ],
+    "options_ta": [
+      "துளையிடப்பட்ட ஸ்டோமா",
+      "பெரிய காற்றழுத்த இடங்கள்",
+      "பல ஸ்டோமா",
+      "தற்சாரமான துணிகை"
+    ],
+    "answer_en": "Sunken stomata",
+    "answer_ta": "துளையிடப்பட்ட ஸ்டோமா"
+  },
+  {
+    "question_en": "Which vaccine contains killed pathogen?",
+    "question_ta": "எந்த தடுப்பூசி கொல்லப்பட்ட பாதோகனை கொண்டுள்ளது?",
+    "options_en": [
+      "mRNA vaccine",
+      "Toxoid vaccine",
+      "Live attenuated",
+      "Inactivated vaccine"
+    ],
+    "options_ta": [
+      "mRNA",
+      "டாக்சாய்ட்",
+      "தாழ்த்தப்பட்ட வாழும்",
+      "இணக்கப்பட்ட தடுப்பூசி"
+    ],
+    "answer_en": "Inactivated vaccine",
+    "answer_ta": "இணக்கப்பட்ட தடுப்பூசி"
+  },
+  {
+    "question_en": "Site of protein synthesis?",
+    "question_ta": "புரத உருவாகும் இடம் எங்கு?",
+    "options_en": [
+      "Nucleus",
+      "Ribosome",
+      "Mitochondria",
+      "Golgi apparatus"
+    ],
+    "options_ta": [
+      "நியூகிளியஸ்",
+      "ரைபோசோம்",
+      "மைட்டோகாண்ட்ரியா",
+      "கால்ஜி அமைப்பு"
+    ],
+    "answer_en": "Ribosome",
+    "answer_ta": "ரைபோசோம்"
+  },
+  {
+    "question_en": "Common symptom of salinity stress in plants?",
+    "question_ta": "தாவரங்களில் உப்பு அழுத்தத்தின் பொதுவான அறிகுறி என்ன?",
+    "options_en": [
+      "Larger leaves",
+      "Increased growth",
+      "Leaf burn and wilting",
+      "More flowers"
+    ],
+    "options_ta": [
+      "பெரிய இலைகள்",
+      "வளர்ச்சி அதிகரிப்பு",
+      "இலை எரிதல் மற்றும் உலர்வு",
+      "மலர் அதிகரிப்பு"
+    ],
+    "answer_en": "Leaf burn and wilting",
+    "answer_ta": "இலை எரிதல் மற்றும் உலர்வு"
+  },
+  {
+    "question_en": "Which phase of cell cycle is DNA replication seen in? (Q27)",
+    "question_ta": "செல் சுழற்சியின் எந்த கட்டத்தில் DNA பிரதிகதி நிகழ்கிறது? (வ27)",
+    "options_en": [
+      "G2 phase",
+      "G1 phase",
+      "M phase",
+      "S phase"
+    ],
+    "options_ta": [
+      "G2 கட்டம்",
+      "G1 கட்டம்",
+      "M கட்டம்",
+      "S கட்டம்"
+    ],
+    "answer_en": "S phase",
+    "answer_ta": "S கட்டம்"
+  },
+  {
+    "question_en": "Which structure in leaf is main site of photosynthesis? (Q28)",
+    "question_ta": "இலைவில் புகுபசிப்பின் முக்கிய இடம் எது? (வ28)",
+    "options_en": [
+      "Vascular bundles",
+      "Stomata",
+      "Mesophyll cells",
+      "Epidermal cells"
+    ],
+    "options_ta": [
+      "நீரோடை தொகுதிகள்",
+      "ஸ்டோமாடா",
+      "மேசோஃபில் செல்கள்",
+      "அதிகரிப்பு செல்கள்"
+    ],
+    "answer_en": "Mesophyll cells",
+    "answer_ta": "மேசோஃபில் செல்கள்"
+  },
+  {
+    "question_en": "Which enzyme unwinds DNA during replication? (Q29)",
+    "question_ta": "பிரதி உருவாக்கத்தில் DNA-ஐ திறக்கும் என்சைம் எது? (வ29)",
+    "options_en": [
+      "Helicase",
+      "Polymerase",
+      "Ligase",
+      "Topoisomerase"
+    ],
+    "options_ta": [
+      "ஹெலிகேஸ்",
+      "பாலிமரேஸ்",
+      "லைக்கேஸ்",
+      "டொபோஇசோமரேஸ்"
+    ],
+    "answer_en": "Helicase",
+    "answer_ta": "ஹெலிகேஸ்"
+  },
+  {
+    "question_en": "What is pleiotropy? (Q30)",
+    "question_ta": "பிளியோட்ரோபி என்றால் என்ன? (வ30)",
+    "options_en": [
+      "Multiple genes influence one trait",
+      "One gene influences multiple traits",
+      "Genes on same chromosome",
+      "Independent assortment"
+    ],
+    "options_ta": [
+      "பல ஜீன்கள் ஒரே பண்பை பாதிக்கின்றன",
+      "ஒரு ஜீன் பல பண்புகளை பாதிக்கிறது",
+      "ஒரே குரோமோசோமில் ஜீன்கள்",
+      "சுயாதீன ஒழுங்கமைப்பு"
+    ],
+    "answer_en": "One gene influences multiple traits",
+    "answer_ta": "ஒரு ஜீன் பல பண்புகளை பாதிக்கிறது"
+  },
+  {
+    "question_en": "Which of following is NOT a root function? (Q31)",
+    "question_ta": "பின்வரும் எந்தம் வேர் பணி அல்ல? (வ31)",
+    "options_en": [
+      "Absorption of water",
+      "Photosynthesis",
+      "Storage",
+      "Anchorage"
+    ],
+    "options_ta": [
+      "நீர் உறிஞ்சுதல்",
+      "புகுபசிப்பு",
+      "சேமிப்பு",
+      "நிறுத்தம்"
+    ],
+    "answer_en": "Photosynthesis",
+    "answer_ta": "புகுபசிப்பு"
+  },
+  {
+    "question_en": "Which method is used for plant tissue culture? (Q32)",
+    "question_ta": "தாவர திசு கலாச்சாரம் எந்த முறையில் செய்யப்படுகிறது? (வ32)",
+    "options_en": [
+      "Cutting",
+      "Grafting",
+      "In vitro culture of explants",
+      "Layering"
+    ],
+    "options_ta": [
+      "கட்டிங்",
+      "கிராப்டிங்",
+      "இன் விசு கலாசாரம்",
+      "லயரிங்"
+    ],
+    "answer_en": "In vitro culture of explants",
+    "answer_ta": "இன் விசு கலாசாரம்"
+  },
+  {
+    "question_en": "Example of mutualism? (Q33)",
+    "question_ta": "உதவிச் சமநிலையின் ஒரு உதாரணம் எது? (வ33)",
+    "options_en": [
+      "Predator-prey",
+      "Parasitism",
+      "Mycorrhiza and plant roots",
+      "Competition"
+    ],
+    "options_ta": [
+      "விலங்கு-வேர்",
+      "பராசைடிசம்",
+      "மைகோரிசா மற்றும் வேர்",
+      "போட்டி"
+    ],
+    "answer_en": "Mycorrhiza and plant roots",
+    "answer_ta": "மைகோரிசா மற்றும் வேர்"
+  },
+  {
+    "question_en": "Which technique separates DNA fragments by size? (Q34)",
+    "question_ta": "DNA துண்டுகளை அளவால் பிரிக்கும் தொழில்நுட்பம் எது? (வ34)",
+    "options_en": [
+      "PCR",
+      "Gel electrophoresis",
+      "Cloning",
+      "Restriction digestion"
+    ],
+    "options_ta": [
+      "PCR",
+      "ஜெல் எலக்ட்ரோபொரிசிஸ்",
+      "கிளோனிங்",
+      "கட்டுபாடு நுகர்வு"
+    ],
+    "answer_en": "Gel electrophoresis",
+    "answer_ta": "ஜெல் எலக்ட்ரோபொரிசிஸ்"
+  },
+  {
+    "question_en": "Process that increases allele frequency by chance? (Q35)",
+    "question_ta": "சான்று மூலம் ஆலில் சதவிகிதம் அதிகரிக்கும் செயல்முறை எது? (வ35)",
+    "options_en": [
+      "Migration",
+      "Genetic drift",
+      "Mutation",
+      "Natural selection"
+    ],
+    "options_ta": [
+      "இடமாற்றம்",
+      "மரபணு சஞ்சலம்",
+      "மியூட்டேஷன்",
+      "இயற்கை தேர்வு"
+    ],
+    "answer_en": "Genetic drift",
+    "answer_ta": "மரபணு சஞ்சலம்"
+  }
+]
