@@ -28,7 +28,7 @@
     * Buttons
     * Instructions
     * Motivational messages
-  * Quiz questions are shown in **both English and Tamil together** (not affected by toggle)
+    * Quiz questions are shown in **both English and Tamil together** (not affected by toggle)
 
 * 📚 **Structured Question Management**
 
@@ -44,20 +44,6 @@
 * 🎞 Framer Motion
 * 🔊 Web Audio API
 * ⚡ Vite
-
-## 📂 Project Structure (Simplified)
-
-```
-src/
- ├─ assets/
- │   └─ questions/
- │       └─ grade{n}/
- │           └─ subject_level.json
- ├─ components/
- ├─ pages/
- ├─ hooks/
- └─ utils/
-```
 
 ## 🎯 Project Goals
 
