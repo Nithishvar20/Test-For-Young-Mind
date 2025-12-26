@@ -1,6 +1,6 @@
-## 🧠 Young-Mind – Interactive Quiz Platform (Final v3)
+## 🧠 Test-For-Young-Mind – Interactive Quiz Platform
 
-**Young-Mind** is a colorful, animated, and student-friendly quiz application designed to make learning engaging through motion, sound, and bilingual support.
+**Test-For-Young-Mind** is a colorful, animated, and student-friendly quiz application designed to make learning engaging through motion, sound, and bilingual support.
 
 ## ✨ Key Features
 
