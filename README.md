@@ -41,9 +41,8 @@
 
 * ⚛️ React
 * 🎨 Tailwind CSS
-* 🎞 Framer Motion
-* 🔊 Web Audio API
 * ⚡ Vite
+* 🗂️ JSON
 
 ## 🎯 Project Goals
 
